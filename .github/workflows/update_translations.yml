@@ -1,0 +1,38 @@
+name: Update Translations
+
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * *' # 9:00 AM in Santiago, Chile (UTC-4)
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    env:
+      MONGODB_URI: ${{ secrets.MONGODB_URI }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Setup mongo tools
+        uses: boly38/action-mongo-tools@stable
+
+      - name: Run update script
+        run: ./update_translations.sh
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          commit-message: "Update translations"
+          title: "Automatic Translation Update"
+          body: "This PR contains the latest translation updates."
+          branch: "update-translations"
