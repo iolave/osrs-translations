@@ -36,3 +36,4 @@ jobs:
           title: "Automatic Translation Update"
           body: "This PR contains the latest translation updates."
           branch: "update-translations"
+          reviewers: "iolave"
