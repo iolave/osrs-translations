@@ -22,7 +22,7 @@ function buildDialoguesQuery() {
 	echo $query
 }
 
-LANGS="spanish portuguese"
+LANGS="spanish portuguese swedish german french italian"
 
 # check if mongosh is installed
 if ! command -v mongosh &> /dev/null
@@ -46,9 +46,15 @@ fi
 
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 
+for lang in $LANGS; do
+	if [ ! -d $SCRIPT_DIR/$lang ]; then
+		mkdir $SCRIPT_DIR/$lang
+	fi
+done
+
 # update dialogues
 for lang in $LANGS; do
-    echo "Updating dialogues translations for $lang"
+	echo "Updating dialogues translations for $lang"
 
 	query=$(buildDialoguesQuery $lang)
 	file=$SCRIPT_DIR/${lang}/dialogue.txt
