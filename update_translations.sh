@@ -22,7 +22,7 @@ function buildDialoguesQuery() {
 	echo $query
 }
 
-LANGS="spanish portuguese swedish german french italian"
+LANGS="finnish french german italian portuguese spanish swedish dutch"
 
 # check if mongosh is installed
 if ! command -v mongosh &> /dev/null
