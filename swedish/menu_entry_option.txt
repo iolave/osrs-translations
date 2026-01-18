@@ -1,0 +1,89 @@
+Follow;Följa
+Sets;Uppsättningar
+Exchange;Utbyta
+History;Historia
+Trade with;Handla med
+Walk here;Gå hit
+Examine;Undersöka
+Talk-to;Prata med
+Bank;Bank
+Lookup;Uppslag
+Cancel;Avboka
+Report;Rapportera
+Collect;Samla
+Prices;Priser
+Drop;Släppa
+Decant;Dekantera
+Use;Använda
+View guide prices;Se vägledande priser
+View <col=ff981f>Farming</col> guide;Se guiden <col=ff981f>Jordbruk</col>
+Wiki;Wiki
+Add to canvas;Lägg till på duk
+View <col=ff981f>Agility</col> guide;Se guiden <col=ff981f>Agility</col>
+View equipment stats;Se utrustningsstatistik
+View <col=ff981f>Herblore</col> guide;Se guiden <col=ff981f>Herblore</col>
+Remove;Ta bort
+View <col=ff981f>Magic</col> guide;Se guiden <col=ff981f>Magic</col>
+View <col=ff981f>Sailing</col> guide;Se guiden <col=ff981f>Segling</col>
+Call follower;Ring följare
+View <col=ff981f>Thieving</col> guide;Se guiden <col=ff981f>Thieving</col>
+View <col=ff981f>Woodcutting</col> guide;Se guiden <col=ff981f>Träskärning</col>
+View <col=ff981f>Construction</col> guide;Se guiden <col=ff981f>Bygg</col>
+View <col=ff981f>Ranged</col> guide;Visa guiden <col=ff981f>Ranged</col>
+View items kept on death;Visa föremål som förvaras vid döden
+View <col=ff981f>Runecraft</col> guide;Se guiden <col=ff981f>Runecraft</col>
+View <col=ff981f>Cooking</col> guide;Se guiden <col=ff981f>Matlagning</col>
+View <col=ff981f>Crafting</col> guide;Se guiden <col=ff981f>Carfting</col>
+View <col=ff981f>Prayer</col> guide;Se guiden <col=ff981f>Bön</col>
+Play;Spela
+Rewards;Belöningar
+Skull;Skalle
+View <col=ff981f>Strength</col> guide;Se guiden <col=ff981f>Styrka</col>
+View <col=ff981f>Defence</col> guide;Se guiden <col=ff981f>Försvar</col>
+View <col=ff981f>Slayer</col> guide;Se guiden <col=ff981f>Slayer</col>
+View <col=ff981f>Hunter</col> guide;Se guiden <col=ff981f>Jägare</col>
+View <col=ff981f>Hitpoints</col> guide;Se guiden <col=ff981f>Träffpunkter</col>
+View <col=ff981f>Fletching</col> guide;Se guiden <col=ff981f>Fletching</col>
+View <col=ff981f>Mining</col> guide;Se guiden <col=ff981f>Gruv</col>
+View <col=ff981f>Attack</col> guide;Se guiden <col=ff981f>Attack</col>
+View <col=ff981f>Smithing</col> guide;Se guiden <col=ff981f>Smithing</col>
+View <col=ff981f>Firemaking</col> guide;Se guiden <col=ff981f>Firemaking</col>
+Read journal:;Läs dagbok:
+Open wiki guide:;Öppna wikiguide:
+Start Helper;Starta Helper
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Desert Journal</col>
+Show on map:;Visa på kartan:
+Start Quest Helper;Starta Quest Helper
+Open wiki quick guide:;Öppna wiki snabbguide:
+Open <col=ff9040>Desert Journal</col>;Öppna <col=ff9040>Desert Journal</col>
+Open <col=ff9040>Ardougne Journal</col>;Öppna <col=ff9040>Ardougne Journal</col>
+Collection Overview;Samlingsöversikt
+Tasks;Uppgifter
+Achievement Diaries;Prestationsdagböcker
+Bosses;Chefer
+Overview;Översikt
+Collection Log;Insamlingslogg
+Reveal;Avslöja
+Activate;Aktivera
+View;Se
+Cast;Kasta
+Setup;Inställning
+Join;Ansluta sig till
+Grouping;Gruppering
+View another clan;Se en annan klan
+Configure;Konfigurera
+Grand Exchange;Grand Exchange
+Your Clan;Din klan
+Random;Slumpmässig
+Toggle;Växla
+Manual;Manuell
+Auto retaliate;Automatisk vedergällning
+Block;Blockera
+Settings;Inställningar
+Punch;Stansa
+Kick;Sparka
+Unlock hint;Lås upp tips
+I don't know it.;Jag vet det inte.
+Exit;Utgång
+Select;Välja

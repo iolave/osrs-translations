@@ -1,0 +1,89 @@
+Follow;Suivre
+Sets;Ensembles
+Exchange;Échange
+History;Histoire
+Trade with;Commercer avec
+Walk here;Marchez ici
+Examine;Examiner
+Talk-to;Parler à
+Bank;Banque
+Lookup;Chercher
+Cancel;Annuler
+Report;Rapport
+Collect;Collecter
+Prices;Tarifs
+Drop;Baisse
+Decant;Décanter
+Use;Utiliser
+View guide prices;Voir les prix indicatifs
+View <col=ff981f>Farming</col> guide;Voir le <col=ff981f>guide agricole</col>
+Wiki;Wiki
+Add to canvas;Ajouter à la toile
+View <col=ff981f>Agility</col> guide;Voir le guide <col=ff981f>Agilité</col>
+View equipment stats;Afficher les statistiques de l'équipement
+View <col=ff981f>Herblore</col> guide;Voir le guide <col=ff981f>Herboristerie</col>
+Remove;Retirer
+View <col=ff981f>Magic</col> guide;Voir le guide <col=ff981f>Magie</col>
+View <col=ff981f>Sailing</col> guide;Voir le <col=ff981f>Guide de voile</col>
+Call follower;Suiveur d'appel
+View <col=ff981f>Thieving</col> guide;Voir le guide <col=ff981f>Vol</col>
+View <col=ff981f>Woodcutting</col> guide;Voir le guide <col=ff981f>sur la coupe du bois</col>
+View <col=ff981f>Construction</col> guide;Voir le guide <col=ff981f>Construction</col>
+View <col=ff981f>Ranged</col> guide;Voir le guide <col=ff981f>À distance</col>
+View items kept on death;Afficher les objets conservés au décès
+View <col=ff981f>Runecraft</col> guide;Voir le guide <col=ff981f>Runecraft</col>
+View <col=ff981f>Cooking</col> guide;Afficher le <col=ff981f>guide de cuisine</col>
+View <col=ff981f>Crafting</col> guide;Voir le <col=ff981f>guide de fabrication</col>
+View <col=ff981f>Prayer</col> guide;Voir le <col=ff981f>guide de prière</col>
+Play;Jouer
+Rewards;Récompenses
+Skull;Crâne
+View <col=ff981f>Strength</col> guide;Voir le guide <col=ff981f>Force</col>
+View <col=ff981f>Defence</col> guide;Voir le guide <col=ff981f>Défense</col>
+View <col=ff981f>Slayer</col> guide;Voir le guide <col=ff981f>Slayer</col>
+View <col=ff981f>Hunter</col> guide;Voir le guide du <col=ff981f>Chasseur</col>
+View <col=ff981f>Hitpoints</col> guide;Voir le guide des <col=ff981f>Points de repère</col>
+View <col=ff981f>Fletching</col> guide;Voir le guide <col=ff981f>Empennage</col>
+View <col=ff981f>Mining</col> guide;Voir le guide du <col=ff981f>Exploitation minière</col>
+View <col=ff981f>Attack</col> guide;Voir le guide <col=ff981f>Attaque</col>
+View <col=ff981f>Smithing</col> guide;Voir le guide <col=ff981f>Forgeron</col>
+View <col=ff981f>Firemaking</col> guide;Voir le guide <col=ff981f>Faire du feu</col>
+Read journal:;Lire le journal :
+Open wiki guide:;Ouvrir le guide wiki :
+Start Helper;Assistant de démarrage
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Journal Ardougne</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Journal du Désert</col>
+Show on map:;Afficher sur la carte :
+Start Quest Helper;Démarrer l'assistant de quête
+Open wiki quick guide:;Ouvrir le guide rapide du wiki :
+Open <col=ff9040>Desert Journal</col>;Ouvrir le <col=ff9040>Journal du désert</col>
+Open <col=ff9040>Ardougne Journal</col>;Ouvrir le <col=ff9040>Journal Ardougne</col>
+Collection Overview;Aperçu de la collection
+Tasks;Tâches
+Achievement Diaries;Journaux de réussite
+Bosses;Patrons
+Overview;Aperçu
+Collection Log;Journal de collecte
+Reveal;Révéler
+Activate;Activer
+View;Voir
+Cast;Casting
+Setup;Installation
+Join;Rejoindre
+Grouping;Regroupement
+View another clan;Voir un autre clan
+Configure;Configurer
+Grand Exchange;Grand Bourse
+Your Clan;Votre clan
+Random;Aléatoire
+Toggle;Basculer
+Manual;Manuel
+Auto retaliate;Riposte automatique
+Block;Bloc
+Settings;Paramètres
+Punch;Punch
+Kick;Coup
+Unlock hint;Indice de déverrouillage
+I don't know it.;Je ne le sais pas.
+Exit;Sortie
+Select;Sélectionner

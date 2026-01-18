@@ -1,0 +1,89 @@
+Follow;Volgen
+Sets;Stelt in
+Exchange;Aandelenbeurs
+History;Geschiedenis
+Trade with;Handel mee
+Walk here;Loop hier
+Examine;Onderzoeken
+Talk-to;Praat mee
+Bank;Bank
+Lookup;Opzoeken
+Cancel;Annuleren
+Report;Rapport
+Collect;Verzamelen
+Prices;Prijzen
+Drop;Druppel
+Decant;Decanteren
+Use;Gebruik
+View guide prices;Bekijk richtprijzen
+View <col=ff981f>Farming</col> guide;Bekijk de gids <col=ff981f>Boeren</col>
+Wiki;Wiki
+Add to canvas;Toevoegen aan canvas
+View <col=ff981f>Agility</col> guide;Bekijk de <col=ff981f>Agility</col>-gids
+View equipment stats;Bekijk uitrustingsstatistieken
+View <col=ff981f>Herblore</col> guide;Bekijk de <col=ff981f>Herblore</col>-gids
+Remove;Verwijderen
+View <col=ff981f>Magic</col> guide;Bekijk de <col=ff981f>Magische</col>-gids
+View <col=ff981f>Sailing</col> guide;Bekijk de <col=ff981f>Zeilgids</col>
+Call follower;Bel volger
+View <col=ff981f>Thieving</col> guide;Bekijk de <col=ff981f>Thieving</col>-gids
+View <col=ff981f>Woodcutting</col> guide;Bekijk de gids <col=ff981f>Houtsnijden</col>
+View <col=ff981f>Construction</col> guide;Bekijk de <col=ff981f>Bouw</col> handleiding
+View <col=ff981f>Ranged</col> guide;Bekijk de <col=ff981f>Ranged</col>-gids
+View items kept on death;Bekijk items die bij overlijden worden bewaard
+View <col=ff981f>Runecraft</col> guide;Bekijk de <col=ff981f>Runecraft</col>-gids
+View <col=ff981f>Cooking</col> guide;Bekijk de <col=ff981f>Kookgids</col>
+View <col=ff981f>Crafting</col> guide;Bekijk de <col=ff981f>Crafting</col>-gids
+View <col=ff981f>Prayer</col> guide;Bekijk de gids <col=ff981f>Gebeden</col>
+Play;Toneelstuk
+Rewards;Beloningen
+Skull;Schedel
+View <col=ff981f>Strength</col> guide;Bekijk de <col=ff981f>Kracht</col>-gids
+View <col=ff981f>Defence</col> guide;Bekijk de gids <col=ff981f>Verdediging</col>
+View <col=ff981f>Slayer</col> guide;Bekijk de <col=ff981f>Slayer</col>-gids
+View <col=ff981f>Hunter</col> guide;Bekijk de <col=ff981f>Hunter</col>-gids
+View <col=ff981f>Hitpoints</col> guide;Bekijk de <col=ff981f>Hitpoints</col>-gids
+View <col=ff981f>Fletching</col> guide;Bekijk de <col=ff981f>Fletching</col>-gids
+View <col=ff981f>Mining</col> guide;Bekijk de gids voor <col=ff981f>Mijnbouw</col>
+View <col=ff981f>Attack</col> guide;Bekijk de <col=ff981f>Aanval</col>-gids
+View <col=ff981f>Smithing</col> guide;Bekijk de <col=ff981f>Smiding</col>-gids
+View <col=ff981f>Firemaking</col> guide;Bekijk de <col=ff981f>Vuurmaken</col> handleiding
+Read journal:;Journaal lezen:
+Open wiki guide:;Wikigids openen:
+Start Helper;Helper starten
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Woestijnjournaal</col>
+Show on map:;Toon op kaart:
+Start Quest Helper;Zoektochthelper starten
+Open wiki quick guide:;Wiki-korte handleiding openen:
+Open <col=ff9040>Desert Journal</col>;Open <col=ff9040>Woestijnjournaal</col>
+Open <col=ff9040>Ardougne Journal</col>;Open <col=ff9040>Ardougne Journal</col>
+Collection Overview;Collectieoverzicht
+Tasks;Taken
+Achievement Diaries;Prestatiedagboeken
+Bosses;Bazen
+Overview;Overzicht
+Collection Log;Verzamellogboek
+Reveal;Onthullen
+Activate;Activeren
+View;Weergave
+Cast;Vorm
+Setup;Installatie
+Join;Meedoen
+Grouping;Groepering
+View another clan;Bekijk een andere clan
+Configure;Configureer
+Grand Exchange;Grote Beurs
+Your Clan;Jouw clan
+Random;Willekeurig
+Toggle;Schakelaar
+Manual;Handmatig
+Auto retaliate;Automatische vergelding
+Block;Blok
+Settings;Instellingen
+Punch;Pons
+Kick;Trap
+Unlock hint;Ontgrendel hint
+I don't know it.;Ik weet het niet.
+Exit;Uitgang
+Select;Selecteer

@@ -1,0 +1,89 @@
+Follow;Seguir
+Sets;Conjuntos
+Exchange;Intercâmbio
+History;História
+Trade with;Negocie com
+Walk here;Caminhe aqui
+Examine;Examinar
+Talk-to;Fale com
+Bank;Banco
+Lookup;Pesquisa
+Cancel;Cancelar
+Report;Relatório
+Collect;Coletar
+Prices;Preços
+Drop;Derrubar
+Decant;Decantar
+Use;Usar
+View guide prices;Ver preços de guia
+View <col=ff981f>Farming</col> guide;Veja o guia <col=ff981f>Agricultura</col>
+Wiki;Wikipédia
+Add to canvas;Adicionar à tela
+View <col=ff981f>Agility</col> guide;Veja o guia de <col=ff981f>Agilidade</col>
+View equipment stats;Ver estatísticas do equipamento
+View <col=ff981f>Herblore</col> guide;Veja o guia de <col=ff981f>Herblore</col>
+Remove;Remover
+View <col=ff981f>Magic</col> guide;Veja o guia <col=ff981f>Mágica</col>
+View <col=ff981f>Sailing</col> guide;Veja o guia de <col=ff981f>Vela</col>
+Call follower;Chamar seguidor
+View <col=ff981f>Thieving</col> guide;Veja o guia de <col=ff981f>roubo</col>
+View <col=ff981f>Woodcutting</col> guide;Veja o guia de <col=ff981f>corte de madeira</col>
+View <col=ff981f>Construction</col> guide;Veja o guia de <col=ff981f>Construção</col>
+View <col=ff981f>Ranged</col> guide;Veja o guia de <col=ff981f>alcance</col>
+View items kept on death;Ver itens mantidos após a morte
+View <col=ff981f>Runecraft</col> guide;Veja o guia do <col=ff981f>Runecraft</col>
+View <col=ff981f>Cooking</col> guide;Veja o guia de <col=ff981f>culinária</col>
+View <col=ff981f>Crafting</col> guide;Veja o guia de <col=ff981f>Artesanato</col>
+View <col=ff981f>Prayer</col> guide;Veja o guia de <col=ff981f>oração</col>
+Play;Jogar
+Rewards;Recompensas
+Skull;Crânio
+View <col=ff981f>Strength</col> guide;Veja o guia de <col=ff981f>Força</col>
+View <col=ff981f>Defence</col> guide;Veja o guia de <col=ff981f>Defesa</col>
+View <col=ff981f>Slayer</col> guide;Veja o guia do <col=ff981f>Slayer</col>
+View <col=ff981f>Hunter</col> guide;Veja o guia do <col=ff981f>Hunter</col>
+View <col=ff981f>Hitpoints</col> guide;Veja o guia de <col=ff981f>pontos de vida</col>
+View <col=ff981f>Fletching</col> guide;Veja o guia de <col=ff981f>Fletching</col>
+View <col=ff981f>Mining</col> guide;Veja o guia de <col=ff981f>Mineração</col>
+View <col=ff981f>Attack</col> guide;Veja o guia de <col=ff981f>Ataque</col>
+View <col=ff981f>Smithing</col> guide;Veja o guia de <col=ff981f>Ferraria</col>
+View <col=ff981f>Firemaking</col> guide;Veja o guia de <col=ff981f>Fazendo Fogo</col>
+Read journal:;Leia o diário:
+Open wiki guide:;Abra o guia wiki:
+Start Helper;Iniciar ajudante
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Diário de Ardonha</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Diário do Deserto</col>
+Show on map:;Mostrar no mapa:
+Start Quest Helper;Iniciar ajudante de missão
+Open wiki quick guide:;Abra o guia rápido do wiki:
+Open <col=ff9040>Desert Journal</col>;Abra o <col=ff9040>Diário do Deserto</col>
+Open <col=ff9040>Ardougne Journal</col>;Abra o <col=ff9040>Diário de Ardonha</col>
+Collection Overview;Visão geral da coleção
+Tasks;Tarefas
+Achievement Diaries;Diários de conquistas
+Bosses;Chefes
+Overview;Visão geral
+Collection Log;Registro de coleta
+Reveal;Revelar
+Activate;Ativar
+View;Visualizar
+Cast;Elenco
+Setup;Configurar
+Join;Juntar
+Grouping;Agrupamento
+View another clan;Ver outro clã
+Configure;Configurar
+Grand Exchange;Mercado Geral
+Your Clan;Seu clã
+Random;Aleatório
+Toggle;Alternar
+Manual;Manual
+Auto retaliate;Retaliação automática
+Block;Bloquear
+Settings;Configurações
+Punch;Soco
+Kick;Chute
+Unlock hint;Dica de desbloqueio
+I don't know it.;Eu não sei.
+Exit;Saída
+Select;Selecione

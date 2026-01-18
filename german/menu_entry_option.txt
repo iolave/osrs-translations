@@ -1,0 +1,89 @@
+Follow;Folgen
+Sets;Sets
+Exchange;Austausch
+History;Geschichte
+Trade with;Handeln Sie mit
+Walk here;Gehen Sie hierher
+Examine;Prüfen
+Talk-to;Reden
+Bank;Bank
+Lookup;Nachschlagen
+Cancel;Stornieren
+Report;Bericht
+Collect;Sammeln
+Prices;Preise
+Drop;Fallen
+Decant;Dekantieren
+Use;Verwenden
+View guide prices;Richtpreise ansehen
+View <col=ff981f>Farming</col> guide;Sehen Sie sich den Leitfaden <col=ff981f>Landwirtschaft</col> an
+Wiki;Wiki
+Add to canvas;Zur Leinwand hinzufügen
+View <col=ff981f>Agility</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Agilität</col> an
+View equipment stats;Ausrüstungsstatistiken anzeigen
+View <col=ff981f>Herblore</col> guide;Sehen Sie sich den <col=ff981f>Herblore</col>-Leitfaden an
+Remove;Entfernen
+View <col=ff981f>Magic</col> guide;Sehen Sie sich den <col=ff981f>Magic</col>-Leitfaden an
+View <col=ff981f>Sailing</col> guide;Sehen Sie sich den <col=ff981f>Segelführer</col> an
+Call follower;Follower anrufen
+View <col=ff981f>Thieving</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Diebstahl</col> an
+View <col=ff981f>Woodcutting</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Holzschneiden</col> an
+View <col=ff981f>Construction</col> guide;<col=ff981f>Bauanleitung</col> ansehen
+View <col=ff981f>Ranged</col> guide;<col=ff981f>Fernkampf</col>-Leitfaden ansehen
+View items kept on death;Sehen Sie sich Gegenstände an, die beim Sterben aufbewahrt werden
+View <col=ff981f>Runecraft</col> guide;Sehen Sie sich den <col=ff981f>Runecraft</col>-Leitfaden an
+View <col=ff981f>Cooking</col> guide;Anleitung zum <col=ff981f>Kochen</col> ansehen
+View <col=ff981f>Crafting</col> guide;<col=ff981f>Bastelanleitung</col> ansehen
+View <col=ff981f>Prayer</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Gebet</col> an
+Play;Spielen
+Rewards;Belohnungen
+Skull;Schädel
+View <col=ff981f>Strength</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Stärke</col> an
+View <col=ff981f>Defence</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Verteidigung</col> an
+View <col=ff981f>Slayer</col> guide;<col=ff981f>Slayer</col>-Anleitung ansehen
+View <col=ff981f>Hunter</col> guide;<col=ff981f>Hunter</col>-Leitfaden ansehen
+View <col=ff981f>Hitpoints</col> guide;Sehen Sie sich den <col=ff981f>Hitpoints</col>-Leitfaden an
+View <col=ff981f>Fletching</col> guide;Anleitung zum <col=ff981f>Befiederung</col> ansehen
+View <col=ff981f>Mining</col> guide;<col=ff981f>Mining</col>-Leitfaden ansehen
+View <col=ff981f>Attack</col> guide;Anleitung zum <col=ff981f>Angriff</col> ansehen
+View <col=ff981f>Smithing</col> guide;<col=ff981f>Schmiede</col>-Anleitung ansehen
+View <col=ff981f>Firemaking</col> guide;Sehen Sie sich den Leitfaden <col=ff981f>Feuermachen</col> an
+Read journal:;Tagebuch lesen:
+Open wiki guide:;Wiki-Anleitung öffnen:
+Start Helper;Helfer starten
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Wüstentagebuch</col>
+Show on map:;Auf der Karte anzeigen:
+Start Quest Helper;Starten Sie den Quest-Helfer
+Open wiki quick guide:;Wiki-Kurzanleitung öffnen:
+Open <col=ff9040>Desert Journal</col>;Öffnen Sie <col=ff9040>Wüstenjournal</col>
+Open <col=ff9040>Ardougne Journal</col>;Öffnen Sie das <col=ff9040>Ardougne Journal</col>
+Collection Overview;Sammlungsübersicht
+Tasks;Aufgaben
+Achievement Diaries;Erfolgstagebücher
+Bosses;Bosse
+Overview;Überblick
+Collection Log;Sammlungsprotokoll
+Reveal;Aufdecken
+Activate;Aktivieren
+View;Sicht
+Cast;Gießen
+Setup;Aufstellen
+Join;Verbinden
+Grouping;Gruppierung
+View another clan;Sehen Sie sich einen anderen Clan an
+Configure;Konfigurieren
+Grand Exchange;Großer Austausch
+Your Clan;Dein Clan
+Random;Zufällig
+Toggle;Umschalten
+Manual;Handbuch
+Auto retaliate;Automatische Vergeltung
+Block;Block
+Settings;Einstellungen
+Punch;Stempel
+Kick;Kick
+Unlock hint;Hinweis zum Entsperren
+I don't know it.;Ich weiß es nicht.
+Exit;Ausfahrt
+Select;Wählen

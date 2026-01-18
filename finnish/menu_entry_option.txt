@@ -1,0 +1,89 @@
+Follow;Seuraa
+Sets;Sarjat
+Exchange;Vaihtaa
+History;Historia
+Trade with;Kauppa kanssa
+Walk here;Kävele täällä
+Examine;Tutki
+Talk-to;Keskustele
+Bank;Pankki
+Lookup;Haku
+Cancel;Peruuttaa
+Report;Raportoi
+Collect;Kerätä
+Prices;hinnat
+Drop;Pudota
+Decant;Dekantoi
+Use;Käyttää
+View guide prices;Katso ohjehinnat
+View <col=ff981f>Farming</col> guide;Katso <col=ff981f>Maatalous</col>-opas
+Wiki;Wiki
+Add to canvas;Lisää kankaalle
+View <col=ff981f>Agility</col> guide;Katso <col=ff981f>Agility</col>-opas
+View equipment stats;Katso varustetilastot
+View <col=ff981f>Herblore</col> guide;Katso <col=ff981f>Herblore</col>-opas
+Remove;Poistaa
+View <col=ff981f>Magic</col> guide;Katso <col=ff981f>Magic</col>-opas
+View <col=ff981f>Sailing</col> guide;Katso <col=ff981f>Purjehdus</col>-opas
+Call follower;Soita seuraajalle
+View <col=ff981f>Thieving</col> guide;Katso <col=ff981f>Thieving</col> -opas
+View <col=ff981f>Woodcutting</col> guide;Katso <col=ff981f>Puunleikkaus</col>-opas
+View <col=ff981f>Construction</col> guide;Katso <col=ff981f>Rakennusopas</col>
+View <col=ff981f>Ranged</col> guide;Katso <col=ff981f>Etäisyys</col>-opas
+View items kept on death;Katso kuolemantapauksessa säilytetyt tavarat
+View <col=ff981f>Runecraft</col> guide;Katso <col=ff981f>Runecraft</col>-opas
+View <col=ff981f>Cooking</col> guide;Katso <col=ff981f>Ruoanlaitto</col>-opas
+View <col=ff981f>Crafting</col> guide;Katso <col=ff981f>käsityön</col>-opas
+View <col=ff981f>Prayer</col> guide;Katso <col=ff981f>Rukous</col>-opas
+Play;Pelata
+Rewards;Palkinnot
+Skull;Kallo
+View <col=ff981f>Strength</col> guide;Katso <col=ff981f>voimakkuus</col>-opas
+View <col=ff981f>Defence</col> guide;Katso <col=ff981f>Puolustus</col>-opas
+View <col=ff981f>Slayer</col> guide;Katso <col=ff981f>Slayer</col> -opas
+View <col=ff981f>Hunter</col> guide;Katso <col=ff981f>Hunter</col> -opas
+View <col=ff981f>Hitpoints</col> guide;Katso <col=ff981f>Hitpoints</col>-opas
+View <col=ff981f>Fletching</col> guide;Katso <col=ff981f>Fletching</col> -opas
+View <col=ff981f>Mining</col> guide;Katso <col=ff981f>Louhinta</col>-opas
+View <col=ff981f>Attack</col> guide;Katso <col=ff981f>Attack</col> -opas
+View <col=ff981f>Smithing</col> guide;Katso <col=ff981f>Smithingin</col>-opas
+View <col=ff981f>Firemaking</col> guide;Katso <col=ff981f>Tulonteko</col>-opas
+Read journal:;Lue päiväkirja:
+Open wiki guide:;Avaa wikiopas:
+Start Helper;Käynnistä Helper
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Desert Journal</col>
+Show on map:;Näytä kartalla:
+Start Quest Helper;Käynnistä Quest Helper
+Open wiki quick guide:;Avaa wikin pikaopas:
+Open <col=ff9040>Desert Journal</col>;Avaa <col=ff9040>Desert Journal</col>
+Open <col=ff9040>Ardougne Journal</col>;Avaa <col=ff9040>Ardougne Journal</col>
+Collection Overview;Kokoelman yleiskatsaus
+Tasks;Tehtävät
+Achievement Diaries;Saavutuspäiväkirjat
+Bosses;Pomot
+Overview;Yleiskatsaus
+Collection Log;Keräysloki
+Reveal;Paljastaa
+Activate;Aktivoida
+View;Näytä
+Cast;Heittää
+Setup;Asennus
+Join;Liity
+Grouping;Ryhmittely
+View another clan;Katso toinen klaani
+Configure;Määritä
+Grand Exchange;Suuri vaihto
+Your Clan;Sinun klaanisi
+Random;Satunnainen
+Toggle;Vaihda
+Manual;Manuaalinen
+Auto retaliate;Automaattinen kosto
+Block;Lohko
+Settings;Asetukset
+Punch;Booli
+Kick;Potkia
+Unlock hint;Avausvihje
+I don't know it.;En tiedä sitä.
+Exit;Poistu
+Select;Valitse

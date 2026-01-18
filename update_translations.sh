@@ -1,11 +1,12 @@
 #!/bin/bash
 set -e
 
-function buildDialoguesQuery() {
+function buildQuery() {
 	query='db.dialogues.aggregate([
 		{
 			"$match": {
 				"$and": [
+					{"type":"'$2'"},
 					{"translations.'$1'":{$exists:true}},
 					{"translations.'$1'":{$not:{$eq:""}}}
 				]
@@ -23,6 +24,7 @@ function buildDialoguesQuery() {
 }
 
 LANGS="finnish french german italian portuguese spanish swedish dutch"
+FILES="dialogue menu_entry_option"
 
 # check if mongosh is installed
 if ! command -v mongosh &> /dev/null
@@ -52,12 +54,14 @@ for lang in $LANGS; do
 	fi
 done
 
-# update dialogues
+# update files
 for lang in $LANGS; do
-	echo "Updating dialogues translations for $lang"
+	for file in $FILES; do
+		echo "Updating $file translations for $lang"
 
-	query=$(buildDialoguesQuery $lang)
-	file=$SCRIPT_DIR/${lang}/dialogue.txt
-	echo "Saving to $file"
-	mongosh $MONGODB_URI --eval "$query" > $file
+		query=$(buildQuery $lang $file)
+		file=${SCRIPT_DIR}/${lang}/${file}.txt
+		echo "Saving to ${file}"
+		mongosh $MONGODB_URI --eval "$query" > $file
+	done
 done
