@@ -87,3 +87,21 @@ Unlock hint;Lås upp tips
 I don't know it.;Jag vet det inte.
 Exit;Utgång
 Select;Välja
+View Inbox;Visa inkorg
+Skills;Färdigheter
+View <col=ff981f>Fishing</col> guide;Se guiden <col=ff981f>Fiske</col>
+Combat Options;Stridsalternativ
+Enable spell filtering;Aktivera stavningsfiltrering
+Disable prayer filtering;Inaktivera bönefiltrering
+Worn Equipment;Sliten utrustning
+Character Summary;Karaktärssammanfattning
+Enable spell reordering;Aktivera omordning av stavning
+Enable prayer reordering;Aktivera omordning av bön
+Quest List;Uppdragslista
+Magic;Magi
+Prayer;Bön
+Show;Visa
+Open Store;Öppna butik
+Deposit;Deposition
+Loot;Plundra
+Destroy;Förstöra

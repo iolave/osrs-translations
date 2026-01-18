@@ -87,3 +87,21 @@ Unlock hint;Hinweis zum Entsperren
 I don't know it.;Ich weiß es nicht.
 Exit;Ausfahrt
 Select;Wählen
+View Inbox;Posteingang anzeigen
+Skills;Fähigkeiten
+View <col=ff981f>Fishing</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Angeln</col> an
+Combat Options;Kampfoptionen
+Enable spell filtering;Aktivieren Sie die Zauberfilterung
+Disable prayer filtering;Deaktivieren Sie die Gebetsfilterung
+Worn Equipment;Abgenutzte Ausrüstung
+Character Summary;Charakterzusammenfassung
+Enable spell reordering;Aktivieren Sie die Neuordnung von Zaubersprüchen
+Enable prayer reordering;Aktivieren Sie die Neuordnung der Gebete
+Quest List;Questliste
+Magic;Magie
+Prayer;Gebet
+Show;Zeigen
+Open Store;Store öffnen
+Deposit;Kaution
+Loot;Beute
+Destroy;Zerstören

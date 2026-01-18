@@ -1,28 +1,28 @@
 Follow;Seguir
 Sets;Conjuntos
-Exchange;Intercambio
+Exchange;Intercambiar
 History;Historia
 Trade with;Comerciar con
-Walk here;camina aquí
+Walk here;Caminar aquí
 Examine;Examinar
-Talk-to;hablar con
-Bank;Banco
+Talk-to;Hablar con
+Bank;Banquear
 Lookup;Buscar
 Cancel;Cancelar
-Report;Informe
+Report;Reportar
 Collect;Recolectar
 Prices;Precios
-Drop;Gota
+Drop;Botar
 Decant;Decantar
 Use;Usar
-View guide prices;Ver precios guía
+View guide prices;Ver guía de precios
 View <col=ff981f>Farming</col> guide;Ver guía de <col=ff981f>Agricultura</col>
 Wiki;wiki
 Add to canvas;Añadir al lienzo
 View <col=ff981f>Agility</col> guide;Ver guía de <col=ff981f>Agilidad</col>
 View equipment stats;Ver estadísticas de equipos
 View <col=ff981f>Herblore</col> guide;Ver guía de <col=ff981f>Herblore</col>
-Remove;Eliminar
+Remove;Remover
 View <col=ff981f>Magic</col> guide;Ver guía <col=ff981f>Magic</col>
 View <col=ff981f>Sailing</col> guide;Ver guía de <col=ff981f>Navegación</col>
 Call follower;Llamar seguidor
@@ -67,7 +67,7 @@ Collection Log;Registro de colección
 Reveal;Revelar
 Activate;Activar
 View;Vista
-Cast;Elenco
+Cast;Lanzar hechizo
 Setup;Configuración
 Join;Unirse
 Grouping;Agrupamiento
@@ -83,7 +83,25 @@ Block;Bloquear
 Settings;Ajustes
 Punch;Puñetazo
 Kick;Patada
-Unlock hint;pista de desbloqueo
+Unlock hint;Pista de desbloqueo
 I don't know it.;No lo sé.
 Exit;Salida
 Select;Seleccionar
+View Inbox;Ver bandeja de entrada
+Skills;Habilidades
+View <col=ff981f>Fishing</col> guide;Ver guía de <col=ff981f>Pesca</col>
+Combat Options;Opciones de combate
+Enable spell filtering;Habilitar el filtrado de hechizos
+Disable prayer filtering;Desactivar el filtrado de oraciones
+Worn Equipment;Equipamiento puesto
+Character Summary;Resumen de personajes
+Enable spell reordering;Habilitar reordenamiento de hechizos
+Enable prayer reordering;Habilitar el reordenamiento de oraciones
+Quest List;Lista de misiones
+Magic;Magia
+Prayer;Oración
+Show;Espectáculo
+Open Store;Abrir tienda
+Deposit;Depósito
+Loot;Botín
+Destroy;Destruir

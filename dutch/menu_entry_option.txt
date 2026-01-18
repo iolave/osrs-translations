@@ -87,3 +87,21 @@ Unlock hint;Ontgrendel hint
 I don't know it.;Ik weet het niet.
 Exit;Uitgang
 Select;Selecteer
+View Inbox;Bekijk Postvak IN
+Skills;Vaardigheden
+View <col=ff981f>Fishing</col> guide;Bekijk de <col=ff981f>Visserij</col> gids
+Combat Options;Gevechtsopties
+Enable spell filtering;Schakel spellingfiltering in
+Disable prayer filtering;Schakel gebedsfiltering uit
+Worn Equipment;Versleten uitrusting
+Character Summary;Karaktersamenvatting
+Enable spell reordering;Schakel het opnieuw ordenen van spellingen in
+Enable prayer reordering;Schakel het opnieuw ordenen van gebeden in
+Quest List;Questlijst
+Magic;Magie
+Prayer;Gebed
+Show;Show
+Open Store;Winkel openen
+Deposit;Borg
+Loot;Buit
+Destroy;Vernietigen

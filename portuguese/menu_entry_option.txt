@@ -87,3 +87,21 @@ Unlock hint;Dica de desbloqueio
 I don't know it.;Eu não sei.
 Exit;Saída
 Select;Selecione
+View Inbox;Ver caixa de entrada
+Skills;Habilidades
+View <col=ff981f>Fishing</col> guide;Veja o guia de <col=ff981f>pesca</col>
+Combat Options;Opções de Combate
+Enable spell filtering;Ativar filtragem ortográfica
+Disable prayer filtering;Desativar filtragem de oração
+Worn Equipment;Equipamento Desgastado
+Character Summary;Resumo do personagem
+Enable spell reordering;Ativar reordenação ortográfica
+Enable prayer reordering;Ativar reordenação de oração
+Quest List;Lista de Missões
+Magic;Magia
+Prayer;Oração
+Show;Mostrar
+Open Store;Loja aberta
+Deposit;Depósito
+Loot;Saque
+Destroy;Destruir

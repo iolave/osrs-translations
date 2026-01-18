@@ -87,3 +87,21 @@ Unlock hint;Indice de déverrouillage
 I don't know it.;Je ne le sais pas.
 Exit;Sortie
 Select;Sélectionner
+View Inbox;Afficher la boîte de réception
+Skills;Compétences
+View <col=ff981f>Fishing</col> guide;Voir le guide <col=ff981f>Pêche</col>
+Combat Options;Options de combat
+Enable spell filtering;Activer le filtrage orthographique
+Disable prayer filtering;Désactiver le filtrage des prières
+Worn Equipment;Équipement usé
+Character Summary;Résumé du personnage
+Enable spell reordering;Activer la réorganisation des sorts
+Enable prayer reordering;Activer la réorganisation des prières
+Quest List;Liste des quêtes
+Magic;Magie
+Prayer;Prière
+Show;Montrer
+Open Store;Ouvrir le magasin
+Deposit;Dépôt
+Loot;Butin
+Destroy;Détruire

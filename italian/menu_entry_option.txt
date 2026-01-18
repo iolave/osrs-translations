@@ -87,3 +87,21 @@ Unlock hint;Suggerimento per sbloccare
 I don't know it.;Non lo so.
 Exit;Uscita
 Select;Selezionare
+View Inbox;Visualizza posta in arrivo
+Skills;Competenze
+View <col=ff981f>Fishing</col> guide;Visualizza la guida alla <col=ff981f>Pesca</col>
+Combat Options;Opzioni di combattimento
+Enable spell filtering;Abilita il filtro ortografico
+Disable prayer filtering;Disabilita il filtraggio delle preghiere
+Worn Equipment;Attrezzatura usurata
+Character Summary;Riepilogo dei personaggi
+Enable spell reordering;Abilita il riordino degli incantesimi
+Enable prayer reordering;Abilita il riordino delle preghiere
+Quest List;Elenco delle missioni
+Magic;Magia
+Prayer;Preghiera
+Show;Spettacolo
+Open Store;Negozio aperto
+Deposit;Depositare
+Loot;Bottino
+Destroy;Distruggere

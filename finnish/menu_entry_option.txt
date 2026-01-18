@@ -87,3 +87,21 @@ Unlock hint;Avausvihje
 I don't know it.;En tiedä sitä.
 Exit;Poistu
 Select;Valitse
+View Inbox;Näytä Saapuneet
+Skills;Taidot
+View <col=ff981f>Fishing</col> guide;Katso <col=ff981f>Kalastus</col>-opas
+Combat Options;Taisteluvaihtoehdot
+Enable spell filtering;Ota oikeinkirjoituksen suodatus käyttöön
+Disable prayer filtering;Poista rukoussuodatus käytöstä
+Worn Equipment;Kuluneet laitteet
+Character Summary;Hahmon yhteenveto
+Enable spell reordering;Ota oikeinkirjoituksen uudelleenjärjestäminen käyttöön
+Enable prayer reordering;Ota rukouksen uudelleenjärjestäminen käyttöön
+Quest List;Tehtävälista
+Magic;Taika
+Prayer;Rukous
+Show;Show
+Open Store;Avaa Store
+Deposit;Tallettaa
+Loot;Ryöstää
+Destroy;Tuhota
