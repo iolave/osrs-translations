@@ -1193,3 +1193,555 @@ Blue headband;Fascia blu
 Blue icon;Icona blu
 Blue liquid;Liquido blu
 Blue logs;Registri blu
+Blue marionette;Marionetta blu
+Blue monkey;Scimmia blu
+Blue naval shirt;Camicia navale blu
+Blue navy slacks;Pantaloni blu navy
+Blue partyhat;Cappello da festa blu
+Blue rainbow strand;Filo arcobaleno blu
+Blue robe bottoms;Pantaloni blu della vestaglia
+Blue robe top;Top in vestaglia blu
+Blue skirt;Gonna blu
+Blue skirt (g);Gonna blu (g)
+Blue skirt (t);Gonna blu (t)
+Blue spiky vambraces;Parabraccia appuntiti blu
+Blue sweets;Dolci blu
+Blue thread;Filo blu
+Blue toad;Rospo blu
+Blue tricorn hat;Cappello tricorno blu
+Blue wizard hat;Cappello da mago blu
+Blue wizard hat (g);Cappello da mago blu (g)
+Blue wizard hat (t);Cappello da mago blu (t)
+Blue wizard robe;Veste blu da mago
+Blue wizard robe (g);Veste da mago blu (g)
+Blue wizard robe (t);Veste da mago blu (t)
+Bluebells;Campanule
+Bluegill;Bluegill
+Blunt arrow;Freccia smussata
+Blunt axe;Ascia smussata
+Blurberry special;Speciale Blurberry
+Blurite bar;Barra blurite
+Blurite bolts;Bulloni in blurite
+Blurite bolts (p);Bulloni Blurite (p)
+Blurite bolts (p+);Bulloni in blurite (p+)
+Blurite bolts (p++);Bulloni in blurite (p++)
+Blurite bolts (unf);Bulloni in blurite (unf)
+Blurite crossbow;Balestra blurite
+Blurite crossbow (u);Balestra Blurite (u)
+Blurite limbs;Arti blurite
+Blurite ore;Minerale di blurite
+Blurite sword;Spada blurite
+Board game piece;Pezzo di gioco da tavolo
+Bob icon;Icona di Bob
+Bob's black shirt;La camicia nera di Bob
+Bob's blue shirt;La maglietta blu di Bob
+Bob's green shirt;La maglietta verde di Bob
+Bob's print;L'impronta di Bob
+Bob's purple shirt;La maglietta viola di Bob
+Bob's red shirt;La maglietta rossa di Bob
+Bobble hat;Cappello con pompon
+Bobble scarf;Sciarpa con pompon
+Body core;Nucleo del corpo
+Body rune;Runa del corpo
+Body talisman;Talismano del corpo
+Body tiara;Tiara per il corpo
+Bologa's blessing;La benedizione di Bologna
+Bologano fruit;Frutto bolognese
+Bologano seed;Seme di Bologna
+Bolt mould;Stampo per bulloni
+Bolt of cloth;Rotolo di stoffa
+Bolt pouch;Custodia per bulloni
+Bolt rack;Rastrelliera per bulloni
+Bomber cap;Berretto bomber
+Bomber jacket;Giubbotto bomber
+Bone beads;Perle di osso
+Bone bolt pack;Pacchetto di bulloni ossei
+Bone bolts;Bulloni ossei
+Bone cage;Gabbia ossea
+Bone charm;Fascino delle ossa
+Bone club;Club delle ossa
+Bone dagger;Pugnale d'osso
+Bone dagger (p);Pugnale d'osso (p)
+Bone dagger (p+);Pugnale d'osso (p+)
+Bone dagger (p++);Pugnale d'osso (p++)
+Bone fragments;Frammenti ossei
+Bone in vinegar;Osso in aceto
+Bone key;Chiave d'osso
+Bone seeds;Semi di ossa
+Bone shard;Frammento d'osso
+Bone spear;Lancia d'osso
+Bonecrusher;Spaccaossa
+Bonecrusher necklace;Collana spaccaossa
+Bonemeal;Farina d'ossa
+Bones;Ossa
+Bones to bananas;Ossa alle banane
+Bones to peaches;Lische alle pesche
+Bonesack;Sacco di ossa
+Book;Libro
+Book o' piracy;Libro sulla pirateria
+Book of 'h.a.m';Libro di 'h.a.m'
+Book of arcane knowledge;Libro della conoscenza arcana
+Book of balance;Libro di equilibrio
+Book of balance page set;Set di pagine del libro del saldo
+Book of darkness;Libro delle tenebre
+Book of darkness page set;Set di pagine del Libro delle tenebre
+Book of folklore;Libro del folclore
+Book of haricanto;Libro dell'Haricanto
+Book of knowledge;Libro della conoscenza
+Book of law;Libro di diritto
+Book of law page set;Set di pagine del libro di legge
+Book of portraiture;Libro di ritrattistica
+Book of spyology;Libro di spiologia
+Book of war;Libro di guerra
+Book of war page set;Set di pagine del Libro di guerra
+Book on baxtorian;Prenota su baxtorian
+Book on chemicals;Libro sui prodotti chimici
+Book on chickens;Libro sui polli
+Book on costumes;Prenota sui costumi
+Book page 1;Libro pagina 1
+Book page 2;Libro pagina 2
+Book page 3;Libro pagina 3
+Bookcase;Libreria
+Boots of brimstone;Stivali di zolfo
+Boots of darkness;Stivali dell'oscurità
+Boots of lightness;Stivali di leggerezza
+Boots of stone;Stivali di pietra
+Boss lair display;Visualizzazione della tana del boss
+Botanical pie;Torta botanica
+Bottle of wine;Bottiglia di vino
+Bottled dragonbreath;Alito di drago in bottiglia
+Bottled dragonbreath (unpowered);Soffio di drago in bottiglia (non potenziato)
+Bottled water;Acqua in bottiglia
+Bottom of sceptre;Fondo dello scettro
+Bottomless compost bucket;Secchio per compost senza fondo
+Boundary stones;Pietre di confine
+Bounty crate;Cassa di taglie
+Bounty hunter hat (tier 1);Cappello da cacciatore di taglie (livello 1)
+Bounty hunter hat (tier 2);Cappello da cacciatore di taglie (livello 2)
+Bounty hunter hat (tier 3);Cappello da cacciatore di taglie (livello 3)
+Bounty hunter hat (tier 4);Cappello da cacciatore di taglie (livello 4)
+Bounty hunter hat (tier 5);Cappello da cacciatore di taglie (livello 5)
+Bounty hunter hat (tier 6);Cappello da cacciatore di taglie (livello 6)
+Bow and arrow;Arco e freccia
+Bow string;Corda dell'arco
+Bow-sword;Arco-spada
+Bowl;Ciotola
+Bowl of blue water;Ciotola di acqua blu
+Bowl of fish;Ciotola di pesce
+Bowl of hot water;Ciotola di acqua calda
+Bowl of red water;Ciotola di acqua rossa
+Bowl of water;Ciotola d'acqua
+Bowl wig;Parrucca a scodella
+Box bauble;Pallina di scatola
+Box of chocolate strawberries;Scatola di fragole al cioccolato
+Box trap;Trappola a scatola
+Box trap pack;Confezione di trappole a scatola
+Boxing gloves;Guanti da boxe
+Boxing ring;Anello di boxe
+Bp obj;Bp ogg
+Bracelet mould;Stampo per bracciale
+Bracelet of clay;Bracciale in argilla
+Bracelet of ethereum;Bracciale di etereum
+Bracelet of ethereum (uncharged);Bracciale di ethereum (scaricato)
+Bracelet of slaughter;Bracciale della macellazione
+Brain tongs;Pinze per cervelli
+Braindeath 'rum';Morte cerebrale 'rum'
+Branch;Ramo
+Brandy;Brandy
+Brass key;Chiave in ottone
+Brass necklace;Collana in ottone
+Brassica halo;Alone di Brassica
+Brassica halo (broken);Alone di Brassica (rotto)
+Brassica halo (l);Alone di Brassica (l)
+Bravery potion;Pozione di coraggio
+Brawk fish (3);Brawk (3)
+Bread;Pane
+Bread dough;Impasto per il pane
+Breadcrumbs;Pangrattato
+Breathing salts;Sali respiratori
+Brewin' guide;Guida alla produzione della birra
+Bridge section;Sezione del ponte
+Briefcase;Valigetta
+Brimhaven teleport;Teletrasporto di Brimhaven
+Brimstone key;Chiave di zolfo
+Brimstone ring;Anello di zolfo
+Brine rat;Ratto di salamoia
+Brine sabre;Sciabola salata
+Brittle key;Chiave fragile
+Broad arrowhead pack;Confezione con punte di freccia larghe
+Broad arrowheads;Punte di freccia larghe
+Broad arrows;Frecce larghe
+Broad bolts;Bulloni larghi
+Broken armour;Armatura rotta
+Broken arrow;Freccia spezzata
+Broken axe;Ascia rotta
+Broken bark snelm;Snelm di corteccia rotta
+Broken cannon;Cannone rotto
+Broken cauldron;Calderone rotto
+Broken coffin;Bara rotta
+Broken crab claw;Chela di granchio rotta
+Broken crab shell;Guscio di granchio rotto
+Broken device;Dispositivo rotto
+Broken dragon hasta;Hasta del drago spezzato
+Broken egg;Uovo rotto
+Broken fishing rod;Canna da pesca rotta
+Broken glass;Vetro rotto
+Broken goat horn;Corno di capra rotto
+Broken pickaxe;Piccone rotto
+Broken plate;Piatto rotto
+Broken pole;Palo rotto
+Broken shield;Scudo rotto
+Broken staff;Personale rotto
+Broken vane part;Parte della pala rotta
+Bronze 2h sword;Spada di bronzo 2h
+Bronze arrow;Freccia di bronzo
+Bronze arrow(p);Freccia di bronzo(p)
+Bronze arrow(p+);Freccia di bronzo(p+)
+Bronze arrow(p++);Freccia di bronzo(p++)
+Bronze arrowtips;Punte di freccia in bronzo
+Bronze axe;Ascia di bronzo
+Bronze axe head;Testa d'ascia in bronzo
+Bronze bar;Barra di bronzo
+Bronze battleaxe;Ascia da battaglia in bronzo
+Bronze bolts;Bulloni in bronzo
+Bronze bolts (p);Bulloni in bronzo (p)
+Bronze bolts (p+);Bulloni in bronzo (p+)
+Bronze bolts (p++);Bulloni in bronzo (p++)
+Bronze bolts (unf);Bulloni in bronzo (unf)
+Bronze boots;Stivali in bronzo
+Bronze brutal;Bronzo brutale
+Bronze chainbody;Corpo catena in bronzo
+Bronze claws;Artigli di bronzo
+Bronze coffin;Bara di bronzo
+Bronze crossbow;Balestra in bronzo
+Bronze crossbow (u);Balestra di bronzo (u)
+Bronze dagger;Pugnale di bronzo
+Bronze dagger(p);Pugnale di bronzo(p)
+Bronze dagger(p+);Pugnale di bronzo(p+)
+Bronze dagger(p++);Pugnale di bronzo(p++)
+Bronze dart;Dardo di bronzo
+Bronze dart tip;Punta del dardo in bronzo
+Bronze dart(p);Dardo di bronzo(p)
+Bronze dart(p+);Dardo di bronzo(p+)
+Bronze dart(p++);Dardo di bronzo(p++)
+Bronze defender;Difensore di bronzo
+Bronze defender (broken);Difensore Bronzo (rotto)
+Bronze defender (l);Difensore Bronzo (l)
+Bronze dragon mask;Maschera del drago in bronzo
+Bronze feather;Piuma di bronzo
+Bronze fire arrow;Freccia di fuoco in bronzo
+Bronze fire arrow (lit);Freccia di fuoco in bronzo (accesa)
+Bronze fist flag;Bandiera con pugno di bronzo
+Bronze full helm;Elmo completo in bronzo
+Bronze full helm (g);Elmo completo in bronzo (g)
+Bronze full helm (t);Elmo completo in bronzo (t)
+Bronze gloves;Guanti di bronzo
+Bronze gold-trimmed set (lg);Parure in bronzo rifinito in oro (lg)
+Bronze gold-trimmed set (sk);Parure in bronzo con finiture dorate (sk)
+Bronze halberd;Alabarda in bronzo
+Bronze hasta;Hasta in bronzo
+Bronze hasta(kp);Hasta di bronzo(kp)
+Bronze hasta(p);Hasta di bronzo(p)
+Bronze hasta(p+);Hasta di bronzo(p+)
+Bronze hasta(p++);Hasta di bronzo(p++)
+Bronze javelin;Giavellotto in bronzo
+Bronze javelin heads;Teste di giavellotto in bronzo
+Bronze javelin(p);Giavellotto di bronzo(p)
+Bronze javelin(p+);Giavellotto di bronzo(p+)
+Bronze javelin(p++);Giavellotto di bronzo(p++)
+Bronze key;Chiave di bronzo
+Bronze key black;Chiave in bronzo nera
+Bronze key brown;Chiave in bronzo marrone
+Bronze key crimson;Chiave in bronzo cremisi
+Bronze key purple;Chiave in bronzo viola
+Bronze key red;Chiave in bronzo rossa
+Bronze kiteshield;Scudo da aquilone in bronzo
+Bronze kiteshield (g);Scudo aquilone in bronzo (g)
+Bronze kiteshield (t);Scudo aquilone in bronzo (t)
+Bronze knife;Coltello in bronzo
+Bronze knife(p);Coltello in bronzo(p)
+Bronze knife(p+);Coltello in bronzo(p+)
+Bronze knife(p++);Coltello in bronzo(p++)
+Bronze limbs;Arti in bronzo
+Bronze locks;Serrature in bronzo
+Bronze longsword;Spada lunga in bronzo
+Bronze mace;Mazza di bronzo
+Bronze med helm;Elmo medico in bronzo
+Bronze nails;Chiodi in bronzo
+Bronze pick head;Testa del piccone in bronzo
+Bronze pickaxe;Piccone in bronzo
+Bronze platebody;Corpo in lamiera di bronzo
+Bronze platebody (g);Corpo in bronzo (g)
+Bronze platebody (t);Corpo in bronzo (t)
+Bronze platelegs;Gambe in piastra di bronzo
+Bronze platelegs (g);Gambe in piastra di bronzo (g)
+Bronze platelegs (t);Gambe in bronzo (t)
+Bronze plateskirt;Gonna in bronzo
+Bronze plateskirt (g);Gonna in bronzo (g)
+Bronze plateskirt (t);Gonna in bronzo (t)
+Bronze scimitar;Scimitarra in bronzo
+Bronze set (lg);Set bronzo (lg)
+Bronze set (sk);Set in bronzo (sk)
+Bronze spear;Lancia in bronzo
+Bronze spear(kp);Lancia di bronzo (kp)
+Bronze spear(p);Lancia di bronzo(p)
+Bronze spear(p+);Lancia di bronzo(p+)
+Bronze spear(p++);Lancia di bronzo(p++)
+Bronze sq shield;Scudo quadrato in bronzo
+Bronze sword;Spada di bronzo
+Bronze thrownaxe;Ascia da lancio in bronzo
+Bronze trimmed set (lg);Set con finiture in bronzo (lg)
+Bronze trimmed set (sk);Set rifinito in bronzo (sk)
+Bronze warhammer;Martello da guerra in bronzo
+Bronze wire;Filo di bronzo
+Brooch;Spilla
+Broodoo shield;Scudo Broodoo
+Broodoo shield (1);Scudo per Broodoo (1)
+Broodoo shield (10);Scudo Broodoo (10)
+Broodoo shield (2);Scudo per Broodoo (2)
+Broodoo shield (3);Scudo Broodoo (3)
+Broodoo shield (4);Scudo Broodoo (4)
+Broodoo shield (5);Scudo Broodoo (5)
+Broodoo shield (6);Scudo per Broodoo (6)
+Broodoo shield (7);Scudo Broodoo (7)
+Broodoo shield (8);Scudo Broodoo (8)
+Broodoo shield (9);Scudo Broodoo (9)
+Brown apron;Grembiule marrone
+Brown candy;Caramella marrone
+Brown headband;Fascia marrone
+Brown naval shirt;Camicia navale marrone
+Brown navy slacks;Pantaloni blu scuro marroni
+Brown rug;Tappeto marrone
+Brown spice (1);Spezie marroni (1)
+Brown spice (2);Spezie marroni (2)
+Brown spice (3);Spezie marroni (3)
+Brown spice (4);Spezie marroni (4)
+Brown toy horsey;Cavallino giocattolo marrone
+Brown tricorn hat;Cappello tricorno marrone
+Bruise blue snelm;Livido snelm blu
+Brulee;Brulée
+Brulee supreme;Brulée supremo
+Bruma herb;Erba Bruma
+Bruma kindling;Accensione di Bruma
+Bruma root;Radice di Bruma
+Bruma torch;Torcia Bruma
+Brush;Spazzola
+Brutal black dragon;Drago nero brutale
+Bryophyta's essence;L'essenza di Bryophyta
+Bryophyta's staff;Il bastone di Bryophyta
+Bryophyta's staff (uncharged);Bastone di Bryophyta (senza carica)
+Buchu leaf;Foglia di Buchu
+Buchu seed;Seme di buchu
+Bucket;Secchio
+Bucket helm;Timone della benna
+Bucket helm (g);Timone della benna (g)
+Bucket of milk;Secchio di latte
+Bucket of rubble;Secchio di macerie
+Bucket of sand;Secchio di sabbia
+Bucket of sandworms;Secchio di vermi della sabbia
+Bucket of sap;Secchio di linfa
+Bucket of slime;Secchio di melma
+Bucket of water;Secchio d'acqua
+Bucket of wax;Secchio di cera
+Bucket of wester sand;Secchio di sabbia occidentale
+Builder's boots;Stivali da costruttore
+Builder's shirt;Maglia da costruttore
+Builder's trousers;Pantaloni da muratore
+Bulging sack;Sacco rigonfio
+Bulging taxbag;Borsa fiscale rigonfia
+Bull roarer;Toro ruggente
+Bullet arrow;Freccia proiettile
+Bullseye lantern;Lanterna a forma di occhio di bue
+Bullseye lantern (empty);Lanterna Bullseye (vuota)
+Bullseye lantern (unf);Lanterna Bullseye (unf)
+Bunny ears;Orecchie da coniglio
+Bunny feet;Piedi da coniglio
+Bunny legs;Gambe da coniglio
+Bunny paws;Zampe di coniglio
+Bunny top;Top da coniglietto
+Bunnyman mask;Maschera da coniglietto
+Buried alive;Sepolto vivo
+Burning amulet(1);Amuleto infuocato(1)
+Burning amulet(2);Amuleto infuocato(2)
+Burning amulet(3);Amuleto infuocato(3)
+Burning amulet(4);Amuleto infuocato(4)
+Burning amulet(5);Amuleto infuocato(5)
+Burnt anglerfish;Rana pescatrice bruciata
+Burnt bat;Pipistrello bruciato
+Burnt batta;Batta bruciata
+Burnt beast meat;Carne di bestia bruciata
+Burnt bird meat;Carne di uccelli bruciata
+Burnt bonemeal;Farina di ossa bruciata
+Burnt bones;Ossa bruciate
+Burnt bread;Pane bruciato
+Burnt cake;Torta bruciata
+Burnt cave eel;Anguilla delle caverne bruciata
+Burnt chicken;Pollo bruciato
+Burnt chompy;Bruciato masticabile
+Burnt crab meat;Carne di granchio bruciata
+Burnt crunchies;Croccantini bruciati
+Burnt curry;Curry bruciato
+Burnt dark crab;Granchio scuro bruciato
+Burnt diary;Diario bruciato
+Burnt eel;Anguilla bruciata
+Burnt egg;Uovo bruciato
+Burnt fish;Pesce bruciato
+Burnt fishcake;Torta di pesce bruciata
+Burnt gnomebowl;Gnomebow bruciato
+Burnt jogre bonemeal;Farina di ossa di jogre bruciata
+Burnt jogre bones;Ossa di jogre bruciate
+Burnt jubbly;Bruciato
+Burnt karambwan;Karambwan bruciato
+Burnt lobster;Aragosta bruciata
+Burnt manta ray;Manta bruciata
+Burnt meat;Carne bruciata
+Burnt monkfish;Rana pescatrice bruciata
+Burnt mushroom;Fungo bruciato
+Burnt onion;Cipolla bruciata
+Burnt oomlie;Oomlie bruciato
+Burnt oomlie wrap;Involucro di oomlie bruciato
+Burnt page;Pagina bruciata
+Burnt pie;Torta bruciata
+Burnt pitta bread;Pane pitta bruciato
+Burnt pizza;Pizza bruciata
+Burnt potato;Patata bruciata
+Burnt rabbit;Coniglio bruciato
+Burnt rainbow fish;Pesce arcobaleno bruciato
+Burnt sea turtle;Tartaruga marina bruciata
+Burnt shark;Squalo bruciato
+Burnt shrimp;Gamberetti bruciati
+Burnt snail;Lumaca bruciata
+Burnt spider;Ragno bruciato
+Burnt stew;Stufato bruciato
+Burnt sweetcorn;Mais dolce bruciato
+Burnt swordfish;Pesce spada bruciato
+Bush;Cespuglio
+Butterfly;Farfalla
+Butterfly jar;Vaso a farfalla
+Butterfly net;Rete per farfalle
+Buttons;Pulsanti
+Byrne's coronation speech;Il discorso dell'incoronazione di Byrne
+Cabbage;Cavolo
+Cabbage cape;Mantello di cavolo
+Cabbage round shield;Scudo rotondo di cavolo
+Cabbage rune;Runa del cavolo
+Cabbage seed;Seme di cavolo
+Cabbages(1);Cavoli(1)
+Cabbages(10);Cavoli(10)
+Cabbages(2);Cavoli(2)
+Cabbages(3);Cavoli(3)
+Cabbages(4);Cavoli(4)
+Cabbages(5);Cavoli(5)
+Cabbages(6);Cavoli(6)
+Cabbages(7);Cavoli(7)
+Cabbages(8);Cavoli(8)
+Cabbages(9);Cavoli(9)
+Cactus seed;Seme di cactus
+Cactus spine;Spina dorsale del cactus
+Cadantine;Cadantine
+Cadantine blood potion (unf);Pozione di sangue cadentina (unf)
+Cadantine potion (unf);Pozione Cadantine (unf)
+Cadantine seed;Seme cadentino
+Cadarn lineage;Lignaggio Cadarn
+Cadava berries;Bacche di cadava
+Cadava potion;Pozione di Cadava
+Cadavaberry seed;Seme di bacca di cadava
+Cake;Torta
+Cake of guidance;Torta di orientamento
+Cake tin;Tortiera
+Calcite;Calcite
+Callisto cub;Cucciolo di Callisto
+Calquat fruit;Frutto di Calquat
+Calquat keg;Fusto di Calquat
+Calquat sapling;Alberello di Calquat
+Calquat seedling;Piantina di Calquat
+Calquat seedling (w);Piantina di Calquat (w)
+Calquat tree seed;Seme dell'albero di Calquat
+Camel mask;Maschera da cammello
+Camel mould (p);Stampo per cammello (p)
+Camelot teleport;Teletrasporto di Camelot
+Camo bottoms;Fondo mimetico
+Camo helmet;Casco mimetico
+Camo top;Parte superiore mimetica
+Camorra bust;Busto di camorra
+Camulet;Camuleto
+Candle;Candela
+Candle lantern;Lanterna a candela
+Candles;Candele
+Candy cane;Bastoncino di zucchero
+Canister;Contenitore
+Cannon ball;Palla di cannone
+Cannon balls;Palle di cannone
+Cannon barrel;Canna di cannone
+Cannon barrels;Canne di cannone
+Cannon base;Base del cannone
+Cannon furnace;Forno a cannone
+Cannon stand;Supporto per cannone
+Cannonball;Palla di cannone
+Canopic jar;Vaso canopo
+Cap and goggles;Berretto e occhiali
+Capacitor;Condensatore
+Cape hanger;Appendiabiti per mantello
+Cape of legends;Capo delle leggende
+Cape of skulls;Mantello di teschi
+Carnillean armour;Armatura carnilleana
+Carol's print;L'impronta di Carol
+Carpenter's boots;Stivali da falegname
+Carpenter's helmet;Elmo da falegname
+Carpenter's shirt;Camicia da falegname
+Carpenter's trousers;Pantaloni da falegname
+Carpet;Tappeto
+Carrallangar teleport;Teletrasporto di Carrallangar
+Carrot;Carota
+Carrot sword;Spada di carota
+Carved gem;Gemma scolpita
+Carved oak bench;Panca in rovere intagliato
+Carved oak magic wardrobe;Armadio magico in rovere intagliato
+Carved oak table;Tavolo in rovere intagliato
+Carved oak wardrobe;Armadio in rovere intagliato
+Carved teak bench;Panca in teak intagliato
+Carved teak magic wardrobe;Armadio magico in teak intagliato
+Carved teak table;Tavolo in teak intagliato
+Carved teak wardrobe;Armadio in teak intagliato
+Casket;Cofanetto
+Casket (easy);Cofanetto (facile)
+Casket (elite);Cofanetto (élite)
+Casket (hard);Cofanetto (rigido)
+Casket (medium);Cofanetto (medio)
+Castle sketch 1;Schizzo del castello 1
+Castle sketch 2;Schizzo del castello 2
+Castle sketch 3;Schizzo del castello 3
+Castle wars bracelet(1);Bracciale Castle Wars(1)
+Castle wars bracelet(2);Bracciale Castle Wars(2)
+Castle wars bracelet(3);Bracciale Castle Wars(3)
+Castle wars ticket;Biglietto per le guerre dei castelli
+Castlewars brew(1);Birra Castlewars(1)
+Castlewars brew(2);Birra Castlewars(2)
+Castlewars brew(3);Birra Castlewars(3)
+Castlewars brew(4);Birra Castlewars(4)
+Castlewars cloak;Mantello di Castlewar
+Castlewars hood;Il cappuccio di Castlewars
+Castlewars manual;Manuale di Castlewars
+Cat antipoison;Antiveleno per gatti
+Cat basket;Cestino per gatti
+Cat blanket;Coperta per gatti
+Cat ears;Orecchie di gatto
+Cat mask;Maschera da gatto
+Cat training medal;Medaglia per l'addestramento dei gatti
+Catalytic rune pack;Pacchetto rune catalitiche
+Catfish;Pesce gatto
+Catherby teleport;Teletrasporto di Catherby
+Catspeak amulet;Amuleto del linguaggio felino
+Catspeak amulet(e);Amuleto del linguaggio felino(e)
+Cattleprod;Bestiame
+Cavalier mask;Maschera da cavaliere
+Cave crawler;Cingolato delle caverne
+Cave eel;Anguilla delle caverne
+Cave goblin;Folletto delle caverne
+Cave goblin skull;Teschio del goblin delle caverne
+Cave goblin wire;Filo del goblin delle caverne
+Cave horror;Orrore della caverna
+Cave kraken;Kraken delle caverne
+Cave nightshade;Belladonna delle caverne
+Cave worms;Vermi delle caverne
+Cavefish;Pesce delle caverne
