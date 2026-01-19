@@ -24,7 +24,7 @@ function buildQuery() {
 }
 
 LANGS="finnish french german italian portuguese spanish swedish dutch"
-FILES="dialogue menu_entry_option"
+FILES="dialogue menu_entry_option npc item object"
 
 # check if mongosh is installed
 if ! command -v mongosh &> /dev/null

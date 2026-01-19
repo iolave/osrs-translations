@@ -1,0 +1,1195 @@
+'24-carat' sword;Spada "24 carati".
+'perfect' gold bar;lingotto d'oro "perfetto".
+'perfect' gold ore;minerale d'oro "perfetto".
+'perfect' necklace;collana 'perfetta'
+'perfect' ring;anello "perfetto".
+1/2 anchovy pizza;1/2 pizza alle acciughe
+1/2 meat pizza;1/2 pizza di carne
+1/2 pineapple pizza;1/2 pizza all'ananas
+1/2 plain pizza;1/2 pizza semplice
+1/3rds full jug;1/3rds brocca piena
+1/5ths full bucket;1/5ths secchio pieno
+10th squad sigil;10th sigillo della squadra
+18lb shot;18lb sparo
+2/3 cake;2/3 torta
+2/3 chocolate cake;2/3 torta al cioccolato
+2/3rds full jug;2/3rds brocca piena
+2/5ths full bucket;2/5ths secchio pieno
+20th anniversary boots;20th stivali da anniversario
+20th anniversary bottom;20th fondo anniversario
+20th anniversary cape;20th mantello dell'anniversario
+20th anniversary gloves;20th guanti anniversario
+20th anniversary hat;20th cappello da anniversario
+20th anniversary necklace;20th collana anniversario
+20th anniversary top;20th parte superiore dell'anniversario
+22lb shot;22lb sparo
+3/5ths full bucket;3/5ths secchio pieno
+3rd age amulet;3rd amuleto dell'età
+3rd age axe;3rd ascia dell'età
+3rd age bow;3rd arco dell'età
+3rd age cloak;3rd mantello dell'età
+3rd age druidic cloak;3rd mantello druidico dell'età
+3rd age druidic robe bottoms;3rd pantaloni di tunica druidica di età
+3rd age druidic robe top;3rd parte superiore della veste druidica dell'età
+3rd age druidic staff;3rd personale druidico in età
+3rd age full helmet;3rd casco integrale per età
+3rd age kiteshield;3rd età kiteshield
+3rd age longsword;3rd spada lunga dell'età
+3rd age mage hat;3rd cappello da mago dell'età
+3rd age pickaxe;3rd piccone dell'età
+3rd age platebody;3rd corpo piatto dell'età
+3rd age platelegs;3rd età delle piastre delle gambe
+3rd age plateskirt;3rd gonna a piastre dell'età
+3rd age range coif;3rd cuffia per fascia d'età
+3rd age range legs;3rd gambe della fascia di età
+3rd age range top;3rd fascia di età superiore
+3rd age robe;3rd veste d'età
+3rd age robe top;3rd parte superiore della vestaglia dell'età
+3rd age vambraces;3rd braccioli dell'età
+3rd age wand;3rd bacchetta dell'età
+4-poster;4-poster 
+4/5ths full bucket;4/5ths secchio pieno
+4th birthday hat;4th cappello di compleanno
+5-gallon jug;5-gallon brocca
+8-gallon jug;8-gallon brocca
+??? mixture;??? miscela
+A blue circle;Un cerchio blu
+A blue pentagon;Un pentagono blu
+A blue square;Un quadrato blu
+A blue triangle;Un triangolo blu
+A chair;Una sedia
+A container;Un contenitore
+A dark disposition;Una disposizione oscura
+A dear friend;Un caro amico
+A green circle;Un cerchio verde
+A green pentagon;Un pentagono verde
+A green square;Un quadrato verde
+A green triangle;Un triangolo verde
+A handwritten book;Un libro scritto a mano
+A jester stick;Un bastone da giullare
+A magic scroll;Una pergamena magica
+A pattern;Uno schema
+A powdered wig;Una parrucca incipriata
+A red circle;Un cerchio rosso
+A red pentagon;Un pentagono rosso
+A red square;Un quadrato rosso
+A red triangle;Un triangolo rosso
+A scribbled note;Una nota scarabocchiata
+A scruffy note;Una nota trasandata
+A small key;Una piccola chiave
+A special tiara;Una tiara speciale
+A stone bowl;Una ciotola di pietra
+A taste of hope;Un assaggio di speranza
+A used spell;Un incantesimo usato
+A violet circle;Un cerchio viola
+A violet pentagon;Un pentagono viola
+A violet square;Un quadrato viola
+A violet triangle;Un triangolo viola
+A yellow circle;Un cerchio giallo
+A yellow pentagon;Un pentagono giallo
+A yellow square;Un quadrato giallo
+A yellow triangle;Un triangolo giallo
+Aberrant spectre;Spettro aberrante
+Ablenkian's escape;La fuga di Ablenkian
+Absorption (1);Assorbimento (1)
+Absorption (2);Assorbimento (2)
+Absorption (3);Assorbimento (3)
+Absorption (4);Assorbimento (4)
+Abyssal bludgeon;Mazza abissale
+Abyssal book;Libro abissale
+Abyssal bracelet(1);Bracciale abissale(1)
+Abyssal bracelet(2);Bracciale abissale(2)
+Abyssal bracelet(3);Bracciale abissale(3)
+Abyssal bracelet(4);Bracciale abissale(4)
+Abyssal bracelet(5);Bracciale abissale(5)
+Abyssal dagger;Pugnale abissale
+Abyssal dagger (p);Pugnale abissale (p)
+Abyssal dagger (p+);Pugnale abissale (p+)
+Abyssal dagger (p++);Pugnale abissale (p++)
+Abyssal demon;Demone abissale
+Abyssal head;Testa abissale
+Abyssal orphan;Orfano abissale
+Abyssal tentacle;Tentacolo abissale
+Abyssal whip;Frusta abissale
+Accumulator max cape;Mantello massimo dell'accumulatore
+Accumulator max hood;Cappa max accumulatore
+Acetic acid;Acido acetico
+Achey tree logs;Tronchi di alberi Achey
+Achievement diary cape;Mantello per diario dei risultati
+Achievement diary cape (t);Mantello del diario dei risultati (t)
+Achievement diary hood;Cappuccio del diario dei risultati
+Achievement gallery;Galleria dei risultati
+Acorn;Ghianda
+Adamant 2h sword;Spada Adamant 2h
+Adamant arrow;Freccia irremovibile
+Adamant arrow pack;Pacchetto frecce irremovibile
+Adamant arrow(p);Freccia irremovibile(p)
+Adamant arrow(p+);Freccia irremovibile(p+)
+Adamant arrow(p++);Freccia irremovibile(p++)
+Adamant arrowtips;Punte di freccia irremovibili
+Adamant axe;Ascia irremovibile
+Adamant axe head;Testa d'ascia irremovibile
+Adamant battleaxe;Ascia da battaglia irremovibile
+Adamant bolts;Bulloni irremovibili
+Adamant bolts (p);Bulloni irremovibili (p)
+Adamant bolts (p+);Bulloni irremovibili (p+)
+Adamant bolts (p++);Bulloni irremovibili (p++)
+Adamant bolts(unf);Bulloni irremovibili (unf)
+Adamant boots;Stivali irremovibili
+Adamant brutal;Decisamente brutale
+Adamant cane;Canna irremovibile
+Adamant chainbody;Corpo della catena irremovibile
+Adamant claws;Artigli irremovibili
+Adamant crossbow;Balestra irremovibile
+Adamant crossbow (u);Balestra irremovibile (u)
+Adamant dagger;Pugnale irremovibile
+Adamant dagger(p);Pugnale irremovibile (p)
+Adamant dagger(p+);Pugnale irremovibile(p+)
+Adamant dagger(p++);Pugnale irremovibile (p++)
+Adamant dart;Dardo irremovibile
+Adamant dart tip;Punta del dardo irremovibile
+Adamant dart(p);Dardo irremovibile(p)
+Adamant dart(p+);Dardo irremovibile(p+)
+Adamant dart(p++);Dardo irremovibile(p++)
+Adamant defender;Difensore irremovibile
+Adamant defender (broken);Difensore irremovibile (rotto)
+Adamant defender (l);Difensore irremovibile (l)
+Adamant dragon mask;Maschera da drago irremovibile
+Adamant fire arrow;Freccia di fuoco irremovibile
+Adamant fire arrow (lit);Freccia di fuoco irremovibile (accesa)
+Adamant full helm;Elmo completo irremovibile
+Adamant full helm (g);Elmo completo irremovibile (g)
+Adamant full helm (t);Elmo completo irremovibile (t)
+Adamant gloves;Guanti irremovibili
+Adamant gold-trimmed set (lg);Parure Adamant con finiture dorate (lg)
+Adamant gold-trimmed set (sk);Parure Adamante con rifiniture in oro (sk)
+Adamant halberd;Alabarda irremovibile
+Adamant hasta;Hasta irremovibile
+Adamant hasta(kp);Hasta irremovibile (kp)
+Adamant hasta(p);Hasta irremovibile(p)
+Adamant hasta(p+);Hasta irremovibile(p+)
+Adamant hasta(p++);Hasta irremovibile(p++)
+Adamant helm (h1);Elmo irremovibile (h1)
+Adamant helm (h2);Elmo irremovibile (h2)
+Adamant helm (h3);Elmo irremovibile (h3)
+Adamant helm (h4);Elmo irremovibile (h4)
+Adamant helm (h5);Elmo irremovibile (h5)
+Adamant heraldic helm;Elmo araldico irremovibile
+Adamant javelin;Giavellotto irremovibile
+Adamant javelin heads;Teste di giavellotto irremovibili
+Adamant javelin(p);Giavellotto irremovibile (p)
+Adamant javelin(p+);Giavellotto irremovibile(p+)
+Adamant javelin(p++);Giavellotto adamantino(p++)
+Adamant kiteshield;Scudo da aquilone irremovibile
+Adamant kiteshield (g);Scudo da aquilone irremovibile (g)
+Adamant kiteshield (t);Scudo da aquilone irremovibile (t)
+Adamant knife;Coltello irremovibile
+Adamant knife(p);Coltello irremovibile(p)
+Adamant knife(p+);Coltello irremovibile(p+)
+Adamant knife(p++);Coltello irremovibile(p++)
+Adamant longsword;Spada lunga irremovibile
+Adamant mace;Mazza irremovibile
+Adamant med helm;Elmo medico irremovibile
+Adamant pick head;Testa di piccone irremovibile
+Adamant pickaxe;Piccone irremovibile
+Adamant platebody;Corpo piatto irremovibile
+Adamant platebody (g);Corpo piatto irremovibile (g)
+Adamant platebody (h1);Corpo piatto irremovibile (h1)
+Adamant platebody (h2);Corpo piatto irremovibile (h2)
+Adamant platebody (h3);Corpo piatto irremovibile (h3)
+Adamant platebody (h4);Corpo piatto irremovibile (h4)
+Adamant platebody (h5);Corpo piatto irremovibile (h5)
+Adamant platebody (t);Corpo piatto irremovibile (t)
+Adamant platelegs;Gambe a piastra irremovibili
+Adamant platelegs (g);Gambe a piastra irremovibili (g)
+Adamant platelegs (t);Gambe a piastra irremovibili (t)
+Adamant plateskirt;Gonna a piastre irremovibile
+Adamant plateskirt (g);Gonna a piastre irremovibile (g)
+Adamant plateskirt (t);Gonna a piastre irremovibile (t)
+Adamant scimitar;Scimitarra adamantina
+Adamant set (lg);Set Adamant (lg)
+Adamant set (sk);Set irremovibile (sk)
+Adamant shield (h1);Scudo irremovibile (h1)
+Adamant shield (h2);Scudo irremovibile (h2)
+Adamant shield (h3);Scudo irremovibile (h3)
+Adamant shield (h4);Scudo irremovibile (h4)
+Adamant shield (h5);Scudo irremovibile (h5)
+Adamant spear;Lancia adamantina
+Adamant spear(kp);Lancia adamantina (kp)
+Adamant spear(p);Lancia adamantina (p)
+Adamant spear(p+);Lancia adamantina(p+)
+Adamant spear(p++);Lancia adamantina(p++)
+Adamant sq shield;Scudo quadrato irremovibile
+Adamant sword;Spada irremovibile
+Adamant thrownaxe;Ascia da lancio irremovibile
+Adamant trimmed set (lg);Set con finitura Adamant (lg)
+Adamant trimmed set (sk);Set rifinito Adamant (sk)
+Adamant warhammer;Martello da guerra irremovibile
+Adamantite armour;Armatura di Adamantite
+Adamantite bar;Barra Adamantite
+Adamantite limbs;Membra adamantite
+Adamantite nails;Chiodi Adamantiti
+Adamantite ore;Minerale di Adamantite
+Adamantite ore fragment;Frammento di minerale di Adamantite
+Address form;Modulo indirizzo
+Address label;Etichetta dell'indirizzo
+Admiral pie;Torta dell'Ammiraglio
+Advanced arena;Arena avanzata
+Afro;Afro
+Agility arena ticket;Biglietto per l'Agility Arena
+Agility balance;Equilibrio di agilità
+Agility cape;Mantello di agilità
+Agility cape(t);Mantello di agilità(t)
+Agility climb;Salita in agilità
+Agility contortion;Contorsione dell'agilità
+Agility hood;Cappuccio di agilità
+Agility jump;Salto di agilità
+Agility mix(1);Mix di agilità(1)
+Agility mix(2);Mix di agilità(2)
+Agility potion(1);Pozione di agilità(1)
+Agility potion(2);Pozione di agilità(2)
+Agility potion(3);Pozione di agilità(3)
+Agility potion(4);Pozione di agilità(4)
+Agility tome;Tomo sull'agilità
+Ahab's beer;La birra di Achab
+Ahrim's armour set;Set armatura di Ahrim
+Ahrim's hood;Il cappuccio di Ahrim
+Ahrim's hood 0;Il cappuccio di Ahrim 0
+Ahrim's hood 100;Il cappuccio di Ahrim 100
+Ahrim's hood 25;Il cappuccio di Ahrim 25
+Ahrim's hood 50;Il cappuccio di Ahrim 50
+Ahrim's hood 75;Il cappuccio di Ahrim 75
+Ahrim's robeskirt;La gonna-vestaglia di Ahrim
+Ahrim's robeskirt 0;La vestaglia di Ahrim 0
+Ahrim's robeskirt 100;Gonna-veste di Ahrim 100
+Ahrim's robeskirt 25;La veste-gonna di Ahrim 25
+Ahrim's robeskirt 50;La gonna-vestaglia di Ahrim 50
+Ahrim's robeskirt 75;La gonna-vestaglia di Ahrim 75
+Ahrim's robetop;La vestaglia di Ahrim
+Ahrim's robetop 0;La vestaglia di Ahrim 0
+Ahrim's robetop 100;La vestaglia di Ahrim 100
+Ahrim's robetop 25;La vestaglia di Ahrim 25
+Ahrim's robetop 50;La vestaglia di Ahrim 50
+Ahrim's robetop 75;La vestaglia di Ahrim 75
+Ahrim's staff;Il bastone di Ahrim
+Ahrim's staff 0;Bastone di Ahrim 0
+Ahrim's staff 100;Bastone di Ahrim 100
+Ahrim's staff 25;Bastone di Ahrim 25
+Ahrim's staff 50;Bastone di Ahrim 50
+Ahrim's staff 75;Bastone di Ahrim 75
+Air battlestaff;Bastone da battaglia aerea
+Air orb;Sfera aerea
+Air rune;Runa dell'aria
+Air rune (nz);Runa dell'aria (nz)
+Air rune pack;Pacchetto rune dell'aria
+Air talisman;Talismano dell'aria
+Air tiara;Diadema d'aria
+Airtight pot;Pentola ermetica
+Aivas bust;Busto di Aiva
+Aivas' diary;Il diario di Aivas
+Al kharid flyer;Volantino Al Kharid
+Alchemical chart;Carta alchemica
+Alchemical hydra head;Testa di Idra alchemica
+Alchemical hydra heads;Teste di idra alchemica
+Alchemical notes;Note alchemiche
+Alco-chunks;Pezzi di alcol
+Ale of the gods;Birra degli dei
+Ale yeast;Lievito di birra
+Aluft aloft box;Scatola in alto in alto
+Amethyst;Ametista
+Amethyst arrow;Freccia di ametista
+Amethyst arrow(p);Freccia di ametista(p)
+Amethyst arrow(p+);Freccia di ametista(p+)
+Amethyst arrow(p++);Freccia di ametista(p++)
+Amethyst arrowtips;Punte di freccia di ametista
+Amethyst bolt tips;Punte dei bulloni in ametista
+Amethyst broad bolts;Bulloni larghi di ametista
+Amethyst fire arrow;Freccia di fuoco di ametista
+Amethyst fire arrow (lit);Freccia di fuoco di ametista (accesa)
+Amethyst javelin;Giavellotto di ametista
+Amethyst javelin heads;Teste di giavellotto di ametista
+Amethyst javelin(p);Giavellotto di ametista(p)
+Amethyst javelin(p+);Giavellotto di ametista(p+)
+Amethyst javelin(p++);Giavellotto di ametista(p++)
+Ammo mould;Muffa delle munizioni
+Ammonium nitrate;Nitrato di ammonio
+Amulet mould;Stampo per amuleto
+Amulet of accuracy;Amuleto della precisione
+Amulet of avarice;Amuleto dell'avarizia
+Amulet of blood fury;Amuleto della furia sanguigna
+Amulet of bounty;Amuleto di generosità
+Amulet of chemistry;Amuleto della chimica
+Amulet of defence;Amuleto di difesa
+Amulet of defence (t);Amuleto di difesa (t)
+Amulet of doomion;Amuleto di sventura
+Amulet of eternal glory;Amuleto della gloria eterna
+Amulet of fury;Amuleto della furia
+Amulet of fury (or);Amuleto della furia (o)
+Amulet of glory;Amuleto di gloria
+Amulet of glory (t);Amuleto della gloria (t)
+Amulet of glory (t1);Amuleto della gloria (t1)
+Amulet of glory (t2);Amuleto della gloria (t2)
+Amulet of glory (t3);Amuleto della gloria (t3)
+Amulet of glory (t4);Amuleto della gloria (t4)
+Amulet of glory (t5);Amuleto della gloria (t5)
+Amulet of glory (t6);Amuleto della gloria (t6)
+Amulet of glory(1);Amuleto della gloria(1)
+Amulet of glory(2);Amuleto della gloria(2)
+Amulet of glory(3);Amuleto della gloria(3)
+Amulet of glory(4);Amuleto della gloria(4)
+Amulet of glory(5);Amuleto della gloria(5)
+Amulet of glory(6);Amuleto della gloria(6)
+Amulet of holthion;Amuleto di Holthion
+Amulet of magic;Amuleto della magia
+Amulet of magic (t);Amuleto della magia (t)
+Amulet of nature;Amuleto della natura
+Amulet of othanian;Amuleto di Othanian
+Amulet of power;Amuleto del potere
+Amulet of power (t);Amuleto del potere (t)
+Amulet of strength;Amuleto della forza
+Amulet of the damned;Amuleto dei dannati
+Amulet of the damned (full);Amuleto dei dannati (completo)
+Amulet of torture;Amuleto della tortura
+Amulet of torture (or);Amuleto della tortura (o)
+Amur leopard toy;Giocattolo leopardo dell'Amur
+Amy's saw;La sega di Amy
+Amylase crystal;Cristallo di amilasi
+Amylase pack;Pacchetto di amilasi
+An empty box;Una scatola vuota
+An empty folder;Una cartella vuota
+An indigo circle;Un cerchio indaco
+An indigo pentagon;Un pentagono indaco
+An indigo square;Un quadrato indaco
+An indigo triangle;Un triangolo indaco
+An orange circle;Un cerchio arancione
+An orange square;Un quadrato arancione
+An orange triangle;Un triangolo arancione
+Ana in a barrel;Ana in un barile
+Ancestral hat;Cappello ancestrale
+Ancestral key;Chiave ancestrale
+Ancestral robe bottom;Fondo della veste ancestrale
+Ancestral robe top;Parte superiore della veste ancestrale
+Ancestral robes set;Set di vesti ancestrali
+Anchovies;Acciughe
+Anchovy oil;Olio di acciughe
+Anchovy paste;Pasta d'acciughe
+Anchovy pizza;Pizza alle acciughe
+Ancient altar;Antico altare
+Ancient armour;Armatura antica
+Ancient astroscope;Astroscopio antico
+Ancient blessing;Antica benedizione
+Ancient bracers;Bracciali antichi
+Ancient carcanet;Carcanet antico
+Ancient casket;Cofanetto antico
+Ancient chaps;Ragazzi antichi
+Ancient cloak;Mantello antico
+Ancient coif;Cuffia antica
+Ancient coin;Moneta antica
+Ancient crozier;Antico pastorale
+Ancient crystal;Cristallo antico
+Ancient d'hide body;Antico corpo in pelle
+Ancient d'hide boots;Antichi stivali di cuoio
+Ancient d'hide shield;Antico scudo in cuoio
+Ancient diary;Diario antico
+Ancient dragonhide set;Set antico di pelle di drago
+Ancient effigy;Effigie antica
+Ancient emblem;Antico stemma
+Ancient full helm;Antico elmo completo
+Ancient globe;Globo antico
+Ancient gorilla greegree;Greco antico del gorilla
+Ancient halo;Aureola antica
+Ancient halo (broken);Aureola antica (rotta)
+Ancient halo (l);Aureola antica (l)
+Ancient key;Chiave antica
+Ancient kiteshield;Antico scudo da aquilone
+Ancient ledger;Libro mastro antico
+Ancient letter;Lettera antica
+Ancient mace;Mazza antica
+Ancient magicks tablet;Antica tavoletta magica
+Ancient medallion;Medaglione antico
+Ancient mitre;Mitra antica
+Ancient note;Nota antica
+Ancient page;Pagina antica
+Ancient page 1;Antica pagina 1
+Ancient page 2;Antica pagina 2
+Ancient page 3;Antica pagina 3
+Ancient page 4;Antica pagina 4
+Ancient platebody;Antico corpo piatto
+Ancient platelegs;Antiche gambe a piastre
+Ancient plateskirt;Gonna a piastre antica
+Ancient relic;Reliquia antica
+Ancient robe legs;Gambe di vesti antiche
+Ancient robe top;Parte superiore della vestaglia antica
+Ancient rune armour set (lg);Set di armature runiche antiche (lg)
+Ancient rune armour set (sk);Set di armature runiche antiche (sk)
+Ancient shard;Frammento antico
+Ancient signet;Sigillo antico
+Ancient staff;Bastone antico
+Ancient statuette;Statuetta antica
+Ancient stole;Stola antica
+Ancient symbol;Simbolo antico
+Ancient tablet;Tavoletta antica
+Ancient talisman;Talismano antico
+Ancient totem;Totem antico
+Ancient treatise;Trattato antico
+Ancient writings;Scritti antichi
+Ancient wyvern shield;Scudo antico della viverna
+Anger battleaxe;Ascia da battaglia della rabbia
+Anger mace;Mazza di rabbia
+Anger spear;Lancia della rabbia
+Anger sword;Spada della rabbia
+Angler boots;Stivali da pescatore
+Angler hat;Cappello da pescatore
+Angler top;Parte superiore del pescatore
+Angler waders;Trampolieri del pescatore
+Anglerfish;Rana pescatrice
+Anguish ornament kit;Kit ornamento angoscia
+Animal skull;Cranio animale
+Animals' bones;Ossa di animali
+Animate rock scroll;Animare il rotolo di rocce
+Ankou gloves;Guanti Ankou
+Ankou mask;Maschera Ankou
+Ankou socks;Calzini Ankou
+Ankou top;Anko in alto
+Ankou's leggings;I leggings di Ankou
+Anna's print;L'impronta di Anna
+Annakarl teleport;Teletrasporto di Annakarl
+Anti-dragon shield;Scudo anti-drago
+Anti-dragon shield (nz);Scudo anti-drago (nz)
+Anti-panties;Anti-mutandine
+Anti-poison supermix(1);Supermix antiveleni(1)
+Anti-poison supermix(2);Supermix antiveleni(2)
+Anti-present;Anti-presente
+Anti-venom(1);Anti-veleno(1)
+Anti-venom(2);Anti-veleno(2)
+Anti-venom(3);Anti-veleno(3)
+Anti-venom(4);Anti-veleno(4)
+Anti-venom+(1);Anti-veleno+(1)
+Anti-venom+(2);Anti-veleno+(2)
+Anti-venom+(3);Anti-veleno+(3)
+Anti-venom+(4);Anti-veleno+(4)
+Antidote+ (unf);Antidoto+ (unf)
+Antidote+ mix(1);Miscela antidoto+(1)
+Antidote+ mix(2);Miscela antidoto+(2)
+Antidote+(1);Antidoto+(1)
+Antidote+(2);Antidoto+(2)
+Antidote+(3);Antidoto+(3)
+Antidote+(4);Antidoto+(4)
+Antidote++ (unf);Antidoto++ (unf)
+Antidote++(1);Antidoto++(1)
+Antidote++(2);Antidoto++(2)
+Antidote++(3);Antidoto++(3)
+Antidote++(4);Antidoto++(4)
+Antifire mix(1);Miscela antincendio(1)
+Antifire mix(2);Miscela antincendio(2)
+Antifire potion(1);Pozione antincendio(1)
+Antifire potion(2);Pozione antincendio(2)
+Antifire potion(3);Pozione antincendio(3)
+Antifire potion(4);Pozione antincendio(4)
+Antipoison mix(1);Miscela antiveleno(1)
+Antipoison mix(2);Miscela antiveleno(2)
+Antipoison(1);Antiveleno(1)
+Antipoison(2);Antiveleno(2)
+Antipoison(3);Antiveleno(3)
+Antipoison(4);Antiveleno(4)
+Antique emblem (tier 1);Emblema antico (livello 1)
+Antique emblem (tier 10);Emblema antico (livello 10)
+Antique emblem (tier 2);Emblema antico (livello 2)
+Antique emblem (tier 3);Emblema antico (livello 3)
+Antique emblem (tier 4);Emblema antico (livello 4)
+Antique emblem (tier 5);Emblema antico (livello 5)
+Antique emblem (tier 6);Emblema antico (livello 6)
+Antique emblem (tier 7);Emblema antico (livello 7)
+Antique emblem (tier 8);Emblema antico (livello 8)
+Antique emblem (tier 9);Emblema antico (livello 9)
+Antique lamp;Lampada antica
+Antisanta boots;Stivali anti-Babbo Natale
+Antisanta gloves;Guanti anti Babbo Natale
+Antisanta jacket;Giacca anti-Babbo Natale
+Antisanta mask;Maschera anti-Babbo Natale
+Antisanta pantaloons;Pantaloni anti-Babbo Natale
+Antisanta's coal box;La scatola del carbone di Antisanta
+Antisanta's coal box (full);Scatola del carbone di Anti Babbo Natale (completa)
+Ape atoll teleport;Teletrasporto dell'atollo delle scimmie
+Apple barrel;Barile di mela
+Apple mush;Polpa di mele
+Apple pie;Torta di mele
+Apple sapling;Alberello di mele
+Apple seedling;Piantina di mele
+Apple seedling (w);Piantina di mela (w)
+Apple tree seed;Seme di melo
+Apples(1);Mele(1)
+Apples(2);Mele(2)
+Apples(3);Mele(3)
+Apples(4);Mele(4)
+Apples(5);Mele(5)
+Apprentice wand;Bacchetta da apprendista
+Apricot cream pie;Torta alla crema di albicocche
+Arachnids of vampyrium;Aracnidi del vampiro
+Arcane prayer scroll;Rotolo di preghiera arcana
+Arcane sigil;Sigillo arcano
+Arcane spirit shield;Scudo spirituale arcano
+Arcenia root;Radice di Arcenia
+Arceuus banner;Stendardo di Arceuus
+Arceuus favour certificate;Certificato di favore di Arceuus
+Arceuus hood;Cappuccio Arceuus
+Arceuus scarf;Sciarpa di Arceuus
+Arceuus signet;Sigillo di Arceuus
+Archaeologist's diary;Il diario dell'archeologo
+Archaic emblem (tier 1);Emblema arcaico (livello 1)
+Archaic emblem (tier 10);Emblema arcaico (livello 10)
+Archaic emblem (tier 2);Emblema arcaico (livello 2)
+Archaic emblem (tier 3);Emblema arcaico (livello 3)
+Archaic emblem (tier 4);Emblema arcaico (livello 4)
+Archaic emblem (tier 5);Emblema arcaico (livello 5)
+Archaic emblem (tier 6);Emblema arcaico (livello 6)
+Archaic emblem (tier 7);Emblema arcaico (livello 7)
+Archaic emblem (tier 8);Emblema arcaico (livello 8)
+Archaic emblem (tier 9);Emblema arcaico (livello 9)
+Archer helm;Elmo dell'arciere
+Archers ring;Anello degli arcieri
+Archers ring (i);Anello degli arcieri (i)
+Archery target;Bersaglio del tiro con l'arco
+Archery ticket;Biglietto per il tiro con l'arco
+Arclight;Arcoluce
+Arctic pine logs;Tronchi di pino artico
+Arctic pyre logs;Tronchi di pira artica
+Ardougne cloak;Mantello di Ardougne
+Ardougne cloak 1;Mantello di Ardougne 1
+Ardougne cloak 2;Mantello di Ardougne 2
+Ardougne cloak 3;Mantello di Ardougne 3
+Ardougne cloak 4;Mantello di Ardougne 4
+Ardougne knight helm;Elmo del cavaliere di Ardougne
+Ardougne knight platebody;Platebody del cavaliere d'Ardougne
+Ardougne knight platelegs;Gambe a piastre del cavaliere di Ardougne
+Ardougne knight tabard;Tabardo del cavaliere d'Ardougne
+Ardougne max cape;Mantello massimo di Ardougne
+Ardougne max hood;Cappa Ardougne max
+Ardougne teleport;Teletrasporto di Ardougne
+Ardougne teleport scroll;Pergamena del teletrasporto di Ardougne
+Ardrigal;Ardrigal
+Ardrigal mixture;Miscela di Ardrigal
+Arena book;Libro dell'Arena
+Armadyl bracers;Bracciali Armadilici
+Armadyl chainskirt;Gonna a catena Armadyl
+Armadyl chaps;Ragazzi Armadyl
+Armadyl chestplate;Corazza Armadyl
+Armadyl cloak;Mantello Armadilico
+Armadyl coif;Cuffia Armadyl
+Armadyl crossbow;Balestra armadilica
+Armadyl crozier;Bastone Armadyl
+Armadyl d'hide body;Corpo di Armadyl d'hide
+Armadyl d'hide boots;Stivali Armadyl d'hide
+Armadyl d'hide shield;Scudo di Armadyl d'hide
+Armadyl dragonhide set;Set di pelle di drago Armadyl
+Armadyl full helm;Elmo completo Armadyl
+Armadyl godsword;Spada divina di Armadyl
+Armadyl godsword (or);Spada divina Armadyl (o)
+Armadyl godsword ornament kit;Kit di decorazioni per la spada divina Armadyl
+Armadyl halo;Alone armadilico
+Armadyl halo (broken);Alone Armadilico (rotto)
+Armadyl halo (l);Alone armadilico (l)
+Armadyl helmet;Elmo Armadilico
+Armadyl hilt;Elsa armadilica
+Armadyl kiteshield;Scudo da aquilone Armadyl
+Armadyl mitre;Mitra armadilica
+Armadyl page 1;Armadile pagina 1
+Armadyl page 2;Armadile pagina 2
+Armadyl page 3;Armadile pagina 3
+Armadyl page 4;Armadile pagina 4
+Armadyl pendant;Ciondolo Armadile
+Armadyl platebody;Corpo piatto armadilico
+Armadyl platelegs;Gambe a piastre armadiliche
+Armadyl plateskirt;Gonna a piastre Armadyl
+Armadyl robe legs;Gambe della veste armadilica
+Armadyl robe top;Parte superiore della vestaglia in Armadyl
+Armadyl rune armour set (lg);Set armatura runica Armadyl (lg)
+Armadyl rune armour set (sk);Set armatura runica Armadyl (sk)
+Armadyl stole;Rubata di Armadyl
+Armillary sphere;Sfera armillare
+Armour shard;Frammento di armatura
+Armour stand;Supporto per armatura
+Arms;Braccia
+Arrow shaft;Asta della freccia
+Arrowheads;Punte di freccia
+Artefact;Artefatto
+Arthur portrait;Ritratto di Artù
+Asgarnian ale;Birra asgarniana
+Asgarnian ale(1);Birra asgarniana(1)
+Asgarnian ale(2);Birra Asgarniana(2)
+Asgarnian ale(3);Birra asgarniana(3)
+Asgarnian ale(4);Birra asgarniana(4)
+Asgarnian ale(m);Birra asgarniana(m)
+Asgarnian ale(m1);Birra Asgarniana(m1)
+Asgarnian ale(m2);Birra Asgarniana(m2)
+Asgarnian ale(m3);Birra asgarniana(m3)
+Asgarnian ale(m4);Birra Asgarniana(m4)
+Asgarnian hops;Luppolo Asgarniano
+Asgarnian seed;Seme asgarniano
+Asgoldian ale;Birra asgoldiana
+Ash covered tome;Tomo ricoperto di cenere
+Ashes;Ceneri
+Asleif's necklace;La collana di Asleif
+Assembler max cape;Mantella max da assemblatore
+Assembler max cape (broken);Mantello massimo dell'assemblatore (rotto)
+Assembler max cape (l);Mantella max assemblatore (l)
+Assembler max hood;Cappa max assemblatore
+Assorted flowers;Fiori assortiti
+Astral rune;Runa astrale
+Astral rune shards;Frammenti di rune astrali
+Astral tiara;Diadema astrale
+Astronomical chart;Carta astronomica
+Astronomy book;Libro di astronomia
+Asyn remains;Asyn rimane
+Attack cape;Mantello d'attacco
+Attack cape(t);Mantello d'attacco (t)
+Attack hood;Cappa d'attacco
+Attack mix(1);Mix di attacchi(1)
+Attack mix(2);Mix di attacchi(2)
+Attack potion(1);Pozione d'attacco(1)
+Attack potion(2);Pozione d'attacco(2)
+Attack potion(3);Pozione d'attacco(3)
+Attack potion(4);Pozione d'attacco(4)
+Attack stone;Pietra d'attacco
+Attacker horn;Corno dell'attaccante
+Attacker icon;Icona dell'attaccante
+Attas seed;Seme di Atta
+Auguste's sapling;L'alberello di Auguste
+Autumn garden;Giardino d'autunno
+Autumn sq'irk;Sq'irk autunnale
+Autumn sq'irkjuice;Succo d'autunno
+Ava's accumulator;L'accumulatore di Ava
+Ava's assembler;L'assemblatore di Ava
+Ava's assembler (broken);L'assemblatore di Ava (rotto)
+Ava's assembler (l);L'assemblatore di Ava (l)
+Ava's attractor;L'attrattore di Ava
+Avantoe;Avantoe
+Avantoe potion (unf);Pozione Avantoe (unf)
+Avantoe seed;Seme di Avantoe
+Avernic defender;Difensore avernico
+Avernic defender (broken);Difensore avernico (rotto)
+Avernic defender (l);Difensore avernico (l)
+Avernic defender hilt;Elsa difensore avernico
+Awful anthem;Inno terribile
+Axe handle;Manico dell'ascia
+Axe head;Testa d'ascia
+Axeman's folly;La follia di Axeman
+Axeman's folly(1);La follia di Axeman(1)
+Axeman's folly(2);La follia di Axeman(2)
+Axeman's folly(3);La follia di Axeman(3)
+Axeman's folly(4);La follia di Axeman(4)
+Axeman's folly(m);La follia di Axeman (m)
+Axeman's folly(m1);La follia dell'ascia(m1)
+Axeman's folly(m2);La follia dell'ascia(m2)
+Axeman's folly(m3);La follia dell'ascia(m3)
+Axeman's folly(m4);La follia dell'uomo con l'ascia (m4)
+Baby chinchompa;Cucciolo di cincillà
+Baby dragon bone;Osso del cucciolo di drago
+Baby dragon bonemeal;Farina di ossa del cucciolo di drago
+Baby impling jar;Barattolo per bambini
+Baby mole;Piccola talpa
+Baby mole-rat;Cucciolo di talpa
+Baby red dragon;Cucciolo di drago rosso
+Babydragon bones;Ossa di cucciolo di drago
+Bag full of gems;Borsa piena di gemme
+Bag of salt;Borsa di sale
+Bagged bluebells;Campanule imbustate
+Bagged daffodils;Narcisi in sacchi
+Bagged dead tree;Albero morto insaccato
+Bagged flower;Fiore insaccato
+Bagged magic tree;Albero magico insaccato
+Bagged maple tree;Albero di acero insaccato
+Bagged marigolds;Calendule imbustate
+Bagged nice tree;Bellissimo albero insaccato
+Bagged oak tree;Quercia insaccata
+Bagged plant 1;Pianta in sacchi 1
+Bagged plant 2;Pianta insaccata 2
+Bagged plant 3;Pianta in sacchi 3
+Bagged roses;Rose in busta
+Bagged sunflower;Girasole insaccato
+Bagged willow tree;Salice insaccato
+Bagged yew tree;Albero di tasso insaccato
+Baguette;Baguette
+Bailing bucket;Secchio di salvataggio
+Bait pack;Pacchetto di esche
+Baked potato;Patate al forno
+Bakery storage key;Chiave per la conservazione del panificio
+Balance beam;Trave di equilibrio
+Ball;Palla
+Ball of wool;Gomitolo di lana
+Ballad;Ballata
+Ballad of the basilisk;Ballata del basilisco
+Ballista limbs;Arti della balista
+Ballista spring;Molla balista
+Balloon structure;Struttura a palloncino
+Balloon toad;Rospo a palloncino
+Banana;Banana
+Banana cape;Mantello di banane
+Banana sapling;Alberello di banane
+Banana seedling;Piantina di banane
+Banana seedling (w);Piantina di banane (w)
+Banana stew;Stufato di banane
+Banana tree seed;Seme di banano
+Bananas(1);Banane(1)
+Bananas(2);Banane(2)
+Bananas(3);Banane(3)
+Bananas(4);Banane(4)
+Bananas(5);Banane(5)
+Bandages;Bende
+Bandana eyepatch;Benda sull'occhio della bandana
+Bandit;Bandito
+Bandit's brew;La birra del bandito
+Bandos boots;Stivali Bandos
+Bandos bracers;Bracciali Bandos
+Bandos chaps;Bandos ragazzi
+Bandos chestplate;Pettorale di Bandos
+Bandos cloak;Mantello di Bando
+Bandos coif;Cuffia Bandos
+Bandos crozier;Bandos pastorale
+Bandos d'hide body;Bandos d'hide body
+Bandos d'hide boots;Stivali Bandos d'hide
+Bandos d'hide shield;Scudo Bandos d'hide
+Bandos dragonhide set;Set di pelle di drago Bandos
+Bandos full helm;Timone completo di Bando
+Bandos godsword;Spada divina di Bandos
+Bandos godsword (or);Spada divina di Bandos (o)
+Bandos godsword ornament kit;Kit di decorazioni per la spada divina di Bandos
+Bandos halo;Alone di Bando
+Bandos halo (broken);Aureola di Bandos (rotta)
+Bandos halo (l);Aureola di Bandos (l)
+Bandos hilt;Elsa di Bando
+Bandos kiteshield;Scudo da aquilone Bandos
+Bandos mitre;Mitra di Bandos
+Bandos page 1;Bando pagina 1
+Bandos page 2;Bando pagina 2
+Bandos page 3;Bando pagina 3
+Bandos page 4;Bando pagina 4
+Bandos platebody;Corpo piatto Bandos
+Bandos platelegs;Gambe a piastre Bandos
+Bandos plateskirt;Gonna a piastre Bandos
+Bandos robe legs;Gambe della veste Bandos
+Bandos robe top;Parte superiore della vestaglia Bandos
+Bandos rune armour set (lg);Set armatura runica Bandos (lg)
+Bandos rune armour set (sk);Set armatura runica Bandos (sk)
+Bandos stole;Bandos ha rubato
+Bandos tassets;Nappe Bandos
+Bank filler;Riempitore bancario
+Bank key;Chiave della banca
+Banner;Stendardo
+Banner easel;Cavalletto per striscioni
+Banner stand;Supporto per striscioni
+Banshee;Banshee
+Banshee mask;Maschera da Banshee
+Banshee robe;Veste Banshee
+Banshee top;Top Banshee
+Bar magnet;Magnete a barra
+Barb bolttips;Puntali a ardiglione
+Barb-tail harpoon;Arpione a coda di ardiglione
+Barbarian rod;Verga barbarica
+Barbarian skills;Abilità barbariche
+Barbarian teleport;Teletrasporto barbaro
+Barbed arrow;Freccia appuntita
+Barbed bolts;Bulloni spinati
+Barcrawl card;Carta Barcrawl
+Bark;Abbaio
+Bark sample;Campione di corteccia
+Barley;Orzo
+Barley malt;Malto d'orzo
+Barley seed;Seme d'orzo
+Barrel;Barile
+Barrel bomb;Bomba a botte
+Barrel of coal tar;Barile di catrame di carbone
+Barrel of naphtha;Barile di nafta
+Barrelchest anchor;Ancora a botte
+Barricade;Barricata
+Barronite deposit;Deposito Barronita
+Barronite guard;Guardia barronita
+Barronite handle;Manico in barronite
+Barronite head;Testa barronita
+Barronite mace;Mazza Barronita
+Barronite mace (broken);Mazza Barronite (rotta)
+Barronite mace (l);Mazza Barronite (l)
+Barronite shards;Frammenti di Barronite
+Barrows gloves;Guanti da carriola
+Barrows teleport;I tumuli si teletrasportano
+Basalt;Basalto
+Base schematics;Schemi di base
+Basic jewellery box;Portagioie di base
+Basilisk;Basilisco
+Basilisk bone;Osso di basilisco
+Basilisk head;Testa di basilisco
+Basilisk jaw;Mascella del basilisco
+Basilisk knight;Cavaliere Basilisco
+Basket;Cestino
+Basket pack;Confezione da cestino
+Bass;Basso
+Bastion potion(1);Pozione Bastione(1)
+Bastion potion(2);Pozione Bastione(2)
+Bastion potion(3);Pozione Bastione(3)
+Bastion potion(4);Pozione Bastione(4)
+Bat bonemeal;Farina di ossa di pipistrello
+Bat bones;Ossa di pipistrello
+Bat shish;Pipistrello
+Bat wing;Ala di pipistrello
+Batta tin;Batta stagno
+Battered book;Libro malconcio
+Battered key;Chiave malconcia
+Battlefront teleport;Teletrasporto sul fronte di battaglia
+Battlemage potion(1);Pozione del mago guerriero(1)
+Battlemage potion(2);Pozione del mago guerriero(2)
+Battlemage potion(3);Pozione del mago guerriero(3)
+Battlemage potion(4);Pozione del mago guerriero(4)
+Battlestaff;Bastone da battaglia
+Bauble box;Scatola per palline
+Beach boxing gloves;Guanti da boxe da spiaggia
+Beacon ring;Anello faro
+Beads of the dead;Perle dei morti
+Beam;Trave
+Beanie;Berretto
+Bear feet;Orso piedi
+Bear fur;Pelliccia d'orso
+Bear ribs;Costolette d'orso
+Bearded gorilla bonemeal;Farina di ossa di gorilla barbuto
+Bearded gorilla greegree;Gorilla barbuto greegree
+Bearhead;Testa d'orso
+Beaten book;Libro battuto
+Beaver;Castoro
+Bedabin key;Chiave di Bedabin
+Bedroom;Camera da letto
+Bedsheet;Lenzuolo
+Beef fillet;Filetto di manzo
+Beekeeper's boots;Stivali da apicoltore
+Beekeeper's gloves;Guanti da apicoltore
+Beekeeper's hat;Cappello da apicoltore
+Beekeeper's legs;Le gambe dell'apicoltore
+Beekeeper's top;La parte superiore dell'apicoltore
+Beer;Birra
+Beer barrel;Barile di birra
+Beer glass;Bicchiere da birra
+Beer soaked hand;Mano imbevuta di birra
+Beer tankard;Boccale di birra
+Beginner wand;Bacchetta per principianti
+Bell bauble;Pallina di campana
+Bell jar;Campana di vetro
+Bell-pull;Suonare il campanello
+Belladonna seed;Seme di Belladonna
+Bells;Campane
+Belt buckle;Fibbia della cintura
+Bench with lathe;Banco con tornio
+Bench with vice;Panca con morsa
+Beret mask;Maschera berretto
+Berserker helm;Elmo del Berserker
+Berserker necklace;Collana Berserker
+Berserker necklace (or);Collana Berserker (o)
+Berserker necklace ornament kit;Kit di ornamenti per collana Berserker
+Berserker ring;Anello Berserker
+Berserker ring (i);Anello Berserker (i)
+Bert's rota;Il turno di Bert
+Bervirius notes;Bervirio nota
+Big bass;Grandi bassi
+Big bonemeal;Grande farina d'ossa
+Big bones;Grandi ossa
+Big book of bangs;Grande libro della frangetta
+Big fishing net;Grande rete da pesca
+Big frog leg;Grande coscia di rana
+Big harpoonfish;Grande pesce arpione
+Big pirate hat;Grande cappello da pirata
+Big shark;Grande squalo
+Big swordfish;Pesce spada grosso
+Binding book;Libro rilegato
+Binding fluid;Fluido legante
+Binding necklace;Collana vincolante
+Bird book;Libro degli uccelli
+Bird feed;Mangime per uccelli
+Bird house;Casa degli uccelli
+Bird nest;Nido di uccelli
+Bird snare;Laccio per uccelli
+Bird snare pack;Confezione di rullanti per uccelli
+Bird's egg;Uovo di uccello
+Birthday balloons;Palloncini di compleanno
+Birthday cake;Torta di compleanno
+Birthday present;Regalo di compleanno
+Bitter chocolate mix;Miscela di cioccolato amaro
+Bitter easter egg;Uovo di Pasqua amaro
+Bitternut;Amaro
+Black 2h sword;Spada nera 2h
+Black axe;Ascia nera
+Black axe head;Testa d'ascia nera
+Black balloon;Palloncino nero
+Black battleaxe;Ascia da battaglia nera
+Black bead;Perla nera
+Black beret;Berretto nero
+Black boater;Paglietta nera
+Black boots;Stivali neri
+Black brutal;Nero brutale
+Black candle;Candela nera
+Black candy;Caramella nera
+Black cane;Canna nera
+Black cape;Mantello nero
+Black cavalier;Cavaliere nero
+Black chainbody;Corpo a catena nero
+Black chinchompa;Cincincompa nero
+Black claws;Artigli neri
+Black coffin;Bara nera
+Black cog;Ingranaggio nero
+Black crystal;Cristallo nero
+Black d'hide body;Corpo in cuoio nero
+Black d'hide body (beta);Corpo in cuoio nero (beta)
+Black d'hide body (g);Corpo in cuoio nero (g)
+Black d'hide body (t);Corpo in cuoio nero (t)
+Black d'hide chaps;Pantaloni in pelle nera
+Black d'hide chaps (beta);Ghette nere d'hide (beta)
+Black d'hide chaps (g);Ghette in cuoio nero (g)
+Black d'hide chaps (t);Ghette in cuoio nero (t)
+Black d'hide shield;Scudo in cuoio nero
+Black d'hide vambraces;Parabraccia in cuoio nero
+Black d'hide vambraces (beta);Parabraccia in cuoio nero (beta)
+Black dagger;Pugnale nero
+Black dagger(p);Pugnale nero(p)
+Black dagger(p+);Pugnale nero(p+)
+Black dagger(p++);Pugnale nero(p++)
+Black dart;Dardo nero
+Black dart(p);Dardo nero(p)
+Black dart(p+);Dardo nero(p+)
+Black dart(p++);Dardo nero(p++)
+Black defender;Difensore nero
+Black defender (broken);Difensore nero (rotto)
+Black defender (l);Difensore nero (sx)
+Black demon mask;Maschera da demone nero
+Black desert robe;Veste nera del deserto
+Black desert shirt;Camicia nera da deserto
+Black destabiliser;Destabilizzatore nero
+Black dragon leather;Pelle di drago nera
+Black dragon mask;Maschera del drago nero
+Black dragonhide;Pelle di drago nera
+Black dragonhide set;Set di pelle di drago nera
+Black elegant legs;Gambe eleganti nere
+Black elegant shirt;Camicia elegante nera
+Black flowers;Fiori neri
+Black full helm;Elmo completo nero
+Black full helm (g);Elmo completo nero (g)
+Black full helm (t);Elmo completo nero (t)
+Black gloves;Guanti neri
+Black goblin mail;Cotta di maglia del goblin nero
+Black gold-trimmed set (lg);Set nero con finiture in oro (lg)
+Black gold-trimmed set (sk);Parure con finiture in oro nero (sk)
+Black h'ween mask;Maschera nera
+Black halberd;Alabarda nera
+Black headband;Fascia nera
+Black helm (h1);Elmo nero (h1)
+Black helm (h2);Elmo nero (h2)
+Black helm (h3);Elmo nero (h3)
+Black helm (h4);Elmo nero (h4)
+Black helm (h5);Elmo nero (h5)
+Black key black;Tasto nero nero
+Black key brown;Tasto nero marrone
+Black key crimson;Tasto nero cremisi
+Black key purple;Tasto nero viola
+Black key red;Tasto nero rosso
+Black kiteshield;Scudo da aquilone nero
+Black kiteshield (g);Scudo da aquilone nero (g)
+Black kiteshield (t);Scudo da aquilone nero (t)
+Black knife;Coltello nero
+Black knife(p);Coltello nero(p)
+Black knife(p+);Coltello nero(p+)
+Black knife(p++);Coltello nero(p++)
+Black knight helm;Elmo da cavaliere nero
+Black leprechaun hat;Cappello da folletto nero
+Black locks;Serrature nere
+Black longsword;Spada lunga nera
+Black mace;Mazza nera
+Black mask;Maschera nera
+Black mask (1);Maschera nera (1)
+Black mask (1) (i);Maschera nera (1) (i)
+Black mask (10);Maschera nera (10)
+Black mask (10) (i);Maschera nera (10) (i)
+Black mask (2);Maschera nera (2)
+Black mask (2) (i);Maschera nera (2) (i)
+Black mask (3);Maschera nera (3)
+Black mask (3) (i);Maschera nera (3) (i)
+Black mask (4);Maschera nera (4)
+Black mask (4) (i);Maschera nera (4) (i)
+Black mask (5);Maschera nera (5)
+Black mask (5) (i);Maschera nera (5) (i)
+Black mask (6);Maschera nera (6)
+Black mask (6) (i);Maschera nera (6) (i)
+Black mask (7);Maschera nera (7)
+Black mask (7) (i);Maschera nera (7) (i)
+Black mask (8);Maschera nera (8)
+Black mask (8) (i);Maschera nera (8) (i)
+Black mask (9);Maschera nera (9)
+Black mask (9) (i);Maschera nera (9) (i)
+Black mask (i);Maschera nera (i)
+Black med helm;Elmo medico nero
+Black mushroom;Fungo nero
+Black mushroom ink;Inchiostro nero di funghi
+Black nails;Unghie nere
+Black naval shirt;Camicia navale nera
+Black navy slacks;Pantaloni blu navy neri
+Black partyhat;Cappello da festa nero
+Black pick head;Testa di prelievo nera
+Black pickaxe;Piccone nero
+Black platebody;Corpo in lamiera nera
+Black platebody (g);Corpo in lamiera nera (g)
+Black platebody (h1);Corpo piatto nero (h1)
+Black platebody (h2);Corpo piatto nero (h2)
+Black platebody (h3);Corpo piatto nero (h3)
+Black platebody (h4);Corpo piatto nero (h4)
+Black platebody (h5);Corpo piatto nero (h5)
+Black platebody (t);Corpo piatto nero (t)
+Black platelegs;Gambe a piastre nere
+Black platelegs (g);Gambe a piastra nere (g)
+Black platelegs (t);Gambe a piastre nere (t)
+Black plateskirt;Gonna a piastre nera
+Black plateskirt (g);Gonna a piastre nera (g)
+Black plateskirt (t);Gonna a piastre nera (t)
+Black prism;Prisma nero
+Black robe;Veste nera
+Black salamander;Salamandra nera
+Black santa hat;Cappello da Babbo Natale nero
+Black satchel;Borsa nera
+Black scimitar;Scimitarra nera
+Black set (lg);Set nero (lg)
+Black set (sk);Set nero (sk)
+Black shield (h1);Scudo nero (h1)
+Black shield (h2);Scudo nero (h2)
+Black shield (h3);Scudo nero (h3)
+Black shield (h4);Scudo nero (h4)
+Black shield (h5);Scudo nero (h5)
+Black skirt;Gonna nera
+Black skirt (g);Gonna nera (g)
+Black skirt (t);Gonna nera (t)
+Black slayer helmet;Casco da cacciatore nero
+Black slayer helmet (i);Casco da cacciatore nero (i)
+Black spear;Lancia nera
+Black spear(kp);Lancia nera (kp)
+Black spear(p);Lancia nera(p)
+Black spear(p+);Lancia nera(p+)
+Black spear(p++);Lancia nera(p++)
+Black spiky vambraces;Parabraccia neri appuntiti
+Black sq shield;Scudo quadrato nero
+Black sword;Spada nera
+Black tourmaline core;Nucleo di tormalina nera
+Black toy horsey;Cavallino giocattolo nero
+Black tricorn hat;Cappello tricorno nero
+Black trimmed set (lg);Set con finiture nere (lg)
+Black trimmed set (sk);Set con finiture nere (sk)
+Black unicorn mask;Maschera da unicorno nero
+Black warhammer;Martello da guerra nero
+Black warlock;Stregone nero
+Black wizard hat (g);Cappello da mago nero (g)
+Black wizard hat (t);Cappello da mago nero (t)
+Black wizard robe (g);Veste nera da mago (g)
+Black wizard robe (t);Veste da mago nero (t)
+Blackened crystal;Cristallo annerito
+Blacksmith's helm;Elmo del fabbro
+Blade of saeldor;Lama di Saeldor
+Blade of saeldor (c);Lama di Saeldor (c)
+Blade of saeldor (inactive);Lama di Saeldor (inattivo)
+Blamish bark shell;Guscio di corteccia Blamish
+Blamish blue shell;Guscio blu incrinato
+Blamish myre shell;Accidenti a Myre Shell
+Blamish ochre shell;Conchiglia color ocra
+Blamish oil;Olio incolpevole
+Blamish red shell;Guscio rosso blando
+Blamish snail slime;Bava di lumaca infame
+Blank air rune;Runa dell'aria vuota
+Blank earth rune;Runa della terra vuota
+Blank fire rune;Runa del fuoco vuota
+Blank mind rune;Runa della mente vuota
+Blank water rune;Runa dell'acqua vuota
+Blasted ore;Minerale fatto saltare
+Bleached bones;Ossa sbiancate
+Blessed axe;Ascia benedetta
+Blessed gold bowl;Benedetta ciotola d'oro
+Blessed lamp;Lampada benedetta
+Blessed pot;Pentola benedetta
+Blessed spirit shield;Scudo dello spirito benedetto
+Blessed water;Acqua benedetta
+Blighted ancient ice sack;Sacco di ghiaccio antico rovinato
+Blighted anglerfish;Rana pescatrice rovinata
+Blighted bind sack;Sacco di legatura rovinato
+Blighted entangle sack;Sacco impigliato rovinato
+Blighted karambwan;Karambwan rovinato
+Blighted manta ray;Manta rovinata
+Blighted snare sack;Sacco rullante rovinato
+Blighted super restore(1);Super ripristino rovinato(1)
+Blighted super restore(2);Super ripristino rovinato(2)
+Blighted super restore(3);Super ripristino rovinato(3)
+Blighted super restore(4);Super ripristino rovinato(4)
+Blighted teleport spell sack;Sacco di incantesimi di teletrasporto rovinato
+Blighted vengeance sack;Sacco di vendetta rovinato
+Blindweed;Erba cieca
+Blindweed seed;Seme di erba cieca
+Blisterwood flail;Mazzafrusto di legno vescicolare
+Blisterwood logs;Tronchi di legno blister
+Blisterwood sickle;Falce di legno di vescicola
+Bloated toad;Rospo gonfio
+Blood diamond;Diamante insanguinato
+Blood money;Soldi insanguinati
+Blood pint;Una pinta di sangue
+Blood potion;Pozione di sangue
+Blood rune;Runa del sangue
+Blood rune (nz);Runa del sangue (nz)
+Blood shard;Frammento di sangue
+Blood tithe pouch;Sacca per la decima del sangue
+Blood'n'tar snelm;Snelm di sangue e catrame
+Bloodbark body;Corpo di corteccia di sangue
+Bloodbark boots;Stivali di corteccia di sangue
+Bloodbark gauntlets;Guanti di corteccia di sangue
+Bloodbark helm;Elmo di corteccia di sangue
+Bloodbark legs;Gambe di corteccia di sangue
+Bloodhound;Segugio
+Bloodier key;Chiave più sanguinosa
+Bloodveld;Bloodveld
+Bloody bracer;Bracciale insanguinato
+Bloody diary;Maledetto diario
+Bloody grimoire;Grimorio sanguinante
+Bloody head;Testa insanguinata
+Bloody key;Maledetta chiave
+Bloody mourner top;Top insanguinato in lutto
+Bloody notes;Note sanguinanti
+Bludgeon axon;Assone di mazza
+Bludgeon claw;Artiglio di mazza
+Bludgeon spine;Dorso di mazza
+Blue balloon;Palloncino blu
+Blue beret;Berretto blu
+Blue boater;Paglietta blu
+Blue boots;Stivali blu
+Blue candy;Caramella blu
+Blue cape;Mantello blu
+Blue cog;Ingranaggio blu
+Blue crystal;Cristallo blu
+Blue d'hide body;Corpo in cuoio blu
+Blue d'hide body (g);Corpo in cuoio blu (g)
+Blue d'hide body (t);Corpo in cuoio blu (t)
+Blue d'hide chaps;Pantaloni blu di pelle
+Blue d'hide chaps (g);Ghette in cuoio blu (g)
+Blue d'hide chaps (t);Chaps blu d'hide (t)
+Blue d'hide shield;Scudo in cuoio blu
+Blue d'hide vambraces;Parabraccia blu in cuoio
+Blue dark bow paint;Vernice fiocco blu scuro
+Blue destabiliser;Destabilizzatore blu
+Blue dragon leather;Pelle di drago blu
+Blue dragon mask;Maschera del drago blu
+Blue dragon scale;Scaglia di drago blu
+Blue dragonhide;Pelle di drago blu
+Blue dragonhide set;Set di pelle di drago blu
+Blue dye;Colorante blu
+Blue dye bellows;Soffietto in tinta blu
+Blue egg;Uovo blu
+Blue elegant blouse;Blusa elegante blu
+Blue elegant legs;Gambe eleganti blu
+Blue elegant shirt;Camicia elegante blu
+Blue elegant skirt;Gonna elegante blu
+Blue feather;Piuma blu
+Blue firelighter;Accendifuoco blu
+Blue flowers;Fiori blu
+Blue gingerbread shield;Scudo di pan di zenzero blu
+Blue goblin mail;Cotta di maglia del folletto blu
+Blue halloween mask;Maschera di Halloween blu
+Blue hat;Cappello blu
+Blue headband;Fascia blu
+Blue icon;Icona blu
+Blue liquid;Liquido blu
+Blue logs;Registri blu
