@@ -1,0 +1,3797 @@
+A Clam Shell;Een mosselschelp
+A Goblin standard;Een Goblin-standaard
+A Shayzien State;Een Shayzien-staat
+A Sinking Canoe;Een zinkende kano
+A barrel of rainwater;Een vat regenwater
+A bunk bed;Een stapelbed
+A burnt tree;Een verbrande boom
+A chasm;Een kloof
+A crack;Een scheur
+A dark crystal;Een donker kristal
+A fairy workbench;Een sprookjeswerkbank
+A fallen barrel;Een gevallen vat
+A flag;Een vlag
+A gap through the wall;Een gat door de muur
+A peculiar foot print;Een bijzondere voetafdruk
+A primitive joke;Een primitieve grap
+A rock;Een rots
+A shabby tent;Een armoedig tentje
+A tropical tree;Een tropische boom
+A wall;Een muur
+A wooden log;Een houten blok
+Abandoned Cart;Verlaten winkelwagen
+Abandoned Equipment;Verlaten apparatuur
+Absence of tears;Afwezigheid van tranen
+Absorption potion;Absorptie drankje
+Abstract mural;Abstracte muurschildering
+Abyssal Sire Topiary;Abyssale vader vormsnoei
+Abyssal Sire display;Abyssal Sire-display
+Abyssal demon head;Abyssaal demon hoofd
+Abyssal rift;Afgrond kloof
+Accomplishment scroll space;Voltooiing scroll ruimte
+Achey Tree;Ache Boom
+Achey Tree stump;Achey Boomstronk
+Achievement diary display;Prestatiedagboekweergave
+Acid pool;Zuur zwembad
+Acidic miasma;Zuur miasma
+Adamant armour;Adamant pantser
+Adult Yommi tree;Volwassen Yommi-boom
+Adventure log space;Avontuurlijke logruimte
+Aged log;Verouderd logboek
+Aggie's Cauldron;Aggie's Ketel
+Air balloon;Luchtballon
+Air rift;Lucht kloof
+Alan;Alan
+Alchemical Hydra;Alchemistische Hydra
+Alchemical Hydra display;Alchemistische Hydra-weergave
+Alchemical Topiary;Alchemistische vormsnoei
+Alchemical chart;Alchemistische grafiek
+Alchemical door;Alchemistische deur
+Alchemists Teleport;Alchemisten teleporteren
+Alcove;Prieel
+Ali M's Market;Ali M's markt
+Allotment;Toewijzing
+Almost a Statue;Bijna een standbeeld
+Altar;Altaar
+Altar of Guthix;Altaar van Guthix
+Altar of Zamorak;Altaar van Zamorak
+Altar of nature;Altaar van de natuur
+Altar of the Occult;Altaar van het occulte
+Altar slab;Altaar plaat
+Altar space;Altaar ruimte
+Amlodd Banner;Amlodd-banner
+Amulet of Glory;Amulet van glorie
+Amulet space;Amulet ruimte
+An anonymous looking door;Een anoniem ogende deur
+An experimental anvil;Een experimenteel aambeeld
+An ogre standard;Een ogre-standaard
+An old lever;Een oude hendel
+Ancestral Glyph;Voorouderlijk symbool
+Anchor;Anker
+Anchor rope;Anker touw
+Ancient Altar;Oud Altaar
+Ancient Books;Oude boeken
+Ancient Equipment;Oude uitrusting
+Ancient Fire;Oud vuur
+Ancient Gate;Oude poort
+Ancient Grave;Oud graf
+Ancient Incubator;Oude incubator
+Ancient Machinery;Oude machines
+Ancient Mural;Oude muurschildering
+Ancient Pillar;Oude pijler
+Ancient Relic;Oud relikwie
+Ancient Rock;Oude rots
+Ancient Shroom;Oude paddo
+Ancient Zygomite;Oude Zygomiet
+Ancient brazier;Oude vuurpot
+Ancient bush;Oude struik
+Ancient cave painting;Oude grotschildering
+Ancient chest;Oude kist
+Ancient gallows;Oude galg
+Ancient machinery;Oude machines
+Ancient metal gate;Oude metalen poort
+Anima patch;Anima-patch
+Animal skull;Dierlijke schedel
+Anna's barrel;Anna's vat
+Annakarl Portal;Annakarl-portaal
+Anti-Dragon Breath Shield;Anti-Draak Ademschild
+Antiques Shop Stall;Antiekwinkelkraam
+Anvil;Aambeeld
+Ape Atoll Dungeon Portal;Ape Atoll kerkerportaal
+Apparatus;Inrichting
+Appendage;Aanhangsel
+Apple Press;Appelpers
+Apple Tree;Appelboom
+Apple basket;Appelmand
+Apple tree;Appelboom
+Apple tree stump;Appelboomstronk
+Aquarium;Aquarium
+Arcane crystal;Arcaan kristal
+Arceuus Library Portal;Arceuus Bibliotheekportaal
+Arceuus statue;Arceuus-standbeeld
+Arch;Boog
+Archery target;Boogschieten doel
+Archway;Boog
+Arctic Pine;Arctische den
+Ardougne Portal;Portaal van Ardougne
+Ardougne Wall Door;Ardougne muurdeur
+Arena;Arena
+Arena Entrance;Arena-ingang
+Arena Exit;Arena-uitgang
+Arena space;Arena-ruimte
+Argento;Argento
+Arm;Arm
+Armadyl altar;Armadyl altaar
+Armadyl armour display case;Armadyl-pantservitrine
+Armed Forces Report;Rapport van de strijdkrachten
+Armillary sphere;Armillairsfeer
+Armour;Pantser
+Armour case;Armor koffer
+Armour case space;Ruimte voor pantserkoffer
+Armour display;Armor-weergave
+Armour repair stand;Reparatiestandaard voor pantser
+Armour space;Armor ruimte
+Armour stall;Armor stal
+Armour stand;Armor standaard
+Arrav;Arrava
+Arrow;Pijl
+Arrows;Pijlen
+Artefact;Artefact
+Artefacts;artefacten
+Asgarnian Ale;Asgarniaans bier
+Asgarnian Hops;Asgarnische hop
+Asgarnian ale;Asgarniaans bier
+Ash pile;As stapel
+Aspidistra plant;Aspidistra-plant
+Astronomical chart;Astronomische kaart
+Attack stone;Aanval steen
+Attacker item machine;Aanvaller-itemmachine
+Attas plant;Attas-fabriek
+Attas plant display;Attas plantendisplay
+Avalanche;Lawine
+Aviary Hatch;Volièreluik
+Awakened Altar;Ontwaakt altaar
+Awowogei;Awowogei
+Axe cabinet;Bijl kast
+Axe case;Bijl koffer
+Axeman's Folly;De dwaasheid van Axeman
+Axes;Bijlen
+Baby red dragon;Kleine rode draak
+Backpack;Rugzak
+Badly repaired wall;Slecht gerepareerde muur
+Bags for sale;Zakken te koop
+Bailing buckets;Emmers werpen
+Baker's Stall;Bakkersstal
+Baker's stall;Bakkers kraam
+Bakery stall;Bakkerij kraam
+Balance beam;Evenwichtsbalk
+Balancing ledge;Balancerende richel
+Balancing rope;Balancerend touw
+Ball;Bal
+Ballista;Ballista
+Bamboo Bed;Bamboe bed
+Bamboo Bookcase;Bamboe boekenkast
+Bamboo Desk;Bamboe bureau
+Bamboo Door;Bamboe Deur
+Bamboo Gate;Bamboe poort
+Bamboo Ladder;Bamboeladder
+Bamboo Pipes;Bamboe pijpen
+Bamboo Stool;Bamboe Kruk
+Banana Tree;Bananenboom
+Banana tree;Bananenboom
+Banana tree stump;De stronk van een bananenboom
+Bandage table;Verband tafel
+Bandos altar;Bandos-altaar
+Bandos armour display case;Bandos pantservitrine
+Bank;Bank
+Bank Booth;Bank stand
+Bank Box;Bankbox
+Bank Chest-wreck;Bankkistwrak
+Bank Deposit Box;Bankdeposito
+Bank Deposit Chest;Bankdepositokist
+Bank Deposit Pot;Bankdepositopot
+Bank Table;Banktafel
+Bank booth;Bank stand
+Bank chest;Bankkist
+Bank counter;Bankteller
+Bank deposit box;Bankdepot
+Bank light;Banklicht
+Bank notice board;Prikbord van de bank
+Bank papers;Bankpapieren
+Bank safe;Bank veilig
+Bank table;Bank tafel
+Banner;Banier
+Banner making stand;Stand voor het maken van spandoeken
+Banner stand;Bannerstandaard
+Banner stand space;Standruimte voor banners
+Banquet table;Banket tafel
+Bar;Bar
+Bar dispenser;Bardispenser
+Bar pumps;Bar-pompen
+Barbarian anvil;Barbaars aambeeld
+Barbarian bed;Barbaars bed
+Barbarian chair;Barbaarse stoel
+Barbarian table;Barbaarse tafel
+Barge controls;Controles op schepen
+Barley;Gerst
+Barrel;Loop
+Barrel of Mud;Vat modder
+Barrel of Spears;Vat speren
+Barrel of Water;Vat water
+Barrel of fish;Vat vis
+Barrel of fishbones;Vat visgraten
+Barrel of flour;Vat meel
+Barrel rack;Vat rek
+Barrel space;Vat ruimte
+Barrels;Vaten
+Barren patch;Onvruchtbaar stukje
+Barricade;Barricade
+Barricade table;Barricade tafel
+Barrier;Barrière
+Barronite Crusher;Barronietbreker
+Barrow;Kruiwagen
+Barrows Portal;Barrows-portaal
+Bars;Staven
+Barstool;Barkruk
+Basalt rock;Basalt gesteente
+Basic Jewellery Box;Basis sieradendoosje
+Basilisk head;Basilisk hoofd
+Basket;Mand
+Basket Fungi;Mand schimmels
+Bath;Bad
+Bath pipes;Bad pijpen
+Bath screen;Bad scherm
+Bathroom table;Badkamer tafel
+Bathtub;Bad
+Battering ram;Stormram
+Battle tower;Gevechtstoren
+Battlefront Portal;Battlefront-portaal
+Battlement;Kantelen
+Battlements;Kantelen
+Bay window;Erker
+Beach;Strand
+Beacon;Baken
+Beacon.;Baken.
+Beam;Straal
+Bean Mound;Bonenheuvel
+Beanstalk;Bonenstaak
+Beanstump;Bonenstronk
+Bear droppings;Uitwerpselen van beren
+Beard;Baard
+Bed;Bed
+Bed hotspot;Bed-hotspot
+Bed space;Bedruimte
+Bedroom door;Slaapkamerdeur
+Beehive;Bijenkorf
+Beer barrel;Biervat
+Beer barrels;Biervaten
+Beetle;Kever
+Bell;Klok
+Bell mechanism;Belmechanisme
+Bell pull space;Beltrekruimte
+Bell rope;Bel touw
+Bell-pull;Bell-trek
+Belladonna;Belladonna
+Belladonna patch;Belladonna-patch
+Bellows;Balg
+Bells;Klokken
+Bellshroom;Bellsroom
+Bench;Bank
+Betty's cauldron;Betty's ketel
+Biclopse;Biclops
+Big Button;Grote knop
+Big Compost Bin;Grote compostbak
+Big Door;Grote deur
+Big Plant space 1;Grote fabrieksruimte 1
+Big Plant space 2;Grote fabrieksruimte 2
+Big Tree space;Grote boomruimte
+Big beer barrel;Groot biervat
+Big chest;Grote borst
+Big door;Grote deur
+Big egg;Groot ei
+Big fish;Grote vis
+Big hole;Groot gat
+Big plant;Grote plant
+Big plant 2;Grote fabriek 2
+Big vase;Grote vaas
+Big window;Groot raam
+Big, big boulder...;Grote, grote rots...
+Big, foot print;Grote voetafdruk
+Bin;Bak
+Bird cage stand;Vogelkooi standaard
+Bird feeder;Vogelvoeder
+Bird hide structure;Structuur van vogelhuid
+Bird snare;Vogel strik
+Birdhouse;Vogelhuis
+Birdhouse (empty);Vogelhuisje (leeg)
+Birdseed holder;Houder voor vogelzaad
+Birthday cake;Verjaardagstaart
+Bittercap Mushrooms;Bittercap-champignons
+Bitternut Sign;Bitternoot teken
+Bitternut Tree;Bitternootboom
+Black Chest;Zwarte borst
+Black crystal;Zwart kristal
+Black hole;Zwart gat
+Black mushrooms;Zwarte paddestoelen
+Blackboard;Schoolbord
+Blacksmith's tools;Gereedschap van de smid
+Blacksmiths' tools;Gereedschappen van smeden
+Blade;Blad
+Blighted Bologano plant;Verwoeste Bologano-plant
+Blighted Bologano seedling;Verwoeste Bologano-zaailing
+Blighted Golovanova plant;Verwoeste Golovanova-plant
+Blighted Golovanova seedling;Verwoeste Golovanova-zaailing
+Blighted Logavano plant;Verwoeste Logavano-plant
+Blighted Logavano seedling;Verwoeste Logavano-zaailing
+Blighted vine;Verwoeste wijnstok
+Blindweed Patch;Blindweed-patch
+Blisterwood Tree;Blisterwood-boom
+Blockage;Verstopping
+Blocked Crevice;Geblokkeerde spleet
+Blocked Tunnel;Geblokkeerde tunnel
+Blocked entry;Geblokkeerde toegang
+Blocked tunnel;Geblokkeerde tunnel
+Blocked volcanic chamber;Geblokkeerde vulkanische kamer
+Blood;Bloed
+Blood Altar;Bloed Altaar
+Blood Orb;Bloedbol
+Blood Stinkhorn;Bloed stinkhoorn
+Blood Stinktree;Bloed Stinkboom
+Blood crystal;Bloed kristal
+Blood rift;Bloed kloof
+Blooming Hespori sprout;Bloeiende Hespori-spruit
+Blue Barrier;Blauwe barrière
+Blue Fire;Blauw vuur
+Blue Flowers;Blauwe bloemen
+Blue Water Sign;Blauw waterteken
+Blue banner;Blauwe vlag
+Blue chemical;Blauwe chemische stof
+Blue door;Blauwe deur
+Blue flowers;Blauwe bloemen
+Blue tears;Blauwe tranen
+Bluebells;Boshyacinten
+Blurberry bar;Blurberry-balk
+Boarded-up door;Dichtgetimmerde deur
+Boards;Planken
+Boat;Boot
+Boat Chute;Boothelling
+Boat station;Bootstation
+Boaty;Bootachtig
+Bob's barrel;Bob's vat
+Body rift;Lichaamsbreuk
+Bog;Moeras
+Boil;Koken
+Boiler;Ketel
+Boils;Kookt
+Bologano plant;Bologano-fabriek
+Bologano seedling;Bologano-zaailing
+Bone Chain;Bottenketting
+Bone Crane;Bot kraan
+Bone arch;Botboog
+Bone barrel;Boten vat
+Bone door;Deur van been
+Bone grinder;Bottenslijper
+Bone rack;Bottenrek
+Bone support;Ondersteuning van botten
+Bones;Botten
+Boney ladder;Botte ladder
+Bonfire;Vreugdevuur
+Bonzo's Table;Bonzo's tafel
+Book Cart;Boek winkelwagen
+Book table;Boek tafel
+Bookcase;Boekenkast
+Bookcase space;Boekenkast ruimte
+Books;Boeken
+Bookshelf;Boekenplank
+Bookshelves;Boekenplanken
+Boss lair display;Baas hol weergave
+Boss lair space;Baas hol ruimte
+Bottle;Fles
+Bottle Machine;Flessenmachine
+Bottle machine;Flessenmachine
+Boulder;Kei
+Boulders;Rotsblokken
+Boundary stones;Grensstenen
+Bow and Arrow;Pijl en boog
+Bow and arrow;Pijl en boog
+Bow cabinet;Boog kast
+Bow case;Boog geval
+Bowl;Schaal
+Bowsprit;Boegspriet
+Box;Doos
+Box cart;Kistenwagen
+Box of Health;Doos van Gezondheid
+Box of bones;Doos met botten
+Box trap;Box val
+Boxes;Dozen
+Boxing mat;Boksmat
+Boxing ring;Boksring
+Branch;Tak
+Brazier;Koperslager
+Brew Barrel;Brouwvat
+Brewer's Barrel;Brouwersvat
+Brewing control;Controle van het brouwen
+Brewing vat;Brouwvat
+Brick;Baksteen
+Bricks;Bakstenen
+Bridge;Brug
+Bright crystal;Helder kristal
+Brimstone chest;Zwavelborst
+Broken Bed;Gebroken bed
+Broken Brazier;Gebroken Brazier
+Broken Cabinet;Gebroken kabinet
+Broken Cannon;Gebroken kanon
+Broken Cart;Gebroken kar
+Broken Chair;Gebroken stoel
+Broken Cupboard;Gebroken kast
+Broken Door;Gebroken deur
+Broken Drawers;Gebroken laden
+Broken Dresser;Gebroken dressoir
+Broken Fence;Gebroken hek
+Broken Fire altar;Gebroken Vuuraltaar
+Broken Fountain;Gebroken fontein
+Broken Grandfather Clock;Gebroken grootvaderklok
+Broken Grandiose Doors;Gebroken grandioze deuren
+Broken Grate;Gebroken rooster
+Broken Lecturn;Gebroken lezing
+Broken Mirror;Gebroken spiegel
+Broken Old Bookshelf;Gebroken oude boekenplank
+Broken Plantpot;Gebroken plantenpot
+Broken Potter's Wheel;Gebroken pottenbakkerswiel
+Broken Raft;Gebroken vlot
+Broken Railing;Gebroken reling
+Broken Range;Gebroken bereik
+Broken Roof;Gebroken dak
+Broken Scaffold;Gebroken steiger
+Broken Shelves;Gebroken planken
+Broken Sink;Gebroken gootsteen
+Broken Spinning Wheel;Gebroken spinnewiel
+Broken Statue;Gebroken standbeeld
+Broken Table;Gebroken tafel
+Broken Wall;Gebroken muur
+Broken Well;Gebroken goed
+Broken altar;Gebroken altaar
+Broken barrel;Gebroken vat
+Broken bath;Kapotte bad
+Broken battering ram;Gebroken stormram
+Broken beer glass;Gebroken bierglas
+Broken boat;Kapotte boot
+Broken bridge;Gebroken brug
+Broken cage;Gebroken kooi
+Broken cannon;Gebroken kanon
+Broken cart;Gebroken kar
+Broken cart wheel;Gebroken karwiel
+Broken catapult;Gebroken katapult
+Broken chain;Gebroken ketting
+Broken chair;Kapotte stoel
+Broken cogs;Gebroken tandwielen
+Broken counter;Gebroken teller
+Broken crossbow;Gebroken kruisboog
+Broken dead tree;Gebroken dode boom
+Broken door;Gebroken deur
+Broken drilling machine;Kapotte boormachine
+Broken equipment table;Kapotte apparatuurtafel
+Broken experiment tube;Gebroken proefbuis
+Broken fence;Gebroken hek
+Broken fish display;Gebroken visvertoning
+Broken furnace;Gebroken oven
+Broken ground;Gebroken grond
+Broken kiln;Gebroken oven
+Broken ladder;Gebroken ladder
+Broken lamp;Kapotte lamp
+Broken lobster trap;Gebroken kreeftenval
+Broken log raft;Gebroken boomstamvlot
+Broken logs;Gebroken logboeken
+Broken mace trap;Gebroken foelieval
+Broken machinery;Kapotte machines
+Broken mast;Gebroken mast
+Broken multicannon;Gebroken multikanon
+Broken pillar;Gebroken pilaar
+Broken rail;Gebroken spoor
+Broken range;Gebroken bereik
+Broken rock;Gebroken rots
+Broken rope bridge;Gebroken touwbrug
+Broken rowboat;Kapotte roeiboot
+Broken rune case;Gebroken runendoos
+Broken snare;Gebroken strik
+Broken spinning wheel;Gebroken spinnewiel
+Broken stairs;Gebroken trap
+Broken stool;Gebroken kruk
+Broken strut;Gebroken stut
+Broken sun altar;Gebroken zonne-altaar
+Broken support;Gebroken steun
+Broken table;Gebroken tafel
+Broken trap(0);Gebroken val(0)
+Broken wall;Gebroken muur
+Broken weapons;Gebroken wapens
+Bronze Chest;Bronzen kist
+Bronze Door;Bronzen deur
+Bronze axe;Bronzen bijl
+Bronze pickaxe;Bronzen houweel
+Broom;Bezem
+Bruma roots;Bruma-wortels
+Bryophyta display;Bryophyta-vertoning
+Bubbles;Bubbels
+Bucket;Emmer
+Bucket of Blood;Emmer bloed
+Buckets;Emmers
+Budding branch;Ontluikende tak
+Buffers;Buffers
+Buffet table;Buffettafel
+Bull's head;Het hoofd van de stier
+Bullrushes;Bullrushes
+Bunk bed;Stapelbed
+Bunkbed;Stapelbed
+Bunsen burner;Bunsenbrander
+Burial cairn;Begrafenis steenhoop
+Burial mound;Grafheuvel
+Buried artefact;Begraven artefact
+Buried skeleton;Begraven skelet
+Burning bones;Brandende botten
+Burning brazier;Brandende vuurpot
+Burning driftwood;Brandend drijfhout
+Burnt chest;Verbrande borst
+Burnt rock;Verbrande rots
+Burnt tree;Verbrande boom
+Burrow;Hol
+Burst boil;Burst kook
+Bush;Struik
+Bush Patch;Bush-patch
+Bust;Borstbeeld
+Button;Knop
+Cabbage;Kool
+Cabbages;Kool
+Cabinet;Kastje
+Cabinet space;Kastruimte
+Cable;Kabel
+Cactus;Cactus
+Cactus patch;Cactus-patch
+Cadarn Banner;Cadarn-banner
+Cadava bush;Kadaver struik
+Cadavaberry bush;Kadaverbesstruik
+Cage;Kooi
+Cage door;Deur van de kooi
+Cages;Kooien
+Calquat Tree;Calquat-boom
+Calquat patch;Calquat-patch
+Camel's statue;Het standbeeld van een kameel
+Camelot Portal;Camelot-portaal
+Camorra;Camorra
+Camp fire;Kampvuur
+Campbed;Gekampeerd
+Campfire;Kampvuur
+Camping equipment;Kampeeruitrusting
+Camping fire;Kampvuur
+Camping gear;Kampeerspullen
+Campsite bed;Camping bed
+Canal barge;Kanaalschip
+Canal wall;Kanaal muur
+Canary;Kanarie
+Candelabrum;Kandelaar
+Candle;Kaars
+Candle stand;Kaarsenstandaard
+Candles;Kaarsen
+Candlestick holder;Kandelaar houder
+Cannon;Kanon
+Cannon barrels;Kanonlopen
+Cannon base;Kanonbasis
+Cannon stand;Kanon stand
+Cannonball;Kanonskogel
+Cannonballs;Kanonskogels
+Canoe Station;Kanostation
+Canopic Jar;Canopische pot
+Cape hanger;Kaap hanger
+Cape of Legends;Kaap der Legenden
+Cape rack space;Kaap rekruimte
+Captain's Table;Kapiteinstafel
+Carcass;Karkas
+Carol's barrel;Carol's vat
+Carpet;Tapijt
+Carpet Exhibit;Tapijt tentoonstelling
+Carpet hotspot;Tapijt hotspot
+Carrallangar Portal;Carrallangar-portaal
+Carrot;Wortel
+Cart;Winkelwagen
+Cart Camel;Kar Kameel
+Cart Track;Winkelwagenspoor
+Cart track sign;Winkelwagen track teken
+Cart tunnel;Winkelwagentunnel
+Carved doors;Gesneden deuren
+Carved head;Gesneden hoofd
+Carved log;Gesneden logboek
+Carved oak bench;Gesneden eiken bank
+Carved redwood;Gesneden sequoia
+Carved rock;Gesneden rots
+Carved teak bench;Gesneden teakhouten bank
+Carving;Snijwerk
+Castle Gates;Kasteelpoorten
+Castle Wars portal;Castle Wars-portaal
+Castle door;Kasteel deur
+Castle wall;Kasteel muur
+Casual;Casual
+Cat;Kat
+Cat Shrine;Katten heiligdom
+Cat basket;Kattenmand
+Cat basket space;Ruimte voor kattenmand
+Catapult;Katapult
+Catapult-lever;Katapult-hendel
+Catapult-winch;Katapult-lier
+Catherby Portal;Catherby-portaal
+Cauldron;Ketel
+Cauldron of Thunder;Ketel van de donder
+Cave;Grot
+Cave Entrance;Ingang van de grot
+Cave Exit;Uitgang grot
+Cave entrance;Ingang van de grot
+Cave exit;Uitgang grot
+Cave gobins;Grotgobins
+Cave in;Grot erin
+Cave opening;Opening van de grot
+Cave rocks;Grot rotsen
+Cave wall;Grot muur
+Cave web;Grot web
+Cavern;Grot
+Cavern entrance;Ingang grot
+Cavern exit;Uitgang grot
+Cavity;Holte
+Ceiling support;Plafondsteun
+Celastrus patch;Celastrus-pleister
+Celastrus tree;Celastrus-boom
+Celastrus tree stump;Celastrus boomstronk
+Celestial globe;Hemelse bol
+Cell Door;Celdeur
+Cell Gate;Celpoort
+Cell door;Celdeur
+Cell wall;Celwand
+Cell wall window;Celwand raam
+Cellar stairs;Keldertrap
+Cello;Cello
+Cemetery Portal;Begraafplaats Portaal
+Cenotaph;Cenotaaf
+Centre of crop circle;Middelpunt van de graancirkel
+Centre piece;Middenstuk
+Centrepiece space;Middenstuk ruimte
+Cerberus Topiary;Cerberus vormsnoei
+Cerberus display;Cerberus-vertoning
+Ceremonial Brazier;Ceremoniële Brazier
+Ceremonial Pillar;Ceremoniële pijler
+Ceremonial Pillow;Ceremonieel kussen
+Ceremonial Pillow Stack;Ceremoniële kussenstapel
+Ceremonial table;Ceremoniële tafel
+Certificate of healing;Certificaat van genezing
+Chain;Ketting
+Chains;Ketens
+Chair;Stoel
+Chair hotspot;Stoel-hotspot
+Chair space;Stoel ruimte
+Chaise lounge;Chaise longue
+Chalice;Kelk
+Chalk patterns;Krijtpatronen
+Challenge portal;Uitdagingsportaal
+Chamber;Kamer
+Chambers of Xeric;Kamers van Xeric
+Champion Statue;Kampioen standbeeld
+Chandelier;Kroonluchter
+Changing Curtain;Veranderend gordijn
+Chaos altar;Chaos altaar
+Chaos rift;Chaos kloof
+Charcoal furnace;Houtskool oven
+Charm of Boost;Charme van Boost
+Charm of Defence;Charme van verdediging
+Charm of Fishing;Charme van de visserij
+Charm of Luck;Charme van geluk
+Charm of Mining;Charme van de mijnbouw
+Charm of Preparation;Charme van voorbereiding
+Charms;Charmes
+Charred bones;Verkoolde botten
+Chart;Grafiek
+Chasm;Kloof
+Cheese;Kaas
+Chef's Delight;Het genot van de chef
+Chemical pool;Chemisch zwembad
+Chemical vent (blue);Chemische ontluchting (blauw)
+Chemical vent (green);Chemische ontluchting (groen)
+Chemical vent (red);Chemische ontluchting (rood)
+Chemical waste pipe;Chemische afvalpijp
+Chemistry Table;Chemie tabel
+Chess;Schaken
+Chest;Borst
+Chest of Champions;Borst van kampioenen
+Chest pieces;Borststukken
+Chicken;Kip
+Chicken Shrine;Kip heiligdom
+Chicken coop;Kippenhok
+Child's bed;Kinderbedje
+Chimney;Schoorsteen
+Chimney Pipe;Schoorsteen pijp
+Chimney pipe;Schoorsteen pijp
+Choc-Ice Stall;Choc-ijskraam
+Chopped tendrils;Gehakte ranken
+Chopping table;Snijtafel
+Christmas curtains;Kerst gordijnen
+Christmas-Spirit Tree;Kerst-geestboom
+Chronicles of Xeric;Kronieken van Xeric
+Church organ;Kerkorgel
+Church pew;Kerkbank
+Cider;Cider
+Cider barrel;Cidervat
+Circle;Cirkel
+Citizen;Inwoner
+City Gate;Stadspoort
+City gate;Stadspoort
+Clam;Tweekleppig schelpdier
+Clan Coffer;Clan Koffer
+Clan Cup Trophy;Clan Cup-trofee
+Clan Cup portal;Clan Cup-portaal
+Clan Wars portal;Clan Wars-portaal
+Clan banner;Clanbanner
+Clan hall portal;Portaal voor de clanhal
+Clan recruitment board;Rekruteringsbord voor clans
+Clarinet;Klarinet
+Clay Oven;Klei-oven
+Clay fireplace;Klei open haard
+Clay forge;Klei smederij
+Clay oven;Klei-oven
+Cleaning supplies;Reinigingsbenodigdheden
+Cliff;Klip
+Cliff edge;Rand van de klif
+Climbing Net;Klimnet
+Climbing Rope;Klimtouw
+Climbing net;Klimnet
+Climbing rocks;Rotsen beklimmen
+Climbing rope;Klimtouw
+Cloak rack;Mantel rek
+Clock;Klok
+Clock face;Wijzerplaat
+Clock spindle;Klok spindel
+Clockmaker's bench;Klokkenmakersbank
+Clockmaking space;Ruimte voor het maken van uurwerken
+Closed Chest;Gesloten kist
+Closed bank booth;Gesloten bankkraam
+Closed booth;Gesloten stand
+Closed chest;Gesloten borst
+Cloth;Lap
+Cloth covered table;Met stof beklede tafel
+Clothes;Kleren
+Clothes Stand;Kledingstandaard
+Clothes equipment;Kleding uitrusting
+Clothes line;Waslijn
+Clothes model;Kledingmodel
+Clothes rack;Kledingrek
+Clothes stall;Kleding kraam
+Clothing shelves;Kledingplanken
+Cloud bank;Wolkenbank
+Clump of rocks;Klomp rotsen
+Coal;Kolen
+Coal Tar;Koolteer
+Coal Truck;Kolenwagen
+Coat rack;Kapstok
+Cockatrice head;Cockatrice hoofd
+Cocoon;Cocon
+Coffer;Koffer
+Coffin;Kist
+Coffin hotspot;Kist hotspot
+Cog;Kogge
+Cogs;Tandwielen
+Coin Collector;Muntenverzamelaar
+Coins;Munten
+Coke;Cokes
+Collapsed trap;Ingestorte val
+Collapsed wall;Ingestorte muur
+Collector Converter;Collector-converter
+Colony gate;Kolonie poort
+Column;Kolom
+Combat Scroll;Gevechtsrol
+Combat dummy;Gevechtsdummy
+Combat dummy space;Bestrijd dummyruimte
+Combat ring;Gevechtsring
+Combat ring space;Gevechtsringruimte
+Competitive;Competitief
+Compost;Compost
+Compost Bin;Compostbak
+Compost heap;Composthoop
+Compromised floorboards;Gecompromitteerde vloerplanken
+Compromised support;Gecompromitteerde ondersteuning
+Confusing door;Verwarrende deur
+Connected stalagmites;Verbonden stalagmieten
+Connection pipe;Aansluitleiding
+Consecrated house;Gewijd huis
+Console;Troosten
+Container;Houder
+Contortion Bars;Contorsiestaven
+Control panel;Bedieningspaneel
+Conveyor Belt;Transportband
+Conveyor belt;Transportband
+Cooker;Fornuis
+Cooking Pots;Kookpotten
+Cooking pot;Kookpot
+Cooking range;Kookbereik
+Cooking shelves;Kookplanken
+Coolant Dispenser;Koelvloeistofdispenser
+Cooling chest;Verkoelende borst
+Coop;Coöp
+Copper Ladder;Koperen ladder
+Coral;Koraal
+Coral Reef;Koraalrif
+Corkscrew lever;Kurkentrekker hendel
+Corner Table;Hoektafel
+Corner space;Hoek ruimte
+Corporeal Beast Display;Lichamelijke beestvertoning
+Corporeal Beast display;Corporeal Beast-vertoning
+Corpse;Lijk
+Corpse cart;Lijkenwagen
+Corpses;lijken
+Corrupt Deposit;Corrupte storting
+Corrupt Deposit (Depleted);Corrupte storting (opgebruikt)
+Corrupted Sceptre;Corrupte scepter
+Cosmic rift;Kosmische kloof
+Council members;Leden van de Raad
+Counter;Balie
+Court judge;Rechter van het hof
+Cow wheel;Koe wiel
+Crab Shell;Krabschelp
+Crack;Scheur
+Cracked wall;Gebarsten muur
+Cradle of Life;Wieg van het leven
+Craft stall;Ambachtelijke kraam
+Crafting Stall;Knutselkraam
+Crafting stall;Ambachtelijke kraam
+Crane;Kraan
+Crashed Star;Gecrashte ster
+Crashed glider;Gecrasht zweefvliegtuig
+Crate;Krat
+Crate of rune caskets;Krat met runenkistjes
+Crate of wands;Krat met toverstokken
+Crater;Krater
+Crates;Kratten
+Crawling hand;Kruipende hand
+Crazy penguin;Gekke pinguïn
+Creature;Schepsel
+Creeper;Klimplant
+Creeping Plant;Kruipende plant
+Creeping plant;Kruipende plant
+Crevasse;Spleet
+Crevice;Spleet
+Crib;Wieg
+Crop circle;Graancirkel
+Cross;Kruis
+Crossbow;Kruisboog
+Crossbow Tree;Kruisboog boom
+Crossbow stall;Kruisboog kraam
+Crossbowman Statue;Kruisboogschutter standbeeld
+Crow nest;Kraaiennest
+Crowd of dwarves;Menigte van dwergen
+Crude boat;Ruwe boot
+Crude raft;Ruw vlot
+Crumbled wall;Afgebrokkelde muur
+Crumbling wall;Afbrokkelende muur
+Crushed barricade;Verpletterde barricade
+Crusher;Breker
+Crutch;Kruk
+Crwys Banner;Crwys-banner
+Crypt;Crypt
+Crypt Entrance;Ingang van de crypte
+Crystal;Kristal
+Crystal Deposit;Kristallen storting
+Crystal Deposit (Depleted);Kristalafzetting (uitgeput)
+Crystal Dispenser;Kristallen dispenser
+Crystal Sceptre;Kristallen Scepter
+Crystal Singing Recipes;Recepten voor kristalzang
+Crystal Staircase;Kristallen trap
+Crystal ball;Kristallen bol
+Crystal ball space;Kristallen bol ruimte
+Crystal bomb;Kristallen bom
+Crystal bridge;Kristallen brug
+Crystal cluster;Kristal cluster
+Crystal dispenser;Kristallen dispenser
+Crystal growth;Kristalgroei
+Crystal of power;Kristal van macht
+Crystal outcrop;Kristallen uitloper
+Crystal spire;Kristallen torenspits
+Crystal structure;Kristalstructuur
+Crystal tree;Kristallen boom
+Crystal tree patch;Kristallen boom patch
+Crystalline structure;Kristallijne structuur
+Crystals;Kristallen
+Cube Pile;Kubus stapel
+Cupboard;Kast
+Cupboard space;Kastruimte
+Curling plant;Krullende plant
+Current;Huidig
+Curry tree;Curry-boom
+Curry tree stump;Curry boomstronk
+Cursed Altar;Vervloekt Altaar
+Curtain;Gordijn
+Curtain space;Gordijn ruimte
+Curtains;Gordijnen
+Curved bone;Gebogen bot
+Cutting Table;Snijtafel
+Cyan Crystal;Cyaan kristal
+Cyan crystal;Cyaan kristal
+Cylinder Pile;Cilinder stapel
+Daconia rocks;Daconia-rotsen
+Daeyalt Essence;Daeyalt-essentie
+Daeyalt rocks;Daeyalt-rotsen
+Daffodils;Narcissen
+Dagannoth;Dagannoth
+Dagger stall;Dolk kraam
+Dairy Cow;Melkkoe
+Dairy churn;Zuivelkarton
+Dairy cow;Melkkoe
+Daisies;Madeliefjes
+Damaged Earth;Beschadigde aarde
+Damaged Mast;Beschadigde mast
+Damaged Table;Beschadigde tafel
+Damaged Vent;Beschadigde ventilatieopening
+Damaged armour;Beschadigd pantser
+Damaged cart;Beschadigde kar
+Damaged mast;Beschadigde mast
+Damaged totem pole;Beschadigde totempaal
+Damaged wall;Beschadigde muur
+Danger Sign;Gevaar teken
+Danger sign;Gevaar teken
+Dark Altar;Donker altaar
+Dark Chest;Donkere borst
+Dark crystal;Donker kristal
+Dark hole;Donker gat
+Dark tunnel;Donkere tunnel
+Darklight;Donkerlicht
+Dart trap;Dartval
+Dartboard;Dartbord
+David's barrel;Davids vat
+Dawn;Ochtendgloren
+Dead Asgarnian Hops;Dode asgarnische hop
+Dead Attas plant;Dode Attas-plant
+Dead Barley;Dode gerst
+Dead Belladonna;Dode Belladonna
+Dead Bittercap Mushrooms;Dode Bittercap-paddestoelen
+Dead Body;Dood lichaam
+Dead Calquat;Dode Calquat
+Dead Elf;Dode elf
+Dead Explorer;Dode ontdekkingsreiziger
+Dead Hammerstone Hops;Dode Hammerstone-hop
+Dead Iasor plant;Dode Iasor-plant
+Dead Jute;Dood jute
+Dead Krandorian Hops;Dode Krandoriaanse hop
+Dead Kronos plant;Dode Kronos-fabriek
+Dead Magic Tree;Dode magische boom
+Dead Mahogany;Dood mahonie
+Dead Maple;Dode esdoorn
+Dead Oak;Dode eik
+Dead Poison Ivy bush;Dode Poison Ivy-struik
+Dead Potato cactus;Dode Aardappelcactus
+Dead Redwood tree;Dode Redwood-boom
+Dead Snape grass;Dood Sneepgras
+Dead Spirit Tree;Dode geestenboom
+Dead Teak;Dood teak
+Dead Tree;Dode boom
+Dead White lily;Dode witte lelie
+Dead Wildblood Hops;Dode wildbloedhop
+Dead Willow;Dode wilg
+Dead Yanillian Hops;Dode Yanillian-hop
+Dead Yew;Dode taxus
+Dead Yommi;Dode Jommi
+Dead Yommi sapling;Dood Yommi-jong boompje
+Dead apple tree;Dode appelboom
+Dead banana tree;Dode bananenboom
+Dead bat;Dode vleermuis
+Dead cabbages;Dode kool
+Dead cactus;Dode cactus
+Dead cadavaberry bush;Dode cadavabesstruik
+Dead calquat;Dode calquat
+Dead celastrus tree;Dode celastrusboom
+Dead curry tree;Dode curryboom
+Dead dragonfruit plant;Dode drakenfruitplant
+Dead dwellberry bush;Dode bosbessenstruik
+Dead goutweed;Dood jichtkruid
+Dead hardy goutweed;Dood winterharde jichtkruid
+Dead herbs;Dode kruiden
+Dead jangerberry bush;Dode jagerbesstruik
+Dead limpwurt plant;Dode limpwurtplant
+Dead marigold;Dode goudsbloem
+Dead mushroom ring;Ring van dode paddenstoelen
+Dead nasturtium;Dode Oost-Indische kers
+Dead onions;Dode uien
+Dead orange tree;Dode sinaasappelboom
+Dead palm tree;Dode palmboom
+Dead papaya tree;Dode papajaboom
+Dead pineapple plant;Dode ananasplant
+Dead potatoes;Dode aardappelen
+Dead redberry bush;Dode rode bessenstruik
+Dead rosemary;Dode rozemarijn
+Dead seaweed;Dood zeewier
+Dead sourhog;Dood zuurzwijn
+Dead strawberry plant;Dode aardbeienplant
+Dead sweetcorn plant;Dode suikermaïsplant
+Dead tomato plant;Dode tomatenplant
+Dead tree;Dode boom
+Dead tree stump;Dode boomstronk
+Dead vine;Dode wijnstok
+Dead watermelons;Dode watermeloenen
+Dead whiteberry bush;Dode witte bessenstruik
+Dead woad plant;Dode wedeplant
+Deadfall;Doodsoorzaak
+Deadman Supply Chest;Deadman-voorraadkist
+Deadman chest;Dodemansborst
+Deadman display;Dodemansvertoning
+Death rift;Doodskloof
+Death's Coffer;De doodskoffer
+Death's Domain;Het domein van de dood
+Death's domain;Het domein van de dood
+Debris;Brokstukken
+Decaying trunk;Rottende stam
+Deckchair;Ligstoel
+Decorated limestone fireplace;Versierde kalkstenen open haard
+Decorated marble fireplace;Versierde marmeren open haard
+Decorated wall;Versierde muur
+Decoration;Decoratie
+Decoration space;Decoratie ruimte
+Decorative window;Decoratief raam
+Defender item machine;Defender-itemmachine
+Delphinium patch;Delphinium-pleister
+Delphiniums;Delphiniums
+Demon;Demon
+Demonic Symbol;Demonisch symbool
+Dense Jungle;Dichte jungle
+Dense forest;Dicht bos
+Dense runestone;Dichte runensteen
+Depleted Rock;Verarmde rots
+Depleted runestone;Verarmde runensteen
+Depleted vein;Verarmde ader
+Deposit Box;Kluisje
+Desecrated house;Ontheiligd huis
+Desert painting;Woestijn schilderij
+Desk;Bureau
+Destroyed bird hide;Vernietigde vogelhuid
+Destroyed furniture;Vernietigde meubels
+Device;Apparaat
+Dial;Wijzerplaat
+Dice;Dobbelsteen
+Dig Site specimen rocks;Graaf specimenrotsen op de locatie
+Digsite Pendant;Digisite-hanger
+Dim crystal;Dim kristal
+Dirt;Vuil
+Diseased Asgarnian Hops;Zieke asgarnische hop
+Diseased Barley;Zieke gerst
+Diseased Belladonna;Zieke Belladonna
+Diseased Bittercap Mushrooms;Zieke Bittercap-paddestoelen
+Diseased Calquat;Zieke Calquat
+Diseased Grapevines;Zieke wijnstokken
+Diseased Hammerstone Hops;Zieke Hammerstone-hop
+Diseased Jute;Zieke jute
+Diseased Krandorian Hops;Zieke Krandoriaanse hop
+Diseased Magic Tree;Zieke magische boom
+Diseased Mahogany;Ziek mahonie
+Diseased Maple;Zieke esdoorn
+Diseased Oak;Zieke eik
+Diseased Poison Ivy bush;Zieke Poison Ivy-struik
+Diseased Potato cactus;Zieke aardappelcactus
+Diseased Redwood tree;Zieke Redwood-boom
+Diseased Snape grass;Ziek Sneepgras
+Diseased Spirit Tree;Zieke geestenboom
+Diseased Teak;Ziek teak
+Diseased White lily;Zieke witte lelie
+Diseased Wildblood Hops;Zieke wildbloedhop
+Diseased Willow;Zieke wilg
+Diseased Yanillian Hops;Zieke Yanillian-hop
+Diseased Yew;Zieke taxus
+Diseased apple tree;Zieke appelboom
+Diseased banana tree;Zieke bananenboom
+Diseased cabbages;Zieke kool
+Diseased cactus;Zieke cactus
+Diseased cadavaberry bush;Zieke cadavabesstruik
+Diseased calquat;Zieke calquat
+Diseased celastrus tree;Zieke celastrusboom
+Diseased curry tree;Zieke curryboom
+Diseased dragonfruit plant;Zieke drakenfruitplant
+Diseased dwellberry bush;Zieke huisbessenstruik
+Diseased goutweed;Zieke jichtkruid
+Diseased hardy goutweed;Zieke winterharde jichtkruid
+Diseased herbs;Zieke kruiden
+Diseased jangerberry bush;Zieke jagerberrystruik
+Diseased limpwurt plant;Zieke limpwurtplant
+Diseased marigold;Zieke goudsbloem
+Diseased nasturtium;Zieke Oost-Indische kers
+Diseased onions;Zieke uien
+Diseased orange tree;Zieke sinaasappelboom
+Diseased palm tree;Zieke palmboom
+Diseased papaya tree;Zieke papajaboom
+Diseased pineapple plant;Zieke ananasplant
+Diseased potatoes;Zieke aardappelen
+Diseased redberry bush;Zieke rode bessenstruik
+Diseased rosemary;Zieke rozemarijn
+Diseased seaweed;Ziek zeewier
+Diseased strawberry plant;Zieke aardbeiplant
+Diseased sweetcorn plant;Zieke suikermaïsplant
+Diseased tomato plant;Zieke tomatenplant
+Diseased watermelons;Zieke watermeloenen
+Diseased whiteberry bush;Zieke witte bessenstruik
+Diseased woad plant;Zieke wedeplant
+Dishes;Borden
+Display Case;Vitrine
+Display board;Displaybord
+Display case;Vitrine
+Display space;Weergaveruimte
+Display table;Tabel weergeven
+Disturbed sand;Verstoord zand
+Dock Leaf;Dokblad
+Dock leaf plant;Dokbladplant
+Dodgy ground;Slechte grond
+Dolls and balls;Poppen en ballen
+Dolmen;Dolmen
+Dolphin;Dolfijn
+Domination marker;Dominantie-markering
+Dominic's coffer;Dominicus' koffer
+Door;Deur
+Door hotspot;Deur hotspot
+Door space;Deur ruimte
+Doors;Deuren
+Doors of Dinh;Deuren van Dinh
+Doorway;Deuropening
+Doric's Whetstone;Dorische wetsteen
+Double bed;Tweepersoonsbed
+Dragon Bitter;Draak Bitter
+Dragon bitter;Draak bitter
+Dragon corpse;Drakenlijk
+Dragon egg;Draken ei
+Dragon head;Draak hoofd
+Dragon statue;Draak standbeeld
+Dragon trophy display;Weergave van drakentrofeeën
+Dragon's head;Drakenkop
+Dragonfire;Drakenvuur
+Dragonfly;Libel
+Dragonfruit tree;Drakenfruitboom
+Dragonfruit tree stump;Drakenfruitboomstronk
+Dragonhide Leather;Drakenhuid leer
+Drain;Droogleggen
+Drain Pipe;Afvoerpijp
+Drained Crystal;Uitgelekt kristal
+Dramen tree;Dramen-boom
+Drapes;Gordijnen
+Drawer space;Laderuimte
+Drawers;Laden
+Draynor Manor Portal;Draynor Manor-portaal
+Dream List;Droomlijst
+Dream Tree stump;Droomboomstronk
+Dream puff;Droom puff
+Dream tree;Droom boom
+Dresser;Dressoir
+Dresser space;Dressoir ruimte
+Drift net (full);Drijfnet (vol)
+Drift net anchors;Drijfnet ankers
+Driftwood;Drijfhout
+Drill;Oefening
+Drilling machine;Boormachine
+Drip;Druppelen
+Dripping tendrils;Druipende ranken
+Dripping vine;Druipende wijnstok
+Drips;Druppels
+Drive belt;Aandrijfriem
+Druid's robes;Druïdengewaden
+Drunken Dwarf;Dronken dwerg
+Dry patch;Droge plek
+Dry stone wall;Droge stenen muur
+Drying line;Drooglijn
+Dug hole;Gegraven gat
+Dummy;Dummie
+Dung;Mest
+Dungeon door;Kerker deur
+Dungeon entrance;Ingang kerker
+Dusk;Schemering
+Dwarf;Dwerg
+Dwarf Flag;Dwerg vlag
+Dwarf MultiCannon;Dwerg MultiCannon
+Dwarf bath;Dwerg bad
+Dwarf mirror;Dwerg spiegel
+Dwarf multicannon;Dwerg multikanon
+Dwarf remains;Dwerg blijft
+Dwarf statue;Dwerg standbeeld
+Dwarven Consortium Table;Dwergenconsortiumtafel
+Dwarven Stout;Dwergen Stout
+Dwarven machinery;Dwergen machines
+Dwellberry bush;Dwellberry-struik
+Dye Pots;Verfpotten
+Dyed fabric;Geverfde stof
+Dying tree;Stervende boom
+Dying tree Stump;Stervende boomstronk
+Eagle lever;Adelaar hendel
+Earth Mound;Aarde heuvel
+Earth rift;Aarde kloof
+Easel;Ezel
+Ectofuntus;Ectofuntus
+Edge;Rand
+Eerie statue;Griezelig standbeeld
+Efh salt;Ef zout
+Egg;Ei
+Egg Sac;Eizak
+Egg hopper;Eierhopper
+Egg launcher;Eierwerper
+Egg sac;Eierzak
+Eggs;Eieren
+Egniol Potions;Egniol-drankjes
+Eight;Acht
+Elaborate lockbox;Uitgebreide sleutelkast
+Electrified harpoonfish cannon;Geëlektrificeerd harpoenviskanon
+Elemental balance;Elementaire balans
+Elemental balance space;Elementaire balansruimte
+Elemental sphere;Elementaire sfeer
+Elevator;Lift
+Elevator controls;Bediening van de lift
+Elf Flag;Elfenvlag
+Elidinis Statuette;Elidinis-beeldje
+Elite clue scroll display;Elite aanwijzing scroll-display
+Elizabeth's barrel;Elizabeths vat
+Elven Crystal Chest;Elven kristallen kist
+Elven lamp;Elfen lamp
+Embalming tube;Balseming buis
+Embers;Sintels
+Empty Sack;Lege zak
+Empty Sarcophagus;Lege sarcofaag
+Empty Stall;Lege stal
+Empty ash pile;Lege ashoop
+Empty barrel;Leeg vat
+Empty basket;Lege mand
+Empty chest;Lege kist
+Empty clothes;Lege kleding
+Empty desk;Leeg bureau
+Empty lamp;Lege lamp
+Empty pedestal;Leeg voetstuk
+Empty pool;Leeg zwembad
+Empty rack;Leeg rek
+Empty sac;Lege zak
+Empty sack;Lege zak
+Empty wall;Lege muur
+Enchanters Teleport;Tovenaars teleporteren
+End of bridge;Einde brug
+Energy Barrier;Energiebarrière
+Energy Pylon;Energie Pyloon
+Energy Sphere;Energie bol
+Energy well;Energie goed
+Engine Platform;Motorplatform
+Entrance;Ingang
+Equipment;Apparatuur
+Equipment table;Uitrustingstafel
+Eric;Erik
+Escape rope;Ontsnappingstouw
+Evergreen;Groenblijvend
+Evil Dave;Slechte Dave
+Evil claw;Kwade klauw
+Evil eye decoration;Boze oogdecoratie
+Excalibur;Excalibur
+Exercise mat;Oefenmat
+Exhumed;Opgegraven
+Exit;Uitgang
+Exit Sign;Afrit teken
+Exit Teleport;Verlaat Teleport
+Exit cavern;Verlaat de grot
+Exit door;Uitgangsdeur
+Exit path;Verlaat pad
+Exit portal;Verlaat het portaal
+Experiment booth;Experimenteer stand
+Experiment cabinet;Experimenteer kast
+Experiment table;Experimenteer tafel
+Experiment tube;Experimenteer buis
+Explosion;Explosie
+Explosive potion table;Explosieve drankjes tafel
+Extra anchor;Extra anker
+Extra chain;Extra ketting
+Extractor gun;Afzuigpistool
+Extractor hat;Extractor hoed
+Extractor hat-top;Extractor hoed-top
+Eye;Oog
+Eyes;Ogen
+Fabric;Stof
+Fabric rack;Stoffen rek
+Fairly dark crystal;Vrij donker kristal
+Fairy Queen;Fee Koningin
+Fairy Queen throne;De troon van de feeënkoningin
+Fairy bank;Feebank
+Fairy fountain;Fee fontein
+Fairy house;Fee huis
+Fairy market stall;Feeënmarktkraam
+Fairy ring;Fee ring
+Fairy workbench;Fee werkbank
+Falador Portal;Falador-portaal
+Fallen Tree;Gevallen boom
+Fallen Wall;Gevallen muur
+Fallen soldier;Gevallen soldaat
+Fallen statue;Gevallen standbeeld
+Fallen tree;Omgevallen boom
+Falling door;Vallende deur
+Falling rock;Vallende rots
+Fan blade;Ventilatorblad
+Fancy Jewellery Box;Fancy sieradendoosje
+Fancy dress box;Verkleeddoosje
+Fancy dress box space;Verkleeddoosruimte
+Fancy pool of Rejuvenation;Fancy zwembad van verjonging
+Fancy range;Fancy bereik
+Farm door;Deur van boerderij
+Farming patch;Landbouw patch
+Feathers;Veren
+Felled Yommi tree;Gekapte Yommi-boom
+Fence;Schutting
+Fence bits;Hek stukjes
+Fence corner;Hek hoek
+Fence end;Hek einde
+Fence mid;Hek midden
+Fence space;Hek ruimte
+Fence t-piece;Hek T-stuk
+Fencing;Schermen
+Fencing ring;Schermring
+Fenkenstrain's Castle Portal;Het kasteelportaal van Fenkenstrain
+Fermenting Vat;Fermenterende BTW
+Fern;Varen
+Ferry;Veerboot
+Fertile Soil;Vruchtbare grond
+Figurehead;Boegbeeld
+Filled Recess;Gevulde uitsparing
+Final Pillar;Laatste pijler
+Fire;Vuur
+Fire Wall;Brand muur
+Fire altar;Vuur altaar
+Fire of Dehumidification;Vuur van ontvochtiging
+Fire of Domination;Vuur van overheersing
+Fire of Eternal Light;Vuur van eeuwig licht
+Fire of Nourishment;Vuur van voeding
+Fire of Unseasonal Warmth;Vuur van ongebruikelijke warmte
+Fire pit;Vuurplaats
+Fire remains;Er blijft vuur
+Fire rift;Brand kloof
+Fire trap;Vuurval
+Firebox;Vuurhaard
+Firepit;Vuurplaats
+Firepit with hook;Vuurkorf met haak
+Firepit with pot;Vuurkorf met pot
+Fireplace;Haard
+Fireplace space;Open haard ruimte
+Fireplace surround;Omlijsting van open haard
+Firm snow patch;Stevige sneeuwplek
+First aid box;EHBO doos
+Fish;Vis
+Fish basket;Vis mand
+Fish bits;Vis stukjes
+Fish bowl;Vis kom
+Fish stall;Vis kraam
+Fishing Contest Banner;Banner voor de visserijwedstrijd
+Fishing Crane;Visserij kraan
+Fishing Guild Portal;Portaal van het Vissersgilde
+Fishing Spot;Visplek
+Fishing Spot (Depleted);Visplek (uitgeput)
+Fishing net;Visnet
+Fishing rod;Hengel
+Fishing spot;Visplek
+Fishing trophy space;Ruimte voor de visserijtrofee
+Fishing weights;Vissen gewichten
+Fissure;Spleet
+Five;Vijf
+Fixed bridge;Vaste brug
+Flag;Vlag
+Flagpole;Vlaggenmast
+Flames;Vlammen
+Flaming Fire altar;Vlammend vuuraltaar
+Flashing landing light;Knipperend landingslicht
+Flat ground;Vlakke grond
+Flat rock;Platte rots
+Flat stone;Platte steen
+Flax;Vlas
+Floating Book;Zwevend boek
+Floats;Drijft
+Floor;Vloer
+Floor below;Verdieping beneden
+Floor decoration;Vloerdecoratie
+Floor space;Vloeroppervlak
+Floor space corner;Vloeroppervlak hoek
+Floor space mid;Vloeroppervlak midden
+Floor space side;Vloeroppervlakzijde
+Floor spikes;Vloerspikes
+Floor tile;Vloertegel
+Floorboards;Vloerplanken
+Flour;Meel
+Flour bin;Meel bak
+Flower;Bloem
+Flower Patch;Bloemenpatch
+Flowerbed;Bloembed
+Flowering fern;Bloeiende varen
+Flowers;Bloemen
+Flute;Fluit
+Fly paper;Vlieg papier
+Fly trap;Vliegenval
+Fog marker;Mistmarkering
+Font;Lettertype
+Food Stall;Voedselkraam
+Food Trough;Voedsel trog
+Food chute;Voedselgoot
+Food cupboard;Voedsel kast
+Food trough;Voedsel trog
+Foot lockers;Voetkluisjes
+Footprints;Voetafdrukken
+Forest Mushrooms;Bospaddestoelen
+Forest floor;Bosbodem
+Formidable passage;Formidabele doorgang
+Fortified gate;Versterkte poort
+Fossil Island display case;Fossil Island vitrinekast
+Fossil Storage;Fossiele opslag
+Fossil cleaning bench;Fossiele schoonmaakbank
+Fossil fuel;Fossiele brandstof
+Fountain;Fontein
+Fountain of Heroes;Fontein van helden
+Fountain of Rune;Fontein van Rune
+Fountain of Uhld;Fontein van Uhld
+Four;Vier
+Fox;Vos
+Fractionalising still;Nog steeds aan het fractioneren
+Fragment of Seren;Fragment van Seren
+Frame;Kader
+Frank's barrel;Franks vat
+Free-for-all portal;Gratis portaal voor iedereen
+Fremennik Boat;Fremennik-boot
+Fremennik boat;Fremennik-boot
+Frog;Kikker
+Frog spit;Kikker spugen
+Frozen Pool of Rejuvenation;Bevroren poel van verjonging
+Frozen Pool of Restoration;Bevroren poel van herstel
+Frozen Pool of Revitalisation;Bevroren poel van revitalisatie
+Frozen demon;Bevroren demon
+Frozen door;Bevroren deur
+Frozen fancy pool of Rejuvenation;Bevroren luxe zwembad van verjonging
+Frozen orc;Bevroren ork
+Frozen ornate pool of Rejuvenation;Bevroren sierlijke poel van verjonging
+Frozen table;Bevroren tafel
+Frozen warrior;Bevroren krijger
+Fruit Stall;Fruitkraam
+Fruit Tree Patch;Fruitboom patch
+Fruit cart;Fruitkar
+Full fishing net;Volledig visnet
+Funeral Pyre;Begrafenisbrandstapel
+Fungi;Schimmels
+Fungi on log;Schimmels op logboek
+Fungus;Schimmel
+Fungus covered Cavern wall;Met schimmel bedekte grotwand
+Fungus doormat;Schimmel deurmat
+Fungus pattern;Schimmel patroon
+Fungus seat;Schimmel zetel
+Fur stall;Bont kraam
+Furnace;Oven
+Furnace Coolant;Oven koelvloeistof
+Fuse;Samensmelten
+G.A.G. banner;PROP. spandoek
+Gabion defence;Gabion-verdediging
+Gallows;Galg
+Game space;Spelruimte
+Gangplank;Loopplank
+Gap;Gat
+Garden fence;Tuin hek
+Gas bubble;Gasbel
+Gas cylinder;Gasfles
+Gas hole;Gasgat
+Gate;Hek
+Gate of War;Poort van oorlog
+Gates;Poorten
+Gauntlet Portal;Handschoenportaal
+Gazebo;Tuinhuisje
+Gear box;Versnellingsbak
+Gem Rock;Edelsteen Rots
+Gem Stall;Gem kraam
+Gem stall;Gem kraam
+General Bentnoze;Generaal Bentnoze
+General Graardor display;Generaal Graardor-display
+General Stall;Generaal Stall
+General Wartface;Algemeen Wartface
+Generator;Generator
+Geyser;Geiser
+Ghorrock Portal;Ghorrock-portaal
+Giant Anvil;Gigantisch aambeeld
+Giant Boulder;Gigantische rotsblok
+Giant Dwarf;Gigantische dwerg
+Giant anvil;Gigantisch aambeeld
+Giant crystal;Gigantisch kristal
+Giant feathers;Gigantische veren
+Giant vial;Gigantisch flesje
+Gibbet;Galg
+Gift of Peace;Geschenk van vrede
+Gigantic penguin;Gigantische pinguïn
+Gilded Adventure Log;Verguld avonturenlogboek
+Gilded bench;Vergulde bank
+Gilded cape rack;Verguld caperek
+Gilded stand;Vergulde standaard
+Gilded wardrobe;Vergulde kledingkast
+Glarial's Tomb;Het graf van Glarial
+Glarial's Tombstone;Glarials grafsteen
+Glass door;Glazen deur
+Glass table;Glazen tafel
+Globe;Bol
+Globe of Gielinor;Wereldbol van Gielinor
+Globe space;Globe ruimte
+Glouphrie statue;Glouphrie-standbeeld
+Glove Rack;Handschoenenrek
+Gloves and duster;Handschoenen en stofdoek
+Glowing Carving;Gloeiend snijwerk
+Glowing Fungus;Gloeiende schimmel
+Glowing Orb;Gloeiende bol
+Glowing carving;Gloeiend snijwerk
+Glowing crystal;Gloeiend kristal
+Glowing fungus;Gloeiende schimmel
+Glyphs;Gliefen
+Gnome Flag;Gnoom vlag
+Gnome Glider;Kabouter zweefvliegtuig
+Gnome barrel;Gnoom vat
+Gnome barrels;Kabouter vaten
+Gnome bench;Kabouter bankje
+Gnome cabinet;Kabouter kast
+Gnome chair;Kabouter stoel
+Gnome cooker;Kabouter fornuis
+Gnome crate;Kabouter krat
+Gnome crates;Kabouterkratten
+Gnome crowd;Kaboutermenigte
+Gnome glider;Gnoom zweefvliegtuig
+Gnome goal;Kabouter doel
+Gnome landing light;Landingslicht voor kabouters
+Gnome skeleton;Gnoom skelet
+Gnome statue;Kabouter standbeeld
+Gnome table;Kabouter tafel
+Goal;Doel
+Goat;Geit
+Goat poo;Geitenpoep
+Goblin crowd;Goblins publiek
+Goblin stove;Goblin-kachel
+Gobln Merfsh;Gobln Merfsh
+Godfather throne;Peetvader troon
+Gold;Goud
+Gold Castlewars armour;Gouden Castlewars-pantser
+Gold Chest;Gouden kist
+Gold Screen;Gouden scherm
+Gold cannonball;Gouden kanonskogel
+Golden Gnome;Gouden kabouter
+Golden cage;Gouden kooi
+Golden lantern;Gouden lantaarn
+Golden pear bush;Gouden perenstruik
+Golden tree;Gouden boom
+Golem arm;Golem-arm
+Golem body;Golem-lichaam
+Golem foot;Golem-voet
+Golem head;Golem-hoofd
+Golem rubble;Golem-puin
+Golf-cart;Golfkar
+Golovanova plant;Golovanova-fabriek
+Golovanova seedling;Golovanova-zaailing
+Goo covered vine;Goo bedekte wijnstok
+Gorilla Statue;Gorilla-standbeeld
+Gourd tree;Kalebas boom
+Gout Tuber Plant;Jicht Knolplant
+Goutweed;Goutkruid
+Goutweed Crate;Goutweed krat
+Grain;Korrel
+Grain of Plenty;Korrel van overvloed
+Grain sacks;Graan zakken
+Gramophone;Grammofoon
+Granary roof;Het dak van de graanschuur
+Granary wall;Graanschuur muur
+Grand Exchange Portal;Grand Exchange-portaal
+Grand Exchange booth;Grote beursstand
+Grand Exchange display;Grand Exchange-vertoning
+Grand Gold Chest;Grote gouden kist
+Grand bookshelf;Grote boekenplank
+Grandfather Clock;Grootvader klok
+Grandfather clock;Grootvader klok
+Grandiose Doors;Grandioze deuren
+Grape arbor;Druiven prieel
+Grape vine;Wijnstok
+Grapevine;Wijnstok
+Grapevines;Wijnstokken
+Grass;Gras
+Grassland;Grasland
+Grate;Rooster
+Grave;Graf
+Grave marker;Ernstige markering
+Grave of Scorpius;Graf van Schorpioen
+Gravestone;Grafsteen
+Graveyard Teleport;Kerkhof Teleport
+Great Olm display;Geweldig Olm-display
+Great Olmic Statue;Groot Olmisch standbeeld
+Greater magic circle;Grotere magische cirkel
+Greater teleport focus;Grotere teleportfocus
+Green banner;Groene vlag
+Green chemical;Groene chemische stof
+Green door;Groene deur
+Green tears;Groene tranen
+Greenman's ale;Greenmans bier
+Greenmans Ale;Greenmans Ale
+Grill;Grill
+Grim lilly;Grimmige lelie
+Grimgnash;Grimgnash
+Grinder;Slijpmachine
+Grotesque Guardians' display;Groteske Guardians-vertoning
+Grotto;Grot
+Grotto tree;Grot boom
+Growing vine;Groeiende wijnstok
+Growing wheat;Tarwe verbouwen
+Grubby Chest;Smerige kist
+Grubby Door;Smerige deur
+Grym Root;Grym Wortel
+Grym Root (Depleted);Grymwortel (uitgeput)
+Guard;Bewaker
+Guard dog;Waakhond
+Guard space;Bewaak ruimte
+Guide rope;Gids touw
+Guild Door;Gilde Deur
+Guild door;Gilde deur
+Guild trophy space;Gildetrofeeruimte
+Guitar;Gitaar
+Gun Locker;Wapenkluis
+Guthix Portal;Guthix-portaal
+Haar-Tok;Haar-Tok
+Habitat space;Habitatruimte
+Half-built Loom;Halfgebouwd weefgetouw
+Hammer;Hamer
+Hammers;Hamers
+Hammerstone Hops;Hammerstone-hop
+Hammock;Hangmat
+Hand holds;Hand houdt
+Handholds;Handvatten
+Handle;Hendel
+Handy portal;Handig portaal
+Hanger;Hanger
+Hanging;Hangend
+Hanging banner;Hangend spandoek
+Hanging cape;Hangende cape
+Hanging dye;Hangende kleurstof
+Hanging flag;Hangende vlag
+Hanging hand;Hangende hand
+Hanging log;Hangend logboek
+Hanging meat;Hangend vlees
+Hanging pirate;Hangende piraat
+Hanging tapestry;Hangend tapijt
+Hanging wheel;Hangend wiel
+Hangman game;Hangman-spel
+Hank (Well);Henk (nou)
+Hank (ghastly!);Henk (afschuwelijk!)
+Hank (sick);Henk (ziek)
+Hank (very sick);Henk (erg ziek)
+Hard rock;Hardrock
+Hardcore Ironman;Harde Ironman
+Hardwood Grove Doors;Hardhouten Grove deuren
+Hardy goutweed;Winterharde jichtkruid
+Harmony Island Portal;Harmony Island-portaal
+Harp;Harp
+Harpoonfish cannon;Harpoenvis kanon
+Harpoons;Harpoenen
+Harvested Celastrus tree;Geoogste Celastrus-boom
+Hat rack;Hoedenrek
+Hat stand;Hoedenstandaard
+Hatch;Klep
+Hay Bales;Hooibalen
+Hay bale;Hooi baal
+Hay bales;Hooibalen
+Haystack;Hooiberg
+Hazeel's coffin;Hazeels kist
+Hazelmere statue;Hazelmere-standbeeld
+Head trophy space;Hoofdtrofeeruimte
+Headless statue;Standbeeld zonder hoofd
+Healer item machine;Genezer itemmachine
+Healer spring;Genezer lente
+Healing certificate;Genezing certificaat
+Healthorg statue;Healthorg-standbeeld
+Heap of bricks;Hoop bakstenen
+Hearth;Haard
+Heat;Warmte
+Heater;Verwarming
+Heather;Heide
+Heavy door;Zware deur
+Hedge;Heg
+Hedging;Afdekking
+Hefin Banner;Hefin-banner
+Hellhound;Hellehond
+Helmet pluming stand;Helmstandaard
+Henge;Henge
+Heraldry space;Heraldiek ruimte
+Herb;Kruid
+Herb Stall;Kruidenkraam
+Herb patch;Kruidenpleister
+Herbs;Kruiden
+Herman's desk;Hermans bureau
+Heroic statue;Heroïsch standbeeld
+Hespori;Hespori
+Hespori patch;Hespori-pleister
+Hidden Statue;Verborgen standbeeld
+Hidden trapdoor;Verborgen luik
+High Stakes;Hoge inzet
+Hill;Heuvel
+Hillside entrance;Ingang op de heuvel
+History;Geschiedenis
+Hobgoblin;Kobold
+Hoisted sail;Gehesen zeil
+Holding area;Vasthoudgebied
+Hole;Gat
+Hole in the wall;Gat in de muur
+Hole in wall;Gat in de muur
+Hollow Log;Holle stam
+Hollow log;Holle stam
+Hollow tree;Holle boom
+Hollowed rock;Uitgeholde rots
+Holy Barrier;Heilige barrière
+Holy barrier;Heilige barrière
+Hook briar;Haak doornstruik
+Hoop Snake;Hoepel slang
+Hope bridge;Hoop brug
+Hopper;Hopper
+Hopper controls;Hopperbediening
+Hops Patch;Hop-patch
+Horn of Death;Hoorn des doods
+Horn of glory;Hoorn van glorie
+Hosidius statue;Hosidius-standbeeld
+Hospital shelves;Ziekenhuis planken
+Hot Coals;Hete kolen
+Hot vent door;Hete ventilatiedeur
+House Advertisement;Huis advertentie
+Howling Snow Storm;Huilende sneeuwstorm
+Huge Gate;Enorme poort
+Huge Mushroom;Enorme Paddestoel
+Huge Spider;Enorme spin
+Huge plant;Enorme plant
+Huge vat;Enorme btw
+Hull;Romp
+Human Flag;Menselijke vlag
+Hurdle;Hindernis
+Hurt fairy;Gekwetste fee
+Hutch;Hok
+Iasor plant;Iasor-plant
+Iban's Throne;Ibans troon
+Ice;Ijs
+Ice Column;IJskolom
+Ice Light;IJs licht
+Ice Throne;IJs troon
+Ice Troll King;IJstrollenkoning
+Ice blockage;IJsverstopping
+Ice bridge;IJsbrug
+Ice chunks;IJs brokken
+Ice covered boulder;Met ijs bedekte rots
+Ice crystal;IJskristal
+Ice cube;IJsblokje
+Ice gate;IJs poort
+Ice ledge;Ijs richel
+Ice steps;IJs stappen
+Ice storm;IJsstorm
+Icicle;Ijskegel
+Icicles;Ijspegels
+Icon of Bob;Icoon van Bob
+Icon of Gnome Child;Icoon van Kabouterkind
+Icon of Guthix;Icoon van Guthix
+Icon of Saradomin;Icoon van Saradomin
+Icon of Zamorak;Icoon van Zamorak
+Icon space;Pictogram ruimte
+Icosahedron Pile;Icosaëder stapel
+Icthlarin's statue;Ictlarins standbeeld
+Icy Cavern;IJzige grot
+Icy rock;IJzige rots
+Icy rocks;IJzige rotsen
+Icyene Statue;Icyene-standbeeld
+Igloo;Iglo
+Illuminated Symbol;Verlicht symbool
+Imposing Doors;Imposante deuren
+Inactive Symbol;Inactief symbool
+Inanimate Altar;Levenloos altaar
+Incense burner;Wierookbrander
+Incinerator;Verbrandingsoven
+Incomplete map;Onvolledige kaart
+Inconspicuous bush (beginner);Onopvallende struik (beginner)
+Inconspicuous bush (easy);Onopvallende struik (makkelijk)
+Inconspicuous bush (elite);Onopvallende struik (elite)
+Inconspicuous bush (hard);Onopvallende struik (hard)
+Inconspicuous bush (master);Onopvallende struik (meester)
+Inconspicuous bush (medium);Onopvallende struik (medium)
+Inconspicuous crate (easy);Onopvallende krat (makkelijk)
+Inconspicuous crate (elite);Onopvallende krat (elite)
+Inconspicuous crate (hard);Onopvallend krat (hard)
+Inconspicuous crate (master);Onopvallende krat (master)
+Inconspicuous crate (medium);Onopvallende krat (medium)
+Inconspicuous hole (easy);Onopvallend gat (makkelijk)
+Inconspicuous hole (elite);Onopvallend gat (elite)
+Inconspicuous hole (hard);Onopvallend gat (hard)
+Inconspicuous hole (master);Onopvallend gat (meester)
+Inconspicuous hole (medium);Onopvallend gat (medium)
+Inconspicuous rocks (easy);Onopvallende rotsen (makkelijk)
+Inconspicuous rocks (elite);Onopvallende rotsen (elite)
+Inconspicuous rocks (hard);Onopvallende rotsen (hard)
+Inconspicuous rocks (master);Onopvallende rotsen (meester)
+Inconspicuous rocks (medium);Onopvallende rotsen (medium)
+Incubation chamber;Incubatiekamer
+Incubator;Incubator
+Infernal chart;Helse grafiek
+Information;Informatie
+Information Scroll;Informatie scrollen
+Information booth;Informatie stand
+Information scroll;Informatie scrollen
+Injured fairy;Gewonde fee
+Insurance stall;Verzekerings kraam
+Interdimensional rift;Interdimensionale kloof
+Intermediate Flag;Tussenliggende vlag
+Interrogation chair;Ondervraging stoel
+Iorwerth Banner;Iorwerth-banner
+Iron Winch;Ijzeren lier
+Iron ladder;Ijzeren ladder
+Iron railings;Ijzeren balustrades
+Ironman & Ultimate Ironwoman;Ironman en ultieme Ironwoman
+Isafdar painting;Isafdar schilderij
+Item Chest;Artikelkist
+Ithell Banner;Ithel Banner
+Ivory table;Ivoren tafel
+Jacky Jester;Jacky Jester
+Jagged wall;Gekartelde muur
+Jail Door;Gevangenisdeur
+Jangerberry bush;Jangerberry-struik
+Javelin;Speer
+Jenkins;Jenkins
+Jewellery box space;Sieradendoos ruimte
+Jewellery stall;Sieraden kraam
+Jolly Roger;Heel Rogier
+Juliet;Julia
+Juna;Juna
+Junction box;Aansluitdoos
+Jungle Bush;Jungle struik
+Jungle Flower;Jungle bloem
+Jungle Grass;Junglegras
+Jungle Palm;Junglepalm
+Jungle Plant;Jungleplant
+Jungle Tree;Jungle Boom
+Jungle Tree Stump;Jungle boomstronk
+Jungle flower;Jungle bloem
+Jungle plant;Jungleplant
+Junk;Rommel
+Justiciar Statue;Rechtvaardig standbeeld
+Justiciar armour;Justiciair pantser
+Jute;Jute
+Jutting wall;Uitstekende muur
+KBD heads;KBD-hoofden
+KQ head;KQ-hoofd
+Kaleef's body;Kaleefs lichaam
+Kalphite Queen;Kalphitische koningin
+Kalphite Queen Topiary;Kalphite Koningin Vormsnoei
+Kalphite Queen display;Kalphite Queen-display
+Kalphite Soldier;Kalphitische soldaat
+Kalphite queen legs;Kalphite koninginnenpoten
+Karamja painting;Karamja-schilderij
+Kebab;Kebab
+Keg;Vaatje
+Kelda Hops;Kelda Hop
+Kelda Hops Patch;Kelda Hop-patch
+Kelda Stout;Kelda Stout
+Kelp;Kelp
+Kennith's ball;Kenniths bal
+Kettle;Ketel
+Key;Sleutel
+Keyhole;Sleutelgat
+Kharidian cactus (Dry);Kharidian cactus (droog)
+Kharidian cactus (Healthy);Kharidian cactus (Gezond)
+Kharyrll Portal;Kharyll-portaal
+King Arthur;Koning Arthur
+Kings' ladder;De ladder van de koning
+Kitchen Drawers;Keukenladen
+Kitchen cabinet;Keukenkast
+Kitchen gate;Keuken poort
+Kitchen table;Keuken tafel
+Kite shield;Vliegerschild
+Knight;Ridder
+Knight Statue;Ridder standbeeld
+Kourend Portal;Kourend-portaal
+Kourend map display case;Kourend kaartenvitrine
+Kourend sigil;Kourend sigil
+Kraken Topiary;Kraken-vormsnoei
+Kraken display;Kraken-weergave
+Krandorian Hops;Krandoriaanse hop
+Kronos plant;Kronos-fabriek
+Kurask head;Kurask-hoofd
+Lab table;Laboratorium tafel
+Lab tube;Laboratorium buis
+Ladder;Ladder
+Ladder space;Ladderruimte
+Ladder top;Ladder bovenaan
+Lalli's Stew;Lalli's Stoofpot
+Lamp;Lamp
+Lamp oil still;Lampolie nog
+Lamp space;Lampruimte
+Lamp stall;Lampenstal
+Lamp still;Lampje nog
+Lamppost;Lantaarnpaal
+Lancalliums;Lancalliums
+Lander boat;Landerboot
+Lander hatch;Landerluik
+Landscape;Landschap
+Landscape space;Landschap ruimte
+Lantern;Lantaarn
+Larder;Voorraadkast
+Larder space;Grotere ruimte
+Large Barrel;Groot vat
+Large Boulder;Grote rots
+Large Cage;Grote kooi
+Large Crystal;Groot kristal
+Large Display;Groot scherm
+Large Fossil Display;Grote fossielenvertoning
+Large Fossil Support;Grote fossiele steun
+Large Geyser;Grote geiser
+Large Rock;Grote Rots
+Large Table;Grote tafel
+Large bone;Groot bot
+Large boulder;Grote rots
+Large cave;Grote grot
+Large crystals;Grote kristallen
+Large cupboard;Grote kast
+Large door;Grote deur
+Large doors;Grote deuren
+Large fountain;Grote fontein
+Large geyser;Grote geiser
+Large grave;Groot graf
+Large grave stone;Grote grafsteen
+Large hole;Groot gat
+Large open cupboard;Grote open kast
+Large orrery;Groot planetarium
+Large oven;Grote oven
+Large rock;Grote rots
+Large sewer pipe;Grote rioolbuis
+Large stalagmite;Grote stalagmiet
+Large storage unit;Grote opslagruimte
+Large table;Grote tafel
+Large urn;Grote urn
+Large vase;Grote vaas
+Large-leaf Plant;Grootbladige plant
+Larran's big chest;Larran's grote borst
+Larran's small chest;Larran's kleine kist
+Lathe;Draaibank
+Laundry Basket;Wasmand
+Lava;Lava
+Lava Monster;Lavamonster
+Lava crater;Lava krater
+Lava forge;Lava smederij
+Lava gap;Lava kloof
+Lava trough;Lava trog
+Law rift;Wetsbreuk
+Lazim's statue;Het standbeeld van Lazim
+Leaflet;Folder
+Leaflets;Folders
+Leafy Palm Tree;Bladpalm
+Leafy tree;Lommerrijke boom
+League Accomplishment Scroll;Competitie-voltooiingsrol
+League Firsts Board;Liga-primeursbord
+League statue;Liga standbeeld
+Leak;Lek
+Leather shields;Leren schilden
+Leaves;Bladeren
+Lectern;Lessenaar
+Lectern space;Lessenaar ruimte
+Ledge;Richel
+Left side of a fireplace;Linkerkant van een open haard
+Leftovers;Restjes
+Legends Guild door;Legends Guild-deur
+Letter;Brief
+Lever;Hefboom
+Lever A;Hendel A
+Lever B;Hendel B
+Lever C;Hendel C
+Lever D;Hendel D
+Lever E;Hendel E
+Lever F;Hendel F
+Lever bracket;Hendel beugel
+Lever space;Hendel ruimte
+Levers;Hefbomen
+Leviathan;Leviathan
+Life buoy;Reddingsboei
+Lifeless Matter;Levenloze materie
+Lifelilly;Levenslelie
+Lift;Tillen
+Lift Engine;Hef de motor op
+Lift Platform;Liftplatform
+Light;Licht
+Light Jungle;Lichte jungle
+Light door;Lichte deur
+Lighting mechanism;Verlichtingsmechanisme
+Lighting space;Verlichting ruimte
+Lightning;Bliksem
+Lightning conductor;Bliksemafleider
+Limestone fireplace;Kalkstenen open haard
+Limpwurt plant;Limpwurt-plant
+Linum Tirinum;Linum Tirinum
+Linum Tirinum (Depleted);Linum Tirinum (uitgeput)
+Lion Statue;Leeuw standbeeld
+Little boulder;Klein rotsblok
+Little crack;Klein scheurtje
+Little tent;Klein tentje
+Lizard dwelling;Hagedis woning
+Lizardman corpse;Lizardman-lijk
+Lizardman eggs;Lizardman-eieren
+Lizardman head;Hagedisman hoofd
+Lizardman lair;Lizardman-hol
+Loader;Lader
+Lobstrosity;Lobstrositeit
+Lock;Slot
+Locked Ogre chest;Gesloten Ogre-kist
+Locked chest;Gesloten borst
+Locked door;Gesloten deur
+Locked gate;Gesloten poort
+Locker;Kluisje
+Lockers;Kluisjes
+Log Store;Logboekopslag
+Log balance;Logboeksaldo
+Log pile;Stapel hout
+Log raft;Log vlot
+Log storage;Logboekopslag
+Logavano plant;Logavano-fabriek
+Logavano seedling;Logavano-zaailing
+Logs;Logboeken
+Long branched tree;Lang vertakte boom
+Long grass;Lang gras
+Long planks;Lange planken
+Longhall door;Lange hal deur
+Loom;Weefgetouw
+Loose Mud;Losse modder
+Loose Railing;Losse reling
+Loose panel;Los paneel
+Loose rocks;Losse stenen
+Lovakengj statue;Lovakengj-standbeeld
+Lovakite furnace;Lovakitische oven
+Low fence;Laag hek
+Low wall;Lage muur
+Lumbridge Guide;Lumbridge-gids
+Lumbridge Portal;Lumbridge-portaal
+Lumbridge painting;Lumbridge-schilderij
+Lumpy rug;Bubbel vloerkleed
+Lunar Altar;Maan Altaar
+Lunar Isle Portal;Lunar Isle-portaal
+Lunar globe;Maanbol
+Lure cave;Lok grot
+Machine;Machine
+Machine panel;Machinepaneel
+Machinery;Machines
+Magenta Crystal;Magenta kristal
+Magenta crystal;Magenta kristal
+Magenta door;Magenta deur
+Magic Gate;Magische Poort
+Magic Mirror;Magische spiegel
+Magic Mushtree;Magische Mushtree
+Magic Portal;Magisch Portaal
+Magic Stall;Magische kraam
+Magic Tree;Magische boom
+Magic Tree Stump;Magische boomstronk
+Magic ball;Magische bal
+Magic barrier;Magische barrière
+Magic birdhouse;Magisch vogelhuis
+Magic birdhouse (empty);Magisch vogelhuisje (leeg)
+Magic box;Magische doos
+Magic box failed;Magische doos is mislukt
+Magic cape rack;Magisch caperek
+Magic chest;Magische kist
+Magic circle;Magische cirkel
+Magic door;Magische deur
+Magic guild door;Magische gildedeur
+Magic spell;Magische spreuk
+Magic table;Magische tafel
+Magic tree;Magische boom
+Magic wardrobe;Magische kledingkast
+Magic wardrobe space;Magische kledingkastruimte
+Magic well;Magische goed
+Magic wheat;Magische tarwe
+Magical Animator;Magische animator
+Magical Barrier;Magische barrière
+Magical Chest;Magische kist
+Magical Fire;Magisch vuur
+Magical Obelisk;Magische Obelisk
+Magical fire;Magisch vuur
+Magical pumpkin;Magische pompoen
+Magical shield;Magisch schild
+Magical symbol;Magisch symbool
+Magical wheat;Magische tarwe
+Mahogany;Mahonie
+Mahogany Adventure Log;Mahoniehouten avonturenlogboek
+Mahogany Wardrobe;Mahoniehouten kledingkast
+Mahogany bench;Mahoniehouten bank
+Mahogany birdhouse;Mahoniehouten vogelhuisje
+Mahogany birdhouse (empty);Mahoniehouten vogelhuisje (leeg)
+Mahogany cape rack;Mahoniehouten caperek
+Mahogany chest;Mahoniehouten kist
+Mahogany feeder;Mahoniehouten voederbak
+Mahogany house;Mahonie huis
+Mahogany outfit stand;Mahoniehouten outfitstandaard
+Mahogany prize chest;Mahoniehouten prijskist
+Mahogany sapling;Mahonieboompje
+Mahogany scratching post;Mahoniehouten krabpaal
+Mahogany table;Mahoniehouten tafel
+Mahogany tree;Mahonieboom
+Mahogany tree stump;Mahonie boomstronk
+Mahogany trophy case;Mahoniehouten trofeekast
+Mahogany wall decoration;Mahoniehouten wanddecoratie
+Making Friends with My Arm display;Vrienden maken met mijn arm-display
+Man hidden;Mens verborgen
+Man trap;Een valstrik voor mannen
+Mandibular Maximus;Mandibulaire Maximus
+Mangle;Mangel
+Manhole;Mangat
+Manhole cover;Putdeksel
+Mannequin;Mannequin
+Map;Kaart
+Map space;Breng de ruimte in kaart
+Map table;Kaart tafel
+Maple Tree;Esdoornboom
+Maple birdhouse;Esdoorn vogelhuis
+Maple birdhouse (empty);Esdoorn vogelhuisje (leeg)
+Maple tree;Esdoorn
+Marble adventure log;Marmeren avonturenlogboek
+Marble bench;Marmeren bank
+Marble cape rack;Marmeren caperek
+Marble fireplace;Marmeren open haard
+Marble hidden;Marmer verborgen
+Marble trap;Marmeren val
+Marble wall;Marmeren muur
+Marigold;Goudsbloem
+Marigolds;Goudsbloemen
+Marim Portal;Marim-portaal
+Mark of Darkness;Teken van duisternis
+Mark of Power;Teken van macht
+Marked wall;Gemarkeerde muur
+Marker;Markering
+Market Stall;Marktkraam
+Market stall;Marktkraam
+Marshy jungle vine;Moerassige junglewijnstok
+Marv (Well);Marv (Nou)
+Marv (ghastly!);Marv (afschuwelijk!)
+Marv (sick);Marv (ziek)
+Marv (very sick);Marv (erg ziek)
+Massive ribs;Enorme ribben
+Massive storage unit;Enorme opslageenheid
+Mast;Mast
+Master clue scroll display;Hoofdaanwijzing scroll-display
+Mature Asgarnian Ale;Rijp Asgarniaans bier
+Mature Axeman's Folly;De dwaasheid van volwassen Axeman
+Mature Chef's Delight;Het genot van een volwassen chef-kok
+Mature Cider;Rijpe cider
+Mature Dragon Bitter;Rijpe Drakenbitter
+Mature Dwarven Stout;Rijpe dwergenstout
+Mature Greenmans Ale;Rijpe Greenmans Ale
+Mature Moonlight Mead;Rijpe maanlichtweide
+Mature Slayer's Respite;Het uitstel van de volwassen moordenaar
+Mature Wizards Mind Bomb;Volwassen tovenaars geestbom
+Mature juniper tree;Volwassen jeneverbesboom
+Mausoleum;Mausoleum
+Mausoleum Door;Mausoleumdeur
+Mausoleum door;Mausoleumdeur
+Meat table;Vlees tafel
+Meat tree;Vlees boom
+Medical table;Medische tafel
+Medium Boulder;Middelgrote rots
+Medium Fossil Display;Middelgrote fossielenvertoning
+Medium Jungle;Middelgrote jungle
+Medium fence;Middelgroot hek
+Medium storage unit;Middelgrote opbergeenheid
+Medivaemia root;Medivaemia-wortel
+Medpack Box;Medpack-doos
+Meilyr Banner;Meilyr Banier
+Melting Pot;Smeltkroes
+Memorial;Gedenkteken
+Memoriam Device;Memoriam-apparaat
+Mercenary;Huurling
+Merfolk Skeleton;Merfolk-skelet
+Metal;Metaal
+Metal Press;Metalen pers
+Metal bird;Metalen vogel
+Metal door;Metalen deur
+Metal gate;Metalen poort
+Metal ladder;Metalen ladder
+Metal pieces;Metalen stukken
+Metal stand;Metalen standaard
+Mighty torrent;Machtige torrent
+Milk Urns;Melk Urnen
+Mill;Molen
+Millstones;Molenstenen
+Mind Altar Portal;Geestaltaarportaal
+Mind Door;Geest deur
+Mind rift;Geestelijke kloof
+Mine Cart;Mijnkar
+Mine cart;Mijn kar
+Mine cart sign;Mijnkar teken
+Mine cave;Mijn grot
+Mine door;Mijn deur
+Mine door entrance;Mijndeur ingang
+Minecart;Mijnkar
+Mineral vein;Minerale ader
+Mirror;Spiegel
+Mithril armour;Mithril-pantser
+Mithril door;Mithril deur
+Molanisk;Molanisk
+Mole hill;Mol heuvel
+Money Pot;Geldpot
+Monkey Madness 2 display;Monkey Madness 2-display
+Monkey Statue;Aap Standbeeld
+Monkey bars;Apenbars
+Monkey trap;Apenval
+Monkeybars;Apenbars
+Monster space;Monsterlijke ruimte
+Monument;Monument
+Monumental chest;Monumentale kist
+Moonlight Mead;Maanlicht Mede
+Morytania painting;Morytania schilderij
+Mossy branch;Bemoste tak
+Mossy rock;Bemoste rots
+Moth;Mot
+Moths;Motten
+Mould;Gietvorm
+Mound of earth;Hoop aarde
+Mounted Achievement Diary Cape;Gemonteerde prestatiedagboekkaap
+Mounted Agility Cape;Gemonteerde Agility-cape
+Mounted Agility Cape (t);Gemonteerde Agility-cape (t)
+Mounted Attack Cape;Gemonteerde aanvalskaap
+Mounted Attack Cape (t);Gemonteerde aanvalskaap (t)
+Mounted Champion's Cape;Gemonteerde kampioenskaap
+Mounted Coins;Gemonteerde munten
+Mounted Construction Cape;Gemonteerde bouwkaap
+Mounted Construction Cape (t);Gemonteerde bouwkap (t)
+Mounted Cooking Cape;Gemonteerde kookcape
+Mounted Cooking Cape (t);Gemonteerde kookcape (t)
+Mounted Crafting Cape;Gemonteerde knutselkaap
+Mounted Crafting Cape (t);Gemonteerde knutselkaap (t)
+Mounted Defence Cape;Gemonteerde verdedigingskaap
+Mounted Defence Cape (t);Gemonteerde verdedigingskaap (t)
+Mounted Emblem;Gemonteerd embleem
+Mounted Farming Cape;Gemonteerde landbouwkaap
+Mounted Farming Cape (t);Gemonteerde landbouwkaap (t)
+Mounted Fire Cape;Gemonteerde vuurkaap
+Mounted Firemaking Cape;Gemonteerde vuurmaakkaap
+Mounted Firemaking Cape (t);Gemonteerde vuurmaakkaap (t)
+Mounted Fishing Cape;Gemonteerde visserskaap
+Mounted Fishing Cape (t);Gemonteerde viskaap (t)
+Mounted Fletching Cape;Gemonteerde Fletching Kaap
+Mounted Fletching Cape (t);Gemonteerde Fletching Cape (t)
+Mounted Head;Gemonteerd hoofd
+Mounted Head Space;Gemonteerde hoofdruimte
+Mounted Herblore Cape;Gemonteerde Herblore-kaap
+Mounted Herblore Cape (t);Gemonteerde Herblore-kaap (t)
+Mounted Hitpoints Cape;Gemonteerde Hitpoints-kaap
+Mounted Hitpoints Cape (t);Gemonteerde Hitpoints-kaap (t)
+Mounted Hunting Cape;Gemonteerde jachtkaap
+Mounted Hunting Cape (t);Gemonteerde jachtkaap (t)
+Mounted Infernal Cape;Gemonteerde helse kaap
+Mounted Magic Cape;Gemonteerde magische cape
+Mounted Magic Cape (t);Gemonteerde magische cape (t)
+Mounted Max Cape;Gemonteerde Max Cape
+Mounted Mining Cape;Gemonteerde mijnkaap
+Mounted Mining Cape (t);Gemonteerde mijnkaap (t)
+Mounted Music Cape;Gemonteerde muziekkaap
+Mounted Mythical Cape;Gemonteerde mythische Kaap
+Mounted Prayer Cape;Gemonteerde gebedskaap
+Mounted Prayer Cape (t);Gemonteerde gebedskaap (t)
+Mounted Quest Cape;Gemonteerde Quest-kaap
+Mounted Ranged Cape;Gemonteerde afstandskaap
+Mounted Ranged Cape (t);Gemonteerde afstandskaap (t)
+Mounted Runecrafting Cape;Gemonteerde Runecrafting-cape
+Mounted Runecrafting Cape (t);Gemonteerde Runecrafting-cape (t)
+Mounted Slayer Cape;Gemonteerde Slayer-cape
+Mounted Slayer Cape (t);Gemonteerde Slayer-cape (t)
+Mounted Smithing Cape;Gemonteerde smeedkaap
+Mounted Smithing Cape (t);Gemonteerde smeedkaap (t)
+Mounted Strength Cape;Gemonteerde sterkte cape
+Mounted Strength Cape (t);Gemonteerde sterkte cape (t)
+Mounted Thieving Cape;Gemonteerde stelende cape
+Mounted Thieving Cape (t);Gemonteerde stelende cape (t)
+Mounted Woodcutting Cape;Gemonteerde houtkapkaap
+Mounted Woodcutting Cape (t);Gemonteerde houtkapkaap (t)
+Mounted Xeric's Champion;Xeric's kampioen bereden
+Mounted Xeric's General;Xeric's generaal bereden
+Mounted Xeric's Guard;Xeric's wacht bereden
+Mounted Xeric's Sentinel;Xeric's Sentinel gemonteerd
+Mounted Xeric's Warrior;Xeric's krijger gemonteerd
+Mounted harpoonfish;Opgezette harpoenvis
+Mounted sea bass;Opgezette zeebaars
+Mounted shark;Opgezette haai
+Mounted swordfish;Opgezette zwaardvis
+Mourner;Rouwende
+Mouse hole;Muizen gat
+Mud;Modder
+Mud mound;Modder heuvel
+Mud patch;Modder plekje
+Mud pile;Modder stapel
+Mud pit;Modderput
+Muddy patch;Modderige plek
+Mudpile;Modderhoop
+Multicannon parts;Multicannon-onderdelen
+Mummy;Mama
+Mural;Muurschildering
+Mushroo;Mushroo
+Mushroom;Paddestoel
+Mushroom patch;Paddestoel patch
+Mushroom torch;Paddestoel fakkel
+Mushrooms;Paddestoelen
+Mushtoise;Mushtoise
+Mushtree;Mushtree
+Mushy Bed;Papperig bed
+Music Scores;Muziekpartituren
+Music Stand;Muziekstandaard
+Musical space;Muzikale ruimte
+Musty bookshelf;Muffe boekenplank
+My life;Mijn leven
+Mysterious glow;Mysterieuze gloed
+Mysterious pipe;Mysterieuze pijp
+Mysterious pool;Mysterieus zwembad
+Mysterious ruins;Mysterieuze ruïnes
+Mysterious statue;Mysterieus standbeeld
+Mysterious stone;Mysterieuze steen
+Mystic portal;Mystieke portaal
+Mystic symbol;Mystieke symbool
+Mystical barrier;Mystieke barrière
+Mystical barrier (orange);Mystieke barrière (oranje)
+Mystical barrier (red);Mystieke barrière (rood)
+Mystical door;Mystieke deur
+Mystical mirror;Mystieke spiegel
+Mythic Statue;Mythisch standbeeld
+Mythical cape;Mythische cape
+Nails;Nagels
+Narrow gap;Smalle kloof
+Narrow wall;Smalle muur
+Nasturtium;Oostindische kers
+Nature house;Natuur huis
+Nature rift;Natuur kloof
+Navigator's table;Navigatortafel
+Ned's Table;Neds tafel
+Nest;Nest
+Net;Netto
+Net trap;Netto val
+Nettles;Brandnetels
+Neutral Barrier;Neutrale barrière
+New farming patch;Nieuw landbouwveld
+Newspapers;Kranten
+Nightmare;Nachtmerrie
+Nightmare Berries;Nachtmerrie bessen
+Nightmare Blossom;Nachtmerrie bloesem
+Nightmare Topiary;Nachtmerrie Topiary
+Nightmare display;Nachtmerrie weergave
+Nightmare zone display;Nachtmerriezone-weergave
+Nine;Negen
+Node;Knooppunt
+Note;Opmerking
+Nothing;Niets
+Notice;Kennisgeving
+Notice board;Prikbord
+Noticeboard;Prikbord
+Notices;Mededelingen
+Novice Flag;Beginnende vlag
+Novice flag;Beginnende vlag
+Noxious tendrils;Schadelijke ranken
+Oak;Eik
+Oak Tree;Eikenboom
+Oak bench;Eiken bank
+Oak birdhouse;Eiken vogelhuisje
+Oak birdhouse (empty);Eiken vogelhuisje (leeg)
+Oak cape rack;Eiken kaprek
+Oak chair;Eiken stoel
+Oak chest;Eiken kist
+Oak drawers;Eiken laden
+Oak feeder;Eiken voederbak
+Oak house;Eiken huis
+Oak outfit stand;Eiken outfitstandaard
+Oak prize chest;Eiken prijzenkist
+Oak scratching post;Eiken krabpaal
+Oak table;Eiken tafel
+Oak tree;Eiken boom
+Oak tree stump;Eiken boomstronk
+Oak trophy case;Eiken trofeekast
+Oak wall decoration;Eiken wanddecoratie
+Oak wardrobe;Eiken kledingkast
+Oaknock statue;Oaknock-standbeeld
+Oaknock's Machine;Oaknocks Machine
+Oaknock's exchanger;Oaknock's wisselaar
+Oaknock's machine;Oaknocks machine
+Obelisk;Obelisk
+Obelisk of Air;Obelisk van de lucht
+Obelisk of Earth;Obelisk van de aarde
+Obelisk of Fire;Obelisk van vuur
+Obelisk of Water;Obelisk van water
+Obsidian bench;Obsidiaan bankje
+Obsidian fence;Obsidiaan hek
+Obsidian fence post;Obsidiaan hekpaal
+Obstacle;Obstakel
+Obstacle net;Obstakel netto
+Obstacle pipe;Obstakel pijp
+Occupied Cormorant perch;Bezette Aalscholverbaars
+Occupied perch;Bezette baars
+Odd looking wall;Vreemd uitziende muur
+Odd markings;Vreemde markeringen
+Office table;Kantoor tafel
+Official Order of Construction;Officiële bouworde
+Ogre Coffin;Ogre-kist
+Ogre Drums;Ogre-drums
+Ogre barricade;Ogre-barricade
+Ogre bed;Oger bed
+Ogre bench;Ogre bankje
+Ogre fire;Ogre-vuur
+Ogre spit-roast;Ogre aan het spit
+Ogre stone door;Ogre stenen deur
+Oil lamp;Olie lamp
+Olaf's boat;Olafs boot
+Old Bookshelf;Oude boekenplank
+Old Crane;Oude kraan
+Old Memorial;Oud gedenkteken
+Old Shrine;Oud heiligdom
+Old Stall;Oude stal
+Old axe;Oude bijl
+Old bookshelf;Oude boekenplank
+Old crane;Oude kraan
+Old fire pit;Oude vuurkorf
+Old log;Oud logboek
+Old passageway;Oude doorgang
+Old ruin entrance;Oude ruïne-ingang
+Old sacks;Oude zakken
+Old tools;Oud gereedschap
+Old wall;Oude muur
+Old well;Oude put
+Olmic pillar;Olmische pijler
+Ominous Fishing Spot;Onheilspellende visplek
+One;Een
+Onion;Ui
+Onion basket;Uien mand
+Onion plant;Uien plant
+Onion seeds;Uien zaden
+Oojimaflip;Oojimaflip
+Oozing barrier;Sijpelende barrière
+Open Chest;Open kist
+Open Cupboard;Kast openen
+Open Door;Open deur
+Open chest;Open borst
+Open gate;Open poort
+Open hot vent door;Open de hete ventilatiedeur
+Open statue;Openstaand standbeeld
+Open trapdoor;Open luik
+Opened gold chest;Geopende gouden kist
+Opening;Opening
+Operating Table;Operatietafel
+Operating table;Operatietafel
+Operation chair;Operatie stoel
+Operation table;Operatie tafel
+Opulent rug;Weelderig vloerkleed
+Opulent table;Weelderige tafel
+Orange door;Oranje deur
+Orange tree;Sinaasappelboom
+Orange tree stump;Sinaasappelboomstronk
+Orb;Orb
+Orchid;Orchidee
+Orchids;Orchideeën
+Ore crate;Erts krat
+Ore sack;Erts zak
+Ore stones;Erts stenen
+Ore table;Erts tafel
+Ore vein;Erts ader
+Organ;Orgaan
+Ornament;Ornament
+Ornamental anvil;Sier aambeeld
+Ornamental fountain;Decoratieve fontein
+Ornamental globe;Decoratieve wereldbol
+Ornate Jewellery Box;Sierlijke sieradendoos
+Ornate banner stand;Sierlijke bannerstandaard
+Ornate candle;Sierlijke kaars
+Ornate combat dummy;Sierlijke gevechtspop
+Ornate dragon combat dummy;Sierlijke drakengevechtspop
+Ornate kalphite combat dummy;Sierlijke Kalphite gevechtspop
+Ornate kurask combat dummy;Sierlijke Kurask-gevechtspop
+Ornate league statue;Sierlijk ligabeeld
+Ornate lockbox;Sierlijke sleutelkastje
+Ornate pool of Rejuvenation;Sierlijke poel van verjonging
+Ornate railing;Sierlijke reling
+Ornate trophy pedestal;Sierlijke trofeevoetstuk
+Ornate undead combat dummy;Sierlijke ondode gevechtspop
+Ornate vampyre combat dummy;Sierlijke vampiergevechtspop
+Ornate vase;Sierlijke vaas
+Ornate wilderness combat dummy;Sierlijke wildernisgevechtspop
+Orrery;Planetarium
+Otherworldly garden;Buitenaardse tuin
+Otherworldly theme;Buitenaards thema
+Our lives;Onze levens
+Outfit stand space;Outfit standruimte
+Output Tap;Uitvoertap
+Oven;Oven
+Overhanging rock;Overhangende rots
+Overload potion;Overbelastingsdrankje
+Owl Statue;Uil standbeeld
+Pack;Pak
+Pagoda Fungus;Pagode schimmel
+Painting;Schilderen
+Painting stand;Schilderijstandaard
+Paladin;Paladijn
+Palm;Palm
+Palm tree;Palmboom
+Palm tree stump;Palmboomstronk
+Panel;Paneel
+Panning point;Panningspunt
+Panning tray;Pannenbak
+Papaya tree;Papaja boom
+Papaya tree stump;Papaya boomstronk
+Paper;Papier
+Parasol;Parasol
+Parchment;Perkament
+Partial fence;Gedeeltelijke omheining
+Partially broken bridge;Gedeeltelijk kapotte brug
+Party Balloon;Feestballon
+Passage;Passage
+Passageway;Doorgang
+Patched Wall;Gepatchte muur
+Patched wall;Gepatchte muur
+Path;Pad
+Pear tree;Perenboom
+Pebbles;Kiezels
+Pedals;Pedalen
+Pedestal;Voetstuk
+Pedestal space;Voetstuk ruimte
+Peephole;Kijkgat
+Pen Door;Pendeur
+Penance Fighter statue;Boetevechter standbeeld
+Penance Healer statue;Boetedoener standbeeld
+Penance Queen spawn statue;Boetekoningin spawn-standbeeld
+Penance Ranger statue;Boete Ranger standbeeld
+Penance Runner statue;Boetedoener Runner standbeeld
+Penance cave;Boetedoening grot
+Pendant;Hanger
+Pendulum;Slinger
+Pentamid Pile;Pentamid-stapel
+Perch;Baars
+Pet basket;Dierenmand
+Pet blanket;Huisdier deken
+Pet feeder space;Voerruimte voor huisdieren
+Pet house space;Ruimte voor huisdieren
+Pet list;Huisdieren lijst
+Pet list space;Ruimte voor huisdierenlijst
+Petrified Large Mushroom;Versteende grote paddestoel
+Petrified Mushtree;Versteende Mushtree
+Petrified Pitcher;Versteende werper
+Petrified Pufferfish;Versteende kogelvis
+Petrified Spine Plant;Versteende stekelplant
+Petrified mushroom;Versteende paddestoel
+Pew;Kerkbank
+Phren Roots;Phren Wortels
+Phren Roots (Depleted);Phren Roots (uitgeput)
+Piano;Piano
+Piano stool;Pianokruk
+Pickaxe;Pikhouweel
+Picket fence;Piket hek
+Picnic bench;Picknickbank
+Picnic table;Picknicktafel
+Picture;Afbeelding
+Picture wall;Foto muur
+Pie stall;Taart kraam
+Pigeon;Duif
+Pile of Ancient Books;Stapel oude boeken
+Pile of Fishbowls;Stapel vissenkommen
+Pile of Rock;Stapel rots
+Pile of bricks;Stapel bakstenen
+Pile of canes;Stapel stokken
+Pile of fish;Stapel vis
+Pile of rocks;Stapel stenen
+Pile of rope;Stapel touw
+Pile of rubble;Stapel puin
+Pile of rubble.;Stapel puin.
+Pile of skulls;Stapel schedels
+Pillar;Pijler
+Pillar of Light;Pijler van licht
+Pin;Pin
+Pinball Post;Flipperkastpost
+Pinboard;Prikbord
+Pine;Pijnboom
+Pineapple Plant;Ananasplant
+Pineapple plant;Ananasplant
+Pineapple plant stump;Ananas plantenstronk
+Pink rose bush patch;Roze rozenstruik patch
+Pipe;Pijp
+Pipe machine;Pijpmachine
+Pipes;Pijpen
+Piping;Leidingen
+Pirate Captain;Kapitein van de piraten
+Pirate Flag;Piraten vlag
+Pirate Pete;Piraat Piet
+Pirate Sign;Piraten teken
+Pirate map;Piraten kaart
+Piscarilius statue;Piscarilius-standbeeld
+Pit;Pit
+Pitcher plant;Werperplant
+Pitfall;Valkuil
+Plank;Plank
+Plant;Plant
+Plant Fossil Display;Plantfossiele weergave
+Plant door;Plant deur
+Planter;Planter
+Plantpot;Plantpot
+Plaque;Plaquette
+Platform;Platform
+Platform edge;Platformrand
+Platform support;Platformondersteuning
+Play blocks;Speel blokken
+Plinth;Plint
+Plough;Ploeg
+Plunder Storage;Plunder opslag
+Points settings;Punten instellingen
+Poison Ivy bush;Poison Ivy-struik
+Poison crater;Vergif krater
+Pokers;Pokeren
+Pole;Pool
+Pole-vault;Polsstokspringen
+Poll booth;Stembureau
+Polluted water;Vervuild water
+Pond;Vijver
+Pool of Dreams;Pool van dromen
+Pool of Nightmares;Pool van nachtmerries
+Pool of Refreshment;Zwembad van verfrissing
+Pool of Rejuvenation;Poel van verjonging
+Pool of Restoration;Poel van restauratie
+Pool of Revitalisation;Poel van revitalisering
+Pool of Slime;Poel van slijm
+Pool of blood;Plas bloed
+Pool space;Zwembad ruimte
+Poor Bed;Slecht bed
+Portal;Portaal
+Portal Home;Portaal Thuis
+Portal Nexus;Portaal Nexus
+Portal Nexus space;Portal Nexus-ruimte
+Portal machine;Portaalmachine
+Portal of Champions;Portaal van kampioenen
+Portal of Death;Portaal van de dood
+Portal of Heroes;Portaal van Helden
+Portal of Legends;Portaal der Legenden
+Portal space;Portaalruimte
+Portcullis;Portcullis
+Portrait;Portret
+Portrait space;Portretruimte
+Posh bell-pull;Chique beltrekker
+Post;Na
+Poster;Poster
+Posts;Berichten
+Pot;Pot
+Pot of Gold;Pot met goud
+Pot of dynamite;Pot met dynamiet
+Pot-boiler;Broodschrijver
+Potato;Aardappel
+Potato basket;Aardappel mand
+Potato cactus;Aardappelcactus
+Potato plant;Aardappelplant
+Potato plants;Aardappelplanten
+Potato seed;Aardappelzaad
+Potatoes;Aardappelen
+Potential fire;Mogelijke brand
+Potion of power table;Drankje van de machtstafel
+Potion shelf;Drankjesplank
+Potion shelves;Drankjesplanken
+Potions;Drankjes
+Pots;Potten
+Potted fern;Ingemaakte varen
+Potted flower;Ingemaakte bloem
+Potted plant;Potplant
+Potter's Wheel;Pottenbakkerswiel
+Potter's wheel;Het pottenbakkerswiel
+Pottery Oven;Aardewerk Oven
+Powder Barrel;Poedervat
+Power Grid;Elektriciteitsnet
+Power saw;Elektrische zaag
+Precarious bridge;Precaire brug
+Preparation Table;Voorbereidingstabel
+Press support;Ondersteuning van de pers
+Pressure Barrel;Drukvat
+Pressure Lever;Drukhendel
+Pressure machine;Drukmachine
+Pressure pad;Drukkussen
+Priest Statue;Priester standbeeld
+Prison Door;Gevangenisdeur
+Prison door;Deur van de gevangenis
+Prison space;Gevangenis ruimte
+Private bank booth;Privé bankhokje
+Private portal;Privéportaal
+Prize chest space;Prijskistruimte
+Professor's table;Professors tafel
+Protest Banners;Protestbanners
+Protest Poster;Protestposter
+Protruding rocks;Uitstekende rotsen
+Pump;Pomp
+Pump and drain;Pompen en aftappen
+Pump and tub;Pomp en badkuip
+Pylon;Pyloon
+Pyramid entrance;Piramide ingang
+Pyre boat;Pyre boot
+Pyre site;Pyre-site
+Pyromancer;Pyromancer
+Quest List;Questlijst
+Quest list space;Questlijstruimte
+Quiescent Snow Storm;Rustige sneeuwstorm
+Rabbit hole;Konijnenhol
+Rabbit snare;Konijn strik
+Rabbitless hole;Konijnloos gat
+Rachel (Well);Rachel (nou ja)
+Rachel (ghastly!);Rachel (afschuwelijk!)
+Rachel (sick);Rachel (ziek)
+Rachel (very sick);Rachel (erg ziek)
+Rack;Rek
+Rack of barrels;Rek met vaten
+Raft;Vlot
+Rail;Spoor
+Railing;Traliewerk
+Raised coffin;Verhoogde kist
+Ramp;Oprit
+Range;Bereik
+Range chimney;Bereik schoorsteen
+Ranging game space;Variërende speelruimte
+Ranging spot;Variërende plek
+Ranis Drakan;Ranis Drakan
+Rare Flowers;Zeldzame bloemen
+Rat;Rat
+Rat Wall;Rattenmuur
+Rat barn;Ratten schuur
+Rat barrel;Rattenvat
+Rat hole;Rattenhol
+Rat lever;Rattenhendel
+Rat trap;Rattenval
+Rat wall;Ratten muur
+Rat wheel;Rattenwiel
+Rat-hole;Rattengat
+Ray of Light;Straal van licht
+Recess;Onderbreking
+Recruiting board;Rekruteringsbord
+Red Banana Tree;Rode bananenboom
+Red Barrier;Rode barrière
+Red Castlewars armour;Rood Castlewars-pantser
+Red Flowers;Rode bloemen
+Red Star Fungi;Rode Ster Schimmels
+Red Water Sign;Rood waterteken
+Red banner;Rode vlag
+Red chemical;Rode chemische stof
+Red door;Rode deur
+Red flowers;Rode bloemen
+Red fungi;Rode schimmels
+Red rose bush patch;Rode rozenstruik patch
+Redberry bush;Rode bessenstruik
+Redwood;Redhout
+Redwood birdhouse;Redwood vogelhuis
+Redwood birdhouse (empty);Redwood vogelhuisje (leeg)
+Redwood fence;Redwood hek
+Redwood fence post;Redwood hekpaal
+Redwood tree;Redwood-boom
+Redwood tree patch;Redwood-boompatch
+Reeds;Riet
+Refinery;Raffinaderij
+Reinforced crate;Versterkte krat
+Reinitialisation Panel;Herinitialisatiepaneel
+Repair Locker;Repareer kluisje
+Repair bench;Reparatie bank
+Repair space;Reparatie ruimte
+Repaired Roof;Gerepareerd dak
+Repaired furnace;Gerepareerde oven
+Repaired leak;Lekkage gerepareerd
+Repaired wall;Gerepareerde muur
+Reset Lever;Reset-hendel
+Restraining Table;Beperkingstabel
+Restraint Table;Terughoudendheidstabel
+Retorts;Antwoorden
+Return Orb;Retour Orb
+Reward Chest;Beloningskist
+Reward chest;Beloning borst
+Reward pool;Beloningspool
+Rewards Chest;Beloningenkist
+Rewards chest;Beloningen borst
+Rickety door;Gammele deur
+Rift;Kloof
+Right side of a fireplace;Rechterzijde van een open haard
+Ring of Stones;Ring van stenen
+Rinsing pool;Spoelend zwembad
+Ripples;Rimpelingen
+River;Rivier
+Rock;Steen
+Rock Chair;Rotsstoel
+Rock Formation;Rotsformatie
+Rock Formation (Depleted);Rotsformatie (uitgeput)
+Rock Formation (Glowing);Rotsformatie (gloeiend)
+Rock Pile;Rots stapel
+Rock and string;Rots en snaar
+Rock debris;Rotsresten
+Rock of Dalgroth;Rots van Dalgroth
+Rock pile;Rots stapel
+Rock slide;Rots glijbaan
+Rock wall;Rots muur
+Rockery;Rotstuin
+Rockfall;Rotsval
+Rocking chair;Schommelstoel
+Rocking unicorn;Schommelende eenhoorn
+Rockpile;Rotsstapel
+Rocks;Rotsen
+Rockslide;Rotsverschuiving
+Rocky Ledge;Rotsachtige richel
+Rocky handholds;Rotsachtige handgrepen
+Rocky ledge;Rotsachtige richel
+Rocky outcrop;Rotsachtige uitloper
+Rocky shore;Rotsachtige kust
+Rocky support;Rotsachtige ondersteuning
+Rocky surface;Rotsachtig oppervlak
+Rocnar;Rocnar
+Rolled up rug;Opgerold vloerkleed
+Rolled up rugs;Opgerolde tapijten
+Rolling pin;Deegroller
+Roof;Dak
+Roof Entrance;Dakingang
+Roof Exit;Dakuitgang
+Roof edge;Dakrand
+Roof top beams;Balken op het dak
+Rooftop Agility display;Agility-display op het dak
+Root;Wortel
+Roots;Wortels
+Rope;Touw
+Rope Ladder;Touwladder
+Rope anchor;Touw anker
+Rope bell-pull;Touwbel-trekkracht
+Rope bridge;Touwbrug
+Rope bridge support;Ondersteuning van touwbrug
+Rope ladder;Touwladder
+Rope swing;Touw schommel
+Roped tree;Touwboom
+Ropes;Touwen
+Ropeswing;Touwzwaai
+Rose bush;Rozenstruik
+Rosebush;Rozenstruik
+Rosemary;Rozemarijn
+Roses;Rozen
+Rotten Apple Pile;Rotte Appelstapel
+Rotten Totem pole;Rotte totempaal
+Rotten Yommi;Rotte Yommi
+Rotten Yommi tree;Rotte Yommi-boom
+Rotten carpet;Rot tapijt
+Rotten food;Rot voedsel
+Rotten sapling;Rotte jonge boom
+Rotten stump;Rotte stronk
+Rotten village fence;Rot dorpshek
+Rotting branch;Rottende tak
+Rotting log;Rottend logboek
+Rotting tree;Rottende boom
+Rough hewn steps;Ruw uitgehouwen treden
+Rough wall;Ruwe muur
+Round shield;Rond schild
+Row boat;Roeiboot
+Rowboat;Roeiboot
+Rowboat space;Roeiboot ruimte
+Royal Wedding Invitation;Koninklijke bruiloft uitnodiging
+Rubber cap mushroom;Paddestoel met rubberen dop
+Rubble;Puin
+Rubble Pile;Puinhoop
+Rug;Tapijt
+Rug space;Vloerkleed ruimte
+Ruined Pillar;Geruïneerde pijler
+Ruined Stall;Verwoeste stal
+Ruined stall;Verwoeste stal
+Ruins;Ruïnes
+Ruins Entrance;Ruïnes ingang
+Ruins Exit;Ruïnes uitgang
+Rum Crate;Rum krat
+Rune Essence;Rune essentie
+Rune armour;Runen pantser
+Rune case space;Runenkastruimte
+Rune display case;Runen vitrine
+Rune dragon;Rune draak
+Rune essence;Runen essentie
+Rune pouches;Runenzakjes
+Rune temple sign;Rune tempel teken
+Runecrafting altar;Runecrafting-altaar
+Runic Altar;Runenaltaar
+Runite Minor;Runiet mineur
+Runner trap(1);Lopersval(1)
+Runner trap(2);Lopersval(2)
+Rupert;Rupert
+Ruptured cavern;Gebarsten grot
+Rusted anvil;Verroest aambeeld
+Rusty key;Roestige sleutel
+S.T.A.S.H chart;S.T.A.S.H-diagram
+STASH (beginner);STASH (beginner)
+STASH (easy);STASH (makkelijk)
+STASH (elite);STASH (elite)
+STASH (hard);STASH (moeilijk)
+STASH (master);STASH (meester)
+STASH (medium);STASH (gemiddeld)
+Sabertooth Squirrel;Sabeltand eekhoorn
+Sack;Zak
+Sack Pile;Zakstapel
+Sack pile;Zakstapel
+Sacks;Zakken
+Sacred Bone Burner;Heilige bottenbrander
+Sacred Forge;Heilige Smidse
+Sacred water;Heilig water
+Sacrificial Pyre;Offerbrandstapel
+Sacrificial boat;Offerboot
+Safe;Veilig
+Sail;Zeil
+Sailfish;Zeilvis
+Sails;Zeilen
+Saltpetre;Salpeter
+Salve Graveyard Portal;Salve kerkhofportaal
+Sample table;Voorbeeld tafel
+Sand;Zand
+Sand pile;Zand stapel
+Sand pit;Zandbak
+Sandpit;Zandbak
+Sandworm castings;Zandwormafgietsels
+Sandy's Coffee Mug;Sandy's koffiemok
+Sandy's Desk;Sandy's bureau
+Sapling;Jonge boom
+Sarachnis display;Sarachnis-vertoning
+Saradomin Brazier;Saradomin Brazier
+Saradomin Portal;Saradomin-portaal
+Saradomin Standard;Saradomin-standaard
+Saradomin altar;Saradomin-altaar
+Saradomin staff;Saradomin-personeel
+Saradomin star;Saradomin-ster
+Sarah (Well);Sara (nou ja)
+Sarah (ghastly!);Sara (afschuwelijk!)
+Sarah (sick!);Sara (ziek!)
+Sarah (very sick!);Sara (erg ziek!)
+Sarcophagus;Sarcofaag
+Saucepan;Pan
+Scaffold;Steiger
+Scaffolding;Steiger
+Scarecrow;Vogelverschrikker
+Scaregull;Vogelverschrikker
+Schematic crate;Schematische krat
+Scimitar Stall;Kromzwaard kraam
+Scorched earth;Verschroeide aarde
+Score board;Scorebord
+Scoreboard;Scorebord
+Scrapey Bark Sign;Scrapey schors teken
+Scrapey Tree;Scrapey-boom
+Scratching post space;Krabpaal ruimte
+Scrawled note;Gekrabbelde notitie
+Screen;Scherm
+Scroll;Rol
+Scroll rack;Rolrek
+Scroll table;Blader door de tabel
+Scrolls;Rollen
+Scrying orb;Schreeuwende bol
+Scrying pool;Schreeuwend zwembad
+Sculpture;Beeldhouwwerk
+Scuttle;Scuttel
+Seal of Amlodd;Zegel van Amlodd
+Seal of Cadarn;Zegel van Cadarn
+Seal of Crwys;Zegel van Crwys
+Seal of Hefin;Zegel van Hefin
+Seal of Iorwerth;Zegel van Iorwerth
+Seal of Ithell;Zegel van Ithel
+Seal of Meilyr;Zegel van Meilyr
+Seal of Trahaearn;Zegel van Trahaearn
+Seal of the Forgotten;Zegel van de vergetenen
+Seating space;Zitruimte
+Seaweed;Zeewier
+Seaweed Pile;Zeewier stapel
+Seaweed patch;Zeewier plekje
+Secret Door;Geheime deur
+Secret entrance;Geheime ingang
+Secure chest;Veilige borst
+Security Barrier;Beveiligingsbarrière
+Seed Stall;Zaad kraam
+Seed table;Zaad tafel
+Seed vault;Zaad kluis
+Seers weathervane;Zieners windwijzer
+Seers' Village Portal;Dorpsportaal van zieners
+Senntisten Portal;Senntistenportaal
+Septic tendrils;Septische ranken
+Servant's moneybag;Geldzak van de bediende
+Seven;Zeven
+Sewer pipe;Rioolbuis
+Sewer valve;Riool klep
+Sewing machine;Naaimachine
+Shackle table;Beugel tafel
+Shadow crystal;Schaduw kristal
+Shadow root;Schaduwwortel
+Shaking box;Schuddende doos
+Shantay pass;Shantay-pas
+Shape puzzle;Vorm puzzel
+Shark Beast;Haai beest
+Shark head;Haai hoofd
+Shattered rockface;Verbrijzelde rotswand
+Shaving stand;Scheerstandaard
+Shayzien banner;Shayzien-banner
+Shayzien snapped banner;Shayzien snauwde het spandoek
+Shayzien statue;Shayzien-standbeeld
+Shelf;Plank
+Shelf of thread;Plank met draad
+Shelf space;Plankruimte
+Shell;Schelp
+Shelves;Planken
+Shelves space;Planken ruimte
+Shield;Schild
+Shield Display;Schildweergave
+Shield display;Schild weergave
+Shimmering barrier;Glinsterende barrière
+Shimmering field;Glinsterend veld
+Shining pool;Glanzend zwembad
+Ship;Schip
+Ship hull;Scheepsromp
+Ship's ladder;Scheepsladder
+Ship's wheel;Het scheepswiel
+Shoe box;Schoenendoos
+Shooting Star Noticeboard;Vallende ster prikbord
+Shop Counter;Winkelteller
+Shop counter;Winkelbalie
+Short Plant;Korte plant
+Short fence;Kort hek
+Short planks;Korte planken
+Shortcut;Snelkoppeling
+Shot;Schot
+Shrine;Heiligdom
+Shrivelled plant;Verschrompelde plant
+Shuttered window;Geblindeerd raam
+Sickle logo;Sikkel-logo
+Sign;Teken
+Sign post;Teken bericht
+Signpost;Wegwijzer
+Silk stall;Zijde kraam
+Silver Chest;Zilveren kist
+Silver stall;Zilveren kraam
+Silverlight;Zilverlicht
+Simple lockbox;Eenvoudig sleutelkastje
+Simple stove;Eenvoudig fornuis
+Sinclair family beehive;Bijenkorf van de familie Sinclair
+Sinclair family compost heap;Composthoop van de familie Sinclair
+Sinclair family crest;Familiewapen van Sinclair
+Sinclair family fountain;Familiefontein van Sinclair
+Sinclair mansion drain;Sinclair herenhuis afvoer
+Singing Bowl;Zingende kom
+Singing bowl;Klankschaal
+Single pillar;Enkele pijler
+Sinister barrel;Sinister vat
+Sink;Wasbak
+Sink space;Spoelruimte
+Sir Amik Varze;Heer Amik Varze
+Sir Bedivere;Heer Bedivere
+Sir Lancelot;Heer Lancelot
+Sir Lucan;Heer Lucan
+Sir Palomedes;Heer Palomedes
+Sir Tristram;Heer Tristram
+Sithik Ints;Sithik Int
+Six;Zes
+Skeleton;Skelet
+Skotizo Topiary;Skotizo-vormsnoei
+Skotizo display;Skotizo-vertoning
+Skrach Uglogwee;Skrach Uglogwee
+Skroom;Skroom
+Skull;Schedel
+Skull slope;Schedel helling
+Skulls;Schedels
+Skullshield;Schedelschild
+Slab;Plaat
+Slashed Bush;Gesneden Bush
+Slashed bush;Gesneden struik
+Slashed tapestry;Gesneden tapijt
+Slashed web;Gesneden web
+Slave;Slaaf
+Slayer Helmet display case;Slayer Helmet-vitrine
+Slayer's Respite;Het uitstel van de moordenaar
+Sleeping bag;Slaapzak
+Sliced web;Gesneden web
+Slight indentations;Lichte inkepingen
+Slightly broken bridge;Iets gebroken brug
+Slightly dark crystal;Iets donker kristal
+Slimy pillars;Slijmerige pilaren
+Slimy residue;Slijmerige resten
+Slimy water;Slijmerig water
+Slope;Helling
+Slope end;Einde van de helling
+Slug goo;Slak goe
+Sluice Gate;Sluispoort
+Small Boulder;Kleine rots
+Small Fossil Display;Kleine fossielenvertoning
+Small Geyser;Kleine geiser
+Small Oven;Kleine oven
+Small Plant space 1;Kleine fabrieksruimte 1
+Small Plant space 2;Kleine fabrieksruimte 2
+Small Table;Kleine tafel
+Small bush;Kleine struik
+Small chest;Kleine kist
+Small crystals;Kleine kristallen
+Small fern;Kleine varen
+Small fountain;Kleine fontein
+Small furnace;Kleine oven
+Small gravestone;Kleine grafsteen
+Small orrery;Klein planetarium
+Small oven;Kleine oven
+Small plant;Kleine plant
+Small plant 2;Kleine plant 2
+Small rock;Kleine rots
+Small storage unit;Kleine opbergeenheid
+Small table;Kleine tafel
+Small vase;Kleine vaas
+Smashed cage;Gebroken kooi
+Smashed chair;Gebroken stoel
+Smashed table;Gebroken tafel
+Smashed window;Ingeslagen raam
+Smelly hole;Stinkend gat
+Smelly mushroom;Stinkende paddestoel
+Smoke;Rook
+Smoke Crystal;Rook Kristal
+Smokey well;Rook goed
+Smoking vent;Roken ventilatieopening
+Smoky cave;Rokerige grot
+Snake;Slang
+Snape grass plant;Sneep grasplant
+Snape grass seedling;Sneep graszaailing
+Snow;Sneeuw
+Snow drift;Sneeuwafwijking
+Snow jump;Sneeuw sprong
+Snowdrop patch;Sneeuwklokje patch
+Snowdrops;Sneeuwklokjes
+Snowfall;Sneeuwval
+Snowy bird hide;Besneeuwde vogelhuid
+Sofa;Bank
+Soil;Bodem
+Soil patch;Bodem patch
+Soldier;Soldaat
+Solid black door;Stevige zwarte deur
+Solid bronze door;Massief bronzen deur
+Solid gold door;Massief gouden deur
+Solid silver door;Massief zilveren deur
+Solid steel door;Stevige stalen deur
+Soul Altar;Zielenaltaar
+Soul Devourer;Zielenverslinder
+Soul Obelisk;Ziel Obelisk
+Soul Wars Portal;Soul Wars-portaal
+Soul boat;Ziel boot
+Soul rift;Zielsbreuk
+Space;Ruimte
+Spade;Spade
+Sparkling pool;Bruisend zwembad
+Spear wall;Speer muur
+Speartrap;Speerval
+Specimen;Voorbeeld
+Specimen table;Voorbeeld tafel
+Specimen tray;Monsterbakje
+Sphinx;Sfinx
+Spice Rack;Kruidenrek
+Spice stall;Kruiden kraam
+Spider eggs;Eieren van spinnen
+Spiders' nest;Het nest van spinnen
+Spiderwebs;Spinnenwebben
+Spike defence;Spike verdediging
+Spike hidden;Spike verborgen
+Spike trap;Spike-val
+Spiked pit;Spitse put
+Spikes;Spieken
+Spikey chain;Spikey-ketting
+Spin Blades;Draai messen
+Spine mushroom;Ruggengraat paddestoel
+Spinning Machine;Spinmachine
+Spinning Wheel;Spinnewiel
+Spinning blades;Draaiende messen
+Spinning light;Draaiend licht
+Spinning pipe;Draaiende pijp
+Spinning pole;Draaiende paal
+Spinning wheel;Spinnewiel
+Spiny bush;Stekelige struik
+Spirit Angler dock;Spirit Angler-dok
+Spirit Angler stats;Spirit Angler-statistieken
+Spirit Tree;Geest boom
+Spirit Tree Patch;Spirit Tree-patch
+Spirit Tree Stump;Geest boomstronk
+Spirit pump;Geest pomp
+Spirit tendrils;Geest ranken
+Spirit tree;Geest boom
+Spiritual Fairy Tree;Spirituele sprookjesboom
+Spit roast;Spit gebraden
+Spooky picture;Spookachtig beeld
+Spooky stairs;Griezelige trappen
+Spore;Sporen
+Spork;Spork
+Spotlight;Spotlight
+Spray;Spuiten
+Sprouting Roots;Ontkiemende wortels
+Sq'irk tree;Sq'irk-boom
+Square shield;Vierkant schild
+Stacked Boxes;Gestapelde dozen
+Stacked barrels;Gestapelde vaten
+Stacked crates;Gestapelde kratten
+Staff barrel;Staf vat
+Staff of Bob the Cat;Staf van Bob de Kat
+Stagnant Lake;Stagnerend meer
+Stagnant fish display;Stagnerende visvertoning
+Stained-glass window;Glas-in-lood raam
+Stair Space;Trap ruimte
+Staircase;Trap
+Stairs;Trap
+Stairs down;Trap naar beneden
+Stairs up;Trap omhoog
+Stairwell;Trappenhuis
+Stalactite;Stalactiet
+Stalagmite;Stalagmiet
+Stalagmites;Stalagmieten
+Stall;Kraam
+Stand;Stellage
+Standard;Standaard
+Standard Stand;Standaard standaard
+Standing Torch;Staande fakkel
+Standing spears;Staande speren
+Standing stone;Staande steen
+Standing torch;Staande fakkel
+Star chart;Sterrenkaart
+Start;Begin
+Statue;Standbeeld
+Statue Plinth;Standbeeld sokkel
+Statue Space;Standbeeldruimte
+Statue of Baxtorian;Standbeeld van Baxtorian
+Statue of Glarial;Standbeeld van Glariaal
+Statue of Guthix;Standbeeld van Guthix
+Statue of Saradomin;Standbeeld van Saradomin
+Statue of Zamorak;Standbeeld van Zamorak
+Statue of a king;Standbeeld van een koning
+Statue of a queen;Standbeeld van een koningin
+Statue of a warrior;Standbeeld van een krijger
+Statue plinth;Sokkel van standbeeld
+Statue space;Standbeeldruimte
+Statue steps;Standbeeld stappen
+Statue with key;Standbeeld met sleutel
+Statuette Plinth;Beeldje sokkel
+Statuette in alcove;Beeldje in nis
+Steam Generator;Stoomgenerator
+Steam Pump;Stoompomp
+Steam Vent;Stoomventilatie
+Steam generator;Stoomgenerator
+Steam press;Stoom pers
+Steam_Pump;Stoom_pomp
+Steel Chest;Stalen kist
+Steel cage;Stalen kooi
+Steel dragon;Stalen draak
+Steel range;Stalen assortiment
+Steep roof;Steil dak
+Steeple;Toren
+Stepladder;Trapladder
+Stepping Stone;Stapsteen
+Stepping log;Stappen log
+Stepping stone;Stapsteen
+Stepping stones;Stapstenen
+Steps;Stappen
+Stick;Stok
+Stick and hoop;Stok en hoepel
+Sticks;Stokken
+Stile;Stijl
+Stinking tendrils;Stinkende ranken
+Stocks;Voorraden
+Stone;Steen
+Stone Door;Stenen deur
+Stone Gate;Stenen Poort
+Stone Ladder;Stenen ladder
+Stone Mechanism;Steenmechanisme
+Stone Pew;Stenen bank
+Stone Pile;Stenen stapel
+Stone Plinth;Stenen plint
+Stone Relief;Stenen reliëf
+Stone Staircase;Stenen trap
+Stone Tablet;Stenen tablet
+Stone arch;Stenen boog
+Stone block;Stenen blok
+Stone bridge;Stenen brug
+Stone chest;Stenen kist
+Stone circle wall;Stenen cirkelmuur
+Stone crate;Stenen krat
+Stone crusher;Steenbreker
+Stone door;Stenen deur
+Stone ladder;Stenen ladder
+Stone pedestal;Stenen voetstuk
+Stone pool;Stenen zwembad
+Stone signpost;Stenen wegwijzer
+Stone space;Stenen ruimte
+Stone stand;Stenen standaard
+Stone table;Stenen tafel
+Stone tablet;Stenen tablet
+Stone wall;Stenen muur
+Stones;Stenen
+Stool;Kruk
+Stool hotspot;Kruk hotspot
+Stop!;Stop!
+Storage crate;Opbergkrat
+Storage shelves;Opbergplanken
+Storage space;Opbergruimte
+Storage unit;Opslageenheid
+Storeroom Door;Deur van opslagruimte
+Stormram;Stormram
+Stove;Fornuis
+Stove space;Kachel ruimte
+Strange Banana Tree;Vreemde bananenboom
+Strange Bells;Vreemde klokken
+Strange Egg;Vreemd ei
+Strange Machine;Vreemd apparaat
+Strange Shell;Vreemde schil
+Strange Tile;Vreemde tegel
+Strange altar;Vreemd altaar
+Strange blocks;Vreemde blokken
+Strange floor;Vreemde vloer
+Strange grid;Vreemd rooster
+Strange hole;Vreemd gat
+Strange looking stone;Vreemd uitziende steen
+Strange machine;Vreemd apparaat
+Strange passage;Vreemde doorgang
+Strange plant;Vreemd plantje
+Strange pool;Vreemd zwembad
+Strange shrine;Vreemd heiligdom
+Strange stone;Vreemde steen
+Strange wall;Vreemde muur
+Strategy table;Strategie tafel
+Strawberry;Aardbei
+Strawberry plant;Aardbeienplant
+Strawberry seed;Aardbei zaad
+Streak info;Streepjesinformatie
+Stretcher;Brancard
+Strong Tree;Sterke boom
+Strong Yew;Sterke taxus
+Stronghold;Bolwerk
+Structural pillar;Structurele pijler
+Strut;Stut
+Studded Leather;Bezaaid leer
+Students' art;Kunst van studenten
+Study Desk;Studie bureau
+Study desk;Studie bureau
+Stuffed swordfish;Gevulde zwaardvis
+Stump;Stomp
+Stump chair;Stompe stoel
+Sturdy door;Stevige deur
+Sturdy wooden gate;Stevige houten poort
+Suit of Armour;Harnas
+Suit of armour;Harnas
+Sulliuscep;Sulliuscep
+Sulliuscep sprout;Sulliuscep-spruit
+Sulphur;Zwavel
+Sulphur Vent;Zwavelventilatie
+Sulphur vent;Zwavel ventilatieopening
+Sunflower;Zonnebloem
+Sunflowers;Zonnebloemen
+Sunken rowboat;Gezonken roeiboot
+Super magic potion;Super toverdrankje
+Super ranging potion;Super variërend drankje
+Supermajority marker;Supermeerderheidsmarkering
+Supplies;Benodigdheden
+Supply chest;Bevoorradingskist
+Support;Steun
+Supporting Pillar;Ondersteunende pijler
+Suspicious footprints;Verdachte voetafdrukken
+Swamp;Moeras
+Swamp Boaty;Moeras Bootje
+Swamp bubbles;Moeras bubbels
+Swamp paste;Moeraspasta
+Swamp tree;Moeras boom
+Swamp tree branch;Moeras boomtak
+Swampy lamp;Moerassige lamp
+Swampy sink;Moerassige gootsteen
+Swaying tree;Wuivende boom
+Sweet;Zoet
+Sweetcorn;Suikermaïs
+Sweetcorn plant;Suikermaïs plant
+Sweetcorn seed;Suikermaïszaad
+Sweetgrub Mound;Sweetgrub-heuvel
+Sweetgrub Sign;Sweetgrub-teken
+Sweets;Snoepjes
+Swings;Schommels
+Switch;Schakelaar
+Sword cabinet;Zwaard kast
+Sword case;Zwaard geval
+Sword in stone;Zwaard in steen
+Sword space;Zwaard ruimte
+Swords;Zwaarden
+Swordshop Sign;Zwaardwinkel teken
+Symbol;Symbool
+Symbol of Guthix;Symbool van Guthix
+Symbol of Saradomin;Symbool van Saradomin
+Symbol of Zamorak;Symbool van Zamorak
+Symbol of life;Symbool van het leven
+Table;Tafel
+Table and till;Tafel en kassa
+Table blockade;Tafelblokkade
+Table hotspot;Tafel-hotspot
+Table parts;Tafel onderdelen
+Table saw;Tafelzaag
+Table space;Tafelruimte
+Tactical map frame;Tactisch kaartframe
+Tailor's materials;Materialen voor kleermakers
+Tall Plant;Hoge plant
+Tall Reeds;Hoog riet
+Tall mirror;Hoge spiegel
+Tall tree;Hoge boom
+Tall vine;Hoge wijnstok
+Tangle hidden;Wirwar verborgen
+Tangle vine;Wirwar wijnstok
+Tanning Barrel;Bruiningsvat
+Tanning line;Bruiningslijn
+Tap;Kraan
+Tapestry;Tapijtwerk
+Tar Barrel;Teervat
+Tar Thing;Teer ding
+Tar barrel;Teer vat
+Tar buckets;Teer emmers
+Target;Doel
+Tchiki Monkey Nut Bush;Tchiki Apennootstruik
+Te salt;Te zout
+Tea stall;Thee kraam
+Teak;Teak
+Teak Tree;Teakboom
+Teak bench;Teakhouten bank
+Teak birdhouse;Teakhouten vogelhuisje
+Teak birdhouse (empty);Teakhouten vogelhuisje (leeg)
+Teak cape rack;Teakhouten kaprek
+Teak chest;Teakhouten kist
+Teak drawers;Teakhouten lades
+Teak feeder;Teakhouten voederbak
+Teak house;Teakhouten huis
+Teak prize chest;Teakhouten prijskist
+Teak scratching post;Teakhouten krabpaal
+Teak table;Teakhouten tafel
+Teak wall decoration;Teakhouten wanddecoratie
+Teak wardrobe;Teakhouten kledingkast
+Telekinetic Teleport;Telekinetische teleport
+Teleport Platform;Teleportplatform
+Teleport crystal;Teleporteer kristal
+Teleport hidden;Teleport verborgen
+Teleport space;Teleporteer ruimte
+Teleport trap;Teleport val
+Teleportation Device;Teleportatie apparaat
+Teleportation focus;Teleportatie focus
+Telescope;Telescoop
+Telescope space;Telescoop ruimte
+Temp Stone 4 Zip;Temp Stone 4 ritssluiting
+Temperature gauge;Temperatuurmeter
+Temple Door;Tempeldeur
+Temple door;Tempel deur
+Temple wall;Tempel muur
+Ten;Tien
+Tendrils;Ranken
+Tent;Tent
+Tent door;Tentdeur
+Tent flap;Tentflap
+Tent pole;Tentstok
+Tent roof;Tentdak
+Tent wall;Tentmuur
+Terminal;Terminal
+Terror Snail;Terreur slak
+Thana;Thana
+The Cloister Bell;De kloosterbel
+The Font of Consumption;Het lettertype van consumptie
+The Gauntlet;De handschoen
+The Great Expedition;De grote expeditie
+The Grotesque Guardians' display;De tentoonstelling van de Groteske Guardians
+The Inferno;Het Inferno
+The Jormungand;De Jormungand
+The Maiden of Sugadinti;Het meisje van Sugadinti
+The Sheared Ram;De geschoren ram
+The jury;De jury
+The middle of a fireplace;Het midden van een open haard
+Theatre of Blood;Theater van Bloed
+Theme space;Thema ruimte
+Thermonuclear Smoke Devil Display;Thermonucleaire rookduivelvertoning
+Thick Web;Dik web
+Thick vine;Dikke wijnstok
+Thick vines;Dikke wijnstokken
+Thingymajig;Dingymajig
+Thistle;Distel
+Thorns;Doornen
+Thorny bushes;Doornige struiken
+Three;Drie
+Throne;Troon
+Throne Room Door;Deur van de troonzaal
+Throne of Weiss;Troon van Weiss
+Throne space;Troon ruimte
+Ticket Dispenser;Kaartjesautomaat
+Tight Gap;Strakke kloof
+Tight-gap;Strakke opening
+Tightrope;Koord
+Tile;Tegel
+Till;Tot
+Timber;Hout
+Timber defence;Houten verdediging
+Timeline;Tijdlijn
+Tin bath;Tinnen bad
+Tiny storage unit;Klein opbergmeubel
+Tip jar;Fooienpot
+Tip jar space;Fooienpotje ruimte
+Tithe patch;Tienden patch
+Toadstool;Paddestoel
+Toadstools;Paddestoelen
+Tok-Xil;Tok-Xil
+Tomato;Tomaat
+Tomato plant;Tomatenplant
+Tomb;Graf
+Tomb Door;Grafdeur
+Tomb dolmen;Graf hunebed
+Tomb doors;Grafdeuren
+Tomb exit;Uitgang graf
+Tombstone;Grafsteen
+Tool Storage;Gereedschapsopslag
+Tool space;Gereedschap ruimte
+Tools;Hulpmiddelen
+Topiary bush;Vormsnoei struik
+Topiary space;Vormsnoei ruimte
+Torch;Fakkel
+Torture Rack;Martelrek
+Totem;Totem
+Totem Pole;Totempaal
+Totem pole;Totempaal
+Tower;Toren
+Tower door;Toren deur
+Tower ladder;Toren ladder
+Toy Stall;Speelgoed kraam
+Toy box;Speelgoed doos
+Toy box space;Ruimte voor speelgoedkisten
+Toy bricks;Speelgoedstenen
+Toy corner;Speelgoedhoek
+Toy range;Speelgoed assortiment
+Toy sink;Speelgoedgootsteen
+Toy table;Speelgoed tafel
+Toy weapons;Speelgoedwapens
+Track;Spoor
+Track support;Ondersteuning volgen
+Tracks;Sporen
+Trahaearn Banner;Trahaearn-banner
+Trailblazer globe;Baanbrekende wereldbol
+Trailblazer rug;Baanbrekend vloerkleed
+Train cart;Trein kar
+Training dummy;Trainingspop
+Transport platform;Transportplatform
+Trap;Val
+Trap Door;Valdeur
+Trap bypass;Trap-bypass
+Trap space;Val ruimte
+Trapdoor;Valluik
+Trapdoor space;Valluik ruimte
+Trapdoor table;Trapdoor tafel
+Trapdoor tunnel;Valluiktunnel
+Trashed Patch;Vernietigde patch
+Travel cart;Reiswagentje
+Trawler net;Trawler netto
+Treadmill;Loopband
+Treasure Hunt Fairy House;Schatzoeken sprookjeshuis
+Treasure Trail Statistics;Statistieken van Treasure Trail
+Treasure chest;Schatkist
+Treasure chest space;Schatkistruimte
+Treasure room;Schatkamer
+Treasure space;Schatruimte
+Treated patch;Behandelde pleister
+Trebuchet;Trebuchet
+Tree;Boom
+Tree Door;Boom Deur
+Tree Stump;Boomstronk
+Tree branch;Boomtak
+Tree patch;Boom patch
+Tree space;Boom ruimte
+Tree stump;Boomstronk
+Tree trunk;Boomstam
+Trellis;Latwerk
+Trellis top;Trellis-top
+Tribal Statue;Stammen standbeeld
+Tribal statue;Stammen standbeeld
+Trimmed Yommi;Jommi bijgesneden
+Tripwire;Tripwire
+Troll;Trol
+Troll Stew;Trollen Stoofpot
+Troll Stronghold Portal;Trollenbolwerkportaal
+Troll ladder;Trollen ladder
+Trolley;Karretje
+Trophy case space;Ruimte voor trofeeënkast
+Trophy pedestal;Trofee voetstuk
+Tropical Leaves;Tropische bladeren
+Tropical leaves;Tropische bladeren
+Tropical tree;Tropische boom
+Trough;Door
+Trumpet;Trompet
+Trunk;Kofferbak
+Tube;Buis
+Tulips;Tulpen
+Tunnel;Tunnel
+Tunnel entrance;Tunnelingang
+Tunnel roof;Tunneldak
+Tunnel wall;Tunnelmuur
+Twigs;Twijgen
+Twisted Bow;Gedraaide boog
+Twisted Crate;Gedraaide krat
+Twisted bush;Gedraaide struik
+Two;Twee
+Twocan;Tweekan
+TzHaar Flag;TzHaar-vlag
+TzHaar statue;TzHaar-standbeeld
+Tzkal-Zuk display;Tzkal-Zuk-vertoning
+Uncooking pot;Onkookpot
+Undead combat dummy;Ondode gevechtsdummy
+Underwall tunnel;Ondermuurtunnel
+Underwater Cavern Entrance;Ingang onderwatergrot
+Unferth's patch;Het pleistertje van Unferth
+Unicorn;Eenhoorn
+Unicorn Statue;Eenhoorn standbeeld
+Unicorn's head;Het hoofd van eenhoorn
+Unlit candle;Onverlichte kaars
+Unlocked Ogre chest;Ogre-kist ontgrendeld
+Unoccupied Cormorant perch;Onbezette Aalscholverbaars
+Unstable Altar;Onstabiel altaar
+Urn;Urn
+Urt salt;Urt zout
+Utensil Stall;Gebruiksvoorwerpkraam
+Utensil cupboard;Kast voor keukengerei
+Valve;Ventiel
+Vampyre statue;Vampier standbeeld
+Vampyre tomb;Vampier graf
+Vanilla plant;Vanille plant
+Varrock Portal;Varrock-portaal
+Vase;Vaas
+Vase set;Vaas set
+Vat;Vat
+Vault;Kluis
+Vault Door;Kluisdeur
+Veg stall;Vegetarische kraam
+Vegetable Stall;Groentenkraam
+Velvet chair;Fluwelen stoel
+Velvet round chair;Fluwelen ronde stoel
+Velvet stool;Fluwelen kruk
+Vent;Ontluchten
+Verzik Vitur;Verzik Vitur
+Verzik Vitur display;Verzik Vitur-display
+Verzik's throne;Verziks troon
+Veteran Flag;Veteraan vlag
+Vials;Flesjes
+Viewer;Kijker
+Viewing orb;Orb bekijken
+Village fence;Dorp hek
+Vine;Wijnstok
+Vine ladder;Wijnstok ladder
+Vine patch;Wijnstok patch
+Vines;Wijnstokken
+Volcanic Forge;Vulkanische smederij
+Volcanic Furnace;Vulkanische oven
+Volcanic chamber;Vulkanische kamer
+Volcanic garden;Vulkanische tuin
+Volcanic sulphur;Vulkanische zwavel
+Volcanic theme;Vulkanisch thema
+Volcanic vent;Vulkanische ventilatieopening
+Volcano Entrance;Vulkaan ingang
+Vorkath Topiary;Vorkath Topiary
+Vorkath display;Vorkath-vertoning
+Vorkath head;Vorkath-hoofd
+Vyre well;Heel goed
+Waiting Room Door;Wachtkamerdeur
+Walkway;Loopbrug
+Wall;Muur
+Wall Crusher;Muurbreker
+Wall Pipe;Muur pijp
+Wall chart;Wandkaart
+Wall chart space;Wandkaartruimte
+Wall corner;Muur hoek
+Wall decoration;Wanddecoratie
+Wall map;Wandkaart
+Wall of bricks;Muur van bakstenen
+Wall of flame;Muur van vlammen
+Wall opening;Muuropening
+Wall rubble;Muurpuin
+Wall safe;Muur veilig
+Wall support;Muursteun
+Wallchart;Wandkaart
+Wand rack;Wandrek
+War table;Oorlogstafel
+Wardrobe;Kledingkast
+Wardrobe space;Kastruimte
+Warehouse shelves;Magazijnplanken
+Warhammer;Warhammer
+Warning Sign;Waarschuwingsbord
+Warning sign;Waarschuwingsbord
+Washbasin;Wastafel
+Washing Line;Waslijn
+Washing line;Waslijn
+Waste Paper Bin;Afvalpapierbak
+Waste pipes;Afvoerbuizen
+Watchtower;Uitkijktoren
+Watchtower Legs;Wachttorenpoten
+Watchtower Middle;Wachttoren Midden
+Water;Water
+Water Barrel;Watervat
+Water Channel;Waterkanaal
+Water Pool;Waterzwembad
+Water Pump;Waterpomp
+Water Sign;Waterteken
+Water Source;Waterbron
+Water Tank;Waterreservoir
+Water Trough;Waterbak
+Water Valve;Waterklep
+Water barrel;Waterton
+Water containers;Watercontainers
+Water controls;Watercontroles
+Water pipes;Waterleidingen
+Water pump;Waterpomp
+Water rift;Water kloof
+Water tap;Waterkraan
+Water valve;Waterklep
+Water wheel;Waterrad
+Water's edge;Waterkant
+Waterbirth Island Portal;Portaal van het Waterbirth-eiland
+Waterfall;Waterval
+Waterfall rocks;Waterval rotsen
+Watering Hole;Waterpoel
+Waterlily;Waterlelie
+Watermelon;Watermeloen
+Watermelon seed;Watermeloen zaad
+Watermelons;Watermeloenen
+Waterpump;Waterpomp
+Waystone;Wegsteen
+Weapon Rack;Wapenrek
+Weapon rack;Wapen rek
+Weapons Rack;Wapenrek
+Weather vane;Windwijzer
+Weathered wall;Verweerde muur
+Weathervane;Windwijzer
+Web;Web
+Web sack;Webzak
+Weeds;Onkruid
+Weedy patch;Onkruid plekje
+Weeping wall;Huilende muur
+Weiss Portal;Weiss-portaal
+Weiss banner;Weiss spandoek
+Well;Goed
+Well stacked rocks;Goed gestapelde stenen
+Werewolf Flag;Weerwolf vlag
+West Ardougne Portal;Portaal West-Ardougne
+Wet driftwood;Nat drijfhout
+Wheat;Tarwe
+Wheel;Wiel
+Wheelbarrow;Kruiwagen
+Wheely table;Wielige tafel
+Whetstone;Wetsteen
+Whipping Plant;Zweepplant
+Whirlpool;Bubbelbad
+White Castlewars armour;Wit Castlewars-pantser
+White Crystal;Wit Kristal
+White Knight;Witte Ridder
+White Tree;Witte Boom
+White Tree patch;Witte boompatch
+White crystal;Wit kristal
+White lily;Witte lelie
+White rose bush patch;Witte rozenstruik patch
+White roses;Witte rozen
+White tree;Witte boom
+Whiteberry bush;Witte bessenstruik
+Wildblood Hops;Wildbloed hop
+Wilderness Ditch;Wildernis sloot
+Wilderness Sign;Wildernis teken
+Wilderness Statistics;Statistieken van de wildernis
+Wilf (Well);Wilf (nou)
+Wilf (ghastly!);Wilf (afschuwelijk!)
+Wilf (sick);Wilf (ziek)
+Wilf (very sick);Wilf (erg ziek)
+Wilhelm;Willem
+Willow;Wilg
+Willow Tree;Wilg
+Willow birdhouse;Vogelhuisje van wilgen
+Willow birdhouse (empty);Wilgen vogelhuisje (leeg)
+Willow tree;Wilg
+Willow tree stump;Wilgenboomstronk
+Willow's bag;De tas van Wilg
+Wilting wheat;Verwelkende tarwe
+Winch;Lier
+Winch bucket;Lier emmer
+Windchimes;Windgong
+Window;Raam
+Window space;Raamruimte
+Windswept Tree;Winderige boom
+Windswept tree;Winderige boom
+Wine barrel;Wijnvat
+Wine rack;Wijnrek
+Winter's End;Het einde van de winter
+Wintumber tree;Wintumber-boom
+Wire;Draad
+Wire machine;Draadmachine
+Wish-list;Verlanglijst
+Witch Glyph;Heks Glyph
+Witch's charm;De charme van een heks
+Withering Attas plant;Verwelkende Attas-plant
+Withering Iasor plant;Verwelkende Iasor-plant
+Withering Kronos plant;Verwelkte Kronos-plant
+Wizard Statue;Tovenaarsstandbeeld
+Wizards Mind Bomb;Tovenaars geestbom
+Woad plant;Wede plant
+Wolf Statue;Wolf-standbeeld
+Wood;Hout
+Wood Basket;Houten mand
+Woodcutting stump;Houtsnede stronk
+Wooden Beams;Houten balken
+Wooden Obstruction;Houten obstakel
+Wooden Stair;Houten trap
+Wooden Table;Houten tafel
+Wooden barricade;Houten barricade
+Wooden bench;Houten bank
+Wooden boards;Houten planken
+Wooden cart;Houten kar
+Wooden chair;Houten stoel
+Wooden chest;Houten kist
+Wooden crate;Houten krat
+Wooden defence;Houten verdediging
+Wooden doors;Houten deuren
+Wooden fence;Houten hek
+Wooden gate;Houten poort
+Wooden platform;Houten platform

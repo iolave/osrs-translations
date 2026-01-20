@@ -105,3 +105,124 @@ Open Store;Negozio aperto
 Deposit;Depositare
 Loot;Bottino
 Destroy;Distruggere
+Music Player;Lettore musicale
+Chop down;Abbatti
+Inventory;Inventario
+Useful links;Link utili
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Scambio:</col> non mostrarne nessuno
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Scambia:</col> mostra agli amici
+Community;Comunità
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> non mostrarne nessuno
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Canale:</col> non mostrarne nessuno
+Display;Display
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privato:</col> mostra agli amici
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Imposta modalità chat:</col> Clan (/@c)
+Switch tab;Cambia scheda
+Report game bug;Segnala bug del gioco
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privato:</col> cancella la cronologia
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Canale:</col> mostra tutto
+Configure filter;Configura filtro
+Emotes;Emote
+Account;Account
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Pubblico:</col> mostra la chat automatica
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> cancella la cronologia
+Report abuse;Segnala un abuso
+<col=ffff00>Public:</col> Show none;<col=ffff00>Pubblico:</col> non mostrarne nessuno
+Ignore List;Ignora elenco
+<col=00ff00>Filter public chat</col>;<col=00ff00>Filtra la chat pubblica</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Gioco:</col> Filtra
+<col=00afff>Setup your autochat</col>;<col=00afff>Imposta la tua chat automatica</col>
+Take;Prendere
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privato:</col> non mostrarne nessuno
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Scambia:</col> mostra tutto
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> mostra gli amici
+Account Management;Gestione del conto
+Chat-channel;Canale di chat
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Pubblico:</col> cancella la cronologia
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> mostra tutto
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Canale:</col> mostra gli amici
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privato:</col> mostra tutto
+Logout;Esci
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Imposta la modalità chat:</col> Clan ospite (/@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Canale:</col> cancella la cronologia
+Friends List;Elenco amici
+World Switcher;Cambiamondo
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Pubblico:</col> mostra lo standard
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Imposta modalità chat:</col> Canale (/@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Imposta modalità chat:</col> Pubblica (/@p)
+Controls;Controlli
+<col=ffff00>Public:</col> Hide;<col=ffff00>Pubblico:</col> Nascondi
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Pubblico:</col> mostra gli amici
+Close;Vicino
+Show on Map;Mostra sulla mappa
+Outside;Al di fuori
+Yanille;Yanille
+Warnings;Avvertenze
+Seers';Veggenti
+Enable warning;Abilita avviso
+Animation;Animazione
+Open <col=ff9040>Fremennik Journal</col>;Apri <col=ff9040>Diario Fremennik</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Diario di Lumbridge e Draynor</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend e Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Apri <col=ff9040>Diario Karamja</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Apri <col=ff9040>Diario Lumbridge & Draynor</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Diario Falador</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Giornale dei Fremennik</col>
+Open <col=ff9040>Kandarin Journal</col>;Apri <col=ff9040>Diario Kandarin</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Diario Karamja</col>
+Open <col=ff9040>Falador Journal</col>;Apri <col=ff9040>Diario Falador</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Apri <col=ff9040>Diario Kourend e Kebos</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Diario Kandarin</col>
+Bond Pouch;Custodia per obbligazioni
+DPS;DPS
+Search;Ricerca
+Learn More;Saperne di più
+Open;Aprire
+Pick;Scegliere
+Join Castle Wars;Unisciti a Castle Wars
+Attack;Attacco
+Climb-down;Scendete
+Travel;Viaggio
+Rest;Riposo
+Build;Costruire
+Check;Controllo
+Tend-to;Tendere a
+Add friend;Aggiungi amico
+Add ignore;Aggiungi ignora
+Enter-guest;Entra-ospite
+Climb-up;Salita
+Enter;Entra
+Enter-member;Inserisci-membro
+Items;Elementi
+Knock-at;Bussare
+Smith;Fabbro
+Pet;Animale domestico
+Shoo-away;Scaccia via
+Continue;Continuare
+Trade;Commercio
+Create <col=ff9040>Sell</col> offer;Crea un'offerta <col=ff9040>Vendi</col>
+Favourite;Preferito
+Switch;Interruttore
+2;2 
+Create <col=ff9040>Buy</col> offer;Crea un'offerta <col=ff9040>Acquista</col>
+1;1 
+Clear;Chiaro
+-5%;-5%
+Collect to inventory;Raccogli nell'inventario
++5%;+5%
+Modify offer;Modifica offerta
+Confirm;Confermare
+Abort offer;Interrompi l'offerta
+View offer;Visualizza l'offerta
+Collect to bank;Ritiro in banca
+Enter price;Inserisci il prezzo
+Customise;Personalizza
+Guide price;Prezzo guida
+All;Tutto
+Enter quantity;Inserisci la quantità
++1;+1
+Offer;Offerta
+Buy: 1 x Nature rune;Acquista: 1 x runa della natura
+Buy-offer;Offerta di acquisto
+Chop-down;Abbattimento
