@@ -105,3 +105,143 @@ Open Store;Winkel openen
 Deposit;Borg
 Loot;Buit
 Destroy;Vernietigen
+Music Player;Muziekspeler
+Chop down;Hak neer
+Inventory;Inventaris
+Useful links;Nuttige links
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Geen tonen
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Ruilen:</col> Laat vrienden zien
+Community;Gemeenschap
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Geen tonen
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanaal:</col> Geen tonen
+Display;Weergave
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privé:</col> Laat vrienden zien
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chatmodus instellen:</col> Clan (@c)
+Switch tab;Van tabblad wisselen
+Report game bug;Spelfout melden
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privé:</col> Geschiedenis wissen
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanaal:</col> Toon alles
+Configure filter;Configureer filter
+Emotes;Emotes
+Account;Rekening
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Openbaar:</col> Autochat tonen
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Geschiedenis wissen
+Report abuse;Misbruik melden
+<col=ffff00>Public:</col> Show none;<col=ffff00>Openbaar:</col> Geen tonen
+Ignore List;Lijst negeren
+<col=00ff00>Filter public chat</col>;<col=00ff00>Openbare chat filteren</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filter
+<col=00afff>Setup your autochat</col>;<col=00afff>Stel uw autochat in</col>
+Take;Nemen
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privé:</col> Geen tonen
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Toon alles
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Toon vrienden
+Account Management;Accountbeheer
+Chat-channel;Chat-kanaal
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Openbaar:</col> Geschiedenis wissen
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Toon alles
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanaal:</col> Toon vrienden
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privé:</col> Alles weergeven
+Logout;Uitloggen
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chatmodus instellen:</col> Gastclan (@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanaal:</col> Geschiedenis wissen
+Friends List;Vriendenlijst
+World Switcher;Wereldwisselaar
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Openbaar:</col> Toon standaard
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chatmodus instellen:</col> Kanaal (@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chatmodus instellen:</col> Openbaar (@p)
+Controls;Controles
+<col=ffff00>Public:</col> Hide;<col=ffff00>Openbaar:</col> Verbergen
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Openbaar:</col> Toon vrienden
+Close;Dichtbij
+Show on Map;Toon op kaart
+Outside;Buiten
+Yanille;Yanille
+Warnings;Waarschuwingen
+Seers';zieners
+Enable warning;Waarschuwing inschakelen
+Animation;Animatie
+Open <col=ff9040>Fremennik Journal</col>;Open <col=ff9040>Fremennik Journal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Open <col=ff9040>Karamja-dagboek</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Open <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador-dagboek</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-tijdschrift</col>
+Open <col=ff9040>Kandarin Journal</col>;Open <col=ff9040>Kandarin-dagboek</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-dagboek</col>
+Open <col=ff9040>Falador Journal</col>;Open <col=ff9040>Falador Journaal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Open <col=ff9040>Kourend & Kebos Journaal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-dagboek</col>
+Bond Pouch;Bond-zakje
+DPS;DPS
+Search;Zoekopdracht
+Learn More;Meer informatie
+Open;Open
+Pick;Kies
+Join Castle Wars;Sluit je aan bij Castle Wars
+Attack;Aanval
+Climb-down;Klim naar beneden
+Travel;Reis
+Rest;Rest
+Build;Bouwen
+Check;Rekening
+Tend-to;Neiging tot
+Add friend;Vriend toevoegen
+Add ignore;Voeg negeren toe
+Enter-guest;Enter-gast
+Climb-up;Klim omhoog
+Enter;Binnenkomen
+Enter-member;Enter-lid
+Items;Artikelen
+Knock-at;Klop-op
+Smith;Smit
+Pet;Huisdier
+Shoo-away;Schiet weg
+Continue;Doorgaan
+Trade;Handel
+Create <col=ff9040>Sell</col> offer;Maak een <col=ff9040>Verkoop</col> aanbieding
+Favourite;Favoriet
+Switch;Schakelaar
+2;2 
+Create <col=ff9040>Buy</col> offer;Maak een <col=ff9040>Koop</col> aanbieding
+1;1 
+Clear;Duidelijk
+-5%;-5%
+Collect to inventory;Verzamel naar inventaris
++5%;+5%
+Modify offer;Aanbieding aanpassen
+Confirm;Bevestigen
+Abort offer;Aanbieding afbreken
+View offer;Bekijk aanbieding
+Collect to bank;Verzamelen naar de bank
+Enter price;Voer prijs in
+Customise;Pas aan
+Guide price;Richtprijs
+All;Alle
+Enter quantity;Voer het aantal in
++1;+1
+Offer;Aanbod
+Buy: 1 x Nature rune;Koop: 1 x Natuurrune
+Buy-offer;Koop-aanbieding
+Chop-down;Afhaken
+Look North;Kijk naar het noorden
+Look South;Kijk naar het zuiden
+Look East;Kijk naar het oosten
+Look West;Kijk naar het westen
+Hide;Verbergen
+Cook;Kok
+Refresh;Vernieuwen
+Message;Bericht
+Delete;Verwijderen
+Add Friend;Vriend toevoegen
+Delete Friend;Vriend verwijderen
+Find;Vinden
+Toggle Run;Schakel Uitvoeren in
+Open subsection;Onderafdeling openen
+Pickpocket;Zakkenroller
+Claim-staves;Claim-stokken
+Rake;Hark
+3;3 
+Inspect;Inspecteren

@@ -1,0 +1,2405 @@
+'24-carat' sword;"24 karaatin" miekka
+'perfect' gold bar;"täydellinen" kultaharkko
+'perfect' gold ore;"täydellinen" kultamalmi
+'perfect' necklace;"täydellinen" kaulakoru
+'perfect' ring;"täydellinen" sormus
+1/2 anchovy pizza;1/2 anjovis pizza
+1/2 meat pizza;1/2 liha pizza
+1/2 pineapple pizza;1/2 ananas pizza
+1/2 plain pizza;1/2 tavallinen pizza
+1/3rds full jug;1/3rds täysi kannu
+1/5ths full bucket;1/5ths täysi ämpäri
+10th squad sigil;10th joukkueen merkki
+18lb shot;18lb ammuttu
+2/3 cake;2/3 kakku
+2/3 chocolate cake;2/3 suklaakakku
+2/3rds full jug;2/3rds täysi kannu
+2/5ths full bucket;2/5ths täysi ämpäri
+20th anniversary boots;20th vuosipäivä saappaat
+20th anniversary bottom;20th vuosipäivän pohja
+20th anniversary cape;20th vuosipäivä viitta
+20th anniversary gloves;20th vuosipäivä hanskat
+20th anniversary hat;20th vuosipäivä hattu
+20th anniversary necklace;20th vuosipäivä kaulakoru
+20th anniversary top;20th vuosipäivä toppi
+22lb shot;22lb ammuttu
+3/5ths full bucket;3/5ths täysi ämpäri
+3rd age amulet;3rd ikäinen amuletti
+3rd age axe;3rd ikä kirves
+3rd age bow;3rd ikä keula
+3rd age cloak;3rd ikäinen viitta
+3rd age druidic cloak;3rd ikäinen druidiviitta
+3rd age druidic robe bottoms;3rd iän druidiviittaiset alushousut
+3rd age druidic robe top;3rd ikäinen druidinen kaapullinen toppi
+3rd age druidic staff;3rd ikäinen druidi henkilökunta
+3rd age full helmet;3rd ikä täysi kypärä
+3rd age kiteshield;3rd ikäinen leijakilpi
+3rd age longsword;3rd ikäinen miekka
+3rd age mage hat;3rd ikäinen maagi hattu
+3rd age pickaxe;3rd ikäinen hakku
+3rd age platebody;3rd ikälevyrunko
+3rd age platelegs;3rd ikäiset lautaset
+3rd age plateskirt;3rd ikäinen levyhame
+3rd age range coif;3rd ikäluokka coif
+3rd age range legs;3rd ikäluokan jalat
+3rd age range top;3rd ikäluokan huippu
+3rd age robe;3rd ikäviitta
+3rd age robe top;3rd ikätakki toppi
+3rd age vambraces;3rd ikäiset vambraces
+3rd age wand;3rd ikäsauva
+4-poster;4-poster 
+4/5ths full bucket;4/5ths täysi ämpäri
+4th birthday hat;4th syntymäpäivä hattu
+5-gallon jug;5-gallon kannu
+8-gallon jug;8-gallon kannu
+??? mixture;??? seos
+A blue circle;Sininen ympyrä
+A blue pentagon;Sininen viisikulmio
+A blue square;Sininen neliö
+A blue triangle;Sininen kolmio
+A chair;Tuoli
+A container;Säiliö
+A dark disposition;Tumma asenne
+A dear friend;Rakas ystävä
+A green circle;Vihreä ympyrä
+A green pentagon;Vihreä viisikulmio
+A green square;Vihreä neliö
+A green triangle;Vihreä kolmio
+A handwritten book;Käsinkirjoitettu kirja
+A jester stick;Naurettava keppi
+A magic scroll;Maaginen rulla
+A pattern;Malli
+A powdered wig;Puuterimainen peruukki
+A red circle;Punainen ympyrä
+A red pentagon;Punainen viisikulmio
+A red square;Punainen neliö
+A red triangle;Punainen kolmio
+A scribbled note;Kirjoitettu muistiinpano
+A scruffy note;Naurettava huomautus
+A small key;Pieni avain
+A special tiara;Erityinen tiara
+A stone bowl;Kivinen kulho
+A taste of hope;Toivon maku
+A used spell;Käytetty loitsu
+A violet circle;Violetti ympyrä
+A violet pentagon;Violetti viisikulmio
+A violet square;Violetti neliö
+A violet triangle;Violetti kolmio
+A yellow circle;Keltainen ympyrä
+A yellow pentagon;Keltainen viisikulmio
+A yellow square;Keltainen neliö
+A yellow triangle;Keltainen kolmio
+Aberrant spectre;Aberrantti haamu
+Ablenkian's escape;Ablenkianin pako
+Absorption (1);Imeytyminen (1)
+Absorption (2);Imeytyminen (2)
+Absorption (3);Imeytyminen (3)
+Absorption (4);Imeytyminen (4)
+Abyssal bludgeon;Abyssal bludgeon
+Abyssal book;Abyssal kirja
+Abyssal bracelet(1);Abyssal rannekoru (1)
+Abyssal bracelet(2);Abyssal rannekoru (2)
+Abyssal bracelet(3);Abyssal rannekoru (3)
+Abyssal bracelet(4);Abyssal rannekoru (4)
+Abyssal bracelet(5);Abyssal rannekoru (5)
+Abyssal dagger;Abyssal tikari
+Abyssal dagger (p);Syvennys tikari (p)
+Abyssal dagger (p+);Syvennys tikari (p+)
+Abyssal dagger (p++);Abyssal tikari (p++)
+Abyssal demon;Abyssal demoni
+Abyssal head;Syvyyspää
+Abyssal orphan;Abyssal orpo
+Abyssal tentacle;Abyssal lonkero
+Abyssal whip;Syvyyspiiska
+Accumulator max cape;Akku max viitta
+Accumulator max hood;Akku max huppu
+Acetic acid;Etikkahappo
+Achey tree logs;Achey puutukit
+Achievement diary cape;Saavutuspäiväkirjan viitta
+Achievement diary cape (t);Saavutuspäiväkirjan viitta (t)
+Achievement diary hood;Saavutuspäiväkirjan huppu
+Achievement gallery;Saavutusgalleria
+Acorn;Acorn
+Adamant 2h sword;Adamant 2h miekka
+Adamant arrow;Adamantti nuoli
+Adamant arrow pack;Adamant arrow pakkaus
+Adamant arrow(p);Adamant-nuoli (p)
+Adamant arrow(p+);Adamant-nuoli (p+)
+Adamant arrow(p++);Adamant-nuoli (p++)
+Adamant arrowtips;Jännittäviä nuolenkärkiä
+Adamant axe;Adamant-kirves
+Adamant axe head;Adamant-kirvespää
+Adamant battleaxe;Adamant taistelukirves
+Adamant bolts;Adamant pultit
+Adamant bolts (p);Adamant pultit (p)
+Adamant bolts (p+);Pääpultit (p+)
+Adamant bolts (p++);Pääpultit (p++)
+Adamant bolts(unf);Adamant pultit (unf)
+Adamant boots;Adamant saappaat
+Adamant brutal;Järkyttävän brutaali
+Adamant cane;Adamantin keppi
+Adamant chainbody;Jännittävä ketjurunko
+Adamant claws;Adamant kynnet
+Adamant crossbow;Adamant varsijousi
+Adamant crossbow (u);Adamant varsijousi (u)
+Adamant dagger;Adamant tikari
+Adamant dagger(p);Adamant tikari (p)
+Adamant dagger(p+);Adamant tikari(p+)
+Adamant dagger(p++);Adamant tikari (p++)
+Adamant dart;Adamant tikka
+Adamant dart tip;Jännittävä tikkakärki
+Adamant dart(p);Adamant tikka (p)
+Adamant dart(p+);Adamant tikka (p+)
+Adamant dart(p++);Adamant tikka (p++)
+Adamant defender;Taitava puolustaja
+Adamant defender (broken);Adamant puolustaja (rikki)
+Adamant defender (l);Adamant puolustaja (l)
+Adamant dragon mask;Adamant lohikäärme naamio
+Adamant fire arrow;Adamant tulinuoli
+Adamant fire arrow (lit);Adamant tulinuoli (sytytetty)
+Adamant full helm;Adamant täysi ruori
+Adamant full helm (g);Adamant täysi ruori (g)
+Adamant full helm (t);Adamant täysi ruori (t)
+Adamant gloves;Adamant hanskat
+Adamant gold-trimmed set (lg);Adamant kullanvärinen setti (lg)
+Adamant gold-trimmed set (sk);Adamant kullanvärinen setti (sk)
+Adamant halberd;Adamant halbardi
+Adamant hasta;Adamant hasta
+Adamant hasta(kp);Adamant hasta (kp)
+Adamant hasta(p);Adamant hasta (p)
+Adamant hasta(p+);Adamant hasta(p+)
+Adamant hasta(p++);Adamant hasta(p++)
+Adamant helm (h1);Adamant ruori (h1)
+Adamant helm (h2);Adamant ruori (h2)
+Adamant helm (h3);Adamant ruori (h3)
+Adamant helm (h4);Adamant ruori (h4)
+Adamant helm (h5);Adamant ruori (h5)
+Adamant heraldic helm;Adamant heraldinen ruori
+Adamant javelin;Adamant keihäs
+Adamant javelin heads;Adamant keihäänpäät
+Adamant javelin(p);Adamant keihään (p)
+Adamant javelin(p+);Adamant keihäs(p+)
+Adamant javelin(p++);Adamant keihäs(p++)
+Adamant kiteshield;Adamant leijakilpi
+Adamant kiteshield (g);Adamant-leijakilpi (g)
+Adamant kiteshield (t);Adamant kiteshield (t)
+Adamant knife;Adamant veitsi
+Adamant knife(p);Adamant veitsi (p)
+Adamant knife(p+);Adamant veitsi (p+)
+Adamant knife(p++);Adamant-veitsi (p++)
+Adamant longsword;Adamant pitkä miekka
+Adamant mace;Adamant-musikka
+Adamant med helm;Adamant med ruori
+Adamant pick head;Adamant valita pää
+Adamant pickaxe;Adamant hakku
+Adamant platebody;Jännittävä levyrunko
+Adamant platebody (g);Adamant levyrunko (g)
+Adamant platebody (h1);Adamant levyrunko (h1)
+Adamant platebody (h2);Adamant levyrunko (h2)
+Adamant platebody (h3);Adamant levyrunko (h3)
+Adamant platebody (h4);Adamant levyrunko (h4)
+Adamant platebody (h5);Adamant levyrunko (h5)
+Adamant platebody (t);Adamant levyrunko (t)
+Adamant platelegs;Adamant levyjalat
+Adamant platelegs (g);Adamant lautaset (g)
+Adamant platelegs (t);Adamant lautaset (t)
+Adamant plateskirt;Adamant levyhame
+Adamant plateskirt (g);Adamant lautashame (g)
+Adamant plateskirt (t);Adamant lautashame (t)
+Adamant scimitar;Adamant-leikkuri
+Adamant set (lg);Adamant-sarja (lg)
+Adamant set (sk);Adamant-sarja (sk)
+Adamant shield (h1);Adamant kilpi (h1)
+Adamant shield (h2);Adamant kilpi (h2)
+Adamant shield (h3);Adamant kilpi (h3)
+Adamant shield (h4);Adamant kilpi (h4)
+Adamant shield (h5);Adamant kilpi (h5)
+Adamant spear;Adamant keihäs
+Adamant spear(kp);Adamant keihäs (kp)
+Adamant spear(p);Adamant keihäs (p)
+Adamant spear(p+);Adamant keihäs(p+)
+Adamant spear(p++);Adamant keihäs (p++)
+Adamant sq shield;Adamant sq -kilpi
+Adamant sword;Adamantti miekka
+Adamant thrownaxe;Adamant heitettynä
+Adamant trimmed set (lg);Adamant trimmattu setti (lg)
+Adamant trimmed set (sk);Adamant trimmattu setti (sk)
+Adamant warhammer;Adamant sotavasara
+Adamantite armour;Adamantiitti panssari
+Adamantite bar;Adamantiittibaari
+Adamantite limbs;Adamantiittiset raajat
+Adamantite nails;Adamantiittikynnet
+Adamantite ore;Adamantiittimalmi
+Adamantite ore fragment;Adamantiittimalmin fragmentti
+Address form;Osoitelomake
+Address label;Osoitetarra
+Admiral pie;Admiral piirakka
+Advanced arena;Edistyksellinen areena
+Afro;Afro
+Agility arena ticket;Lippu agilityareenalle
+Agility balance;Agility tasapaino
+Agility cape;Agility viitta
+Agility cape(t);Agilityviitta (t)
+Agility climb;Agilityn nousu
+Agility contortion;Agilityn vääntyminen
+Agility hood;Agility-huppu
+Agility jump;Agilityhyppy
+Agility mix(1);Agility-sekoitus (1)
+Agility mix(2);Agility-sekoitus (2)
+Agility potion(1);Agilityjuoma(1)
+Agility potion(2);Agilityjuoma(2)
+Agility potion(3);Agilityjuoma(3)
+Agility potion(4);Agilityjuoma(4)
+Agility tome;Agility tome
+Ahab's beer;Ahabin olut
+Ahrim's armour set;Ahrimin panssarisarja
+Ahrim's hood;Ahrimin huppu
+Ahrim's hood 0;Ahrimin huppu 0
+Ahrim's hood 100;Ahrimin huppu 100
+Ahrim's hood 25;Ahrimin huppu 25
+Ahrim's hood 50;Ahrimin huppu 50
+Ahrim's hood 75;Ahrimin huppu 75
+Ahrim's robeskirt;Ahrimin kaapuhame
+Ahrim's robeskirt 0;Ahrimin kaapuhame 0
+Ahrim's robeskirt 100;Ahrimin kaapuhame 100
+Ahrim's robeskirt 25;Ahrimin kaapuhame 25
+Ahrim's robeskirt 50;Ahrimin kaapuhame 50
+Ahrim's robeskirt 75;Ahrimin kaapuhame 75
+Ahrim's robetop;Ahrimin kaapu
+Ahrim's robetop 0;Ahrimin kaapu 0
+Ahrim's robetop 100;Ahrimin kaapu 100
+Ahrim's robetop 25;Ahrimin kaapu 25
+Ahrim's robetop 50;Ahrimin kaapu 50
+Ahrim's robetop 75;Ahrimin kaapu 75
+Ahrim's staff;Ahrimin henkilökunta
+Ahrim's staff 0;Ahrimin henkilökunta 0
+Ahrim's staff 100;Ahrimin henkilökuntaa 100
+Ahrim's staff 25;Ahrimin henkilökunta 25
+Ahrim's staff 50;Ahrimin henkilökuntaa 50
+Ahrim's staff 75;Ahrimin henkilökuntaa 75
+Air battlestaff;Ilmataistelun esikunta
+Air orb;Ilmapallo
+Air rune;Ilmarunko
+Air rune (nz);Ilmariimu (nz)
+Air rune pack;Ilmarunkopaketti
+Air talisman;Ilman talisman
+Air tiara;Ilmatiara
+Airtight pot;Ilmatiivis kattila
+Aivas bust;Aivas rintakuva
+Aivas' diary;Aivaksen päiväkirja
+Al kharid flyer;Al kharid -lehtinen
+Alchemical chart;Alkemiallinen kaavio
+Alchemical hydra head;Alkemiallinen hydrapää
+Alchemical hydra heads;Alkemialliset hydrapäät
+Alchemical notes;Alkemialliset muistiinpanot
+Alco-chunks;Alkoholi-paloja
+Ale of the gods;Ale of the Gods
+Ale yeast;Ale hiiva
+Aluft aloft box;Aluft aloft -laatikko
+Amethyst;Ametisti
+Amethyst arrow;Ametisti nuoli
+Amethyst arrow(p);Ametisti nuoli (p)
+Amethyst arrow(p+);Ametisti nuoli (p+)
+Amethyst arrow(p++);Ametisti nuoli (p++)
+Amethyst arrowtips;Ametisti nuolenpäät
+Amethyst bolt tips;Ametistipultin kärjet
+Amethyst broad bolts;Ametisti leveät pultit
+Amethyst fire arrow;Ametisti tulinuoli
+Amethyst fire arrow (lit);Ametisti tulinuoli (palaa)
+Amethyst javelin;Ametisti keihäs
+Amethyst javelin heads;Ametisti keihäänpäät
+Amethyst javelin(p);Ametistikeihään (p)
+Amethyst javelin(p+);Ametistikeihään (p+)
+Amethyst javelin(p++);Ametistikeihäs (p++)
+Ammo mould;Ammun muotti
+Ammonium nitrate;Ammoniumnitraatti
+Amulet mould;Amuletti muotti
+Amulet of accuracy;Tarkkuuden amuletti
+Amulet of avarice;Ahneuden amuletti
+Amulet of blood fury;Veren raivoamuletti
+Amulet of bounty;Bounty-amuletti
+Amulet of chemistry;Kemiallinen amuletti
+Amulet of defence;Puolustuksen amuletti
+Amulet of defence (t);Puolustuksen amuletti (t)
+Amulet of doomion;Doomionin amuletti
+Amulet of eternal glory;Ikuisen kirkkauden amuletti
+Amulet of fury;Raivon amuletti
+Amulet of fury (or);Raivoamuletti (tai)
+Amulet of glory;Kirkkauden amuletti
+Amulet of glory (t);Kirkkauden amuletti (t)
+Amulet of glory (t1);Kirkkauden amuletti (t1)
+Amulet of glory (t2);Kirkkauden amuletti (t2)
+Amulet of glory (t3);Kirkkauden amuletti (t3)
+Amulet of glory (t4);Kirkkauden amuletti (t4)
+Amulet of glory (t5);Kirkkauden amuletti (t5)
+Amulet of glory (t6);Kirkkauden amuletti (t6)
+Amulet of glory(1);Kirkkauden amuletti (1)
+Amulet of glory(2);Kirkkauden amuletti (2)
+Amulet of glory(3);Kirkkauden amuletti (3)
+Amulet of glory(4);Kirkkauden amuletti (4)
+Amulet of glory(5);Kirkkauden amuletti (5)
+Amulet of glory(6);Kirkkauden amuletti (6)
+Amulet of holthion;Holthionin amuletti
+Amulet of magic;Taikuuden amuletti
+Amulet of magic (t);Taikuuden amuletti (t)
+Amulet of nature;Luonnon amuletti
+Amulet of othanian;Otanian amuletti
+Amulet of power;Voiman amuletti
+Amulet of power (t);Voiman amuletti (t)
+Amulet of strength;Voiman amuletti
+Amulet of the damned;Kirottujen amuletti
+Amulet of the damned (full);Kirottujen amuletti (täysi)
+Amulet of torture;Kidutuksen amuletti
+Amulet of torture (or);Kidutuksen amuletti (tai)
+Amur leopard toy;Amur leopardi lelu
+Amy's saw;Amy näki
+Amylase crystal;Amylaasikide
+Amylase pack;Amylaasi pakkaus
+An empty box;Tyhjä laatikko
+An empty folder;Tyhjä kansio
+An indigo circle;Indigo ympyrä
+An indigo pentagon;Indigo viisikulmio
+An indigo square;Indigo-aukio
+An indigo triangle;Indigokolmio
+An orange circle;Oranssi ympyrä
+An orange square;Oranssi neliö
+An orange triangle;Oranssi kolmio
+Ana in a barrel;Ana tynnyrissä
+Ancestral hat;Esivanhempien hattu
+Ancestral key;Esivanhempien avain
+Ancestral robe bottom;Alhainen esi-isien kaapu
+Ancestral robe top;Esivanhempien kaapullinen toppi
+Ancestral robes set;Esivanhempien kaapusarja
+Anchovies;Anjovis
+Anchovy oil;Anjovis öljy
+Anchovy paste;Anjovis tahna
+Anchovy pizza;Anjovis pizza
+Ancient altar;Muinainen alttari
+Ancient armour;Vanha panssari
+Ancient astroscope;Muinainen astroskooppi
+Ancient blessing;Muinainen siunaus
+Ancient bracers;Vanhat olkaimet
+Ancient carcanet;Vanha carcanet
+Ancient casket;Vanha arkku
+Ancient chaps;Muinaiset pojat
+Ancient cloak;Vanha viitta
+Ancient coif;Vanha koppi
+Ancient coin;Muinainen kolikko
+Ancient crozier;Muinainen crozier
+Ancient crystal;Vanha kristalli
+Ancient d'hide body;Vanha d'hide vartalo
+Ancient d'hide boots;Vanhat d'hide-saappaat
+Ancient d'hide shield;Muinainen d'hide kilpi
+Ancient diary;Vanha päiväkirja
+Ancient dragonhide set;Muinainen lohikäärmesarja
+Ancient effigy;Muinainen hahmo
+Ancient emblem;Muinainen tunnus
+Ancient full helm;Vanha täysi ruori
+Ancient globe;Muinainen maapallo
+Ancient gorilla greegree;Muinainen gorilla greegre
+Ancient halo;Muinainen halo
+Ancient halo (broken);Muinainen halo (rikki)
+Ancient halo (l);Muinainen halo (l)
+Ancient key;Vanha avain
+Ancient kiteshield;Vanha leijakilpi
+Ancient ledger;Vanha pääkirja
+Ancient letter;Vanha kirje
+Ancient mace;Muinainen nuija
+Ancient magicks tablet;Antiikin taikuuden tabletti
+Ancient medallion;Vanha medaljonki
+Ancient mitre;Muinainen jiiri
+Ancient note;Vanha muistiinpano
+Ancient page;Vanha sivu
+Ancient page 1;Vanha sivu 1
+Ancient page 2;Vanha sivu 2
+Ancient page 3;Vanha sivu 3
+Ancient page 4;Vanha sivu 4
+Ancient platebody;Vanha levyrunko
+Ancient platelegs;Muinaiset levyjalat
+Ancient plateskirt;Vanha levyhame
+Ancient relic;Muinainen jäänne
+Ancient robe legs;Vanhat kaapujen jalat
+Ancient robe top;Vanha kaapullinen toppi
+Ancient rune armour set (lg);Muinainen riimupanssarisarja (lg)
+Ancient rune armour set (sk);Muinainen riimupanssarisarja (sk)
+Ancient shard;Vanha sirpale
+Ancient signet;Vanha sinetti
+Ancient staff;Vanha henkilökunta
+Ancient statuette;Vanha patsas
+Ancient stole;Muinainen varkaus
+Ancient symbol;Muinainen symboli
+Ancient tablet;Vanha tabletti
+Ancient talisman;Muinainen talisman
+Ancient totem;Muinainen toteemi
+Ancient treatise;Muinainen tutkielma
+Ancient writings;Vanhoja kirjoituksia
+Ancient wyvern shield;Muinainen wyvern-kilpi
+Anger battleaxe;Viha taistelukirves
+Anger mace;Viha nuija
+Anger spear;Viha keihäs
+Anger sword;Vihan miekka
+Angler boots;Onkija saappaat
+Angler hat;Kalastajan hattu
+Angler top;Angler toppi
+Angler waders;Kalastaja kahlaajia
+Anglerfish;merikrotti
+Anguish ornament kit;Anguish-koristesarja
+Animal skull;Eläimen kallo
+Animals' bones;Eläinten luut
+Animate rock scroll;Animoi rock-käärö
+Ankou gloves;Ankou hanskat
+Ankou mask;Ankou naamio
+Ankou socks;Ankou sukat
+Ankou top;Ankou toppi
+Ankou's leggings;Ankoun leggingsit
+Anna's print;Annan printti
+Annakarl teleport;Annakarl teleporttaa
+Anti-dragon shield;Lohikäärmeen vastainen kilpi
+Anti-dragon shield (nz);Lohikäärmeen vastainen kilpi (nz)
+Anti-panties;Anti-housut
+Anti-poison supermix(1);Anti-poison supermix (1)
+Anti-poison supermix(2);Anti-poison supermix(2)
+Anti-present;Anti-presentti
+Anti-venom(1);Myrkyn vastainen (1)
+Anti-venom(2);Myrkyn vastainen (2)
+Anti-venom(3);Myrkyn vastainen (3)
+Anti-venom(4);Myrkyn vastainen (4)
+Anti-venom+(1);Anti-myrkky+(1)
+Anti-venom+(2);Antimyrkky+(2)
+Anti-venom+(3);Antimyrkky+(3)
+Anti-venom+(4);Antimyrkky+(4)
+Antidote+ (unf);Vastalääke+ (unf)
+Antidote+ mix(1);Antidote+ sekoitus (1)
+Antidote+ mix(2);Antidote+ sekoitus (2)
+Antidote+(1);Vastalääke+(1)
+Antidote+(2);Vastalääke+(2)
+Antidote+(3);Vastalääke+(3)
+Antidote+(4);Vastalääke+(4)
+Antidote++ (unf);Antidote++ (unf)
+Antidote++(1);Vastalääke++(1)
+Antidote++(2);Vastalääke++(2)
+Antidote++(3);Vastalääke++(3)
+Antidote++(4);Vastalääke++(4)
+Antifire mix(1);Antifire sekoitus (1)
+Antifire mix(2);Antifire sekoitus (2)
+Antifire potion(1);Tulenkestävä juoma(1)
+Antifire potion(2);Tulenkestävä juoma(2)
+Antifire potion(3);Tulenkestävä juoma (3)
+Antifire potion(4);Tulenkestävä juoma (4)
+Antipoison mix(1);Antimyrkkysekoitus (1)
+Antipoison mix(2);Antimyrkkysekoitus (2)
+Antipoison(1);Antimyrkky (1)
+Antipoison(2);Antimyrkky (2)
+Antipoison(3);Antimyrkky (3)
+Antipoison(4);Antimyrkky (4)
+Antique emblem (tier 1);Antiikkinen tunnus (taso 1)
+Antique emblem (tier 10);Antiikkinen tunnus (taso 10)
+Antique emblem (tier 2);Antiikkinen tunnus (taso 2)
+Antique emblem (tier 3);Antiikkinen tunnus (taso 3)
+Antique emblem (tier 4);Antiikkinen tunnus (taso 4)
+Antique emblem (tier 5);Antiikkinen tunnus (taso 5)
+Antique emblem (tier 6);Antiikkinen tunnus (taso 6)
+Antique emblem (tier 7);Antiikkinen tunnus (taso 7)
+Antique emblem (tier 8);Antiikkinen tunnus (taso 8)
+Antique emblem (tier 9);Antiikkinen tunnus (taso 9)
+Antique lamp;Antiikkinen valaisin
+Antisanta boots;Antisanta saappaat
+Antisanta gloves;Antisanta käsineet
+Antisanta jacket;Antisanta takki
+Antisanta mask;Antisanta naamio
+Antisanta pantaloons;Antisanta -housut
+Antisanta's coal box;Antisantan hiililaatikko
+Antisanta's coal box (full);Antisantan hiililaatikko (täynnä)
+Ape atoll teleport;Apin atolli teleportaa
+Apple barrel;Omena tynnyri
+Apple mush;Apple sose
+Apple pie;Omenapiirakka
+Apple sapling;Omenan taimi
+Apple seedling;Omenan taimi
+Apple seedling (w);Omenan taimi (w)
+Apple tree seed;Omenapuun siemen
+Apples(1);Omenat (1)
+Apples(2);Omenat (2)
+Apples(3);Omenat (3)
+Apples(4);Omenat (4)
+Apples(5);Omenat (5)
+Apprentice wand;Oppipoika sauva
+Apricot cream pie;Aprikoosikermapiirakka
+Arachnids of vampyrium;Vampyriumin hämähäkit
+Arcane prayer scroll;Arkaaninen rukouskäärö
+Arcane sigil;Arkaaninen merkki
+Arcane spirit shield;Arkaaninen henkikilpi
+Arcenia root;Arcenian juuri
+Arceuus banner;Arceuus-banneri
+Arceuus favour certificate;Arceuusin suosiotodistus
+Arceuus hood;Arceuus huppu
+Arceuus scarf;Arceuus huivi
+Arceuus signet;Arceuusin sinetti
+Archaeologist's diary;Arkeologin päiväkirja
+Archaic emblem (tier 1);Arkaainen tunnus (taso 1)
+Archaic emblem (tier 10);Arkaainen tunnus (taso 10)
+Archaic emblem (tier 2);Arkaainen tunnus (taso 2)
+Archaic emblem (tier 3);Arkaainen tunnus (taso 3)
+Archaic emblem (tier 4);Arkaainen tunnus (taso 4)
+Archaic emblem (tier 5);Arkaainen tunnus (taso 5)
+Archaic emblem (tier 6);Arkaainen tunnus (taso 6)
+Archaic emblem (tier 7);Arkaainen tunnus (taso 7)
+Archaic emblem (tier 8);Arkaainen tunnus (taso 8)
+Archaic emblem (tier 9);Arkaainen tunnus (taso 9)
+Archer helm;Jousimiehen ruori
+Archers ring;Jousimiehet rengas
+Archers ring (i);Jousimies rengas (i)
+Archery target;Jousiammunta tavoite
+Archery ticket;Jousiammunta lippu
+Arclight;Arclight
+Arctic pine logs;Arktiset mäntytukit
+Arctic pyre logs;Arktiset palot
+Ardougne cloak;Ardougne viitta
+Ardougne cloak 1;Ardougne-viitta 1
+Ardougne cloak 2;Ardougne-viitta 2
+Ardougne cloak 3;Ardougne-viitta 3
+Ardougne cloak 4;Ardougne-viitta 4
+Ardougne knight helm;Ardougne ritari ruori
+Ardougne knight platebody;Ardougne Knight -levyrunko
+Ardougne knight platelegs;Ardougne Knight -lautaset
+Ardougne knight tabard;Ardougne ritari paita
+Ardougne max cape;Ardougne max viitta
+Ardougne max hood;Ardougne max huppu
+Ardougne teleport;Ardougne teleporttaa
+Ardougne teleport scroll;Ardougne teleporttaa rullaa
+Ardrigal;Ardrigal
+Ardrigal mixture;Ardrigal-seos
+Arena book;Areena kirja
+Armadyl bracers;Armadyl olkaimet
+Armadyl chainskirt;Armadyl-ketjuhame
+Armadyl chaps;Armadyl-pussit
+Armadyl chestplate;Armadyl rintalevy
+Armadyl cloak;Armadyl viitta
+Armadyl coif;Armadyl coif
+Armadyl crossbow;Armadyl varsijousi
+Armadyl crozier;Armadyl crozier
+Armadyl d'hide body;Armadyl d'hide body
+Armadyl d'hide boots;Armadyl d'hide saappaat
+Armadyl d'hide shield;Armadyl d'hide kilpi
+Armadyl dragonhide set;Armadyl lohikäärmesarja
+Armadyl full helm;Armadyl täysi ruori
+Armadyl godsword;Armadyl jumalamiekka
+Armadyl godsword (or);Armadyl jumalamiekka (tai)
+Armadyl godsword ornament kit;Armadyl-jumalmiekka-koristesarja
+Armadyl halo;Armadyl halo
+Armadyl halo (broken);Armadyl halo (rikki)
+Armadyl halo (l);Armadyl halo (l)
+Armadyl helmet;Armadyl kypärä
+Armadyl hilt;Armadyl kahva
+Armadyl kiteshield;Armadyl kiteshield
+Armadyl mitre;Armadyl jiiri
+Armadyl page 1;Armadyl sivu 1
+Armadyl page 2;Armadyl sivu 2
+Armadyl page 3;Armadyl sivu 3
+Armadyl page 4;Armadyl sivu 4
+Armadyl pendant;Armadyl riipus
+Armadyl platebody;Armadyl levyrunko
+Armadyl platelegs;Armadyylilevyjalat
+Armadyl plateskirt;Armadyl levyhame
+Armadyl robe legs;Armadyl-viitan jalat
+Armadyl robe top;Armadyl kaapullinen toppi
+Armadyl rune armour set (lg);Armadyl-riimupanssarisarja (lg)
+Armadyl rune armour set (sk);Armadyl-riimupanssarisarja (sk)
+Armadyl stole;Armadyl varasti
+Armillary sphere;Armillaarinen pallo
+Armour shard;Panssarin sirpale
+Armour stand;Panssarijalusta
+Arms;Aseet
+Arrow shaft;Nuolen akseli
+Arrowheads;Nuolenpäät
+Artefact;Artefact
+Arthur portrait;Arthurin muotokuva
+Asgarnian ale;Asgarnian ale
+Asgarnian ale(1);Asgarnian ale (1)
+Asgarnian ale(2);Asgarnian ale (2)
+Asgarnian ale(3);Asgarnian ale (3)
+Asgarnian ale(4);Asgarnian ale (4)
+Asgarnian ale(m);Asgarnian ale (m)
+Asgarnian ale(m1);Asgarnian ale (m1)
+Asgarnian ale(m2);Asgarnian ale (m2)
+Asgarnian ale(m3);Asgarnian ale (m3)
+Asgarnian ale(m4);Asgarnian ale (m4)
+Asgarnian hops;Asgarnian humala
+Asgarnian seed;Asgarnian siemen
+Asgoldian ale;Asgoldian ale
+Ash covered tome;Tuhkalla peitetty tome
+Ashes;Tuhkaa
+Asleif's necklace;Asleifin kaulakoru
+Assembler max cape;Assembler max viitta
+Assembler max cape (broken);Assembler max viitta (rikki)
+Assembler max cape (l);Assembler max viitta (l)
+Assembler max hood;Assembler max huppu
+Assorted flowers;Erilaisia ​​kukkia
+Astral rune;Astraaliriimu
+Astral rune shards;Astraaliriimun sirpaleita
+Astral tiara;Astraali tiara
+Astronomical chart;Tähtitieteellinen kartta
+Astronomy book;Tähtitiede kirja
+Asyn remains;Asyn jää
+Attack cape;Hyökkäysviitta
+Attack cape(t);Hyökkäysviitta (t)
+Attack hood;Hyökkäyshuppu
+Attack mix(1);Hyökkäyssekoitus (1)
+Attack mix(2);Attack mix (2)
+Attack potion(1);Hyökkäysjuoma(1)
+Attack potion(2);Hyökkäysjuoma(2)
+Attack potion(3);Hyökkäysjuoma(3)
+Attack potion(4);Hyökkäysjuoma(4)
+Attack stone;Hyökkäyskivi
+Attacker horn;Hyökkääjän torvi
+Attacker icon;Hyökkääjän kuvake
+Attas seed;Attas siemen
+Auguste's sapling;Augusten taimi
+Autumn garden;Syksyinen puutarha
+Autumn sq'irk;Syksyn sq'irk
+Autumn sq'irkjuice;Syksyn sq'irkmehu
+Ava's accumulator;Avan akku
+Ava's assembler;Avan kokoaja
+Ava's assembler (broken);Avan kokoaja (rikki)
+Ava's assembler (l);Avan kokoaja (l)
+Ava's attractor;Avan houkuttelija
+Avantoe;Avantoe
+Avantoe potion (unf);Avantoe juoma (unf)
+Avantoe seed;Avantoe siemen
+Avernic defender;Avernic puolustaja
+Avernic defender (broken);Avernic-puolustaja (rikki)
+Avernic defender (l);Avernic puolustaja (l)
+Avernic defender hilt;Avernic puolustajan kädensija
+Awful anthem;Kamala hymni
+Axe handle;Kirveen varsi
+Axe head;Kirves pää
+Axeman's folly;Axemanin hulluutta
+Axeman's folly(1);Axemanin hulluus (1)
+Axeman's folly(2);Axemanin hulluus (2)
+Axeman's folly(3);Axemanin hulluus (3)
+Axeman's folly(4);Axemanin hulluus (4)
+Axeman's folly(m);Axemanin hulluus (m)
+Axeman's folly(m1);Axemanin hulluus (m1)
+Axeman's folly(m2);Axeman's Folly (m2)
+Axeman's folly(m3);Axeman's Folly (m3)
+Axeman's folly(m4);Axeman's Folly (m4)
+Baby chinchompa;Vauva chinchompa
+Baby dragon bone;Vauvan lohikäärmeen luu
+Baby dragon bonemeal;Lohikäärmevauvan luujauho
+Baby impling jar;Vauvan imetyspurkki
+Baby mole;Vauva myyrä
+Baby mole-rat;Vauva myyrä-rotta
+Baby red dragon;Vauva punainen lohikäärme
+Babydragon bones;Babylohikäärmeen luut
+Bag full of gems;Laukku täynnä helmiä
+Bag of salt;Pussi suolaa
+Bagged bluebells;Pussilliset sinikellot
+Bagged daffodils;Pussitetut narsissit
+Bagged dead tree;Pussitettu kuollut puu
+Bagged flower;Pussitettu kukka
+Bagged magic tree;Pussitettu taikapuu
+Bagged maple tree;Pussitettu vaahterapuu
+Bagged marigolds;Pussitettu kehäkukka
+Bagged nice tree;Pussitettu hieno puu
+Bagged oak tree;Pussitettu tammi
+Bagged plant 1;Pussitettu kasvi 1
+Bagged plant 2;Pussitettu kasvi 2
+Bagged plant 3;Pussitettu kasvi 3
+Bagged roses;Pussitettuja ruusuja
+Bagged sunflower;Pussitettu auringonkukka
+Bagged willow tree;Pussitettu pajupuu
+Bagged yew tree;Pussitettu marjakuusi
+Baguette;Patonki
+Bailing bucket;Suojakauha
+Bait pack;Syöttipakkaus
+Baked potato;Paistettu peruna
+Bakery storage key;Leipomon säilytysavain
+Balance beam;Tasapainotuspalkki
+Ball;Pallo
+Ball of wool;Lankakerä
+Ballad;Balladi
+Ballad of the basilisk;Balladi basiliskista
+Ballista limbs;Ballistan raajat
+Ballista spring;Ballista jousi
+Balloon structure;Ilmapallon rakenne
+Balloon toad;Ilmapallo rupikonna
+Banana;Banaani
+Banana cape;Banaaniviitta
+Banana sapling;Banaanin taimi
+Banana seedling;Banaanin taimi
+Banana seedling (w);Banaanin taimi (w)
+Banana stew;Banaanipata
+Banana tree seed;Banaanipuun siemen
+Bananas(1);Banaani (1)
+Bananas(2);Banaanit (2)
+Bananas(3);Banaani (3)
+Bananas(4);Banaani (4)
+Bananas(5);Banaani (5)
+Bandages;Siteet
+Bandana eyepatch;Bandana silmälappu
+Bandit;Bandit
+Bandit's brew;Banditin juoma
+Bandos boots;Bandos saappaat
+Bandos bracers;Bandos olkaimet
+Bandos chaps;Bandos-kaverit
+Bandos chestplate;Bandos rintalevy
+Bandos cloak;Bandos viitta
+Bandos coif;Bandos coif
+Bandos crozier;Bandos crozier
+Bandos d'hide body;Bandos d'hide body
+Bandos d'hide boots;Bandos d'hide saappaat
+Bandos d'hide shield;Bandos d'hide shield
+Bandos dragonhide set;Bandos lohikäärmeennahkasetti
+Bandos full helm;Bandos täysi ruori
+Bandos godsword;Bandos jumalamiekka
+Bandos godsword (or);Bandos jumalamiekka (tai)
+Bandos godsword ornament kit;Bandos jumalanmiekan koristesarja
+Bandos halo;Bandos halo
+Bandos halo (broken);Bandos halo (rikki)
+Bandos halo (l);Bandos halo (l)
+Bandos hilt;Bandos-kahva
+Bandos kiteshield;Bandos leijakilpi
+Bandos mitre;Bandos jiiri
+Bandos page 1;Bandos sivu 1
+Bandos page 2;Bandos sivu 2
+Bandos page 3;Bandos sivu 3
+Bandos page 4;Bandos sivu 4
+Bandos platebody;Bandos levyrunko
+Bandos platelegs;Bandos levyjalat
+Bandos plateskirt;Bandos levyhame
+Bandos robe legs;Bandos kaapujen jalat
+Bandos robe top;Bandos kaapullinen toppi
+Bandos rune armour set (lg);Bandos-riimupanssarisarja (lg)
+Bandos rune armour set (sk);Bandos-riimupanssarisarja (sk)
+Bandos stole;Bandos varasti
+Bandos tassets;Bandos-tassetit
+Bank filler;Pankin täyteaine
+Bank key;Pankin avain
+Banner;Banneri
+Banner easel;Banneri maalausteline
+Banner stand;Banneriteline
+Banshee;Banshee
+Banshee mask;Banshee-naamio
+Banshee robe;Banshee-takki
+Banshee top;Banshee toppi
+Bar magnet;Tankomagneetti
+Barb bolttips;Barb pultin kärjet
+Barb-tail harpoon;Piikkihäntäharppuuna
+Barbarian rod;Barbaari sauva
+Barbarian skills;Barbaarien taidot
+Barbarian teleport;Barbaari teleportti
+Barbed arrow;Piikkimainen nuoli
+Barbed bolts;Piikkipultit
+Barcrawl card;Barcrawl kortti
+Bark;Haukkua
+Bark sample;Kuori näyte
+Barley;Ohra
+Barley malt;Ohramallas
+Barley seed;Ohran siemen
+Barrel;Tynnyri
+Barrel bomb;Tynnyripommi
+Barrel of coal tar;Tynnyri kivihiilitervaa
+Barrel of naphtha;Tynnyri teollisuusbensiiniä
+Barrelchest anchor;Tynnyrikotelon ankkuri
+Barricade;Barrikadi
+Barronite deposit;Barroniitti talletus
+Barronite guard;Barroniitti vartija
+Barronite handle;Barronite-kahva
+Barronite head;Barroniitti pää
+Barronite mace;Barronite-musikka
+Barronite mace (broken);Barronite-musikka (rikki)
+Barronite mace (l);Barronite nuija (l)
+Barronite shards;Barroniitin sirpaleita
+Barrows gloves;Barrowsin käsineet
+Barrows teleport;Barrows teleportaa
+Basalt;Basaltti
+Base schematics;Peruskaaviot
+Basic jewellery box;Peruskorulaatikko
+Basilisk;Basiliski
+Basilisk bone;Basiliskin luu
+Basilisk head;Basiliskin pää
+Basilisk jaw;Basiliskin leuka
+Basilisk knight;Basiliskin ritari
+Basket;Kori
+Basket pack;Koripakkaus
+Bass;Basso
+Bastion potion(1);Bastionin juoma(1)
+Bastion potion(2);Bastionin juoma(2)
+Bastion potion(3);Bastionin juoma(3)
+Bastion potion(4);Bastionin juoma(4)
+Bat bonemeal;Lepakon luujauho
+Bat bones;Lepakon luut
+Bat shish;Bat shish
+Bat wing;Lepakon siipi
+Batta tin;Batta tina
+Battered book;Hakattu kirja
+Battered key;Hajonnut avain
+Battlefront teleport;Battlefront-teleportti
+Battlemage potion(1);Battlemage juoma (1)
+Battlemage potion(2);Battlemage juoma (2)
+Battlemage potion(3);Battlemage juoma (3)
+Battlemage potion(4);Battlemage juoma (4)
+Battlestaff;Taisteluhenkilökunta
+Bauble box;Koristelaatikko
+Beach boxing gloves;Rantabyrkkeilyhanskat
+Beacon ring;Majakan rengas
+Beads of the dead;Kuolleiden helmiä
+Beam;Säde
+Beanie;Pipo
+Bear feet;Karhun jalat
+Bear fur;Karhun turkki
+Bear ribs;Karhun kylkiluut
+Bearded gorilla bonemeal;Parrakas gorilla luujauho
+Bearded gorilla greegree;Parrakas gorilla greegree
+Bearhead;Karhunpää
+Beaten book;Hakattu kirja
+Beaver;Majava
+Bedabin key;Bedabin avain
+Bedroom;Makuuhuone
+Bedsheet;Lakanat
+Beef fillet;Naudan filee
+Beekeeper's boots;Mehiläishoitajan saappaat
+Beekeeper's gloves;Mehiläishoitajan hanskat
+Beekeeper's hat;Mehiläishoitajan hattu
+Beekeeper's legs;Mehiläishoitajan jalat
+Beekeeper's top;Mehiläishoitajan toppi
+Beer;Olut
+Beer barrel;Olut tynnyri
+Beer glass;Olut lasi
+Beer soaked hand;Oluessa kastettu käsi
+Beer tankard;Oluttankki
+Beginner wand;Aloittelijan sauva
+Bell bauble;Kellokoru
+Bell jar;Kellopurkki
+Bell-pull;Kellon veto
+Belladonna seed;Belladonna siemen
+Bells;Kellot
+Belt buckle;Vyösolki
+Bench with lathe;Penkki sorvi
+Bench with vice;Penkki ruuvipenkeillä
+Beret mask;Baretti naamio
+Berserker helm;Berserkerin ruori
+Berserker necklace;Berserker kaulakoru
+Berserker necklace (or);Berserker kaulakoru (tai)
+Berserker necklace ornament kit;Berserker kaulakoru koristeet
+Berserker ring;Berserker-sormus
+Berserker ring (i);Berserker-sormus (i)
+Bert's rota;Bertin rota
+Bervirius notes;Bervirius huomauttaa
+Big bass;Iso basso
+Big bonemeal;Iso luujauho
+Big bones;Isot luut
+Big book of bangs;Iso otsatukkakirja
+Big fishing net;Iso kalaverkko
+Big frog leg;Iso sammakon jalka
+Big harpoonfish;Iso harppuunakala
+Big pirate hat;Iso merirosvohattu
+Big shark;Iso hai
+Big swordfish;Iso miekkakala
+Binding book;Sitova kirja
+Binding fluid;Sitoutuva neste
+Binding necklace;Sidonta kaulakoru
+Bird book;Lintu kirja
+Bird feed;Lintujen ruokinta
+Bird house;Lintujen talo
+Bird nest;Linnun pesä
+Bird snare;Lintujen ansa
+Bird snare pack;Lintujen virvelipakkaus
+Bird's egg;Linnun muna
+Birthday balloons;Syntymäpäivä ilmapalloja
+Birthday cake;Syntymäpäiväkakku
+Birthday present;Syntymäpäivälahja
+Bitter chocolate mix;Karvas suklaaseos
+Bitter easter egg;Karvas pääsiäismuna
+Bitternut;Bitternut
+Black 2h sword;Musta 2h miekka
+Black axe;Musta kirves
+Black axe head;Musta kirveen pää
+Black balloon;Musta ilmapallo
+Black battleaxe;Musta taistelukirves
+Black bead;Musta helmi
+Black beret;Musta baretti
+Black boater;Musta veneilijä
+Black boots;Mustat saappaat
+Black brutal;Musta brutaali
+Black candle;Musta kynttilä
+Black candy;Musta karkki
+Black cane;Musta keppi
+Black cape;Musta viitta
+Black cavalier;Musta kavalieri
+Black chainbody;Musta ketjurunko
+Black chinchompa;Musta chinchompa
+Black claws;Mustat kynnet
+Black coffin;Musta arkku
+Black cog;Musta hammasratas
+Black crystal;Musta kristalli
+Black d'hide body;Musta d'hide body
+Black d'hide body (beta);Musta d'hide body (beta)
+Black d'hide body (g);Musta d'hide body (g)
+Black d'hide body (t);Musta d'hide body (t)
+Black d'hide chaps;Mustat housut
+Black d'hide chaps (beta);Black d'hide chaps (beta)
+Black d'hide chaps (g);Mustat housut (g)
+Black d'hide chaps (t);Mustat housut (t)
+Black d'hide shield;Musta d'hide kilpi
+Black d'hide vambraces;Mustat d'hide vambraces
+Black d'hide vambraces (beta);Black d'hide vambraces (beta)
+Black dagger;Musta tikari
+Black dagger(p);Musta tikari (p)
+Black dagger(p+);Musta tikari(p+)
+Black dagger(p++);Musta tikari (p++)
+Black dart;Musta tikka
+Black dart(p);Musta tikka (p)
+Black dart(p+);Musta tikka (p+)
+Black dart(p++);Musta tikka (p++)
+Black defender;Musta puolustaja
+Black defender (broken);Musta puolustaja (rikki)
+Black defender (l);Musta puolustaja (l)
+Black demon mask;Musta demoni naamio
+Black desert robe;Musta aavikkotakki
+Black desert shirt;Musta aavikkopaita
+Black destabiliser;Musta destabilisaattori
+Black dragon leather;Musta lohikäärmeen nahka
+Black dragon mask;Musta lohikäärme naamio
+Black dragonhide;Musta lohikäärmeen nahka
+Black dragonhide set;Musta lohikäärmesarja
+Black elegant legs;Mustat tyylikkäät jalat
+Black elegant shirt;Musta tyylikäs paita
+Black flowers;Mustat kukat
+Black full helm;Musta täysi ruori
+Black full helm (g);Musta täysruori (g)
+Black full helm (t);Musta täysruori (t)
+Black gloves;Mustat hanskat
+Black goblin mail;Musta goblin-posti
+Black gold-trimmed set (lg);Musta kullalla koristeltu setti (lg)
+Black gold-trimmed set (sk);Musta kullanvärinen setti (sk)
+Black h'ween mask;Musta h'ween naamio
+Black halberd;Musta alabardi
+Black headband;Musta otsapanta
+Black helm (h1);Musta ruori (h1)
+Black helm (h2);Musta ruori (h2)
+Black helm (h3);Musta ruori (h3)
+Black helm (h4);Musta ruori (h4)
+Black helm (h5);Musta ruori (h5)
+Black key black;Musta avain musta
+Black key brown;Musta avaimenruskea
+Black key crimson;Musta avaimen ruskea
+Black key purple;Musta avain violetti
+Black key red;Musta avain punainen
+Black kiteshield;Musta leijakilpi
+Black kiteshield (g);Musta leijakilpi (g)
+Black kiteshield (t);Musta leijakilpi (t)
+Black knife;Musta veitsi
+Black knife(p);Musta veitsi (p)
+Black knife(p+);Musta veitsi (p+)
+Black knife(p++);Musta veitsi (p++)
+Black knight helm;Black Knight -kypärä
+Black leprechaun hat;Musta leprechaun-hattu
+Black locks;Mustat lukot
+Black longsword;Musta pitkä miekka
+Black mace;Musta nuija
+Black mask;Musta naamio
+Black mask (1);Musta naamio (1)
+Black mask (1) (i);Musta naamio (1) (i)
+Black mask (10);Musta naamio (10)
+Black mask (10) (i);Musta naamio (10) (i)
+Black mask (2);Musta naamio (2)
+Black mask (2) (i);Musta naamio (2) (i)
+Black mask (3);Musta naamio (3)
+Black mask (3) (i);Musta naamio (3) (i)
+Black mask (4);Musta naamio (4)
+Black mask (4) (i);Musta naamio (4) (i)
+Black mask (5);Musta naamio (5)
+Black mask (5) (i);Musta naamio (5) (i)
+Black mask (6);Musta naamio (6)
+Black mask (6) (i);Musta naamio (6) (i)
+Black mask (7);Musta naamio (7)
+Black mask (7) (i);Musta naamio (7) (i)
+Black mask (8);Musta naamio (8)
+Black mask (8) (i);Musta naamio (8) (i)
+Black mask (9);Musta naamio (9)
+Black mask (9) (i);Musta naamio (9) (i)
+Black mask (i);Musta naamio (i)
+Black med helm;Musta med ruori
+Black mushroom;Musta sieni
+Black mushroom ink;Musta sieni muste
+Black nails;Mustat kynnet
+Black naval shirt;Musta laivaston paita
+Black navy slacks;Mustat laivastonsiniset housut
+Black partyhat;Musta juhlahattu
+Black pick head;Musta poimintapää
+Black pickaxe;Musta hakku
+Black platebody;Musta levyrunko
+Black platebody (g);Musta levyrunko (g)
+Black platebody (h1);Musta levyrunko (h1)
+Black platebody (h2);Musta levyrunko (h2)
+Black platebody (h3);Musta levyrunko (h3)
+Black platebody (h4);Musta levyrunko (h4)
+Black platebody (h5);Musta levyrunko (h5)
+Black platebody (t);Musta levyrunko (t)
+Black platelegs;Mustat levyjalat
+Black platelegs (g);Mustat levyjalat (g)
+Black platelegs (t);Mustat levyjalat (t)
+Black plateskirt;Musta levyhame
+Black plateskirt (g);Musta levyhame (g)
+Black plateskirt (t);Musta levyhame (t)
+Black prism;Musta prisma
+Black robe;Musta viitta
+Black salamander;Musta salamanteri
+Black santa hat;Musta joulupukin hattu
+Black satchel;Musta laukku
+Black scimitar;Musta leikkuri
+Black set (lg);Musta setti (lg)
+Black set (sk);Musta setti (sk)
+Black shield (h1);Musta kilpi (h1)
+Black shield (h2);Musta kilpi (h2)
+Black shield (h3);Musta kilpi (h3)
+Black shield (h4);Musta kilpi (h4)
+Black shield (h5);Musta kilpi (h5)
+Black skirt;Musta hame
+Black skirt (g);Musta hame (g)
+Black skirt (t);Musta hame (t)
+Black slayer helmet;Musta Slayer-kypärä
+Black slayer helmet (i);Musta Slayer-kypärä (i)
+Black spear;Musta keihäs
+Black spear(kp);Musta keihäs (kp)
+Black spear(p);Musta keihäs (p)
+Black spear(p+);Musta keihäs(p+)
+Black spear(p++);Musta keihäs (p++)
+Black spiky vambraces;Mustat piikikäs vambraces
+Black sq shield;Musta neliökilpi
+Black sword;Musta miekka
+Black tourmaline core;Musta turmaliiniydin
+Black toy horsey;Musta hevosen lelu
+Black tricorn hat;Musta tricorn hattu
+Black trimmed set (lg);Musta trimmattu setti (lg)
+Black trimmed set (sk);Musta trimmattu setti (sk)
+Black unicorn mask;Musta yksisarvinen naamio
+Black warhammer;Musta sotavasara
+Black warlock;Musta velho
+Black wizard hat (g);Musta velhohattu (g)
+Black wizard hat (t);Musta velhohattu (t)
+Black wizard robe (g);Musta velhotakki (g)
+Black wizard robe (t);Musta velhotakki (t)
+Blackened crystal;Mustattu kristalli
+Blacksmith's helm;Sepän ruori
+Blade of saeldor;Saeldorin terä
+Blade of saeldor (c);Saeldorin terä (c)
+Blade of saeldor (inactive);Blade of saeldor (ei aktiivinen)
+Blamish bark shell;Hämmentävä kuori
+Blamish blue shell;Hämmentävän sininen kuori
+Blamish myre shell;Blamish myre shell
+Blamish ochre shell;Ärsyttävä okrankuori
+Blamish oil;Tuhlaa öljyä
+Blamish red shell;Hämmentävän punainen kuori
+Blamish snail slime;Törkeää etanan limaa
+Blank air rune;Tyhjä ilmarunko
+Blank earth rune;Tyhjä maan riimu
+Blank fire rune;Tyhjä tulirunko
+Blank mind rune;Tyhjä mielirunko
+Blank water rune;Tyhjä vesiriimu
+Blasted ore;Puhallettu malmi
+Bleached bones;Valkaistut luut
+Blessed axe;Siunattu kirves
+Blessed gold bowl;Siunattu kultainen kulho
+Blessed lamp;Siunattu lamppu
+Blessed pot;Siunattu potti
+Blessed spirit shield;Siunattu hengen kilpi
+Blessed water;Siunattu vesi
+Blighted ancient ice sack;Rikkinäinen ikivanha jääsäkki
+Blighted anglerfish;Blowed merikrotti
+Blighted bind sack;Hajonnut sidesäkki
+Blighted entangle sack;Hajonnut sotkulaukku
+Blighted karambwan;Hajonnut karambwan
+Blighted manta ray;Hajonnut mantaray
+Blighted snare sack;Hajonnut virvelesäkki
+Blighted super restore(1);Häivytetty superpalautus (1)
+Blighted super restore(2);Hämmentynyt superpalautus (2)
+Blighted super restore(3);Häivytetty superpalautus (3)
+Blighted super restore(4);Häivytetty superpalautus (4)
+Blighted teleport spell sack;Häirtynyt teleporttiloitsusäkki
+Blighted vengeance sack;Hajotettu kostonsäkki
+Blindweed;Blindweed
+Blindweed seed;Blindweedin siemen
+Blisterwood flail;Blisterwood räpylä
+Blisterwood logs;Blisterwood-hirret
+Blisterwood sickle;Blisterwood sirppi
+Bloated toad;Turvonnut rupikonna
+Blood diamond;Verinen timantti
+Blood money;Verirahaa
+Blood pint;Pintti verta
+Blood potion;Verijuoma
+Blood rune;Verirunko
+Blood rune (nz);Verirune (nz)
+Blood shard;Veren sirpale
+Blood tithe pouch;Veri kymmenykset pussi
+Blood'n'tar snelm;Blood'n't snelm
+Bloodbark body;Verenkuoren runko
+Bloodbark boots;Bloodbark saappaat
+Bloodbark gauntlets;Verenkuoren käsineet
+Bloodbark helm;Bloodbark ruori
+Bloodbark legs;Bloodbark jalat
+Bloodhound;Verikoira
+Bloodier key;Verisempi avain
+Bloodveld;Bloodveld
+Bloody bracer;Verinen braser
+Bloody diary;Verinen päiväkirja
+Bloody grimoire;Verinen grimoire
+Bloody head;Verinen pää
+Bloody key;Verinen avain
+Bloody mourner top;Verinen surullinen toppi
+Bloody notes;Veriset nuotit
+Bludgeon axon;Bludgeon aksoni
+Bludgeon claw;Blumgeon kynsi
+Bludgeon spine;Bludgeon selkäranka
+Blue balloon;Sininen ilmapallo
+Blue beret;Sininen baretti
+Blue boater;Sininen veneilijä
+Blue boots;Siniset saappaat
+Blue candy;Sinistä karkkia
+Blue cape;Sininen viitta
+Blue cog;Sininen hammasratas
+Blue crystal;Sininen kristalli
+Blue d'hide body;Sininen piilovartalo
+Blue d'hide body (g);Blue d'hide body (g)
+Blue d'hide body (t);Sininen piilovartalo (t)
+Blue d'hide chaps;Siniset housut
+Blue d'hide chaps (g);Siniset housut (g)
+Blue d'hide chaps (t);Siniset housut (t)
+Blue d'hide shield;Sininen piilosuoja
+Blue d'hide vambraces;Blue d'hide vambraces
+Blue dark bow paint;Sininen tumma rusettimaali
+Blue destabiliser;Sininen destabilisaattori
+Blue dragon leather;Sinistä lohikäärmeen nahkaa
+Blue dragon mask;Sinisen lohikäärmeen naamio
+Blue dragon scale;Sinisen lohikäärmeen vaaka
+Blue dragonhide;Sininen lohikäärmeen nahka
+Blue dragonhide set;Sininen lohikäärmesarja
+Blue dye;Sininen väriaine
+Blue dye bellows;Sininen värityspalje
+Blue egg;Sininen muna
+Blue elegant blouse;Sininen tyylikäs pusero
+Blue elegant legs;Siniset tyylikkäät jalat
+Blue elegant shirt;Sininen tyylikäs paita
+Blue elegant skirt;Sininen tyylikäs hame
+Blue feather;Sininen sulka
+Blue firelighter;Sininen sytytin
+Blue flowers;Sinisiä kukkia
+Blue gingerbread shield;Sininen piparkakkusuoja
+Blue goblin mail;Sininen goblin-posti
+Blue halloween mask;Sininen halloween-naamio
+Blue hat;Sininen hattu
+Blue headband;Sininen otsapanta
+Blue icon;Sininen kuvake
+Blue liquid;Sininen neste
+Blue logs;Siniset lokit
+Blue marionette;Sininen marionetti
+Blue monkey;Sininen apina
+Blue naval shirt;Sininen laivaston paita
+Blue navy slacks;Siniset laivastonsiniset housut
+Blue partyhat;Sininen juhlahattu
+Blue rainbow strand;Sininen sateenkaarinauha
+Blue robe bottoms;Siniset viittahousut
+Blue robe top;Sininen kaapullinen toppi
+Blue skirt;Sininen hame
+Blue skirt (g);Sininen hame (g)
+Blue skirt (t);Sininen hame (t)
+Blue spiky vambraces;Siniset piikikäs vambraces
+Blue sweets;Sinisiä makeisia
+Blue thread;Sininen lanka
+Blue toad;Sinirupikonna
+Blue tricorn hat;Sininen tricorn hattu
+Blue wizard hat;Sininen velhohattu
+Blue wizard hat (g);Sininen velhohattu (g)
+Blue wizard hat (t);Sininen velhohattu (t)
+Blue wizard robe;Sininen velhotakki
+Blue wizard robe (g);Sininen velhon viitta (g)
+Blue wizard robe (t);Sininen velhon viitta (t)
+Bluebells;Sinikellot
+Bluegill;Bluegill
+Blunt arrow;Tylsä nuoli
+Blunt axe;Tylsä kirves
+Blurberry special;Blurberry erikois
+Blurite bar;Blurite-palkki
+Blurite bolts;Blurite pultit
+Blurite bolts (p);Blurite pultit (p)
+Blurite bolts (p+);Blurite-pultit (p+)
+Blurite bolts (p++);Blurite pultit (p++)
+Blurite bolts (unf);Blurite-pultit (unf)
+Blurite crossbow;Blurite varsijousi
+Blurite crossbow (u);Blurite varsijousi (u)
+Blurite limbs;Blurite raajat
+Blurite ore;Blurite malmi
+Blurite sword;Blurite miekka
+Board game piece;Lautapeli pala
+Bob icon;Bob-kuvake
+Bob's black shirt;Bobin musta paita
+Bob's blue shirt;Bobin sininen paita
+Bob's green shirt;Bobin vihreä paita
+Bob's print;Bobin printti
+Bob's purple shirt;Bobin violetti paita
+Bob's red shirt;Bobin punainen paita
+Bobble hat;Bobble hattu
+Bobble scarf;Bobble huivi
+Body core;Rungon ydin
+Body rune;Runon runo
+Body talisman;Talisman vartalolle
+Body tiara;Kehon tiara
+Bologa's blessing;Bologan siunaus
+Bologano fruit;Bologanon hedelmät
+Bologano seed;Bologanon siemen
+Bolt mould;Pulttimuotti
+Bolt of cloth;Kankaan pultti
+Bolt pouch;Pulttipussi
+Bolt rack;Pulttiteline
+Bomber cap;Pommikoneen korkki
+Bomber jacket;Bomber-takki
+Bone beads;Luuhelmiä
+Bone bolt pack;Luupulttipakkaus
+Bone bolts;Luun pultit
+Bone cage;Luuhäkki
+Bone charm;Luun viehätys
+Bone club;Luuklubi
+Bone dagger;Luu tikari
+Bone dagger (p);Luu tikari (p)
+Bone dagger (p+);Luu tikari (p+)
+Bone dagger (p++);Luu tikari (p++)
+Bone fragments;Luun palaset
+Bone in vinegar;Luu etikassa
+Bone key;Luun avain
+Bone seeds;Luun siemenet
+Bone shard;Luun sirpale
+Bone spear;Luu keihäs
+Bonecrusher;Luunmurskain
+Bonecrusher necklace;Bonecrusher kaulakoru
+Bonemeal;Luujauho
+Bones;Luut
+Bones to bananas;Luista banaaneihin
+Bones to peaches;Luista persikoille
+Bonesack;Bonesack
+Book;Kirja
+Book o' piracy;Kirja piratismista
+Book of 'h.a.m';Kirja 'h.a.m'
+Book of arcane knowledge;Salaperäisen tiedon kirja
+Book of balance;Tasapainon kirja
+Book of balance page set;Tasekirjan sivusarja
+Book of darkness;Pimeyden kirja
+Book of darkness page set;Pimeyden kirjan sivusarja
+Book of folklore;Kansanperinteen kirja
+Book of haricanto;Haricanto kirja
+Book of knowledge;Tiedon kirja
+Book of law;Lain kirja
+Book of law page set;Lakikirjan sivusarja
+Book of portraiture;Muotokuvakirja
+Book of spyology;Vakoilun kirja
+Book of war;Sodan kirja
+Book of war page set;Book of war -sivusarja
+Book on baxtorian;Varaa Baxtorianista
+Book on chemicals;Kirja kemikaaleista
+Book on chickens;Kirja kanoista
+Book on costumes;Varaa puvut
+Book page 1;Kirjan sivu 1
+Book page 2;Kirjan sivu 2
+Book page 3;Kirja sivu 3
+Bookcase;Kirjahylly
+Boots of brimstone;Saappaat tulikivestä
+Boots of darkness;Pimeyden saappaat
+Boots of lightness;Kevyttä saappaat
+Boots of stone;Kiviset saappaat
+Boss lair display;Boss Lair -näyttö
+Botanical pie;Kasvitieteellinen piirakka
+Bottle of wine;Pullo viiniä
+Bottled dragonbreath;Pullotettu lohikäärme
+Bottled dragonbreath (unpowered);Pullotettu dragonbreath (ilman virtaa)
+Bottled water;Pullovesi
+Bottom of sceptre;Valtikan pohja
+Bottomless compost bucket;Pohjaton kompostiämpäri
+Boundary stones;Rajakivet
+Bounty crate;Palkkiolaatikko
+Bounty hunter hat (tier 1);Palkkionmetsästäjän hattu (taso 1)
+Bounty hunter hat (tier 2);Palkkionmetsästäjän hattu (taso 2)
+Bounty hunter hat (tier 3);Palkkionmetsästäjän hattu (taso 3)
+Bounty hunter hat (tier 4);Palkkionmetsästäjän hattu (taso 4)
+Bounty hunter hat (tier 5);Palkkionmetsästäjän hattu (taso 5)
+Bounty hunter hat (tier 6);Palkkionmetsästäjän hattu (taso 6)
+Bow and arrow;Jousi ja nuoli
+Bow string;Jousinauha
+Bow-sword;Jousi-miekka
+Bowl;Kulho
+Bowl of blue water;Kulho sinistä vettä
+Bowl of fish;Kulho kalaa
+Bowl of hot water;Kulho kuumaa vettä
+Bowl of red water;Kulho punaista vettä
+Bowl of water;Kulho vettä
+Bowl wig;Kulho peruukki
+Box bauble;Laatikon koru
+Box of chocolate strawberries;Laatikko suklaamansikoita
+Box trap;Laatikko ansa
+Box trap pack;Laatikkopakkaus
+Boxing gloves;Nyrkkeilyhanskat
+Boxing ring;Nyrkkeilyrengas
+Bp obj;Bp obj
+Bracelet mould;Rannekorun muotti
+Bracelet of clay;Rannekoru savea
+Bracelet of ethereum;Ethereumin rannekoru
+Bracelet of ethereum (uncharged);Ethereumin rannekoru (lataamaton)
+Bracelet of slaughter;Teurastuksen rannerengas
+Brain tongs;Aivopihdit
+Braindeath 'rum';Braindeath "rommi"
+Branch;Haara
+Brandy;Brandy
+Brass key;Messinki avain
+Brass necklace;Messinki kaulakoru
+Brassica halo;Brassica halo
+Brassica halo (broken);Brassica halo (rikki)
+Brassica halo (l);Brassica halo (l)
+Bravery potion;Rohkea juoma
+Brawk fish (3);raikas kala (3)
+Bread;leipää
+Bread dough;Leipätaikina
+Breadcrumbs;korppujauhoja
+Breathing salts;Hengityssuolat
+Brewin' guide;Brewin opas
+Bridge section;Sillan osa
+Briefcase;Salkku
+Brimhaven teleport;Brimhaven teleporttaa
+Brimstone key;Brimstone avain
+Brimstone ring;Tulikivisormus
+Brine rat;Suolavesi rotta
+Brine sabre;Suolavesi sapeli
+Brittle key;Hauras avain
+Broad arrowhead pack;Leveä nuolenpääpaketti
+Broad arrowheads;Leveät nuolenpäät
+Broad arrows;Leveät nuolet
+Broad bolts;Leveät pultit
+Broken armour;Rikkoutunut panssari
+Broken arrow;Rikkoutunut nuoli
+Broken axe;Rikkoutunut kirves
+Broken bark snelm;Murtunut kuori snelm
+Broken cannon;Rikkoutunut tykki
+Broken cauldron;Rikkoutunut kattila
+Broken coffin;Rikkoutunut arkku
+Broken crab claw;Murtunut rapukynsi
+Broken crab shell;Rikkoutunut rapunkuori
+Broken device;Rikkinäinen laite
+Broken dragon hasta;Rikkoutunut lohikäärme hasta
+Broken egg;Rikkoutunut muna
+Broken fishing rod;Rikkoutunut onki
+Broken glass;Rikkoutunut lasi
+Broken goat horn;Murtunut vuohen sarvi
+Broken pickaxe;Rikkoutunut hakku
+Broken plate;Rikki levy
+Broken pole;Rikkoutunut napa
+Broken shield;Rikki kilpi
+Broken staff;Rikkoutunut henkilökunta
+Broken vane part;Rikkinäinen siipiosa
+Bronze 2h sword;Pronssi 2h miekka
+Bronze arrow;Pronssi nuoli
+Bronze arrow(p);Pronssinen nuoli (p)
+Bronze arrow(p+);Pronssinen nuoli (p+)
+Bronze arrow(p++);Pronssinen nuoli (p++)
+Bronze arrowtips;Pronssiset nuolenpäät
+Bronze axe;Pronssikirves
+Bronze axe head;Pronssinen kirveen pää
+Bronze bar;Pronssipalkki
+Bronze battleaxe;Pronssinen taistelukirves
+Bronze bolts;Pronssipultit
+Bronze bolts (p);Pronssipultit (p)
+Bronze bolts (p+);Pronssipultit (p+)
+Bronze bolts (p++);Pronssipultit (p++)
+Bronze bolts (unf);Pronssipultit (unf)
+Bronze boots;Pronssiset saappaat
+Bronze brutal;Pronssi brutaalia
+Bronze chainbody;Pronssinen ketjurunko
+Bronze claws;Pronssiset kynnet
+Bronze coffin;Pronssiarkku
+Bronze crossbow;Pronssinen varsijousi
+Bronze crossbow (u);Pronssijousi (u)
+Bronze dagger;Pronssinen tikari
+Bronze dagger(p);Pronssi tikari (p)
+Bronze dagger(p+);Pronssitikari(p+)
+Bronze dagger(p++);Pronssitikari(p++)
+Bronze dart;Pronssinen tikka
+Bronze dart tip;Pronssinen tikkakärki
+Bronze dart(p);Pronssinen tikka (p)
+Bronze dart(p+);Pronssinen tikka (p+)
+Bronze dart(p++);Pronssinen tikka (p++)
+Bronze defender;Pronssinen puolustaja
+Bronze defender (broken);Pronssinen puolustaja (rikki)
+Bronze defender (l);Pronssipuolustaja (l)
+Bronze dragon mask;Pronssinen lohikäärme naamio
+Bronze feather;Pronssi höyhen
+Bronze fire arrow;Pronssinen tulinuoli
+Bronze fire arrow (lit);Pronssinen tulinuoli (palaa)
+Bronze fist flag;Pronssinen nyrkkilippu
+Bronze full helm;Pronssinen täysi ruori
+Bronze full helm (g);Pronssinen täysruori (g)
+Bronze full helm (t);Pronssinen täysruori (t)
+Bronze gloves;Pronssihanskat
+Bronze gold-trimmed set (lg);Pronssisilla kullalla koristeltu setti (lg)
+Bronze gold-trimmed set (sk);Pronssikulta koristeltu setti (sk)
+Bronze halberd;Pronssinen alabardi
+Bronze hasta;Pronssia hasta
+Bronze hasta(kp);Pronssi hasta (kp)
+Bronze hasta(p);Pronssi hasta(p)
+Bronze hasta(p+);Pronssi hasta(p+)
+Bronze hasta(p++);Pronssi hasta(p++)
+Bronze javelin;Pronssinen keihäs
+Bronze javelin heads;Pronssiset keihäänpäät
+Bronze javelin(p);Pronssikeihäs(p)
+Bronze javelin(p+);Pronssikeihäs(p+)
+Bronze javelin(p++);Pronssikeihäs(p++)
+Bronze key;Pronssi avain
+Bronze key black;Pronssinen avain musta
+Bronze key brown;Pronssinen avaimenruskea
+Bronze key crimson;Pronssinen avain karmiininpunainen
+Bronze key purple;Pronssinen avain violetti
+Bronze key red;Pronssinen avain punainen
+Bronze kiteshield;Pronssinen leijakilpi
+Bronze kiteshield (g);Pronssinen leijakilpi (g)
+Bronze kiteshield (t);Pronssinen leijakilpi (t)
+Bronze knife;Pronssinen veitsi
+Bronze knife(p);Pronssiveitsi (p)
+Bronze knife(p+);Pronssiveitsi (p+)
+Bronze knife(p++);Pronssiveitsi (p++)
+Bronze limbs;Pronssiset raajat
+Bronze locks;Pronssiset lukot
+Bronze longsword;Pronssinen pitkämiekka
+Bronze mace;Pronssinen nuija
+Bronze med helm;Pronssinen ruori
+Bronze nails;Pronssiset kynnet
+Bronze pick head;Pronssinen poimintapää
+Bronze pickaxe;Pronssinen hakku
+Bronze platebody;Pronssinen levyrunko
+Bronze platebody (g);Pronssilevyrunko (g)
+Bronze platebody (t);Pronssilevyrunko (t)
+Bronze platelegs;Pronssiset levyjalat
+Bronze platelegs (g);Pronssiset levyjalat (g)
+Bronze platelegs (t);Pronssiset levyjalat (t)
+Bronze plateskirt;Pronssinen levyhame
+Bronze plateskirt (g);Pronssilevyhame (g)
+Bronze plateskirt (t);Pronssilevyhame (t)
+Bronze scimitar;Pronssinen veitsi
+Bronze set (lg);Pronssisetti (lg)
+Bronze set (sk);Pronssisetti (sk)
+Bronze spear;Pronssinen keihäs
+Bronze spear(kp);Pronssikeihäs (kp)
+Bronze spear(p);Pronssikeihäs (p)
+Bronze spear(p+);Pronssikeihäs(p+)
+Bronze spear(p++);Pronssikeihäs(p++)
+Bronze sq shield;Pronssi neliön kilpi
+Bronze sword;Pronssi miekka
+Bronze thrownaxe;Pronssinen heittokirkko
+Bronze trimmed set (lg);Pronssiksi leikattu sarja (lg)
+Bronze trimmed set (sk);Pronssiksi leikattu sarja (sk)
+Bronze warhammer;Pronssinen sotavasara
+Bronze wire;Pronssilanka
+Brooch;Rintaneula
+Broodoo shield;Broodoo kilpi
+Broodoo shield (1);Broodoo-kilpi (1)
+Broodoo shield (10);Broodoo-kilpi (10)
+Broodoo shield (2);Broodoo-kilpi (2)
+Broodoo shield (3);Broodoo-kilpi (3)
+Broodoo shield (4);Broodoo-kilpi (4)
+Broodoo shield (5);Broodoo-kilpi (5)
+Broodoo shield (6);Broodoo-kilpi (6)
+Broodoo shield (7);Broodoo-kilpi (7)
+Broodoo shield (8);Broodoo-kilpi (8)
+Broodoo shield (9);Broodoo-kilpi (9)
+Brown apron;Ruskea esiliina
+Brown candy;Ruskea karkki
+Brown headband;Ruskea pääpanta
+Brown naval shirt;Ruskea laivastopaita
+Brown navy slacks;Ruskeat laivastonsiniset housut
+Brown rug;Ruskea matto
+Brown spice (1);Ruskea mauste (1)
+Brown spice (2);Ruskea mauste (2)
+Brown spice (3);Ruskea mauste (3)
+Brown spice (4);Ruskea mauste (4)
+Brown toy horsey;Ruskea hevosmainen lelu
+Brown tricorn hat;Ruskea tricorn hattu
+Bruise blue snelm;Mustelma sininen snelm
+Brulee;Brulee
+Brulee supreme;Brulee ylivoimainen
+Bruma herb;Bruma yrtti
+Bruma kindling;Bruman sytytys
+Bruma root;Bruman juuri
+Bruma torch;Bruma taskulamppu
+Brush;Harjata
+Brutal black dragon;Brutaali musta lohikäärme
+Bryophyta's essence;Bryophytan olemus
+Bryophyta's staff;Bryophytan henkilökunta
+Bryophyta's staff (uncharged);Bryophytan henkilökunta (veloituksetta)
+Buchu leaf;Buchun lehtiä
+Buchu seed;Buchun siemen
+Bucket;Ämpäri
+Bucket helm;Kauhan ruori
+Bucket helm (g);Kauhan ruori (g)
+Bucket of milk;Ämpäri maitoa
+Bucket of rubble;Ämpäri raunioista
+Bucket of sand;Ämpäri hiekkaa
+Bucket of sandworms;Ämpäri hiekkamatoja
+Bucket of sap;Ämpäri mehua
+Bucket of slime;Ämpäri limaa
+Bucket of water;Ämpäri vettä
+Bucket of wax;Ämpäri vahaa
+Bucket of wester sand;Ämpäri lännen hiekkaa
+Builder's boots;Rakentajan saappaat
+Builder's shirt;Rakentajan paita
+Builder's trousers;Rakentajan housut
+Bulging sack;Pullistuva säkki
+Bulging taxbag;Pullistuva veropussi
+Bull roarer;Härän karjuja
+Bullet arrow;Luodin nuoli
+Bullseye lantern;Bullseye lyhty
+Bullseye lantern (empty);Bullseye-lyhty (tyhjä)
+Bullseye lantern (unf);Bullseye-lyhty (unf)
+Bunny ears;Pupun korvat
+Bunny feet;Pupun jalat
+Bunny legs;Pupun jalat
+Bunny paws;Pupun tassut
+Bunny top;Pupun toppi
+Bunnyman mask;Bunnyman naamio
+Buried alive;Haudattu elävältä
+Burning amulet(1);Polttava amuletti (1)
+Burning amulet(2);Polttava amuletti (2)
+Burning amulet(3);Polttava amuletti (3)
+Burning amulet(4);Polttava amuletti (4)
+Burning amulet(5);Polttava amuletti (5)
+Burnt anglerfish;Poltettu merikrotti
+Burnt bat;Poltettu lepakko
+Burnt batta;Poltettu batta
+Burnt beast meat;Poltettu pedon liha
+Burnt bird meat;Poltettu linnunliha
+Burnt bonemeal;Poltettu luujauho
+Burnt bones;Palaneet luut
+Burnt bread;Poltettu leipä
+Burnt cake;Poltettu kakku
+Burnt cave eel;Palanut luolankerias
+Burnt chicken;Poltettu kana
+Burnt chompy;Poltettu katkonainen
+Burnt crab meat;Poltettu rapu liha
+Burnt crunchies;Poltettuja rapuja
+Burnt curry;Poltettu curry
+Burnt dark crab;Poltettu tumma rapu
+Burnt diary;Poltettu päiväkirja
+Burnt eel;Poltettu ankerias
+Burnt egg;Poltettu muna
+Burnt fish;Poltettu kala
+Burnt fishcake;Poltettu kalakakku
+Burnt gnomebowl;Poltettu gnomebowl
+Burnt jogre bonemeal;Poltettu jogre luujauho
+Burnt jogre bones;Palaneet jogre luut
+Burnt jubbly;Poltettu murheellisesti
+Burnt karambwan;Poltettu karambwan
+Burnt lobster;Poltettu hummeri
+Burnt manta ray;Poltettu manta ray
+Burnt meat;Poltettu liha
+Burnt monkfish;Poltettu merikrotti
+Burnt mushroom;Poltettu sieni
+Burnt onion;Poltettu sipuli
+Burnt oomlie;Poltettu oomlie
+Burnt oomlie wrap;Poltettu oomlie-kääre
+Burnt page;Poltettu sivu
+Burnt pie;Poltettu piirakka
+Burnt pitta bread;Poltettu pitta leipä
+Burnt pizza;Poltettu pizza
+Burnt potato;Poltettu peruna
+Burnt rabbit;Poltettu kani
+Burnt rainbow fish;Poltettu sateenkaari kala
+Burnt sea turtle;Palanut merikilpikonna
+Burnt shark;Poltettu hai
+Burnt shrimp;Poltettu katkarapu
+Burnt snail;Palanut etana
+Burnt spider;Poltettu hämähäkki
+Burnt stew;Poltettu muhennos
+Burnt sweetcorn;Poltettu sokerimaissi
+Burnt swordfish;Poltettu miekkakala
+Bush;Bush
+Butterfly;Perhonen
+Butterfly jar;Butterfly jar
+Butterfly net;Perhosverkko
+Buttons;Painikkeet
+Byrne's coronation speech;Byrnen kruunajaispuhe
+Cabbage;Kaali
+Cabbage cape;Kaali viitta
+Cabbage round shield;Kaali pyöreä kilpi
+Cabbage rune;Kaali-riimu
+Cabbage seed;Kaalin siemen
+Cabbages(1);kaali (1)
+Cabbages(10);kaali (10)
+Cabbages(2);kaali (2)
+Cabbages(3);kaali (3)
+Cabbages(4);kaali (4)
+Cabbages(5);kaali (5)
+Cabbages(6);kaali (6)
+Cabbages(7);kaali (7)
+Cabbages(8);kaali (8)
+Cabbages(9);kaali (9)
+Cactus seed;Kaktuksen siemen
+Cactus spine;Kaktuksen selkä
+Cadantine;Cadantine
+Cadantine blood potion (unf);Cadantine verijuoma (unf)
+Cadantine potion (unf);Cadantine juoma (unf)
+Cadantine seed;Cadantine siemen
+Cadarn lineage;Cadarnin sukulinja
+Cadava berries;Cadavan marjat
+Cadava potion;Cadava juoma
+Cadavaberry seed;Cadavamarjan siemen
+Cake;Kakku
+Cake of guidance;Ohjauskakku
+Cake tin;Kakkuvuoka
+Calcite;Kalsiitti
+Callisto cub;Kalliston poikanen
+Calquat fruit;Calquat hedelmät
+Calquat keg;Calquat tynnyri
+Calquat sapling;Kalkvatin taimi
+Calquat seedling;Calquat taimi
+Calquat seedling (w);Kalkvatin taimi (w)
+Calquat tree seed;Calquat puun siemen
+Camel mask;Kamelin naamio
+Camel mould (p);Kamelimuotti (p)
+Camelot teleport;Camelot-teleportti
+Camo bottoms;Camo-pohjat
+Camo helmet;Camo kypärä
+Camo top;Camo toppi
+Camorra bust;Camorran rintakuva
+Camulet;Camulet
+Candle;Kynttilä
+Candle lantern;Kynttilän lyhty
+Candles;Kynttilät
+Candy cane;Karkkiruoko
+Canister;Kanisteri
+Cannon ball;Tykin pallo
+Cannon balls;Tykin kuulat
+Cannon barrel;Tykin piippu
+Cannon barrels;Tykin piipuja
+Cannon base;Tykin tukikohta
+Cannon furnace;Tykin uuni
+Cannon stand;Tykin teline
+Cannonball;Tykinkuula
+Canopic jar;Canopic purkki
+Cap and goggles;Lippalakki ja suojalasit
+Capacitor;Kondensaattori
+Cape hanger;Viittaripustin
+Cape of legends;Legendojen niemi
+Cape of skulls;Kallojen niemi
+Carnillean armour;Carnillean panssari
+Carol's print;Carolin printti
+Carpenter's boots;Puusepän saappaat
+Carpenter's helmet;Puusepän kypärä
+Carpenter's shirt;Puusepän paita
+Carpenter's trousers;Puusepän housut
+Carpet;Matto
+Carrallangar teleport;Carrallangar teleporttaa
+Carrot;Porkkana
+Carrot sword;Porkkanan miekka
+Carved gem;Veistetty helmi
+Carved oak bench;Veistetty tammipenkki
+Carved oak magic wardrobe;Veistetty tammi taikavaatekaappi
+Carved oak table;Veistetty tammipöytä
+Carved oak wardrobe;Veistetty tammi vaatekaappi
+Carved teak bench;Veistetty tiikkipenkki
+Carved teak magic wardrobe;Veistetty teak taikavaatekaappi
+Carved teak table;Veistetty tiikkipöytä
+Carved teak wardrobe;Veistetty teak vaatekaappi
+Casket;Ruumisarkku
+Casket (easy);Arkku (helppo)
+Casket (elite);Arkku (eliitti)
+Casket (hard);Arkku (kova)
+Casket (medium);Arkku (keskikokoinen)
+Castle sketch 1;Linnan luonnos 1
+Castle sketch 2;Linnan luonnos 2
+Castle sketch 3;Linnan luonnos 3
+Castle wars bracelet(1);Castle Wars -rannekoru (1)
+Castle wars bracelet(2);Castle Wars -rannekoru (2)
+Castle wars bracelet(3);Castle Wars -rannekoru (3)
+Castle wars ticket;Castle Wars -lippu
+Castlewars brew(1);Castlewars-olut (1)
+Castlewars brew(2);Castlewars-olut (2)
+Castlewars brew(3);Castlewars-olut (3)
+Castlewars brew(4);Castlewars-olut (4)
+Castlewars cloak;Castlewarsin viitta
+Castlewars hood;Castlewarsin huppu
+Castlewars manual;Castlewarsin käsikirja
+Cat antipoison;Kissan vastamyrkkyä
+Cat basket;Kissan kori
+Cat blanket;Kissan peitto
+Cat ears;Kissan korvat
+Cat mask;Kissan naamio
+Cat training medal;Kissan koulutusmitali
+Catalytic rune pack;Katalyyttinen riimupaketti
+Catfish;Monni
+Catherby teleport;Catherby teleporttaa
+Catspeak amulet;Catspeak amuletti
+Catspeak amulet(e);Catspeak-amuletti(e)
+Cattleprod;Cattleprod
+Cavalier mask;Cavalier naamio
+Cave crawler;Luola-indeksoija
+Cave eel;Luolan ankerias
+Cave goblin;Luolapeikko
+Cave goblin skull;Luolapeikon kallo
+Cave goblin wire;Luolapeikko lanka
+Cave horror;Luolan kauhu
+Cave kraken;Luola kraken
+Cave nightshade;Luola-yökirkko
+Cave worms;Luolamatoja
+Cavefish;Cavefish
+Cavern grubs;Cavern grubs
+Cavern key;Luolan avain
+Caviar;Kaviaari
+Celastrus bark;Celastrus-kuori
+Celastrus sapling;Celastrus taimi
+Celastrus seed;Celastrusin siemen
+Celastrus seedling;Celastrusin taimi
+Celastrus seedling (w);Celastrusin taimi (w)
+Celestial globe;Taivaallinen maapallo
+Celestial ring;Taivaallinen rengas
+Celestial ring (uncharged);Taivaallinen rengas (lataamaton)
+Celestial signet;Taivaallinen sinetti
+Celestial signet (uncharged);Taivaallinen sinetti (lataamaton)
+Cell door key;Solun oven avain
+Cell key 1;Soluavain 1
+Cell key 2;Soluavain 2
+Cemetery teleport;Hautausmaa teleporttaa
+Ceramic remains;Keramiikka jäännöksiä
+Certificate;Todistus
+Cerulean twitch;Cerulean nykiminen
+Chain;Ketju
+Challenge scroll (elite);Haasterulla (eliitti)
+Challenge scroll (hard);Haaste vieritys (kova)
+Challenge scroll (medium);Haasterulla (keskikokoinen)
+Champion's cape;Mestarin viitta
+Champion's lamp;Mestarin lamppu
+Champions token;Mestarien merkki
+Chaos core;Kaaoksen ydin
+Chaos elemental;Kaaos elementaali
+Chaos gauntlets;Kaaoksen käsineet
+Chaos rune;Kaaoksen riimu
+Chaos rune (nz);Kaaosriimu (nz)
+Chaos rune pack;Chaos-riimupaketti
+Chaos talisman;Chaos talisman
+Chaos tiara;Kaaos tiara
+Chaotic handegg;Kaoottinen käsivarsi
+Chapel;Kappeli
+Charcoal;Puuhiili
+Charge dragonstone jewellery scroll;Lataa lohikäärmekivikorurulla
+Charged onyx;Ladattu onyx
+Chart;Kartoittaa
+Cheese;Juusto
+Cheese+tom batta;Juusto + tom batta
+Chef's delight;Kokin iloksi
+Chef's delight(1);Kokin ilo (1)
+Chef's delight(2);Kokin ilo (2)
+Chef's delight(3);Kokin ilo (3)
+Chef's delight(4);Keittiömestarin ilo (4)
+Chef's delight(m);Kokin ilo (m)
+Chef's delight(m1);Keittiömestarin ilo (m1)
+Chef's delight(m2);Kokin herkku (m2)
+Chef's delight(m3);Kokin herkku (m3)
+Chef's delight(m4);Kokin herkku (m4)
+Chef's hat;Kokin hattu
+Chemical compound;Kemiallinen yhdiste
+Chemical powder;Kemiallinen jauhe
+Chest;Rintakehä
+Chest key;Rintakehän avain
+Chewed bones;Pureskeltu luut
+Chicken;Kana
+Chicken cage;Kana häkki
+Chicken feet;Kanan jalat
+Chicken head;Kanan pää
+Chicken legs;Kanan jalat
+Chicken wings;Kanan siivet
+Child's blanket;Lasten peitto
+Chilli con carne;Chili con carne
+Chilli potato;Chili peruna
+Chinchompa;Chinchompa
+Chisel;Taltta
+Choc saturday;Suklaa lauantai
+Choc-ice;Suklaa-jää
+Chocchip crunchies;Suklaa rapeat
+Chocolate bar;Suklaapatukka
+Chocolate bomb;Suklaapommi
+Chocolate cake;Suklaakakku
+Chocolate chunks;Suklaapaloja
+Chocolate dust;Suklaa pölyä
+Chocolate kebbit;Suklaa kebbit
+Chocolate slice;Suklaa siivu
+Chocolate strawberry;Suklaa mansikka
+Chocolatey milk;Suklaamainen maito
+Chompy bird hat;Pulloinen lintuhattu
+Chompy chick;Pulloinen poikanen
+Chopped garlic;Hienonnettu valkosipuli
+Chopped onion;Hienonnettu sipuli
+Chopped tomato;Hienonnettu tomaatti
+Chopped tuna;Hienonnettu tonnikala
+Chopped ugthanki;Hienonnettu ugthanki
+Chores;Askareita
+Christmas cracker;Joulun keksejä
+Chronicle;Kronikka
+Chunk of crystal;Pala kristallia
+Cicely;Saksankirveli
+Cider;Siideri
+Cider barrel;Siiderin tynnyri
+Cider(1);Siideri (1)
+Cider(2);Siideri (2)
+Cider(3);Siideri (3)
+Cider(4);Siideri (4)
+Cider(m1);Siideri (m1)
+Cider(m2);Siideri (m2)
+Cider(m3);Siideri (m3)
+Cider(m4);Siideri (m4)
+Cinnamon;Kaneli
+Circular hide;Pyöreä piilo
+Citizen shoes;Kansalaiskengät
+Citizen top;Kansalaishuippu
+Citizen trousers;Kansalaishousut
+Clan wars cape;Clan wars viitta
+Clay;Savi
+Clay attack stone;Savihyökkäyskivi
+Clay fireplace;Savitakka
+Clay head;Savipää
+Clean necklace;Puhdas kaulakoru
+Cleaning cloth;Puhdistusliina
+Clear liquid;Kirkas neste
+Cleaver;Lihakirves
+Climbing boots;Kiipeilysaappaat
+Climbing boots (g);Kiipeilysaappaat (g)
+Climbing rope;Kiipeilyköysi
+Clockwork;Kellokoneisto
+Clockwork book;Kellotyö kirja
+Clockwork suit;Kellotyöpuku
+Cloth-covered altar;Kankaalla päällystetty alttari
+Clown bow tie;Klovni rusetti
+Clown gown;Klovni mekko
+Clown mask;Klovni naamio
+Clown shoes;Klovni kengät
+Clown trousers;Klovni housut
+Clue bottle (beginner);Vihjepullo (aloittelija)
+Clue bottle (easy);Vihjepullo (helppo)
+Clue bottle (elite);Vihjepullo (eliitti)
+Clue bottle (hard);Vihjepullo (kova)
+Clue bottle (medium);Vihjepullo (keskikokoinen)
+Clue box;Vihjelaatikko
+Clue geode (beginner);Vihjegeodi (aloittelija)
+Clue geode (easy);Vihjegeodi (helppo)
+Clue geode (elite);Vihjegeodi (eliitti)
+Clue geode (hard);Vihjegeodi (kova)
+Clue geode (medium);Vihjegeodi (keskikokoinen)
+Clue hunter boots;Vihjeidenmetsästäjän saappaat
+Clue hunter cloak;Vihjeenmetsästäjän viitta
+Clue hunter garb;Vihjeenmetsästäjän puku
+Clue hunter gloves;Vihjeidenmetsästäjän käsineet
+Clue hunter trousers;Vihjeidenmetsästäjän housut
+Clue nest (beginner);Vihjepesä (aloittelija)
+Clue nest (easy);Vihjepesä (helppo)
+Clue nest (elite);Vihjepesä (eliitti)
+Clue nest (hard);Vihjepesä (kova)
+Clue nest (medium);Vihjepesä (keskikokoinen)
+Clue scroll;Vihje rullaa
+Clue scroll (beginner);Vihjerulla (aloittelija)
+Clue scroll (easy);Vihjeiden vieritys (helppo)
+Clue scroll (elite);Vihjerulla (eliitti)
+Clue scroll (hard);Vihjerulla (kova)
+Clue scroll (master);Vihjerulla (mestari)
+Clue scroll (medium);Vihjerulla (keskikokoinen)
+Clueless scroll;Tietämätön rulla
+Coal;Hiili
+Coal bag;Hiilipussi
+Coal fragment;Hiilen fragmentti
+Coated frogs' legs;Päällystetyt sammakon jalat
+Cockatrice;Cockatrice
+Cockatrice head;Cockatricen pää
+Cocktail glass;Cocktail lasi
+Cocktail guide;Cocktail-opas
+Cocktail shaker;Cocktail shaker
+Coconut;Kookos
+Coconut milk;Kookosmaito
+Coconut shell;Kookospähkinän kuori
+Cod;Turska
+Coffin;Arkku
+Cog;Cog
+Coif;Hilkka
+Coin pouch;Kolikkopussi
+Coins;Kolikot
+Collection bag;Keräyslaukku
+Collection log;Keräysloki
+Collector horn;Keräilijän torvi
+Collector icon;Keräilijäkuvake
+Colour wheel;Väripyörä
+Coloured ball;Värillinen pallo
+Combat bracelet;Taisteluranneke
+Combat bracelet(1);Taistelurannerengas (1)
+Combat bracelet(2);Taistelurannerengas (2)
+Combat bracelet(3);Taistelurannerengas (3)
+Combat bracelet(4);Taistelurannerengas (4)
+Combat bracelet(5);Taistelurannerengas (5)
+Combat bracelet(6);Taistelurannerengas (6)
+Combat damaged key;Taistele vaurioituneen avaimen kanssa
+Combat dummy;Taistelunukke
+Combat lamp;Taistelulamppu
+Combat mix(1);Taistelusekoitus (1)
+Combat mix(2);Taistelusekoitus (2)
+Combat path starter kit;Combat polun aloitussarja
+Combat path voucher;Taistelupolun kuponki
+Combat potion set;Taistelujuomasarja
+Combat potion(1);Taistelujuoma (1)
+Combat potion(2);Taistelujuoma(2)
+Combat potion(3);Taistelujuoma (3)
+Combat potion(4);Taistelujuoma (4)
+Combat ring;Taistelurengas
+Combat room;Taisteluhuone
+Combat scarred key;Combat arpinen avain
+Combat scratched key;Taistele naarmuuntunut avain
+Combination;Yhdistelmä
+Comfy mattress;Mukava patja
+Common kebbit fur;Tavallinen kebbit-turkki
+Common tench;Tavallinen suutari
+Commorb;Commorb
+Commorb v2;Commorb v2
+Community pumpkin;Yhteisön kurpitsa
+Comp ogre bow;Comp ogre jousi
+Compost;Komposti
+Compost bin;Kompostiastia
+Compost pack;Kompostipakkaus
+Compost potion(1);Kompostijuoma (1)
+Compost potion(2);Kompostijuoma (2)
+Compost potion(3);Kompostijuoma (3)
+Compost potion(4);Kompostijuoma (4)
+Conch shell;Kotiloisen kuori
+Conductor;Kapellimestari
+Conductor mould;Johtimen muotti
+Consecrated house;Vihitty talo
+Consecration seed;Vihkimisen siemen
+Construct. cape;Rakentaa. viitta
+Construct. cape(t);Rakentaa. viitta (t)
+Construct. hood;Rakentaa. huppu
+Construction guide;Rakennusopas
+Cooked chicken;Keitetty kana
+Cooked chompy;Kypsennettynä kypsäksi
+Cooked crab meat;Keitetty rapuliha
+Cooked fishcake;Keitetty kalakakku
+Cooked jubbly;Kypsennettynä kypsäksi
+Cooked karambwan;Keitetty karambwan
+Cooked meat;Keitetty liha
+Cooked mystery meat;Kypsennetty mysteeriliha
+Cooked oomlie wrap;Keitetty oomlie-kääre
+Cooked rabbit;Keitetty kani
+Cooked slimy eel;Keitetty limainen ankerias
+Cooked sweetcorn;Keitetty sokerimaissi
+Cooking apple;Ruokaomena
+Cooking cape;Keitto viitta
+Cooking cape(t);Keittoviitta (t)
+Cooking gauntlets;Keittokäsineet
+Cooking hood;Liesituuletin
+Cooking pot;Keittoastia
+Copper longtail;Kupari pitkähäntä
+Copper ore;Kuparimalmi
+Copper's crimson collar;Kuparin karmiininpunainen kaulus
+Cormorant's glove;Merimetson hansikas
+Cornflour;Maissijauho
+Cornflour mixture;Maissijauhoseos
+Corpse of woman;Naisen ruumis
+Corrupted axe;Vioittunut kirves
+Corrupted body (attuned);Vioittunut ruumis (viritetty)
+Corrupted body (basic);Vioittunut runko (perus)
+Corrupted body (perfected);Vioittunut vartalo (täydellinen)
+Corrupted bow (attuned);Vioittunut jousi (viritetty)
+Corrupted bow (basic);Vioittunut jousi (perus)
+Corrupted bow (perfected);Vioittunut jousi (täydellinen)
+Corrupted bowstring;Vioittunut jousinauha
+Corrupted dust;Vioittunut pöly
+Corrupted halberd (attuned);Vioittunut halbardi (viritetty)
+Corrupted halberd (basic);Vioittunut alabardi (perus)
+Corrupted halberd (perfected);Vioittunut alabardi (täydellinen)
+Corrupted harpoon;Vioittunut harppuuna
+Corrupted helm;Vioittunut ruori
+Corrupted helm (attuned);Vioittunut ruori (viritetty)
+Corrupted helm (basic);Vioittunut ruori (perus)
+Corrupted helm (perfected);Vioittunut ruori (täydellinen)
+Corrupted kiteshield;Vioittunut leijakilpi
+Corrupted legs (attuned);Vioittuneet jalat (viritetty)
+Corrupted legs (basic);Vioittuneet jalat (perus)
+Corrupted legs (perfected);Vioittuneet jalat (täydelliset)
+Corrupted orb;Korruptoitunut pallo
+Corrupted ore;Korruptoitunut malmi
+Corrupted pickaxe;Vioittunut hakku
+Corrupted platebody;Vioittunut levyrunko
+Corrupted platelegs;Vioittuneet levyjalat
+Corrupted plateskirt;Vioittunut levyhame
+Corrupted sceptre;Vioittunut valtikka
+Corrupted shards;Vioittuneet sirpaleet
+Corrupted spike;Vioittunut piikki
+Corrupted staff (attuned);Korruptoitunut henkilökunta (viritetty)
+Corrupted staff (basic);Korruptoitunut henkilökunta (perus)
+Corrupted staff (perfected);Vioittunut henkilökunta (täydellinen)
+Corrupted teleport crystal;Vioittunut teleporttikide
+Corrupted youngllef;Korruptoitunut nuori
+Cosmic rune;Kosminen riimu
+Cosmic talisman;Kosminen talisman
+Cosmic tiara;Kosminen tiara
+Costume room;Pukuhuone
+Cow gloves;Lehmän käsineet
+Cow mask;Lehmän naamio
+Cow shoes;Lehmän kengät
+Cow top;Lehmän toppi
+Cow trousers;Lehmän housut
+Cowbells;Lehmänkellot
+Cowhide;Lehmännahka
+Crab claw;Rapu kynsi
+Crab helmet;Rapu kypärä
+Crab meat;Rapun liha
+Crabclaw hook;Rapukynsien koukku
+Cracked sample;Murtunut näyte
+Crackers;Keksit
+Crafting cape;Askartelu viitta
+Crafting cape(t);Askarteluviitta (t)
+Crafting hood;Askartelu huppu
+Crafting manual;Käsityön käsikirja
+Crafting table 1;Askartelupöytä 1
+Crafting table 2;Askartelupöytä 2
+Crafting table 3;Askartelupöytä 3
+Crafting table 4;Askartelupöytä 4
+Crandor map;Crandor kartta
+Crane claw;Nosturin kynsi
+Crane schematic;Nosturin kaavio
+Cranial clamp;Kraniaalinen puristin
+Crate;Häkki
+Crate part;Laatikon osa
+Crate with zanik;Laati zanikilla
+Craw's bow;Craw'n jousi
+Craw's bow (u);Craw'n jousi (u)
+Crawling hand;Ryömivä käsi
+Crazed scribbles;Hulluja kirjoituksia
+Cream boots;Kermanväriset saappaat
+Cream hat;Kermanvärinen hattu
+Cream robe bottoms;Kermanväriset kylpytakit
+Cream robe top;Kermanvärinen kaapullinen toppi
+Creature keeper's journal;Olentojen vartijan päiväkirja
+Crest part;Harjan osa
+Crier bell;Huudon kello
+Crier coat;Crier takki
+Crier hat;Crier hattu
+Criminal's dagger;Rikollisen tikari
+Criminal's thread;Rikollisen lanka
+Crimson swift;Crimson Swift
+Crone-made amulet;Crone-valmistettu amuletti
+Crossbow;Varsijousi
+Crossbow string;Varsijousinauha
+Cruciferous codex;Ristikukkainen koodeksi
+Crude carving;Karkea kaiverrus
+Crude chair;Karkea tuoli
+Crude wooden chair;Raaka puinen tuoli
+Cruder carving;Karkeampi kaiverrus
+Crumbling tome;Murtuva kirja
+Crumpled scroll;Rypistynyt rulla
+Crunchy chocolate mix;Rapea suklaaseos
+Crunchy easter egg;Rapea pääsiäismuna
+Crunchy tray;Rapea tarjotin
+Crushed gem;Murskattu helmi
+Crushed nest;Murskattu pesä
+Crushed superior dragon bones;Murskatut ylivoimaiset lohikäärmeen luut
+Crystal;Kristalli
+Crystal acorn;Kristalli tammenterho
+Crystal armour seed;Crystal armor siemen
+Crystal axe;Kristallikirves
+Crystal axe (inactive);Kristallikirves (ei aktiivinen)
+Crystal ball;Kristallipallo
+Crystal body;Kristallirunko
+Crystal body (attuned);Kristallirunko (viritetty)
+Crystal body (basic);Kristallirunko (perus)
+Crystal body (beta);Kristallirunko (beta)
+Crystal body (inactive);Kristallirunko (ei-aktiivinen)
+Crystal body (perfected);Kristallirunko (täydellinen)
+Crystal bow;Kristalli jousi
+Crystal bow (attuned);Kristallijousi (viritetty)
+Crystal bow (basic);Kristallijousi (perus)
+Crystal bow (inactive);Kristallijousi (ei aktiivinen)
+Crystal bow (perfected);Kristallijousi (täydellinen)
+Crystal bow 1/10;Kristallijousi 1/10
+Crystal bow 1/10 (i);Kristallijousi 1/10 (i)
+Crystal bow 2/10;Kristallijousi 2/10
+Crystal bow 2/10 (i);Kristallijousi 2/10 (i)
+Crystal bow 3/10;Kristallijousi 3/10
+Crystal bow 3/10 (i);Kristallijousi 3/10 (i)
+Crystal bow 4/10;Kristallijousi 4/10
+Crystal bow 4/10 (i);Kristallijousi 4/10 (i)
+Crystal bow 5/10;Kristallijousi 5/10
+Crystal bow 5/10 (i);Kristallijousi 5/10 (i)
+Crystal bow 6/10;Kristallijousi 6/10
+Crystal bow 6/10 (i);Kristallijousi 6/10 (i)
+Crystal bow 7/10;Kristallijousi 7/10
+Crystal bow 7/10 (i);Kristallijousi 7/10 (i)
+Crystal bow 8/10;Kristallijousi 8/10
+Crystal bow 8/10 (i);Kristallijousi 8/10 (i)
+Crystal bow 9/10;Kristallijousi 9/10
+Crystal bow 9/10 (i);Kristallijousi 9/10 (i)
+Crystal bow full;Kristallijousi täynnä
+Crystal bow full (i);Kristallijousi täynnä (i)
+Crystal crown;Kristallikruunu
+Crystal dust;Kristalli pöly
+Crystal grail;Crystal Graal
+Crystal halberd;Kristallinen alabardi
+Crystal halberd (attuned);Kristallitallebardi (viritetty)
+Crystal halberd (basic);Kristallitallebardi (perus)
+Crystal halberd (inactive);Kristallihalbardi (ei aktiivinen)
+Crystal halberd (perfected);Kristallihalabardi (täydellinen)
+Crystal halberd 1/10;Kristallihalabardi 1/10
+Crystal halberd 1/10 (i);Kristallihalabardi 1/10 (i)
+Crystal halberd 2/10;Kristallihalabardi 2/10
+Crystal halberd 2/10 (i);Kristallitallebardi 2/10 (i)
+Crystal halberd 3/10;Kristallihalabardi 3/10
+Crystal halberd 3/10 (i);Kristallitallebardi 3/10 (i)
+Crystal halberd 4/10;Kristallihalabardi 4/10
+Crystal halberd 4/10 (i);Kristallitallebardi 4/10 (i)
+Crystal halberd 5/10;Kristallihalabardi 5/10
+Crystal halberd 5/10 (i);Kristallitallebardi 5/10 (i)
+Crystal halberd 6/10;Kristallihalabardi 6/10
+Crystal halberd 6/10 (i);Kristallitallebardi 6/10 (i)
+Crystal halberd 7/10;Kristallihalabardi 7/10
+Crystal halberd 7/10 (i);Kristallitallebardi 7/10 (i)
+Crystal halberd 8/10;Kristallihalabardi 8/10
+Crystal halberd 8/10 (i);Kristallitallebardi 8/10 (i)
+Crystal halberd 9/10;Kristallihalabardi 9/10
+Crystal halberd 9/10 (i);Kristallitallebardi 9/10 (i)
+Crystal halberd full;Crystal alabardi täynnä
+Crystal halberd full (i);Kristallihalabardi täynnä (i)
+Crystal harpoon;Kristalliharppuuna
+Crystal harpoon (inactive);Kristalliharppuuna (ei aktiivinen)
+Crystal helm;Kristalli ruori
+Crystal helm (attuned);Kristalliruori (viritetty)
+Crystal helm (basic);Kristalli ruori (perus)
+Crystal helm (beta);Crystal helm (beta)
+Crystal helm (inactive);Crystal Helm (ei aktiivinen)
+Crystal helm (perfected);Crystal helm (täydellinen)
+Crystal impling jar;Crystal Impling jar
+Crystal key;Kristalli avain
+Crystal legs;Kristalliset jalat
+Crystal legs (attuned);Kristallijalat (viritetty)
+Crystal legs (basic);Kristallijalat (perus)
+Crystal legs (beta);Kristallijalat (beta)
+Crystal legs (inactive);Kristallijalat (ei aktiiviset)
+Crystal legs (perfected);Kristallijalat (täydelliset)
+Crystal of amlodd;Amloddin kristalli
+Crystal of cadarn;Cadarnin kristalli
+Crystal of crwys;Crwysin kristalli
+Crystal of hefin;Hefinin kristalli
+Crystal of iorwerth;Iorwerthin kristalli
+Crystal of ithell;Helvetin kristalli
+Crystal of meilyr;meilyrin kristalli
+Crystal of memories;Muistojen kristalli
+Crystal of power;Voiman kristalli
+Crystal of trahaearn;Trahaearnin kristalli
+Crystal orb;Kristallipallo
+Crystal ore;Kristallimalmi
+Crystal pendant;Kristalliriipus
+Crystal pickaxe;Kristallihakku
+Crystal pickaxe (inactive);Kristallihakku (ei aktiivinen)
+Crystal sapling;Kristalli taimi
+Crystal saw;Kristallisaha
+Crystal saw seed;Kristallisahan siemen
+Crystal sceptre;Kristallivaltikka
+Crystal seed;Kristallin siemen
+Crystal seedling;Kristallitaimi
+Crystal seedling (w);Kristallitaimi (w)
+Crystal shard;Kristallin sirpale
+Crystal shards;Kristallin sirpaleita
+Crystal shield;Kristalli suoja
+Crystal shield (inactive);Kristallikilpi (ei aktiivinen)
+Crystal shield 1/10;Kristallikilpi 1/10
+Crystal shield 1/10 (i);Kristallikilpi 1/10 (i)
+Crystal shield 2/10;Kristallikilpi 2/10
+Crystal shield 2/10 (i);Kristallikilpi 2/10 (i)
+Crystal shield 3/10;Kristallikilpi 3/10
+Crystal shield 3/10 (i);Kristallikilpi 3/10 (i)
+Crystal shield 4/10;Kristallikilpi 4/10
+Crystal shield 4/10 (i);Kristallikilpi 4/10 (i)
+Crystal shield 5/10;Kristallikilpi 5/10
+Crystal shield 5/10 (i);Kristallikilpi 5/10 (i)
+Crystal shield 6/10;Kristallikilpi 6/10
+Crystal shield 6/10 (i);Kristallikilpi 6/10 (i)
+Crystal shield 7/10;Kristallikilpi 7/10
+Crystal shield 7/10 (i);Kristallikilpi 7/10 (i)
+Crystal shield 8/10;Kristallikilpi 8/10
+Crystal shield 8/10 (i);Kristallikilpi 8/10 (i)
+Crystal shield 9/10;Kristallikilpi 9/10
+Crystal shield 9/10 (i);Kristallikilpi 9/10 (i)
+Crystal shield full;Kristallikilpi täynnä
+Crystal shield full (i);Kristallikilpi täynnä (i)
+Crystal singing for beginners;Kristallilaulua aloittelijoille
+Crystal spike;Crystal piikki
+Crystal staff (attuned);Crystal henkilökunta (viritetty)
+Crystal staff (basic);Crystal henkilökunta (perus)
+Crystal staff (perfected);Crystal henkilökunta (täydellinen)
+Crystal teleport seed;Kristalliteleportti siemen
+Crystal throne;Kristallivaltaistuin
+Crystal tool seed;Kristallityökalun siemen
+Crystal trinket;Kristallikoristeita
+Crystal weapon seed;Kristalli-ase siemen
+Crystal-mine key;Crystal-mine avain
+Crystalline bowstring;Kristallinen jousinauha
+Crystalline portal nexus;Crystalline Portal Nexus
+Crystallised harpoonfish;Kiteytynyt harppuunakala
+Cube;Kuutio
+Cup of hot water;Kuppi kuumaa vettä
+Cup of tea;Kuppi teetä
+Cup of water;Kuppi vettä
+Cupric ore powder;Kuparimalmijauhe
+Cupric sulfate;Kuparisulfaatti
+Curator's medallion;Kuraattorin medaljonki
+Cured yak-hide;Kovettunut jakinnahka
+Curry;Curry
+Curry leaf;Curry lehtiä
+Curry sapling;Curryn taimi
+Curry seedling;Curryn taimi
+Curry seedling (w);currytaimi (w)
+Curry tree seed;Currypuun siemen
+Cursed banana;Kirottu banaani
+Cursed goblin bow;Kirottu peikko jousi
+Cursed goblin hammer;Kirottu peikkovasara
+Cursed goblin staff;Kirottu peikko henkilökunta
+Curtains;Verhot
+Curved bone;Kaareva luu
+Cushioned basket;Pehmustettu kori
+Custom bow string;Mukautettu jousinauha
+Cutthroat flag;Leikkaava lippu
+Cw armour 1;Cw-panssari 1
+Cw armour 2;Cw panssari 2
+Cw armour 3;Cw-panssari 3
+Cyan crystal;Syaani kristalli
+Cyclops head;Kykloopin pää
+Cylinder;Sylinteri
+Cyrisus's chest;Cyrisuksen rintakehä
+Daconia rock;Daconia rock
+Daeyalt essence;Daeyalt-esanssi
+Daeyalt ore;Daeyalt-malmi
+Daeyalt shard;Daeyaltin sirpale
+Daffodils;Narsissit
+Dagannoth;Dagannoth
+Dagannoth bones;Dagannothin luut
+Dagannoth hide;Dagannoth piiloutua
+Dagannoth ribs;Dagannothin kylkiluut
+Dagannoth-king bonemeal;Dagannoth-kuningas luujauho
+Dagon'hai hat;Dagon'hai hattu
+Dagon'hai history;Dagon'hain historia
+Dagon'hai robe bottom;Dagon'hai kaapullinen alaosa
+Dagon'hai robe top;Dagon'hai kaapullinen toppi
+Dagon'hai robes set;Dagon'hai kaapusarja
+Damaged armour;Vaurioitunut panssari
+Damaged book;Vaurioitunut kirja
+Damaged dagger;Vioittunut tikari
+Damaged monkey tail;Vaurioitunut apinan häntä
+Damaged soul bearer;Vaurioitunut sielun kantaja
+Damp egg;Kostea muna
+Damp planks;Kosteat lankut
+Damp sticks;Kosteat tikut
+Damp tinderbox;Kostea tinderbox
+Dareeyak teleport;Dareeyak teleporttaa
+Dark acorn;Tumma tammenterho
+Dark altar;Tumma alttari
+Dark beast;Tumma peto
+Dark bow;Tumma rusetti
+Dark bow tie;Tumma rusetti
+Dark cavalier;Tumma kavalieri
+Dark claw;Tumma kynsi
+Dark crab;Tumma rapu
+Dark dagger;Tumma tikari
+Dark dye;Tumma väriaine
+Dark essence block;Dark essence -lohko
+Dark essence fragments;Tumman olemuksen fragmentteja
+Dark fishing bait;Tumma kalastussyötti
+Dark flippers;Tummat räpylät
+Dark infinity bottoms;Tummat äärettömät pohjat
+Dark infinity colour kit;Tumma infinity värisarja
+Dark infinity hat;Tumma infinity-hattu
+Dark infinity top;Tumma ääretön toppi
+Dark journal;Tumma päiväkirja
+Dark kebbit fur;Tumma kebbit-turkki
+Dark key;Tumma avain
+Dark manuscript;Tumma käsikirjoitus
+Dark relic;Tumma jäänne
+Dark squirrel;Tumma orava
+Dark totem;Tumma toteemi
+Dark totem base;Tumma toteemipohja
+Dark totem middle;Tumma toteemi keskellä
+Dark totem top;Tumma toteemipaita
+Dark trousers;Tummat housut
+Dark tuxedo cuffs;Tummat smokkihihansuut
+Dark tuxedo jacket;Tumma smokkitakki
+Dark tuxedo shoes;Tummat smokkikengät
+Darklight;Darklight
+Dart;Tikka
+Dartboard;Tikkataulu
+Dashing kebbit fur;Reipas kebbit-turkki
+David's print;Davidin printti
+Dawnbringer;Aamunkoiton tuoja
+Dead orb;Kuollut pallo
+Dead sea slug;Kuolleenmeren etana
+Deadman starter pack;Deadman aloituspaketti
+Deadman teleport tablet;Deadman teleport tabletti
+Deadman's cape;Deadmanin viitta
+Deadman's chest;Deadmanin rintakehä
+Deadman's legs;Deadmanin jalat
+Death note;Kuolinsanoma
+Death rune;Kuoleman riimu
+Death rune (nz);Kuoleman riimu (nz)
+Death talisman;Kuoleman talisman
+Death tiara;Kuoleman tiara
+Death's coffer;Kuoleman kakku
+Decapitated head;Leikattu pää
+Deconstructed onyx;Dekonstruoitu onyx
+Decorative armour;Koristeellinen panssari
+Decorative armour (broken);Koristeellinen panssari (rikki)
+Decorative armour (l);Koristeellinen panssari (l)
+Decorative blood;Koristeellinen veri
+Decorative boots;Koristeelliset saappaat
+Decorative boots (broken);Koristeelliset saappaat (rikki)
+Decorative boots (l);Koristeelliset saappaat (l)
+Decorative emblem;Koristeellinen tunnus
+Decorative full helm;Koristeellinen täysruori
+Decorative full helm (broken);Koristeellinen täysruori (rikki)
+Decorative full helm (l);Koristeellinen täysruori (l)
+Decorative helm;Koristeellinen ruori
+Decorative helm (broken);Koristeellinen ruori (rikki)
+Decorative helm (l);Koristeellinen ruori (l)
+Decorative pipe;Koristeellinen putki
+Decorative rock;Koristeellinen rock
+Decorative shield;Koristeellinen suoja
+Decorative shield (broken);Koristekilpi (rikki)
+Decorative shield (l);Koristekilpi (l)
+Decorative sword;Koristeellinen miekka
+Decorative sword (broken);Koristemiekka (rikki)
+Decorative sword (l);Koristeellinen miekka (l)
+Decorative window;Koristeellinen ikkuna
+Deed;Teko
+Deep blue sweets;Syvän sinisiä makeisia
+Deerstalker;Metsästäjänhattu
+Defence cape;Puolustusviitta
+Defence cape(t);Puolustusviitta (t)
+Defence hood;Puolustushuppu
+Defence mix(1);Puolustusyhdistelmä (1)
+Defence mix(2);Puolustusyhdistelmä (2)
+Defence potion(1);Puolustusjuoma(1)
+Defence potion(2);Puolustusjuoma(2)
+Defence potion(3);Puolustusjuoma(3)
+Defence potion(4);Puolustusjuoma(4)
+Defender horn;Puolustajatorvi
+Defender icon;Defender-kuvake
+Defensive shield;Puolustava kilpi
+Delphinium seed;Delphinium siemenet
+Demon;Demoni
+Demon feet;Demonin jalat
+Demon lectern;Demoni puhuja
+Demon's heart;Demonin sydän
+Demonic sigil;Demoninen merkki
+Demonic sigil mould;Demoninen sigil-muotti
+Demonic throne;Demoninen valtaistuin
+Demonic tome;Demoninen teos
+Dense essence block;Tiheä olemuslohko
+Desecrated house;Hävitetty talo
+Desert amulet;Aavikon amuletti
+Desert amulet 1;Aavikon amuletti 1
+Desert amulet 2;Aavikon amuletti 2
+Desert amulet 3;Aavikon amuletti 3
+Desert amulet 4;Aavikon amuletti 4
+Desert boots;Aavikon saappaat

@@ -105,3 +105,156 @@ Open Store;Abrir tienda
 Deposit;Depósito
 Loot;Botín
 Destroy;Destruir
+Music Player;Reproductor de música
+Chop down;Tronchar
+Inventory;Inventario
+Useful links;Enlaces útiles
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Comercio:</col> Mostrar ninguno
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Intercambiar:</col> Mostrar amigos
+Community;Comunidad
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Mostrar ninguno
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Canal:</col> Mostrar ninguno
+Display;Mostrar
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privado:</col> Mostrar amigos
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Establecer modo de chat:</col> Clan (/@c)
+Switch tab;Cambiar pestaña
+Report game bug;Informar error del juego
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privado:</col> Borrar historial
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Canal:</col> Mostrar todo
+Configure filter;Configurar filtro
+Emotes;Emoticones
+Account;Cuenta
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Público:</col> Mostrar chat automático
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Borrar historial
+Report abuse;Informar abuso
+<col=ffff00>Public:</col> Show none;<col=ffff00>Público:</col> No mostrar ninguno
+Ignore List;Lista de ignorados
+<col=00ff00>Filter public chat</col>;<col=00ff00>Filtrar chat público</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Juego:</col> Filtro
+<col=00afff>Setup your autochat</col>;<col=00afff>Configura tu chat automático</col>
+Take;Llevar
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privado:</col> Mostrar ninguno
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Comercio:</col> Mostrar todo
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Mostrar amigos
+Account Management;Gestión de cuentas
+Chat-channel;canal de chat
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Público:</col> Borrar historial
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Mostrar todo
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Canal:</col> Mostrar amigos
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privado:</col> Mostrar todo
+Logout;Cerrar sesión
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Establecer modo de chat:</col> Clan invitado (/@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Canal:</col> Borrar historial
+Friends List;Lista de amigos
+World Switcher;Cambiador de mundos
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Público:</col> Mostrar estándar
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Establecer modo de chat:</col> Canal (/@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Establecer modo de chat:</col> Público (/@p)
+Controls;Controles
+<col=ffff00>Public:</col> Hide;<col=ffff00>Público:</col> Ocultar
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Público:</col> Mostrar amigos
+Close;Cerca
+Show on Map;Mostrar en el mapa
+Outside;Afuera
+Yanille;yanille
+Warnings;Advertencias
+Seers';Videntes
+Enable warning;Habilitar advertencia
+Animation;Animación
+Open <col=ff9040>Fremennik Journal</col>;Abra <col=ff9040>Diario Fremennik</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Diario de Lumbridge & Draynor</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Diario de Kourend y Kebos</col>
+Open <col=ff9040>Karamja Journal</col>;Abra <col=ff9040>Diario Karamja</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Abrir <col=ff9040>Revista de Lumbridge & Draynor</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Diario Falador</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Diario Fremennik</col>
+Open <col=ff9040>Kandarin Journal</col>;Abra <col=ff9040>Diario Kandarin</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Diario Karamja</col>
+Open <col=ff9040>Falador Journal</col>;Abrir <col=ff9040>Diario Falador</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Abrir <col=ff9040>Diario de Kourend & Kebos</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Diario Kandarin</col>
+Bond Pouch;Bolsa de bonos
+DPS;DPS
+Search;Buscar
+Learn More;Más información
+Open;Abierto
+Pick;Elegir
+Join Castle Wars;Únete a Castle Wars
+Attack;Ataque
+Climb-down;Bajar
+Travel;Viajar
+Rest;Descansar
+Build;Construir
+Check;Controlar
+Tend-to;tender a
+Add friend;Agregar amigo
+Add ignore;Agregar ignorar
+Enter-guest;Ingresar-invitado
+Climb-up;Subir
+Enter;Ingresar
+Enter-member;Entrar-miembro
+Items;Elementos
+Knock-at;golpe
+Smith;Herrero
+Pet;Mascota
+Shoo-away;ahuyentar
+Continue;Continuar
+Trade;Comercio
+Create <col=ff9040>Sell</col> offer;Crear oferta de <col=ff9040>Venta</col>
+Favourite;Favorito
+Switch;Cambiar
+2;2 
+Create <col=ff9040>Buy</col> offer;Crear oferta de <col=ff9040>Comprar</col>
+1;1 
+Clear;Claro
+-5%;-5%
+Collect to inventory;Recoger al inventario
++5%;+5%
+Modify offer;Modificar oferta
+Confirm;Confirmar
+Abort offer;Cancelar oferta
+View offer;Ver oferta
+Collect to bank;Recoger al banco
+Enter price;Introduce el precio
+Customise;Personalizar
+Guide price;Precio orientativo
+All;Todo
+Enter quantity;Introduce la cantidad
++1;+1
+Offer;Oferta
+Buy: 1 x Nature rune;Comprar: 1 x Runa de la naturaleza
+Buy-offer;oferta de compra
+Chop-down;talar
+Look North;Mirar al norte
+Look South;mirar hacia el sur
+Look East;mirar hacia el este
+Look West;Mirar al oeste
+Hide;Esconder
+Cook;Cocinar
+Refresh;Refrescar
+Message;Mensaje
+Delete;Borrar
+Add Friend;Agregar amigo
+Delete Friend;Eliminar amigo
+Find;Encontrar
+Toggle Run;Alternar ejecutar
+Open subsection;Subsección abierta
+Pickpocket;Carterista
+Claim-staves;bastones de reclamo
+Rake;Rastrillo
+3;3 
+Inspect;Inspeccionar
+Toggle unlock message;Alternar mensaje de desbloqueo
+Select <col=ff981f>Chat;Seleccione <col=ff981f>Chatear
+Mute;Silenciar
+All Settings;Todas las configuraciones
+Select <col=ff981f>Activities;Seleccione <col=ff981f>Actividades
+Select <col=ff981f>Gameplay;Selecciona <col=ff981f>Jugabilidad
+Select <col=ff981f>Audio;Seleccione <col=ff981f>Audio
+Select <col=ff981f>Display;Seleccione <col=ff981f>Mostrar
+Select <col=ff981f>Warnings;Seleccione <col=ff981f>Advertencias
+View-journal;Ver diario
+Stats;Estadísticas
+Rummage;Hurgar
+Switch View;Cambiar vista
