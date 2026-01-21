@@ -105,3 +105,185 @@ Open Store;Öppna butik
 Deposit;Deposition
 Loot;Plundra
 Destroy;Förstöra
+Music Player;Musikspelare
+Chop down;Hacka ner
+Inventory;Lager
+Useful links;Användbara länkar
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Visa inga
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Handel:</col> Visa vänner
+Community;Gemenskap
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Klan:</col> Visa ingen
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanal:</col> Visa ingen
+Display;Visa
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privat:</col> Visa vänner
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Ställ in chattläge:</col> Klan (/@c)
+Switch tab;Byt flik
+Report game bug;Rapportera spelfel
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privat:</col> Rensa historik
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanal:</col> Visa alla
+Configure filter;Konfigurera filter
+Emotes;Känslor
+Account;Konto
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Offentlig:</col> Visa autochatt
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Klan:</col> Rensa historik
+Report abuse;Anmäl missbruk
+<col=ffff00>Public:</col> Show none;<col=ffff00>Offentlig:</col> Visa inga
+Ignore List;Ignorera listan
+<col=00ff00>Filter public chat</col>;<col=00ff00>Filtrera offentlig chatt</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filtrera
+<col=00afff>Setup your autochat</col>;<col=00afff>Ställ in din autochatt</col>
+Take;Ta
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privat:</col> Visa inga
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Visa alla
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klan:</col> Visa vänner
+Account Management;Kontohantering
+Chat-channel;Chatt-kanal
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Offentlig:</col> Rensa historik
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Klan:</col> Visa alla
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanal:</col> Visa vänner
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privat:</col> Visa alla
+Logout;Utloggning
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Ställ in chattläge:</col> Gästklan (/@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanal:</col> Rensa historik
+Friends List;Vänner lista
+World Switcher;World Switcher
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Offentlig:</col> Visa standard
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Ställ in chattläge:</col> Kanal (/@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Ställ in chattläge:</col> Offentlig (/@p)
+Controls;Kontroller
+<col=ffff00>Public:</col> Hide;<col=ffff00>Offentlig:</col> Dölj
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Offentlig:</col> Visa vänner
+Close;Nära
+Show on Map;Visa på kartan
+Outside;Utanför
+Warnings;Varningar
+Seers';seers
+Enable warning;Aktivera varning
+Animation;Animation
+Open <col=ff9040>Fremennik Journal</col>;Öppna <col=ff9040>Fremennik Journal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Öppna <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Öppna <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador Journal</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
+Open <col=ff9040>Kandarin Journal</col>;Öppna <col=ff9040>Kandarin Journal</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Falador Journal</col>;Öppna <col=ff9040>Falador Journal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Öppna <col=ff9040>Kourend & Kebos Journal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin Journal</col>
+Bond Pouch;Bondpåse
+DPS;DPS
+Search;Söka
+Learn More;Läs mer
+Open;Öppna
+Pick;Plocka
+Join Castle Wars;Gå med i Castle Wars
+Attack;Attack
+Climb-down;Klättra ner
+Travel;Resa
+Rest;Vila
+Build;Bygga
+Check;Kontrollera
+Tend-to;Ted-to
+Add friend;Lägg till vän
+Add ignore;Lägg till ignorera
+Enter-guest;Ange-gäst
+Climb-up;Klättra upp
+Enter;Skriva in
+Enter-member;Enter-medlem
+Items;Föremål
+Knock-at;Knacka på
+Smith;Smed
+Pet;Sällskapsdjur
+Shoo-away;Shoo-away
+Continue;Fortsätta
+Trade;Handel
+Create <col=ff9040>Sell</col> offer;Skapa ett <col=ff9040>Sälj</col>-erbjudande
+Favourite;Favorit
+Switch;Växla
+2;2 
+Create <col=ff9040>Buy</col> offer;Skapa ett <col=ff9040>Köp</col>-erbjudande
+1;1 
+Clear;Rensa
+-5%;-5 %
+Collect to inventory;Samla till inventering
++5%;+5 %
+Modify offer;Ändra erbjudandet
+Confirm;Bekräfta
+Abort offer;Avbryt erbjudande
+View offer;Se erbjudandet
+Collect to bank;Hämta till bank
+Enter price;Ange pris
+Customise;Anpassa
+Guide price;Vägledande pris
+All;Alla
+Enter quantity;Ange kvantitet
++1;+1
+Offer;Erbjuda
+Buy: 1 x Nature rune;Köp: 1 x Naturruna
+Buy-offer;Köp-erbjudande
+Chop-down;Kapa ner
+Look North;Titta norrut
+Look South;Titta söderut
+Look East;Se österut
+Look West;Se västerut
+Hide;Dölja
+Cook;Laga mat
+Refresh;Uppdatera
+Message;Meddelande
+Delete;Radera
+Add Friend;Lägg till vän
+Delete Friend;Ta bort vän
+Find;Hitta
+Toggle Run;Växla Kör
+Open subsection;Öppna underavdelning
+Pickpocket;Ficktjuv
+Claim-staves;Anspråksstavar
+Rake;Räfsa
+3;3 
+Inspect;Inspektera
+Toggle unlock message;Växla upplåsningsmeddelande
+Select <col=ff981f>Chat;Välj <col=ff981f>Chatt
+Mute;Stum
+All Settings;Alla inställningar
+Select <col=ff981f>Activities;Välj <col=ff981f>Aktiviteter
+Select <col=ff981f>Gameplay;Välj <col=ff981f>Spelspel
+Select <col=ff981f>Audio;Välj <col=ff981f>Ljud
+Select <col=ff981f>Display;Välj <col=ff981f>Visa
+Select <col=ff981f>Warnings;Välj <col=ff981f>Varningar
+View-journal;Visa-journal
+Stats;Statistik
+Rummage;Letande
+Switch View;Byt vy
+Guide;Guide
+View tab;Visa fliken
+Collapse tab;Komprimera fliken
+Withdraw-X;Dra tillbaka-X
+Withdraw-10000;Uttag-10000
+Withdraw-10;Uttag-10
+Withdraw-All;Dra tillbaka-Alla
+Remove placeholders;Ta bort platshållare
+Withdraw-5;Uttag-5
+Withdraw-All-but-1;Dra tillbaka-Allt-utom-1
+Withdraw-1;Uttag-1
+Release;Släppa
+Default quantity: 10,000;Standardantal: 10 000
+Default quantity: 1;Standardkvantitet: 1
+Set custom quantity;Ställ in anpassad kvantitet
+View tag tab;Visa taggfliken
+Rename tag tab;Byt namn på taggfliken
+Delete tag tab;Ta bort taggfliken
+Default quantity: 10;Standard kvantitet: 10
+Enable layout;Aktivera layout
+Change icon;Ändra ikon
+Export tag tab;Fliken Exportera tagg
+Makeover;Makeover
+Unlock;Låsa upp
+Read;Läsa
+Walk-down;Gå ner
+Study;Studera
+Dismiss;Avfärda
+Look-at;Titta-på
+Focus on;Fokusera på

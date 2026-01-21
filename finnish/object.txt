@@ -1,0 +1,3794 @@
+A Clam Shell;Simpukkakuori
+A Goblin standard;Goblin-standardi
+A Shayzien State;Shayzienin osavaltio
+A Sinking Canoe;Uppoava kanootti
+A barrel of rainwater;Tynnyri sadevettä
+A bunk bed;Kerrossänky
+A burnt tree;Palanut puu
+A chasm;Kuilu
+A crack;Halkeama
+A dark crystal;Tumma kristalli
+A fairy workbench;Keiju työpöytä
+A fallen barrel;Pudonnut tynnyri
+A flag;Lippu
+A gap through the wall;Rako seinän läpi
+A peculiar foot print;Erikoinen jalanjälki
+A primitive joke;Alkukantainen vitsi
+A rock;Kivi
+A shabby tent;Nuhjuinen teltta
+A tropical tree;Trooppinen puu
+A wall;Seinä
+A wooden log;Puinen hirsi
+Abandoned Cart;Hylätty kärry
+Abandoned Equipment;Hylätyt laitteet
+Absence of tears;Kyynelten puuttuminen
+Absorption potion;Imeytyvä juoma
+Abstract mural;Abstrakti seinämaalaus
+Abyssal Sire Topiary;Abyssal Sire Topiary
+Abyssal Sire display;Abyssal Siren näyttö
+Abyssal demon head;Abyssal demonin pää
+Abyssal rift;Abyssal repeämä
+Accomplishment scroll space;Saavutus vieritystila
+Achey Tree;Achey Tree
+Achey Tree stump;Achey-puun kanto
+Achievement diary display;Saavutuspäiväkirjan näyttö
+Acid pool;Happoallas
+Acidic miasma;Hapan miasma
+Adamant armour;Adamant panssari
+Adult Yommi tree;Aikuinen Yommi-puu
+Adventure log space;Seikkailulokitila
+Aged log;Ikääntynyt hirsi
+Aggie's Cauldron;Aggien pata
+Air balloon;Ilmapallo
+Air rift;Ilmarako
+Alan;Alan
+Alchemical Hydra;Alkemiallinen Hydra
+Alchemical Hydra display;Alchemical Hydra -näyttö
+Alchemical Topiary;Alchemical Topiary
+Alchemical chart;Alkemiallinen kaavio
+Alchemical door;Alkemiallinen ovi
+Alchemists Teleport;Alchemists Teleport
+Alcove;Alkovi
+Ali M's Market;Ali M:n tori
+Allotment;Siirtolapuutarha
+Almost a Statue;Melkein patsas
+Altar;Alttari
+Altar of Guthix;Guthixin alttari
+Altar of Zamorak;Zamorakin alttari
+Altar of nature;Luonnon alttari
+Altar of the Occult;Okkultismin alttari
+Altar slab;Alttari laatta
+Altar space;Alttaritila
+Amlodd Banner;Amlodd Banner
+Amulet of Glory;Amulet of Glory
+Amulet space;Amuletti tilaa
+An anonymous looking door;Anonyymin näköinen ovi
+An experimental anvil;Kokeellinen alasin
+An ogre standard;Ogre-standardi
+An old lever;Vanha vipu
+Ancestral Glyph;Esi-isän Glyfi
+Anchor;Ankkuri
+Anchor rope;Ankkuri köysi
+Ancient Altar;Muinainen alttari
+Ancient Books;Muinaiset kirjat
+Ancient Equipment;Vanhat laitteet
+Ancient Fire;Muinainen tuli
+Ancient Gate;Muinainen portti
+Ancient Grave;Muinainen hauta
+Ancient Incubator;Vanha hautomo
+Ancient Machinery;Muinaiset koneet
+Ancient Mural;Muinainen seinämaalaus
+Ancient Pillar;Muinainen pilari
+Ancient Relic;Muinainen jäänne
+Ancient Rock;Muinainen kallio
+Ancient Shroom;Muinainen Shroom
+Ancient Zygomite;Muinainen tsygomiitti
+Ancient brazier;Vanha pannu
+Ancient bush;Vanha pensas
+Ancient cave painting;Muinainen luolamaalaus
+Ancient chest;Vanha rintakehä
+Ancient gallows;Vanha hirsipuu
+Ancient machinery;Vanhat koneet
+Ancient metal gate;Vanha metallinen portti
+Anima patch;Anima laastari
+Animal skull;Eläimen kallo
+Anna's barrel;Annan tynnyri
+Annakarl Portal;Annakarlin portaali
+Anti-Dragon Breath Shield;Anti-Dragon Breath Shield
+Antiques Shop Stall;Antiikkikaupan kioski
+Anvil;Alasin
+Ape Atoll Dungeon Portal;Ape Atoll Dungeon -portaali
+Apparatus;Laitteet
+Appendage;Lisäke
+Apple Press;Apple Press
+Apple Tree;Omenapuu
+Apple basket;Omenakori
+Apple tree;Omenapuu
+Apple tree stump;Omenapuun kanto
+Aquarium;Akvaario
+Arcane crystal;Arkaaninen kristalli
+Arceuus Library Portal;Arceuusin kirjastoportaali
+Arceuus statue;Arceuusin patsas
+Arch;Kaari
+Archery target;Jousiammunta tavoite
+Archway;Holvikäytävä
+Arctic Pine;Arktinen mänty
+Ardougne Portal;Ardougne-portaali
+Ardougne Wall Door;Ardougne seinäovi
+Arena;Arena
+Arena Entrance;Areenan sisäänkäynti
+Arena Exit;Areenan uloskäynti
+Arena space;Areenan tila
+Argento;Argento
+Arm;Arm
+Armadyl altar;Armadyl alttari
+Armadyl armour display case;Armadyl panssari vitriinin
+Armed Forces Report;Puolustusvoimien raportti
+Armillary sphere;Armillaarinen pallo
+Armour;Panssari
+Armour case;Panssarikotelo
+Armour case space;Panssarikotelo tilaa
+Armour display;Panssarin näyttö
+Armour repair stand;Panssarin korjausteline
+Armour space;Panssari tilaa
+Armour stall;Panssaritalli
+Armour stand;Panssarijalusta
+Arrav;Arrav
+Arrow;Nuoli
+Arrows;Nuolet
+Artefact;Artefact
+Artefacts;Artefaktit
+Asgarnian Ale;Asgarnian Ale
+Asgarnian Hops;Asgarnian humala
+Asgarnian ale;Asgarnian ale
+Ash pile;Tuhkakasa
+Aspidistra plant;Aspidistra-kasvi
+Astronomical chart;Tähtitieteellinen kartta
+Attack stone;Hyökkäyskivi
+Attacker item machine;Hyökkääjän esinekone
+Attas plant;Attasin kasvi
+Attas plant display;Attasin kasvinäyttely
+Avalanche;Lumivyöry
+Aviary Hatch;Aviary Hatch
+Awakened Altar;Herätty alttari
+Awowogei;Awowogei
+Axe cabinet;Kirves kaappi
+Axe case;Kirves tapaus
+Axeman's Folly;Axeman's Folly
+Axes;Akselit
+Baby red dragon;Vauva punainen lohikäärme
+Backpack;Reppu
+Badly repaired wall;Huonosti korjattu seinä
+Bags for sale;Laukut myytävänä
+Bailing buckets;Kauhat
+Baker's Stall;Baker's Stall
+Baker's stall;Leipurin koju
+Bakery stall;Leipomokioski
+Balance beam;Tasapainotuspalkki
+Balancing ledge;Tasapainottava reunus
+Balancing rope;Tasapainotusköysi
+Ball;Pallo
+Ballista;Ballista
+Bamboo Bed;Bambu sänky
+Bamboo Bookcase;Bambu kirjahylly
+Bamboo Desk;Bambu työpöytä
+Bamboo Door;Bambu ovi
+Bamboo Gate;Bambu portti
+Bamboo Ladder;Bambu tikkaat
+Bamboo Pipes;Bambu putket
+Bamboo Stool;Bambujakkara
+Banana Tree;Banaanipuu
+Banana tree;Banaani puu
+Banana tree stump;Banaanipuun kanto
+Bandage table;Sidospöytä
+Bandos altar;Bandos alttari
+Bandos armour display case;Bandos-panssarivitriini
+Bank;Pankki
+Bank Booth;Pankin Booth
+Bank Box;Pankkilaatikko
+Bank Chest-wreck;Pankkiarkun hylky
+Bank Deposit Box;Pankin talletuslaatikko
+Bank Deposit Chest;Pankkitalletusarkku
+Bank Deposit Pot;Pankkitalletuspotti
+Bank Table;Pankkipöytä
+Bank booth;Pankin koppi
+Bank chest;Pankkiarkku
+Bank counter;Pankin laskuri
+Bank deposit box;Pankin talletuslokero
+Bank light;Pankin valo
+Bank notice board;Pankin ilmoitustaulu
+Bank papers;Pankkipaperit
+Bank safe;Pankkiturvallinen
+Bank table;Pankin pöytä
+Banner;Banneri
+Banner making stand;Banderollien valmistusteline
+Banner stand;Banneriteline
+Banner stand space;Banner-telinetila
+Banquet table;Juhlapöytä
+Bar;Baari
+Bar dispenser;Baariannostelija
+Bar pumps;Tankopumput
+Barbarian anvil;Barbaari alasin
+Barbarian bed;Barbaari sänky
+Barbarian chair;Barbaari tuoli
+Barbarian table;Barbaaripöytä
+Barge controls;Proomun ohjaimet
+Barley;Ohra
+Barrel;Tynnyri
+Barrel of Mud;Mutatynnyri
+Barrel of Spears;Keihään piippu
+Barrel of Water;Tynnyri vettä
+Barrel of fish;Tynnyri kalaa
+Barrel of fishbones;Tynnyri kalanruotoa
+Barrel of flour;Tynnyri jauhoja
+Barrel rack;Tynnyriteline
+Barrel space;Tynnyritilaa
+Barrels;Tynnyrit
+Barren patch;Karu laastari
+Barricade;Barrikadi
+Barricade table;Barrikadipöytä
+Barrier;Este
+Barronite Crusher;Barronite Crusher
+Barrow;Barrow
+Barrows Portal;Barrowsin portaali
+Bars;Baarit
+Barstool;Baarituoli
+Basalt rock;Basalttikivi
+Basic Jewellery Box;Peruskorulaatikko
+Basilisk head;Basiliskin pää
+Basket;Kori
+Basket Fungi;Korin sienet
+Bath;Kylpy
+Bath pipes;Kylpyputket
+Bath screen;Kylpynäyttö
+Bathroom table;Kylpyhuoneen pöytä
+Bathtub;Kylpyamme
+Battering ram;Muurinmurtaja
+Battle tower;Taistelun torni
+Battlefront Portal;Battlefront-portaali
+Battlement;Taistelu
+Battlements;Rintavarustus
+Bay window;Erkkeri
+Beach;Ranta
+Beacon;Majakka
+Beacon.;Majakka.
+Beam;Säde
+Bean Mound;Bean Mound
+Beanstalk;Pavunvarsi
+Beanstump;Beanstump
+Bear droppings;Karhun jätöksiä
+Beard;Parta
+Bed;Vuode
+Bed hotspot;Bed hotspot
+Bed space;Sänkytilaa
+Bedroom door;Makuuhuoneen ovi
+Beehive;Mehiläispesä
+Beer barrel;Olut tynnyri
+Beer barrels;Oluttynnyrit
+Beetle;Kovakuoriainen
+Bell;Bell
+Bell mechanism;Kellomekanismi
+Bell pull space;Kellon vetotila
+Bell rope;Kellon köysi
+Bell-pull;Kellon veto
+Belladonna;Belladonna
+Belladonna patch;Belladonna laastari
+Bellows;Palkeet
+Bells;Kellot
+Bellshroom;Bellshroom
+Bench;Penkki
+Betty's cauldron;Bettyn ​​pata
+Biclopse;Biclopse
+Big Button;Iso painike
+Big Compost Bin;Iso kompostilaatikko
+Big Door;Iso ovi
+Big Plant space 1;Iso kasvitila 1
+Big Plant space 2;Iso kasvitila 2
+Big Tree space;Big Tree tilaa
+Big beer barrel;Iso oluttynnyri
+Big chest;Iso rintakehä
+Big door;Iso ovi
+Big egg;Iso muna
+Big fish;Iso kala
+Big hole;Iso reikä
+Big plant;Iso kasvi
+Big plant 2;Iso kasvi 2
+Big vase;Iso maljakko
+Big window;Iso ikkuna
+Big, big boulder...;Iso, iso kivi...
+Big, foot print;Iso, jalanjälki
+Bin;Bin
+Bird cage stand;Lintuhäkkiteline
+Bird feeder;Lintujen syöttölaite
+Bird hide structure;Lintujen piilorakenne
+Bird snare;Lintujen ansa
+Birdhouse;Birdhouse
+Birdhouse (empty);Lintumaja (tyhjä)
+Birdseed holder;Linnunsiemenpidike
+Birthday cake;Syntymäpäiväkakku
+Bittercap Mushrooms;Bittercap sienet
+Bitternut Sign;Bitternut merkki
+Bitternut Tree;Bitternut Tree
+Black Chest;Musta Rinta
+Black crystal;Musta kristalli
+Black hole;Musta aukko
+Black mushrooms;Mustat sienet
+Blackboard;Liitutaulu
+Blacksmith's tools;Sepän työkalut
+Blacksmiths' tools;Sepän työkalut
+Blade;Terä
+Blighted Bologano plant;Tuhoutunut Bologanon kasvi
+Blighted Bologano seedling;Tyhjentynyt Bologanon taimi
+Blighted Golovanova plant;Tuhoutunut Golovanova-kasvi
+Blighted Golovanova seedling;Blowed Golovanova taimi
+Blighted Logavano plant;Tuhoutunut Logavanon kasvi
+Blighted Logavano seedling;Blighted Logavanon taimi
+Blighted vine;Hajonnut viiniköynnös
+Blindweed Patch;Blindweed Patch
+Blisterwood Tree;Blisterwood Tree
+Blockage;Tukos
+Blocked Crevice;Estetty rako
+Blocked Tunnel;Estetty tunneli
+Blocked entry;Estetty pääsy
+Blocked tunnel;Tukkeutunut tunneli
+Blocked volcanic chamber;Tukkeutunut vulkaaninen kammio
+Blood;Veri
+Blood Altar;Verialttari
+Blood Orb;Blood Orb
+Blood Stinkhorn;Verinen Stinkhorn
+Blood Stinktree;Blood Stinktree
+Blood crystal;Veren kristalli
+Blood rift;Veren repeämä
+Blooming Hespori sprout;Kukkiva Hesporin verso
+Blue Barrier;Sininen este
+Blue Fire;Sininen Tuli
+Blue Flowers;Sinisiä kukkia
+Blue Water Sign;Sininen vesimerkki
+Blue banner;Sininen banneri
+Blue chemical;Sininen kemikaali
+Blue door;Sininen ovi
+Blue flowers;Sinisiä kukkia
+Blue tears;Siniset kyyneleet
+Bluebells;Sinikellot
+Blurberry bar;Blurberry baari
+Boarded-up door;Aidattu ovi
+Boards;Taulut
+Boat;Vene
+Boat Chute;Vene Chute
+Boat station;Veneasema
+Boaty;Veneinen
+Bob's barrel;Bobin tynnyri
+Body rift;Kehon repeämä
+Bog;Bog
+Boil;Kiehua
+Boiler;Kattila
+Boils;Kiehuu
+Bologano plant;Bologanon kasvi
+Bologano seedling;Bologanon taimi
+Bone Crane;Luunosturi
+Bone arch;Luun kaari
+Bone barrel;Luu tynnyri
+Bone door;Luuovi
+Bone grinder;Luuhiomakone
+Bone rack;Luu teline
+Bone support;Luun tuki
+Bones;Luut
+Boney ladder;Luiset tikkaat
+Bonfire;Kokko
+Bonzo's Table;Bonzon pöytä
+Book Cart;Kirjakori
+Book table;Varaa pöytä
+Bookcase;Kirjahylly
+Bookcase space;Kirjahyllytila
+Books;Kirjat
+Bookshelf;Kirjahylly
+Bookshelves;Kirjahyllyt
+Boss lair display;Boss Lair -näyttö
+Boss lair space;Boss lair tilaa
+Bottle;Pullo
+Bottle Machine;Pullokone
+Bottle machine;Pullokone
+Boulder;Siirtolohkare
+Boulders;Kivet
+Boundary stones;Rajakivet
+Bow and Arrow;Jousi ja nuoli
+Bow and arrow;Jousi ja nuoli
+Bow cabinet;Keulakaappi
+Bow case;Jousikotelo
+Bowl;Kulho
+Bowsprit;Bowsprit
+Box;Laatikko
+Box cart;Laatikkokärry
+Box of Health;Terveyden laatikko
+Box of bones;Laatikko luita
+Box trap;Laatikko ansa
+Boxes;Laatikot
+Boxing mat;Nyrkkeilymatto
+Boxing ring;Nyrkkeilyrengas
+Branch;Haara
+Brazier;Hiilipannu
+Brew Barrel;Brew Barrel
+Brewer's Barrel;Brewerin tynnyri
+Brewing control;Haudutuksen ohjaus
+Brewing vat;Panimoastia
+Brick;Tiili
+Bricks;Tiilet
+Bridge;Silta
+Bright crystal;Kirkas kristalli
+Brimstone chest;Tulikivi rintakehä
+Broken Bed;Rikkoutunut sänky
+Broken Brazier;Rikki Brazier
+Broken Cabinet;Rikkoutunut kaappi
+Broken Cannon;Rikkoutunut tykki
+Broken Cart;Rikkoutunut kärry
+Broken Chair;Rikkoutunut tuoli
+Broken Cupboard;Rikkoutunut kaappi
+Broken Door;Rikkoutunut ovi
+Broken Drawers;Rikkinäiset laatikot
+Broken Dresser;Rikkoutunut lipasto
+Broken Fence;Rikkoutunut aita
+Broken Fire altar;Rikkoutunut tulialttari
+Broken Fountain;Rikkoutunut suihkulähde
+Broken Grandfather Clock;Rikkinäinen isoisän kello
+Broken Grandiose Doors;Rikkoutuneet suuret ovet
+Broken Grate;Rikkoutunut ritilä
+Broken Lecturn;Rikkinäinen luento
+Broken Mirror;Rikkoutunut peili
+Broken Old Bookshelf;Rikkoutunut vanha kirjahylly
+Broken Plantpot;Rikkoutunut ruukku
+Broken Potter's Wheel;Rikkoutunut Potterin pyörä
+Broken Raft;Rikkoutunut lautta
+Broken Railing;Rikkoutunut kaide
+Broken Range;Broken Range
+Broken Roof;Katto rikki
+Broken Scaffold;Rikkoutunut teline
+Broken Shelves;Rikkinäiset hyllyt
+Broken Sink;Rikkinäinen pesuallas
+Broken Spinning Wheel;Rikkoutunut pyörivä pyörä
+Broken Statue;Rikkoutunut patsas
+Broken Table;Rikkoutunut pöytä
+Broken Wall;Rikkoutunut seinä
+Broken Well;Broken Well
+Broken altar;Rikkoutunut alttari
+Broken barrel;Rikkoutunut tynnyri
+Broken bath;Rikkinäinen kylpy
+Broken battering ram;Rikkoutunut iskunpää
+Broken beer glass;Rikkoutunut olutlasi
+Broken boat;Rikkinäinen vene
+Broken bridge;Rikki silta
+Broken cage;Rikkoutunut häkki
+Broken cannon;Rikkoutunut tykki
+Broken cart;Rikkoutunut kärry
+Broken cart wheel;Kärryn pyörä rikki
+Broken catapult;Rikkoutunut katapultti
+Broken chain;Rikkinäinen ketju
+Broken chair;Rikkoutunut tuoli
+Broken cogs;Hampaat rikki
+Broken counter;Rikkinäinen laskuri
+Broken crossbow;Rikkoutunut varsijousi
+Broken dead tree;Murtunut kuollut puu
+Broken door;Rikkoutunut ovi
+Broken drilling machine;Rikkoutunut porakone
+Broken equipment table;Varustepöytä rikki
+Broken experiment tube;Rikkoutunut koeputki
+Broken fence;Rikkoutunut aita
+Broken fish display;Rikkoutuneiden kalojen näyttö
+Broken furnace;Rikkoutunut uuni
+Broken ground;Murtunut maa
+Broken kiln;Rikkoutunut uuni
+Broken ladder;Rikkoutuneet tikkaat
+Broken lamp;Rikki lamppu
+Broken lobster trap;Rikkoutunut hummeriloukku
+Broken log raft;Rikkoutunut hirsilauta
+Broken logs;Rikkoutuneet tukit
+Broken mace trap;Rikkoutunut nuijaloukku
+Broken machinery;Rikkinäinen koneisto
+Broken mast;Rikkoutunut masto
+Broken multicannon;Monitykki rikki
+Broken pillar;Rikkoutunut pilari
+Broken rail;Rikkoutunut kisko
+Broken range;Rikkinäinen kantama
+Broken rock;Rikkoutunut kivi
+Broken rope bridge;Rikkoutunut köysilta
+Broken rowboat;Rikki soutuvene
+Broken rune case;Rikkoutunut runkokotelo
+Broken snare;Rikkoutunut ansa
+Broken spinning wheel;Rikkoutunut pyörivä pyörä
+Broken stairs;Rikkoutuneet portaat
+Broken stool;Rikkoutunut jakkara
+Broken strut;Rikkoutunut tuki
+Broken sun altar;Rikkoutunut aurinkoalttari
+Broken support;Rikki tuki
+Broken table;Rikkoutunut pöytä
+Broken trap(0);Rikkoutunut ansa (0)
+Broken wall;Murtunut seinä
+Broken weapons;Rikkinäiset aseet
+Bronze Chest;Pronssiarkku
+Bronze Door;Pronssi ovi
+Bronze axe;Pronssikirves
+Bronze pickaxe;Pronssinen hakku
+Broom;Luuta
+Bruma roots;Bruman juuret
+Bryophyta display;Bryophyta näyttö
+Bubbles;Kuplat
+Bucket;Ämpäri
+Bucket of Blood;Ämpäri verta
+Buckets;Kauhat
+Budding branch;Orastava haara
+Buffers;Puskurit
+Buffet table;Buffet-pöytä
+Bull's head;Härän pää
+Bullrushes;Bullrushes
+Bunk bed;Kerrossänky
+Bunkbed;Kerrossänky
+Bunsen burner;Bunsen poltin
+Burial cairn;Hautakammio
+Burial mound;Hautausmaa
+Buried artefact;Haudattu esine
+Buried skeleton;Haudattu luuranko
+Burning bones;Polttavat luut
+Burning brazier;Palava grilli
+Burning driftwood;Polttava ajopuu
+Burnt chest;Palanut rintakehä
+Burnt rock;Poltettu kivi
+Burnt tree;Palanut puu
+Burrow;Kolo
+Burst boil;Burst kiehua
+Bush;Bush
+Bush Patch;Bushin paikka
+Bust;Rintakuva
+Button;Painike
+Cabbage;Kaali
+Cabbages;Kaalit
+Cabinet;Kaappi
+Cabinet space;Kaappitilaa
+Cable;Kaapeli
+Cactus;Kaktus
+Cactus patch;Kaktusmerkki
+Cadarn Banner;Cadarn Banner
+Cadava bush;Cadava pensas
+Cadavaberry bush;Cadavaberry pensas
+Cage;Häkki
+Cage door;Häkin ovi
+Cages;Häkit
+Calquat Tree;Calquat Tree
+Calquat patch;Calquat laastari
+Camel's statue;Kamelin patsas
+Camelot Portal;Camelot-portaali
+Camorra;Camorra
+Camp fire;Nuotio
+Campbed;Leirintäalue
+Campfire;Nuotio
+Camping equipment;Leirintävälineet
+Camping fire;Leirintäalue
+Camping gear;Retkeilyvarusteet
+Campsite bed;Leirintäalueen sänky
+Canal barge;Kanavan proomu
+Canal wall;Kanavan seinä
+Canary;Kanaria
+Candelabrum;Kynttelikkö
+Candle;Kynttilä
+Candle stand;Kynttilänjalka
+Candles;Kynttilät
+Candlestick holder;Kynttilänjalka
+Cannon;Tykki
+Cannon barrels;Tykin piipuja
+Cannon base;Tykin tukikohta
+Cannon stand;Tykin teline
+Cannonball;Tykinkuula
+Cannonballs;Tykinkuulat
+Canoe Station;Kanoottiasema
+Canopic Jar;Canopic Jar
+Cape hanger;Viittaripustin
+Cape of Legends;Legendojen niemi
+Cape rack space;Viittatelinetilaa
+Captain's Table;Kapteenin pöytä
+Carcass;Ruho
+Carol's barrel;Carolin tynnyri
+Carpet;Matto
+Carpet Exhibit;Mattonäyttely
+Carpet hotspot;Mattojen hotspot
+Carrallangar Portal;Carrallangar-portaali
+Carrot;Porkkana
+Cart;Kärry
+Cart Camel;Kärry Kameli
+Cart Track;Kärryrata
+Cart track sign;Kärryjäljen merkki
+Cart tunnel;Kärryjen tunneli
+Carved doors;Kaiverretut ovet
+Carved head;Veistetty pää
+Carved log;Veistetty hirsi
+Carved oak bench;Veistetty tammipenkki
+Carved redwood;Veistetty punapuu
+Carved rock;Kaiverrettu kivi
+Carved teak bench;Veistetty tiikkipenkki
+Carving;Kaiverrus
+Castle Gates;Linnan portit
+Castle Wars portal;Castle Wars -portaali
+Castle door;Linnan ovi
+Castle wall;Linnan muuri
+Casual;Rento
+Cat;Kissa
+Cat Shrine;Kissan pyhäkkö
+Cat basket;Kissan kori
+Cat basket space;Kissan koritila
+Catapult;Ritsa
+Catapult-lever;Katapultti-vipu
+Catapult-winch;Katapultti-vinssi
+Catherby Portal;Catherbyn portaali
+Cauldron;Pata
+Cauldron of Thunder;Ukkosen pata
+Cave;Luola
+Cave Entrance;Luolan sisäänkäynti
+Cave Exit;Luolan uloskäynti
+Cave entrance;Luolan sisäänkäynti
+Cave exit;Luolan uloskäynti
+Cave gobins;Luolan gobiinit
+Cave in;Hyppää sisään
+Cave opening;Luolan avaus
+Cave rocks;Luolan kivet
+Cave wall;Luolan seinä
+Cave web;Luolan verkko
+Cavern;Luola
+Cavern entrance;Luolan sisäänkäynti
+Cavern exit;Luolan uloskäynti
+Cavity;Onkalo
+Ceiling support;Katon tuki
+Celastrus patch;Celastrus laastari
+Celastrus tree;Celastrus puu
+Celastrus tree stump;Celastrus-puun kanto
+Celestial globe;Taivaallinen maapallo
+Cell Door;Solun ovi
+Cell Gate;Solun portti
+Cell door;Solun ovi
+Cell wall;Soluseinä
+Cell wall window;Soluseinän ikkuna
+Cellar stairs;Kellarin portaat
+Cello;Sello
+Cemetery Portal;Hautausmaa portaali
+Cenotaph;Hautamuistomerkki
+Centre of crop circle;Viljaympyrän keskus
+Centre piece;Keskiosa
+Centrepiece space;Keskipisteen tila
+Cerberus Topiary;Cerberus Topiary
+Cerberus display;Cerberus näyttö
+Ceremonial Brazier;Seremoniallinen Brazier
+Ceremonial Pillar;Seremoniallinen pilari
+Ceremonial Pillow;Seremoniallinen tyyny
+Ceremonial Pillow Stack;Seremoniallinen tyynypino
+Ceremonial table;Seremoniallinen pöytä
+Certificate of healing;Todistus paranemisesta
+Chain;Ketju
+Chains;Ketjut
+Chair;Tuoli
+Chair hotspot;Tuolin hotspot
+Chair space;Tuolitilaa
+Chaise lounge;Lepotuoli
+Chalice;Malja
+Chalk patterns;Liitukuvioita
+Challenge portal;Haasteportaali
+Chamber;kammio
+Chambers of Xeric;Xericin kammiot
+Champion Statue;Mestarien patsas
+Chandelier;Kattokruunu
+Changing Curtain;Verhon vaihtaminen
+Chaos altar;Kaaoksen alttari
+Chaos rift;Kaaoksen repeämä
+Charcoal furnace;Hiiliuuni
+Charm of Boost;Boostin viehätys
+Charm of Defence;Puolustusvoiman viehätys
+Charm of Fishing;Kalastuksen viehätys
+Charm of Luck;Onnen viehätys
+Charm of Mining;Kaivostyön viehätys
+Charm of Preparation;Valmistelun viehätys
+Charms;Charms
+Charred bones;Hiiltyneet luut
+Chart;Kartoittaa
+Chasm;Kuilu
+Cheese;Juusto
+Chef's Delight;Chef's Delight
+Chemical pool;Kemiallinen allas
+Chemical vent (blue);Kemiallinen tuuletusaukko (sininen)
+Chemical vent (green);Kemiallinen tuuletusaukko (vihreä)
+Chemical vent (red);Kemiallinen tuuletusaukko (punainen)
+Chemical waste pipe;Kemiallinen jäteputki
+Chemistry Table;Kemian taulukko
+Chess;Shakki
+Chest;Rintakehä
+Chest of Champions;Mestarien arkku
+Chest pieces;Rintapalat
+Chicken;Kana
+Chicken Shrine;Kanan pyhäkkö
+Chicken coop;Kanakoti
+Child's bed;Lapsen sänky
+Chimney;Savupiippu
+Chimney Pipe;Savupiippu putki
+Chimney pipe;Savupiipun putki
+Choc-Ice Stall;Choc-jäätalli
+Chopped tendrils;Hienonnetut lonkerot
+Chopping table;Leikkuupöytä
+Christmas curtains;Jouluiset verhot
+Christmas-Spirit Tree;Joulu-henkipuu
+Chronicles of Xeric;Xerikin kronikat
+Church organ;Kirkon urut
+Church pew;Kirkon penkki
+Cider;Siideri
+Cider barrel;Siiderin tynnyri
+Circle;Ympyrä
+Citizen;Kansalainen
+City Gate;Kaupungin portti
+City gate;Kaupungin portti
+Clam;Simpukka
+Clan Coffer;Klaanin kakku
+Clan Cup Trophy;Clan Cup Trophy
+Clan Cup portal;Clan Cup -portaali
+Clan Wars portal;Clan Wars -portaali
+Clan banner;Klaanin banneri
+Clan hall portal;Klaanisalin portaali
+Clan recruitment board;Klaanin rekrytointilautakunta
+Clarinet;Klarinetti
+Clay Oven;Savi uuni
+Clay fireplace;Savitakka
+Clay forge;Savitako
+Clay oven;Savi uuni
+Cleaning supplies;Siivoustarvikkeet
+Cliff;Cliff
+Cliff edge;Kallion reuna
+Climbing Net;Kiipeilyverkko
+Climbing Rope;Kiipeilyköysi
+Climbing net;Kiipeilyverkko
+Climbing rocks;Kiipeilyä kallioilla
+Climbing rope;Kiipeilyköysi
+Cloak rack;Viittateline
+Clock;Kello
+Clock face;Kellotaulu
+Clock spindle;Kellon kara
+Clockmaker's bench;Kellosepän penkki
+Clockmaking space;Kellojen valmistustila
+Closed Chest;Suljettu rintakehä
+Closed bank booth;Suljettu pankkiosasto
+Closed booth;Suljettu koppi
+Closed chest;Suljettu rintakehä
+Cloth;Kangas
+Cloth covered table;Kankaalla päällystetty pöytä
+Clothes;Vaatteet
+Clothes Stand;Vaateteline
+Clothes equipment;Vaatteet varusteet
+Clothes line;Pyykkinaru
+Clothes model;Vaatteiden malli
+Clothes rack;Vaateteline
+Clothes stall;Vaatekaappi
+Clothing shelves;Vaatehyllyt
+Cloud bank;Pilvi pankki
+Clump of rocks;Kivipala
+Coal;Hiili
+Coal Tar;Kivihiiliterva
+Coal Truck;Hiiliauto
+Coat rack;Naulakko
+Cockatrice head;Cockatricen pää
+Cocoon;Koteloida
+Coffer;Kassa
+Coffin;Arkku
+Coffin hotspot;Arkun hotspot
+Cog;Cog
+Cogs;Hampaat
+Coin Collector;Kolikonkeräilijä
+Coins;Kolikot
+Coke;Koksi
+Collapsed trap;Puristunut ansa
+Collapsed wall;Murtunut seinä
+Collector Converter;Keräilijän muunnin
+Colony gate;Siirtokunnan portti
+Column;Sarake
+Combat Scroll;Combat Scroll
+Combat dummy;Taistelunukke
+Combat dummy space;Taistele tukkitilaa vastaan
+Combat ring;Taistelurengas
+Combat ring space;Taistelurengastila
+Competitive;Kilpailukykyinen
+Compost;Komposti
+Compost Bin;Kompostiastia
+Compost heap;Kompostikasa
+Compromised floorboards;Vaaralliset lattialaudat
+Compromised support;Vaarallinen tuki
+Confusing door;Hämmentävä ovi
+Connected stalagmites;Liittyvät stalagmiitit
+Connection pipe;Liitosputki
+Consecrated house;Vihitty talo
+Console;Konsoli
+Container;Säiliö
+Contortion Bars;Vääntymäpalkit
+Control panel;Ohjauspaneeli
+Conveyor Belt;Kuljetinhihna
+Conveyor belt;Kuljetinhihna
+Cooker;Liesi
+Cooking Pots;Keittoastiat
+Cooking pot;Keittoastia
+Cooking range;Keittoalue
+Cooking shelves;Ruoanlaittohyllyt
+Coolant Dispenser;Jäähdytysnesteen annostelija
+Cooling chest;Jäähdyttävä rintakehä
+Coop;Coop
+Copper Ladder;Kupari tikkaat
+Coral;Koralli
+Coral Reef;Koralliriutta
+Corkscrew lever;Korkkiruuvin vipu
+Corner Table;Kulmapöytä
+Corner space;Kulmatilaa
+Corporeal Beast Display;Corporeal Beast Display
+Corporeal Beast display;Corporeal Beast näyttö
+Corpse;Ruumis
+Corpse cart;Ruumiskärry
+Corpses;Ruumiita
+Corrupt Deposit;Korruptoitunut talletus
+Corrupt Deposit (Depleted);Korruptoitunut talletus (käytetty)
+Corrupted Sceptre;Vioittunut valtikka
+Cosmic rift;Kosminen repeämä
+Council members;neuvoston jäseniä
+Counter;Laskuri
+Court judge;Tuomioistuimen tuomari
+Cow wheel;Lehmän pyörä
+Crab Shell;Rapukuori
+Crack;Crack
+Cracked wall;Murtunut seinä
+Cradle of Life;Elämän kehto
+Craft stall;Käsityökoju
+Crafting Stall;Askartelukioski
+Crafting stall;Askartelukioski
+Crane;Nosturi
+Crashed Star;Crashed Star
+Crashed glider;Törmäsi purjelentokone
+Crate;Häkki
+Crate of rune caskets;Rune-arkkujen laatikko
+Crate of wands;Sauvojen laatikko
+Crater;Kraatteri
+Crates;Laatikot
+Crawling hand;Ryömivä käsi
+Crazy penguin;Hullu pingviini
+Creature;Olento
+Creeper;Creeper
+Creeping Plant;Hiipivä kasvi
+Creeping plant;Hiipivä kasvi
+Crevasse;Halkeama
+Crevice;Rako
+Crib;Seimi
+Crop circle;Rajausympyrä
+Cross;Ylittää
+Crossbow;Varsijousi
+Crossbow Tree;Varsijousi puu
+Crossbow stall;Varsijousikioski
+Crossbowman Statue;Varsijousimiehen patsas
+Crow nest;Varis pesä
+Crowd of dwarves;Joukko kääpiöitä
+Crude boat;Raaka vene
+Crude raft;Raaka lautta
+Crumbled wall;Murtunut seinä
+Crumbling wall;Murtuva seinä
+Crushed barricade;Murskattu barrikadi
+Crusher;Murskain
+Crutch;Kainalosauva
+Crwys Banner;Crwys Banner
+Crypt;Crypt
+Crypt Entrance;Crypt-sisäänkäynti
+Crystal;Kristalli
+Crystal Deposit;Kristallitalletus
+Crystal Deposit (Depleted);Kristallitalletus (täytetty)
+Crystal Dispenser;Crystal annostelija
+Crystal Sceptre;Kristallivalikka
+Crystal Singing Recipes;Crystal Singing Reseptit
+Crystal Staircase;Crystal portaikko
+Crystal ball;Kristallipallo
+Crystal ball space;Kristallipallon tila
+Crystal bomb;Kristallipommi
+Crystal bridge;Kristalli silta
+Crystal cluster;Kristalliklusteri
+Crystal dispenser;Crystal annostelija
+Crystal growth;Kristallin kasvu
+Crystal of power;Voiman kristalli
+Crystal outcrop;Kristallipaljastuma
+Crystal spire;Kristallitorni
+Crystal structure;Kristallirakenne
+Crystal tree;Kristallipuu
+Crystal tree patch;Kristallipuun paikka
+Crystalline structure;Kiteinen rakenne
+Crystals;Kiteet
+Cube Pile;Kuutio kasa
+Cupboard;Kaappi
+Cupboard space;Kaappitilaa
+Curling plant;Curling kasvi
+Current;Nykyinen
+Curry tree;Curry puu
+Curry tree stump;Curryn kanto
+Cursed Altar;Kirottu alttari
+Curtain;Verho
+Curtain space;Verhotilaa
+Curtains;Verhot
+Curved bone;Kaareva luu
+Cutting Table;Leikkauspöytä
+Cyan Crystal;Syaani kristalli
+Cyan crystal;Syaani kristalli
+Cylinder Pile;Sylinterin kasa
+Daconia rocks;Daconia kiviä
+Daeyalt Essence;Daeyalt Essence
+Daeyalt rocks;Daeyalt kiviä
+Daffodils;Narsissit
+Dagannoth;Dagannoth
+Dagger stall;Tikarin talli
+Dairy Cow;Lypsylehmä
+Dairy churn;Maitotuote
+Dairy cow;Lypsylehmä
+Daisies;Päiväkakkarat
+Damaged Earth;Vaurioitunut maa
+Damaged Mast;Vaurioitunut masto
+Damaged Table;Vaurioitunut pöytä
+Damaged Vent;Vaurioitunut tuuletusaukko
+Damaged armour;Vaurioitunut panssari
+Damaged cart;Vaurioitunut kärry
+Damaged mast;Vaurioitunut masto
+Damaged totem pole;Vaurioitunut toteemipaalu
+Damaged wall;Vaurioitunut seinä
+Danger Sign;Vaaramerkki
+Danger sign;Vaara merkki
+Dark Altar;Tumma alttari
+Dark Chest;Tumma Rinta
+Dark crystal;Tumma kristalli
+Dark hole;Tumma aukko
+Dark tunnel;Pimeä tunneli
+Darklight;Darklight
+Dart trap;Tikka ansa
+Dartboard;Tikkataulu
+David's barrel;Davidin piippu
+Dawn;Aamunkoitto
+Dead Asgarnian Hops;Kuollut Asgarnian humala
+Dead Attas plant;Kuollut Attasin kasvi
+Dead Barley;Kuollut ohra
+Dead Belladonna;Kuollut Belladonna
+Dead Bittercap Mushrooms;Kuolleet katkerasienet
+Dead Body;Kuollut ruumis
+Dead Calquat;Kuollut Calquat
+Dead Elf;Kuollut tonttu
+Dead Explorer;Kuollut Explorer
+Dead Hammerstone Hops;Kuollut Hammerstone Humala
+Dead Iasor plant;Kuollut Iasorin kasvi
+Dead Jute;Kuollut juutti
+Dead Krandorian Hops;Kuollut Krandorian humala
+Dead Kronos plant;Kuollut Kronoksen kasvi
+Dead Magic Tree;Kuollut taikapuu
+Dead Mahogany;Kuollut mahonki
+Dead Maple;Kuollut vaahtera
+Dead Oak;Kuollut tammi
+Dead Poison Ivy bush;Kuollut Poison Ivy -pensas
+Dead Potato cactus;Kuollut perunakaktus
+Dead Redwood tree;Kuollut punapuu
+Dead Snape grass;Kuollut Kalkaroksen ruoho
+Dead Spirit Tree;Kuolleen hengen puu
+Dead Teak;Kuollut teak
+Dead Tree;Kuollut Puu
+Dead White lily;Kuollut valkoinen lilja
+Dead Wildblood Hops;Dead Wildblood Hops
+Dead Willow;Kuollut Willow
+Dead Yanillian Hops;Kuollut Yanillian Hops
+Dead Yew;Kuollut marjakuusi
+Dead Yommi;Kuollut Yommi
+Dead Yommi sapling;Kuollut Yommin taimi
+Dead apple tree;Kuollut omenapuu
+Dead banana tree;Kuollut banaanipuu
+Dead bat;Kuollut lepakko
+Dead cabbages;Kuolleet kaalit
+Dead cactus;Kuollut kaktus
+Dead cadavaberry bush;Kuollut kadavamarjan pensas
+Dead calquat;Kuollut kalkvatti
+Dead celastrus tree;Kuollut selastruspuu
+Dead curry tree;Kuollut currypuu
+Dead dragonfruit plant;Kuollut lohikäärmeen kasvi
+Dead dwellberry bush;Kuollut pensas
+Dead goutweed;Kuollut kihti
+Dead hardy goutweed;Dead hardy goutweed
+Dead herbs;Kuolleet yrtit
+Dead jangerberry bush;Kuollut jangermarjan pensas
+Dead limpwurt plant;Kuollut limpwurt-kasvi
+Dead marigold;Kuollut kehäkukka
+Dead mushroom ring;Kuollut sienirengas
+Dead nasturtium;Kuollut nasturtium
+Dead onions;Kuolleet sipulit
+Dead orange tree;Kuollut appelsiinipuu
+Dead palm tree;Kuollut palmu
+Dead papaya tree;Kuollut papaijapuu
+Dead pineapple plant;Kuollut ananaskasvi
+Dead potatoes;Kuolleet perunat
+Dead redberry bush;Kuollut punamarjan pensas
+Dead rosemary;Kuollut rosmariini
+Dead seaweed;Kuollut merilevä
+Dead sourhog;Kuollut sourhog
+Dead strawberry plant;Kuollut mansikkakasvi
+Dead sweetcorn plant;Kuollut sokerimaissi kasvi
+Dead tomato plant;Kuollut tomaattikasvi
+Dead tree;Kuollut puu
+Dead tree stump;Kuollut kanto
+Dead vine;Kuollut viiniköynnös
+Dead watermelons;Kuolleet vesimelonit
+Dead whiteberry bush;Kuollut valkomarjan pensas
+Dead woad plant;Kuollut puukasvi
+Deadfall;Deadfall
+Deadman Supply Chest;Deadman Supply Chest
+Deadman chest;Deadmanin rintakehä
+Deadman display;Deadman-näyttö
+Death rift;Kuolemanreikä
+Death's Coffer;Kuoleman kakku
+Death's Domain;Kuoleman Domain
+Death's domain;Kuoleman toimialue
+Debris;Roskia
+Decaying trunk;Hajoava runko
+Deckchair;Lepotuoli
+Decorated limestone fireplace;Koristeltu kalkkikivitakka
+Decorated marble fireplace;Koristeltu marmoritakka
+Decorated wall;Koristeltu seinä
+Decoration;Sisustus
+Decoration space;Sisustustila
+Decorative window;Koristeellinen ikkuna
+Defender item machine;Defender esinekone
+Delphinium patch;Delphinium laastari
+Delphiniums;Delphiniumit
+Demon;Demoni
+Demonic Symbol;Demoninen symboli
+Dense Jungle;Tiheä viidakko
+Dense forest;Tiheä metsä
+Dense runestone;Tiheä riimukivi
+Depleted Rock;Tyhjentynyt kivi
+Depleted runestone;Loppunut riimukivi
+Depleted vein;Tyhjentynyt suoni
+Deposit Box;Talletuslaatikko
+Desecrated house;Hävitetty talo
+Desert painting;Aavikon maalaus
+Desk;Vastaanotto
+Destroyed bird hide;Tuhoutunut lintupiha
+Destroyed furniture;Tuhotut huonekalut
+Device;Laite
+Dial;Soita
+Dice;Dice
+Dig Site specimen rocks;Dig Site näytekiviä
+Digsite Pendant;Digsite-riipus
+Dim crystal;Himmeä kristalli
+Dirt;Lika
+Diseased Asgarnian Hops;Sairas Asgarnian humala
+Diseased Barley;Sairas ohra
+Diseased Belladonna;Sairas Belladonna
+Diseased Bittercap Mushrooms;Sairaat katkerasienet
+Diseased Calquat;Sairas Calquat
+Diseased Grapevines;Sairaat viiniköynnökset
+Diseased Hammerstone Hops;Sairas Hammerstone Humala
+Diseased Jute;Sairas juutti
+Diseased Krandorian Hops;Sairas krandorin humala
+Diseased Magic Tree;Sairas taikapuu
+Diseased Mahogany;Sairas mahonki
+Diseased Maple;Sairas vaahtera
+Diseased Oak;Sairas tammi
+Diseased Poison Ivy bush;Sairas Poison Ivy -pensas
+Diseased Potato cactus;Sairas perunakaktus
+Diseased Redwood tree;Sairas punapuu
+Diseased Snape grass;Sairas Kalkarosheinä
+Diseased Spirit Tree;Sairas henkipuu
+Diseased Teak;Sairas teak
+Diseased White lily;Sairas valkoinen lilja
+Diseased Wildblood Hops;Sairas villiverinen humala
+Diseased Willow;Sairas Willow
+Diseased Yanillian Hops;Sairas Yanillian Humala
+Diseased Yew;Sairas marjakuusi
+Diseased apple tree;Sairas omenapuu
+Diseased banana tree;Sairas banaanipuu
+Diseased cabbages;Sairaat kaalit
+Diseased cactus;Sairas kaktus
+Diseased cadavaberry bush;Sairas cadavaberry-pensas
+Diseased calquat;Sairas kalkvatti
+Diseased celastrus tree;Sairas selastruspuu
+Diseased curry tree;Sairas currypuu
+Diseased dragonfruit plant;Sairas lohikäärmeen kasvi
+Diseased dwellberry bush;Sairas marjapensas
+Diseased goutweed;Sairas goutweed
+Diseased hardy goutweed;Sairas sitkeä kihti
+Diseased herbs;Sairaat yrtit
+Diseased jangerberry bush;Sairas jangermarjan pensas
+Diseased limpwurt plant;Sairas limpwurt-kasvi
+Diseased marigold;Sairas kehäkukka
+Diseased nasturtium;Sairas nasturtium
+Diseased onions;Sairaat sipulit
+Diseased orange tree;Sairas appelsiinipuu
+Diseased palm tree;Sairas palmu
+Diseased papaya tree;Sairas papaijapuu
+Diseased pineapple plant;Sairas ananaskasvi
+Diseased potatoes;Sairaat perunat
+Diseased redberry bush;Sairas punamarjan pensas
+Diseased rosemary;Sairas rosmariini
+Diseased seaweed;Sairas merilevä
+Diseased strawberry plant;Sairas mansikkakasvi
+Diseased sweetcorn plant;Sairas sokerimaissi kasvi
+Diseased tomato plant;Sairas tomaattikasvi
+Diseased watermelons;Sairaat vesimelonit
+Diseased whiteberry bush;Sairas valkomarjan pensas
+Diseased woad plant;Sairas puukasvi
+Dishes;Astiat
+Display Case;Näyttökotelo
+Display board;Näyttötaulu
+Display case;näyttökotelo
+Display space;Näyttötila
+Display table;Näytä taulukko
+Disturbed sand;Häiriintynyttä hiekkaa
+Dock Leaf;Dock Leaf
+Dock leaf plant;Dock lehtikasvi
+Dodgy ground;Hankala maaperä
+Dolls and balls;Nuket ja pallot
+Dolmen;Dolmen
+Dolphin;Delfiini
+Domination marker;Domination merkki
+Dominic's coffer;Dominicin arkku
+Door;Ovi
+Door hotspot;Oven hotspot
+Door space;Ovitila
+Doors;Ovet
+Doors of Dinh;Dinhin ovet
+Doorway;Oviaukko
+Doric's Whetstone;Doric's Whetstone
+Double bed;Parisänky
+Dragon Bitter;Dragon Bitter
+Dragon bitter;Lohikäärme katkera
+Dragon corpse;Lohikäärmeen ruumis
+Dragon egg;Lohikäärmeen muna
+Dragon head;Lohikäärmeen pää
+Dragon statue;Lohikäärmeen patsas
+Dragon trophy display;Dragon Trophy näyttö
+Dragon's head;Lohikäärmeen pää
+Dragonfire;Dragonfire
+Dragonfly;Sudenkorento
+Dragonfruit tree;Dragonfruit puu
+Dragonfruit tree stump;Dragonfruit puun kanto
+Dragonhide Leather;Dragonhide nahka
+Drain;Valua
+Drain Pipe;Tyhjennysputki
+Drained Crystal;Valutettu kristalli
+Dramen tree;Dramen puu
+Drapes;Verhot
+Drawer space;Laatikon tila
+Drawers;Laatikot
+Draynor Manor Portal;Draynorin kartanon portaali
+Dream List;Unelma lista
+Dream Tree stump;Unelmapuun kanto
+Dream puff;Unelmien tuulahdus
+Dream tree;Unelmien puu
+Dresser;Pukeutuja
+Dresser space;Pukeutumistila
+Drift net (full);Ajoverkko (täysi)
+Drift net anchors;Ajoverkon ankkurit
+Driftwood;Ajopuu
+Drill;Porata
+Drilling machine;Porakone
+Drip;Tippua
+Dripping tendrils;Tippuvat lonkerot
+Dripping vine;Tippuva viiniköynnös
+Drips;Tipat
+Drive belt;Käyttöhihna
+Druid's robes;Druidin kaapuja
+Drunken Dwarf;humalainen kääpiö
+Dry patch;Kuiva laastari
+Dry stone wall;Kuiva kivimuuri
+Drying line;Kuivauslinja
+Dug hole;Kaivettu reikä
+Dummy;Nukke
+Dung;Lantaa
+Dungeon door;Dungeonin ovi
+Dungeon entrance;Dungeonin sisäänkäynti
+Dusk;Hämärä
+Dwarf;Kääpiö
+Dwarf Flag;Kääpiön lippu
+Dwarf MultiCannon;Kääpiö MultiCannon
+Dwarf bath;Kääpiö kylpy
+Dwarf mirror;Kääpiö peili
+Dwarf multicannon;Kääpiö monitykki
+Dwarf remains;Kääpiö jää
+Dwarf statue;Kääpiö patsas
+Dwarven Consortium Table;Dwarven Consortium -taulukko
+Dwarven Stout;Dwarven Stout
+Dwarven machinery;Kääpiöiden koneet
+Dwellberry bush;Dwellberry pensas
+Dye Pots;Väritysastiat
+Dyed fabric;Värjätty kangas
+Dying tree;Kuoleva puu
+Dying tree Stump;Kuoleva puun kanto
+Eagle lever;Kotkan vipu
+Earth Mound;Maan kumpu
+Earth rift;Maan repeämä
+Easel;Maalausteline
+Ectofuntus;Ectofuntus
+Edge;Reuna
+Eerie statue;Kammottava patsas
+Efh salt;Efh suolaa
+Egg;Muna
+Egg Sac;Egg Sac
+Egg hopper;Munasäiliö
+Egg launcher;Munanheitin
+Egg sac;Munapussi
+Eggs;Munat
+Egniol Potions;Egniol juomat
+Eight;Kahdeksan
+Elaborate lockbox;Hienostunut lukkolaatikko
+Electrified harpoonfish cannon;Sähköistetty harppuunakalakanuuna
+Elemental balance;Elementaarinen tasapaino
+Elemental balance space;Elementaarinen tasapainotila
+Elemental sphere;Alkuainepallo
+Elevator;Hissi
+Elevator controls;Hissin säätimet
+Elf Flag;Tonttu lippu
+Elidinis Statuette;Elidinis-patsas
+Elite clue scroll display;Elite clue vieritysnäyttö
+Elizabeth's barrel;Elizabethin tynnyri
+Elven Crystal Chest;Haltioiden kristalliarkku
+Elven lamp;Elven lamppu
+Embalming tube;Balsamointiputki
+Embers;Hiillos
+Empty Sack;Tyhjä säkki
+Empty Sarcophagus;Tyhjä sarkofagi
+Empty Stall;Tyhjä Talli
+Empty ash pile;Tyhjä tuhkakasa
+Empty barrel;Tyhjä tynnyri
+Empty basket;Tyhjä kori
+Empty chest;Tyhjä rintakehä
+Empty clothes;Tyhjät vaatteet
+Empty desk;Tyhjä työpöytä
+Empty lamp;Tyhjä lamppu
+Empty pedestal;Tyhjä jalusta
+Empty pool;Tyhjä allas
+Empty rack;Tyhjä teline
+Empty sac;Tyhjä pussi
+Empty sack;Tyhjä säkki
+Empty wall;Tyhjä seinä
+Enchanters Teleport;Enchanters Teleport
+End of bridge;Sillan loppu
+Energy Barrier;Energian este
+Energy Pylon;Energiapyloni
+Energy Sphere;Energia Sfääri
+Energy well;Energiaa hyvin
+Engine Platform;Moottorin alusta
+Entrance;Sisäänkäynti
+Equipment;Laitteet
+Equipment table;Varustetaulukko
+Eric;Eric
+Escape rope;Pakoköysi
+Evergreen;Ikivihreä
+Evil Dave;Paha Dave
+Evil claw;Paha kynsi
+Evil eye decoration;Pahan silmän koristelu
+Excalibur;Excalibur
+Exercise mat;Harjoitusmatto
+Exhumed;Kaivettiin
+Exit;Poistu
+Exit Sign;Poistumismerkki
+Exit Teleport;Poistu Teleportista
+Exit cavern;Poistu luolasta
+Exit door;Poistu ovesta
+Exit path;Poistu polku
+Exit portal;Poistu portaalista
+Experiment booth;Kokeilukoppi
+Experiment cabinet;Kokeilukaappi
+Experiment table;Kokeilutaulukko
+Experiment tube;Kokeiluputki
+Explosion;Räjähdys
+Explosive potion table;Räjähtävä juomapöytä
+Extra anchor;Ylimääräinen ankkuri
+Extra chain;Ylimääräinen ketju
+Extractor gun;Poistopistooli
+Extractor hat;Extractor hattu
+Extractor hat-top;Extractor hattupää
+Eye;Silmä
+Eyes;Silmät
+Fabric;Kangas
+Fabric rack;Kangasteline
+Fairly dark crystal;Melko tumma kristalli
+Fairy Queen;Keiju kuningatar
+Fairy Queen throne;Fairy Queen valtaistuin
+Fairy bank;Keiju pankki
+Fairy fountain;Keiju suihkulähde
+Fairy house;Keiju talo
+Fairy market stall;Keiju tori
+Fairy ring;Keiju sormus
+Fairy workbench;Keiju työpöytä
+Falador Portal;Falador-portaali
+Fallen Tree;Kaatunut puu
+Fallen Wall;Kaatunut seinä
+Fallen soldier;Kaatunut sotilas
+Fallen statue;Kaatunut patsas
+Fallen tree;Kaatunut puu
+Falling door;Putoava ovi
+Falling rock;Putoava kivi
+Fan blade;Tuulettimen terä
+Fancy Jewellery Box;Tyylikäs korurasia
+Fancy dress box;Tyylikäs mekkolaatikko
+Fancy dress box space;Fancy mekko laatikko tilaa
+Fancy pool of Rejuvenation;Upea nuorennusallas
+Fancy range;Hieno valikoima
+Farm door;Maatilan ovi
+Farming patch;Maanviljelyspaikka
+Feathers;Höyhenet
+Felled Yommi tree;Kaadettu Yommi-puu
+Fence;Aita
+Fence bits;Aidan palat
+Fence corner;Aidan kulma
+Fence end;Aidan pää
+Fence mid;Aita keskellä
+Fence space;Aidan tilaa
+Fence t-piece;Aidan t-kappale
+Fencing;Miekkailu
+Fencing ring;Miekkailu rengas
+Fenkenstrain's Castle Portal;Fenkenstrainin linnan portaali
+Fermenting Vat;Käymisalv
+Fern;Saniainen
+Ferry;Lautta
+Fertile Soil;Hedelmällinen maaperä
+Figurehead;Keulakuva
+Filled Recess;Täytetty syvennys
+Final Pillar;Viimeinen pilari
+Fire;Palo
+Fire Wall;Palomuuri
+Fire altar;Paloalttari
+Fire of Dehumidification;Kosteudenpoiston palo
+Fire of Domination;Domination Fire
+Fire of Eternal Light;Ikuisen Valon Tuli
+Fire of Nourishment;Ravinnon tuli
+Fire of Unseasonal Warmth;Epäkauden lämmön tuli
+Fire pit;Tulipesä
+Fire remains;Tuli jää
+Fire rift;Paloero
+Fire trap;Tuliloukku
+Firebox;Tulipesä
+Firepit;Firepit
+Firepit with hook;Tulipesä koukulla
+Firepit with pot;Tulipesä kattilalla
+Fireplace;Takka
+Fireplace space;Takkatilaa
+Fireplace surround;Takkaympäristö
+Firm snow patch;Kiinteä lumipaikka
+First aid box;Ensiapulaatikko
+Fish;Kalastaa
+Fish basket;Kalakori
+Fish bits;Kalapalat
+Fish bowl;Kala kulho
+Fish stall;Kalakoju
+Fishing Contest Banner;Kalastuskilpailun banneri
+Fishing Crane;Kalastusnosturi
+Fishing Guild Portal;Fishing Guild -portaali
+Fishing Spot;Kalastuspaikka
+Fishing Spot (Depleted);Kalastuspaikka (tyhjentynyt)
+Fishing net;Kalastusverkko
+Fishing rod;Onkivapa
+Fishing spot;Kalastuspaikka
+Fishing trophy space;Kalastuspalkinto tilaa
+Fishing weights;Kalastuspainot
+Fissure;Halkeama
+Five;Viisi
+Fixed bridge;Kiinteä silta
+Flag;Lippu
+Flagpole;Lipputanko
+Flames;Liekit
+Flaming Fire altar;Flaming Fire alttari
+Flashing landing light;Vilkkuva laskuvalo
+Flat ground;Tasainen maaperä
+Flat rock;Tasainen kivi
+Flat stone;Tasainen kivi
+Flax;Pellava
+Floating Book;Kelluva kirja
+Floats;Kelluvat
+Floor;Kerros
+Floor below;Kerros alla
+Floor decoration;Lattian koristelu
+Floor space;Lattiatilaa
+Floor space corner;Lattiatilan kulma
+Floor space mid;Lattiatila puolivälissä
+Floor space side;Lattiatilan puoli
+Floor spikes;Lattiapiikit
+Floor tile;Lattialaatta
+Floorboards;Lattialaudat
+Flour;Jauhot
+Flour bin;Jauhosäiliö
+Flower;Kukka
+Flower Patch;Kukkamerkki
+Flowerbed;Kukkapenkki
+Flowering fern;Kukkiva saniainen
+Flowers;Kukat
+Flute;Huilu
+Fly paper;Perhopaperi
+Fly trap;Kärpäsloukku
+Fog marker;Sumumerkki
+Font;Fontti
+Food Stall;Ruokakioski
+Food Trough;Ruokakaukalo
+Food chute;Ruokakouru
+Food cupboard;Ruokakaappi
+Food trough;Ruokakaukalo
+Foot lockers;Jalkakaapit
+Footprints;Jalanjäljet
+Forest Mushrooms;Metsän sienet
+Forest floor;Metsän kerros
+Formidable passage;Valtava läpikulku
+Fortified gate;Linnoitettu portti
+Fossil Island display case;Fossil Islandin vitriini
+Fossil Storage;Fossiilisten varastointi
+Fossil cleaning bench;Fossiilinen puhdistuspenkki
+Fossil fuel;Fossiilinen polttoaine
+Fountain;Suihkulähde
+Fountain of Heroes;Sankarien suihkulähde
+Fountain of Rune;Runen suihkulähde
+Fountain of Uhld;Uhldin suihkulähde
+Four;Neljä
+Fox;Kettu
+Fractionalising still;Fraktioi edelleen
+Fragment of Seren;Fragmentti Serenistä
+Frame;Kehys
+Frank's barrel;Frankin piippu
+Free-for-all portal;Kaikille ilmainen portaali
+Fremennik Boat;Fremennik vene
+Fremennik boat;Fremennik vene
+Frog;Sammakko
+Frog spit;Sammakon sylkeä
+Frozen Pool of Rejuvenation;Jäätynyt nuorennusallas
+Frozen Pool of Restoration;Jäätynyt Restaurointiallas
+Frozen Pool of Revitalisation;Jäätynyt elvytysallas
+Frozen demon;Jäätynyt demoni
+Frozen door;Jäätynyt ovi
+Frozen fancy pool of Rejuvenation;Jäädytetty hieno nuorennusallas
+Frozen orc;Jäätynyt örkki
+Frozen ornate pool of Rejuvenation;Jäädytetty koristeellinen allas nuorentaminen
+Frozen table;Jäätynyt pöytä
+Frozen warrior;Jäätynyt soturi
+Fruit Stall;Hedelmäkioski
+Fruit Tree Patch;Hedelmäpuumerkki
+Fruit cart;Hedelmäkärry
+Full fishing net;Täysi kalaverkko
+Funeral Pyre;Hautajaispyre
+Fungi;Sienet
+Fungi on log;Sienet lokissa
+Fungus;Sieni
+Fungus covered Cavern wall;Sienen peittämä luolan seinä
+Fungus doormat;Sieni-ovimatto
+Fungus pattern;Sieni kuvio
+Fungus seat;Sieni istuin
+Fur stall;Turkistila
+Furnace;Uunin
+Furnace Coolant;Uunin jäähdytysneste
+Fuse;Sulake
+G.A.G. banner;G.A.G. banneri
+Gabion defence;Gabion-puolustus
+Gallows;Hirsipuu
+Game space;Pelitilaa
+Gangplank;Laskuportaat
+Gap;aukko
+Garden fence;Puutarhan aita
+Gas bubble;Kaasukupla
+Gas cylinder;Kaasupullo
+Gas hole;Kaasuaukko
+Gate;Portti
+Gate of War;Sodan portti
+Gates;Portit
+Gauntlet Portal;Gauntlet-portaali
+Gazebo;Huvimaja
+Gear box;Vaihdelaatikko
+Gem Rock;Helmi rock
+Gem Stall;Jalokivikoju
+Gem stall;Helmikioski
+General Bentnoze;Kenraali Bentnoze
+General Graardor display;General Graardor -näyttö
+General Stall;Kenraali Stall
+General Wartface;Yleinen Wartface
+Generator;Generaattori
+Geyser;Geysir
+Ghorrock Portal;Ghorrock portaali
+Giant Anvil;Jättiläinen alasin
+Giant Boulder;Jättiläinen lohkare
+Giant Dwarf;Jättiläinen kääpiö
+Giant anvil;Jättiläinen alasin
+Giant crystal;Jättiläinen kristalli
+Giant feathers;Jättiläiset höyhenet
+Giant vial;Jättiläinen pullo
+Gibbet;Hirsipuu
+Gift of Peace;Rauhan lahja
+Gigantic penguin;Jättimäinen pingviini
+Gilded Adventure Log;Kullattu seikkailuloki
+Gilded bench;Kullattu penkki
+Gilded cape rack;Kullattu viittateline
+Gilded stand;Kullattu teline
+Gilded wardrobe;Kullattu vaatekaappi
+Glarial's Tomb;Glarialin hauta
+Glarial's Tombstone;Glarialin hautakivi
+Glass door;Lasi ovi
+Glass table;Lasipöytä
+Globe;Maapallo
+Globe of Gielinor;Gielinorin maapallo
+Globe space;Maapallon avaruus
+Glouphrie statue;Glouphrie patsas
+Glove Rack;Käsinehylly
+Gloves and duster;Käsineet ja pölypussi
+Glowing Carving;Hehkuva veistos
+Glowing Fungus;Hehkuva sieni
+Glowing Orb;Hehkuva Orb
+Glowing carving;Hehkuva kaiverrus
+Glowing crystal;Hehkuva kristalli
+Glowing fungus;Hehkuva sieni
+Glyphs;Glyfit
+Gnome Flag;Gnome lippu
+Gnome Glider;Gnome Glider
+Gnome barrel;Gnome-tynnyri
+Gnome barrels;Gnome-tynnyrit
+Gnome bench;Gnome-penkki
+Gnome cabinet;Gnome-kaappi
+Gnome chair;Gnome tuoli
+Gnome cooker;Gnome liesi
+Gnome crate;Gnome-laatikko
+Gnome crates;Gnome-laatikot
+Gnome crowd;Gnome-joukko
+Gnome glider;Gnome purjelentokone
+Gnome goal;Gnome maali
+Gnome landing light;Gnome-laskuvalo
+Gnome skeleton;Tontun luuranko
+Gnome statue;Gnome-patsas
+Gnome table;Gnome-pöytä
+Goal;Maali
+Goat;Vuohi
+Goat poo;Vuohen kakka
+Goblin crowd;Goblin-joukko
+Goblin stove;Goblin liesi
+Gobln Merfsh;Gobln Merfsh
+Godfather throne;Kummisetä valtaistuin
+Gold;Kulta
+Gold Castlewars armour;Kultainen Castlewars-panssari
+Gold Chest;Kultainen arkku
+Gold Screen;Kultainen näyttö
+Gold cannonball;Kultainen tykinkuula
+Golden Gnome;Golden Gnome
+Golden cage;Kultainen häkki
+Golden lantern;Kultainen lyhty
+Golden pear bush;Kultainen päärynäpensas
+Golden tree;Kultainen puu
+Golem arm;Golemin käsi
+Golem body;Golemin vartalo
+Golem foot;Golemin jalka
+Golem head;Golemin pää
+Golem rubble;Golemin rauniot
+Golf-cart;Golfkärryt
+Golovanova plant;Golovanova-tehdas
+Golovanova seedling;Golovanova taimi
+Goo covered vine;Goo peitetty viiniköynnös
+Gorilla Statue;Gorilla-patsas
+Gourd tree;Kurpitsa puu
+Gout Tuber Plant;Kihti mukuloiden kasvi
+Goutweed;Goutweed
+Goutweed Crate;Goutweed Crate
+Grain;Vilja
+Grain of Plenty;Grain of Plenty
+Grain sacks;Viljasäkit
+Gramophone;Gramofoni
+Granary roof;Makasiinin katto
+Granary wall;Makasiinin seinä
+Grand Exchange Portal;Grand Exchange -portaali
+Grand Exchange booth;Grand Exchange -osasto
+Grand Exchange display;Grand Exchange -näyttö
+Grand Gold Chest;Suuri kultainen arkku
+Grand bookshelf;Suuri kirjahylly
+Grandfather Clock;Kaappikello
+Grandfather clock;Kaappikello
+Grandiose Doors;Suurenmoiset ovet
+Grape arbor;Rypäleen lehtimaja
+Grape vine;Viiniköynnös
+Grapevine;Grapevine
+Grapevines;Viiniköynnökset
+Grass;Ruoho
+Grassland;Nurmimaa
+Grate;Raastaa
+Grave;Hauta
+Grave marker;Hautamerkki
+Grave of Scorpius;Skorpionin hauta
+Gravestone;Hautakivi
+Graveyard Teleport;Graveyard Teleport
+Great Olm display;Upea Olm-näyttö
+Great Olmic Statue;Suuri Olmic patsas
+Greater magic circle;Suurempi maaginen ympyrä
+Greater teleport focus;Suurempi teleporttifokus
+Green banner;Vihreä banneri
+Green chemical;Vihreä kemikaali
+Green door;Vihreä ovi
+Green tears;Vihreät kyyneleet
+Greenman's ale;Greenman's ale
+Greenmans Ale;Greenmans Ale
+Grill;Grilli
+Grim lilly;Synkkä lilly
+Grimgnash;Grimgnash
+Grinder;Hiomakone
+Grotesque Guardians' display;Groteski Guardiansin näyttö
+Grotto;Luola
+Grotto tree;Grotto puu
+Growing vine;Kasvava viiniköynnös
+Growing wheat;Vehnän viljely
+Grubby Chest;Rikkoinen rinta
+Grubby Door;Grubby Door
+Grym Root;Grym Root
+Grym Root (Depleted);Grym-juuri (tyhjentynyt)
+Guard;Vartija
+Guard dog;Vartiokoira
+Guard space;Vartiotila
+Guide rope;Ohjausköysi
+Guild Door;Killan ovi
+Guild door;Killan ovi
+Guild trophy space;Killan pokaalitila
+Guitar;Kitara
+Gun Locker;Asekaappi
+Guthix Portal;Guthix-portaali
+Haar-Tok;Haar-Tok
+Habitat space;Elinympäristön tila
+Half-built Loom;Puoliksi rakennettu Loom
+Hammer;Vasara
+Hammers;Vasarat
+Hammerstone Hops;Hammerstone humala
+Hammock;Riippumatto
+Hand holds;Käsi pitää
+Handholds;Kädensijat
+Handle;Kahva
+Handy portal;Kätevä portaali
+Hanger;Ripustin
+Hanging;Riippuva
+Hanging banner;Riippuva banneri
+Hanging cape;Riippuva viitta
+Hanging dye;Riippuva väriaine
+Hanging flag;Riippuva lippu
+Hanging hand;Riippuva käsi
+Hanging log;Riippuva tukki
+Hanging meat;Riippuva liha
+Hanging pirate;Riippuva merirosvo
+Hanging tapestry;Riippuva kuvakudos
+Hanging wheel;Riippuva pyörä
+Hangman game;Hangman peli
+Hank (Well);Hank (No)
+Hank (ghastly!);Hank (kammottavaa!)
+Hank (sick);Hank (sairas)
+Hank (very sick);Hank (erittäin sairas)
+Hard rock;Kovaa rockia
+Hardcore Ironman;Hardcore Ironman
+Hardwood Grove Doors;Hardwood Grove Ovet
+Hardy goutweed;Hardy goutweed
+Harmony Island Portal;Harmony Island -portaali
+Harp;Harppu
+Harpoonfish cannon;Harpoonfish tykki
+Harpoons;Harppuunat
+Harvested Celastrus tree;Korjattu Celastrus-puu
+Hat rack;Hattuteline
+Hat stand;Hattuteline
+Hatch;Luukku
+Hay Bales;Heinäpaalit
+Hay bale;Heinäpaali
+Hay bales;Heinäpaalit
+Haystack;Heinäsuovasta
+Hazeel's coffin;Hazeelin arkku
+Hazelmere statue;Hazelmeren patsas
+Head trophy space;Pään pokaalitila
+Headless statue;Päätön patsas
+Healer item machine;Healer esinekone
+Healer spring;Lääkärin kevät
+Healing certificate;Parannustodistus
+Healthorg statue;Healthorgin patsas
+Heap of bricks;Kasa tiiliä
+Hearth;Tulisija
+Heat;Lämpö
+Heater;Lämmitin
+Heather;Heather
+Heavy door;Raskas ovi
+Hedge;Hedge
+Hedging;Suojaus
+Hefin Banner;Hefin Banner
+Hellhound;Helvettikoira
+Helmet pluming stand;Kypärän putkisto
+Henge;Henge
+Heraldry space;Heraldinen tila
+Herb;Yrtti
+Herb Stall;Yrttitalli
+Herb patch;Yrttilaastari
+Herbs;Yrtit
+Herman's desk;Hermanin työpöytä
+Heroic statue;Sankarillinen patsas
+Hespori;Hespori
+Hespori patch;Hesporin laastari
+Hidden Statue;Piilotettu patsas
+Hidden trapdoor;Piilotettu luukku
+High Stakes;Korkeat panokset
+Hill;Hill
+Hillside entrance;Sisäänkäynti rinteessä
+History;Historia
+Hobgoblin;Peikko
+Hoisted sail;Nostettu purje
+Holding area;Pitoalue
+Hole;Reikä
+Hole in the wall;Reikä seinässä
+Hole in wall;Reikä seinässä
+Hollow Log;Ontto Log
+Hollow log;Ontto hirsi
+Hollow tree;Ontto puu
+Hollowed rock;Ontto kivi
+Holy Barrier;Pyhä este
+Holy barrier;Pyhä este
+Hook briar;Koukku briar
+Hoop Snake;Hoop Snake
+Hope bridge;Toivon silta
+Hopper;Hopper
+Hopper controls;Suppilon ohjaimet
+Hops Patch;Humala Patch
+Horn of Death;Kuoleman sarvi
+Horn of glory;Kirkkauden sarvi
+Hosidius statue;Hosidius-patsas
+Hospital shelves;Sairaalan hyllyt
+Hot Coals;Kuumia hiiliä
+Hot vent door;Kuuma tuuletusovi
+House Advertisement;Talon mainos
+Howling Snow Storm;Ulvova lumimyrsky
+Huge Gate;Valtava portti
+Huge Mushroom;Valtava Sieni
+Huge Spider;Valtava Hämähäkki
+Huge plant;Valtava kasvi
+Huge vat;Valtava alv
+Hull;Hull
+Human Flag;Ihmisen lippu
+Hurdle;Este
+Hurt fairy;Loukkaantunut keiju
+Hutch;Häkki
+Iasor plant;Iasorin kasvi
+Iban's Throne;Ibanin valtaistuin
+Ice;Jäätä
+Ice Column;Jääpylväs
+Ice Light;Jäävalo
+Ice Throne;Jäävaltaistuin
+Ice Troll King;Jääpeikkokuningas
+Ice blockage;Jäätukos
+Ice bridge;Jää silta
+Ice chunks;Jääpalat
+Ice covered boulder;Jään peittämä lohkare
+Ice crystal;Jääkristalli
+Ice cube;Jääpala
+Ice gate;Jääportti
+Ice ledge;Jääreuna
+Ice steps;Jääportaat
+Ice storm;Jäämyrsky
+Icicle;Jääpuikko
+Icicles;Jääpuikkoja
+Icon of Bob;Bobin ikoni
+Icon of Gnome Child;Tonttulapsen ikoni
+Icon of Guthix;Guthixin ikoni
+Icon of Zamorak;Zamorakin ikoni
+Icon space;Ikoni avaruus
+Icosahedron Pile;Ikosaedrin kasa
+Icthlarin's statue;Icthlarinin patsas
+Icy Cavern;Jäinen luola
+Icy rock;Jäinen kivi
+Icy rocks;Jäiset kivet
+Icyene Statue;Icyenen patsas
+Igloo;Iglu
+Illuminated Symbol;Valaistu symboli
+Imposing Doors;Näyttävät ovet
+Inactive Symbol;Ei-aktiivinen symboli
+Inanimate Altar;Eloton alttari
+Incense burner;Suitsukepoltin
+Incinerator;Polttolaitos
+Incomplete map;Epätäydellinen kartta
+Inconspicuous bush (beginner);Huomaamaton pensas (aloittelija)
+Inconspicuous bush (easy);Huomaamaton pensas (helppo)
+Inconspicuous bush (elite);Huomaamaton pensas (eliitti)
+Inconspicuous bush (hard);Huomaamaton pensas (kova)
+Inconspicuous bush (master);Huomaamaton pensas (mestari)
+Inconspicuous bush (medium);Huomaamaton pensas (keskikokoinen)
+Inconspicuous crate (easy);Huomaamaton laatikko (helppo)
+Inconspicuous crate (elite);Huomaamaton laatikko (eliitti)
+Inconspicuous crate (hard);Huomaamaton laatikko (kova)
+Inconspicuous crate (master);Huomaamaton laatikko (mestari)
+Inconspicuous crate (medium);Huomaamaton laatikko (keskikokoinen)
+Inconspicuous hole (easy);Huomaamaton reikä (helppo)
+Inconspicuous hole (elite);Huomaamaton reikä (eliitti)
+Inconspicuous hole (hard);Huomaamaton reikä (kova)
+Inconspicuous hole (master);Huomaamaton reikä (mestari)
+Inconspicuous hole (medium);Huomaamaton reikä (keskikokoinen)
+Inconspicuous rocks (easy);Huomaamattomat kivet (helppo)
+Inconspicuous rocks (elite);Huomaamattomat kivet (eliitti)
+Inconspicuous rocks (hard);Huomaamattomat kivet (kovat)
+Inconspicuous rocks (master);Huomaamattomat kivet (mestari)
+Inconspicuous rocks (medium);Huomaamattomat kivet (keskikokoiset)
+Incubation chamber;Inkubointikammio
+Incubator;Hautomo
+Infernal chart;Helvetin kaavio
+Information;Tiedot
+Information Scroll;Tietorulla
+Information booth;Tietokoppi
+Information scroll;Tietorulla
+Injured fairy;Loukkaantunut keiju
+Insurance stall;Vakuutuskoju
+Interdimensional rift;Moniulotteinen repeämä
+Intermediate Flag;Väliaikainen lippu
+Interrogation chair;Kuulustelu tuoli
+Iorwerth Banner;Iorwerth Banner
+Iron Winch;Rautainen vinssi
+Iron ladder;Rautatikkaat
+Iron railings;Rautaiset kaiteet
+Ironman & Ultimate Ironwoman;Ironman & Ultimate Ironwoman
+Isafdar painting;Isafdar maalaus
+Item Chest;Tuote Rinta
+Ithell Banner;Ithell Banner
+Ivory table;Norsunluupöytä
+Jacky Jester;Jacky Jester
+Jagged wall;rosoinen seinä
+Jail Door;Vankilan ovi
+Jangerberry bush;Jangermarjan pensas
+Javelin;Keihäs
+Jenkins;Jenkins
+Jewellery box space;Korulaatikon tila
+Jewellery stall;Korukioski
+Jolly Roger;Iloinen Roger
+Juliet;Julia
+Juna;Juna
+Junction box;Kytkentälaatikko
+Jungle Bush;Viidakkopensas
+Jungle Flower;Viidakon kukka
+Jungle Grass;Viidakon ruoho
+Jungle Palm;Viidakon palmu
+Jungle Plant;Viidakon kasvi
+Jungle Tree;Viidakkopuu
+Jungle Tree Stump;Viidakon kanto
+Jungle flower;Viidakon kukka
+Jungle plant;Viidakon kasvi
+Junk;Roskaa
+Justiciar Statue;Tuomari-patsas
+Justiciar armour;Justician panssari
+Jute;Juutti
+Jutting wall;Koskettava seinä
+KBD heads;KBD päät
+KQ head;KQ pää
+Kaleef's body;Kaleefin ruumis
+Kalphite Queen;Kalphiten kuningatar
+Kalphite Queen Topiary;Kalphite Queen Topiary
+Kalphite Queen display;Kalphite Queen -näyttö
+Kalphite Soldier;Kalphite sotilas
+Kalphite queen legs;Kalphite kuningatar jalat
+Karamja painting;Karamja maalaus
+Kebab;Kebab
+Keg;tynnyri
+Kelda Hops;Kelda Humala
+Kelda Hops Patch;Kelda Hops Patch
+Kelda Stout;Kelda Stout
+Kelp;Rakkolevä
+Kennith's ball;Kennithin pallo
+Kettle;Vedenkeitin
+Key;Avain
+Keyhole;Avaimenreikä
+Kharidian cactus (Dry);Kharidian kaktus (kuiva)
+Kharidian cactus (Healthy);Kharidian kaktus (terveellinen)
+Kharyrll Portal;Kharyrll-portaali
+King Arthur;Kuningas Arthur
+Kings' ladder;Kuninkaiden tikkaat
+Kitchen Drawers;Keittiön laatikot
+Kitchen cabinet;Keittiön kaappi
+Kitchen gate;Keittiön portti
+Kitchen table;Keittiön pöytä
+Kite shield;Leijan suoja
+Knight;Ritari
+Knight Statue;Ritarin patsas
+Kourend Portal;Kourend portaali
+Kourend map display case;Kourend karttavitriinit
+Kourend sigil;Kourend merkki
+Kraken Topiary;Kraken Topiary
+Kraken display;Krakenin näyttö
+Krandorian Hops;Krandorian humala
+Kronos plant;Kronoksen kasvi
+Kurask head;Kuraskin pää
+Lab table;Laboratoriopöytä
+Lab tube;Laboratorioputki
+Ladder;Tikapuut
+Ladder space;Tikkaat tilaa
+Ladder top;Tikkaiden yläosa
+Lalli's Stew;Lallin muhennos
+Lamp;Lamppu
+Lamp oil still;Lamppuöljy edelleen
+Lamp space;Lampputila
+Lamp stall;Lampun pysähdys
+Lamp still;Lamppu edelleen
+Lamppost;Lyhtypylväs
+Lancalliums;Lancalliums
+Lander boat;Lander vene
+Lander hatch;Lander-luukku
+Landscape;Maisema
+Landscape space;Maisematilaa
+Lantern;Lyhty
+Larder;Ruokakaappi
+Larder space;Suurempi tila
+Large Barrel;Iso tynnyri
+Large Boulder;Iso Boulder
+Large Cage;Suuri häkki
+Large Crystal;Suuri kristalli
+Large Display;Suuri näyttö
+Large Fossil Display;Suuri fossiilinen näyttö
+Large Fossil Support;Suuri fossiilinen tuki
+Large Geyser;Suuri geysiri
+Large Rock;Suuri kivi
+Large Table;Suuri pöytä
+Large bone;Suuri luu
+Large boulder;Iso lohkare
+Large cave;Suuri luola
+Large crystals;Isoja kristalleja
+Large cupboard;Suuri kaappi
+Large door;Suuri ovi
+Large doors;Suuret ovet
+Large fountain;Suuri suihkulähde
+Large geyser;Iso geysir
+Large grave;Suuri hauta
+Large grave stone;Suuri hautakivi
+Large hole;Iso reikä
+Large open cupboard;Suuri avoin kaappi
+Large orrery;Suuri orrery
+Large oven;Suuri uuni
+Large rock;Iso kivi
+Large sewer pipe;Iso viemäriputki
+Large stalagmite;Suuri stalagmiitti
+Large storage unit;Suuri säilytysyksikkö
+Large table;Iso pöytä
+Large urn;Suuri uurna
+Large vase;Suuri maljakko
+Large-leaf Plant;Suurilehtinen kasvi
+Larran's big chest;Larranin iso rinta
+Larran's small chest;Larranin pieni rintakehä
+Lathe;Sorvi
+Laundry Basket;Pyykkikori
+Lava;Laava
+Lava Monster;Laava hirviö
+Lava crater;Laavan kraatteri
+Lava forge;Laava takomo
+Lava gap;Laava-aukko
+Lava trough;Laava-astia
+Law rift;Lakiero
+Lazim's statue;Lazimin patsas
+Leaflet;Esite
+Leaflets;Esitteitä
+Leafy Palm Tree;Lehtinen palmu
+Leafy tree;Lehtinen puu
+League Accomplishment Scroll;Liigan saavutusrulla
+League Firsts Board;Liigan ykköslautakunta
+League statue;Liigan patsas
+Leak;Vuotaa
+Leather shields;Nahkaiset suojat
+Leaves;Lehdet
+Lectern;Puhujan puhuja
+Lectern space;Puhujan tila
+Ledge;Ledge
+Left side of a fireplace;Takan vasen puoli
+Leftovers;Ylijäämät
+Legends Guild door;Legends Guildin ovi
+Letter;Kirje
+Lever;Vipu
+Lever A;Vipu A
+Lever B;Vipu B
+Lever C;Vipu C
+Lever D;Vipu D
+Lever E;Vipu E
+Lever F;Vipu F
+Lever bracket;Vivun kannatin
+Lever space;Viputila
+Levers;Vivut
+Leviathan;Leviatan
+Life buoy;Pelastusrengas
+Lifeless Matter;Eloton aine
+Lifelilly;Lifelilly
+Lift;Hissi
+Lift Engine;Nosta moottori
+Lift Platform;Nostolava
+Light;Kevyt
+Light Jungle;Kevyt viidakko
+Light door;Kevyt ovi
+Lighting mechanism;Valaistusmekanismi
+Lighting space;Valaistustila
+Lightning;Salama
+Lightning conductor;Ukkosenjohdatin
+Limestone fireplace;Kalkkikivitakka
+Limpwurt plant;Limpwurt kasvi
+Linum Tirinum;Linum Tirinum
+Linum Tirinum (Depleted);Linum Tirinum (tyhjentynyt)
+Lion Statue;Leijona patsas
+Little boulder;Pieni lohkare
+Little crack;Pieni halkeama
+Little tent;Pieni teltta
+Lizard dwelling;Liskojen asunto
+Lizardman corpse;Lizardmanin ruumis
+Lizardman eggs;Lizardman munat
+Lizardman head;Lizardmanin pää
+Lizardman lair;Lizardmanin luola
+Loader;Loader
+Lobstrosity;Hummeri
+Lock;Lukko
+Locked Ogre chest;Lukittu Ogre-rintakehä
+Locked chest;Lukittu rintakehä
+Locked door;Lukittu ovi
+Locked gate;Lukittu portti
+Locker;Kaappi
+Lockers;Kaapit
+Log Store;Hirsikauppa
+Log balance;Lokin saldo
+Log pile;Hirsipino
+Log raft;Hirsilautta
+Log storage;Tukkivarasto
+Logavano plant;Logavanon kasvi
+Logavano seedling;Logavanon taimi
+Logs;Lokit
+Long branched tree;Pitkä haarautunut puu
+Long grass;Pitkä ruoho
+Long planks;Pitkät lankut
+Longhall door;Longhall ovi
+Loom;Kangaspuut
+Loose Mud;Irtonaista mutaa
+Loose Railing;Löysä kaide
+Loose panel;Löysä paneeli
+Loose rocks;Irrallisia kiviä
+Lovakengj statue;Lovakengj-patsas
+Lovakite furnace;Lovakite-uuni
+Low fence;Matala aita
+Low wall;Matala seinä
+Lumbridge Guide;Lumbridgen opas
+Lumbridge Portal;Lumbridgen portaali
+Lumbridge painting;Lumbridgen maalaus
+Lumpy rug;Möykkyinen matto
+Lunar Altar;Kuun alttari
+Lunar Isle Portal;Lunar Isle -portaali
+Lunar globe;Kuun maapallo
+Lure cave;Viehe luola
+Machine;Kone
+Machine panel;Koneen paneeli
+Machinery;Koneet
+Magenta Crystal;Magenta kristalli
+Magenta crystal;Magenta kristalli
+Magenta door;Magenta ovi
+Magic Gate;Maaginen portti
+Magic Mirror;Maaginen peili
+Magic Mushtree;Magic Mushtree
+Magic Portal;Maaginen portaali
+Magic Stall;Magic Stall
+Magic Tree;Taikapuu
+Magic Tree Stump;Taikapuun kanto
+Magic ball;Maaginen pallo
+Magic barrier;Maaginen este
+Magic birdhouse;Maaginen lintumaja
+Magic birdhouse (empty);Maaginen lintumaja (tyhjä)
+Magic box;Taikalaatikko
+Magic box failed;Taikalaatikko epäonnistui
+Magic cape rack;Maaginen viittateline
+Magic chest;Maaginen rintakehä
+Magic circle;Maaginen ympyrä
+Magic door;Maaginen ovi
+Magic guild door;Taikakiltan ovi
+Magic spell;Maaginen loitsu
+Magic table;Maaginen pöytä
+Magic tree;Maaginen puu
+Magic wardrobe;Maaginen vaatekaappi
+Magic wardrobe space;Maaginen vaatekaappitila
+Magic well;Magic hyvin
+Magic wheat;Maaginen vehnä
+Magical Animator;Maaginen animaattori
+Magical Barrier;Maaginen este
+Magical Chest;Maaginen rinta
+Magical Fire;Maaginen tuli
+Magical Obelisk;Maaginen obeliski
+Magical fire;Maaginen tuli
+Magical pumpkin;Maaginen kurpitsa
+Magical shield;Maaginen kilpi
+Magical symbol;Maaginen symboli
+Magical wheat;Maaginen vehnä
+Mahogany;Mahonki
+Mahogany Adventure Log;Mahoninen seikkailuloki
+Mahogany Wardrobe;Mahoninen vaatekaappi
+Mahogany bench;Mahoninen penkki
+Mahogany birdhouse;Mahoninen lintumaja
+Mahogany birdhouse (empty);Mahonki lintumaja (tyhjä)
+Mahogany cape rack;Mahoninen viittateline
+Mahogany chest;Mahoninen rintakehä
+Mahogany feeder;Mahoninen syöttölaite
+Mahogany house;Mahonkitalo
+Mahogany outfit stand;Mahoninen asusteline
+Mahogany prize chest;Mahonki palkintoarkku
+Mahogany sapling;Mahonkin taimi
+Mahogany scratching post;Mahoninen raapimistolppa
+Mahogany table;Mahoninen pöytä
+Mahogany tree;Mahonkipuu
+Mahogany tree stump;Mahonkipuun kanto
+Mahogany trophy case;Mahonki palkintokotelo
+Mahogany wall decoration;Mahoninen seinäkoristelu
+Making Friends with My Arm display;Ystävien saaminen My Arm -näytöllä
+Man hidden;Mies piilossa
+Man trap;Mies ansa
+Mandibular Maximus;Mandibulaarinen Maximus
+Mangle;Mankeli
+Manhole;Kaivo
+Manhole cover;Kaivon kansi
+Mannequin;Mannekiini
+Map;Kartta
+Map space;Karttatila
+Map table;Karttataulukko
+Maple Tree;Vaahterapuu
+Maple birdhouse;Vaahtera lintumaja
+Maple birdhouse (empty);Vaahtera lintumaja (tyhjä)
+Maple tree;Vaahterapuu
+Marble adventure log;Marmorinen seikkailulokki
+Marble bench;Marmori penkki
+Marble cape rack;Marmorinen viittateline
+Marble fireplace;Marmoritakka
+Marble hidden;Marmori piilossa
+Marble trap;Marmori ansa
+Marble wall;Marmori seinä
+Marigold;Kehäkukka
+Marigolds;Marigolds
+Marim Portal;Marim-portaali
+Mark of Darkness;Pimeyden merkki
+Mark of Power;Voiman merkki
+Marked wall;Merkitty seinä
+Marker;Merkki
+Market Stall;Market Stall
+Market stall;Markkinatalo
+Marshy jungle vine;Suoinen viidakon viiniköynnös
+Marv (Well);Marv (No)
+Marv (ghastly!);Marv (kammottavaa!)
+Marv (sick);Marv (sairas)
+Marv (very sick);Marv (erittäin sairas)
+Massive ribs;Massiiviset kylkiluut
+Massive storage unit;Massiivinen säilytysyksikkö
+Mast;Masto
+Master clue scroll display;Master clue vieritysnäyttö
+Mature Asgarnian Ale;Aikuinen Asgarnian Ale
+Mature Axeman's Folly;Kypsän Axeman's Folly
+Mature Chef's Delight;Aikuisen kokin herkku
+Mature Cider;Kypsä siideri
+Mature Dragon Bitter;Aikuinen Dragon Bitter
+Mature Dwarven Stout;Aikuinen Dwarven Stout
+Mature Greenmans Ale;Aikuinen Greenmans Ale
+Mature Moonlight Mead;Aikuinen Moonlight Mead
+Mature Slayer's Respite;Mature Slayer's Respite
+Mature Wizards Mind Bomb;Mature Wizards Mind Bomb
+Mature juniper tree;Aikuinen katajapuu
+Mausoleum;Mausoleumi
+Mausoleum Door;Mausoleumin ovi
+Mausoleum door;Mausoleumin ovi
+Meat table;Lihapöytä
+Meat tree;Lihapuu
+Medical table;Lääketieteellinen pöytä
+Medium Boulder;Keskikokoinen lohkare
+Medium Fossil Display;Keskikokoinen fossiilinen näyttö
+Medium Jungle;Keskikokoinen viidakko
+Medium fence;Keskikokoinen aita
+Medium storage unit;Keskikokoinen säilytysyksikkö
+Medivaemia root;Medivaemian juuri
+Medpack Box;Medpack Box
+Meilyr Banner;Meilyr Banner
+Melting Pot;Sulatusuuni
+Memorial;Muistomerkki
+Memoriam Device;Memoriam-laite
+Mercenary;Palkkasoturi
+Merfolk Skeleton;Merfolk Skeleton
+Metal;Metalli
+Metal Press;Metallipuristin
+Metal bird;Metallilintu
+Metal door;Metallinen ovi
+Metal gate;Metalli portti
+Metal ladder;Metalliset tikkaat
+Metal pieces;Metalliosat
+Metal stand;Metallinen teline
+Mighty torrent;Voimakas torrent
+Milk Urns;Maito Urnit
+Mill;Mill
+Millstones;Myllynkivet
+Mind Altar Portal;Mind Altar -portaali
+Mind Door;Mielen ovi
+Mind rift;Mielen repeämä
+Mine Cart;Minun kori
+Mine cart;Minun kärry
+Mine cart sign;Minun kärrymerkki
+Mine cave;Minun luola
+Mine door;Minun ovi
+Mine door entrance;Minun oven sisäänkäynti
+Minecart;Minecart
+Mineral vein;Mineraali suoni
+Mirror;Peili
+Mithril armour;Mithril panssari
+Mithril door;Mithril ovi
+Molanisk;Molanisk
+Mole hill;Myyrämäki
+Money Pot;Rahapotti
+Monkey Madness 2 display;Monkey Madness 2 -näyttö
+Monkey Statue;Apinan patsas
+Monkey bars;Apinabaarit
+Monkey trap;Apinan ansa
+Monkeybars;Monkeybars
+Monster space;Monsterin avaruus
+Monument;Monumentti
+Monumental chest;Monumentaalinen rintakehä
+Moonlight Mead;Moonlight Mead
+Morytania painting;Morytanian maalaus
+Mossy branch;Sammaleinen oksa
+Mossy rock;Sammaleinen kivi
+Moth;Koi
+Moths;Koit
+Mould;Muotti
+Mound of earth;Maan kasa
+Mounted Achievement Diary Cape;Asennettu saavutuspäiväkirjaviitta
+Mounted Agility Cape;Asennettu Agility-viitta
+Mounted Agility Cape (t);Asennettu Agility-viitta (t)
+Mounted Attack Cape;Asennettu Attack Cape
+Mounted Attack Cape (t);Asennettu hyökkäyspää (t)
+Mounted Champion's Cape;Asennettu Champion's Cape
+Mounted Coins;Asennetut kolikot
+Mounted Construction Cape;Asennettu Rakennusviita
+Mounted Construction Cape (t);Asennettu rakennusviita (t)
+Mounted Cooking Cape;Asennettu Cooking Cape
+Mounted Cooking Cape (t);Asennettu keittoviitta (t)
+Mounted Crafting Cape;Asennettu Crafting Cape
+Mounted Crafting Cape (t);Asennettu askarteluviitta (t)
+Mounted Defence Cape;Kiinnitetty puolustusniemi
+Mounted Defence Cape (t);Kiinnitetty puolustusniemi (t)
+Mounted Emblem;Kiinnitetty tunnus
+Mounted Farming Cape;Kiinnitetty Farming Cape
+Mounted Farming Cape (t);Kiinnitetty maatalousniemi (t)
+Mounted Fire Cape;Asennettu Fire Cape
+Mounted Firemaking Cape;Asennettu Firemaking Cape
+Mounted Firemaking Cape (t);Asennettu Firemaking Cape (t)
+Mounted Fishing Cape;Kiinnitetty kalastusniemi
+Mounted Fishing Cape (t);Kiinnitetty kalastusniemi (t)
+Mounted Fletching Cape;Asennettu Fletching Cape
+Mounted Fletching Cape (t);Asennettu Fletching Cape (t)
+Mounted Head;Asennettu pää
+Mounted Head Space;Asennettu päätila
+Mounted Herblore Cape;Asennettu Herblore-niemi
+Mounted Herblore Cape (t);Asennettu Herblore-niemi (t)
+Mounted Hitpoints Cape;Asennettu Hitpoints Cape
+Mounted Hitpoints Cape (t);Kiinnitetty Hitpoints Cape (t)
+Mounted Hunting Cape;Kiinnitetty metsästysniemi
+Mounted Hunting Cape (t);Kiinnitetty metsästysniemi (t)
+Mounted Infernal Cape;Kiinnitetty Infernal Cape
+Mounted Magic Cape;Asennettu Magic Cape
+Mounted Magic Cape (t);Asennettu Magic Cape (t)
+Mounted Max Cape;Asennettu Max Cape
+Mounted Mining Cape;Asennettu Mining Cape
+Mounted Mining Cape (t);Kiinnitetty kaivosniemi (t)
+Mounted Music Cape;Asennettu Music Cape
+Mounted Mythical Cape;Asennettu myyttinen niemi
+Mounted Prayer Cape;Asennettu rukousviite
+Mounted Prayer Cape (t);Asennettu rukousviitta (t)
+Mounted Quest Cape;Asennettu Quest Cape
+Mounted Ranged Cape;Asennettu Ranged Cape
+Mounted Ranged Cape (t);Asennettu Ranged Cape (t)
+Mounted Runecrafting Cape;Asennettu Runecrafting-viitta
+Mounted Runecrafting Cape (t);Asennettu Runecrafting-viitta (t)
+Mounted Slayer Cape;Asennettu Slayer Cape
+Mounted Slayer Cape (t);Asennettu Slayer Cape (t)
+Mounted Smithing Cape;Kiinnitetty Smithing Cape
+Mounted Smithing Cape (t);Kiinnitetty Smithing Cape (t)
+Mounted Strength Cape;Asennettu vahvuusviitta
+Mounted Strength Cape (t);Asennettu voimavarsi (t)
+Mounted Thieving Cape;Asennettu Thieving Cape
+Mounted Thieving Cape (t);Asennettu Thieving Cape (t)
+Mounted Woodcutting Cape;Asennettu puunleikkausviitta
+Mounted Woodcutting Cape (t);Asennettu puunleikkausviitta (t)
+Mounted Xeric's Champion;Asennettu Xeric's Champion
+Mounted Xeric's General;Asennettu Xeric's General
+Mounted Xeric's Guard;Asennettu Xeric's Guard
+Mounted Xeric's Sentinel;Asennettu Xeric's Sentinel
+Mounted Xeric's Warrior;Asennettu Xeric's Warrior
+Mounted harpoonfish;Kiinnitetty harppuunakala
+Mounted sea bass;Asennettu meribassi
+Mounted shark;Asennettu hai
+Mounted swordfish;Asennettu miekkakala
+Mourner;Sureva
+Mouse hole;Hiiren reikä
+Mud;Muta
+Mud mound;Mutakammua
+Mud patch;Mutalappu
+Mud pile;Mutakasa
+Mud pit;Mutakuoppa
+Muddy patch;Mutainen paikka
+Mudpile;Mutakasa
+Multicannon parts;Multicannon osat
+Mummy;Muumio
+Mural;Seinämaalaus
+Mushroo;Mushroo
+Mushroom;Sieni
+Mushroom patch;Sienilappu
+Mushroom torch;Sieni taskulamppu
+Mushrooms;Sienet
+Mushtoise;Mushtoise
+Mushtree;Mushtree
+Mushy Bed;Muhkea sänky
+Music Scores;Musiikkimusiikkia
+Music Stand;Nuottiteline
+Musical space;Musiikillinen tila
+Musty bookshelf;Nuhjuinen kirjahylly
+My life;elämäni
+Mysterious glow;Salaperäinen hehku
+Mysterious pipe;Salaperäinen putki
+Mysterious pool;Salaperäinen allas
+Mysterious ruins;Salaperäisiä raunioita
+Mysterious statue;Salaperäinen patsas
+Mysterious stone;Salaperäinen kivi
+Mystic portal;Mystinen portaali
+Mystic symbol;Mystinen symboli
+Mystical barrier;Mystinen este
+Mystical barrier (orange);Mystinen este (oranssi)
+Mystical barrier (red);Mystinen este (punainen)
+Mystical door;Mystinen ovi
+Mystical mirror;Mystinen peili
+Mythic Statue;Myyttinen patsas
+Mythical cape;Myyttinen viitta
+Nails;Kynnet
+Narrow gap;Kapea väli
+Narrow wall;Kapea seinä
+Nasturtium;Koristekrassi
+Nature house;Luontotalo
+Nature rift;Luontoero
+Navigator's table;Navigaattorin pöytä
+Ned's Table;Nedin pöytä
+Nest;Pesä
+Net;Net
+Net trap;Verkko ansa
+Nettles;Nokkonen
+Neutral Barrier;Neutraali este
+New farming patch;Uusi maanviljelyspaikka
+Newspapers;Sanomalehdet
+Nightmare;Painajainen
+Nightmare Berries;Painajaisen marjat
+Nightmare Blossom;Painajaisen kukka
+Nightmare Topiary;Painajainen Topiary
+Nightmare display;Painajainen näyttö
+Nightmare zone display;Painajainen vyöhykkeen näyttö
+Nine;Yhdeksän
+Node;Solmu
+Note;Huom
+Nothing;Ei mitään
+Notice;Huomaa
+Notice board;Ilmoitustaulu
+Noticeboard;Ilmoitustaulu
+Notices;Ilmoitukset
+Novice Flag;Aloittelijan lippu
+Novice flag;Aloittelijan lippu
+Noxious tendrils;Haitallisia lonkeroita
+Oak;Tammi
+Oak Tree;Tammipuu
+Oak bench;Tammipenkki
+Oak birdhouse;Tamminen lintumaja
+Oak birdhouse (empty);Tammen lintumaja (tyhjä)
+Oak cape rack;Tamminen viittateline
+Oak chair;Tammi tuoli
+Oak chest;Tammi rintakehä
+Oak drawers;Tammilaatikot
+Oak feeder;Tammen syöttölaite
+Oak house;Tammitalo
+Oak outfit stand;Tammipukuteline
+Oak prize chest;Tammi palkintoarkku
+Oak scratching post;Tamminen raapimistolppa
+Oak table;Tammi pöytä
+Oak tree;Tammi puu
+Oak tree stump;Tammen kanto
+Oak trophy case;Oak Trophy laukku
+Oak wall decoration;Tammi seinäkoristelu
+Oak wardrobe;Tammi vaatekaappi
+Oaknock statue;Oaknock-patsas
+Oaknock's Machine;Oaknockin kone
+Oaknock's exchanger;Oaknockin vaihdin
+Oaknock's machine;Oaknockin kone
+Obelisk;Obeliski
+Obelisk of Air;Ilman obeliski
+Obelisk of Earth;Maan obeliski
+Obelisk of Fire;Tulen obeliski
+Obelisk of Water;Veden obeliski
+Obsidian bench;Obsidiaani penkki
+Obsidian fence;Obsidiaani-aita
+Obsidian fence post;Obsidiaani aidan pylväs
+Obstacle;Este
+Obstacle net;Esteverkko
+Obstacle pipe;Esteputki
+Occupied Cormorant perch;Miehitetty merimetsoahven
+Occupied perch;Miehitetty ahven
+Odd looking wall;Erikoisen näköinen seinä
+Odd markings;Outoja merkintöjä
+Office table;Toimistopöytä
+Official Order of Construction;Virallinen rakennusjärjestys
+Ogre Coffin;Ogren arkku
+Ogre Drums;Ogre rummut
+Ogre barricade;Ogren barrikadi
+Ogre bed;Ogre sänky
+Ogre bench;Ogren penkki
+Ogre fire;Ogre tuli
+Ogre spit-roast;Ogre-varraspaisti
+Ogre stone door;Ogre kiviovi
+Oil lamp;Öljylamppu
+Olaf's boat;Olafin vene
+Old Bookshelf;Vanha kirjahylly
+Old Crane;Vanha nosturi
+Old Memorial;Vanha muistomerkki
+Old Shrine;Vanha pyhäkkö
+Old Stall;Vanha Talli
+Old axe;Vanha kirves
+Old bookshelf;Vanha kirjahylly
+Old crane;Vanha nosturi
+Old fire pit;Vanha palopaikka
+Old log;Vanha tukki
+Old passageway;Vanha käytävä
+Old ruin entrance;Vanhan raunion sisäänkäynti
+Old sacks;Vanhat säkit
+Old tools;Vanhat työkalut
+Old tree;Vanha puu
+Old wall;Vanha seinä
+Old well;Vanha hyvin
+Olmic pillar;Olminen pilari
+Ominous Fishing Spot;Harmillinen kalastuspaikka
+One;Yksi
+Onion;Sipuli
+Onion basket;Sipulikori
+Onion plant;Sipuli kasvi
+Onion seeds;Sipulin siemenet
+Oojimaflip;Oojimaflip
+Oozing barrier;Tihkuva este
+Open Chest;Avaa rintakehä
+Open Cupboard;Avaa kaappi
+Open Door;Avaa Ovi
+Open chest;Avaa rintakehä
+Open gate;Avaa portti
+Open hot vent door;Avaa kuumailman ovi
+Open statue;Avoin patsas
+Open trapdoor;Avaa luukku
+Opened gold chest;Avattu kultainen rintakehä
+Opening;Avaaminen
+Operating Table;Leikkauspöytä
+Operating table;Leikkauspöytä
+Operation chair;Operaatiotuoli
+Operation table;Toimintapöytä
+Opulent rug;Runsas matto
+Opulent table;Laadukas pöytä
+Orange door;Oranssi ovi
+Orange tree;Appelsiinipuu
+Orange tree stump;Appelsiinipuun kanto
+Orb;Orb
+Orchid;Orkidea
+Orchids;Orkideat
+Ore crate;Malmilaatikko
+Ore sack;Malmisäkki
+Ore stones;Malmikiviä
+Ore table;Malmipöytä
+Ore vein;Malmi suoni
+Organ;Urut
+Ornament;Ornamentti
+Ornamental anvil;Koristeellinen alasin
+Ornamental fountain;Koristeellinen suihkulähde
+Ornamental globe;Koristeellinen maapallo
+Ornate Jewellery Box;Koristeellinen korurasia
+Ornate banner stand;Koristeellinen banneriteline
+Ornate candle;Koristeellinen kynttilä
+Ornate combat dummy;Koristeellinen taistelunukke
+Ornate dragon combat dummy;Koristeellinen lohikäärmeen taistelunukke
+Ornate kalphite combat dummy;Koristeellinen kalfiittitaistelunukke
+Ornate kurask combat dummy;Koristeellinen kurask taistelunukke
+Ornate league statue;Koristeellinen liigapatsas
+Ornate lockbox;Koristeellinen lukkolaatikko
+Ornate pool of Rejuvenation;Koristeellinen nuorennusallas
+Ornate railing;Koristeellinen kaide
+Ornate trophy pedestal;Koristeellinen palkintojalusta
+Ornate undead combat dummy;Koristeellinen epäkuolleiden taistelunukke
+Ornate vampyre combat dummy;Koristeellinen vampyyritaistelunukke
+Ornate vase;Koristeellinen maljakko
+Ornate wilderness combat dummy;Koristeellinen erämaataistelunukke
+Orrery;Orrery
+Otherworldly garden;Toisen maailman puutarha
+Otherworldly theme;Muunlainen teema
+Our lives;Meidän elämämme
+Outfit stand space;Vaateteline
+Output Tap;Output Tap
+Oven;Uuni
+Overhanging rock;Ulkoneva kivi
+Overload potion;Ylikuormitusjuoma
+Owl Statue;Pöllö patsas
+Pack;Pakata
+Pagoda Fungus;Pagodin sieni
+Painting;Maalaus
+Painting stand;Maalausteline
+Paladin;Paladin
+Palm;Palm
+Palm tree;Palmu
+Palm tree stump;Palmun kanto
+Panel;Paneeli
+Panning point;Panorointipiste
+Panning tray;Panorointialusta
+Papaya tree;Papaija puu
+Papaya tree stump;Papaijan kanto
+Paper;Paperi
+Parasol;Päivänvarjo
+Parchment;Pergamentti
+Partial fence;Osittainen aita
+Partially broken bridge;Osittain rikki silta
+Party Balloon;Juhlapallo
+Passage;Passage
+Passageway;Käytävä
+Patched Wall;Pakattu seinä
+Patched wall;Pakattu seinä
+Path;Polku
+Pear tree;Päärynä puu
+Pebbles;Kivet
+Pedals;Polkimet
+Pedestal;Jalusta
+Pedestal space;Jalustan tila
+Peephole;Ovisilmä
+Pen Door;Kynän ovi
+Penance Fighter statue;Penance Fighter -patsas
+Penance Healer statue;Penance Healer -patsas
+Penance Queen spawn statue;Penance Queen -patsas
+Penance Ranger statue;Penance Ranger -patsas
+Penance Runner statue;Penance Runner -patsas
+Penance cave;Katumuksen luola
+Pendant;Riipus
+Pendulum;Heiluri
+Pentamid Pile;Pentamid-kasa
+Perch;Ahven
+Pet basket;Lemmikkikori
+Pet blanket;Lemmikkien peitto
+Pet feeder space;Lemmikkieläinten ruokintatila
+Pet house space;Lemmikkien talon tila
+Pet list;Lemmikkieläinten luettelo
+Pet list space;Lemmikkieläinluettelotila
+Petrified Large Mushroom;Kivettynyt iso sieni
+Petrified Mushtree;Kivettynyt Mushtree
+Petrified Pitcher;Kivettynyt syöttäjä
+Petrified Pufferfish;Kivettynyt pufferfish
+Petrified Spine Plant;Kivettynyt selkäranka kasvi
+Petrified mushroom;Kivettynyt sieni
+Pew;Pew
+Phren Roots;Phren juuret
+Phren Roots (Depleted);Phren Roots (tyhjentynyt)
+Piano;Piano
+Piano stool;Pianotuoli
+Pickaxe;Hakku
+Picket fence;Pikettiaita
+Picnic bench;Piknik penkki
+Picnic table;Piknik-pöytä
+Picture;Kuva
+Picture wall;Kuva seinä
+Pie stall;Piirakkakioski
+Pigeon;Kyyhkynen
+Pile of Ancient Books;Kasa vanhoja kirjoja
+Pile of Fishbowls;Kasa kalakulhoja
+Pile of Rock;Pino of Rock
+Pile of bricks;Kasa tiiliä
+Pile of canes;Kasa keppejä
+Pile of fish;Kasa kalaa
+Pile of rocks;Kasa kiviä
+Pile of rope;Kasa köyttä
+Pile of rubble;Kasa raunioista
+Pile of rubble.;Kasa raunioista.
+Pile of skulls;Kasa kalloja
+Pillar;Pilari
+Pillar of Light;Valon pilari
+Pin;Pin
+Pinball Post;Pinball-posti
+Pinboard;Pinboard
+Pine;Mänty
+Pineapple Plant;Ananas kasvi
+Pineapple plant;Ananas kasvi
+Pineapple plant stump;Ananaskasvin kanto
+Pink rose bush patch;Vaaleanpunainen ruusupensasmerkki
+Pipe;Putki
+Pipe machine;Putkikone
+Pipes;Putket
+Piping;Putket
+Pirate Captain;Merirosvo kapteeni
+Pirate Flag;Merirosvojen lippu
+Pirate Pete;Piraatti Pete
+Pirate Sign;Merirosvo merkki
+Pirate map;Piraatti kartta
+Piscarilius statue;Piscarilius-patsas
+Pit;Pit
+Pitcher plant;Kannu kasvi
+Pitfall;Sudenkuoppa
+Plank;Lankku
+Plant;Kasvi
+Plant Fossil Display;Kasvien fossiilien näyttö
+Plant door;Kasvien ovi
+Planter;Planter
+Plantpot;Kasviruukku
+Plaque;Plakki
+Platform;Alusta
+Platform edge;Alustan reuna
+Platform support;Alustan tuki
+Play blocks;Toista lohkot
+Plinth;Sokkeli
+Plough;Aura
+Plunder Storage;Ryöstövarasto
+Points settings;Pisteasetukset
+Poison Ivy bush;Poison Ivy pensas
+Poison crater;Myrkkykraatteri
+Pokers;Pokerit
+Pole;napa
+Pole-vault;Seivähyppy
+Poll booth;Äänestyskoppi
+Polluted water;Pilaantunut vesi
+Pond;Lampi
+Pool of Dreams;Unelmien allas
+Pool of Nightmares;Painajaisten allas
+Pool of Refreshment;Virkistysallas
+Pool of Rejuvenation;Nuorennusallas
+Pool of Restoration;Restaurointiallas
+Pool of Revitalisation;Elvytysallas
+Pool of Slime;Liman allas
+Pool of blood;Veriallas
+Pool space;Allastila
+Poor Bed;Huono sänky
+Portal;Portaali
+Portal Home;Portaalin etusivu
+Portal Nexus;Portaali Nexus
+Portal Nexus space;Portaali Nexus-tilaa
+Portal frame;Portaalin kehys
+Portal machine;Portaali kone
+Portal of Champions;Mestarien portaali
+Portal of Death;Kuoleman portaali
+Portal of Heroes;Sankarien portaali
+Portal of Legends;Legendojen portaali
+Portal space;Portaalin tila
+Portcullis;Laskuportti
+Portrait;Muotokuva
+Portrait space;muotokuva-avaruus
+Posh bell-pull;Tyylikäs kellonveto
+Post;Lähettää
+Poster;Juliste
+Posts;Viestit
+Pot;Pot
+Pot of Gold;Kultaastia
+Pot of dynamite;Pannu dynamiittia
+Pot-boiler;Tusinatuote
+Potato;Peruna
+Potato basket;Perunakori
+Potato cactus;Perunakaktus
+Potato plant;Peruna kasvi
+Potato plants;Perunan kasvit
+Potato seed;Perunan siemen
+Potatoes;perunat
+Potential fire;Mahdollinen tulipalo
+Potion of power table;Voimapöydän juoma
+Potion shelf;Juomahylly
+Potion shelves;Juomahyllyt
+Potions;juomat
+Pots;Ruukut
+Potted fern;Ruukku saniainen
+Potted flower;Ruukkukukka
+Potted plant;Ruukkukasvi
+Potter's Wheel;Potterin pyörä
+Potter's wheel;Potterin pyörä
+Pottery Oven;Keramiikka uuni
+Powder Barrel;Jauhetynnyri
+Power Grid;Sähköverkko
+Power saw;Sähkösaha
+Precarious bridge;Epävarma silta
+Preparation Table;Valmistelutaulukko
+Press support;Paina tuki
+Pressure Barrel;Paine tynnyri
+Pressure Lever;Painevipu
+Pressure machine;Painekone
+Pressure pad;Painetyyny
+Priest Statue;Papin patsas
+Prison Door;Vankilan ovi
+Prison door;Vankilan ovi
+Prison space;Vankilan tilaa
+Private bank booth;Yksityinen pankkiosasto
+Private portal;Yksityinen portaali
+Prize chest space;Palkintojen rintatila
+Professor's table;Professorin pöytä
+Protest Banners;Protestibannerit
+Protest Poster;Protesti juliste
+Protruding rocks;Ulkonevat kivet
+Pump;Pumppu
+Pump and drain;Pumppu ja tyhjennys
+Pump and tub;Pumppu ja amme
+Pylon;Pylväs
+Pyramid entrance;Pyramidin sisäänkäynti
+Pyre boat;Pyrevene
+Pyre site;Pyren paikka
+Pyromancer;Pyromancer
+Quest List;Tehtävälista
+Quest list space;Tehtäväluettelotila
+Quiescent Snow Storm;Hiljainen lumimyrsky
+Rabbit hole;Kanin reikä
+Rabbit snare;Kanin ansa
+Rabbitless hole;Kaniton reikä
+Rachel (Well);Rachel (No)
+Rachel (ghastly!);Rachel (kammottavaa!)
+Rachel (sick);Rachel (sairas)
+Rachel (very sick);Rachel (erittäin sairas)
+Rack;Teline
+Rack of barrels;Tynnyriteline
+Raft;Lautta
+Rail;Rail
+Railing;Kaide
+Raised coffin;Korotettu arkku
+Ramp;Ramppi
+Range;Alue
+Range chimney;Range savupiippu
+Ranging game space;Laaja pelitila
+Ranging spot;Kätevä paikka
+Ranis Drakan;Ranis Drakan
+Rare Flowers;Harvinaiset kukat
+Rat;Rotta
+Rat Wall;Rotan seinä
+Rat barn;Rotan navetta
+Rat barrel;Rotan tynnyri
+Rat hole;Rotan reikä
+Rat lever;Rotan vipu
+Rat trap;Rotan ansa
+Rat wall;Rotan seinä
+Rat wheel;Rotan pyörä
+Rat-hole;Rota-reikä
+Ray of Light;Valon säde
+Recess;Syvennys
+Recruiting board;Rekrytointilautakunta
+Red Banana Tree;Punainen banaanipuu
+Red Barrier;Punainen este
+Red Castlewars armour;Red Castlewarsin panssari
+Red Flowers;Punaiset kukat
+Red Star Fungi;Punaisen tähden sienet
+Red Water Sign;Punainen vesimerkki
+Red banner;Punainen banneri
+Red chemical;Punainen kemikaali
+Red door;Punainen ovi
+Red flowers;Punaiset kukat
+Red fungi;Punaiset sienet
+Red rose bush patch;Punainen ruusupensasmerkki
+Redberry bush;Punamarjan pensas
+Redwood;Redwood
+Redwood birdhouse;Redwoodin lintumaja
+Redwood birdhouse (empty);Redwoodin lintumaja (tyhjä)
+Redwood fence;Redwood aita
+Redwood fence post;Redwood aitatolppa
+Redwood tree;Punapuu puu
+Redwood tree patch;Punapuun paikka
+Reeds;Ruoko
+Refinery;Jalostamo
+Reinforced crate;Vahvistettu laatikko
+Reinitialisation Panel;Uudelleenalustuspaneeli
+Repair Locker;Korjaa kaappi
+Repair bench;Korjauspenkki
+Repair space;Korjaustila
+Repaired Roof;Korjattu katto
+Repaired furnace;Korjattu uuni
+Repaired leak;Korjattu vuoto
+Repaired wall;Seinä korjattu
+Reset Lever;Nollausvipu
+Restraining Table;Rajoituspöytä
+Restraint Table;Kiinnityspöytä
+Retorts;Vastauksia
+Return Orb;Paluu Orb
+Reward Chest;Palkintoarkku
+Reward chest;Palkintoarkku
+Reward pool;Palkintopooli
+Rewards Chest;Palkintoarkku
+Rewards chest;Palkintorinta
+Rickety door;Rikkinäinen ovi
+Rift;Rift
+Right side of a fireplace;Takan oikea puoli
+Ring of Stones;Ring of Stones
+Rinsing pool;Huuhteluallas
+Ripples;Ripples
+River;Joki
+Rock;Rock
+Rock Chair;Rock tuoli
+Rock Formation;Kiven muodostuminen
+Rock Formation (Depleted);Kivimuodostelma (tyhjentynyt)
+Rock Formation (Glowing);Kiven muodostuminen (hehkuva)
+Rock Pile;Kivikasa
+Rock and string;Rock ja jousi
+Rock debris;Kivijäämiä
+Rock of Dalgroth;Dalgrothin kallio
+Rock pile;Kivikasa
+Rock slide;Kivivyöry
+Rock wall;Kallioseinä
+Rockery;Rockery
+Rockfall;Rockfall
+Rocking chair;Keinutuoli
+Rocking unicorn;Keinuva yksisarvinen
+Rockpile;Rockpile
+Rocks;Kivet
+Rockslide;Rockslide
+Rocky Ledge;Rocky Ledge
+Rocky handholds;Kiviset kädensijat
+Rocky ledge;Kivinen reuna
+Rocky outcrop;Kalliomainen paljastus
+Rocky shore;Kallioinen ranta
+Rocky support;Rocky tuki
+Rocky surface;Kivinen pinta
+Rocnar;Rocnar
+Rolled up rug;Kääritty matto
+Rolled up rugs;Rullatut matot
+Rolling pin;Kaulin
+Roof;Katto
+Roof Entrance;Katon sisäänkäynti
+Roof Exit;Katon uloskäynti
+Roof edge;Katon reuna
+Roof top beams;Kattopalkit
+Rooftop Agility display;Rooftop Agility -näyttö
+Root;Juuri
+Roots;Juuret
+Rope;Köysi
+Rope Ladder;Köysitikkaat
+Rope anchor;Köysi ankkuri
+Rope bell-pull;Köysikellon veto
+Rope bridge;Köysilta
+Rope bridge support;Köysillan tuki
+Rope ladder;Köysitikkaat
+Rope swing;Köysi keinu
+Roped tree;Köysitetty puu
+Ropes;Köydet
+Ropeswing;Ropeswing
+Rose bush;Ruusupensas
+Rosebush;Ruusupensas
+Rosemary;Rosmariini
+Roses;Ruusut
+Rotten Apple Pile;Mädäntynyt omenakasa
+Rotten Totem pole;Mätä Toteemipaalu
+Rotten Yommi;Mätä Yommi
+Rotten Yommi tree;Mätä Yommi-puu
+Rotten carpet;Mätä matto
+Rotten food;Mätä ruoka
+Rotten sapling;Mätä taimi
+Rotten stump;Mätä kanto
+Rotten village fence;Mätä kylän aita
+Rotting branch;Mätää oksa
+Rotting log;Mätänevä tukki
+Rotting tree;Mätänevä puu
+Rough hewn steps;Karkeasti hakatut askelmat
+Rough wall;Karkea seinä
+Round shield;Pyöreä suoja
+Row boat;Soutuvene
+Rowboat;Soutuvene
+Rowboat space;Soutuvene tilaa
+Royal Wedding Invitation;Kuninkaallinen hääkutsu
+Rubber cap mushroom;Kumikorkkisieni
+Rubble;Raunioista
+Rug;Matto
+Rug space;Mattotilaa
+Ruined Pillar;Pilari pilari
+Ruined Stall;Pilaantunut talli
+Ruined stall;Pilaantunut kioski
+Ruins;Rauniot
+Ruins Entrance;Raunioiden sisäänkäynti
+Ruins Exit;Ruins Exit
+Rum Crate;Rommilaatikko
+Rune Essence;Rune Essence
+Rune armour;Rune panssari
+Rune case space;Rune kotelo tilaa
+Rune display case;Rune näyttökotelo
+Rune dragon;Rune lohikäärme
+Rune essence;Rune-esanssi
+Rune pouches;Rune pussit
+Rune temple sign;Rune temppeli merkki
+Runecrafting altar;Runecrafting alttari
+Runic Altar;Riimualttari
+Runite Minor;Runite Minor
+Runner trap(1);Juoksuloukku (1)
+Runner trap(2);Juoksuloukku (2)
+Rupert;Rupert
+Ruptured cavern;Rikkoutunut luola
+Rusted anvil;Ruostunut alasin
+Rusty key;Ruosteinen avain
+S.T.A.S.H chart;S.T.A.S.H-kaavio
+STASH (beginner);STASH (aloittelija)
+STASH (easy);STASH (helppo)
+STASH (elite);STASH (eliitti)
+STASH (hard);STASH (kova)
+STASH (master);STASH (mestari)
+STASH (medium);STASH (keskikokoinen)
+Sabertooth Squirrel;Saberhammas-orava
+Sack;Säkki
+Sack Pile;Säkin kasa
+Sack pile;Säkkipino
+Sacks;Säkit
+Sacred Bone Burner;Pyhä luunpoltin
+Sacred Forge;Pyhä Forge
+Sacred water;Pyhä vesi
+Sacrificial Pyre;Sacrificial Pyre
+Sacrificial boat;Uhrivene
+Safe;Turvallinen
+Sail;Purjehtia
+Sailfish;Purjekalat
+Sails;Purjeet
+Saltpetre;Salpietari
+Salve Graveyard Portal;Salven hautausmaaportaali
+Sample table;Esimerkkitaulukko
+Sand;Hiekka
+Sand pile;Hiekkakasa
+Sand pit;Hiekkalaatikko
+Sandpit;Hiekkalaatikko
+Sandworm castings;Hiekkamatovalut
+Sandy's Coffee Mug;Sandyn kahvimuki
+Sandy's Desk;Sandyn työpöytä
+Sapling;Taimi
+Sarachnis display;Sarachnis näyttö
+Saradomin Brazier;Saradomin Brazier
+Saradomin Portal;Saradomin portaali
+Saradomin Standard;Saradomin standardi
+Saradomin altar;Saradomin alttari
+Saradomin staff;Saradomin henkilökunta
+Saradomin star;Saradomin tähti
+Sarah (Well);Saara (No)
+Sarah (ghastly!);Sarah (kammottavaa!)
+Sarah (sick!);Saara (sairas!)
+Sarah (very sick!);Sarah (erittäin sairas!)
+Sarcophagus;Sarkofagi
+Saucepan;kattila
+Scaffold;Teline
+Scaffolding;Rakennustelineet
+Scarecrow;Variksenpelätin
+Scaregull;Scaregull
+Schematic crate;Kaavamainen laatikko
+Scimitar Stall;Scimitar Stall
+Scorched earth;Poltettu maa
+Score board;Tulostaulu
+Scoreboard;Tulostaulu
+Scrapey Bark Sign;Scrapey Bark -kyltti
+Scrapey Tree;Scrapey Tree
+Scratching post space;Raaputuspostitilaa
+Scrawled note;Scrawled muistiinpano
+Screen;Näyttö
+Scroll;Selaa
+Scroll rack;Rullausteline
+Scroll table;Vieritystaulukko
+Scrolls;Rullaa
+Scrying orb;Huutava pallo
+Scrying pool;Huutava allas
+Sculpture;Veistos
+Scuttle;Scuttle
+Seal of Amlodd;Amloddin sinetti
+Seal of Cadarn;Cadarin sinetti
+Seal of Crwys;Crwysin sinetti
+Seal of Hefin;Hefinin sinetti
+Seal of Iorwerth;Iorwerthin sinetti
+Seal of Ithell;Ithellin sinetti
+Seal of Meilyr;Meilyrin sinetti
+Seal of Trahaearn;Trahaearnin sinetti
+Seal of the Forgotten;Unohdettujen sinetti
+Seating space;Istuintila
+Seaweed;Merilevä
+Seaweed Pile;Merileväkasa
+Seaweed patch;Merilevä laastari
+Secret Door;Salainen ovi
+Secret entrance;Salainen sisäänkäynti
+Secure chest;Turvallinen rintakehä
+Security Barrier;Turvaeste
+Seed Stall;Siemenvarasto
+Seed table;Siemenpöytä
+Seed vault;Siemenholvi
+Seers weathervane;Näkijä tuuliviiri
+Seers' Village Portal;Näkijöiden kylän portaali
+Senntisten Portal;Senntisten portaali
+Septic tendrils;Septiset lonkerot
+Servant's moneybag;Palvelijan rahapussi
+Seven;Seitsemän
+Sewer pipe;Viemäriputki
+Sewer valve;Viemäriventtiili
+Sewing machine;Ompelukone
+Shackle table;Sakkelipöytä
+Shadow crystal;Varjo kristalli
+Shadow root;Varjojuuri
+Shaking box;Ravistelulaatikko
+Shantay pass;Shantayn pass
+Shape puzzle;Muotopalapeli
+Shark Beast;Shark Beast
+Shark head;Hain pää
+Shattered rockface;Murtunut kalliopinta
+Shaving stand;Parranajoteline
+Shayzien banner;Shayzien banneri
+Shayzien snapped banner;Shayzien napsahti bannerin
+Shayzien statue;Shayzienin patsas
+Shelf;Hylly
+Shelf of thread;Lankahylly
+Shelf space;Hyllytilaa
+Shell;Kuori
+Shelves;Hyllyt
+Shelves space;Hyllytilaa
+Shield;Kilpi
+Shield Display;Suojanäyttö
+Shield display;Suojanäyttö
+Shimmering barrier;Hohtava este
+Shimmering field;Hohtava kenttä
+Shining pool;Kiiltävä allas
+Ship;Laiva
+Ship hull;Laivan runko
+Ship's ladder;Laivan tikkaat
+Ship's wheel;Laivan pyörä
+Shoe box;Kengän laatikko
+Shooting Star Noticeboard;Shooting Star -ilmoitustaulu
+Shop Counter;Kauppa laskuri
+Shop counter;Kaupan laskuri
+Short Plant;Lyhyt kasvi
+Short fence;Lyhyt aita
+Short planks;Lyhyet lankut
+Shortcut;Pikakuvake
+Shot;Laukaus
+Shrine;Pyhäkkö
+Shrivelled plant;Kuihtunut kasvi
+Shuttered window;Suljettu ikkuna
+Sickle logo;Sirppi logo
+Sign;Merkki
+Sign post;Allekirjoita viesti
+Signpost;Tienviitta
+Silk stall;Silkkikioski
+Silver Chest;Hopeinen rintakehä
+Silver stall;Hopeinen koppi
+Silverlight;Silverlight
+Simple lockbox;Yksinkertainen lukkolaatikko
+Simple stove;Yksinkertainen liesi
+Sinclair family beehive;Sinclairin perheen mehiläispesä
+Sinclair family compost heap;Sinclair-perheen kompostikasa
+Sinclair family crest;Sinclairin perheen vaakuna
+Sinclair family fountain;Sinclairin perheen suihkulähde
+Sinclair mansion drain;Sinclairin kartanon viemäri
+Singing Bowl;Laulu Bowl
+Singing bowl;Laulava kulho
+Single pillar;Yksi pilari
+Sinister barrel;Synkkä tynnyri
+Sink;Pesuallas
+Sink space;Altaan tilaa
+Sir Amik Varze;Sir Amik Varze
+Sir Bedivere;Sir Bedivere
+Sir Lancelot;Sir Lancelot
+Sir Lucan;Sir Lucan
+Sir Palomedes;Sir Palomedes
+Sir Tristram;Sir Tristram
+Sithik Ints;Sithik Ints
+Six;Kuusi
+Skeleton;Luuranko
+Skotizo Topiary;Skotizo Topiary
+Skotizo display;Skotizo näyttö
+Skrach Uglogwee;Skrach Uglogwee
+Skroom;Skroom
+Skull;Kallo
+Skull slope;Kallon kaltevuus
+Skulls;Kallot
+Skullshield;Skullshield
+Slab;Laatta
+Slashed Bush;Leikattu Bush
+Slashed bush;Leikattu pensas
+Slashed tapestry;Viiloitettu kuvakudos
+Slashed web;Leikattu verkko
+Slave;Orja
+Slayer Helmet display case;Slayer Helmet näyttökotelo
+Slayer's Respite;Slayer's Respite
+Sleeping bag;Makuupussi
+Sliced web;Viipaloitu verkko
+Slight indentations;Pieniä painaumia
+Slightly broken bridge;Hieman rikki silta
+Slightly dark crystal;Hieman tumma kristalli
+Slimy pillars;Limaiset pilarit
+Slimy residue;Limainen jäännös
+Slimy water;Limaista vettä
+Slope;Kaltevuus
+Slope end;Rinteen pää
+Slug goo;Slug goo
+Sluice Gate;Sulkuportti
+Small Boulder;Pieni Boulder
+Small Fossil Display;Pieni fossiilinen näyttö
+Small Geyser;Pieni geysiri
+Small Oven;Pieni uuni
+Small Plant space 1;Pieni kasvitila 1
+Small Plant space 2;Pieni kasvitila 2
+Small Table;Pieni pöytä
+Small bush;Pieni pensas
+Small chest;Pieni rintakehä
+Small crystals;Pienet kristallit
+Small fern;Pieni saniainen
+Small fountain;Pieni suihkulähde
+Small furnace;Pieni uuni
+Small gravestone;Pieni hautakivi
+Small orrery;Pieni orrery
+Small oven;Pieni uuni
+Small plant;Pieni kasvi
+Small plant 2;Pieni kasvi 2
+Small rock;Pieni kivi
+Small storage unit;Pieni säilytysyksikkö
+Small table;Pieni pöytä
+Small vase;Pieni maljakko
+Smashed cage;Murtunut häkki
+Smashed chair;Rikkoutunut tuoli
+Smashed table;Rikkoutunut pöytä
+Smashed window;Rikkoutunut ikkuna
+Smelly hole;Haiseva reikä
+Smelly mushroom;Haiseva sieni
+Smoke;Savu
+Smoke Crystal;Savukristalli
+Smokey well;Savusta hyvin
+Smoking vent;Tupakointiaukko
+Smoky cave;Savuinen luola
+Snake;Käärme
+Snape grass plant;Kalkarosheinäkasvi
+Snape grass seedling;Kalkarosheinän taimi
+Snow;Lumi
+Snow drift;Lumisadetta
+Snow jump;Lumihyppy
+Snowdrop patch;Lumikello laastari
+Snowdrops;Lumikellot
+Snowfall;Lumisade
+Snowy bird hide;Luminen lintupiilo
+Sofa;Sohva
+Soil;Maaperä
+Soil patch;Maaperä
+Soldier;Sotilas
+Solid black door;Kiinteä musta ovi
+Solid bronze door;Kiinteä pronssiovi
+Solid gold door;Kiinteä kultainen ovi
+Solid silver door;Kiinteä hopeinen ovi
+Solid steel door;Kiinteä teräsovi
+Soul Altar;sielun alttari
+Soul Devourer;Soul Devourer
+Soul Obelisk;Soul-obeliski
+Soul Wars Portal;Soul Wars -portaali
+Soul boat;Soul vene
+Soul rift;Sielun repeämä
+Space;Avaruus
+Spade;Lapio
+Sparkling pool;Kimalteleva allas
+Spear wall;Keihäs seinä
+Speartrap;Keihäsloukku
+Specimen;Näyte
+Specimen table;Näytepöytä
+Specimen tray;Näytealusta
+Sphinx;Sfinksi
+Spice Rack;Maustehylly
+Spice stall;Maustepakkaus
+Spider eggs;Hämähäkkimunat
+Spiders' nest;Hämähäkkien pesä
+Spiderwebs;Hämähäkinseitit
+Spike defence;Piikkipuolustus
+Spike hidden;Piikki piilossa
+Spike trap;Piikkiloukku
+Spiked pit;Piikkikuoppa
+Spikes;Piikit
+Spikey chain;Piikkiketju
+Spin Blades;Pyöritä terät
+Spine mushroom;Selkäsieni
+Spinning Machine;Pyörivä kone
+Spinning Wheel;Rukki
+Spinning blades;Pyörivät terät
+Spinning light;Pyörivä valo
+Spinning pipe;Pyörivä putki
+Spinning pole;Pyörivä sauva
+Spinning wheel;Rukki
+Spiny bush;Piikikäs pensas
+Spirit Angler dock;Spirit Angler telakka
+Spirit Angler stats;Spirit Angler -tilastot
+Spirit Tree;Hengen puu
+Spirit Tree Patch;Spirit Tree Patch
+Spirit Tree Stump;Hengen kanto
+Spirit pump;Henkipumppu
+Spirit tendrils;Hengen lonkeroita
+Spirit tree;Henki puu
+Spiritual Fairy Tree;Henkinen keijupuu
+Spit roast;Varraspaisti
+Spooky picture;Pelottava kuva
+Spooky stairs;Pelottavat portaat
+Spore;Spore
+Spork;Spork
+Spotlight;Valokeila
+Spray;Spray
+Sprouting Roots;Itäneet juuret
+Sq'irk tree;Sq'irk puu
+Square shield;Neliön muotoinen kilpi
+Stacked Boxes;Pinottu laatikot
+Stacked barrels;Pinotut tynnyrit
+Stacked crates;Pinotut laatikot
+Staff barrel;Henkilökunnan piippu
+Staff of Bob the Cat;Bob the Catin henkilökunta
+Stagnant Lake;Pysyvä järvi
+Stagnant fish display;Pysähtynyt kalanäyttö
+Stained-glass window;Lasimaalaus
+Stair Space;Portaiden tila
+Staircase;Portaikko
+Stairs;Portaat
+Stairs down;Portaat alas
+Stairs up;Portaat ylös
+Stairwell;Portaikko
+Stalactite;Tippukivipuikko
+Stalagmite;Tippukivipylväs
+Stalagmites;Stalagmiitit
+Stall;Pilttuu
+Stand;Seiso
+Standard;Vakio
+Standard Stand;Vakiojalusta
+Standing Torch;Seisova taskulamppu
+Standing spears;Seisovat keihäät
+Standing stone;Pysyvä kivi
+Standing torch;Seisova taskulamppu
+Star chart;Tähtikartta
+Start;Aloita
+Statue;Patsas
+Statue Plinth;Patsas sokkeli
+Statue Space;Patsastila
+Statue of Baxtorian;Baxtorianin patsas
+Statue of Glarial;Glarialin patsas
+Statue of Guthix;Guthixin patsas
+Statue of Saradomin;Saradomin patsas
+Statue of Zamorak;Zamorakin patsas
+Statue of a king;Kuninkaan patsas
+Statue of a queen;Kuningattaren patsas
+Statue of a warrior;Soturin patsas
+Statue plinth;Patsaan sokkeli
+Statue space;Patsastila
+Statue steps;Patsaan portaat
+Statue with key;Patsas avaimella
+Statuette Plinth;Patsas sokkeli
+Statuette in alcove;Patsas alkovissa
+Steam Generator;Höyrygeneraattori
+Steam Pump;Höyrypumppu
+Steam Vent;Höyryventtiili
+Steam generator;Höyrygeneraattori
+Steam press;Höyrypuristin
+Steam_Pump;Steam_Pump
+Steel Chest;Teräsarkku
+Steel cage;Teräshäkki
+Steel dragon;Teräs lohikäärme
+Steel range;Teräsvalikoima
+Steep roof;Jyrkkä katto
+Steeple;Torni
+Stepladder;Tikkaat
+Stepping Stone;Ponnahduskivi
+Stepping log;Askelloki
+Stepping stone;Ponnahduskivi
+Stepping stones;Ponnahduskivet
+Steps;Vaiheet
+Stick;Tikku
+Stick and hoop;Tikku ja vanne
+Sticks;Tikut
+Stile;Tyyli
+Stinking tendrils;Haisevia lonkeroita
+Stocks;Osakkeet
+Stone;Kivi
+Stone Door;Kivi Ovi
+Stone Gate;Kivi portti
+Stone Ladder;Kivi Tikkaat
+Stone Mechanism;Kivimekanismi
+Stone Pew;Stone Pew
+Stone Pile;Kivikasa
+Stone Plinth;Kivijalka
+Stone Relief;Stone Relief
+Stone Staircase;Kivi portaikko
+Stone Tablet;Kivi tabletti
+Stone arch;Kivi kaari
+Stone block;Kivikappale
+Stone bridge;Kivi silta
+Stone chest;Kivi rintakehä
+Stone circle wall;Kivi ympyrä seinä
+Stone crate;Kivilaatikko
+Stone crusher;Kivenmurskain
+Stone door;Kivi ovi
+Stone ladder;Kivi tikkaat
+Stone pedestal;Kivijalka
+Stone pool;Kivi allas
+Stone signpost;Kivi opaste
+Stone space;Kivi tilaa
+Stone stand;Kivijalka
+Stone table;Kivipöytä
+Stone tablet;Kivitaulu
+Stone wall;Kivimuuri
+Stones;Kivet
+Stool;Jakkara
+Stool hotspot;Jakkara hotspot
+Stop!;Stop!
+Storage crate;Säilytyslaatikko
+Storage shelves;Säilytyshyllyt
+Storage space;Säilytystilaa
+Storage unit;Varastointiyksikkö
+Storeroom Door;Varaston ovi
+Stormram;Stormram
+Stove;Liesi
+Stove space;Liesitilaa
+Strange Banana Tree;Outo banaanipuu
+Strange Bells;Outoja kelloja
+Strange Egg;Outo Muna
+Strange Machine;Outo kone
+Strange Shell;Outo Shell
+Strange Tile;Outo laatta
+Strange altar;Outo alttari
+Strange blocks;Outoja lohkoja
+Strange floor;Outo lattia
+Strange grid;Outo ruudukko
+Strange hole;Outo reikä
+Strange looking stone;Outo näköinen kivi
+Strange machine;Outo kone
+Strange passage;Outo kulku
+Strange plant;Outo kasvi
+Strange pool;Outo allas
+Strange shrine;Outo pyhäkkö
+Strange stone;Outo kivi
+Strange wall;Outo seinä
+Strategy table;Strategiataulukko
+Strawberry;Mansikka
+Strawberry plant;Mansikka kasvi
+Strawberry seed;Mansikan siemen
+Streak info;Viivan tiedot
+Stretcher;Paarit
+Strong Tree;Vahva Puu
+Strong Yew;Vahva marjakuusi
+Stronghold;Linnake
+Structural pillar;Rakenteellinen pilari
+Strut;Strut
+Studded Leather;Nastallinen nahka
+Students' art;Opiskelijoiden taidetta
+Study Desk;Opintopöytä
+Study desk;Opiskelupöytä
+Stuffed swordfish;Täytetty miekkakala
+Stump;Kanto
+Stump chair;Stump tuoli
+Sturdy door;Tukeva ovi
+Sturdy wooden gate;Tukeva puinen portti
+Suit of Armour;Puku Armor
+Suit of armour;Panssaripuku
+Sulliuscep;Sulliuscep
+Sulliuscep sprout;Sulliuscep itää
+Sulphur;Rikki
+Sulphur Vent;Rikkipoistoaukko
+Sulphur vent;Rikkipoistoaukko
+Sunflower;Auringonkukka
+Sunflowers;Auringonkukat
+Sunken rowboat;Uponnut soutuvene
+Super magic potion;Super taikajuoma
+Super ranging potion;Huippuluokan juoma
+Supermajority marker;Superenemmistön merkki
+Supplies;Tarvikkeet
+Supply chest;Tarjoiluarkku
+Support;Tukea
+Supporting Pillar;Tukipilari
+Suspicious footprints;Epäilyttäviä jalanjälkiä
+Swamp;Suo
+Swamp Boaty;Swamp Boaty
+Swamp bubbles;Suon kuplia
+Swamp paste;Suon tahna
+Swamp tree;Suopuu
+Swamp tree branch;Suopuun oksa
+Swampy lamp;Soinen lamppu
+Swampy sink;Soinen pesuallas
+Swaying tree;Heiluva puu
+Sweet;Makea
+Sweetcorn;Sokerimaissi
+Sweetcorn plant;Sokerimaissi kasvi
+Sweetcorn seed;Sokerimaissin siemenet
+Sweetgrub Mound;Sweetgrub Mound
+Sweetgrub Sign;Sweetgrub merkki
+Sweets;Makeiset
+Swings;Keinut
+Switch;Kytkin
+Sword cabinet;Miekkakaappi
+Sword case;Miekkakotelo
+Sword in stone;Miekka kivessä
+Sword space;Miekan tila
+Swords;Miekat
+Swordshop Sign;Swordshop kyltti
+Symbol;Symboli
+Symbol of Guthix;Guthixin symboli
+Symbol of Saradomin;Saradominin symboli
+Symbol of Zamorak;Zamorakin symboli
+Symbol of life;Elämän symboli
+Table;Taulukko
+Table and till;Pöytä ja kassa
+Table blockade;Pöydän saarto
+Table hotspot;Pöydän hotspot
+Table parts;Pöydän osat
+Table saw;Pöytäsaha
+Table space;Pöytätilaa
+Tactical map frame;Taktinen karttakehys
+Tailor's materials;Räätälin materiaalit
+Tall Plant;Korkea kasvi
+Tall Reeds;Korkeat Reeds
+Tall mirror;Korkea peili
+Tall tree;Korkea puu
+Tall vine;Korkea viiniköynnös
+Tangle hidden;Sotku piilossa
+Tangle vine;Tangle viiniköynnös
+Tanning Barrel;Parkitustynnyri
+Tanning line;Rusketuslinja
+Tap;Napauta
+Tapestry;Kuvakudos
+Tar Barrel;Terva tynnyri
+Tar Thing;Terva juttu
+Tar barrel;Terva tynnyri
+Tar buckets;Terva-ämpärit
+Target;Kohde
+Tchiki Monkey Nut Bush;Tchiki Monkey Nut Bush
+Te salt;Suolaa
+Tea stall;Teekoju
+Teak;Teak
+Teak Tree;Tiikkipuu
+Teak birdhouse (empty);teak lintuhuone (tyhjä)
+Teak cape rack;Tiikki viittateline
+Teak chest;Tiikki rintakehä
+Teak drawers;Tiikki laatikot
+Teak feeder;Teak syöttölaite
+Teak house;teak talo
+Teak prize chest;Tiikki palkintoarkku
+Teak scratching post;Tiikki raapimistolppa
+Teak table;Tiikki pöytä
+Teak wall decoration;Tiikki seinäkoristelu
+Teak wardrobe;Tiikki vaatekaappi
+Telekinetic Teleport;Telekineettinen teleportti
+Teleport Platform;Teleport-alusta
+Teleport crystal;Teleport kristalli
+Teleport hidden;Teleportti piilotettu
+Teleport space;Teleporttaa tilaa
+Teleport trap;Teleport ansa
+Teleportation Device;Teleportaatiolaite
+Teleportation focus;Teleportaatio keskittyy
+Telescope;Teleskooppi
+Telescope space;Teleskooppitila
+Temp Stone 4 Zip;Temp Stone 4 vetoketju
+Temperature gauge;Lämpötilamittari
+Temple Door;Temppelin ovi
+Temple door;Temppelin ovi
+Temple wall;Temppelin seinä
+Ten;Kymmenen
+Tendrils;Lourret
+Tent;Teltta
+Tent door;Teltan ovi
+Tent flap;Teltan läppä
+Tent pole;Telttakeppi
+Tent roof;Teltan katto
+Tent wall;Teltan seinä
+Terminal;Terminaali
+Terror Snail;Terror Etana
+Thana;Thana
+The Cloister Bell;Luostarin kello
+The Font of Consumption;Kulutuksen kirjasin
+The Gauntlet;Gauntlet
+The Great Expedition;Suuri retkikunta
+The Grotesque Guardians' display;Grotesque Guardiansin näyttö
+The Inferno;Inferno
+The Jormungand;Jormungand
+The Maiden of Sugadinti;Sugadintin neito
+The Sheared Ram;Leikattu Ram
+The jury;Tuomaristo
+The middle of a fireplace;Takan keskelle
+Theatre of Blood;Veren teatteri
+Theme space;Teematila
+Thermonuclear Smoke Devil Display;Thermonuclear Smoke Devil Display
+Thick Web;Paksu verkko
+Thick vine;Paksu viiniköynnös
+Thick vines;Paksut viiniköynnökset
+Thingymajig;Thingymajig
+Thistle;Ohdake
+Thorns;Piikkejä
+Thorny bushes;Oikeita pensaita
+Three;Kolme
+Throne;Valtaistuin
+Throne Room Door;Valtaistuimen huoneen ovi
+Throne of Weiss;Weissin valtaistuin
+Throne space;Valtaistuimen tila
+Ticket Dispenser;Lippujen jakelulaite
+Tight Gap;Tiukka väli
+Tight-gap;Tiukka väli
+Tightrope;Kireä köysi
+Tile;Laatta
+Till;Till
+Timber;Puutavara
+Timber defence;Puinen puolustus
+Timeline;Aikajana
+Tin bath;Tina kylpy
+Tiny storage unit;Pieni säilytysyksikkö
+Tip jar;Vihje purkki
+Tip jar space;Vihje jar tilaa
+Tithe patch;Kymmenykset laastari
+Toadstool;Myrkkysieni
+Toadstools;Myrkkysienet
+Tok-Xil;Tok-Xil
+Tomato;Tomaatti
+Tomato plant;Tomaatti kasvi
+Tomb;Hauta
+Tomb Door;Haudan ovi
+Tomb dolmen;Tomb dolmen
+Tomb doors;Haudan ovet
+Tomb exit;Haudan uloskäynti
+Tombstone;Hautakivi
+Tool Storage;Työkalujen säilytys
+Tool space;Työkalutila
+Tools;Työkalut
+Topiary bush;Topiary pensas
+Topiary space;Topiary tilaa
+Torch;Soihtu
+Torture Rack;Kidutusteline
+Totem;Toteemi
+Totem Pole;Toteemipaalu
+Totem pole;Toteemipaalu
+Tower;Torni
+Tower door;Tornin ovi
+Tower ladder;Tornin tikkaat
+Toy Stall;Lelukioski
+Toy box;Lelulaatikko
+Toy box space;Lelulaatikkotila
+Toy bricks;Lelu tiilet
+Toy corner;Lelunurkkaus
+Toy range;Leluvalikoima
+Toy sink;Leluallas
+Toy table;Lelupöytä
+Toy weapons;Lelu-aseita
+Track;Seurata
+Track support;Radan tuki
+Tracks;Kappaleet
+Trahaearn Banner;Trahaearn Banner
+Trailblazer globe;Trailblazer-maapallo
+Trailblazer rug;Trailblazer matto
+Train cart;Junan kärry
+Training dummy;Koulutusnukke
+Transport platform;Kuljetusalusta
+Trap;Trap
+Trap Door;Trap Ovi
+Trap bypass;Trap ohitus
+Trap space;Trap tilaa
+Trapdoor;Trapdoor
+Trapdoor space;Trapdoor tilaa
+Trapdoor table;Trapdoor pöytä
+Trapdoor tunnel;Luukun tunneli
+Trashed Patch;Roskakoriin viety korjaustiedosto
+Travel cart;Matkakärry
+Trawler net;Troolarin verkko
+Treadmill;Juoksumatto
+Treasure Hunt Fairy House;Treasure Hunt Fairy House
+Treasure Trail Statistics;Treasure Trail -tilastot
+Treasure chest;Aarrearkku
+Treasure chest space;Aarrearkku tilaa
+Treasure room;Aarrehuone
+Treasure space;Aarre tilaa
+Treated patch;Käsitelty laastari
+Trebuchet;Trebuchet
+Tree;Puu
+Tree Door;Puun ovi
+Tree Stump;Puun kanto
+Tree branch;Puun oksa
+Tree patch;Puun paikka
+Tree space;Puun tila
+Tree stump;Puun kanto
+Tree trunk;Puunrunko
+Trellis;Trellis
+Trellis top;Trellis toppi
+Tribal Statue;Heimopatsas
+Tribal statue;Heimopatsas
+Trimmed Yommi;Leikattu Yommi
+Tripwire;Ansalanka
+Troll;Peikko
+Troll Stew;Troll Stew
+Troll Stronghold Portal;Troll Stronghold -portaali
+Troll ladder;Trolli tikkaat
+Trolley;Kärry
+Trophy case space;Trophy-kotelotila
+Trophy pedestal;Trophy jalusta
+Tropical Leaves;Trooppiset lehdet
+Tropical leaves;Trooppiset lehdet
+Tropical tree;Trooppinen puu
+Trough;Kouru
+Trumpet;Trumpetti
+Trunk;Runko
+Tube;Putki
+Tulips;Tulppaanit
+Tunnel;Tunneli
+Tunnel entrance;Tunnelin sisäänkäynti
+Tunnel roof;Tunnelin katto
+Tunnel wall;Tunnelin seinä
+Twigs;Oksat
+Twisted Bow;Kierretty jousi
+Twisted Crate;Kierretty laatikko
+Twisted bush;Kierretty pensas
+Two;Kaksi
+Twocan;Twocan
+TzHaar Flag;TzHaar lippu
+TzHaar statue;TzHaar-patsas
+Tzkal-Zuk display;Tzkal-Zuk näyttö
+Uncooking pot;Kypsentämätön kattila
+Undead combat dummy;Undead taistelunukke
+Underwall tunnel;Tunneli alla
+Underwater Cavern Entrance;Vedenalaisen luolan sisäänkäynti
+Unferth's patch;Unferthin laastari
+Unicorn;Yksisarvinen
+Unicorn Statue;Yksisarvinen patsas
+Unicorn's head;Yksisarvisen pää
+Unlit candle;Sytymätön kynttilä
+Unlocked Ogre chest;Avattu Ogre-arkku
+Unoccupied Cormorant perch;Asumaton merimetsoahven
+Unstable Altar;Epävakaa alttari
+Urn;Uurna
+Urt salt;Urt suolaa
+Utensil Stall;Astiavarasto
+Utensil cupboard;Astiakaappi
+Valve;Venttiili
+Vampyre statue;Vampyyri patsas
+Vampyre tomb;Vampyyrin hauta
+Vanilla plant;Vanilja kasvi
+Varrock Portal;Varrockin portaali
+Vase;Maljakko
+Vase set;Maljakkosetti
+Vat;Alv
+Vault;Holvi
+Vault Door;Holvin ovi
+Veg stall;Vihanneskioski
+Vegetable Stall;Kasviskioski
+Velvet chair;Velvet-tuoli
+Velvet round chair;Velvet pyöreä tuoli
+Velvet stool;Velvet jakkara
+Vent;Tuuletus
+Verzik Vitur;Verzik Vitur
+Verzik Vitur display;Verzik Vitur -näyttö
+Verzik's throne;Verzikin valtaistuimelle
+Veteran Flag;Veteraani lippu
+Vials;Injektiopullot
+Viewer;Katsoja
+Viewing orb;Katsoo palloa
+Village fence;Kylän aita
+Vine;Viini
+Vine ladder;Vine tikkaat
+Vine patch;Vine laastari
+Vines;Viiniköynnöksiä
+Volcanic Forge;Volcanic Forge
+Volcanic Furnace;Vulkaaninen uuni
+Volcanic chamber;Vulkaaninen kammio
+Volcanic garden;Vulkaaninen puutarha
+Volcanic sulphur;Vulkaaninen rikki
+Volcanic theme;Vulkaaninen teema
+Volcanic vent;Tulivuoren tuuletusaukko
+Volcano Entrance;Tulivuoren sisäänkäynti
+Vorkath Topiary;Vorkath Topiary
+Vorkath display;Vorkathin näyttö
+Vorkath head;Vorkathin pää
+Vyre well;Vyre hyvin
+Waiting Room Door;Odotushuoneen ovi
+Walkway;Kävelytie
+Wall;Seinä
+Wall Crusher;Seinämurskain
+Wall Pipe;Seinäputki
+Wall chart;Seinäkaavio
+Wall chart space;Seinäkartan tila
+Wall corner;Seinän kulma
+Wall decoration;Seinän koristelu
+Wall map;Seinäkartta
+Wall of bricks;Seinä tiilistä
+Wall of flame;Liekin seinä
+Wall opening;Seinän aukko
+Wall rubble;Seinämurska
+Wall safe;Turvallinen seinälle
+Wall support;Seinätuki
+Wallchart;Wallchart
+Wand rack;Sauvojen teline
+War table;Sotapöytä
+Wardrobe;Vaatekaappi
+Wardrobe space;Vaatekaappitilaa
+Warehouse shelves;Varaston hyllyt
+Warhammer;Warhammer
+Warning Sign;Varoitusmerkki
+Warning sign;Varoitusmerkki
+Washbasin;Pesuallas
+Washing Line;Pesulinja
+Washing line;Pesulinja
+Waste Paper Bin;Jätepaperisäiliö
+Waste pipes;Jäteputket
+Watchtower;Vartiotorni
+Watchtower Legs;Vartiotornin jalat
+Watchtower Middle;Vartiotorni Keski
+Water;Vesi
+Water Barrel;Vesitynnyri
+Water Channel;Vesi kanava
+Water Pool;Vesiallas
+Water Pump;Vesipumppu
+Water Sign;Vesi merkki
+Water Source;Veden lähde
+Water Tank;Vesisäiliö
+Water Trough;Vesikouru
+Water Valve;Vesiventtiili
+Water barrel;Vesitynnyri
+Water containers;Vesisäiliöt
+Water controls;Veden säätimet
+Water pipes;Vesiputket
+Water pump;Vesipumppu
+Water rift;Vesihalkeama
+Water tap;Vesihana
+Water valve;Vesiventtiili
+Water wheel;Vesipyörä
+Water's edge;Veden raja
+Waterbirth Island Portal;Waterbirth Island -portaali
+Waterfall;Vesiputous
+Waterfall rocks;Vesiputous kiviä
+Watering Hole;Juomapaikka
+Waterlily;Lumme
+Watermelon;Vesimeloni
+Watermelon seed;Vesimelonin siemen
+Watermelons;Vesimelonit
+Waterpump;Vesipumppu
+Waystone;Waystone
+Weapon Rack;Asehylly
+Weapon rack;Aseteline
+Weapons Rack;Asetelineet
+Weather vane;Tuuliviiri
+Weathered wall;Haalistuva seinä
+Weathervane;Tuuliviiri
+Web;Web
+Web sack;Verkkosäkki
+Weeds;Rikkaruohot
+Weedy patch;Ruohoinen laastari
+Weeping wall;Itku seinä
+Weiss Portal;Weissin portaali
+Weiss banner;Weissin banneri
+Well;Hyvin
+Well stacked rocks;Hyvin pinottuja kiviä
+Werewolf Flag;Ihmissusi lippu
+West Ardougne Portal;West Ardougne -portaali
+Wet driftwood;Märkä ajopuu
+Wheat;Vehnä
+Wheel;Pyörä
+Wheelbarrow;Kottikärryt
+Wheely table;Pyöräinen pöytä
+Whetstone;Hiomakivi
+Whipping Plant;Piiskatehdas
+Whirlpool;Whirlpool
+White Castlewars armour;Valkoinen Castlewarsin panssari
+White Crystal;Valkoinen kristalli
+White Knight;Valkoinen ritari
+White Tree;Valkoinen Puu
+White Tree patch;Valkoinen puumerkki
+White crystal;Valkoinen kristalli
+White lily;Valkoinen lilja
+White rose bush patch;Valkoinen ruusupensasmerkki
+White roses;Valkoisia ruusuja
+White tree;Valkoinen puu
+Whiteberry bush;Valkomarjan pensas
+Wildblood Hops;Villiverinen humala
+Wilderness Ditch;Erämaan oja
+Wilderness Sign;Erämaan merkki
+Wilderness Statistics;Erämaatilastot
+Wilf (Well);Wilf (No)
+Wilf (ghastly!);Wilf (kammottavaa!)
+Wilf (sick);Wilf (sairas)
+Wilf (very sick);Wilf (erittäin sairas)
+Wilhelm;Wilhelm
+Willow;Paju
+Willow Tree;Pajupuu
+Willow birdhouse;Willow lintumaja
+Willow birdhouse (empty);Willow lintuhuone (tyhjä)
+Willow tree;Paju puu
+Willow tree stump;Pajun kanto
+Willow's bag;Willow'n laukku
+Wilting wheat;Kuihtuva vehnä
+Winch;Vinssi
+Winch bucket;Vinssin kauha
+Windchimes;Tuulikellot
+Window;Ikkuna
+Window space;Ikkunatilaa
+Windswept Tree;Tuulinen Puu
+Windswept tree;Tuulinen puu
+Wine barrel;Viini tynnyri
+Wine rack;Viinihylly
+Winter's End;Talven loppu
+Wintumber tree;Talvipuu
+Wire;Lanka
+Wire machine;Lanka kone
+Wish-list;Toivelista
+Witch Glyph;Witch Glyph
+Witch's charm;Noidan viehätys
+Withering Attas plant;Kuihtuva Attas-kasvi
+Withering Iasor plant;Kuihtuva Iasor-kasvi
+Withering Kronos plant;Kuihtuva Kronos-kasvi
+Wizard Statue;Velhon patsas
+Wizards Mind Bomb;Wizards Mind Bomb
+Woad plant;Puukasvi
+Wolf Statue;Susi patsas
+Wood;Puu
+Wood Basket;Puinen kori
+Woodcutting stump;Puun leikkaava kanto
+Wooden Beams;Puiset palkit
+Wooden Obstruction;Puinen este
+Wooden Stair;Puiset portaat
+Wooden Table;Puinen pöytä
+Wooden barricade;Puinen barrikadi
+Wooden bench;Puinen penkki
+Wooden boards;Puiset laudat
+Wooden cart;Puinen kärry
+Wooden chair;Puinen tuoli
+Wooden chest;Puinen rintakehä
+Wooden crate;Puinen laatikko
+Wooden defence;Puinen puolustus
+Wooden doors;Puiset ovet
+Wooden fence;Puinen aita
+Wooden gate;Puinen portti
+Wooden platform;Puinen alusta

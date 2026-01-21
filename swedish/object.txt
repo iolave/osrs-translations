@@ -1,0 +1,3799 @@
+A Clam Shell;Ett musslaskal
+A Goblin standard;En Goblin-standard
+A Shayzien State;En Shayzien-stat
+A Sinking Canoe;En sjunkande kanot
+A barrel of rainwater;En tunna regnvatten
+A bunk bed;En våningssäng
+A burnt tree;Ett bränt träd
+A chasm;En klyfta
+A crack;En spricka
+A dark crystal;En mörk kristall
+A fairy workbench;En älva arbetsbänk
+A fallen barrel;En fallen tunna
+A flag;En flagga
+A gap through the wall;En lucka genom väggen
+A peculiar foot print;Ett märkligt fotavtryck
+A primitive joke;Ett primitivt skämt
+A rock;En sten
+A shabby tent;Ett slitet tält
+A tropical tree;Ett tropiskt träd
+A wall;En vägg
+A wooden log;En trästock
+Abandoned Cart;Övergiven vagn
+Abandoned Equipment;Övergiven utrustning
+Absence of tears;Frånvaro av tårar
+Absorption potion;Absorptionsdryck
+Abstract mural;Abstrakt väggmålning
+Abyssal Sire Topiary;Abyssal Sire Topiary
+Abyssal Sire display;Abyssal Sire display
+Abyssal demon head;Abyssal demonhuvud
+Abyssal rift;Abyssal spricka
+Accomplishment scroll space;Accomplishment scroll space
+Achey Tree;Ahey träd
+Achey Tree stump;Ahey trädstubb
+Achievement diary display;Visning av prestationsdagbok
+Acid pool;Syra pool
+Acidic miasma;Sur miasma
+Adamant armour;Adamant rustning
+Adult Yommi tree;Vuxen Yommi-träd
+Adventure log space;Äventyrsloggutrymme
+Aged log;Åldrad stock
+Aggie's Cauldron;Aggies kittel
+Air balloon;Luftballong
+Air rift;Luftspricka
+Alan;Alan
+Alchemical Hydra;Alkemisk Hydra
+Alchemical Hydra display;Alchemical Hydra display
+Alchemical Topiary;Alkemisk Topiary
+Alchemical chart;Alkemiskt diagram
+Alchemical door;Alkemisk dörr
+Alchemists Teleport;Alkemister teleporterar
+Alcove;Alkov
+Ali M's Market;Ali Ms marknad
+Allotment;Tilldelning
+Almost a Statue;Nästan en staty
+Altar;Altare
+Altar of Guthix;Altare av Guthix
+Altar of Zamorak;Zamoraks altare
+Altar of nature;Naturens altare
+Altar of the Occult;Det ockultas altare
+Altar slab;Altarplatta
+Altar space;Altarutrymme
+Amlodd Banner;Amlodd Banner
+Amulet of Glory;Amulet of Glory
+Amulet space;Amulettutrymme
+An anonymous looking door;En anonym dörr
+An experimental anvil;Ett experimentellt städ
+An ogre standard;En ogre standard
+An old lever;En gammal spak
+Ancestral Glyph;Ancestral Glyph
+Anchor;Förankra
+Anchor rope;Ankarrep
+Ancient Altar;Forntida altare
+Ancient Books;Forntida böcker
+Ancient Equipment;Forntida utrustning
+Ancient Fire;Forntida eld
+Ancient Gate;Forntida port
+Ancient Grave;Forntida grav
+Ancient Incubator;Forntida inkubator
+Ancient Machinery;Forntida maskiner
+Ancient Mural;Forntida väggmålning
+Ancient Pillar;Forntida pelare
+Ancient Relic;Forntida relik
+Ancient Rock;Forntida klippa
+Ancient Shroom;Forntida Shroom
+Ancient Zygomite;Forntida Zygomit
+Ancient brazier;Urgammal brazier
+Ancient bush;Forntida buske
+Ancient cave painting;Gammal grottmålning
+Ancient chest;Urgammal kista
+Ancient gallows;Gamla galgar
+Ancient machinery;Gamla maskiner
+Ancient metal gate;Urgammal metallport
+Anima patch;Animalapp
+Animal skull;Djurskalle
+Anna's barrel;Annas tunna
+Annakarl Portal;Annakarl Portal
+Anti-Dragon Breath Shield;Anti-Dragon Breath Shield
+Antiques Shop Stall;Antikvitetsbutik
+Anvil;Städ
+Ape Atoll Dungeon Portal;Ape Atoll Dungeon Portal
+Apparatus;Anordning
+Appendage;Bihang
+Apple Press;Apple Press
+Apple Tree;Äppelträd
+Apple basket;Äppelkorg
+Apple tree;Äppelträd
+Apple tree stump;Äppelträdstubb
+Aquarium;Akvarium
+Arcane crystal;Otrolig kristall
+Arceuus Library Portal;Arceuus biblioteksportal
+Arceuus statue;Arceuus staty
+Arch;Båge
+Archery target;Bågskyttemål
+Archway;Valvgång
+Arctic Pine;Arctic Pine
+Ardougne Portal;Ardougne-portalen
+Ardougne Wall Door;Ardougne väggdörr
+Arena;Arena
+Arena Entrance;Arenaentré
+Arena Exit;Arenautgång
+Arena space;Arenautrymme
+Argento;Argento
+Arm;Ärm
+Armadyl altar;Armadyl altare
+Armadyl armour display case;Armadyl armor monter
+Armed Forces Report;Försvarsmaktens rapport
+Armillary sphere;Armillär sfär
+Armour;Rustning
+Armour case;Pansarfodral
+Armour case space;Pansarväska utrymme
+Armour display;Armor display
+Armour repair stand;Armor reparationsställ
+Armour space;Pansarutrymme
+Armour stall;Pansarstall
+Armour stand;Pansarstativ
+Arrav;Arrav
+Arrow;Pil
+Arrows;Pilar
+Artefact;Artefakt
+Artefacts;Artefakter
+Asgarnian Ale;Asgarnian Ale
+Asgarnian Hops;Asgarnian humle
+Asgarnian ale;Asgarnian ale
+Ash pile;Askhög
+Aspidistra plant;Aspidistra växt
+Astronomical chart;Astronomiskt diagram
+Attack stone;Attacksten
+Attacker item machine;Angripare objekt maskin
+Attas plant;Attas växt
+Attas plant display;Attas växtdisplay
+Avalanche;Lavin
+Aviary Hatch;Aviary Hatch
+Awakened Altar;Uppvaknat altare
+Awowogei;Awowogei
+Axe cabinet;Yxa skåp
+Axe case;Yxa fall
+Axeman's Folly;Axeman's Folly
+Axes;Yxor
+Baby red dragon;Baby röd drake
+Backpack;Ryggsäck
+Badly repaired wall;Dåligt reparerad vägg
+Bags for sale;Väskor till salu
+Bailing buckets;Bailing hinkar
+Baker's Stall;Bagarstall
+Baker's stall;Bagarbod
+Bakery stall;Bageribod
+Balance beam;Balansstråle
+Balancing ledge;Balanserande avsats
+Balancing rope;Balanserande rep
+Ball;Boll
+Ballista;Ballista
+Bamboo Bed;Bambu säng
+Bamboo Bookcase;Bambu bokhylla
+Bamboo Desk;Bambu skrivbord
+Bamboo Door;Bambu dörr
+Bamboo Gate;Bamboo Gate
+Bamboo Ladder;Bambu stege
+Bamboo Pipes;Bambu rör
+Bamboo Stool;Bambu pall
+Banana Tree;Bananträd
+Banana tree;Bananträd
+Banana tree stump;Bananträdstubb
+Bandage table;Bandagebord
+Bandos altar;Bandos altare
+Bandos armour display case;Bandos rustningsmonter
+Bank;Bank
+Bank Booth;Bank Booth
+Bank Box;Banklåda
+Bank Chest-wreck;Bank Bröstvrak
+Bank Deposit Box;Bankinlåningsbox
+Bank Deposit Chest;Bankinsättningskassa
+Bank Deposit Pot;Bankinsättningspott
+Bank Table;Bankbord
+Bank booth;Bankbås
+Bank chest;Bank bröst
+Bank counter;Bankdisk
+Bank deposit box;Bankinlåningsbox
+Bank light;Bankljus
+Bank notice board;Bankens anslagstavla
+Bank papers;Bankpapper
+Bank safe;Banksäker
+Bank table;Bankbord
+Banner;Baner
+Banner making stand;Stativ för att göra banner
+Banner stand;Bannerställ
+Banner stand space;Plats för bannerstativ
+Banquet table;Bankettbord
+Bar;Bar
+Bar dispenser;Bar dispenser
+Bar pumps;Stångpumpar
+Barbarian anvil;Barbarian städ
+Barbarian bed;Barbarian säng
+Barbarian chair;Barbarstol
+Barbarian table;Barbarian bord
+Barge controls;Pråmkontroller
+Barley;Korn
+Barrel;Fat
+Barrel of Mud;Tunna lera
+Barrel of Spears;Tunnan av Spears
+Barrel of Water;fat vatten
+Barrel of fish;Tunna fisk
+Barrel of fishbones;Tunna med fiskben
+Barrel of flour;Fat mjöl
+Barrel rack;Tunnställ
+Barrel space;Fatutrymme
+Barrels;Tunnor
+Barren patch;Karg lapp
+Barricade;Barrikad
+Barricade table;Barrikadbord
+Barrier;Barriär
+Barronite Crusher;Barronite kross
+Barrow;Kärra
+Barrows Portal;Barrows Portal
+Bars;Barer
+Barstool;Barstol
+Basalt rock;Basaltsten
+Basic Jewellery Box;Basic smyckeskrin
+Basilisk head;Basiliskhuvud
+Basket;Korg
+Basket Fungi;Korgsvampar
+Bath;Bad
+Bath pipes;Badrör
+Bath screen;Badskärm
+Bathroom table;Badrumsbord
+Bathtub;Badkar
+Battering ram;Murbräcka
+Battle tower;Stridstorn
+Battlefront Portal;Battlefront Portal
+Battlement;Battlement
+Battlements;Battlements
+Bay window;Burspråk
+Beach;Strand
+Beacon;Fyr
+Beacon.;Fyr.
+Beam;Balk
+Bean Mound;Bean Mound
+Beanstalk;Bönstjälk
+Beanstump;Bönstubbe
+Bear droppings;Björnspillning
+Beard;Skägg
+Bed;Säng
+Bed hotspot;Säng hotspot
+Bed space;Sängutrymme
+Bedroom door;Sovrumsdörr
+Beehive;Bikupa
+Beer barrel;Öltunna
+Beer barrels;Ölfat
+Beetle;Skalbagge
+Bell;Klocka
+Bell mechanism;Klockmekanism
+Bell pull space;Bell pull utrymme
+Bell rope;Bell rep
+Bell-pull;Bell-pull
+Belladonna;Belladonna
+Belladonna patch;Belladonna-plåster
+Bellows;Bälg
+Bells;Klockor
+Bellshroom;Bellshroom
+Bench;Bänk
+Betty's cauldron;Bettys kittel
+Biclopse;Biclopse
+Big Button;Stor knapp
+Big Compost Bin;Stor kompostbehållare
+Big Door;Stor dörr
+Big Plant space 1;Stort växtutrymme 1
+Big Plant space 2;Big Plant Space 2
+Big Tree space;Stort trädutrymme
+Big beer barrel;Stor ölfat
+Big chest;Stort bröst
+Big door;Stor dörr
+Big egg;Stort ägg
+Big fish;Stor fisk
+Big hole;Stort hål
+Big plant;Stor växt
+Big plant 2;Stor planta 2
+Big vase;Stor vas
+Big window;Stort fönster
+Big, big boulder...;Stort, stort stenblock...
+Big, foot print;Stort fotavtryck
+Bin;Bin
+Bird cage stand;Fågelburstativ
+Bird feeder;Fågelmatare
+Bird hide structure;Fågelskinnstruktur
+Bird snare;Fågel snara
+Birdhouse;Fågelholk
+Birdhouse (empty);Fågelholk (tom)
+Birdseed holder;Fågelfröhållare
+Birthday cake;Födelsedagstårta
+Bittercap Mushrooms;Bittercapssvampar
+Bitternut Sign;Bitternöt tecken
+Bitternut Tree;Bitternötsträd
+Black Chest;Svart bröst
+Black crystal;Svart kristall
+Black hole;Svart hål
+Black mushrooms;Svarta svampar
+Blackboard;Svarta tavlan
+Blacksmith's tools;Smedens verktyg
+Blacksmiths' tools;Smeders verktyg
+Blade;Blad
+Blighted Bologano plant;Fördärvad Bologano-växt
+Blighted Bologano seedling;Fördärvad Bologano planta
+Blighted Golovanova plant;Fördärvad Golovanova-växt
+Blighted Golovanova seedling;Fördärvad Golovanova planta
+Blighted Logavano plant;Fördärvad Logavano-växt
+Blighted Logavano seedling;Fördärvad Logavano planta
+Blighted vine;Fördärvad vinstock
+Blindweed Patch;Blindweed Patch
+Blisterwood Tree;Blisterwood träd
+Blockage;Blockering
+Blocked Crevice;Blockerad springa
+Blocked Tunnel;Blockerad tunnel
+Blocked entry;Blockerad ingång
+Blocked tunnel;Blockerad tunnel
+Blocked volcanic chamber;Blockerad vulkankammare
+Blood;Blod
+Blood Altar;Blodaltare
+Blood Orb;Blood Orb
+Blood Stinkhorn;Blod Stinkhorn
+Blood Stinktree;Blood Stinktree
+Blood crystal;Blodkristall
+Blood rift;Blodspricka
+Blooming Hespori sprout;Blommande Hespori groddar
+Blue Barrier;Blå barriär
+Blue Fire;Blå eld
+Blue Flowers;Blå Blommor
+Blue Water Sign;Blått vatten tecken
+Blue banner;Blå banner
+Blue chemical;Blå kemikalie
+Blue door;Blå dörr
+Blue flowers;Blå blommor
+Blue tears;Blå tårar
+Bluebells;Blåklockor
+Blurberry bar;Blurberry bar
+Boarded-up door;Uppfälld dörr
+Boards;Brädor
+Boat;Båt
+Boat Chute;Båtrännan
+Boat station;Båtstation
+Boaty;Båtig
+Bob's barrel;Bobs tunna
+Body rift;Kroppssprickning
+Bog;Mosse
+Boil;Koka
+Boiler;Panna
+Boils;Kokar
+Bologano plant;Bologano växt
+Bologano seedling;Bologano planta
+Bone Chain;Benkedja
+Bone Crane;Bone Crane
+Bone arch;Benbåge
+Bone barrel;Bentunna
+Bone door;Bendörr
+Bone grinder;Benkvarn
+Bone rack;Benställ
+Bone support;Benstöd
+Bones;Ben
+Boney ladder;Boney stege
+Bonfire;Bål
+Bonzo's Table;Bonzos bord
+Book Cart;Bokvagn
+Book table;Boka bord
+Bookcase;Bokhylla
+Bookcase space;Bokhylla utrymme
+Books;Böcker
+Bookshelf;Bokhylla
+Bookshelves;Bokhyllor
+Boss lair display;Boss lair display
+Boss lair space;Boss lair utrymme
+Bottle;Flaska
+Bottle Machine;Flaskmaskin
+Bottle machine;Flaskmaskin
+Boulder;Flyttblock
+Boulders;Stenblock
+Boundary stones;Gränsstenar
+Bow and Arrow;Pil och båge
+Bow and arrow;Pil och båge
+Bow cabinet;Rosettskåp
+Bow case;Pilbåge
+Bowl;Skål
+Bowsprit;Bogspröt
+Box;Låda
+Box cart;Lådvagn
+Box of Health;Box of Health
+Box of bones;Box med ben
+Box trap;Lådfälla
+Boxes;Rutor
+Boxing mat;Boxningsmatta
+Boxing ring;Boxningsring
+Branch;Gren
+Brazier;Brazier
+Brew Barrel;Brew Barrel
+Brewer's Barrel;Brewer's Barrel
+Brewing control;Bryggkontroll
+Brewing vat;Bryggkar
+Brick;Tegel
+Bricks;Tegelstenar
+Bridge;Bro
+Bright crystal;Ljus kristall
+Brimstone chest;Bröst med svavel
+Broken Bed;Trasig säng
+Broken Brazier;Trasig brazier
+Broken Cabinet;Trasigt skåp
+Broken Cannon;Trasig kanon
+Broken Cart;Trasig vagn
+Broken Chair;Trasig stol
+Broken Cupboard;Trasigt skåp
+Broken Door;Trasig dörr
+Broken Drawers;Trasiga lådor
+Broken Dresser;Trasig byrå
+Broken Fence;Trasigt staket
+Broken Fire altar;Trasigt eldaltare
+Broken Fountain;Trasig fontän
+Broken Grandfather Clock;Trasig farfars klocka
+Broken Grandiose Doors;Trasiga grandiosa dörrar
+Broken Grate;Trasigt galler
+Broken Lecturn;Trasig föreläsning
+Broken Mirror;Trasig spegel
+Broken Old Bookshelf;Trasig gammal bokhylla
+Broken Plantpot;Trasig växtkruka
+Broken Potter's Wheel;Trasigt Potter's Wheel
+Broken Raft;Trasig flotte
+Broken Railing;Trasigt räcke
+Broken Range;Broken Range
+Broken Roof;Trasigt tak
+Broken Scaffold;Trasig ställning
+Broken Shelves;Trasiga hyllor
+Broken Sink;Trasig handfat
+Broken Spinning Wheel;Trasigt spinnhjul
+Broken Statue;Trasig staty
+Broken Table;Trasigt bord
+Broken Wall;Trasig vägg
+Broken Well;Bruten brunn
+Broken altar;Brutet altare
+Broken barrel;Trasig tunna
+Broken bath;Trasigt bad
+Broken battering ram;Trasig slagkolv
+Broken beer glass;Trasigt ölglas
+Broken boat;Trasig båt
+Broken bridge;Trasig bro
+Broken cage;Trasig bur
+Broken cannon;Trasig kanon
+Broken cart;Trasig vagn
+Broken cart wheel;Trasigt vagnhjul
+Broken catapult;Trasig katapult
+Broken chain;Bruten kedja
+Broken chair;Trasig stol
+Broken cogs;Trasiga kuggar
+Broken counter;Trasig disk
+Broken crossbow;Brutet armborst
+Broken dead tree;Brutet dött träd
+Broken door;Trasig dörr
+Broken drilling machine;Trasig borrmaskin
+Broken equipment table;Trasigt utrustningsbord
+Broken experiment tube;Trasigt experimentrör
+Broken fence;Trasigt staket
+Broken fish display;Trasig fiskvisning
+Broken furnace;Trasig ugn
+Broken ground;Bruten mark
+Broken kiln;Trasig ugn
+Broken ladder;Trasig stege
+Broken lamp;Trasig lampa
+Broken lobster trap;Trasig hummerfälla
+Broken log raft;Trasig timmerflotte
+Broken logs;Trasiga stockar
+Broken mace trap;Trasig muskotfälla
+Broken machinery;Trasiga maskiner
+Broken mast;Trasig mast
+Broken multicannon;Trasig multikanon
+Broken pillar;Trasig pelare
+Broken rail;Trasig skena
+Broken range;Brutna räckvidd
+Broken rock;Trasig sten
+Broken rope bridge;Trasig repbro
+Broken rowboat;Trasig roddbåt
+Broken rune case;Trasigt runfodral
+Broken snare;Bruten snara
+Broken spinning wheel;Trasigt snurrande hjul
+Broken stairs;Trasig trappa
+Broken stool;Trasig avföring
+Broken strut;Trasigt sträva
+Broken sun altar;Brutet solaltare
+Broken support;Trasigt stöd
+Broken table;Trasigt bord
+Broken trap(0);Trasig fälla(0)
+Broken wall;Trasig vägg
+Broken weapons;Trasiga vapen
+Bronze Chest;Bronskista
+Bronze Door;Bronsdörr
+Bronze axe;Brons yxa
+Bronze pickaxe;Brons hacka
+Broom;Kvast
+Bruma roots;Bruma rötter
+Bryophyta display;Bryophyta display
+Bubbles;Bubblor
+Bucket;Hink
+Bucket of Blood;Hink med blod
+Buckets;Hinkar
+Budding branch;Spirande gren
+Buffers;Buffertar
+Buffet table;Buffébord
+Bull's head;Bulls huvud
+Bullrushes;Bullrushes
+Bunk bed;Våningssäng
+Bunkbed;Våningssäng
+Bunsen burner;Bunsenbrännare
+Burial cairn;Gravröse
+Burial mound;Gravhög
+Buried artefact;Begravd artefakt
+Buried skeleton;Nedgrävt skelett
+Burning bones;Brinnande ben
+Burning brazier;Brinnande brasa
+Burning driftwood;Brinnande drivved
+Burnt chest;Bränt bröst
+Burnt rock;Bränd sten
+Burnt tree;Bränt träd
+Burrow;Håla
+Burst boil;Brast koka
+Bush;Buske
+Bush Patch;Bush Patch
+Bust;Byst
+Button;Knapp
+Cabbage;Kål
+Cabbages;Kål
+Cabinet;Skåp
+Cabinet space;Skåpsutrymme
+Cable;Kabel
+Cactus;Kaktus
+Cactus patch;Kaktusplåster
+Cadarn Banner;Cadarn Banner
+Cadava bush;Cadava buske
+Cadavaberry bush;Kadavabärsbuske
+Cage;Bur
+Cage door;Burdörr
+Cages;Burar
+Calquat Tree;Calquat träd
+Calquat patch;Calquat-plåster
+Camel's statue;Kamels staty
+Camelot Portal;Camelot portal
+Camorra;Camorra
+Camp fire;Lägereld
+Campbed;Campbed
+Campfire;Lägereld
+Camping equipment;Campingutrustning
+Camping fire;Campingbrand
+Camping gear;Campingutrustning
+Campsite bed;Campingsäng
+Canal barge;Kanalpråm
+Canal wall;Kanalvägg
+Canary;Kanariefågel
+Candelabrum;Kandelaber
+Candle;Ljus
+Candle stand;Ljusställ
+Candles;Ljus
+Candlestick holder;Ljusstakehållare
+Cannon;Kanon
+Cannon barrels;Kanonpipor
+Cannon base;Kanonbas
+Cannon stand;Kanonstativ
+Cannonball;Kanonkula
+Cannonballs;Kanonkulor
+Canoe Station;Kanotstation
+Canopic Jar;Canopic burk
+Cape hanger;Cape hängare
+Cape of Legends;Legendernas udde
+Cape rack space;Cape rack utrymme
+Captain's Table;Kaptenens bord
+Carcass;Kadaver
+Carol's barrel;Carols tunna
+Carpet;Matta
+Carpet Exhibit;Mattutställning
+Carpet hotspot;Mattor hotspot
+Carrallangar Portal;Carrallangar portal
+Carrot;Morot
+Cart;Vagn
+Cart Camel;Cart Camel
+Cart Track;Varukorgsspår
+Cart track sign;Vagn spår tecken
+Cart tunnel;Vagntunnel
+Carved doors;Snidade dörrar
+Carved head;Utskuret huvud
+Carved log;Ristade stock
+Carved oak bench;Sniden ekbänk
+Carved redwood;Snidad redwood
+Carved rock;huggen sten
+Carved teak bench;Ristade bänk i teak
+Carving;Träsnideri
+Castle Gates;Slottsportarna
+Castle Wars portal;Castle Wars portal
+Castle door;Slottsdörr
+Castle wall;Slottsmuren
+Casual;Tillfällig
+Cat;Katt
+Cat Shrine;Cat Shrine
+Cat basket;Kattkorg
+Cat basket space;Kattkorgsutrymme
+Catapult;Katapult
+Catapult-lever;Katapult-spak
+Catapult-winch;Katapult-vinsch
+Catherby Portal;Catherby Portal
+Cauldron;Kittel
+Cauldron of Thunder;Åskans kittel
+Cave;Grotta
+Cave Entrance;Ingång till grottan
+Cave Exit;Cave Exit
+Cave entrance;Ingång till grottan
+Cave exit;Grottutgång
+Cave gobins;Cave gobins
+Cave in;Grott in
+Cave opening;Grottöppning
+Cave rocks;Grottklippor
+Cave wall;Grottvägg
+Cave web;Grottnät
+Cavern;Grotta
+Cavern entrance;Ingång till grottan
+Cavern exit;Cavern utgång
+Cavity;Hålighet
+Ceiling support;Takstöd
+Celastrus patch;Celastrus patch
+Celastrus tree;Celastrus träd
+Celastrus tree stump;Celastrus trädstubb
+Celestial globe;Himmelskt klot
+Cell Door;Celldörr
+Cell Gate;Cellport
+Cell door;Celldörr
+Cell wall;Cellvägg
+Cell wall window;Cellväggsfönster
+Cellar stairs;Källartrappa
+Cello;Cello
+Cemetery Portal;Kyrkogårdsportal
+Cenotaph;Cenotaph
+Centre of crop circle;Centrum av grödcirkeln
+Centre piece;Mittstycke
+Centrepiece space;Mittutrymme
+Cerberus Topiary;Cerberus Topiary
+Cerberus display;Cerberus display
+Ceremonial Brazier;Ceremoniell brazier
+Ceremonial Pillar;Ceremoniell pelare
+Ceremonial Pillow;Ceremoniell kudde
+Ceremonial Pillow Stack;Ceremoniell kuddstapel
+Ceremonial table;Ceremoniellt bord
+Certificate of healing;Intyg om helande
+Chain;Kedja
+Chains;Kedjor
+Chair;Stol
+Chair hotspot;Stol hotspot
+Chair space;Stolsutrymme
+Chaise lounge;Schäslong
+Chalice;Bägare
+Chalk patterns;Krita mönster
+Challenge portal;Utmaningsportal
+Chamber;Kammare
+Chambers of Xeric;Chambers of Xeric
+Champion Statue;Mästarstaty
+Chandelier;Takkrona
+Changing Curtain;Byte av gardin
+Chaos altar;Kaosaltare
+Chaos rift;Kaosspricka
+Charcoal furnace;Träkolsugn
+Charm of Boost;Charm of Boost
+Charm of Defence;Försvarets charm
+Charm of Fishing;Charm av fiske
+Charm of Luck;Lyckans charm
+Charm of Mining;Charm of Mining
+Charm of Preparation;Charm of Preparation
+Charms;Behag
+Charred bones;Förkolnade ben
+Chart;Diagram
+Chasm;Klyfta
+Cheese;Ost
+Chef's Delight;Kockens fröjd
+Chemical pool;Kemisk pool
+Chemical vent (blue);Kemisk ventil (blå)
+Chemical vent (green);Kemisk ventil (grön)
+Chemical vent (red);Kemisk ventil (röd)
+Chemical waste pipe;Kemiskt avloppsrör
+Chemistry Table;Kemitabell
+Chess;Schack
+Chest;Bröst
+Chest of Champions;Chest of Champions
+Chest pieces;Bröstbitar
+Chicken;Kyckling
+Chicken Shrine;Kycklinghelgedom
+Chicken coop;Hönshus
+Child's bed;Barns säng
+Chimney;Skorsten
+Chimney Pipe;Skorstensrör
+Chimney pipe;Skorstensrör
+Choc-Ice Stall;Choc-isstall
+Chopped tendrils;Hackade rankor
+Chopping table;Skärbord
+Christmas curtains;Julgardiner
+Christmas-Spirit Tree;Jul-Ande träd
+Chronicles of Xeric;Chronicles of Xeric
+Church organ;Kyrkans orgel
+Church pew;Kyrkbänk
+Cider;Cider
+Cider barrel;Cider fat
+Circle;Cirkel
+Citizen;Medborgare
+City Gate;Stadsporten
+City gate;Stadsporten
+Clam;Mussla
+Clan Coffer;Klankassan
+Clan Cup Trophy;Clan Cup Trophy
+Clan Cup portal;Clan Cup portal
+Clan Wars portal;Clan Wars portal
+Clan banner;Klan banner
+Clan hall portal;Klan hall portal
+Clan recruitment board;Klan rekryteringsnämnd
+Clarinet;Klarinett
+Clay Oven;Lerugn
+Clay fireplace;Lerkamin
+Clay forge;Lersmedja
+Clay oven;Lerugn
+Cleaning supplies;Städmaterial
+Cliff;Klippa
+Cliff edge;Klippkant
+Climbing Net;Klätternät
+Climbing Rope;Klätterrep
+Climbing net;Klätternät
+Climbing rocks;Klättring på stenar
+Climbing rope;Klätterrep
+Cloak rack;Kappställ
+Clock;Klocka
+Clock face;Urtavla
+Clock spindle;Klockspindel
+Clockmaker's bench;Klockmakarbänk
+Clockmaking space;Klockmakeriutrymme
+Closed Chest;Stängd kista
+Closed bank booth;Stängd bankbås
+Closed booth;Stängd monter
+Closed chest;Stängt bröst
+Cloth;Trasa
+Cloth covered table;Duk täckt bord
+Clothes;Kläder
+Clothes Stand;Klädställ
+Clothes equipment;Klädutrustning
+Clothes line;Klädlinje
+Clothes model;Klädmodell
+Clothes rack;Klädställ
+Clothes stall;Klädstall
+Clothing shelves;Klädhyllor
+Cloud bank;Moln bank
+Clump of rocks;Klump av stenar
+Coal;Kol
+Coal Tar;Stenkolstjära
+Coal Truck;Kol lastbil
+Coat rack;klädhängare
+Cockatrice head;Cockatrice huvud
+Cocoon;Kokong
+Coffer;Kista
+Coffin;Kista
+Coffin hotspot;Kista hotspot
+Cog;Kugge
+Cogs;Kuggar
+Coin Collector;Myntsamlare
+Coins;Mynt
+Coke;Koks
+Collapsed trap;Kollapsad fälla
+Collapsed wall;Fallad vägg
+Collector Converter;Samlaromvandlare
+Colony gate;Koloniport
+Column;Kolumn
+Combat Scroll;Combat Scroll
+Combat dummy;Stridsdocka
+Combat dummy space;Bekämpa dummy utrymme
+Combat ring;Stridsring
+Combat ring space;Combat ring utrymme
+Competitive;Konkurrenskraftig
+Compost;Kompost
+Compost Bin;Kompostbehållare
+Compost heap;Komposthög
+Compromised floorboards;Kompromissade golvbrädor
+Compromised support;Äventyrat stöd
+Confusing door;Förvirrande dörr
+Connected stalagmites;Förbundna stalagmiter
+Connection pipe;Anslutningsrör
+Consecrated house;Invigt hus
+Console;Trösta
+Container;Behållare
+Contortion Bars;Contortion Bars
+Control panel;Kontrollpanel
+Conveyor Belt;Löpande band
+Conveyor belt;Löpande band
+Cooker;Spis
+Cooking Pots;Matlagningsgrytor
+Cooking pot;Kokgryta
+Cooking range;Kokområde
+Cooking shelves;Matlagningshyllor
+Coolant Dispenser;Kylvätskedispenser
+Cooling chest;Svalkande bröst
+Coop;Coop
+Copper Ladder;Kopparstege
+Coral;Korall
+Coral Reef;Korallrev
+Corkscrew lever;Korkskruvsspak
+Corner Table;Hörnbord
+Corner space;Hörnutrymme
+Corporeal Beast Display;Corporeal Beast Display
+Corporeal Beast display;Corporeal Beast display
+Corpse;Lik
+Corpse cart;Likvagn
+Corpses;Lik
+Corrupt Deposit;Korrupt insättning
+Corrupt Deposit (Depleted);Korrupt insättning (utarmad)
+Corrupted Sceptre;Korrupt Scepter
+Cosmic rift;Kosmisk spricka
+Council members;rådsmedlemmar
+Counter;Disk
+Court judge;Domare
+Cow wheel;Kohjul
+Crab Shell;Krabbskal
+Crack;Spricka
+Cracked wall;Sprucken vägg
+Cradle of Life;Livets vagga
+Craft stall;Hantverksbod
+Crafting Stall;Hantverksstall
+Crafting stall;Hantverksbod
+Crane;Kran
+Crashed Star;Kraschade stjärna
+Crashed glider;Kraschat segelflygplan
+Crate;Spjällåda
+Crate of rune caskets;Låda med runkistor
+Crate of wands;Låda med trollstavar
+Crater;Krater
+Crates;Lådor
+Crawling hand;Krypande hand
+Crazy penguin;Galen pingvin
+Creature;Varelse
+Creeper;Kryp
+Creeping Plant;Krypande växt
+Creeping plant;Krypande växt
+Crevasse;Spricka
+Crevice;Skreva
+Crib;Spjälsäng
+Crop circle;Korncirkel
+Cross;Korsa
+Crossbow;Armborst
+Crossbow Tree;Armborst träd
+Crossbow stall;Armborst stall
+Crossbowman Statue;Crossbowman staty
+Crow nest;Kråkbo
+Crowd of dwarves;Skara dvärgar
+Crude boat;Rå båt
+Crude raft;Rå flott
+Crumbled wall;Smulad vägg
+Crumbling wall;Smulad vägg
+Crushed barricade;Krossad barrikad
+Crusher;Kross
+Crutch;Krycka
+Crwys Banner;Crwys Banner
+Crypt;Krypta
+Crypt Entrance;Kryptens ingång
+Crystal;Kristall
+Crystal Deposit;Kristallinsättning
+Crystal Deposit (Depleted);Kristalldeposition (utarmad)
+Crystal Dispenser;Kristalldispenser
+Crystal Sceptre;Kristallscepter
+Crystal Singing Recipes;Kristallsjungande recept
+Crystal Staircase;Kristalltrappa
+Crystal ball;Kristallkula
+Crystal ball space;Kristallkula utrymme
+Crystal bomb;Kristallbomb
+Crystal bridge;Kristallbro
+Crystal cluster;Kristallkluster
+Crystal dispenser;Kristalldispenser
+Crystal growth;Kristalltillväxt
+Crystal of power;Kristall av kraft
+Crystal outcrop;Kristall utsprång
+Crystal spire;Kristallspira
+Crystal structure;Kristallstruktur
+Crystal tree;Kristallträd
+Crystal tree patch;Kristallträdslapp
+Crystalline structure;Kristallin struktur
+Crystals;Kristaller
+Cube Pile;Kubhög
+Cupboard;Skåp
+Cupboard space;Skåputrymme
+Curling plant;Curlingväxt
+Current;Nuvarande
+Curry tree;Curryträd
+Curry tree stump;Curry stubbe
+Cursed Altar;Förbannade altare
+Curtain;Gardin
+Curtain space;Gardinutrymme
+Curtains;Gardiner
+Curved bone;Böjt ben
+Cutting Table;Skärbord
+Cyan Crystal;Cyan kristall
+Cyan crystal;Cyan kristall
+Cylinder Pile;Cylinderhög
+Daconia rocks;Daconia stenar
+Daeyalt Essence;Daeyalt Essence
+Daeyalt rocks;Daeyalt stenar
+Daffodils;Påskliljor
+Dagannoth;Dagannoth
+Dagger stall;Dolk stall
+Dairy Cow;Mjölkko
+Dairy churn;Mejeri churn
+Dairy cow;Mjölkko
+Daisies;Tusenskönor
+Damaged Earth;Skadad jord
+Damaged Mast;Skadad mast
+Damaged Table;Skadat bord
+Damaged Vent;Skadad ventilation
+Damaged armour;Skadad rustning
+Damaged cart;Skadad vagn
+Damaged mast;Skadad mast
+Damaged totem pole;Skadad totempåle
+Damaged wall;Skadad vägg
+Danger Sign;Fara tecken
+Danger sign;Fara tecken
+Dark Altar;Mörkt altare
+Dark Chest;Mörk bröst
+Dark crystal;Mörk kristall
+Dark hole;Mörkt hål
+Dark tunnel;Mörk tunnel
+Darklight;Darklight
+Dart trap;Dartfälla
+Dartboard;Darttavla
+David's barrel;Davids tunna
+Dawn;Gryning
+Dead Asgarnian Hops;Död Asgarnian humle
+Dead Attas plant;Död Attas-växt
+Dead Barley;Dött korn
+Dead Belladonna;Död Belladonna
+Dead Bittercap Mushrooms;Döda Bittercap-svampar
+Dead Body;Död kropp
+Dead Calquat;Död Calquat
+Dead Elf;Död tomte
+Dead Explorer;Död utforskare
+Dead Hammerstone Hops;Död Hammerstone Humle
+Dead Iasor plant;Död Iasor-växt
+Dead Jute;Död jute
+Dead Krandorian Hops;Död Krandorian Humle
+Dead Kronos plant;Död Kronos anläggning
+Dead Magic Tree;Dött magiskt träd
+Dead Mahogany;Död mahogny
+Dead Maple;Död lönn
+Dead Oak;Död ek
+Dead Poison Ivy bush;Död Poison Ivy buske
+Dead Potato cactus;Död potatis kaktus
+Dead Redwood tree;Dött Redwood-träd
+Dead Snape grass;Dött Snape gräs
+Dead Spirit Tree;Dead Spirit Tree
+Dead Teak;Död teak
+Dead Tree;Dött träd
+Dead White lily;Död vit lilja
+Dead Wildblood Hops;Död vildblodshumle
+Dead Willow;Död Willow
+Dead Yanillian Hops;Död Yanillian humle
+Dead Yew;Död Yew
+Dead Yommi;Död Yommi
+Dead Yommi sapling;Död Yommi planta
+Dead apple tree;Dött äppelträd
+Dead banana tree;Dött bananträd
+Dead bat;Död fladdermus
+Dead cabbages;Döda kålar
+Dead cactus;Död kaktus
+Dead cadavaberry bush;Död kadaverbuske
+Dead calquat;Död calquat
+Dead celastrus tree;Dött celastrus träd
+Dead curry tree;Dött curryträd
+Dead dragonfruit plant;Död drakfruktväxt
+Dead dwellberry bush;Död husbärsbuske
+Dead goutweed;Död giktweed
+Dead hardy goutweed;Död tålig gikt
+Dead herbs;Döda örter
+Dead jangerberry bush;Död jangerbärsbuske
+Dead limpwurt plant;Död limpwurtväxt
+Dead marigold;Död ringblomma
+Dead mushroom ring;Död svampring
+Dead nasturtium;Död nasturtium
+Dead onions;Döda lökar
+Dead orange tree;Dött apelsinträd
+Dead palm tree;Död palm
+Dead papaya tree;Dött papayaträd
+Dead pineapple plant;Död ananasväxt
+Dead potatoes;Död potatis
+Dead redberry bush;Död rödbärsbuske
+Dead rosemary;Död rosmarin
+Dead seaweed;Döda tång
+Dead sourhog;Död sursvin
+Dead strawberry plant;Död jordgubbsplanta
+Dead sweetcorn plant;Död majsväxt
+Dead tomato plant;Död tomatplanta
+Dead tree;Dött träd
+Dead tree stump;Död trädstubbe
+Dead vine;Död vinstock
+Dead watermelons;Döda vattenmeloner
+Dead whiteberry bush;Död vitbärsbuske
+Dead woad plant;Död vedväxt
+Deadfall;Dödfall
+Deadman Supply Chest;Deadman Supply Chest
+Deadman chest;Deadman kista
+Deadman display;Deadman display
+Death rift;Dödsspricka
+Death's Coffer;Dödskassa
+Death's Domain;Dödens domän
+Death's domain;Dödens domän
+Debris;Skräp
+Decaying trunk;Förmultnande stam
+Deckchair;Solstol
+Decorated limestone fireplace;Dekorerad öppen spis i kalksten
+Decorated marble fireplace;Dekorerad öppen spis i marmor
+Decorated wall;Dekorerad vägg
+Decoration;Dekoration
+Decoration space;Dekorationsutrymme
+Decorative window;Dekorativt fönster
+Defender item machine;Defender objekt maskin
+Delphinium patch;Delphinium-plåster
+Delphiniums;Delphiniums
+Demon;Demon
+Demonic Symbol;Demonisk symbol
+Dense Jungle;Tät djungel
+Dense forest;Tät skog
+Dense runestone;Tät runsten
+Depleted Rock;Utarmad sten
+Depleted runestone;Utarmad runsten
+Depleted vein;Utarmad ven
+Deposit Box;Inlåningsbox
+Desecrated house;Skändat hus
+Desert painting;Ökenmålning
+Desk;Skrivbord
+Destroyed bird hide;Förstört fågelgömma
+Destroyed furniture;Förstörda möbler
+Device;Anordning
+Dial;Ringa
+Dice;Tärningar
+Dig Site specimen rocks;Gräv stenar från platsen
+Digsite Pendant;Digsite hängsmycke
+Dim crystal;Dim kristall
+Dirt;Smuts
+Diseased Asgarnian Hops;Sjuk Asgarnian humle
+Diseased Barley;Sjukt korn
+Diseased Belladonna;Sjuka Belladonna
+Diseased Bittercap Mushrooms;Sjuka Bittercap-svampar
+Diseased Calquat;Sjuk Calquat
+Diseased Grapevines;Sjuka vinrankor
+Diseased Hammerstone Hops;Sjuk hammarstenshumle
+Diseased Jute;Sjuk jute
+Diseased Krandorian Hops;Sjuk Krandorian humle
+Diseased Magic Tree;Sjukt magiskt träd
+Diseased Mahogany;Sjuk mahogny
+Diseased Maple;Sjuk lönn
+Diseased Oak;Sjuk ek
+Diseased Poison Ivy bush;Sjuk Poison Ivy buske
+Diseased Potato cactus;Sjuk potatis kaktus
+Diseased Redwood tree;Sjukt Redwoodträd
+Diseased Snape grass;Sjukt Snape gräs
+Diseased Spirit Tree;Sjukt andeträd
+Diseased Teak;Sjuk teak
+Diseased White lily;Sjuk vit lilja
+Diseased Wildblood Hops;Sjuk vildblodshumle
+Diseased Willow;Sjuk pil
+Diseased Yanillian Hops;Sjuk Yanillian humle
+Diseased Yew;Sjuk idegran
+Diseased apple tree;Sjukt äppelträd
+Diseased banana tree;Sjukt bananträd
+Diseased cabbages;Sjuka kålar
+Diseased cactus;Sjuk kaktus
+Diseased cadavaberry bush;Sjuk kadavabärsbuske
+Diseased calquat;Sjuk calquat
+Diseased celastrus tree;Sjukt celastrusträd
+Diseased curry tree;Sjukt curryträd
+Diseased dragonfruit plant;Sjuk dragonfruit växt
+Diseased dwellberry bush;Sjuk dwellberry buske
+Diseased goutweed;Sjuk gikt
+Diseased hardy goutweed;Sjuk härdig gikt
+Diseased herbs;Sjuka örter
+Diseased jangerberry bush;Sjuk jangerbärsbuske
+Diseased limpwurt plant;Sjuk limpwurtväxt
+Diseased marigold;Sjuk ringblomma
+Diseased nasturtium;Sjuk nasturtium
+Diseased onions;Sjuk lök
+Diseased orange tree;Sjukt apelsinträd
+Diseased palm tree;Sjuk palm
+Diseased papaya tree;Sjukt papayaträd
+Diseased pineapple plant;Sjuk ananasväxt
+Diseased potatoes;Sjuk potatis
+Diseased redberry bush;Sjuk rödbärsbuske
+Diseased rosemary;Sjuk rosmarin
+Diseased seaweed;Sjukt tång
+Diseased strawberry plant;Sjuk jordgubbsplanta
+Diseased sweetcorn plant;Sjuk majsväxt
+Diseased tomato plant;Sjuk tomatplanta
+Diseased watermelons;Sjuka vattenmeloner
+Diseased whiteberry bush;Sjuk vitbärsbuske
+Diseased woad plant;Sjuk skogväxt
+Dishes;Disk
+Display Case;Display Fall
+Display board;Utställningstavla
+Display case;Vitrinskåp
+Display space;Utställningsutrymme
+Display table;Visa bord
+Disturbed sand;Störd sand
+Dock Leaf;Dock Leaf
+Dock leaf plant;Dockbladsväxt
+Dodgy ground;Tveksam mark
+Dolls and balls;Dockor och bollar
+Dolmen;Dolmen
+Dolphin;Delfin
+Domination marker;Dominans markör
+Dominic's coffer;Dominics kassa
+Door;Dörr
+Door hotspot;Dörr hotspot
+Door space;Dörrutrymme
+Doors;Dörrar
+Doors of Dinh;Dörrar i Dinh
+Doorway;Dörröppning
+Doric's Whetstone;Doric's Whetstone
+Double bed;Dubbelsäng
+Dragon Bitter;Dragon Bitter
+Dragon bitter;Drake bitter
+Dragon corpse;Dragon lik
+Dragon egg;Drakeägg
+Dragon head;Drakhuvud
+Dragon statue;Drakestaty
+Dragon trophy display;Dragon trofé display
+Dragon's head;Drakhuvud
+Dragonfire;Dragonfire
+Dragonfly;Trollslända
+Dragonfruit tree;Drakfruktträd
+Dragonfruit tree stump;Drakfruktträdstubb
+Dragonhide Leather;Dragonhide Läder
+Drain;Dränera
+Drain Pipe;Avloppsrör
+Drained Crystal;Dränerad kristall
+Dramen tree;Dramen träd
+Drapes;Draperier
+Drawer space;Lådutrymme
+Drawers;Lådor
+Draynor Manor Portal;Draynor Manor Portal
+Dream List;Drömlista
+Dream Tree stump;Drömträdstubb
+Dream puff;Drömpuff
+Dream tree;Drömträd
+Dresser;Kommod
+Dresser space;Kommod utrymme
+Drift net (full);Drivnät (full)
+Drift net anchors;Drivnätsankare
+Driftwood;Drivved
+Drill;Borra
+Drilling machine;Borrmaskin
+Drip;Dropp
+Dripping tendrils;Droppande rankor
+Dripping vine;Droppande vinstockar
+Drips;Droppar
+Drive belt;Drivrem
+Druid's robes;Druids dräkter
+Drunken Dwarf;Berusad dvärg
+Dry patch;Torr lapp
+Dry stone wall;Torr stenmur
+Drying line;Torklinje
+Dug hole;Grävt hål
+Dummy;Dummy
+Dung;Dynga
+Dungeon door;Dungeon dörr
+Dungeon entrance;Ingång till fängelsehålan
+Dusk;Skymning
+Dwarf;Dvärg
+Dwarf Flag;Dvärgflagga
+Dwarf MultiCannon;Dwarf MultiCannon
+Dwarf bath;Dvärgbad
+Dwarf mirror;Dvärgspegel
+Dwarf multicannon;Dvärg multikanon
+Dwarf remains;Dvärg kvar
+Dwarf statue;Dvärgstaty
+Dwarven Consortium Table;Dwarven Consortium Tabell
+Dwarven Stout;Dwarven Stout
+Dwarven machinery;Dvärgmaskineri
+Dwellberry bush;Dwellberry buske
+Dye Pots;Färga krukor
+Dyed fabric;Färgat tyg
+Dying tree;Döende träd
+Dying tree Stump;Döende trädstubb
+Eagle lever;Eagle spak
+Earth Mound;Jordhög
+Earth rift;Jordspricka
+Easel;Staffli
+Ectofuntus;Ectofuntus
+Edge;Kant
+Eerie statue;Hemsk staty
+Efh salt;Eh salt
+Egg;Ägg
+Egg Sac;Äggpåse
+Egg hopper;Äggbehållare
+Egg launcher;Äggkastare
+Egg sac;Äggpåse
+Eggs;Ägg
+Egniol Potions;Egniol Potions
+Eight;Åtta
+Elaborate lockbox;Genomarbetad låslåda
+Electrified harpoonfish cannon;Elektrifierad harpunfiskkanon
+Elemental balance;Elementär balans
+Elemental balance space;Elementärt balansutrymme
+Elemental sphere;Elementär sfär
+Elevator;Hiss
+Elevator controls;Hisskontroller
+Elf Flag;Elf Flagga
+Elidinis Statuette;Elidinis statyett
+Elite clue scroll display;Elite ledtråd rullningsdisplay
+Elizabeth's barrel;Elizabeths tunna
+Elven Crystal Chest;Elven Crystal Kista
+Elven lamp;Alvlampa
+Embalming tube;Balsameringsrör
+Embers;Glöd
+Empty Sack;Tom säck
+Empty Sarcophagus;Tom Sarkofag
+Empty Stall;Tomt stall
+Empty ash pile;Tom askhög
+Empty barrel;Tom tunna
+Empty basket;Tom korg
+Empty chest;Tom bröstkorg
+Empty clothes;Tomma kläder
+Empty desk;Tomt skrivbord
+Empty lamp;Tom lampa
+Empty pedestal;Tom piedestal
+Empty pool;Tom pool
+Empty rack;Tomt ställ
+Empty sac;Tom påse
+Empty sack;Tom säck
+Empty wall;Tom vägg
+Enchanters Teleport;Enchanters Teleport
+End of bridge;Slutet på bron
+Energy Barrier;Energibarriär
+Energy Pylon;Energipylon
+Energy Sphere;Energisfär
+Energy well;Energi bra
+Engine Platform;Motorplattform
+Entrance;Ingång
+Equipment;Utrustning
+Equipment table;Utrustningsbord
+Eric;Erik
+Escape rope;Utrymningsrep
+Evergreen;Evergreen
+Evil Dave;Onda Dave
+Evil claw;Onda klo
+Evil eye decoration;Onda ögat dekoration
+Excalibur;Excalibur
+Exercise mat;Träningsmatta
+Exhumed;Uppgrävd
+Exit;Utgång
+Exit Sign;Avsluta tecken
+Exit Teleport;Avsluta Teleport
+Exit cavern;Gå ur grottan
+Exit door;Utgångsdörr
+Exit path;Avsluta vägen
+Exit portal;Avsluta portalen
+Experiment booth;Experimentbås
+Experiment cabinet;Experimentskåp
+Experiment table;Experimenttabell
+Experiment tube;Experimentrör
+Explosion;Explosion
+Explosive potion table;Bord för explosiva drycker
+Extra anchor;Extra ankare
+Extra chain;Extra kedja
+Extractor gun;Extraktionspistol
+Extractor hat;Extraktorhatt
+Extractor hat-top;Extraktor hatt-top
+Eye;Öga
+Eyes;Ögon
+Fabric;Tyg
+Fabric rack;Tygställ
+Fairly dark crystal;Ganska mörk kristall
+Fairy Queen;Fairy Queen
+Fairy Queen throne;Fairy Queen tronen
+Fairy bank;Fairy bank
+Fairy fountain;Fe fontän
+Fairy house;Fehus
+Fairy market stall;Fairy marknadsstånd
+Fairy ring;Fairy ring
+Fairy workbench;Fairy arbetsbänk
+Falador Portal;Falador portal
+Fallen Tree;Fallet träd
+Fallen Wall;Fallen vägg
+Fallen soldier;Fallen soldat
+Fallen statue;Fallen staty
+Fallen tree;Fallet träd
+Falling door;Fallande dörr
+Falling rock;Fallande sten
+Fan blade;Fläktblad
+Fancy Jewellery Box;Snygg smyckeskrin
+Fancy dress box;Fancy dress box
+Fancy dress box space;Fancy dress box plats
+Fancy pool of Rejuvenation;Fancy pool av föryngring
+Fancy range;Snyggt utbud
+Farm door;Gårdsdörr
+Farming patch;Farming patch
+Feathers;Fjädrar
+Felled Yommi tree;Fällde Yommi-träd
+Fence;Staket
+Fence bits;Stängselbitar
+Fence corner;Staket hörn
+Fence end;Staketslut
+Fence mid;Staket mitt
+Fence space;Staket utrymme
+Fence t-piece;Staket t-stycke
+Fencing;Fäktning
+Fencing ring;Fäktning ring
+Fenkenstrain's Castle Portal;Fenkenstrains slottsportal
+Fermenting Vat;Jäsande Vat
+Fern;Ormbunke
+Ferry;Färja
+Fertile Soil;Grogrund
+Figurehead;Galjonsfigur
+Filled Recess;Fylld fördjupning
+Final Pillar;Sista pelaren
+Fire;Brand
+Fire Wall;Brandmur
+Fire altar;Eldaltare
+Fire of Dehumidification;Avfuktningsbrand
+Fire of Domination;Dominans eld
+Fire of Eternal Light;Det eviga ljusets eld
+Fire of Nourishment;Näringseld
+Fire of Unseasonal Warmth;Eld av osäsongsbetonad värme
+Fire pit;Eldstad
+Fire remains;Eld kvarstår
+Fire rift;Eldspricka
+Fire trap;Brandfälla
+Firebox;Eldstad
+Firepit;Eldstad
+Firepit with hook;Eldstad med krok
+Firepit with pot;Eldstad med gryta
+Fireplace;Öppen spis
+Fireplace space;Öppen spis utrymme
+Fireplace surround;Öppen spis surround
+Firm snow patch;Fast snöfläck
+First aid box;Första hjälpen box
+Fish;Fisk
+Fish basket;Fiskkorg
+Fish bits;Fiskbitar
+Fish bowl;Fiskskål
+Fish stall;Fiskstall
+Fishing Contest Banner;Banner för fisketävling
+Fishing Crane;Fiskekran
+Fishing Guild Portal;Fishing Guild Portal
+Fishing Spot;Fiskeplats
+Fishing Spot (Depleted);Fiskeplats (utarmad)
+Fishing net;Fisknät
+Fishing rod;Metspö
+Fishing spot;Fiskeplats
+Fishing trophy space;Fisketroféutrymme
+Fishing weights;Fiskevikter
+Fissure;Spricka
+Five;Fem
+Fixed bridge;Fast bro
+Flag;Flagga
+Flagpole;Flaggstång
+Flames;Lågor
+Flaming Fire altar;Flammande eld altare
+Flashing landing light;Blinkande landningsljus
+Flat ground;Plan mark
+Flat rock;Platt sten
+Flat stone;Platt sten
+Flax;Lin
+Floating Book;Flytande bok
+Floats;Flyter
+Floor;Golv
+Floor below;Våningen under
+Floor decoration;Golvdekoration
+Floor space;Golvyta
+Floor space corner;Golvyta hörn
+Floor space mid;Golvyta mitten
+Floor space side;Golvyta sida
+Floor spikes;Golvspikar
+Floor tile;Golv klinker
+Floorboards;Golvbrädor
+Flour;Mjöl
+Flour bin;Mjöllåda
+Flower;Blomma
+Flower Patch;Flower Patch
+Flowerbed;Rabatt
+Flowering fern;Blommande ormbunke
+Flowers;Blommor
+Flute;Flöjt
+Fly paper;Flugpapper
+Fly trap;Flugfälla
+Fog marker;Dimmarkör
+Font;Font
+Food Stall;Matbod
+Food Trough;Mattråg
+Food chute;Matränna
+Food cupboard;Matskåp
+Food trough;Mattråg
+Foot lockers;Fotskåp
+Footprints;Fotspår
+Forest Mushrooms;Skogssvampar
+Forest floor;Skogsbotten
+Formidable passage;Formidabel passage
+Fortified gate;Förstärkt port
+Fossil Island display case;Fossil Island monter
+Fossil Storage;Fossil lagring
+Fossil cleaning bench;Fossil rengöringsbänk
+Fossil fuel;Fossilt bränsle
+Fountain;Fontän
+Fountain of Heroes;Hjältarnas fontän
+Fountain of Rune;Runefontän
+Fountain of Uhld;Uhlds fontän
+Four;Fyra
+Fox;Räv
+Fractionalising still;Fraktionering fortfarande
+Fragment of Seren;Fragment av Seren
+Frame;Ram
+Frank's barrel;Franks tunna
+Free-for-all portal;Gratis-för-alla-portal
+Fremennik Boat;Fremennik båt
+Fremennik boat;Fremennik båt
+Frog;Groda
+Frog spit;Grodspott
+Frozen Pool of Rejuvenation;Fryst pool av föryngring
+Frozen Pool of Restoration;Fryst pool av restaurering
+Frozen Pool of Revitalisation;Frozen Pool of Revitalization
+Frozen demon;Frusen demon
+Frozen door;Frusen dörr
+Frozen fancy pool of Rejuvenation;Fryst fancy pool of Rejuvenation
+Frozen orc;Fryst orc
+Frozen ornate pool of Rejuvenation;Frusen utsmyckad pool av föryngring
+Frozen table;Fruset bord
+Frozen warrior;Frusen krigare
+Fruit Stall;Fruktstall
+Fruit Tree Patch;Fruit Tree Patch
+Fruit cart;Fruktvagn
+Full fishing net;Fullt fiskenät
+Funeral Pyre;Begravningsbål
+Fungi;Svampar
+Fungi on log;Svampar på stock
+Fungus;Svamp
+Fungus covered Cavern wall;Svamp täckt Cavern vägg
+Fungus doormat;Svamp dörrmatta
+Fungus pattern;Svampmönster
+Fungus seat;Svampsits
+Fur stall;Päls stall
+Furnace;Ugn
+Furnace Coolant;Ugnskylvätska
+Fuse;Säkring
+G.A.G. banner;GAG. baner
+Gabion defence;Gabion försvar
+Gallows;Galge
+Game space;Spelutrymme
+Gangplank;Landgång
+Gap;Gap
+Garden fence;Trädgårdsstängsel
+Gas bubble;Gasbubbla
+Gas cylinder;Gasflaska
+Gas hole;Gashål
+Gate;Gate
+Gate of War;Krigets port
+Gates;Portar
+Gauntlet Portal;Gauntlet Portal
+Gazebo;Lusthus
+Gear box;Växellåda
+Gem Rock;Gem Rock
+Gem Stall;Gem Stall
+Gem stall;Gem stall
+General Bentnoze;General Bentnoze
+General Graardor display;General Graardor display
+General Stall;General Stall
+General Wartface;General Wartface
+Generator;Generator
+Geyser;Gejser
+Ghorrock Portal;Ghorrock Portal
+Giant Anvil;Jätte städ
+Giant Boulder;Giant Boulder
+Giant Dwarf;Jätte dvärg
+Giant anvil;Jättestädet
+Giant crystal;Jättekristall
+Giant feathers;Jätte fjädrar
+Giant vial;Jätteflaska
+Gibbet;Galge
+Gift of Peace;Fredens gåva
+Gigantic penguin;Gigantisk pingvin
+Gilded Adventure Log;Förgylld äventyrslogg
+Gilded bench;Förgylld bänk
+Gilded cape rack;Förgylld uddeställ
+Gilded stand;Förgyllt stativ
+Gilded wardrobe;Förgylld garderob
+Glarial's Tomb;Glarials grav
+Glarial's Tombstone;Glarials gravsten
+Glass door;Glasdörr
+Glass table;Glasbord
+Globe;Klot
+Globe of Gielinor;Globe of Gielinor
+Globe space;Globe utrymme
+Glouphrie statue;Glouphrie staty
+Glove Rack;Handskställ
+Gloves and duster;Handskar och dammduk
+Glowing Carving;Glödande snideri
+Glowing Fungus;Glödande svamp
+Glowing Orb;Glödande Orb
+Glowing carving;Glödande snideri
+Glowing crystal;Glödande kristall
+Glowing fungus;Glödande svamp
+Glyphs;Glyfer
+Gnome Flag;Gnome Flagga
+Gnome Glider;Gnome Glider
+Gnome barrel;Gnome tunna
+Gnome barrels;Gnome tunnor
+Gnome bench;Gnome bänk
+Gnome cabinet;Gnome skåp
+Gnome chair;Gnome stol
+Gnome cooker;Gnome spis
+Gnome crate;Gnome låda
+Gnome crates;Gnome lådor
+Gnome crowd;Gnome folkmassa
+Gnome glider;Gnome glidflygplan
+Gnome goal;Gnome mål
+Gnome landing light;Gnome landningsljus
+Gnome skeleton;Gnome skelett
+Gnome statue;Gnome staty
+Gnome table;Gnome bord
+Goal;Mål
+Goat;Get
+Goat poo;Get bajs
+Goblin crowd;Goblin publik
+Goblin stove;Goblin spis
+Gobln Merfsh;Gobln Merfsh
+Godfather throne;Gudfaders tron
+Gold;Guld
+Gold Castlewars armour;Castlewars-rustning i guld
+Gold Chest;Guldkista
+Gold Screen;Guld skärm
+Gold cannonball;Guld kanonkula
+Golden Gnome;Gyllene Gnome
+Golden cage;Gyllene bur
+Golden lantern;Gyllene lykta
+Golden pear bush;Gyllene päronbuske
+Golden tree;Gyllene träd
+Golem arm;Golem arm
+Golem body;Golem kropp
+Golem foot;Golem fot
+Golem head;Golem huvud
+Golem rubble;Golem spillror
+Golf-cart;Golfbil
+Golovanova plant;Golovanova växt
+Golovanova seedling;Golovanova planta
+Goo covered vine;Goo täckt vinstockar
+Gorilla Statue;Gorilla staty
+Gourd tree;Kalebassträd
+Gout Tuber Plant;Giktknölsplanta
+Goutweed;Goutweed
+Goutweed Crate;Goutweed Crate
+Grain;Spannmål
+Grain of Plenty;Grain of Plenty
+Grain sacks;Spannmålssäckar
+Gramophone;Grammofon
+Granary roof;Spannmålstak
+Granary wall;Kornmagasinsvägg
+Grand Exchange Portal;Grand Exchange Portal
+Grand Exchange booth;Grand Exchange monter
+Grand Exchange display;Grand Exchange-display
+Grand Gold Chest;Stor guldkista
+Grand bookshelf;Stor bokhylla
+Grandfather Clock;Golvur
+Grandfather clock;Golvur
+Grandiose Doors;Grandiosa dörrar
+Grape arbor;Druvberså
+Grape vine;Vinranka
+Grapevine;Vinranka
+Grapevines;Vinrankor
+Grass;Gräs
+Grassland;Gräsmark
+Grate;Galler
+Grave;Grav
+Grave marker;Gravmarkör
+Grave of Scorpius;Scorpius grav
+Gravestone;Gravsten
+Graveyard Teleport;Graveyard Teleport
+Great Olm display;Fantastisk Olm-skärm
+Great Olmic Statue;Stor Olmic staty
+Greater magic circle;Större magisk cirkel
+Greater teleport focus;Större teleporteringsfokus
+Green banner;Grön banderoll
+Green chemical;Grön kemikalie
+Green door;Grön dörr
+Green tears;Gröna tårar
+Greenman's ale;Greenman's ale
+Greenmans Ale;Greenmans Ale
+Grill;Grill
+Grim lilly;Grim lilly
+Grimgnash;Grimgnash
+Grinder;Kvarn
+Grotesque Guardians' display;Groteska väktarnas uppvisning
+Grotto;Grotta
+Grotto tree;Grottoträd
+Growing vine;Växande vinstockar
+Growing wheat;Odla vete
+Grubby Chest;Smutsig bröstkorg
+Grubby Door;Smutsig dörr
+Grym Root;Grym Root
+Grym Root (Depleted);Grym Root (utarmad)
+Guard;Skydda
+Guard dog;Vakthund
+Guard space;Vaktutrymme
+Guide rope;Styrrep
+Guild Door;Guild Dörr
+Guild door;Guild dörr
+Guild trophy space;Guild troféutrymme
+Guitar;Gitarr
+Gun Locker;Vapenskåp
+Guthix Portal;Guthix portal
+Haar-Tok;Haar-Tok
+Habitat space;Habitat utrymme
+Half-built Loom;Halvbyggd vävstol
+Hammer;Hammare
+Hammers;Hammare
+Hammerstone Hops;Hammerstone humle
+Hammock;Hängmatta
+Hand holds;Hand håller
+Handholds;Handtag
+Handle;Hantera
+Handy portal;Praktisk portal
+Hanger;Galge
+Hanging;Hängande
+Hanging banner;Hängande banderoll
+Hanging cape;Hängande cape
+Hanging dye;Hängande färgämne
+Hanging flag;Hängande flagga
+Hanging hand;Hängande hand
+Hanging log;Hängande stock
+Hanging meat;Hängande kött
+Hanging pirate;Hängande pirat
+Hanging tapestry;Hängande gobeläng
+Hanging wheel;Hängande hjul
+Hangman game;Hangman spel
+Hank (Well);Hank (tja)
+Hank (ghastly!);Hank (hemskt!)
+Hank (sick);Hank (sjuk)
+Hank (very sick);Hank (mycket sjuk)
+Hard rock;Hårdrock
+Hardcore Ironman;Hardcore Ironman
+Hardwood Grove Doors;Hardwood Grove Dörrar
+Hardy goutweed;Härdig giktweed
+Harmony Island Portal;Harmony Island Portal
+Harp;Harpa
+Harpoonfish cannon;Harpunfisk kanon
+Harpoons;Harpuner
+Harvested Celastrus tree;Skördat Celastrus-träd
+Hat rack;Hatthylla
+Hat stand;Hattstativ
+Hatch;Kläcka
+Hay Bales;Höbalar
+Hay bale;Höbal
+Hay bales;Höbalar
+Haystack;Höstack
+Hazeel's coffin;Hazeels kista
+Hazelmere statue;Hazelmere staty
+Head trophy space;Huvud troféutrymme
+Headless statue;Huvudlös staty
+Healer item machine;Healer objekt maskin
+Healer spring;Healer fjäder
+Healing certificate;Läkeintyg
+Healthorg statue;Healthorg staty
+Heap of bricks;Hög av tegelstenar
+Hearth;Härd
+Heat;Värme
+Heater;Värmare
+Heather;Ljung
+Heavy door;Tung dörr
+Hedge;Häck
+Hedging;Säkring
+Hefin Banner;Hefin Banner
+Hellhound;Helveteshund
+Helmet pluming stand;Stativ för hjälm
+Henge;Henge
+Heraldry space;Heraldikutrymme
+Herb;Ört
+Herb Stall;Örtstall
+Herb patch;Örtplåster
+Herbs;Örter
+Herman's desk;Hermans skrivbord
+Heroic statue;Heroisk staty
+Hespori;Hespori
+Hespori patch;Hespori lapp
+Hidden Statue;Dold staty
+Hidden trapdoor;Dold fallucka
+High Stakes;Höga insatser
+Hill;Hill
+Hillside entrance;Entré på sluttningen
+History;Historia
+Hobgoblin;Troll
+Hoisted sail;Hissade segel
+Holding area;Hållplats
+Hole;Hål
+Hole in the wall;Hål i väggen
+Hole in wall;Hål i väggen
+Hollow Log;Ihålig stock
+Hollow log;Ihålig stock
+Hollow tree;Ihåligt träd
+Hollowed rock;Ihålig sten
+Holy Barrier;Helig barriär
+Holy barrier;Helig barriär
+Hook briar;Hook briar
+Hoop Snake;Hoop Snake
+Hope bridge;Hope bridge
+Hopper;Ficka
+Hopper controls;Behållarens kontroller
+Hops Patch;Humle Patch
+Horn of Death;Dödens horn
+Horn of glory;Ärans horn
+Hosidius statue;Hosidius staty
+Hospital shelves;Sjukhushyllor
+Hot Coals;Heta kol
+Hot vent door;Varm ventilationsdörr
+House Advertisement;Husannons
+Howling Snow Storm;Ytande snöstorm
+Huge Gate;Enorma port
+Huge Mushroom;Enorm svamp
+Huge Spider;Stor spindel
+Huge plant;Enorm växt
+Huge vat;Enormt vat
+Hull;Skrov
+Human Flag;Mänsklig flagga
+Hurdle;Hinder
+Hurt fairy;Sårad älva
+Hutch;Kaninbur
+Iasor plant;Iasor anläggning
+Iban's Throne;Ibans tron
+Ice;Is
+Ice Column;Ispelare
+Ice Light;Ice Light
+Ice Throne;Ice Throne
+Ice Troll King;Ice Troll King
+Ice blockage;Isblockering
+Ice bridge;Isbro
+Ice chunks;Isbitar
+Ice covered boulder;Istäckt stenblock
+Ice crystal;Iskristall
+Ice cube;Isbit
+Ice gate;Isport
+Ice ledge;Iskant
+Ice steps;Issteg
+Ice storm;Isstorm
+Icicle;Istapp
+Icicles;Istappar
+Icon of Bob;Ikon för Bob
+Icon of Gnome Child;Ikon för Gnome Child
+Icon of Guthix;Ikon av Guthix
+Icon of Saradomin;Ikon för Saradomin
+Icon of Zamorak;Ikon för Zamorak
+Icon space;Ikon utrymme
+Icosahedron Pile;Icosahedron hög
+Icthlarin's statue;Icthlarins staty
+Icy Cavern;Icy Cavern
+Icy rock;Iskall sten
+Icy rocks;Isiga stenar
+Icyene Statue;Icyene staty
+Igloo;Igloo
+Illuminated Symbol;Upplyst symbol
+Imposing Doors;Imponerande dörrar
+Inactive Symbol;Inaktiv symbol
+Inanimate Altar;Leva altare
+Incense burner;Rökelse brännare
+Incinerator;Förbränningsugn
+Incomplete map;Ofullständig karta
+Inconspicuous bush (beginner);Osynlig buske (nybörjare)
+Inconspicuous bush (easy);Osynlig buske (lätt)
+Inconspicuous bush (elite);Osynlig buske (elit)
+Inconspicuous bush (hard);Osynlig buske (hård)
+Inconspicuous bush (master);Osynlig buske (mästare)
+Inconspicuous bush (medium);Osynlig buske (medium)
+Inconspicuous crate (easy);Osynlig låda (lätt)
+Inconspicuous crate (elite);Osynlig låda (elit)
+Inconspicuous crate (hard);Osynlig låda (hård)
+Inconspicuous crate (master);Osynlig låda (mästare)
+Inconspicuous crate (medium);Osynlig låda (medium)
+Inconspicuous hole (easy);Osynligt hål (lätt)
+Inconspicuous hole (elite);Omärkligt hål (elit)
+Inconspicuous hole (hard);Osynligt hål (hårt)
+Inconspicuous hole (master);Osynligt hål (master)
+Inconspicuous hole (medium);Osynligt hål (medium)
+Inconspicuous rocks (easy);Osynliga stenar (lätt)
+Inconspicuous rocks (elite);Omärkliga stenar (elit)
+Inconspicuous rocks (hard);Omärkliga stenar (hårda)
+Inconspicuous rocks (master);Omärkliga stenar (mästare)
+Inconspicuous rocks (medium);Osynliga stenar (medium)
+Incubation chamber;Inkubationskammare
+Incubator;Inkubator
+Infernal chart;Infernaliska diagram
+Information;Information
+Information Scroll;Information Scroll
+Information booth;Informationsbås
+Information scroll;Informationsrulla
+Injured fairy;skadad älva
+Insurance stall;Försäkringsstånd
+Interdimensional rift;Interdimensionell spricka
+Intermediate Flag;Mellanliggande flagga
+Interrogation chair;Förhörsstol
+Iorwerth Banner;Iorwerth Banner
+Iron Winch;Järnvinsch
+Iron ladder;Järnstege
+Iron railings;Räcke av järn
+Ironman & Ultimate Ironwoman;Ironman & Ultimate Ironwoman
+Isafdar painting;Isafdar målning
+Item Chest;Artikelkista
+Ithell Banner;Ithell Banner
+Ivory table;Elfenben bord
+Jacky Jester;Jacky Jester
+Jagged wall;Ojämn vägg
+Jail Door;Fängelsedörr
+Jangerberry bush;Jangerbärsbuske
+Javelin;Spjut
+Jenkins;Jenkins
+Jewellery box space;Smyckeskrin utrymme
+Jewellery stall;Smyckesbod
+Jolly Roger;Jolly Roger
+Juliet;Juliet
+Juna;Juna
+Junction box;Kopplingsdosa
+Jungle Bush;Djungel Bush
+Jungle Flower;Djungelblomma
+Jungle Grass;Djungelgräs
+Jungle Palm;Djungelpalm
+Jungle Plant;Djungelväxt
+Jungle Tree;Djungelträd
+Jungle Tree Stump;Djungelträdstubb
+Jungle flower;Djungelblomma
+Jungle plant;Djungelväxt
+Junk;Skräp
+Justiciar Statue;Justitiarstatyn
+Justiciar armour;Justiciar rustning
+Jute;Jute
+Jutting wall;Utskjutande vägg
+KBD heads;KBD-huvuden
+KQ head;KQ huvud
+Kaleef's body;Kaleefs kropp
+Kalphite Queen;Kalphite Queen
+Kalphite Queen Topiary;Kalphite Queen Topiary
+Kalphite Queen display;Kalphite Queen display
+Kalphite Soldier;Kalfitisk soldat
+Kalphite queen legs;Kalphite drottningben
+Karamja painting;Karamja målning
+Kebab;Kebab
+Keg;Kagge
+Kelda Hops;Kelda humle
+Kelda Hops Patch;Kelda Humle Patch
+Kelda Stout;Kelda Stout
+Kelp;Kelp
+Kennith's ball;Kenniths boll
+Kettle;Vattenkokare
+Key;Nyckel
+Keyhole;Nyckelhål
+Kharidian cactus (Dry);Kharidian kaktus (torr)
+Kharidian cactus (Healthy);Kharidian kaktus (frisk)
+Kharyrll Portal;Kharyrll portal
+King Arthur;Kung Arthur
+Kings' ladder;Kungens stege
+Kitchen Drawers;Kökslådor
+Kitchen cabinet;Köksskåp
+Kitchen gate;Köksgrind
+Kitchen table;Köksbord
+Kite shield;Draksköld
+Knight;Riddare
+Knight Statue;Riddarstatyn
+Kourend Portal;Kourend Portal
+Kourend map display case;Kourend kartmonter
+Kourend sigil;Kourend sigil
+Kraken Topiary;Kraken Topiary
+Kraken display;Kraken display
+Krandorian Hops;Krandorian humle
+Kronos plant;Kronos anläggning
+Kurask head;Kurask huvud
+Lab table;Labbord
+Lab tube;Labrör
+Ladder;Stege
+Ladder space;Stegeutrymme
+Ladder top;Stege topp
+Lalli's Stew;Lallis gryta
+Lamp;Lampa
+Lamp oil still;Lampolja fortfarande
+Lamp space;Lamputrymme
+Lamp stall;Lampstall
+Lamp still;Lampa fortfarande
+Lamppost;Lyktstolpe
+Lancalliums;Lancallium
+Lander boat;Lander båt
+Lander hatch;Lander lucka
+Landscape;Landskap
+Landscape space;Landskapsutrymme
+Lantern;Lykta
+Larder;Skafferi
+Larder space;Stort utrymme
+Large Barrel;Stor fat
+Large Boulder;Stort stenblock
+Large Cage;Stor bur
+Large Crystal;Stor kristall
+Large Display;Stor display
+Large Fossil Display;Stor Fossil Display
+Large Fossil Support;Stort fossilstöd
+Large Geyser;Stor gejser
+Large Rock;Stor sten
+Large Table;Stort bord
+Large bone;Stort ben
+Large boulder;Stort stenblock
+Large cave;Stor grotta
+Large crystals;Stora kristaller
+Large cupboard;Stort skåp
+Large door;Stor dörr
+Large doors;Stora dörrar
+Large fountain;Stor fontän
+Large geyser;Stor gejser
+Large grave;Stor grav
+Large grave stone;Stor gravsten
+Large hole;Stort hål
+Large open cupboard;Stort öppet skåp
+Large orrery;Stor orrery
+Large oven;Stor ugn
+Large rock;Stor sten
+Large sewer pipe;Stort avloppsrör
+Large stalagmite;Stor stalagmit
+Large storage unit;Stor förvaringsenhet
+Large table;Stort bord
+Large urn;Stor urna
+Large vase;Stor vas
+Large-leaf Plant;Storbladig växt
+Larran's big chest;Larrans stora bröst
+Larran's small chest;Larrans lilla bröst
+Lathe;Svarv
+Laundry Basket;Tvättkorg
+Lava;Lava
+Lava Monster;Lavamonster
+Lava crater;Lava krater
+Lava forge;Lavasmedja
+Lava gap;Lava gap
+Lava trough;Lava tråg
+Law rift;Lagspricka
+Lazim's statue;Lazims staty
+Leaflet;Folder
+Leaflets;Broschyrer
+Leafy Palm Tree;Lövrik palm
+Leafy tree;Lövträd
+League Accomplishment Scroll;League Accomplishment Scroll
+League Firsts Board;League Firsts styrelse
+League statue;Liga staty
+Leak;Läcka
+Leather shields;Lädersköldar
+Leaves;Blad
+Lectern;Läspulpet
+Lectern space;Talarplats
+Ledge;Avsats
+Left side of a fireplace;Vänster sida av en öppen spis
+Leftovers;Matrester
+Legends Guild door;Legends Guild dörr
+Letter;Brev
+Lever;Spak
+Lever A;Spak A
+Lever B;Spak B
+Lever C;Spak C
+Lever D;Spak D
+Lever E;Spak E
+Lever F;Spak F
+Lever bracket;Spakfäste
+Lever space;Spakutrymme
+Levers;Spakar
+Leviathan;Leviathan
+Life buoy;Livboj
+Lifeless Matter;Livlös materia
+Lifelilly;Lifelilly
+Lift;Lyfta
+Lift Engine;Lyft motor
+Lift Platform;Lyftplattform
+Light;Ljus
+Light Jungle;Ljus djungel
+Light door;Ljus dörr
+Lighting mechanism;Belysningsmekanism
+Lighting space;Belysningsutrymme
+Lightning;Blixt
+Lightning conductor;Åskledare
+Limestone fireplace;Kalksten spis
+Limpwurt plant;Limpwurtväxt
+Linum Tirinum;Linum Tirinum
+Linum Tirinum (Depleted);Linum Tirinum (utarmad)
+Lion Statue;Lejonstaty
+Little boulder;Litet stenblock
+Little crack;Liten spricka
+Little tent;Litet tält
+Lizard dwelling;Ödla bostad
+Lizardman corpse;Lizardman lik
+Lizardman eggs;Lizardman ägg
+Lizardman head;Lizardman huvud
+Lizardman lair;Lizardman lya
+Loader;Lastare
+Lobstrosity;Lobstrositet
+Lock;Låsa
+Locked Ogre chest;Låst Ogre-kista
+Locked chest;Låst bröst
+Locked door;Låst dörr
+Locked gate;Låst grind
+Locker;Skåp
+Lockers;Skåp
+Log Store;Loggbutik
+Log balance;Loggbalans
+Log pile;stockhög
+Log raft;Timmerflotte
+Log storage;Logglagring
+Logavano plant;Logavano växt
+Logavano seedling;Logavano planta
+Logs;Loggar
+Long branched tree;Långt grenat träd
+Long grass;Långt gräs
+Long planks;Långa plankor
+Longhall door;Långhallsdörr
+Loom;Vävstol
+Loose Mud;Lös lera
+Loose Railing;Löst räcke
+Loose panel;Lös panel
+Loose rocks;Lösa stenar
+Lovakengj statue;Lovakengj staty
+Lovakite furnace;Lovakite ugn
+Low fence;Lågt staket
+Low wall;Låg vägg
+Lumbridge Guide;Lumbridge Guide
+Lumbridge Portal;Lumbridge portal
+Lumbridge painting;Lumbridge målning
+Lumpy rug;Klumpig matta
+Lunar Altar;Månaltare
+Lunar Isle Portal;Lunar Isle Portal
+Lunar globe;Månklotet
+Lure cave;Lure grotta
+Machine;Maskin
+Machine panel;Maskinpanel
+Machinery;Maskiner
+Magenta Crystal;Magenta kristall
+Magenta crystal;Magenta kristall
+Magenta door;Magenta dörr
+Magic Gate;Magic Gate
+Magic Mirror;Magisk spegel
+Magic Mushtree;Magic Mushtree
+Magic Portal;Magisk portal
+Magic Stall;Magic Stall
+Magic Tree;Magiskt träd
+Magic Tree Stump;Magisk trädstubb
+Magic ball;Magisk boll
+Magic barrier;Magisk barriär
+Magic birdhouse;Magisk fågelholk
+Magic birdhouse (empty);Magisk fågelholk (tom)
+Magic box;Magisk låda
+Magic box failed;Magic box misslyckades
+Magic cape rack;Magiskt kappställ
+Magic chest;Magisk kista
+Magic circle;Magisk cirkel
+Magic door;Magisk dörr
+Magic guild door;Magisk guilddörr
+Magic spell;Magisk besvärjelse
+Magic table;Magiskt bord
+Magic tree;Magiskt träd
+Magic wardrobe;Magisk garderob
+Magic wardrobe space;Magiskt garderobsutrymme
+Magic well;Magisk brunn
+Magic wheat;Magiskt vete
+Magical Animator;Magisk animatör
+Magical Barrier;Magisk barriär
+Magical Chest;Magisk kista
+Magical Fire;Magisk eld
+Magical Obelisk;Magisk obelisk
+Magical fire;Magisk eld
+Magical pumpkin;Magisk pumpa
+Magical shield;Magisk sköld
+Magical symbol;Magisk symbol
+Magical wheat;Magiskt vete
+Mahogany;Mahogny
+Mahogany Adventure Log;Äventyrslogg i mahogny
+Mahogany Wardrobe;Mahogny garderob
+Mahogany bench;Mahognybänk
+Mahogany birdhouse;Mahogny fågelholk
+Mahogany birdhouse (empty);Mahogny fågelholk (tom)
+Mahogany cape rack;Kapställ i mahogny
+Mahogany chest;Mahogny kista
+Mahogany feeder;Matare i mahogny
+Mahogany house;Hus i mahogny
+Mahogany outfit stand;Klädställ i mahogny
+Mahogany prize chest;Priskista i mahogny
+Mahogany sapling;En planta av mahogny
+Mahogany scratching post;Skrapstolpe i mahogny
+Mahogany table;Mahogny bord
+Mahogany tree;Mahognyträd
+Mahogany tree stump;Mahogny trädstubbe
+Mahogany trophy case;Troféfodral i mahogny
+Mahogany wall decoration;Väggdekoration i mahogny
+Making Friends with My Arm display;Skaffa vänner med min arm-skärm
+Man hidden;Man gömd
+Man trap;Man fälla
+Mandibular Maximus;Mandibular Maximus
+Mangle;Mangel
+Manhole;Manhål
+Manhole cover;Brunnslock
+Mannequin;Mannekäng
+Map;Karta
+Map space;Kartutrymme
+Map table;Karttabell
+Maple Tree;Lönnträd
+Maple birdhouse;Fågelholk i lönn
+Maple birdhouse (empty);Lönnfågelholk (tom)
+Maple tree;Lönnträd
+Marble adventure log;Äventyrslogg i marmor
+Marble bench;Marmorbänk
+Marble cape rack;Kappställ i marmor
+Marble fireplace;Öppen spis i marmor
+Marble hidden;Marmor gömd
+Marble trap;Marmorfälla
+Marble wall;Marmorvägg
+Marigold;Ringblomma
+Marigolds;Ringblommor
+Marim Portal;Marim Portal
+Mark of Darkness;Mörkrets märke
+Mark of Power;Maktmärke
+Marked wall;Markerad vägg
+Marker;Markör
+Market Stall;Marknadsstånd
+Market stall;Marknadsstånd
+Marshy jungle vine;Marshy djungelvinstockar
+Marv (Well);Marv (tja)
+Marv (ghastly!);Marv (hemskt!)
+Marv (sick);Marv (sjuk)
+Marv (very sick);Marv (mycket sjuk)
+Massive ribs;Massiva revben
+Massive storage unit;Massiv förvaringsenhet
+Mast;Mast
+Master clue scroll display;Master ledtråd rullningsdisplay
+Mature Asgarnian Ale;Mogen Asgarnian Ale
+Mature Axeman's Folly;Mogen yxmans dårskap
+Mature Chef's Delight;Mogen kock's Delight
+Mature Cider;Mogen cider
+Mature Dragon Bitter;Mogen Dragon Bitter
+Mature Dwarven Stout;Mogen Dwarven Stout
+Mature Greenmans Ale;Mogen Greenmans Ale
+Mature Moonlight Mead;Mogen Moonlight Mead
+Mature Slayer's Respite;Mature Slayer's Respite
+Mature Wizards Mind Bomb;Mogna trollkarlar Mind Bomb
+Mature juniper tree;Moget enbärsträd
+Mausoleum;Mausoleum
+Mausoleum Door;Mausoleumdörr
+Mausoleum door;Mausoleums dörr
+Meat table;Köttbord
+Meat tree;Köttträd
+Medical table;Medicinskt bord
+Medium Boulder;Medium Boulder
+Medium Fossil Display;Medium Fossil Display
+Medium Jungle;Medium djungel
+Medium fence;Medium staket
+Medium storage unit;Medium förvaringsenhet
+Medivaemia root;Medivemi rot
+Medpack Box;Medpack Box
+Meilyr Banner;Meilyr Banner
+Melting Pot;Smältdegel
+Memorial;Minnesmärke
+Memoriam Device;Minnesenhet
+Mercenary;Legosoldat
+Merfolk Skeleton;Merfolk Skelett
+Metal;Metall
+Metal Press;Metallpress
+Metal bird;Metall fågel
+Metal door;Metalldörr
+Metal gate;Metallgrind
+Metal ladder;Metallstege
+Metal pieces;Metallbitar
+Metal stand;Stativ i metall
+Mighty torrent;Mäktig torrent
+Milk Urns;Mjölkurnor
+Mill;Kvarn
+Millstones;Kvarnstenar
+Mind Altar Portal;Mind Altar Portal
+Mind Door;Mind Door
+Mind rift;Sinneklyfta
+Mine Cart;Min vagn
+Mine cart;Min vagn
+Mine cart sign;Min vagn tecken
+Mine cave;Min grotta
+Mine door;Min dörr
+Mine door entrance;Ingång till gruvans dörr
+Minecart;Minkärra
+Mineral vein;Mineral ven
+Mirror;Spegel
+Mithril armour;Mithril rustning
+Mithril door;Mithril dörr
+Molanisk;Molanisk
+Mole hill;Mullvadsbacke
+Money Pot;Pengapott
+Monkey Madness 2 display;Monkey Madness 2-skärm
+Monkey Statue;Monkey staty
+Monkey bars;Monkey bars
+Monkey trap;Apfälla
+Monkeybars;Monkeybars
+Monster space;Monster utrymme
+Monument;Monument
+Monumental chest;Monumental kista
+Moonlight Mead;Moonlight Mead
+Morytania painting;Morytania målning
+Mossy branch;Mossig gren
+Mossy rock;Mossig rock
+Moth;Fjäril
+Moths;Malar
+Mould;Forma
+Mound of earth;Jordhög
+Mounted Achievement Diary Cape;Mounted Achievement Diary Cape
+Mounted Agility Cape;Mounted Agility Cape
+Mounted Agility Cape (t);Mounted Agility Cape (t)
+Mounted Attack Cape;Mounted Attack Cape
+Mounted Attack Cape (t);Mounted Attack Cape (t)
+Mounted Champion's Cape;Monterad Champion's Cape
+Mounted Coins;Monterade mynt
+Mounted Construction Cape;Monterad konstruktion Cape
+Mounted Construction Cape (t);Monterad konstruktion Cape (t)
+Mounted Cooking Cape;Monterad Cooking Cape
+Mounted Cooking Cape (t);Monterad Cooking Cape (t)
+Mounted Crafting Cape;Monterad Crafting Cape
+Mounted Crafting Cape (t);Monterad Crafting Cape (t)
+Mounted Defence Cape;Mounted Defense Cape
+Mounted Defence Cape (t);Mounted Defense Cape (t)
+Mounted Emblem;Monterat emblem
+Mounted Farming Cape;Mounted Farming Cape
+Mounted Farming Cape (t);Mounted Farming Cape (t)
+Mounted Fire Cape;Mounted Fire Cape
+Mounted Firemaking Cape;Mounted Firemaking Cape
+Mounted Firemaking Cape (t);Mounted Firemaking Cape (t)
+Mounted Fishing Cape;Mounted Fishing Cape
+Mounted Fishing Cape (t);Mounted Fishing Cape (t)
+Mounted Fletching Cape;Monterad Fletching Cape
+Mounted Fletching Cape (t);Monterad Fletching Cape (t)
+Mounted Head;Monterat huvud
+Mounted Head Space;Monterat huvudutrymme
+Mounted Herblore Cape;Mounted Herblore Cape
+Mounted Herblore Cape (t);Mounted Herblore Cape (t)
+Mounted Hitpoints Cape;Mounted Hitpoints Cape
+Mounted Hitpoints Cape (t);Mounted Hitpoints Cape (t)
+Mounted Hunting Cape;Mounted Hunting Cape
+Mounted Hunting Cape (t);Mounted Hunting Cape (t)
+Mounted Infernal Cape;Mounted Infernal Cape
+Mounted Magic Cape;Monterad Magic Cape
+Mounted Magic Cape (t);Mounted Magic Cape (t)
+Mounted Max Cape;Monterad Max Cape
+Mounted Mining Cape;Mounted Mining Cape
+Mounted Mining Cape (t);Mounted Mining Cape (t)
+Mounted Music Cape;Mounted Music Cape
+Mounted Mythical Cape;Mounted Mythical Cape
+Mounted Prayer Cape;Mounted Prayer Cape
+Mounted Prayer Cape (t);Mounted Prayer Cape (t)
+Mounted Quest Cape;Monterad Quest Cape
+Mounted Ranged Cape;Mounted Ranged Cape
+Mounted Ranged Cape (t);Mounted Ranged Cape (t)
+Mounted Runecrafting Cape;Monterad Runecrafting Cape
+Mounted Runecrafting Cape (t);Monterad Runecrafting Cape (t)
+Mounted Slayer Cape;Mounted Slayer Cape
+Mounted Slayer Cape (t);Mounted Slayer Cape (t)
+Mounted Smithing Cape;Mounted Smithing Cape
+Mounted Smithing Cape (t);Mounted Smithing Cape (t)
+Mounted Strength Cape;Mounted Strength Cape
+Mounted Strength Cape (t);Mounted Strength Cape (t)
+Mounted Thieving Cape;Mounted Thieving Cape
+Mounted Thieving Cape (t);Mounted Thieving Cape (t)
+Mounted Woodcutting Cape;Monterad Woodcutting Cape
+Mounted Woodcutting Cape (t);Monterad vedkapning (t)
+Mounted Xeric's Champion;Monterad Xeric's Champion
+Mounted Xeric's General;Monterad Xerics general
+Mounted Xeric's Guard;Monterad Xeric's Guard
+Mounted Xeric's Sentinel;Monterad Xerics Sentinel
+Mounted Xeric's Warrior;Mounted Xeric's Warrior
+Mounted harpoonfish;Monterad harpunfisk
+Mounted sea bass;Monterad havsabborre
+Mounted shark;Monterad haj
+Mounted swordfish;Monterad svärdfisk
+Mourner;Sörjande
+Mouse hole;Mushål
+Mud;Lera
+Mud mound;Lerhög
+Mud patch;Lerfläck
+Mud pile;Lethög
+Mud pit;lergrop
+Muddy patch;Lerig lapp
+Mudpile;Mudpile
+Multicannon parts;Flerkanondelar
+Mummy;Mamma
+Mural;Väggmålning
+Mushroo;Mushroo
+Mushroom;Svamp
+Mushroom patch;Svampplåster
+Mushroom torch;Svampfackla
+Mushrooms;Svampar
+Mushtoise;Mushtoise
+Mushtree;Mushtree
+Mushy Bed;Mushy säng
+Music Scores;Musikmusik
+Music Stand;Musikställ
+Musical space;Musikaliskt utrymme
+Musty bookshelf;Mustig bokhylla
+My life;Mitt liv
+Mysterious glow;Mystisk glöd
+Mysterious pipe;Mystisk pipa
+Mysterious pool;Mystisk pool
+Mysterious ruins;Mystiska ruiner
+Mysterious statue;Mystisk staty
+Mysterious stone;Mystisk sten
+Mystic portal;Mystisk portal
+Mystic symbol;Mystisk symbol
+Mystical barrier;Mystisk barriär
+Mystical barrier (orange);Mystisk barriär (orange)
+Mystical barrier (red);Mystisk barriär (röd)
+Mystical door;Mystisk dörr
+Mystical mirror;Mystisk spegel
+Mythic Statue;Mytisk staty
+Mythical cape;Mytisk cape
+Nails;Naglar
+Narrow gap;Smalt gap
+Narrow wall;Smal vägg
+Nasturtium;Krasse
+Nature house;Naturhus
+Nature rift;Naturspricka
+Navigator's table;Navigatörens bord
+Ned's Table;Neds bord
+Nest;Bo
+Net;Netto
+Net trap;Nätfälla
+Nettles;Nässlor
+Neutral Barrier;Neutral barriär
+New farming patch;Nytt odlingsplåster
+Newspapers;Tidningar
+Nightmare;Mardröm
+Nightmare Berries;Mardrömsbär
+Nightmare Blossom;Mardrömsblomning
+Nightmare Topiary;Mardröm Topiary
+Nightmare display;Mardrömsuppvisning
+Nightmare zone display;Mardrömszonsvisning
+Nine;Nio
+Node;Nod
+Note;Notera
+Nothing;Ingenting
+Notice;Varsel
+Notice board;Anslagstavla
+Noticeboard;Anslagstavla
+Notices;Notiser
+Novice Flag;Nybörjarflagga
+Novice flag;Nybörjare flagga
+Noxious tendrils;Skadliga rankor
+Oak;Ek
+Oak Tree;Ek träd
+Oak bench;Ekbänk
+Oak birdhouse;Ek fågelholk
+Oak birdhouse (empty);Ek fågelholk (tom)
+Oak cape rack;Kappställ i ek
+Oak chair;Ek stol
+Oak chest;Ek kista
+Oak drawers;Ek lådor
+Oak feeder;Ekmatare
+Oak house;Ek hus
+Oak outfit stand;Outfitställ i ek
+Oak prize chest;Ek priskista
+Oak scratching post;Ek skrapstolpe
+Oak table;Ekbord
+Oak tree;Ek
+Oak tree stump;Ek stubbe
+Oak trophy case;Ek troféfodral
+Oak wall decoration;Ek väggdekoration
+Oak wardrobe;Ek garderob
+Oaknock statue;Oaknock staty
+Oaknock's Machine;Oaknocks maskin
+Oaknock's exchanger;Oaknocks växlare
+Oaknock's machine;Oaknocks maskin
+Obelisk;Obelisk
+Obelisk of Air;Obelisk of Air
+Obelisk of Earth;Jordens Obelisk
+Obelisk of Fire;Eldens Obelisk
+Obelisk of Water;Obelisk av vatten
+Obsidian bench;Obsidian bänk
+Obsidian fence;Obsidian staket
+Obsidian fence post;Obsidian staketstolpe
+Obstacle;Hinder
+Obstacle net;Hindernät
+Obstacle pipe;Hinderrör
+Occupied Cormorant perch;Upptagen skarvabborre
+Occupied perch;Upptagen abborre
+Odd looking wall;Konstig vägg
+Odd markings;Udda markeringar
+Office table;Kontorsbord
+Official Order of Construction;Officiell byggordning
+Ogre Coffin;Ogre kista
+Ogre Drums;Ogre trummor
+Ogre barricade;Ogre barrikad
+Ogre bed;Ogre säng
+Ogre bench;Ogre bänk
+Ogre fire;Ogre brand
+Ogre spit-roast;Ogre spett-stek
+Ogre stone door;Ogre stendörr
+Oil lamp;Oljelampa
+Olaf's boat;Olafs båt
+Old Bookshelf;Gammal bokhylla
+Old Crane;Gammal kran
+Old Memorial;Gamla minnesmärken
+Old Shrine;Gamla helgedomen
+Old Stall;Gammal stall
+Old axe;Gammal yxa
+Old bookshelf;Gammal bokhylla
+Old crane;Gammal kran
+Old fire pit;Gammal eldstad
+Old log;Gammal stock
+Old passageway;Gammal gång
+Old ruin entrance;Gammal ruiningång
+Old sacks;Gamla säckar
+Old tools;Gamla verktyg
+Old tree;Gammalt träd
+Old wall;Gammal vägg
+Old well;Gammal brunn
+Olmic pillar;Olmisk pelare
+Ominous Fishing Spot;Illavarslande fiskeplats
+One;En
+Onion;Lök
+Onion basket;Lökkorg
+Onion plant;Lökväxt
+Onion seeds;Lökfrön
+Oojimaflip;Oojimaflip
+Oozing barrier;Osande barriär
+Open Chest;Öppna bröstet
+Open Cupboard;Öppna skåpet
+Open Door;Öppna dörren
+Open chest;Öppna bröstet
+Open gate;Öppna grinden
+Open hot vent door;Öppna varmventilationsdörren
+Open statue;Öppna staty
+Open trapdoor;Öppna fallluckan
+Opened gold chest;Öppnad guldkista
+Opening;Öppning
+Operating Table;Operationsbord
+Operating table;Operationsbord
+Operation chair;Operationsstol
+Operation table;Operationstabell
+Opulent rug;Överdådig matta
+Opulent table;Överdådigt bord
+Orange door;Orange dörr
+Orange tree;Apelsinträd
+Orange tree stump;Apelsinträdstubb
+Orb;Klot
+Orchid;Orkide
+Orchids;Orkidéer
+Ore crate;Malmlåda
+Ore sack;Malmsäck
+Ore stones;Malmstenar
+Ore table;Malmbord
+Ore vein;Malmven
+Organ;Organ
+Ornament;Prydnad
+Ornamental anvil;Dekorativt städ
+Ornamental fountain;Dekorativ fontän
+Ornamental globe;Prydnadsglob
+Ornate Jewellery Box;Utsmyckad smyckeskrin
+Ornate banner stand;Utsmyckade bannerstativ
+Ornate candle;Utsmyckat ljus
+Ornate combat dummy;Utsmyckad stridsdocka
+Ornate dragon combat dummy;Utsmyckad drakestridsdocka
+Ornate kalphite combat dummy;Utsmyckad stridsdocka av kalfit
+Ornate kurask combat dummy;Utsmyckad kurask stridsdocka
+Ornate league statue;Utsmyckad ligastaty
+Ornate lockbox;Utsmyckad låslåda
+Ornate pool of Rejuvenation;Utsmyckad pool av föryngring
+Ornate railing;Utsmyckat räcke
+Ornate trophy pedestal;Utsmyckad trofésockel
+Ornate undead combat dummy;Utsmyckad odöda stridsdocka
+Ornate vampyre combat dummy;Utsmyckad vampyrstridsdocka
+Ornate vase;Utsmyckad vas
+Ornate wilderness combat dummy;Utsmyckad vildmarkskampdocka
+Orrery;Orrery
+Otherworldly garden;Utomjordisk trädgård
+Otherworldly theme;Utomjordiskt tema
+Our lives;Våra liv
+Outfit stand space;Plats för outfitställ
+Output Tap;Utmatning Tryck
+Oven;Ugn
+Overhanging rock;Överhängande sten
+Overload potion;Överbelastningsdryck
+Owl Statue;Uggla staty
+Pack;Packa
+Pagoda Fungus;Pagodsvamp
+Painting;Målning
+Painting stand;Målarställning
+Paladin;Paladin
+Palm;Palm
+Palm tree;Palmträd
+Palm tree stump;Palmstubb
+Panel;Panel
+Panning point;Panoreringspunkt
+Panning tray;Panoreringsbricka
+Papaya tree;Papaya träd
+Papaya tree stump;Papaya trädstubb
+Paper;Papper
+Parasol;Parasoll
+Parchment;Pergament
+Partial fence;Partiellt staket
+Partially broken bridge;Delvis trasig bro
+Party Balloon;Festballong
+Passage;Passage
+Passageway;Passage
+Patched Wall;Patchad vägg
+Patched wall;Patchad vägg
+Path;Väg
+Pear tree;Päronträd
+Pebbles;Småsten
+Pedals;Pedaler
+Pedestal;Piedestal
+Pedestal space;Piedestal utrymme
+Peephole;Titthål
+Pen Door;Penndörr
+Penance Fighter statue;Penance Fighter staty
+Penance Healer statue;Penance Healer staty
+Penance Queen spawn statue;Penance Queen spawn staty
+Penance Ranger statue;Penance Ranger staty
+Penance Runner statue;Penance Runner staty
+Penance cave;Penance grotta
+Pendant;Hängsmycke
+Pendulum;Pendel
+Pentamid Pile;Pentamidhög
+Perch;Abborre
+Pet basket;Djurkorg
+Pet blanket;Pet filt
+Pet feeder space;Utfodringsutrymme för husdjur
+Pet house space;Husdjurshusutrymme
+Pet list;Husdjurslista
+Pet list space;Husdjurslista utrymme
+Petrified Large Mushroom;Förstenad stor svamp
+Petrified Mushtree;Förstenad Mushtree
+Petrified Pitcher;Petrified Pitcher
+Petrified Pufferfish;Förstenad Pufferfish
+Petrified Spine Plant;Förstenad Spine Plant
+Petrified mushroom;Förstenad svamp
+Pew;Bänk
+Phren Roots;Phren rötter
+Phren Roots (Depleted);Phren Roots (utarmad)
+Piano;Piano
+Piano stool;Piano pall
+Pickaxe;Pickaxe
+Picket fence;staket
+Picnic bench;Picknickbänk
+Picnic table;Picknickbord
+Picture;Bild
+Picture wall;Bildvägg
+Pie stall;Pajstall
+Pigeon;Duva
+Pile of Ancient Books;Hög med antika böcker
+Pile of Fishbowls;Hög med fiskskålar
+Pile of Rock;Hög med sten
+Pile of bricks;Hög med tegelstenar
+Pile of canes;Hög med käppar
+Pile of fish;Hög med fisk
+Pile of rocks;Hög med stenar
+Pile of rope;Hög med rep
+Pile of rubble;Hög med spillror
+Pile of rubble.;Hög med spillror.
+Pile of skulls;Hög med dödskallar
+Pillar;Pelare
+Pillar of Light;Ljusstolpe
+Pin;Stift
+Pinball Post;Flipperstolpe
+Pinboard;Anslagstavla
+Pine;Tall
+Pineapple Plant;Ananasväxt
+Pineapple plant;Ananasväxt
+Pineapple plant stump;Ananas växt stubbe
+Pink rose bush patch;Rosa rosenbuskelapp
+Pipe;Rör
+Pipe machine;Rörmaskin
+Pipes;Rör
+Piping;Rör
+Pirate Captain;Piratkapten
+Pirate Flag;Piratflagga
+Pirate Pete;Piraten Pete
+Pirate Sign;Pirat tecken
+Pirate map;Piratkarta
+Piscarilius statue;Piscarilius staty
+Pit;Grop
+Pitcher plant;Kanna växt
+Pitfall;Fälla
+Plank;Planka
+Plant;Plantera
+Plant Fossil Display;Plant Fossil Display
+Plant door;Växtdörr
+Planter;Planteringsmaskin
+Plantpot;Växtkruka
+Plaque;Plack
+Platform;Plattform
+Platform edge;Plattformskant
+Platform support;Plattformsstöd
+Play blocks;Spela block
+Plinth;Plint
+Plough;Plog
+Plunder Storage;Plundra Förråd
+Points settings;Poänginställningar
+Poison Ivy bush;Poison Ivy buske
+Poison crater;Giftkrater
+Pokers;Pokers
+Pole;Pole
+Pole-vault;Stavhopp
+Poll booth;Valkiosk
+Polluted water;Förorenat vatten
+Pond;Damm
+Pool of Dreams;Drömmarnas pool
+Pool of Nightmares;Pool av mardrömmar
+Pool of Refreshment;Pool av förfriskningar
+Pool of Rejuvenation;Pool of Rejuvenation
+Pool of Restoration;Pool av restaurering
+Pool of Revitalisation;Pool of Revitalization
+Pool of Slime;Pool of Slime
+Pool of blood;Pöl av blod
+Pool space;Poolutrymme
+Poor Bed;Stackars säng
+Portal;Portal
+Portal Home;Portal hem
+Portal Nexus;Portal Nexus
+Portal Nexus space;Portal Nexus-utrymme
+Portal frame;Portal ram
+Portal machine;Portal maskin
+Portal of Champions;Mästarnas portal
+Portal of Death;Dödens portal
+Portal of Heroes;Hjältarnas portal
+Portal of Legends;Portal of Legends
+Portal space;Portal utrymme
+Portcullis;Portcullis
+Portrait;Porträtt
+Portrait space;Stående utrymme
+Posh bell-pull;Posh bell-pull
+Post;Posta
+Poster;Affisch
+Posts;Inlägg
+Pot;Pott
+Pot of Gold;Kruka med guld
+Pot of dynamite;Kruka med dynamit
+Pot-boiler;Pott-panna
+Potato;Potatis
+Potato basket;Potatiskorg
+Potato cactus;Potatis kaktus
+Potato plant;Potatisväxt
+Potato plants;Potatisväxter
+Potato seed;Potatisfrö
+Potatoes;Potatis
+Potential fire;Potentiell brand
+Potion of power table;Potion av kraftbord
+Potion shelf;Dryckeshylla
+Potion shelves;Potion hyllor
+Potions;Potions
+Pots;Krukor
+Potted fern;Ormbunke i kruk
+Potted flower;Krukväxt
+Potted plant;Krukväxt
+Potter's Wheel;Potter's Wheel
+Potter's wheel;Potter's wheel
+Pottery Oven;Keramikugn
+Powder Barrel;Pulverfat
+Power Grid;Elnät
+Power saw;Motorsåg
+Precarious bridge;Osäkra bro
+Preparation Table;Förberedelsetabell
+Press support;Pressstöd
+Pressure Barrel;Trycktrumma
+Pressure Lever;Tryckspak
+Pressure machine;Tryckmaskin
+Pressure pad;Tryckdyna
+Priest Statue;Präststaty
+Prison Door;Fängelsedörr
+Prison door;Fängelsedörr
+Prison space;Fängelseutrymme
+Private bank booth;Privat bank monter
+Private portal;Privat portal
+Prize chest space;Pris kistutrymme
+Professor's table;Professorns bord
+Protest Banners;Protestbanderoller
+Protest Poster;Protestaffisch
+Protruding rocks;Utskjutande stenar
+Pump;Pump
+Pump and drain;Pumpa och dränera
+Pump and tub;Pump och badkar
+Pylon;Pylon
+Pyramid entrance;Pyramidingång
+Pyre boat;Pyre båt
+Pyre site;Pyre webbplats
+Pyromancer;Pyromantiker
+Quest List;Uppdragslista
+Quest list space;Uppdragslistutrymme
+Quiescent Snow Storm;Stilla snöstorm
+Rabbit hole;Kaninhål
+Rabbit snare;Kanin snara
+Rabbitless hole;Kaninlöst hål
+Rachel (Well);Rachel (tja)
+Rachel (ghastly!);Rachel (hemskt!)
+Rachel (sick);Rachel (sjuk)
+Rachel (very sick);Rachel (mycket sjuk)
+Rack;Kuggstång
+Rack of barrels;Rack med fat
+Raft;Flotte
+Rail;Järnväg
+Railing;Räcke
+Raised coffin;Upphöjd kista
+Ramp;Ramp
+Range;Räckvidd
+Range chimney;Range skorsten
+Ranging game space;Varierande spelutrymme
+Ranging spot;Rangeringsplats
+Ranis Drakan;Ranis Drakan
+Rare Flowers;Sällsynta blommor
+Rat;Råtta
+Rat Wall;Råttvägg
+Rat barn;Råttlada
+Rat barrel;Råtttunna
+Rat hole;Råtthål
+Rat lever;Råttspak
+Rat trap;Råttfälla
+Rat wall;Råttvägg
+Rat wheel;Råtthjul
+Rat-hole;Råtthål
+Ray of Light;Ljusstråle
+Recess;Fördjupning
+Recruiting board;Rekryteringsnämnd
+Red Banana Tree;Röd bananträd
+Red Barrier;Röd barriär
+Red Castlewars armour;Röd Castlewars rustning
+Red Flowers;Röda blommor
+Red Star Fungi;Röda stjärnsvampar
+Red Water Sign;Rött vatten tecken
+Red banner;Röd banderoll
+Red chemical;Röd kemikalie
+Red door;Röd dörr
+Red flowers;Röda blommor
+Red fungi;Röda svampar
+Red rose bush patch;Röd rosenbuskefläck
+Redberry bush;Rödbärsbuske
+Redwood;Redwood
+Redwood birdhouse;Redwood fågelholk
+Redwood birdhouse (empty);Redwood fågelholk (tom)
+Redwood fence;Redwood staket
+Redwood fence post;Redwood staketstolpe
+Redwood tree;Redwood träd
+Redwood tree patch;Redwood träd patch
+Reeds;Vass
+Refinery;Raffinaderi
+Reinforced crate;Förstärkt låda
+Reinitialisation Panel;Ominitieringspanel
+Repair Locker;Reparera skåp
+Repair bench;Reparationsbänk
+Repair space;Reparationsutrymme
+Repaired Roof;Reparerat tak
+Repaired furnace;Reparerad ugn
+Repaired leak;Reparerad läcka
+Repaired wall;Reparerad vägg
+Reset Lever;Återställ spak
+Restraining Table;Fasthållningsbord
+Restraint Table;Fasthållningsbord
+Retorts;Retorter
+Return Orb;Returnera Orb
+Reward Chest;Belöningskista
+Reward chest;Belöningskista
+Reward pool;Belöningspool
+Rewards Chest;Belöningskista
+Rewards chest;Belöningskista
+Rickety door;Rakig dörr
+Rift;Reva
+Right side of a fireplace;Höger sida av en öppen spis
+Ring of Stones;Ring av stenar
+Rinsing pool;Sköljpool
+Ripples;Ripples
+River;Flod
+Rock;Sten
+Rock Chair;Rock stol
+Rock Formation;Stenformation
+Rock Formation (Depleted);Stenformation (utarmad)
+Rock Formation (Glowing);Stenformation (glödande)
+Rock Pile;Stenhög
+Rock and string;Rock och stråke
+Rock debris;Stenskräp
+Rock of Dalgroth;Rock of Dalgroth
+Rock pile;Stenhög
+Rock slide;Bergrutschkana
+Rock wall;Klippvägg
+Rockery;Stenparti
+Rockfall;Stenfall
+Rocking chair;Gungstol
+Rocking unicorn;Gungande enhörning
+Rockpile;Rockpile
+Rocks;Stenar
+Rockslide;Bergskred
+Rocky Ledge;Rocky Ledge
+Rocky handholds;Steniga handtag
+Rocky ledge;Stenig avsats
+Rocky outcrop;Stenig berghäll
+Rocky shore;Stenig strand
+Rocky support;Stenigt stöd
+Rocky surface;Stenig yta
+Rocnar;Rocnar
+Rolled up rug;Upprullad matta
+Rolled up rugs;Upprullade mattor
+Rolling pin;Kavel
+Roof;Tak
+Roof Entrance;Takingång
+Roof Exit;Takutgång
+Roof edge;Takkant
+Roof top beams;Takbjälkar
+Rooftop Agility display;Rooftop Agility display
+Root;Rot
+Roots;Rötter
+Rope;Rep
+Rope Ladder;Repstege
+Rope anchor;Repankare
+Rope bell-pull;Rep bell-pull
+Rope bridge;Repbro
+Rope bridge support;Repbrostöd
+Rope ladder;Repstege
+Rope swing;Repgunga
+Roped tree;Repet träd
+Ropes;Tågvirke
+Ropeswing;Ropeswing
+Rose bush;Rosenbuske
+Rosebush;Rosebush
+Rosemary;Rosmarin
+Roses;Rosor
+Rotten Apple Pile;Rutten äppelhög
+Rotten Totem pole;Rutten totempåle
+Rotten Yommi;Rutten Yommi
+Rotten Yommi tree;Ruttent Yommi-träd
+Rotten carpet;Rutten matta
+Rotten food;Rutten mat
+Rotten sapling;Rutten planta
+Rotten stump;Rutten stubbe
+Rotten village fence;Rutten bystaket
+Rotting branch;Rutnande gren
+Rotting log;Rutnande stock
+Rotting tree;Rutnande träd
+Rough hewn steps;Grovhuggna trappsteg
+Rough wall;Grov vägg
+Round shield;Rund sköld
+Row boat;Roddbåt
+Rowboat;Roddbåt
+Rowboat space;Roddbåtsutrymme
+Royal Wedding Invitation;Kunglig bröllopsinbjudan
+Rubber cap mushroom;Gummihattsvamp
+Rubble;Spillror
+Rubble Pile;Gruvstenshög
+Rug;Matta
+Rug space;Mattutrymme
+Ruined Pillar;Förstörd pelare
+Ruined Stall;Förstört stall
+Ruined stall;Förstört stall
+Ruins;Ruiner
+Ruins Entrance;Ruinentré
+Ruins Exit;Ruins Exit
+Rum Crate;Rom Crate
+Rune Essence;Rune Essence
+Rune armour;Rune rustning
+Rune case space;Rune fall utrymme
+Rune display case;Rune monter
+Rune dragon;Rune drake
+Rune essence;Rune essens
+Rune pouches;Runepåsar
+Rune temple sign;Rune tempel tecken
+Runecrafting altar;Runecrafting altare
+Runic Altar;Runaltare
+Runite Minor;Runit moll
+Runner trap(1);Löparfälla(1)
+Runner trap(2);Löparfälla(2)
+Rupert;Rupert
+Ruptured cavern;Bruten grotta
+Rusted anvil;Rostigt städ
+Rusty key;Rostig nyckel
+S.T.A.S.H chart;S.T.A.S.H-diagram
+STASH (beginner);STASH (nybörjare)
+STASH (easy);STASH (lätt)
+STASH (elite);STASH (elit)
+STASH (hard);STASH (hårt)
+STASH (master);STASH (master)
+STASH (medium);STASH (medium)
+Sabertooth Squirrel;Sabeltands ekorre
+Sack;Säck
+Sack Pile;Säckhög
+Sack pile;Säckhög
+Sacks;Säckar
+Sacred Bone Burner;Helig benbrännare
+Sacred Forge;Helig smedja
+Sacred water;Heligt vatten
+Sacrificial Pyre;Offerbål
+Sacrificial boat;Offerbåt
+Safe;Säker
+Sail;Segla
+Sailfish;Segelfisk
+Sails;Segel
+Saltpetre;Salpeter
+Salve Graveyard Portal;Salve kyrkogårdsportal
+Sample table;Exempeltabell
+Sand;Sand
+Sand pile;Sandhög
+Sand pit;Sandgrop
+Sandpit;Sandlåda
+Sandworm castings;Sandmaskgjutningar
+Sandy's Coffee Mug;Sandys kaffemugg
+Sandy's Desk;Sandys skrivbord
+Sapling;Ungt träd
+Sarachnis display;Sarachnis display
+Saradomin Brazier;Saradomin Brazier
+Saradomin Portal;Saradomin portal
+Saradomin Standard;Saradomin Standard
+Saradomin altar;Saradominernas altare
+Saradomin staff;Saradomin personal
+Saradomin star;Saradomin stjärna
+Sarah (Well);Sarah (tja)
+Sarah (ghastly!);Sarah (hemskt!)
+Sarah (sick!);Sarah (sjuk!)
+Sarah (very sick!);Sarah (mycket sjuk!)
+Sarcophagus;Sarkofag
+Saucepan;Kastrull
+Scaffold;Ställning
+Scaffolding;Ställningar
+Scarecrow;Fågelskrämma
+Scaregull;Scaregull
+Schematic crate;Schematisk låda
+Scimitar Stall;Scimitar Stall
+Scorched earth;Bränd jord
+Score board;Poängtavla
+Scoreboard;Resultattavla
+Scrapey Bark Sign;Scrapey Bark Sign
+Scrapey Tree;Scrapey träd
+Scratching post space;Skrapande stolputrymme
+Scrawled note;Klottrad lapp
+Screen;Skärm
+Scroll;Rulla
+Scroll rack;Scrollställ
+Scroll table;Rulla tabell
+Scrolls;Rullar
+Scrying orb;Skrikande klot
+Scrying pool;Skrattande pool
+Sculpture;Skulptur
+Scuttle;Rusa
+Seal of Amlodd;Amlodds sigill
+Seal of Cadarn;Sigill av Cadarn
+Seal of Crwys;Sigill av Crwys
+Seal of Hefin;Sigill av Hefin
+Seal of Iorwerth;Sigill av Iorwerth
+Seal of Ithell;Ithells sigill
+Seal of Meilyr;Sigill av Meilyr
+Seal of Trahaearn;Sigill av Trahaearn
+Seal of the Forgotten;Sigill av de glömda
+Seating space;Sittplats
+Seaweed;Tång
+Seaweed Pile;Tånghög
+Seaweed patch;Tångfläck
+Secret Door;Hemlig dörr
+Secret entrance;Hemlig ingång
+Secure chest;Säker bröstkorg
+Security Barrier;Säkerhetsbarriär
+Seed Stall;Fröstall
+Seed table;Fröbord
+Seed vault;Frövalv
+Seers weathervane;Seers väderflöjel
+Seers' Village Portal;Siarnas byportal
+Senntisten Portal;Senntisten Portal
+Septic tendrils;Septiska rankor
+Servant's moneybag;Tjänarens pengapåse
+Seven;Sju
+Sewer pipe;Avloppsrör
+Sewer valve;Avloppsventil
+Sewing machine;Symaskin
+Shackle table;Shackle bord
+Shadow crystal;Skuggkristall
+Shadow root;Skuggrot
+Shaking box;Skaklåda
+Shantay pass;Shantay pass
+Shape puzzle;Formpussel
+Shark Beast;Shark Beast
+Shark head;Hajhuvud
+Shattered rockface;Krossad klippvägg
+Shaving stand;Rakställ
+Shayzien banner;Shayzien banner
+Shayzien snapped banner;Shayzien knäppte banderoll
+Shayzien statue;Shayzien staty
+Shelf;Hylla
+Shelf of thread;Hylla av tråd
+Shelf space;Hyllplats
+Shell;Skal
+Shelves;Hyllor
+Shelves space;Hyllutrymme
+Shield;Skydda
+Shield Display;Shield Display
+Shield display;Shield display
+Shimmering barrier;Skimrande barriär
+Shimmering field;Skimrande fält
+Shining pool;Skinande pool
+Ship;Fartyg
+Ship hull;Fartygsskrov
+Ship's ladder;Skeppsstege
+Ship's wheel;Skeppshjul
+Shoe box;Skokartong
+Shooting Star Noticeboard;Shooting Star Anslagstavla
+Shop Counter;Butiksdisk
+Shop counter;Butiksdisk
+Short Plant;Kort växt
+Short fence;Kort staket
+Short planks;Korta plankor
+Shortcut;Genväg
+Shot;Skott
+Shrine;Helgedom
+Shrivelled plant;Skrumlad växt
+Shuttered window;Slutat fönster
+Sickle logo;Sickle logotyp
+Sign;Tecken
+Sign post;Skylt
+Signpost;Vägvisare
+Silk stall;Silkes stall
+Silver Chest;Silverkista
+Silver stall;Silver stall
+Silverlight;Silverlight
+Simple lockbox;Enkel låsbox
+Simple stove;Enkel spis
+Sinclair family beehive;Sinclair familjens bikupa
+Sinclair family compost heap;Sinclair familjens komposthög
+Sinclair family crest;Sinclairs familjevapen
+Sinclair family fountain;Sinclair familj fontän
+Sinclair mansion drain;Sinclair herrgårdsavlopp
+Singing Bowl;Sångskål
+Singing bowl;Sångskål
+Single pillar;Enkel pelare
+Sinister barrel;Hemsk tunna
+Sink;Sjunka
+Sink space;Diskbänksutrymme
+Sir Amik Varze;Sir Amik Varze
+Sir Bedivere;Sir Bedivere
+Sir Lancelot;Sir Lancelot
+Sir Lucan;Sir Lucan
+Sir Palomedes;Sir Palomedes
+Sir Tristram;Sir Tristram
+Sithik Ints;Sithik Ints
+Six;Sex
+Skeleton;Skelett
+Skotizo Topiary;Skotizo Topiary
+Skotizo display;Skotizo display
+Skrach Uglogwee;Skrach Uglogwee
+Skroom;Skroom
+Skull;Skalle
+Skull slope;Skallens lutning
+Skulls;Döskallar
+Skullshield;Skullshield
+Slab;Platta
+Slashed Bush;Skär av Bush
+Slashed bush;Nedskuren buske
+Slashed tapestry;Nedskuren gobeläng
+Slashed web;Nedskuren webb
+Slave;Slav
+Slayer Helmet display case;Slayer Helmet monter
+Slayer's Respite;Slayer's Respite
+Sleeping bag;Sovsäck
+Sliced web;Skivad nät
+Slight indentations;Små indragningar
+Slightly broken bridge;Något trasig bro
+Slightly dark crystal;Lite mörk kristall
+Slimy pillars;Slemmiga pelare
+Slimy residue;Slemmiga rester
+Slimy water;Slemmigt vatten
+Slope;Sluttning
+Slope end;Sluttände
+Slug goo;Slug goo
+Sluice Gate;Slussport
+Small Boulder;Liten stenblock
+Small Fossil Display;Liten fossil display
+Small Geyser;Liten gejser
+Small Oven;Liten ugn
+Small Plant space 1;Litet anläggningsutrymme 1
+Small Plant space 2;Litet anläggningsutrymme 2
+Small Table;Litet bord
+Small bush;Liten buske
+Small chest;Liten bröstkorg
+Small crystals;Små kristaller
+Small fern;Liten ormbunke
+Small fountain;Liten fontän
+Small furnace;Liten ugn
+Small gravestone;Liten gravsten
+Small orrery;Liten orrery
+Small oven;Liten ugn
+Small plant;Liten växt
+Small plant 2;Liten växt 2
+Small rock;Liten sten
+Small storage unit;Liten förvaringsenhet
+Small table;Litet bord
+Small vase;Liten vas
+Smashed cage;Krossad bur
+Smashed chair;Krossad stol
+Smashed table;Krossat bord
+Smashed window;Krossat fönster
+Smelly hole;Stinkande hål
+Smelly mushroom;Luktande svamp
+Smoke;Rök
+Smoke Crystal;Rökkristall
+Smokey well;Smokey väl
+Smoking vent;Rökventil
+Smoky cave;Rökig grotta
+Snake;Orm
+Snape grass plant;Snape gräs växt
+Snape grass seedling;Snape gräs planta
+Snow;Snö
+Snow drift;Snödriva
+Snow jump;Snöhopp
+Snowdrop patch;Snowdrop patch
+Snowdrops;Snödroppar
+Snowfall;Snöfall
+Snowy bird hide;Snöig fågelgömma
+Sofa;Soffa
+Soil;Jord
+Soil patch;Jordfläck
+Soldier;Soldat
+Solid black door;Solid svart dörr
+Solid bronze door;Dörr i massiv brons
+Solid gold door;Dörr i massivt guld
+Solid silver door;Solid silverdörr
+Solid steel door;Solid ståldörr
+Soul Altar;Själsaltare
+Soul Devourer;Soul Devourer
+Soul Obelisk;Soul Obelisk
+Soul Wars Portal;Soul Wars Portal
+Soul boat;Själsbåt
+Soul rift;Själsspricka
+Space;Utrymme
+Spade;Spade
+Sparkling pool;Glittrande pool
+Spear wall;Spear wall
+Speartrap;Spjutfälla
+Specimen;Prov
+Specimen table;Provtabell
+Specimen tray;Provbricka
+Sphinx;Sfinx
+Spice Rack;Kryddställ
+Spice stall;Kryddbod
+Spider eggs;Spindelägg
+Spiders' nest;Spindlars bo
+Spiderwebs;Spindelnät
+Spike defence;Spike försvar
+Spike hidden;Spike gömd
+Spike trap;Spikfälla
+Spiked pit;Piggad grop
+Spikes;Spikar
+Spikey chain;Spikey kedja
+Spin Blades;Snurra blad
+Spine mushroom;Ryggsvamp
+Spinning Machine;Spinnmaskin
+Spinning Wheel;Spinnrock
+Spinning blades;Spinnande blad
+Spinning light;Snurrande ljus
+Spinning pipe;Spinnande rör
+Spinning pole;Spinnstång
+Spinning wheel;Spinnrock
+Spiny bush;Taggig buske
+Spirit Angler dock;Spirit Angler docka
+Spirit Angler stats;Spirit Angler statistik
+Spirit Tree;Ande träd
+Spirit Tree Patch;Spirit Tree Patch
+Spirit Tree Stump;Ande trädstubb
+Spirit pump;Spritpump
+Spirit tendrils;Anderankor
+Spirit tree;Andeträd
+Spiritual Fairy Tree;Andligt Fairy Tree
+Spit roast;Spitstek
+Spooky picture;Skrämmande bild
+Spooky stairs;Spöklika trappor
+Spore;Spor
+Spork;Spork
+Spotlight;Strålkastare
+Spray;Spray
+Sprouting Roots;Spirande rötter
+Sq'irk tree;Sq'irk träd
+Square shield;Fyrkantig sköld
+Stacked Boxes;Staplade lådor
+Stacked barrels;Staplade tunnor
+Stacked crates;Staplade lådor
+Staff barrel;Personaltunna
+Staff of Bob the Cat;Personal av Katten Bob
+Stagnant Lake;Stillastående sjö
+Stagnant fish display;Stillastående fiskvisning
+Stained-glass window;Fönster i målat glas
+Stair Space;Trapputrymme
+Staircase;Trappa
+Stairs;Trappa
+Stairs down;Trappor ner
+Stairs up;Trappor upp
+Stairwell;Trapphus
+Stalactite;Stalaktit
+Stalagmite;Stalagmit
+Stalagmites;Stalagmiter
+Stall;Bås
+Stand;Stå
+Standard;Standard
+Standard Stand;Standardställ
+Standing Torch;Stående Fackla
+Standing spears;Stående spjut
+Standing stone;Stående sten
+Standing torch;Stående ficklampa
+Star chart;Stjärndiagram
+Start;Start
+Statue;Staty
+Statue Plinth;Staty Sockel
+Statue Space;Staty utrymme
+Statue of Baxtorian;Staty av Baxtorian
+Statue of Glarial;Staty av Glarial
+Statue of Guthix;Staty av Guthix
+Statue of Saradomin;Staty av Saradomin
+Statue of Zamorak;Staty av Zamorak
+Statue of a king;Staty av en kung
+Statue of a queen;Staty av en drottning
+Statue of a warrior;Staty av en krigare
+Statue plinth;Staty sockel
+Statue space;Staty utrymme
+Statue steps;Staty steg
+Statue with key;Staty med nyckel
+Statuette Plinth;Statyett Sockel
+Statuette in alcove;Statyett i alkov
+Steam Generator;Ånggenerator
+Steam Pump;Ångpump
+Steam Vent;Steam Vent
+Steam generator;Ånggenerator
+Steam press;Ångpress
+Steam_Pump;Steam_Pump
+Steel Chest;Stålkista
+Steel cage;Stålbur
+Steel dragon;Drake av stål
+Steel range;Stålsortiment
+Steep roof;Brant tak
+Steeple;Torn
+Stepladder;Trappstege
+Stepping Stone;Stepping Stone
+Stepping log;Steglogg
+Stepping stone;Språngbräda
+Stepping stones;Trappstenar
+Steps;Steg
+Stick;Stick
+Stick and hoop;Stick och ring
+Sticks;Pinnar
+Stile;Stätta
+Stinking tendrils;Stinkande rankor
+Stocks;Aktier
+Stone;Sten
+Stone Door;Stendörr
+Stone Gate;Stenport
+Stone Ladder;Stenstege
+Stone Mechanism;Stenmekanism
+Stone Pew;Stone Pew
+Stone Pile;Stenhög
+Stone Plinth;Stensockel
+Stone Relief;Stenrelief
+Stone Staircase;Stentrappa
+Stone Tablet;Sten tablett
+Stone arch;Stenbåge
+Stone block;Stenblock
+Stone bridge;Stenbro
+Stone chest;Stenkista
+Stone circle wall;Sten cirkel vägg
+Stone crate;Sten låda
+Stone crusher;Stenkross
+Stone door;Stendörr
+Stone ladder;Stenstege
+Stone pedestal;Sten piedestal
+Stone pool;Sten pool
+Stone signpost;Sten vägvisare
+Stone space;Stenutrymme
+Stone stand;Stenställ
+Stone table;Stenbord
+Stone tablet;Stentavla
+Stone wall;Stenmur
+Stones;Stenar
+Stool;Pall
+Stool hotspot;Pall hotspot
+Stop!;Stopp!
+Storage crate;Förvaringslåda
+Storage shelves;Förvaringshyllor
+Storage space;Förvaringsutrymme
+Storage unit;Förvaringsenhet
+Storeroom Door;Förrådsdörr
+Stormram;Stormram
+Stove;Spis
+Stove space;Spisplats
+Strange Banana Tree;Konstigt bananträd
+Strange Bells;Konstiga klockor
+Strange Egg;Konstigt ägg
+Strange Machine;Konstig maskin
+Strange Shell;Konstigt skal
+Strange Tile;Konstigt kakel
+Strange altar;Konstigt altare
+Strange blocks;Konstiga block
+Strange floor;Konstigt golv
+Strange grid;Konstigt rutnät
+Strange hole;Konstigt hål
+Strange looking stone;Sten som ser konstigt ut
+Strange machine;Konstig maskin
+Strange passage;Konstig passage
+Strange plant;Konstig växt
+Strange pool;Konstig pool
+Strange shrine;Konstig helgedom
+Strange stone;Konstig sten
+Strange wall;Konstig vägg
+Strategy table;Strategitabell
+Strawberry;Jordgubbe
+Strawberry plant;Jordgubbsplanta
+Strawberry seed;Jordgubbsfrö
+Streak info;Sträckinformation
+Stretcher;Bår
+Strong Tree;Starkt träd
+Strong Yew;Stark idegran
+Stronghold;Fäste
+Structural pillar;Strukturell pelare
+Strut;Stag
+Studded Leather;Dubbat läder
+Students' art;Elevernas konst
+Study Desk;Studiebord
+Study desk;Arbetsbord
+Stuffed swordfish;Uppstoppad svärdfisk
+Stump;Stubbe
+Stump chair;Stubbe stol
+Sturdy door;Stabil dörr
+Sturdy wooden gate;Kraftig träport
+Suit of Armour;Rustning
+Suit of armour;rustning
+Sulliuscep;Sulliuscep
+Sulliuscep sprout;Sulliuscep grodd
+Sulphur;Svavel
+Sulphur Vent;Svavelventil
+Sulphur vent;Svavelventil
+Sunflower;Solros
+Sunflowers;Solrosor
+Sunken rowboat;Sjunken roddbåt
+Super magic potion;Super trolldryck
+Super ranging potion;Superavståndsdryck
+Supermajority marker;Supermajoritetsmarkör
+Supplies;Tillbehör
+Supply chest;Tillförsel kista
+Support;Stöd
+Supporting Pillar;Stödpelare
+Suspicious footprints;Misstänkta fotspår
+Swamp;Träsk
+Swamp Boaty;Träskbåt
+Swamp bubbles;Träskbubblor
+Swamp paste;Träskpasta
+Swamp tree;Träskträd
+Swamp tree branch;Träskgren
+Swampy lamp;Sumpig lampa
+Swampy sink;Sumpig handfat
+Swaying tree;Svängande träd
+Sweet;Ljuv
+Sweetcorn;Sockermajs
+Sweetcorn plant;Sockermajsväxt
+Sweetcorn seed;Sockermajsfrö
+Sweetgrub Mound;Sweetgrub Mound
+Sweetgrub Sign;Sweetgrub tecken
+Sweets;Sötsaker
+Swings;Gungor
+Switch;Växla
+Sword cabinet;Svärdskåp
+Sword case;Svärdfodral
+Sword in stone;Svärd i sten
+Sword space;Svärd utrymme
+Swords;Svärd
+Swordshop Sign;Swordshop tecken
+Symbol;Symbol
+Symbol of Guthix;Symbol för Guthix
+Symbol of Saradomin;Symbol för Saradomin
+Symbol of Zamorak;Symbol för Zamorak
+Symbol of life;Symbol för livet
+Table;Tabell
+Table and till;Bord och kassa
+Table blockade;Bordsblockad
+Table hotspot;Bordshotspot
+Table parts;Bordsdelar
+Table saw;Bordssåg
+Table space;Bordsplats
+Tactical map frame;Taktisk kartram
+Tailor's materials;Skräddarmaterial
+Tall Plant;Hög växt
+Tall Reeds;Höga vassar
+Tall mirror;Hög spegel
+Tall tree;Högt träd
+Tall vine;Hög vinstock
+Tangle hidden;Härva ​​gömd
+Tangle vine;Tangle vinstockar
+Tanning Barrel;Tanning Barrel
+Tanning line;Tanning linje
+Tap;Knacka
+Tapestry;Gobeläng
+Tar Barrel;Tjära fat
+Tar Thing;Tar Thing
+Tar barrel;Tjärtunna
+Tar buckets;Tjära hinkar
+Target;Mål
+Tchiki Monkey Nut Bush;Tchiki Monkey Nut Bush
+Te salt;Te salt
+Tea stall;Te stall
+Teak;Teak
+Teak Tree;Teakträd
+Teak bench;Bänk i teak
+Teak birdhouse;Fågelholk i teak
+Teak birdhouse (empty);Fågelholk i teak (tom)
+Teak cape rack;Kappställ i teak
+Teak chest;Teak bröst
+Teak drawers;Teak lådor
+Teak feeder;Teakmatare
+Teak house;Teakhus
+Teak prize chest;Priskista i teak
+Teak scratching post;Skrapstolpe i teak
+Teak table;Bord i teak
+Teak wall decoration;Väggdekor i teak
+Teak wardrobe;Garderob i teak
+Telekinetic Teleport;Telekinetic Teleport
+Teleport Platform;Teleporteringsplattform
+Teleport crystal;Teleportera kristall
+Teleport hidden;Teleportera dold
+Teleport space;Teleportera utrymme
+Teleport trap;Teleportera fälla
+Teleportation Device;Teleporteringsenhet
+Teleportation focus;Teleporteringsfokus
+Telescope;Teleskop
+Telescope space;Teleskop utrymme
+Temp Stone 4 Zip;Temp Stone 4 Zip
+Temperature gauge;Temperaturmätare
+Temple Door;Tempeldörr
+Temple door;Tempeldörr
+Temple wall;Tempelvägg
+Ten;Tio
+Tendrils;rankor
+Tent;Tält
+Tent door;Tältdörr
+Tent flap;Tältklaff
+Tent pole;Tältstång
+Tent roof;Tälttak
+Tent wall;Tältvägg
+Terminal;Terminal
+Terror Snail;Terror snigel
+Thana;Thana
+The Cloister Bell;Klosterklockan
+The Font of Consumption;Konsumtionens teckensnitt
+The Gauntlet;Gauntlet
+The Great Expedition;Den stora expeditionen
+The Grotesque Guardians' display;De Grotesque Guardians uppvisning
+The Inferno;Inferno
+The Jormungand;Jormungand
+The Maiden of Sugadinti;Jungfrun av Sugadinti
+The Sheared Ram;Den klippta baggen
+The jury;Juryn
+The middle of a fireplace;Mitt i en öppen spis
+Theatre of Blood;Teater av blod
+Theme space;Tema utrymme
+Thermonuclear Smoke Devil Display;Termonukleär Smoke Devil Display
+Thick Web;Tjock webb
+Thick vine;Tjock vinstock
+Thick vines;Tjocka vinstockar
+Thingymajig;Thingymajig
+Thistle;Tistel
+Thorns;Taggar
+Thorny bushes;Taggiga buskar
+Three;Tre
+Throne;Tron
+Throne Room Door;Dörr till tronrummet
+Throne of Weiss;Throne of Weiss
+Throne space;Tronutrymme
+Ticket Dispenser;Biljettautomat
+Tight Gap;Tight Gap
+Tight-gap;Tight-mellanrum
+Tightrope;Spänd lina
+Tile;Bricka
+Till;Till
+Timber;Timmer
+Timber defence;Timmerförsvar
+Timeline;Tidslinje
+Tin bath;Plåtbadkar
+Tiny storage unit;Liten förvaringsenhet
+Tip jar;Spetsburk
+Tip jar space;Spetsburkutrymme
+Tithe patch;Tiondelapp
+Toadstool;Paddsvamp
+Toadstools;Paddsvampar
+Tok-Xil;Tok-Xil
+Tomato;Tomat
+Tomato plant;Tomatplanta
+Tomb;Grav
+Tomb Door;Gravdörr
+Tomb dolmen;Gravdolmen
+Tomb doors;Gravdörrar
+Tomb exit;Gravutgång
+Tombstone;Gravsten
+Tool Storage;Verktygsförvaring
+Tool space;Verktygsutrymme
+Tools;Verktyg
+Topiary bush;Topiary buske
+Topiary space;Topiary utrymme
+Torch;Fackla
+Torture Rack;Tortyrställ
+Totem;Totem
+Totem Pole;Totempåle
+Totem pole;Totempåle
+Tower;Torn
+Tower door;Torndörr
+Tower ladder;Tornstege
+Toy Stall;Leksaksstall
+Toy box;Leksakslåda
+Toy box space;Leksakslåda utrymme
+Toy bricks;Leksakstegelstenar
+Toy corner;Leksakshörna
+Toy range;Leksakssortiment
+Toy sink;Handfat för leksaker
+Toy table;Leksaksbord
+Toy weapons;Leksaksvapen
+Track;Spåra
+Track support;Spårstöd
+Tracks;Spår
+Trahaearn Banner;Trahaearn Banner
+Trailblazer globe;Banbrytare klot
+Trailblazer rug;Banbrytande matta
+Train cart;Tågvagn
+Training dummy;Träningsdocka
+Transport platform;Transportplattform
+Trap;Fälla
+Trap Door;Falldörr
+Trap bypass;Förbigång av fällan
+Trap space;Fånga utrymme
+Trapdoor;Fallucka
+Trapdoor space;Falldörrsutrymme
+Trapdoor table;Falldörrsbord
+Trapdoor tunnel;Falldörrstunnel
+Trashed Patch;Trashed Patch
+Travel cart;Resevagn
+Trawler net;Trålarnät
+Treadmill;Löpband
+Treasure Hunt Fairy House;Treasure Hunt Fairy House
+Treasure Trail Statistics;Skattstigsstatistik
+Treasure chest;Skattkista
+Treasure chest space;Skattkista utrymme
+Treasure room;Skattrum
+Treasure space;Skattutrymme
+Treated patch;Behandlat plåster
+Trebuchet;Trebuchet
+Tree;Träd
+Tree Door;Träddörr
+Tree Stump;Trädstubbe
+Tree branch;Trädgren
+Tree patch;Trädfläck
+Tree space;Trädutrymme
+Tree stump;Trädstubbe
+Tree trunk;Trädstam
+Trellis;Spalje
+Trellis top;Spaljétopp
+Tribal Statue;Stamstaty
+Tribal statue;Stamstaty
+Trimmed Yommi;Trimmad Yommi
+Tripwire;Snubbeltråd
+Troll;Troll
+Troll Stew;Trollgryta
+Troll Stronghold Portal;Troll Stronghold Portal
+Troll ladder;Trollstege
+Trolley;Vagn
+Trophy case space;Trofélåda utrymme
+Trophy pedestal;Trofé piedestal
+Tropical Leaves;Tropiska löv
+Tropical leaves;Tropiska löv
+Tropical tree;Tropiskt träd
+Trough;Tråg
+Trumpet;Trumpet
+Trunk;Trunk
+Tube;Rör
+Tulips;Tulpaner
+Tunnel;Tunnel
+Tunnel entrance;Tunnelingång
+Tunnel roof;Tunneltak
+Tunnel wall;Tunnelvägg
+Twigs;Kvistar
+Twisted Bow;Vriden båge
+Twisted Crate;Vriden låda
+Twisted bush;Vriden buske
+Two;Två
+Twocan;Twocan
+TzHaar Flag;TzHaar flagga
+TzHaar statue;TzHaar staty
+Tzkal-Zuk display;Tzkal-Zuk display
+Uncooking pot;Avkokar gryta
+Undead combat dummy;Odöda stridsdocka
+Underwall tunnel;Underväggstunnel
+Underwater Cavern Entrance;Underwater Cavern Entré
+Unferth's patch;Unferths patch
+Unicorn;Enhörning
+Unicorn Statue;Enhörningsstaty
+Unicorn's head;Unicorns huvud
+Unlit candle;Otänt ljus
+Unlocked Ogre chest;Olåst Ogre-kista
+Unoccupied Cormorant perch;Oupptagen skarvabborre
+Unstable Altar;Instabilt altare
+Urn;Urna
+Urt salt;Urt salt
+Utensil Stall;Redskapsstall
+Utensil cupboard;Redskapsskåp
+Valve;Ventil
+Vampyre statue;Vampyr staty
+Vampyre tomb;Vampyrgrav
+Vanilla plant;Vaniljplanta
+Varrock Portal;Varrock Portal
+Vase;Vas
+Vase set;Vas set
+Vat;Moms
+Vault;Valv
+Vault Door;Valvdörr
+Veg stall;Veg stall
+Vegetable Stall;Grönsaksstall
+Velvet chair;Sammetsstol
+Velvet round chair;Rund sammetsstol
+Velvet stool;Sammetspall
+Vent;Ventilera
+Verzik Vitur;Verzik Vitur
+Verzik Vitur display;Verzik Vitur display
+Verzik's throne;Verziks tron
+Veteran Flag;Veteran flagga
+Vials;Vials
+Viewer;Visare
+Viewing orb;Visar klot
+Village fence;Bystaket
+Vine;Vin
+Vine ladder;Vintrappa
+Vine patch;Vinstockar
+Vines;Vines
+Volcanic Forge;Volcanic Forge
+Volcanic Furnace;Vulkanugn
+Volcanic chamber;Vulkankammare
+Volcanic garden;Vulkanisk trädgård
+Volcanic sulphur;Vulkaniskt svavel
+Volcanic theme;Vulkaniskt tema
+Volcanic vent;Vulkanöppning
+Volcano Entrance;Vulkanentré
+Vorkath Topiary;Vorkath Topiary
+Vorkath display;Vorkath display
+Vorkath head;Vorkaths huvud
+Vyre well;Mår bra
+Waiting Room Door;Väntrumsdörr
+Walkway;Gångväg
+Wall;Vägg
+Wall Crusher;Väggkross
+Wall Pipe;Väggrör
+Wall chart;Väggdiagram
+Wall chart space;Väggdiagram utrymme
+Wall corner;Vägghörn
+Wall decoration;Väggdekoration
+Wall map;Väggkarta
+Wall of bricks;Mur av tegel
+Wall of flame;Vägg av låga
+Wall opening;Väggöppning
+Wall rubble;Mursten
+Wall safe;Väggsäker
+Wall support;Väggstöd
+Wallchart;Väggkarta
+Wand rack;Trollstavsställ
+War table;Krigsbord
+Wardrobe;Garderob
+Wardrobe space;Garderobsutrymme
+Warehouse shelves;Lagerhyllor
+Warhammer;Warhammer
+Warning Sign;Varningsskylt
+Warning sign;Varningsskylt
+Washbasin;Tvättställ
+Washing Line;Tvättlina
+Washing line;Tvättlina
+Waste Paper Bin;Papperskorg
+Waste pipes;Avloppsrör
+Watchtower;Vakttorn
+Watchtower Legs;Vakttornets ben
+Watchtower Middle;Vakttornet mitten
+Water;Vatten
+Water Barrel;Vattenfat
+Water Channel;Vattenkanal
+Water Pool;Vattenpool
+Water Pump;Vattenpump
+Water Sign;Vatten tecken
+Water Source;Vattenkälla
+Water Tank;Vattentank
+Water Trough;Vattentråg
+Water Valve;Vattenventil
+Water barrel;Vattentunna
+Water containers;Vattenbehållare
+Water controls;Vattenkontroller
+Water pipes;Vattenledningar
+Water pump;Vattenpump
+Water rift;Vattenspricka
+Water tap;Vattenkran
+Water valve;Vattenventil
+Water wheel;Vattenhjul
+Water's edge;Vattenbrynet
+Waterbirth Island Portal;Waterbirth Island Portal
+Waterfall;Vattenfall
+Waterfall rocks;Vattenfall stenar
+Watering Hole;Vattenhål
+Waterlily;Näckros
+Watermelon;Vattenmelon
+Watermelon seed;Vattenmelonfrö
+Watermelons;Vattenmeloner
+Waterpump;Vattenpump
+Waystone;Waystone
+Weapon Rack;Vapenställ
+Weapon rack;Vapenställ
+Weapons Rack;Vapenställ
+Weather vane;Vindflöjel
+Weathered wall;Vittrad vägg
+Weathervane;Väderflöjel
+Web;Web
+Web sack;Web säck
+Weeds;Ogräs
+Weedy patch;Ogräs lapp
+Weeping wall;Gråtvägg
+Weiss Portal;Weiss portal
+Weiss banner;Weiss banner
+Well;Väl
+Well stacked rocks;Väl staplade stenar
+Werewolf Flag;Varulvsflagga
+West Ardougne Portal;West Ardougne Portal
+Wet driftwood;Våt drivved
+Wheat;Vete
+Wheel;Hjul
+Wheelbarrow;Skottkärra
+Wheely table;Wheely bord
+Whetstone;Bryne
+Whipping Plant;Vispväxt
+Whirlpool;Bubbelpool
+White Castlewars armour;Vit Castlewars rustning
+White Crystal;Vit kristall
+White Knight;White Knight
+White Tree;Vitt träd
+White Tree patch;Vit trädfläck
+White crystal;Vit kristall
+White lily;Vit lilja
+White rose bush patch;Vit rosenbuskefläck
+White roses;Vita rosor
+White tree;Vitt träd
+Whiteberry bush;Vitbärsbuske
+Wildblood Hops;Vildblodshumle
+Wilderness Ditch;Vildmarksdike
+Wilderness Sign;Vildmark tecken
+Wilderness Statistics;Vildmarksstatistik
+Wilf (Well);Wilf (tja)
+Wilf (ghastly!);Wilf (hemskt!)
+Wilf (sick);Wilf (sjuk)
+Wilf (very sick);Wilf (mycket sjuk)
+Wilhelm;Wilhelm
+Willow;Vide
+Willow Tree;Pilträd
+Willow birdhouse;Pilfågelholk
+Willow birdhouse (empty);Pilfågelholk (tom)
+Willow tree;Pilträd
+Willow tree stump;Pilstubb
+Willow's bag;Willows väska
+Wilting wheat;Vissnande vete
+Winch;Vinsch
+Winch bucket;Vinschhink
+Windchimes;Windchimes
+Window;Fönster
+Window space;Fönsterutrymme
+Windswept Tree;Vindpinat träd
+Windswept tree;Vindpinat träd
+Wine barrel;Vinfat
+Wine rack;Vinställ
+Winter's End;Vinterns slut
+Wintumber tree;Vinterträd
+Wire;Tråd
+Wire machine;Trådmaskin
+Wish-list;önskelista
+Witch Glyph;Häxa Glyph
+Witch's charm;Häxans charm
+Withering Attas plant;Visnande Attas växt
+Withering Iasor plant;Visnande Iasor växt
+Withering Kronos plant;Visnande Kronos anläggning
+Wizard Statue;Trollkarlsstaty
+Wizards Mind Bomb;Wizards Mind Bomb
+Woad plant;Woad växt
+Wolf Statue;Vargstaty
+Wood;Trä
+Wood Basket;Träkorg
+Woodcutting stump;Träskärningsstubb
+Wooden Beams;Träbalkar
+Wooden Obstruction;Trä obstruktion
+Wooden Stair;Trätrappa
+Wooden Table;Träbord
+Wooden barricade;Barrikad av trä
+Wooden bench;Träbänk
+Wooden boards;Träskivor
+Wooden cart;Trävagn
+Wooden chair;Trästol
+Wooden chest;Träkista
+Wooden crate;Trälåda
+Wooden defence;Försvar av trä
+Wooden doors;Trädörrar
+Wooden fence;Trästaket
+Wooden gate;Trägrind
+Wooden platform;Träplattform

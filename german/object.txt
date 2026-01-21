@@ -1,0 +1,483 @@
+A Clam Shell;Eine Muschelschale
+A Goblin standard;Eine Goblin-Standarte
+A Shayzien State;Ein Shayzien-Staat
+A Sinking Canoe;Ein sinkendes Kanu
+A barrel of rainwater;Ein Fass Regenwasser
+A bunk bed;Ein Etagenbett
+A burnt tree;Ein verbrannter Baum
+A chasm;Eine Kluft
+A crack;Ein Knall
+A dark crystal;Ein dunkler Kristall
+A fairy workbench;Eine Feenwerkbank
+A fallen barrel;Ein umgefallenes Fass
+A flag;Eine Flagge
+A gap through the wall;Eine Lücke in der Wand
+A peculiar foot print;Ein eigenartiger Fußabdruck
+A primitive joke;Ein primitiver Witz
+A rock;Ein Stein
+A shabby tent;Ein schäbiges Zelt
+A tropical tree;Ein tropischer Baum
+A wall;Eine Wand
+A wooden log;Ein Holzscheit
+Abandoned Cart;Verlassener Einkaufswagen
+Abandoned Equipment;Verlassene Ausrüstung
+Absence of tears;Keine Tränen
+Absorption potion;Absorptionstrank
+Abstract mural;Abstraktes Wandgemälde
+Abyssal Sire Topiary;Abyssal Sire Topiary
+Abyssal Sire display;Abyssal-Vater-Anzeige
+Abyssal demon head;Abgründiger Dämonenkopf
+Abyssal rift;Abgründiger Riss
+Accomplishment scroll space;Scrollbereich für Errungenschaften
+Achey Tree;Achey-Baum
+Achey Tree stump;Achey Baumstumpf
+Achievement diary display;Anzeige des Leistungstagebuchs
+Acid pool;Säurebecken
+Acidic miasma;Saures Miasma
+Adamant armour;Adamant-Rüstung
+Adult Yommi tree;Erwachsener Yommi-Baum
+Adventure log space;Platz für Abenteuerprotokolle
+Aged log;Alter Baumstamm
+Aggie's Cauldron;Aggies Kessel
+Air balloon;Luftballon
+Air rift;Luftriss
+Alan;Alan
+Alchemical Hydra;Alchemistische Hydra
+Alchemical Hydra display;Alchemistische Hydra-Ausstellung
+Alchemical Topiary;Alchemistischer Topiary
+Alchemical chart;Alchemistisches Diagramm
+Alchemical door;Alchemistische Tür
+Alchemists Teleport;Alchemisten teleportieren
+Alcove;Alkoven
+Ali M's Market;Ali Ms Markt
+Allotment;Zuteilung
+Almost a Statue;Fast eine Statue
+Altar;Altar
+Altar of Guthix;Altar von Guthix
+Altar of Zamorak;Altar von Zamorak
+Altar of nature;Altar der Natur
+Altar of the Occult;Altar des Okkulten
+Altar slab;Altarplatte
+Altar space;Altarraum
+Amlodd Banner;Amlodd-Banner
+Amulet of Glory;Amulett der Herrlichkeit
+Amulet space;Amulettraum
+An anonymous looking door;Eine anonym aussehende Tür
+An experimental anvil;Ein experimenteller Amboss
+An ogre standard;Eine Oger-Standarte
+An old lever;Ein alter Hebel
+Ancestral Glyph;Ahnen-Glyphe
+Anchor;Anker
+Anchor rope;Ankerseil
+Ancient Altar;Alter Altar
+Ancient Books;Alte Bücher
+Ancient Equipment;Antike Ausrüstung
+Ancient Fire;Uraltes Feuer
+Ancient Gate;Altes Tor
+Ancient Grave;Altes Grab
+Ancient Incubator;Alter Inkubator
+Ancient Machinery;Antike Maschinen
+Ancient Mural;Antikes Wandgemälde
+Ancient Pillar;Alte Säule
+Ancient Relic;Antikes Relikt
+Ancient Rock;Uralter Fels
+Ancient Shroom;Uralter Pilz
+Ancient Zygomite;Uralter Zygomit
+Ancient brazier;Alte Kohlenpfanne
+Ancient bush;Alter Busch
+Ancient cave painting;Antike Höhlenmalerei
+Ancient chest;Antike Truhe
+Ancient machinery;Alte Maschinen
+Ancient metal gate;Altes Metalltor
+Anima patch;Anima-Patch
+Animal skull;Tierschädel
+Anna's barrel;Annas Fass
+Annakarl Portal;Annakarl-Portal
+Anti-Dragon Breath Shield;Anti-Drachen-Atemschild
+Antiques Shop Stall;Antiquitätenladenstand
+Anvil;Amboss
+Ape Atoll Dungeon Portal;Affen-Atoll-Dungeon-Portal
+Apparatus;Gerät
+Appendage;Anhängsel
+Apple Press;Apple Press
+Apple Tree;Apfelbaum
+Apple basket;Apfelkorb
+Apple tree;Apfelbaum
+Apple tree stump;Apfelbaumstumpf
+Aquarium;Aquarium
+Arcane crystal;Arkaner Kristall
+Arceuus Library Portal;Arceuus-Bibliotheksportal
+Arceuus statue;Arceuus-Statue
+Arch;Bogen
+Archery target;Bogenschießen-Ziel
+Archway;Torbogen
+Arctic Pine;Arktische Kiefer
+Ardougne Portal;Ardougne-Portal
+Ardougne Wall Door;Ardougne-Wandtür
+Arena;Arena
+Arena Entrance;Arena-Eingang
+Arena Exit;Arena-Ausgang
+Arena space;Arenaraum
+Argento;Argento
+Arm;Arm
+Armadyl altar;Armadyl-Altar
+Armadyl armour display case;Armadyl-Rüstungsvitrine
+Armed Forces Report;Bericht der Streitkräfte
+Armillary sphere;Armillarsphäre
+Armour;Rüstung
+Armour case;Rüstungskoffer
+Armour case space;Platz im Panzergehäuse
+Armour display;Rüstungsanzeige
+Armour repair stand;Rüstungsreparaturständer
+Armour space;Rüstungsraum
+Armour stall;Rüstungsstand
+Armour stand;Rüstungsständer
+Arrav;Arrav
+Arrow;Pfeil
+Arrows;Pfeile
+Artefact;Artefakt
+Artefacts;Artefakte
+Asgarnian Ale;Asgarnian Ale
+Asgarnian Hops;Asgarnischer Hopfen
+Asgarnian ale;Asgarnisches Bier
+Ash pile;Aschehaufen
+Aspidistra plant;Aspidistra-Pflanze
+Astronomical chart;Astronomische Karte
+Attack stone;Angriffsstein
+Attacker item machine;Angreifer-Item-Maschine
+Attas plant;Attas-Pflanze
+Attas plant display;Attas-Pflanzenausstellung
+Avalanche;Lawine
+Aviary Hatch;Volierenluke
+Awakened Altar;Erwachter Altar
+Awowogei;Awowogei
+Axe cabinet;Axtschrank
+Axe case;Axtkoffer
+Axeman's Folly;Axemans Torheit
+Axes;Äxte
+Baby red dragon;Baby-roter Drache
+Backpack;Rucksack
+Badly repaired wall;Schlecht reparierte Wand
+Bags for sale;Taschen zu verkaufen
+Bailing buckets;Schöpfkübel
+Baker's Stall;Bäckerstand
+Baker's stall;Bäckerstand
+Bakery stall;Bäckereistand
+Balance beam;Schwebebalken
+Balancing ledge;Balancierkante
+Balancing rope;Balancierseil
+Ball;Ball
+Ballista;Balliste
+Bamboo Bed;Bambusbett
+Bamboo Bookcase;Bücherregal aus Bambus
+Bamboo Desk;Bambus-Schreibtisch
+Bamboo Door;Bambustür
+Bamboo Gate;Bambustor
+Bamboo Ladder;Bambusleiter
+Bamboo Pipes;Bambuspfeifen
+Bamboo Stool;Bambushocker
+Banana Tree;Bananenbaum
+Banana tree;Bananenbaum
+Banana tree stump;Bananenbaumstumpf
+Bandage table;Verbandtisch
+Bandos altar;Bandos-Altar
+Bandos armour display case;Bandos-Rüstungsvitrine
+Bank;Bank
+Bank Booth;Bankstand
+Bank Box;Bankfach
+Bank Chest-wreck;Bank-Katastrophe
+Bank Deposit Box;Bankschließfach
+Bank Deposit Chest;Bankeinlagentruhe
+Bank Deposit Pot;Bankeinzahlungstopf
+Bank Table;Banktisch
+Bank booth;Bankstand
+Bank chest;Banktruhe
+Bank counter;Bankschalter
+Bank deposit box;Bankschließfach
+Bank light;Banklicht
+Bank notice board;Anschlagtafel der Bank
+Bank papers;Bankpapiere
+Bank safe;Banksafe
+Bank table;Banktisch
+Banner;Banner
+Banner making stand;Bannerherstellungsständer
+Banner stand;Bannerständer
+Banner stand space;Platz für den Bannerstand
+Banquet table;Banketttisch
+Bar;Bar
+Bar dispenser;Barspender
+Bar pumps;Barpumpen
+Barbarian anvil;Barbarenamboss
+Barbarian bed;Barbarenbett
+Barbarian chair;Barbarenstuhl
+Barbarian table;Barbarentisch
+Barge controls;Kontrollen für Binnenschiffe
+Barley;Gerste
+Barrel;Fass
+Barrel of Mud;Fass Schlamm
+Barrel of Spears;Fass mit Speeren
+Barrel of Water;Fass Wasser
+Barrel of fish;Fass mit Fisch
+Barrel of fishbones;Fass mit Fischgräten
+Barrel of flour;Fass Mehl
+Barrel rack;Fassregal
+Barrel space;Fassraum
+Barrels;Fässer
+Barren patch;Unfruchtbarer Fleck
+Barricade;Barrikade
+Barricade table;Barrikadentisch
+Barrier;Barriere
+Barronite Crusher;Barronit-Brecher
+Barrow;Karren
+Barrows Portal;Barrows-Portal
+Bars;Barren
+Barstool;Barhocker
+Basalt rock;Basaltgestein
+Basic Jewellery Box;Einfache Schmuckschatulle
+Basilisk head;Basiliskenkopf
+Basket;Korb
+Basket Fungi;Korbpilze
+Bath;Bad
+Bath pipes;Badewannenrohre
+Bath screen;Badewannenabtrennung
+Bathroom table;Badezimmertisch
+Bathtub;Badewanne
+Battering ram;Rammbock
+Battle tower;Kampfturm
+Battlefront Portal;Battlefront-Portal
+Battlement;Zinne
+Battlements;Zinnen
+Bay window;Erkerfenster
+Beach;Strand
+Beacon;Leuchtfeuer
+Beacon.;Leuchtfeuer.
+Beam;Strahl
+Bean Mound;Bohnenhügel
+Beanstalk;Bohnenstange
+Beanstump;Bohnenstumpf
+Bear droppings;Bärenkot
+Beard;Bart
+Bed;Bett
+Bed hotspot;Bett-Hotspot
+Bed space;Schlafplatz
+Bedroom door;Schlafzimmertür
+Beehive;Bienenstock
+Beer barrel;Bierfass
+Beer barrels;Bierfässer
+Beetle;Käfer
+Bell;Glocke
+Bell mechanism;Glockenmechanismus
+Bell pull space;Klingelzugraum
+Bell rope;Glockenstrang
+Bell-pull;Klingelzug
+Belladonna;Belladonna
+Belladonna patch;Belladonna-Patch
+Bellows;Balg
+Bells;Glocken
+Bellshroom;Glockenpilz
+Bench;Bank
+Betty's cauldron;Bettys Kessel
+Biclopse;Biclopse
+Big Button;Großer Knopf
+Big Compost Bin;Großer Kompostbehälter
+Big Door;Große Tür
+Big Plant space 1;Großer Pflanzenraum 1
+Big Plant space 2;Großer Pflanzenraum 2
+Big Tree space;Großer Baumraum
+Big beer barrel;Großes Bierfass
+Big chest;Große Brust
+Big door;Große Tür
+Big egg;Großes Ei
+Big fish;Großer Fisch
+Big hole;Großes Loch
+Big plant;Große Pflanze
+Big plant 2;Große Pflanze 2
+Big vase;Große Vase
+Big window;Großes Fenster
+Big, big boulder...;Großer, großer Felsbrocken...
+Big, foot print;Groß, Fußabdruck
+Bin;Bin
+Bird cage stand;Vogelkäfigständer
+Bird feeder;Vogelhäuschen
+Bird hide structure;Vogelhautstruktur
+Bird snare;Vogelfalle
+Birdhouse;Vogelhaus
+Birdhouse (empty);Vogelhaus (leer)
+Birdseed holder;Vogelfutterhalter
+Birthday cake;Geburtstagskuchen
+Bittercap Mushrooms;Bitterkappenpilze
+Bitternut Sign;Bitternuss-Zeichen
+Bitternut Tree;Bitternussbaum
+Black Chest;Schwarze Truhe
+Black crystal;Schwarzer Kristall
+Black hole;Schwarzes Loch
+Black mushrooms;Schwarze Pilze
+Blackboard;Tafel
+Blacksmith's tools;Schmiedewerkzeuge
+Blacksmiths' tools;Schmiedewerkzeuge
+Blade;Klinge
+Blighted Bologano plant;Befallene Bologano-Pflanze
+Blighted Bologano seedling;Befallener Bologano-Sämling
+Blighted Golovanova plant;Befallene Golovanova-Pflanze
+Blighted Golovanova seedling;Befallener Golovanova-Sämling
+Blighted Logavano plant;Befallene Logavano-Pflanze
+Blighted Logavano seedling;Befallener Logavano-Sämling
+Blighted vine;Verdorbene Rebe
+Blindweed Patch;Blindkrautbeet
+Blisterwood Tree;Blisterwood-Baum
+Blockage;Blockierung
+Blocked Crevice;Verstopfter Spalt
+Blocked Tunnel;Blockierter Tunnel
+Blocked entry;Eintrag gesperrt
+Blocked tunnel;Blockierter Tunnel
+Blocked volcanic chamber;Verstopfte Vulkankammer
+Blood;Blut
+Blood Altar;Blutaltar
+Blood Orb;Blutkugel
+Blood Stinkhorn;Blut-Stinkhorn
+Blood Stinktree;Blut Stinktree
+Blood crystal;Blutkristall
+Blood rift;Blutriss
+Blooming Hespori sprout;Blühender Hespori-Spross
+Blue Barrier;Blaue Barriere
+Blue Fire;Blaues Feuer
+Blue Flowers;Blaue Blumen
+Blue Water Sign;Blaues Wasserzeichen
+Blue banner;Blaues Banner
+Blue chemical;Blaue Chemikalie
+Blue door;Blaue Tür
+Blue flowers;Blaue Blumen
+Blue tears;Blaue Tränen
+Bluebells;Glockenblumen
+Blurberry bar;Blurberry-Riegel
+Boarded-up door;Mit Brettern vernagelte Tür
+Boards;Bretter
+Boat;Boot
+Boat Chute;Bootsrutsche
+Boat station;Bootsstation
+Boaty;Boaty
+Bob's barrel;Bobs Fass
+Body rift;Körperriss
+Bog;Moor
+Boil;Kochen
+Boiler;Kessel
+Boils;Furunkel
+Bologano plant;Bologano-Pflanze
+Bologano seedling;Bologano-Sämling
+Bone Chain;Knochenkette
+Bone Crane;Knochenkranich
+Bone arch;Knochenbogen
+Bone barrel;Knochenfass
+Bone door;Knochentür
+Bone grinder;Knochenschleifer
+Bone rack;Knochengestell
+Bone support;Knochenunterstützung
+Bones;Knochen
+Boney ladder;Knochenige Leiter
+Bonfire;Feuer
+Bonzo's Table;Bonzos Tisch
+Book Cart;Bücherwagen
+Book table;Büchertisch
+Bookcase;Bücherregal
+Bookcase space;Platz im Bücherregal
+Books;Bücher
+Bookshelf;Bücherregal
+Bookshelves;Bücherregale
+Boss lair display;Boss-Versteck-Anzeige
+Boss lair space;Boss-Versteckraum
+Bottle;Flasche
+Bottle Machine;Flaschenmaschine
+Bottle machine;Flaschenmaschine
+Boulder;Felsblock
+Boulders;Felsbrocken
+Boundary stones;Grenzsteine
+Bow and Arrow;Pfeil und Bogen
+Bow and arrow;Pfeil und Bogen
+Bow case;Bogenetui
+Bowl;Schüssel
+Bowsprit;Bugspriet
+Box;Kasten
+Box cart;Kastenwagen
+Box of Health;Kiste der Gesundheit
+Box trap;Kastenfalle
+Boxes;Boxen
+Boxing mat;Boxmatte
+Boxing ring;Boxring
+Branch;Zweig
+Brazier;Kohlebecken
+Brew Barrel;Braufass
+Brewer's Barrel;Brauerfass
+Brewing control;Brühkontrolle
+Brewing vat;Braubottich
+Brick;Ziegel
+Bricks;Ziegel
+Bridge;Brücke
+Bright crystal;Heller Kristall
+Brimstone chest;Schwefeltruhe
+Broken Bed;Kaputtes Bett
+Broken Brazier;Kaputte Kohlenpfanne
+Broken Cabinet;Kaputtes Kabinett
+Broken Cannon;Kaputte Kanone
+Broken Cart;Kaputter Einkaufswagen
+Broken Chair;Kaputter Stuhl
+Broken Cupboard;Kaputter Schrank
+Broken Door;Kaputte Tür
+Broken Drawers;Kaputte Schubladen
+Broken Fence;Kaputter Zaun
+Broken Fire altar;Zerbrochener Feueraltar
+Broken Fountain;Kaputter Brunnen
+Broken Grandfather Clock;Kaputte Standuhr
+Broken Grandiose Doors;Zerbrochene grandiose Türen
+Broken Grate;Zerbrochenes Gitter
+Broken Lecturn;Defektes Rednerpult
+Broken Mirror;Zerbrochener Spiegel
+Broken Old Bookshelf;Zerbrochenes altes Bücherregal
+Broken Plantpot;Kaputter Pflanzentopf
+Broken Potter's Wheel;Zerbrochene Töpferscheibe
+Broken Raft;Kaputtes Floß
+Broken Railing;Kaputtes Geländer
+Broken Range;Gebrochene Reichweite
+Broken Roof;Kaputtes Dach
+Broken Scaffold;Kaputtes Gerüst
+Broken Shelves;Kaputte Regale
+Broken Sink;Kaputtes Waschbecken
+Broken Spinning Wheel;Kaputtes Spinnrad
+Broken Statue;Zerbrochene Statue
+Broken Table;Kaputter Tisch
+Broken Wall;Gebrochene Wand
+Broken Well;Gut kaputt
+Broken altar;Kaputter Altar
+Broken barrel;Gebrochener Lauf
+Broken bath;Kaputtes Bad
+Broken battering ram;Zerbrochener Rammbock
+Broken beer glass;Zerbrochenes Bierglas
+Broken boat;Kaputtes Boot
+Broken bridge;Kaputte Brücke
+Broken cage;Kaputter Käfig
+Broken cannon;Kaputte Kanone
+Broken cart;Kaputter Wagen
+Broken cart wheel;Defektes Wagenrad
+Broken catapult;Kaputtes Katapult
+Broken chain;Gebrochene Kette
+Broken chair;Kaputter Stuhl
+Broken cogs;Defekte Zahnräder
+Broken counter;Kaputter Tresen
+Broken crossbow;Kaputte Armbrust
+Broken dead tree;Gebrochener toter Baum
+Broken door;Kaputte Tür
+Broken drilling machine;Bohrmaschine kaputt
+Broken equipment table;Kaputter Gerätetisch
+Broken experiment tube;Kaputtes Experimentierröhrchen
+Broken fence;Defekter Zaun
+Broken fish display;Ausstellung gebrochener Fische
+Broken furnace;Kaputter Ofen
+Broken ground;Gebrochener Boden
+Broken kiln;Kaputter Ofen
+Broken ladder;Kaputte Leiter
+Broken lamp;Defekte Lampe
+Broken lobster trap;Zerbrochene Hummerfalle
+Broken log raft;Kaputtes Holzfloß
+Broken logs;Kaputte Protokolle
+Broken mace trap;Kaputte Streitkolbenfalle
+Broken machinery;Kaputte Maschinen
+Broken mast;Gebrochener Mast
