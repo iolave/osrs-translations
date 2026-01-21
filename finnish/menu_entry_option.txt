@@ -105,3 +105,156 @@ Open Store;Avaa Store
 Deposit;Tallettaa
 Loot;Ryöstää
 Destroy;Tuhota
+Music Player;Musiikkisoitin
+Chop down;Kaataa
+Inventory;Varasto
+Useful links;Hyödyllisiä linkkejä
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Kauppa:</col> Ei näytä mitään
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Kauppa:</col> Näytä ystäviä
+Community;yhteisössä
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Klaani:</col> ei näytä mitään
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanava:</col> ei näytä mitään
+Display;Näyttö
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Yksityinen:</col> Näytä ystävät
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Aseta chat-tila:</col> Klaani (/@c)
+Switch tab;Vaihda välilehteä
+Report game bug;Ilmoita pelivirheestä
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Yksityinen:</col> Tyhjennä historia
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanava:</col> Näytä kaikki
+Configure filter;Määritä suodatin
+Emotes;Hymiöt
+Account;Tili
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Julkinen:</col> Näytä automaattinen keskustelu
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Klaani:</col> Tyhjennä historia
+Report abuse;Ilmoita väärinkäytöstä
+<col=ffff00>Public:</col> Show none;<col=ffff00>Julkinen:</col> ei näytä mitään
+Ignore List;Ohita lista
+<col=00ff00>Filter public chat</col>;<col=00ff00>Suodata julkinen keskustelu</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Peli:</col> Suodata
+<col=00afff>Setup your autochat</col>;<col=00afff>Määritä automaattinen chat</col>
+Take;Ota
+<col=ffff00>Private:</col> Show none;<col=ffff00>Yksityinen:</col> ei näytä mitään
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Kauppa:</col> Näytä kaikki
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klaani:</col> Näytä ystäviä
+Account Management;Tilinhallinta
+Chat-channel;Chat-kanava
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Julkinen:</col> Tyhjennä historia
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Klaani:</col> Näytä kaikki
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanava:</col> Näytä ystäviä
+<col=ffff00>Private:</col> Show all;<col=ffff00>Yksityinen:</col> Näytä kaikki
+Logout;Kirjaudu ulos
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Aseta chat-tila:</col> Vierasklaani (/@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanava:</col> Tyhjennä historia
+Friends List;Ystävälista
+World Switcher;Maailman vaihtaja
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Julkinen:</col> Näytä standardi
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Aseta chat-tila:</col> Kanava (/@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Aseta chat-tila:</col> Julkinen (/@p)
+Controls;Säätimet
+<col=ffff00>Public:</col> Hide;<col=ffff00>Julkinen:</col> Piilota
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Julkinen:</col> Näytä ystävät
+Close;Lähellä
+Show on Map;Näytä kartalla
+Outside;Ulkopuolella
+Yanille;Yanille
+Warnings;Varoitukset
+Seers';Näkijät
+Enable warning;Ota varoitus käyttöön
+Animation;Animaatio
+Open <col=ff9040>Fremennik Journal</col>;Avaa <col=ff9040>Fremennik Journal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Avaa <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Avaa <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador Journal</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
+Open <col=ff9040>Kandarin Journal</col>;Avaa <col=ff9040>Kandarin Journal</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Falador Journal</col>;Avaa <col=ff9040>Falador Journal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Avaa <col=ff9040>Kourend & Kebos Journal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin Journal</col>
+Bond Pouch;Bond-pussi
+DPS;DPS
+Search;Haku
+Learn More;Lisätietoja
+Open;Avata
+Pick;Valita
+Join Castle Wars;Liity Castle Warsiin
+Attack;Hyökkäys
+Climb-down;Perääntyminen
+Travel;Matkustaa
+Rest;Levätä
+Build;Rakentaa
+Check;Tarkista
+Tend-to;Taipuvainen
+Add friend;Lisää ystävä
+Add ignore;Lisää ohitus
+Enter-guest;Sisään-vieras
+Climb-up;Kiipeäminen
+Enter;Enter
+Enter-member;Tule jäseneksi
+Items;Tuotteet
+Knock-at;Knock-at
+Smith;Smith
+Pet;Lemmikki
+Shoo-away;Painu pois
+Continue;Jatkaa
+Trade;Kauppa
+Create <col=ff9040>Sell</col> offer;Luo <col=ff9040>Myy</col>-tarjous
+Favourite;Suosikki
+Switch;Kytkin
+2;2 
+Create <col=ff9040>Buy</col> offer;Luo <col=ff9040>Osta</col>-tarjous
+1;1 
+Clear;Selkeä
+-5%;-5 %
+Collect to inventory;Kerää varastoon
++5%;+5 %
+Modify offer;Muokkaa tarjousta
+Confirm;Vahvistaa
+Abort offer;Peruuta tarjous
+View offer;Katso tarjous
+Collect to bank;Kerää pankkiin
+Enter price;Syötä hinta
+Customise;Mukauta
+Guide price;Ohjehinta
+All;Kaikki
+Enter quantity;Syötä määrä
++1;+1
+Offer;Tarjous
+Buy: 1 x Nature rune;Osta: 1 x Nature rune
+Buy-offer;Ostotarjous
+Chop-down;Katkaisu
+Look North;Katso pohjoiseen
+Look South;Katso etelään
+Look East;Katso itään
+Look West;Katso länteen
+Hide;Piilottaa
+Cook;Kokki
+Refresh;Päivitä
+Message;Viesti
+Delete;Poistaa
+Add Friend;Lisää ystävä
+Delete Friend;Poista ystävä
+Find;Löytää
+Toggle Run;Toggle Run
+Open subsection;Avaa alaosio
+Pickpocket;Taskuvaras
+Claim-staves;Vaatimukset
+Rake;Rake
+3;3 
+Inspect;Tarkastaa
+Toggle unlock message;Avaa lukituksen avausviesti
+Select <col=ff981f>Chat;Valitse <col=ff981f>Chat
+Mute;Mykistä
+All Settings;Kaikki asetukset
+Select <col=ff981f>Activities;Valitse <col=ff981f>Toiminnot
+Select <col=ff981f>Gameplay;Valitse <col=ff981f>Peli
+Select <col=ff981f>Audio;Valitse <col=ff981f>Ääni
+Select <col=ff981f>Display;Valitse <col=ff981f>Näyttö
+Select <col=ff981f>Warnings;Valitse <col=ff981f>Varoitukset
+View-journal;Näytä-päiväkirja
+Stats;Tilastot
+Rummage;Rummage
+Switch View;Vaihda näkymää

@@ -1,0 +1,4932 @@
+'24-carat' sword;„24-Karat“-Schwert
+'perfect' gold bar;„perfekter“ Goldbarren
+'perfect' gold ore;„perfektes“ Golderz
+'perfect' necklace;'perfekte' Halskette
+'perfect' ring;'perfekter' Ring
+1/2 anchovy pizza;1/2 Sardellenpizza
+1/2 meat pizza;1/2 Fleischpizza
+1/2 pineapple pizza;1/2 Ananaspizza
+1/2 plain pizza;1/2 einfache Pizza
+1/3rds full jug;1/3rds voller Krug
+1/5ths full bucket;1/5ths voller Eimer
+10th squad sigil;10th Trupp-Siegel
+18lb shot;18lb Schuss
+2/3 cake;2/3 Kuchen
+2/3 chocolate cake;2/3 Schokoladenkuchen
+2/3rds full jug;2/3rds voller Krug
+2/5ths full bucket;2/5ths voller Eimer
+20th anniversary boots;20th Jubiläumsstiefel
+20th anniversary bottom;20th Jubiläumsboden
+20th anniversary cape;20th Jubiläumsumhang
+20th anniversary gloves;20th Jubiläumshandschuhe
+20th anniversary hat;20th Jubiläumshut
+20th anniversary necklace;20th Jubiläumskette
+20th anniversary top;20th Jubiläums-Top
+22lb shot;22lb Schuss
+3/5ths full bucket;3/5ths voller Eimer
+3rd age amulet;3rd Altersamulett
+3rd age axe;3rd Altersaxt
+3rd age bow;3rd Altersbogen
+3rd age cloak;3rd Alter Umhang
+3rd age druidic cloak;3rd Alter Druidenumhang
+3rd age druidic robe bottoms;3rd Alter druidischer Gewandunterteil
+3rd age druidic robe top;3rd Alter druidisches Robenoberteil
+3rd age druidic staff;3rd Alter druidischer Stab
+3rd age full helmet;3rd Alter Vollhelm
+3rd age kiteshield;3rd Alter Kiteshield
+3rd age longsword;3rd Alter Langschwert
+3rd age mage hat;3rd Alter Magierhut
+3rd age pickaxe;3rd Alter Spitzhacke
+3rd age platebody;3rd Altersplattenkörper
+3rd age platelegs;3rd Altersplattenbeine
+3rd age plateskirt;3rd Altersplattenrock
+3rd age range coif;3rd Altersgruppe Haube
+3rd age range legs;3rd Altersspanne Beine
+3rd age range top;3rd Altersspanne oben
+3rd age robe;3rd Altersgewand
+3rd age robe top;3rd Altersgewandoberteil
+3rd age vambraces;3rd Alter Armschienen
+3rd age wand;3rd Alter Zauberstab
+4-poster;4-poster 
+4/5ths full bucket;4/5ths voller Eimer
+4th birthday hat;4th Geburtstagshut
+5-gallon jug;5-gallon Krug
+8-gallon jug;8-gallon Krug
+??? mixture;??? Mischung
+A blue circle;Ein blauer Kreis
+A blue pentagon;Ein blaues Fünfeck
+A blue square;Ein blaues Quadrat
+A blue triangle;Ein blaues Dreieck
+A chair;Ein Stuhl
+A container;Ein Container
+A dark disposition;Eine dunkle Veranlagung
+A dear friend;Ein lieber Freund
+A green circle;Ein grüner Kreis
+A green pentagon;Ein grünes Fünfeck
+A green square;Ein grünes Quadrat
+A green triangle;Ein grünes Dreieck
+A handwritten book;Ein handgeschriebenes Buch
+A jester stick;Ein Narrenstock
+A magic scroll;Eine magische Schriftrolle
+A pattern;Ein Muster
+A powdered wig;Eine gepuderte Perücke
+A red circle;Ein roter Kreis
+A red pentagon;Ein rotes Fünfeck
+A red square;Ein rotes Quadrat
+A red triangle;Ein rotes Dreieck
+A scribbled note;Eine gekritzelte Notiz
+A scruffy note;Eine ungepflegte Notiz
+A small key;Ein kleiner Schlüssel
+A special tiara;Eine besondere Tiara
+A stone bowl;Eine Steinschale
+A taste of hope;Ein Hauch von Hoffnung
+A used spell;Ein gebrauchter Zauber
+A violet circle;Ein violetter Kreis
+A violet pentagon;Ein violettes Fünfeck
+A violet square;Ein violettes Quadrat
+A violet triangle;Ein violettes Dreieck
+A yellow circle;Ein gelber Kreis
+A yellow pentagon;Ein gelbes Fünfeck
+A yellow square;Ein gelbes Quadrat
+A yellow triangle;Ein gelbes Dreieck
+Aberrant spectre;Aberrantes Gespenst
+Ablenkian's escape;Ablenkians Flucht
+Absorption (1);Absorption (1)
+Absorption (2);Absorption (2)
+Absorption (3);Absorption (3)
+Absorption (4);Absorption (4)
+Abyssal bludgeon;Abgründiger Knüppel
+Abyssal book;Abyssal-Buch
+Abyssal bracelet(1);Abyssal-Armband(1)
+Abyssal bracelet(2);Abyssal-Armband(2)
+Abyssal bracelet(3);Abyssal-Armband(3)
+Abyssal bracelet(4);Abyssal-Armband(4)
+Abyssal bracelet(5);Abyssal-Armband(5)
+Abyssal dagger;Abgrunddolch
+Abyssal dagger (p);Abgrunddolch (p)
+Abyssal dagger (p+);Abgrunddolch (p+)
+Abyssal dagger (p++);Abgrunddolch (p++)
+Abyssal demon;Abgründiger Dämon
+Abyssal head;Abgrundkopf
+Abyssal orphan;Abgründiges Waisenkind
+Abyssal tentacle;Abgrundtentakel
+Abyssal whip;Abgrundpeitsche
+Accumulator max cape;Akku max cape
+Accumulator max hood;Akku max. Haube
+Acetic acid;Essigsäure
+Achey tree logs;Achey-Baumstämme
+Achievement diary cape;Leistungstagebuch-Umhang
+Achievement diary cape (t);Leistungstagebuch-Umhang (t)
+Achievement diary hood;Leistungstagebuch-Kapuze
+Achievement gallery;Erfolgsgalerie
+Acorn;Eichel
+Adamant 2h sword;Adamant 2h Schwert
+Adamant arrow;Adamant-Pfeil
+Adamant arrow pack;Adamant-Pfeilpaket
+Adamant arrow(p);Adamant-Pfeil(p)
+Adamant arrow(p+);Adamantpfeil(p+)
+Adamant arrow(p++);Adamant-Pfeil (p++)
+Adamant arrowtips;Adamant-Pfeilspitzen
+Adamant axe;Adamant-Axt
+Adamant axe head;Axtkopf aus Adamant
+Adamant battleaxe;Adamant-Streitaxt
+Adamant bolts;Adamant-Schrauben
+Adamant bolts (p);Adamant-Schrauben (p)
+Adamant bolts (p+);Adamant-Schrauben (p+)
+Adamant bolts (p++);Adamant-Schrauben (p++)
+Adamant bolts(unf);Adamant-Schrauben (unf)
+Adamant boots;Adamant-Stiefel
+Adamant brutal;Hartnäckig brutal
+Adamant cane;Adamant-Rohr
+Adamant chainbody;Kettenkörper aus Adamant
+Adamant claws;Adamant-Klauen
+Adamant crossbow;Adamant-Armbrust
+Adamant crossbow (u);Adamant-Armbrust (u)
+Adamant dagger;Adamant-Dolch
+Adamant dagger(p);Adamant-Dolch(p)
+Adamant dagger(p+);Adamant-Dolch (p+)
+Adamant dagger(p++);Adamant-Dolch (p++)
+Adamant dart;Adamant-Dart
+Adamant dart tip;Adamant-Dartspitze
+Adamant dart(p);Adamant-Dart(p)
+Adamant dart(p+);Adamantpfeil(p+)
+Adamant dart(p++);Adamant Dart(p++)
+Adamant defender;Adamant-Verteidiger
+Adamant defender (broken);Adamant-Verteidiger (gebrochen)
+Adamant defender (l);Adamant-Verteidiger (l)
+Adamant dragon mask;Adamant-Drachenmaske
+Adamant fire arrow;Adamant-Feuerpfeil
+Adamant fire arrow (lit);Adamant-Feuerpfeil (beleuchtet)
+Adamant full helm;Adamant-Vollhelm
+Adamant full helm (g);Adamant-Vollhelm (g)
+Adamant full helm (t);Adamant Vollhelm (t)
+Adamant gloves;Adamant-Handschuhe
+Adamant gold-trimmed set (lg);Adamant-Set mit Goldbesatz (lg)
+Adamant gold-trimmed set (sk);Adamant-Set mit Goldbesatz (sk)
+Adamant halberd;Adamant Hellebarde
+Adamant hasta;Adamant hasta
+Adamant hasta(kp);Adamant hasta(kp)
+Adamant hasta(p);Adamant hasta(p)
+Adamant hasta(p+);Adamant hasta(p+)
+Adamant hasta(p++);Adamant hasta(p++)
+Adamant helm (h1);Adamant-Helm (h1)
+Adamant helm (h2);Adamant-Helm (h2)
+Adamant helm (h3);Adamant-Helm (h3)
+Adamant helm (h4);Adamant-Helm (h4)
+Adamant helm (h5);Adamant-Helm (h5)
+Adamant heraldic helm;Adamant-Wappenhelm
+Adamant javelin;Adamant-Speer
+Adamant javelin heads;Speerköpfe aus Adamant
+Adamant javelin(p);Adamant-Speer (p)
+Adamant javelin(p+);Adamant-Speer (p+)
+Adamant javelin(p++);Adamant-Speer (p++)
+Adamant kiteshield;Adamant Kiteshield
+Adamant kiteshield (g);Adamant Kiteshield (g)
+Adamant kiteshield (t);Adamant Kiteshield (t)
+Adamant knife;Adamant-Messer
+Adamant knife(p);Adamant-Messer(p)
+Adamant knife(p+);Adamant-Messer (p+)
+Adamant knife(p++);Adamant-Messer (p++)
+Adamant longsword;Adamant-Langschwert
+Adamant mace;Adamant-Streitkolben
+Adamant med helm;Adamant-Med-Helm
+Adamant pick head;Adamant-Pick-Kopf
+Adamant pickaxe;Adamant-Spitzhacke
+Adamant platebody;Plattenkörper aus Adamant
+Adamant platebody (g);Adamant-Plattenkörper (g)
+Adamant platebody (h1);Adamant-Plattenkörper (h1)
+Adamant platebody (h2);Adamant-Plattenkörper (h2)
+Adamant platebody (h3);Adamant-Plattenkörper (h3)
+Adamant platebody (h4);Adamant-Plattenkörper (h4)
+Adamant platebody (h5);Adamant-Plattenkörper (h5)
+Adamant platebody (t);Adamant-Plattenkörper (t)
+Adamant platelegs;Plattenbeine aus Adamant
+Adamant platelegs (g);Adamant-Plattenbeine (g)
+Adamant platelegs (t);Adamant-Plattenbeine (t)
+Adamant plateskirt;Adamant-Plattenrock
+Adamant plateskirt (g);Adamant-Plattenrock (g)
+Adamant plateskirt (t);Adamant-Plattenrock (t)
+Adamant scimitar;Adamant-Krummsäbel
+Adamant set (lg);Adamant-Set (lg)
+Adamant set (sk);Adamant-Satz (sk)
+Adamant shield (h1);Adamant-Schild (h1)
+Adamant shield (h2);Adamant-Schild (h2)
+Adamant shield (h3);Adamant-Schild (h3)
+Adamant shield (h4);Adamantschild (h4)
+Adamant shield (h5);Adamantschild (h5)
+Adamant spear;Adamant-Speer
+Adamant spear(kp);Adamant-Speer (kp)
+Adamant spear(p);Adamant-Speer(p)
+Adamant spear(p+);Adamant-Speer (p+)
+Adamant spear(p++);Adamant-Speer (p++)
+Adamant sq shield;Quadratischer Adamant-Schild
+Adamant sword;Adamant-Schwert
+Adamant thrownaxe;Adamant-Wurfaxt
+Adamant trimmed set (lg);Adamant-beschnittenes Set (lg)
+Adamant trimmed set (sk);Adamant-beschnittenes Set (sk)
+Adamant warhammer;Adamant-Kriegshammer
+Adamantite armour;Adamantit-Rüstung
+Adamantite bar;Adamantit-Barren
+Adamantite limbs;Adamantit-Gliedmaßen
+Adamantite nails;Adamantit-Nägel
+Adamantite ore;Adamantit-Erz
+Adamantite ore fragment;Adamantit-Erzfragment
+Address form;Adressformular
+Address label;Adressetikett
+Admiral pie;Admiral-Kuchen
+Advanced arena;Fortgeschrittene Arena
+Afro;Afro
+Agility arena ticket;Ticket für die Agility-Arena
+Agility balance;Agilitätsbalance
+Agility cape;Agility-Umhang
+Agility cape(t);Agility-Umhang(t)
+Agility climb;Agility-Aufstieg
+Agility contortion;Agilitätsverrenkung
+Agility hood;Agility-Haube
+Agility jump;Beweglichkeitssprung
+Agility mix(1);Agilitätsmix(1)
+Agility mix(2);Agilitätsmix(2)
+Agility potion(1);Beweglichkeitstrank(1)
+Agility potion(2);Beweglichkeitstrank(2)
+Agility potion(3);Beweglichkeitstrank(3)
+Agility potion(4);Beweglichkeitstrank(4)
+Agility tome;Beweglichkeitsband
+Ahab's beer;Ahabs Bier
+Ahrim's armour set;Ahrims Rüstungsset
+Ahrim's hood;Ahrims Kapuze
+Ahrim's hood 0;Ahrims Kapuze 0
+Ahrim's hood 100;Ahrims Kapuze 100
+Ahrim's hood 25;Ahrims Kapuze 25
+Ahrim's hood 50;Ahrims Kapuze 50
+Ahrim's hood 75;Ahrims Kapuze 75
+Ahrim's robeskirt;Ahrims Robenrock
+Ahrim's robeskirt 0;Ahrims Roberock 0
+Ahrim's robeskirt 100;Ahrims Roberock 100
+Ahrim's robeskirt 25;Ahrims Gewandrock 25
+Ahrim's robeskirt 50;Ahrims Roberock 50
+Ahrim's robeskirt 75;Ahrims Roberock 75
+Ahrim's robetop;Ahrims Robenoberteil
+Ahrim's robetop 0;Ahrims Robetop 0
+Ahrim's robetop 100;Ahrims Robetop 100
+Ahrim's robetop 25;Ahrims Robetop 25
+Ahrim's robetop 50;Ahrims Robetop 50
+Ahrim's robetop 75;Ahrims Robetop 75
+Ahrim's staff;Ahrims Stab
+Ahrim's staff 0;Ahrims Stab 0
+Ahrim's staff 100;Ahrims Stab 100
+Ahrim's staff 25;Ahrims Stab 25
+Ahrim's staff 50;Ahrims Stab 50
+Ahrim's staff 75;Ahrims Stab 75
+Air battlestaff;Luftkampfstab
+Air orb;Luftkugel
+Air rune;Luftrune
+Air rune (nz);Luftrune (nz)
+Air rune pack;Luftrunenpaket
+Air talisman;Lufttalisman
+Air tiara;Luft-Tiara
+Airtight pot;Luftdichter Topf
+Aivas bust;Aivas Büste
+Aivas' diary;Aivas' Tagebuch
+Al kharid flyer;Al-Kharid-Flyer
+Alchemical chart;Alchemistisches Diagramm
+Alchemical hydra head;Alchemistischer Hydrakopf
+Alchemical hydra heads;Alchemistische Hydraköpfe
+Alchemical notes;Alchemistische Notizen
+Alco-chunks;Alkoholbrocken
+Ale of the gods;Bier der Götter
+Ale yeast;Bierhefe
+Aluft aloft box;Aluft-Aloft-Box
+Amethyst;Amethyst
+Amethyst arrow;Amethystpfeil
+Amethyst arrow(p);Amethystpfeil(p)
+Amethyst arrow(p+);Amethystpfeil(p+)
+Amethyst arrow(p++);Amethystpfeil(p++)
+Amethyst arrowtips;Amethyst-Pfeilspitzen
+Amethyst bolt tips;Amethyst-Bolzenspitzen
+Amethyst broad bolts;Breite Amethyst-Bolzen
+Amethyst fire arrow;Amethyst-Feuerpfeil
+Amethyst fire arrow (lit);Amethyst-Feuerpfeil (beleuchtet)
+Amethyst javelin;Amethyst-Speer
+Amethyst javelin heads;Speerköpfe aus Amethyst
+Amethyst javelin(p);Amethyst-Speer(p)
+Amethyst javelin(p+);Amethyst-Speer (p+)
+Amethyst javelin(p++);Amethyst-Speer (p++)
+Ammo mould;Munitionsform
+Ammonium nitrate;Ammoniumnitrat
+Amulet mould;Amulettform
+Amulet of accuracy;Amulett der Genauigkeit
+Amulet of avarice;Amulett der Gier
+Amulet of blood fury;Amulett der Blutwut
+Amulet of bounty;Amulett der Großzügigkeit
+Amulet of chemistry;Amulett der Chemie
+Amulet of defence;Amulett der Verteidigung
+Amulet of defence (t);Amulett der Verteidigung (t)
+Amulet of doomion;Amulett des Untergangs
+Amulet of eternal glory;Amulett der ewigen Herrlichkeit
+Amulet of fury;Amulett der Wut
+Amulet of fury (or);Amulett der Wut (oder)
+Amulet of glory;Amulett des Ruhms
+Amulet of glory (t);Amulett des Ruhms (t)
+Amulet of glory (t1);Amulett des Ruhms (t1)
+Amulet of glory (t2);Amulett des Ruhms (t2)
+Amulet of glory (t3);Amulett des Ruhms (t3)
+Amulet of glory (t4);Amulett des Ruhms (t4)
+Amulet of glory (t5);Amulett des Ruhms (t5)
+Amulet of glory (t6);Amulett des Ruhms (t6)
+Amulet of glory(1);Amulett des Ruhms(1)
+Amulet of glory(2);Amulett des Ruhms(2)
+Amulet of glory(3);Amulett des Ruhms(3)
+Amulet of glory(4);Amulett des Ruhms(4)
+Amulet of glory(5);Amulett des Ruhms(5)
+Amulet of glory(6);Amulett des Ruhms(6)
+Amulet of holthion;Amulett von Holthion
+Amulet of magic;Amulett der Magie
+Amulet of magic (t);Amulett der Magie (t)
+Amulet of nature;Amulett der Natur
+Amulet of othanian;Amulett von Othanian
+Amulet of power;Amulett der Macht
+Amulet of power (t);Amulett der Macht (t)
+Amulet of strength;Amulett der Stärke
+Amulet of the damned;Amulett der Verdammten
+Amulet of the damned (full);Amulett der Verdammten (voll)
+Amulet of torture;Amulett der Folter
+Amulet of torture (or);Amulett der Folter (oder)
+Amur leopard toy;Amur-Leoparden-Spielzeug
+Amy's saw;Amys Säge
+Amylase crystal;Amylase-Kristall
+Amylase pack;Amylase-Packung
+An empty box;Eine leere Kiste
+An empty folder;Ein leerer Ordner
+An indigo circle;Ein Indigo-Kreis
+An indigo pentagon;Ein indigofarbenes Fünfeck
+An indigo square;Ein Indigo-Quadrat
+An indigo triangle;Ein Indigo-Dreieck
+An orange circle;Ein orangefarbener Kreis
+An orange square;Ein orangefarbenes Quadrat
+An orange triangle;Ein orangefarbenes Dreieck
+Ana in a barrel;Ana in einem Fass
+Ancestral hat;Ahnenhut
+Ancestral key;Ahnenschlüssel
+Ancestral robe bottom;Unten im Ahnengewand
+Ancestral robe top;Oberteil der Ahnenrobe
+Ancestral robes set;Set mit Ahnengewändern
+Anchovies;Sardellen
+Anchovy oil;Sardellenöl
+Anchovy paste;Sardellenpaste
+Anchovy pizza;Sardellenpizza
+Ancient altar;Alter Altar
+Ancient armour;Antike Rüstung
+Ancient astroscope;Antikes Astroskop
+Ancient blessing;Alter Segen
+Ancient bracers;Antike Armschienen
+Ancient carcanet;Antikes Carcanet
+Ancient casket;Alter Sarg
+Ancient chaps;Alte Leute
+Ancient cloak;Alter Umhang
+Ancient coif;Alte Haube
+Ancient coin;Antike Münze
+Ancient crozier;Alter Krummstab
+Ancient crystal;Uralter Kristall
+Ancient d'hide body;Alter d'Hide-Körper
+Ancient d'hide boots;Uralte D'Hide-Stiefel
+Ancient d'hide shield;Alter D'Hide-Schild
+Ancient diary;Altes Tagebuch
+Ancient dragonhide set;Antikes Drachenleder-Set
+Ancient effigy;Antikes Bildnis
+Ancient emblem;Antikes Emblem
+Ancient full helm;Alter Vollhelm
+Ancient globe;Antiker Globus
+Ancient gorilla greegree;Uralter Gorilla-Greegree
+Ancient halo;Alter Heiligenschein
+Ancient halo (broken);Alter Heiligenschein (kaputt)
+Ancient halo (l);Alter Heiligenschein (l)
+Ancient key;Alter Schlüssel
+Ancient kiteshield;Alter Drachenschild
+Ancient ledger;Altes Hauptbuch
+Ancient letter;Alter Brief
+Ancient mace;Uralter Streitkolben
+Ancient magicks tablet;Uralte Zaubertafel
+Ancient medallion;Antikes Medaillon
+Ancient mitre;Alte Mitra
+Ancient note;Alte Notiz
+Ancient page;Alte Seite
+Ancient page 1;Antike Seite 1
+Ancient page 2;Antike Seite 2
+Ancient page 3;Antike Seite 3
+Ancient page 4;Antike Seite 4
+Ancient platebody;Alter Plattenkörper
+Ancient platelegs;Uralte Plattenbeine
+Ancient plateskirt;Alter Plattenrock
+Ancient relic;Antikes Relikt
+Ancient robe legs;Antike Robenbeine
+Ancient robe top;Antikes Gewandoberteil
+Ancient rune armour set (lg);Antikes Runenrüstungsset (lg)
+Ancient rune armour set (sk);Antikes Runenrüstungsset (sk)
+Ancient shard;Uralte Scherbe
+Ancient signet;Antikes Siegel
+Ancient staff;Alter Stab
+Ancient statuette;Antike Statuette
+Ancient stole;Antike Stola
+Ancient symbol;Antikes Symbol
+Ancient tablet;Alte Tafel
+Ancient talisman;Alter Talisman
+Ancient totem;Antikes Totem
+Ancient treatise;Antike Abhandlung
+Ancient writings;Alte Schriften
+Ancient wyvern shield;Alter Wyvern-Schild
+Anger battleaxe;Wut-Streitaxt
+Anger mace;Wut-Streitkolben
+Anger spear;Wutspeer
+Anger sword;Wutschwert
+Angler boots;Anglerstiefel
+Angler hat;Anglerhut
+Angler top;Angler-Oberteil
+Angler waders;Angler Watvögel
+Anglerfish;Seeteufel
+Anguish ornament kit;Anguish-Ornament-Set
+Animal skull;Tierschädel
+Animals' bones;Knochen von Tieren
+Animate rock scroll;Animierte Felsrolle
+Ankou gloves;Ankou-Handschuhe
+Ankou mask;Ankou-Maske
+Ankou socks;Ankou-Socken
+Ankou top;Ankou oben
+Ankou's leggings;Ankous Leggings
+Anna's print;Annas Druck
+Annakarl teleport;Annakarl-Teleport
+Anti-dragon shield;Anti-Drachen-Schild
+Anti-dragon shield (nz);Anti-Drachen-Schild (NZ)
+Anti-panties;Anti-Höschen
+Anti-poison supermix(1);Anti-Gift-Supermix(1)
+Anti-poison supermix(2);Anti-Gift-Supermix(2)
+Anti-present;Anti-Gegenwart
+Anti-venom(1);Gegengift(1)
+Anti-venom(2);Gegengift(2)
+Anti-venom(3);Gegengift(3)
+Anti-venom(4);Gegengift(4)
+Anti-venom+(1);Gegengift+(1)
+Anti-venom+(2);Gegengift+(2)
+Anti-venom+(3);Gegengift+(3)
+Anti-venom+(4);Gegengift+(4)
+Antidote+ (unf);Gegenmittel+ (unf)
+Antidote+ mix(1);Antidote+ Mischung(1)
+Antidote+ mix(2);Antidote+ Mischung(2)
+Antidote+(1);Gegenmittel+(1)
+Antidote+(2);Gegenmittel+(2)
+Antidote+(3);Gegenmittel+(3)
+Antidote+(4);Gegenmittel+(4)
+Antidote++ (unf);Gegenmittel++ (unf)
+Antidote++(1);Gegenmittel++(1)
+Antidote++(2);Gegenmittel++(2)
+Antidote++(3);Gegenmittel++(3)
+Antidote++(4);Gegenmittel++(4)
+Antifire mix(1);Feuerschutzmischung(1)
+Antifire mix(2);Feuerschutzmischung(2)
+Antifire potion(1);Antifeuertrank(1)
+Antifire potion(2);Antifeuertrank(2)
+Antifire potion(3);Antifeuertrank(3)
+Antifire potion(4);Antifeuertrank(4)
+Antipoison mix(1);Antigiftmischung(1)
+Antipoison mix(2);Antigiftmischung(2)
+Antipoison(1);Gegengift(1)
+Antipoison(2);Gegengift(2)
+Antipoison(3);Gegengift(3)
+Antipoison(4);Gegengift(4)
+Antique emblem (tier 1);Antikes Emblem (Stufe 1)
+Antique emblem (tier 10);Antikes Emblem (Stufe 10)
+Antique emblem (tier 2);Antikes Emblem (Stufe 2)
+Antique emblem (tier 3);Antikes Emblem (Stufe 3)
+Antique emblem (tier 4);Antikes Emblem (Stufe 4)
+Antique emblem (tier 5);Antikes Emblem (Stufe 5)
+Antique emblem (tier 6);Antikes Emblem (Stufe 6)
+Antique emblem (tier 7);Antikes Emblem (Stufe 7)
+Antique emblem (tier 8);Antikes Emblem (Stufe 8)
+Antique emblem (tier 9);Antikes Emblem (Stufe 9)
+Antique lamp;Antike Lampe
+Antisanta boots;Antisanta-Stiefel
+Antisanta gloves;Antisanta-Handschuhe
+Antisanta jacket;Antisanta-Jacke
+Antisanta mask;Antisanta-Maske
+Antisanta pantaloons;Antisanta-Pantalons
+Antisanta's coal box;Antisantas Kohlekiste
+Antisanta's coal box (full);Antisantas Kohlekiste (voll)
+Ape atoll teleport;Affenatoll-Teleport
+Apple barrel;Apfelfass
+Apple mush;Apfelbrei
+Apple pie;Apfelkuchen
+Apple sapling;Apfelsetzling
+Apple seedling;Apfelsämling
+Apple seedling (w);Apfelsämling (w)
+Apple tree seed;Apfelbaumsamen
+Apples(1);Äpfel(1)
+Apples(2);Äpfel(2)
+Apples(3);Äpfel(3)
+Apples(4);Äpfel(4)
+Apples(5);Äpfel(5)
+Apprentice wand;Lehrlingsstab
+Apricot cream pie;Aprikosencremetorte
+Arachnids of vampyrium;Spinnentiere des Vampyriums
+Arcane prayer scroll;Arkane Gebetsrolle
+Arcane sigil;Arkanes Siegel
+Arcane spirit shield;Arkaner Geisterschild
+Arcenia root;Arcenia-Wurzel
+Arceuus banner;Arceuus-Banner
+Arceuus favour certificate;Arceuus-Gunstzertifikat
+Arceuus hood;Arceuus-Kapuze
+Arceuus scarf;Arceuus-Schal
+Arceuus signet;Arceuus-Siegel
+Archaeologist's diary;Tagebuch des Archäologen
+Archaic emblem (tier 1);Archaisches Emblem (Stufe 1)
+Archaic emblem (tier 10);Archaisches Emblem (Stufe 10)
+Archaic emblem (tier 2);Archaisches Emblem (Stufe 2)
+Archaic emblem (tier 3);Archaisches Emblem (Stufe 3)
+Archaic emblem (tier 4);Archaisches Emblem (Stufe 4)
+Archaic emblem (tier 5);Archaisches Emblem (Stufe 5)
+Archaic emblem (tier 6);Archaisches Emblem (Stufe 6)
+Archaic emblem (tier 7);Archaisches Emblem (Stufe 7)
+Archaic emblem (tier 8);Archaisches Emblem (Stufe 8)
+Archaic emblem (tier 9);Archaisches Emblem (Stufe 9)
+Archer helm;Bogenschützenhelm
+Archers ring;Bogenschützen klingeln
+Archers ring (i);Bogenschützenring (i)
+Archery target;Bogenschießen-Ziel
+Archery ticket;Bogenschießen-Ticket
+Arclight;Arclight
+Arctic pine logs;Arktische Kiefernstämme
+Arctic pyre logs;Arktische Scheiterhaufenstämme
+Ardougne cloak;Ardougne-Umhang
+Ardougne cloak 1;Ardougne-Umhang 1
+Ardougne cloak 2;Ardougne-Umhang 2
+Ardougne cloak 3;Ardougne-Umhang 3
+Ardougne cloak 4;Ardougne-Umhang 4
+Ardougne knight helm;Ardougne-Ritterhelm
+Ardougne knight platebody;Ardougne-Ritter-Plattenpanzer
+Ardougne knight platelegs;Ardougne-Ritterplattenbeine
+Ardougne knight tabard;Wappenrock des Ardougne-Ritters
+Ardougne max cape;Ardougne Max Umhang
+Ardougne max hood;Ardougne Max Kapuze
+Ardougne teleport;Ardougne-Teleport
+Ardougne teleport scroll;Ardougne-Teleportschriftrolle
+Ardrigal;Ardrigal
+Ardrigal mixture;Ardrigal-Mischung
+Arena book;Arena-Buch
+Armadyl bracers;Armadyl-Armschienen
+Armadyl chainskirt;Armadyl-Kettenrock
+Armadyl chaps;Armadyl-Jungs
+Armadyl chestplate;Armadyl-Brustpanzer
+Armadyl cloak;Armadyl-Umhang
+Armadyl coif;Armadyl-Haube
+Armadyl crossbow;Armadyl-Armbrust
+Armadyl crozier;Armadyl Krummstab
+Armadyl d'hide body;Armadyl d'Hide-Körper
+Armadyl d'hide boots;Armadyl d'Hide-Stiefel
+Armadyl d'hide shield;Armadyl d'hide-Schild
+Armadyl dragonhide set;Armadyl-Drachenleder-Set
+Armadyl full helm;Armadyl-Vollhelm
+Armadyl godsword;Armadyl-Götterschwert
+Armadyl godsword (or);Armadyl-Götterschwert (oder)
+Armadyl godsword ornament kit;Armadyl-Götterschwert-Ornament-Set
+Armadyl halo;Armadyl-Heiligenschein
+Armadyl halo (broken);Armadyl-Heiligenschein (kaputt)
+Armadyl halo (l);Armadyl-Heiligenschein (l)
+Armadyl helmet;Armadyl-Helm
+Armadyl hilt;Armadyl-Griff
+Armadyl kiteshield;Armadyl-Drachenschild
+Armadyl mitre;Armadyl-Gehrung
+Armadyl page 1;Armadyl Seite 1
+Armadyl page 2;Armadyl Seite 2
+Armadyl page 3;Armadyl Seite 3
+Armadyl page 4;Armadyl Seite 4
+Armadyl pendant;Armadyl-Anhänger
+Armadyl platebody;Armadyl-Plattenpanzer
+Armadyl platelegs;Armadyl-Plattenbeine
+Armadyl plateskirt;Armadyl-Plattenrock
+Armadyl robe legs;Beine der Armadyl-Robe
+Armadyl robe top;Armadyl-Robenoberteil
+Armadyl rune armour set (lg);Armadyl-Rune-Rüstungsset (lg)
+Armadyl rune armour set (sk);Armadyl-Runenrüstungsset (sk)
+Armadyl stole;Armadyl hat gestohlen
+Armillary sphere;Armillarsphäre
+Armour shard;Rüstungssplitter
+Armour stand;Rüstungsständer
+Arms;Waffen
+Arrow shaft;Pfeilschaft
+Arrowheads;Pfeilspitzen
+Artefact;Artefakt
+Arthur portrait;Arthur-Porträt
+Asgarnian ale;Asgarnisches Bier
+Asgarnian ale(1);Asgarnisches Bier(1)
+Asgarnian ale(2);Asgarnisches Bier(2)
+Asgarnian ale(3);Asgarnisches Bier(3)
+Asgarnian ale(4);Asgarnisches Bier(4)
+Asgarnian ale(m);Asgarnisches Ale(m)
+Asgarnian ale(m1);Asgarnisches Bier (m1)
+Asgarnian ale(m2);Asgarnisches Bier (m2)
+Asgarnian ale(m3);Asgarnisches Bier (m3)
+Asgarnian ale(m4);Asgarnisches Bier (m4)
+Asgarnian hops;Asgarnischer Hopfen
+Asgarnian seed;Asgarnian-Samen
+Asgoldian ale;Asgoldian Ale
+Ash covered tome;Mit Asche bedeckter Wälzer
+Ashes;Asche
+Asleif's necklace;Asleifs Halskette
+Assembler max cape;Assembler Max Cape
+Assembler max cape (broken);Assembler-Max-Umhang (kaputt)
+Assembler max cape (l);Assembler Max Umhang (l)
+Assembler max hood;Assembler max Haube
+Assorted flowers;Verschiedene Blumen
+Astral rune;Astralrune
+Astral rune shards;Astrale Runensplitter
+Astral tiara;Astral-Tiara
+Astronomical chart;Astronomische Karte
+Astronomy book;Astronomiebuch
+Asyn remains;Asyn bleibt
+Attack cape;Angriffsumhang
+Attack cape(t);Angriffsumhang(t)
+Attack hood;Angriffshaube
+Attack mix(1);Angriffsmix(1)
+Attack mix(2);Angriffsmix(2)
+Attack potion(1);Angriffstrank(1)
+Attack potion(2);Angriffstrank(2)
+Attack potion(3);Angriffstrank(3)
+Attack potion(4);Angriffstrank(4)
+Attack stone;Angriffsstein
+Attacker horn;Angreiferhorn
+Attacker icon;Angreifer-Symbol
+Attas seed;Attas-Samen
+Auguste's sapling;Augustes Schössling
+Autumn garden;Herbstgarten
+Autumn sq'irk;Herbst-Quatsch
+Autumn sq'irkjuice;Herbstlicher Squashsaft
+Ava's accumulator;Avas Akku
+Ava's assembler;Avas Assembler
+Ava's assembler (broken);Avas Assembler (kaputt)
+Ava's assembler (l);Avas Assembler (l)
+Ava's attractor;Avas Attraktor
+Avantoe;Avantoe
+Avantoe potion (unf);Avantoe-Trank (unf)
+Avantoe seed;Avantoe-Samen
+Avernic defender;Avernic-Verteidiger
+Avernic defender (broken);Avernic-Verteidiger (kaputt)
+Avernic defender (l);Avernic-Verteidiger (l.)
+Avernic defender hilt;Avernic-Verteidigergriff
+Awful anthem;Schreckliche Hymne
+Axe handle;Axtstiel
+Axe head;Axtkopf
+Axeman's folly;Axemans Torheit
+Axeman's folly(1);Axemans Torheit(1)
+Axeman's folly(2);Axemans Torheit(2)
+Axeman's folly(3);Axemans Torheit(3)
+Axeman's folly(4);Axemans Torheit(4)
+Axeman's folly(m);Axeman's Torheit(m)
+Axeman's folly(m1);Axemans Torheit(m1)
+Axeman's folly(m2);Axemans Torheit (m2)
+Axeman's folly(m3);Axemans Torheit (m3)
+Axeman's folly(m4);Axemans Torheit (m4)
+Baby chinchompa;Baby Chinchompa
+Baby dragon bone;Baby-Drachenknochen
+Baby dragon bonemeal;Knochenmehl für Babydrachen
+Baby impling jar;Baby-Impling-Glas
+Baby mole;Baby-Maulwurf
+Baby mole-rat;Baby-Maulwurfsratte
+Baby red dragon;Baby-roter Drache
+Babydragon bones;Babydrachenknochen
+Bag full of gems;Tasche voller Edelsteine
+Bag of salt;Beutel Salz
+Bagged bluebells;Eingesackte Glockenblumen
+Bagged daffodils;Eingepackte Narzissen
+Bagged dead tree;Eingesackter toter Baum
+Bagged flower;Eingepackte Blume
+Bagged magic tree;Eingepackter Zauberbaum
+Bagged maple tree;Eingesackter Ahornbaum
+Bagged marigolds;Eingepackte Ringelblumen
+Bagged nice tree;Eingepackter schöner Baum
+Bagged oak tree;Eingesackte Eiche
+Bagged plant 1;Verpackte Pflanze 1
+Bagged plant 2;Verpackte Pflanze 2
+Bagged plant 3;Verpackte Pflanze 3
+Bagged roses;Eingepackte Rosen
+Bagged sunflower;Eingepackte Sonnenblume
+Bagged willow tree;Eingesackter Weidenbaum
+Bagged yew tree;Eingesackte Eibe
+Baguette;Baguette
+Bailing bucket;Schöpfkübel
+Bait pack;Köderpackung
+Baked potato;Ofenkartoffel
+Bakery storage key;Aufbewahrungsschlüssel für die Bäckerei
+Balance beam;Schwebebalken
+Ball;Ball
+Ball of wool;Wollknäuel
+Ballad;Ballade
+Ballad of the basilisk;Ballade vom Basilisken
+Ballista limbs;Ballista-Gliedmaßen
+Ballista spring;Ballistenfeder
+Balloon structure;Ballonstruktur
+Balloon toad;Ballonkröte
+Banana;Banane
+Banana cape;Bananenumhang
+Banana sapling;Bananensetzling
+Banana seedling;Bananensetzling
+Banana seedling (w);Bananensämling (w)
+Banana stew;Bananeneintopf
+Banana tree seed;Bananenbaumsamen
+Bananas(1);Bananen(1)
+Bananas(2);Bananen(2)
+Bananas(3);Bananen(3)
+Bananas(4);Bananen(4)
+Bananas(5);Bananen(5)
+Bandages;Bandagen
+Bandana eyepatch;Bandana-Augenklappe
+Bandit;Bandit
+Bandit's brew;Banditengebräu
+Bandos boots;Bandos-Stiefel
+Bandos bracers;Bandos-Armschienen
+Bandos chaps;Bandos, Jungs
+Bandos chestplate;Bandos-Brustpanzer
+Bandos cloak;Bandos-Umhang
+Bandos coif;Bandos-Haube
+Bandos crozier;Bandos Krummstab
+Bandos d'hide body;Bandos d'hide-Körper
+Bandos d'hide boots;Bandos d'Hide-Stiefel
+Bandos d'hide shield;Bandos d'hide-Schild
+Bandos dragonhide set;Bandos Drachenleder-Set
+Bandos full helm;Bandos voller Helm
+Bandos godsword;Bandos Götterschwert
+Bandos godsword (or);Bandos Götterschwert (oder)
+Bandos godsword ornament kit;Bandos Götterschwert-Ornament-Set
+Bandos halo;Bandos Heiligenschein
+Bandos halo (broken);Bandos-Heiligenschein (kaputt)
+Bandos halo (l);Bandos-Heiligenschein (l)
+Bandos hilt;Bandos-Griff
+Bandos kiteshield;Bandos Kiteshield
+Bandos mitre;Bandos-Gehrung
+Bandos page 1;Bandos Seite 1
+Bandos page 2;Bandos Seite 2
+Bandos page 3;Bandos Seite 3
+Bandos page 4;Bandos Seite 4
+Bandos platebody;Bandos-Plattenkörper
+Bandos platelegs;Bandos-Plattenbeine
+Bandos plateskirt;Bandos Tellerrock
+Bandos robe legs;Bandos-Robenbeine
+Bandos robe top;Bandos-Robenoberteil
+Bandos rune armour set (lg);Bandos Runenrüstungsset (lg)
+Bandos rune armour set (sk);Bandos Runenrüstungsset (sk)
+Bandos stole;Bandos hat gestohlen
+Bandos tassets;Bandos-Täschchen
+Bank filler;Bankfüller
+Bank key;Bankschlüssel
+Banner;Banner
+Banner easel;Banner-Staffelei
+Banner stand;Bannerständer
+Banshee;Banshee
+Banshee mask;Banshee-Maske
+Banshee robe;Banshee-Robe
+Banshee top;Banshee-Oberteil
+Bar magnet;Stabmagnet
+Barb bolttips;Bolzenspitzen mit Widerhaken
+Barb-tail harpoon;Widerhakenschwanzharpune
+Barbarian rod;Barbarenrute
+Barbarian skills;Barbarenfähigkeiten
+Barbarian teleport;Barbarenteleport
+Barbed arrow;Stachelpfeil
+Barbed bolts;Widerhakenbolzen
+Barcrawl card;Barcrawl-Karte
+Bark;Bellen
+Bark sample;Rindenprobe
+Barley;Gerste
+Barley malt;Gerstenmalz
+Barley seed;Gerstensamen
+Barrel;Fass
+Barrel bomb;Fassbombe
+Barrel of coal tar;Fass Kohlenteer
+Barrel of naphtha;Fass Naphtha
+Barrelchest anchor;Tonnenanker
+Barricade;Barrikade
+Barronite deposit;Barronit-Lagerstätte
+Barronite guard;Barronitenwache
+Barronite handle;Griff aus Barronit
+Barronite head;Barronit-Kopf
+Barronite mace;Barronit-Streitkolben
+Barronite mace (broken);Barronit-Streitkolben (kaputt)
+Barronite mace (l);Barronit-Streitkolben (l)
+Barronite shards;Barronit-Scherben
+Barrows gloves;Barrows-Handschuhe
+Barrows teleport;Barrows teleportieren
+Basalt;Basalt
+Base schematics;Grundschaltpläne
+Basic jewellery box;Einfache Schmuckschatulle
+Basilisk;Basilisk
+Basilisk bone;Basiliskenknochen
+Basilisk head;Basiliskenkopf
+Basilisk jaw;Basiliskenkiefer
+Basilisk knight;Basiliskenritter
+Basket;Korb
+Basket pack;Korbpackung
+Bass;Bass
+Bastion potion(1);Bastionstrank(1)
+Bastion potion(2);Bastionstrank(2)
+Bastion potion(3);Bastionstrank(3)
+Bastion potion(4);Bastionstrank(4)
+Bat bonemeal;Fledermausknochenmehl
+Bat bones;Fledermausknochen
+Bat shish;Fledermaus-Schaschlik
+Bat wing;Fledermausflügel
+Batta tin;Batta-Dose
+Battered book;Abgenutztes Buch
+Battered key;Abgenutzter Schlüssel
+Battlefront teleport;Battlefront-Teleport
+Battlemage potion(1);Kampfmagiertrank(1)
+Battlemage potion(2);Kampfmagiertrank(2)
+Battlemage potion(3);Kampfmagiertrank(3)
+Battlemage potion(4);Kampfmagiertrank(4)
+Battlestaff;Kampfstab
+Bauble box;Kugelschachtel
+Beach boxing gloves;Strandboxhandschuhe
+Beacon ring;Leuchtfeuerring
+Beads of the dead;Perlen der Toten
+Beam;Strahl
+Beanie;Mütze
+Bear feet;Bärenfüße
+Bear fur;Bärenfell
+Bear ribs;Bärenrippen
+Bearded gorilla bonemeal;Knochenmehl des Bartgorillas
+Bearded gorilla greegree;Bärtiger Gorilla Greegree
+Bearhead;Bärenkopf
+Beaten book;Geschlagenes Buch
+Beaver;Biber
+Bedabin key;Schlüssel fürs Bett
+Bedroom;Schlafzimmer
+Bedsheet;Bettlaken
+Beef fillet;Rinderfilet
+Beekeeper's boots;Imkerstiefel
+Beekeeper's gloves;Imkerhandschuhe
+Beekeeper's hat;Imkerhut
+Beekeeper's legs;Beine des Imkers
+Beekeeper's top;Oberteil des Imkers
+Beer;Bier
+Beer barrel;Bierfass
+Beer glass;Bierglas
+Beer soaked hand;Mit Bier getränkte Hand
+Beer tankard;Bierkrug
+Beginner wand;Anfängerstab
+Bell bauble;Glockenkugel
+Bell jar;Glocke
+Bell-pull;Klingelzug
+Belladonna seed;Belladonna-Samen
+Bells;Glocken
+Belt buckle;Gürtelschnalle
+Bench with lathe;Bank mit Drehbank
+Bench with vice;Bank mit Schraubstock
+Beret mask;Baskenmütze-Maske
+Berserker helm;Berserker-Helm
+Berserker necklace;Berserker-Halskette
+Berserker necklace (or);Berserker-Halskette (oder)
+Berserker necklace ornament kit;Berserker-Halsketten-Ornament-Set
+Berserker ring;Berserker-Ring
+Berserker ring (i);Berserkerring (i)
+Bert's rota;Berts Dienstplan
+Bervirius notes;Notizen von Bervirius
+Big bass;Großer Bass
+Big bonemeal;Großes Knochenmehl
+Big bones;Große Knochen
+Big book of bangs;Großes Buch voller Pony
+Big fishing net;Großes Fischernetz
+Big frog leg;Großes Froschschenkel
+Big harpoonfish;Großer Harpunenfisch
+Big pirate hat;Großer Piratenhut
+Big shark;Großer Hai
+Big swordfish;Großer Schwertfisch
+Binding book;Einbandbuch
+Binding fluid;Bindeflüssigkeit
+Binding necklace;Bindende Halskette
+Bird book;Vogelbuch
+Bird feed;Vogelfutter
+Bird house;Vogelhaus
+Bird nest;Vogelnest
+Bird snare;Vogelfalle
+Bird snare pack;Vogelschlingenpaket
+Bird's egg;Vogelei
+Birthday balloons;Geburtstagsballons
+Birthday cake;Geburtstagskuchen
+Birthday present;Geburtstagsgeschenk
+Bitter chocolate mix;Bitterschokoladenmischung
+Bitter easter egg;Bitteres Osterei
+Bitternut;Bitternuss
+Black 2h sword;Schwarzes 2-Stunden-Schwert
+Black axe;Schwarze Axt
+Black axe head;Schwarzer Axtkopf
+Black balloon;Schwarzer Ballon
+Black battleaxe;Schwarze Streitaxt
+Black bead;Schwarze Perle
+Black beret;Schwarze Baskenmütze
+Black boater;Schwarzer Bootsfahrer
+Black boots;Schwarze Stiefel
+Black brutal;Schwarz brutal
+Black candle;Schwarze Kerze
+Black candy;Schwarze Süßigkeiten
+Black cane;Schwarzer Stock
+Black cape;Schwarzer Umhang
+Black cavalier;Schwarzer Kavalier
+Black chainbody;Schwarzer Kettenkörper
+Black chinchompa;Schwarzer Chinchompa
+Black claws;Schwarze Krallen
+Black coffin;Schwarzer Sarg
+Black cog;Schwarzes Zahnrad
+Black crystal;Schwarzer Kristall
+Black d'hide body;Schwarzer D'Hide-Körper
+Black d'hide body (beta);Black d'Hide-Körper (Beta)
+Black d'hide body (g);Schwarzer D'Hide-Körper (g)
+Black d'hide body (t);Schwarzer D'Hide-Körper (t)
+Black d'hide chaps;Black d'Hide Chaps
+Black d'hide chaps (beta);Black d'Hide Chaps (Beta)
+Black d'hide chaps (g);Black d'Hide Chaps (g)
+Black d'hide chaps (t);Black d'Hide Chaps (t)
+Black d'hide shield;Schwarzer Hide-Schild
+Black d'hide vambraces;Unterarmschienen aus schwarzem Leder
+Black d'hide vambraces (beta);Unterarmschienen aus schwarzem Leder (Beta)
+Black dagger;Schwarzer Dolch
+Black dagger(p);Schwarzer Dolch(p)
+Black dagger(p+);Schwarzer Dolch (p+)
+Black dagger(p++);Schwarzer Dolch (p++)
+Black dart;Schwarzer Pfeil
+Black dart(p);Schwarzer Pfeil(p)
+Black dart(p+);Schwarzer Pfeil(p+)
+Black dart(p++);Schwarzer Pfeil (p++)
+Black defender;Schwarzer Verteidiger
+Black defender (broken);Schwarzer Verteidiger (kaputt)
+Black defender (l);Schwarzer Verteidiger (l)
+Black demon mask;Schwarze Dämonenmaske
+Black desert robe;Schwarzes Wüstengewand
+Black desert shirt;Schwarzes Wüstenhemd
+Black destabiliser;Schwarzer Destabilisator
+Black dragon leather;Schwarzes Drachenleder
+Black dragon mask;Schwarze Drachenmaske
+Black dragonhide;Schwarzes Drachenleder
+Black dragonhide set;Set aus schwarzem Drachenleder
+Black elegant legs;Schwarze, elegante Beine
+Black elegant shirt;Schwarzes elegantes Hemd
+Black flowers;Schwarze Blumen
+Black full helm;Schwarzer Vollhelm
+Black full helm (g);Schwarzer Vollhelm (g)
+Black full helm (t);Schwarzer Vollhelm (t)
+Black gloves;Schwarze Handschuhe
+Black goblin mail;Schwarze Koboldpost
+Black gold-trimmed set (lg);Set mit schwarzem Goldbesatz (lg)
+Black gold-trimmed set (sk);Set mit schwarzem Goldbesatz (sk)
+Black h'ween mask;Schwarze H'ween-Maske
+Black halberd;Schwarze Hellebarde
+Black headband;Schwarzes Stirnband
+Black helm (h1);Schwarzer Helm (h1)
+Black helm (h2);Schwarzer Helm (h2)
+Black helm (h3);Schwarzer Helm (h3)
+Black helm (h4);Schwarzer Helm (h4)
+Black helm (h5);Schwarzer Helm (h5)
+Black key black;Schwarzer Schlüssel schwarz
+Black key brown;Schwarzer Schlüssel braun
+Black key crimson;Schwarzer Schlüssel purpurrot
+Black key purple;Schwarzer Schlüssel lila
+Black key red;Schwarzer Schlüssel rot
+Black kiteshield;Schwarzer Drachenschild
+Black kiteshield (g);Schwarzer Kiteshield (g)
+Black kiteshield (t);Schwarzer Kiteshield (t)
+Black knife;Schwarzes Messer
+Black knife(p);Schwarzes Messer(p)
+Black knife(p+);Schwarzes Messer(p+)
+Black knife(p++);Schwarzes Messer (p++)
+Black knight helm;Schwarzer Ritterhelm
+Black leprechaun hat;Schwarzer Koboldhut
+Black locks;Schwarze Schlösser
+Black longsword;Schwarzes Langschwert
+Black mace;Schwarzer Streitkolben
+Black mask;Schwarze Maske
+Black mask (1);Schwarze Maske (1)
+Black mask (1) (i);Schwarze Maske (1) (i)
+Black mask (10);Schwarze Maske (10)
+Black mask (10) (i);Schwarze Maske (10) (i)
+Black mask (2);Schwarze Maske (2)
+Black mask (2) (i);Schwarze Maske (2) (i)
+Black mask (3);Schwarze Maske (3)
+Black mask (3) (i);Schwarze Maske (3) (i)
+Black mask (4);Schwarze Maske (4)
+Black mask (4) (i);Schwarze Maske (4) (i)
+Black mask (5);Schwarze Maske (5)
+Black mask (5) (i);Schwarze Maske (5) (i)
+Black mask (6);Schwarze Maske (6)
+Black mask (6) (i);Schwarze Maske (6) (i)
+Black mask (7);Schwarze Maske (7)
+Black mask (7) (i);Schwarze Maske (7) (i)
+Black mask (8);Schwarze Maske (8)
+Black mask (8) (i);Schwarze Maske (8) (i)
+Black mask (9);Schwarze Maske (9)
+Black mask (9) (i);Schwarze Maske (9) (i)
+Black mask (i);Schwarze Maske (i)
+Black med helm;Schwarzer medizinischer Helm
+Black mushroom;Schwarzer Pilz
+Black mushroom ink;Schwarze Pilztinte
+Black nails;Schwarze Nägel
+Black naval shirt;Schwarzes Marinehemd
+Black navy slacks;Schwarze, marineblaue Hose
+Black partyhat;Schwarzer Partyhut
+Black pick head;Schwarzer Pickelkopf
+Black pickaxe;Schwarze Spitzhacke
+Black platebody;Schwarzer Plattenkörper
+Black platebody (g);Schwarzer Plattenkörper (g)
+Black platebody (h1);Schwarzer Plattenkörper (h1)
+Black platebody (h2);Schwarzer Plattenkörper (h2)
+Black platebody (h3);Schwarzer Plattenkörper (h3)
+Black platebody (h4);Schwarzer Plattenkörper (h4)
+Black platebody (h5);Schwarzer Plattenkörper (h5)
+Black platebody (t);Schwarzer Plattenkörper (t)
+Black platelegs;Schwarze Plattenbeine
+Black platelegs (g);Schwarze Plattenbeine (g)
+Black platelegs (t);Schwarze Plattenbeine (t)
+Black plateskirt;Schwarzer Plattenrock
+Black plateskirt (g);Schwarzer Plattenrock (g)
+Black plateskirt (t);Schwarzer Plattenrock (t)
+Black prism;Schwarzes Prisma
+Black robe;Schwarzes Gewand
+Black salamander;Schwarzer Salamander
+Black santa hat;Schwarze Weihnachtsmütze
+Black satchel;Schwarze Umhängetasche
+Black scimitar;Schwarzer Krummsäbel
+Black set (lg);Schwarzes Set (lg)
+Black set (sk);Schwarzer Satz (sk)
+Black shield (h1);Schwarzer Schild (h1)
+Black shield (h2);Schwarzer Schild (h2)
+Black shield (h3);Schwarzer Schild (h3)
+Black shield (h4);Schwarzer Schild (h4)
+Black shield (h5);Schwarzer Schild (h5)
+Black skirt;Schwarzer Rock
+Black skirt (g);Schwarzer Rock (g)
+Black skirt (t);Schwarzer Rock (t)
+Black slayer helmet;Schwarzer Jägerhelm
+Black slayer helmet (i);Schwarzer Jägerhelm (i)
+Black spear;Schwarzer Speer
+Black spear(kp);Schwarzer Speer (kp)
+Black spear(p);Schwarzer Speer(p)
+Black spear(p+);Schwarzer Speer(p+)
+Black spear(p++);Schwarzer Speer (p++)
+Black spiky vambraces;Schwarze, spitze Unterarmschienen
+Black sq shield;Schwarzer quadratischer Schild
+Black sword;Schwarzes Schwert
+Black tourmaline core;Schwarzer Turmalinkern
+Black toy horsey;Schwarzes Spielzeugpferd
+Black tricorn hat;Schwarzer Dreispitz
+Black trimmed set (lg);Schwarz getrimmtes Set (lg)
+Black trimmed set (sk);Schwarz getrimmtes Set (sk)
+Black unicorn mask;Schwarze Einhornmaske
+Black warhammer;Schwarzer Kriegshammer
+Black warlock;Schwarzer Hexenmeister
+Black wizard hat (g);Schwarzer Zaubererhut (g)
+Black wizard hat (t);Schwarzer Zaubererhut (t)
+Black wizard robe (g);Schwarze Zaubererrobe (g)
+Black wizard robe (t);Schwarzes Zauberergewand (t)
+Blackened crystal;Geschwärzter Kristall
+Blacksmith's helm;Schmiedehelm
+Blade of saeldor;Klinge von Saeldor
+Blade of saeldor (c);Klinge von Saeldor (c)
+Blade of saeldor (inactive);Klinge von Saeldor (inaktiv)
+Blamish bark shell;Blamish-Rindenschale
+Blamish blue shell;Blamish blaue Muschel
+Blamish myre shell;Blamish Myre Shell
+Blamish ochre shell;Blamish ockerfarbene Muschel
+Blamish oil;Blamish-Öl
+Blamish red shell;Blamish rote Schale
+Blamish snail slime;Blamish Schneckenschleim
+Blank air rune;Leere Luftrune
+Blank earth rune;Leere Erdrune
+Blank fire rune;Leere Feuerrune
+Blank mind rune;Rune des leeren Geistes
+Blank water rune;Leere Wasserrune
+Blasted ore;Gesprengtes Erz
+Bleached bones;Gebleichte Knochen
+Blessed axe;Gesegnete Axt
+Blessed gold bowl;Gesegnete Goldschale
+Blessed lamp;Gesegnete Lampe
+Blessed pot;Gesegneter Topf
+Blessed spirit shield;Gesegneter Geisterschild
+Blessed water;Gesegnetes Wasser
+Blighted ancient ice sack;Verdorbener uralter Eissack
+Blighted anglerfish;Verdorbener Seeteufel
+Blighted bind sack;Verdorbener Bindesack
+Blighted entangle sack;Verdorbener Verstrickungssack
+Blighted karambwan;Verdorbener Karambwan
+Blighted manta ray;Verdorbener Mantarochen
+Blighted snare sack;Verdorbener Schlingensack
+Blighted super restore(1);Verdorbene Superwiederherstellung(1)
+Blighted super restore(2);Verdorbene Superwiederherstellung(2)
+Blighted super restore(3);Verdorbene Superwiederherstellung(3)
+Blighted super restore(4);Verdorbene Superwiederherstellung(4)
+Blighted teleport spell sack;Verdorbener Teleport-Zaubersack
+Blighted vengeance sack;Verdorbener Rachesack
+Blindweed;Blindkraut
+Blindweed seed;Blindkrautsamen
+Blisterwood flail;Blisterwood-Schlegel
+Blisterwood logs;Blisterwood-Stämme
+Blisterwood sickle;Blisterwood-Sichel
+Bloated toad;Aufgedunsene Kröte
+Blood diamond;Blutdiamant
+Blood money;Blutgeld
+Blood pint;Blut Pint
+Blood potion;Bluttrank
+Blood rune;Blutrune
+Blood rune (nz);Blutrune (nz)
+Blood shard;Blutsplitter
+Blood tithe pouch;Beutel mit Blutzehnten
+Blood'n'tar snelm;Blood'n'tar Snelm
+Bloodbark body;Bloodbark-Körper
+Bloodbark boots;Blutrindenstiefel
+Bloodbark gauntlets;Blutrinden-Stulpen
+Bloodbark helm;Bloodbark-Helm
+Bloodbark legs;Bloodbark-Beine
+Bloodhound;Bluthund
+Bloodier key;Blutigerer Schlüssel
+Bloodveld;Blutveld
+Bloody bracer;Verdammte Armschiene
+Bloody diary;Blutiges Tagebuch
+Bloody grimoire;Blutiges Zauberbuch
+Bloody head;Blutiger Kopf
+Bloody key;Verdammter Schlüssel
+Bloody mourner top;Blutiges Traueroberteil
+Bloody notes;Blutige Notizen
+Bludgeon axon;Knüppel-Axon
+Bludgeon claw;Knüppelklaue
+Bludgeon spine;Knüppelrücken
+Blue balloon;Blauer Ballon
+Blue beret;Blaue Baskenmütze
+Blue boater;Blauer Bootsfahrer
+Blue boots;Blaue Stiefel
+Blue candy;Blaue Süßigkeiten
+Blue cape;Blauer Umhang
+Blue cog;Blaues Zahnrad
+Blue crystal;Blauer Kristall
+Blue d'hide body;Blauer Körper
+Blue d'hide body (g);Blue d'hide-Körper (g)
+Blue d'hide body (t);Blauer Körper (t)
+Blue d'hide chaps;Blue d'Hide Chaps
+Blue d'hide chaps (g);Blue d'Hide Chaps (g)
+Blue d'hide chaps (t);Blaue Chaps (t)
+Blue d'hide shield;Blue d'hide-Schild
+Blue d'hide vambraces;Unterarmschienen aus blauem Leder
+Blue dark bow paint;Blaue dunkle Bogenfarbe
+Blue destabiliser;Blauer Destabilisator
+Blue dragon leather;Blaues Drachenleder
+Blue dragon mask;Blaue Drachenmaske
+Blue dragon scale;Blaue Drachenschuppe
+Blue dragonhide;Blaues Drachenleder
+Blue dragonhide set;Set aus blauem Drachenleder
+Blue dye;Blauer Farbstoff
+Blue dye bellows;Blauer Farbstoffbalg
+Blue egg;Blaues Ei
+Blue elegant blouse;Blaue elegante Bluse
+Blue elegant legs;Blaue, elegante Beine
+Blue elegant shirt;Blaues elegantes Hemd
+Blue elegant skirt;Blauer eleganter Rock
+Blue feather;Blaue Feder
+Blue firelighter;Blauer Feueranzünder
+Blue flowers;Blaue Blumen
+Blue gingerbread shield;Blauer Lebkuchenschild
+Blue goblin mail;Blaue Koboldpost
+Blue halloween mask;Blaue Halloween-Maske
+Blue hat;Blauer Hut
+Blue headband;Blaues Stirnband
+Blue icon;Blaues Symbol
+Blue liquid;Blaue Flüssigkeit
+Blue logs;Blaue Protokolle
+Blue marionette;Blaue Marionette
+Blue monkey;Blauer Affe
+Blue naval shirt;Blaues Marinehemd
+Blue navy slacks;Blaue, marineblaue Hose
+Blue partyhat;Blauer Partyhut
+Blue rainbow strand;Blauer Regenbogenstrang
+Blue robe bottoms;Blaue Robenhose
+Blue robe top;Blaues Morgenmanteloberteil
+Blue skirt;Blauer Rock
+Blue skirt (g);Blauer Rock (g)
+Blue skirt (t);Blauer Rock (t)
+Blue spiky vambraces;Blaue, spitze Unterarmschienen
+Blue sweets;Blaue Süßigkeiten
+Blue thread;Blauer Faden
+Blue toad;Blaue Kröte
+Blue tricorn hat;Blauer Dreispitzhut
+Blue wizard hat;Blauer Zaubererhut
+Blue wizard hat (g);Blauer Zaubererhut (g)
+Blue wizard hat (t);Blauer Zaubererhut (t)
+Blue wizard robe;Blaues Zauberergewand
+Blue wizard robe (g);Blaue Zaubererrobe (g)
+Blue wizard robe (t);Blaues Zauberergewand (t)
+Bluebells;Glockenblumen
+Bluegill;Bluegill
+Blunt arrow;Stumpfer Pfeil
+Blunt axe;Stumpfe Axt
+Blurberry special;Blurberry-Spezial
+Blurite bar;Blurite-Leiste
+Blurite bolts;Blurite-Bolzen
+Blurite bolts (p);Blurite-Bolzen (p)
+Blurite bolts (p+);Blurite-Bolzen (p+)
+Blurite bolts (p++);Blurite-Bolzen (p++)
+Blurite bolts (unf);Blurite-Bolzen (unf)
+Blurite crossbow;Blurite-Armbrust
+Blurite crossbow (u);Blurite-Armbrust (u)
+Blurite limbs;Blurite-Gliedmaßen
+Blurite ore;Blurit-Erz
+Blurite sword;Blurite-Schwert
+Board game piece;Brettspielstück
+Bob icon;Bob-Symbol
+Bob's black shirt;Bobs schwarzes Hemd
+Bob's blue shirt;Bobs blaues Hemd
+Bob's green shirt;Bobs grünes Hemd
+Bob's print;Bobs Druck
+Bob's purple shirt;Bobs lila Hemd
+Bob's red shirt;Bobs rotes Hemd
+Bobble hat;Bommelmütze
+Bobble scarf;Bommelschal
+Body core;Körperkern
+Body rune;Körperrune
+Body talisman;Körpertalisman
+Body tiara;Körper-Tiara
+Bologa's blessing;Bologas Segen
+Bologano fruit;Bologano-Frucht
+Bologano seed;Bologano-Samen
+Bolt mould;Bolzenform
+Bolt of cloth;Stoffballen
+Bolt pouch;Bolzentasche
+Bolt rack;Bolzengestell
+Bomber cap;Bombermütze
+Bomber jacket;Bomberjacke
+Bone beads;Knochenperlen
+Bone bolt pack;Knochenbolzenpaket
+Bone bolts;Knochenbolzen
+Bone cage;Knochenkäfig
+Bone charm;Knochenanhänger
+Bone club;Knochenkeule
+Bone dagger;Knochendolch
+Bone dagger (p);Knochendolch (p)
+Bone dagger (p+);Knochendolch (p+)
+Bone dagger (p++);Knochendolch (p++)
+Bone fragments;Knochenfragmente
+Bone in vinegar;Knochen in Essig
+Bone key;Knochenschlüssel
+Bone seeds;Knochensamen
+Bone shard;Knochensplitter
+Bone spear;Knochenspeer
+Bonecrusher;Knochenbrecher
+Bonecrusher necklace;Knochenbrecher-Halskette
+Bonemeal;Knochenmehl
+Bones;Knochen
+Bones to bananas;Von Knochen zu Bananen
+Bones to peaches;Knochen zu Pfirsichen
+Bonesack;Knochensack
+Book;Buch
+Book o' piracy;Buch der Piraterie
+Book of 'h.a.m';Buch von 'h.a.m'
+Book of arcane knowledge;Buch des arkanen Wissens
+Book of balance;Buch der Bilanz
+Book of balance page set;Seitensatz „Book of Balance“.
+Book of darkness;Buch der Dunkelheit
+Book of darkness page set;Seitenset „Buch der Dunkelheit“.
+Book of folklore;Buch der Folklore
+Book of haricanto;Buch des Haricanto
+Book of knowledge;Buch des Wissens
+Book of law;Buch des Gesetzes
+Book of law page set;Seitensatz für das Gesetzbuch
+Book of portraiture;Buch der Porträtmalerei
+Book of spyology;Buch der Spionage
+Book of war;Buch des Krieges
+Book of war page set;Seitenset „Buch des Krieges“.
+Book on baxtorian;Buch über Baxtorian
+Book on chemicals;Buch über Chemikalien
+Book on chickens;Buch über Hühner
+Book on costumes;Buch über Kostüme
+Book page 1;Buchseite 1
+Book page 2;Buchseite 2
+Book page 3;Buchseite 3
+Bookcase;Bücherregal
+Boots of brimstone;Stiefel aus Schwefel
+Boots of darkness;Stiefel der Dunkelheit
+Boots of lightness;Stiefel der Leichtigkeit
+Boots of stone;Stiefel aus Stein
+Boss lair display;Boss-Versteck-Anzeige
+Botanical pie;Botanischer Kuchen
+Bottle of wine;Flasche Wein
+Bottled dragonbreath;In Flaschen abgefüllter Drachenatem
+Bottled dragonbreath (unpowered);Flaschendrachenatem (ohne Energie)
+Bottled water;Wasser in Flaschen
+Bottom of sceptre;Unterseite des Zepters
+Bottomless compost bucket;Komposteimer ohne Boden
+Boundary stones;Grenzsteine
+Bounty crate;Kopfgeldkiste
+Bounty hunter hat (tier 1);Kopfgeldjägerhut (Stufe 1)
+Bounty hunter hat (tier 2);Kopfgeldjägerhut (Stufe 2)
+Bounty hunter hat (tier 3);Kopfgeldjägerhut (Stufe 3)
+Bounty hunter hat (tier 4);Kopfgeldjägerhut (Stufe 4)
+Bounty hunter hat (tier 5);Kopfgeldjägerhut (Stufe 5)
+Bounty hunter hat (tier 6);Kopfgeldjägerhut (Stufe 6)
+Bow and arrow;Pfeil und Bogen
+Bow string;Bogensehne
+Bow-sword;Bogenschwert
+Bowl;Schüssel
+Bowl of blue water;Schüssel mit blauem Wasser
+Bowl of fish;Schüssel mit Fisch
+Bowl of hot water;Schüssel mit heißem Wasser
+Bowl of red water;Schüssel mit rotem Wasser
+Bowl of water;Schüssel mit Wasser
+Bowl wig;Schüsselperücke
+Box bauble;Schachtelkugel
+Box of chocolate strawberries;Schachtel Schokoladenerdbeeren
+Box trap;Kastenfalle
+Box trap pack;Box-Trap-Packung
+Boxing gloves;Boxhandschuhe
+Boxing ring;Boxring
+Bp obj;Bp obj
+Bracelet mould;Armbandform
+Bracelet of clay;Armband aus Ton
+Bracelet of ethereum;Armband aus Ethereum
+Bracelet of ethereum (uncharged);Armband aus Ethereum (ungeladen)
+Bracelet of slaughter;Armband des Schlachtens
+Brain tongs;Gehirnzange
+Braindeath 'rum';Hirntod 'Rum'
+Branch;Zweig
+Brandy;Brandy
+Brass key;Schlüssel aus Messing
+Brass necklace;Halskette aus Messing
+Brassica halo;Brassica-Heiligenschein
+Brassica halo (broken);Brassica-Heiligenschein (gebrochen)
+Brassica halo (l);Brassica Halo (l)
+Bravery potion;Tapferkeitstrank
+Brawk fish (3);Brackfisch (3)
+Bread;Brot
+Bread dough;Brotteig
+Breadcrumbs;Paniermehl
+Breathing salts;Atemsalze
+Brewin' guide;Brauführer
+Bridge section;Brückenabschnitt
+Briefcase;Aktentasche
+Brimhaven teleport;Brimhaven-Teleport
+Brimstone key;Schwefelschlüssel
+Brimstone ring;Schwefelring
+Brine rat;Soleratte
+Brine sabre;Solesäbel
+Brittle key;Brüchiger Schlüssel
+Broad arrowhead pack;Breites Pfeilspitzenpaket
+Broad arrowheads;Breite Pfeilspitzen
+Broad arrows;Breite Pfeile
+Broad bolts;Breite Bolzen
+Broken armour;Zerbrochene Rüstung
+Broken arrow;Gebrochener Pfeil
+Broken axe;Zerbrochene Axt
+Broken bark snelm;Gebrochene Rinde snelm
+Broken cannon;Kaputte Kanone
+Broken cauldron;Kaputter Kessel
+Broken coffin;Zerbrochener Sarg
+Broken crab claw;Gebrochene Krabbenschere
+Broken crab shell;Zerbrochene Krabbenschale
+Broken device;Defektes Gerät
+Broken dragon hasta;Kaputter Drache hasta
+Broken egg;Zerbrochenes Ei
+Broken fishing rod;Kaputte Angelrute
+Broken glass;Zerbrochenes Glas
+Broken goat horn;Gebrochenes Ziegenhorn
+Broken pickaxe;Kaputte Spitzhacke
+Broken plate;Kaputte Platte
+Broken pole;Gebrochener Pol
+Broken shield;Gebrochener Schild
+Broken staff;Kaputtes Personal
+Broken vane part;Flügelteil gebrochen
+Bronze 2h sword;Bronzenes 2h-Schwert
+Bronze arrow;Bronzepfeil
+Bronze arrow(p);Bronzepfeil(p)
+Bronze arrow(p+);Bronzepfeil(p+)
+Bronze arrow(p++);Bronzepfeil(p++)
+Bronze arrowtips;Pfeilspitzen aus Bronze
+Bronze axe;Bronzeaxt
+Bronze axe head;Axtkopf aus Bronze
+Bronze bar;Bronzebarren
+Bronze battleaxe;Bronzene Streitaxt
+Bronze bolts;Bronzebolzen
+Bronze bolts (p);Bronzebolzen (p)
+Bronze bolts (p+);Bronzebolzen (p+)
+Bronze bolts (p++);Bronzebolzen (p++)
+Bronze bolts (unf);Bronzebolzen (unf)
+Bronze boots;Bronzestiefel
+Bronze brutal;Bronze brutal
+Bronze chainbody;Kettenkörper aus Bronze
+Bronze claws;Bronzeklauen
+Bronze coffin;Bronzesarg
+Bronze crossbow;Armbrust aus Bronze
+Bronze crossbow (u);Bronzearmbrust (u)
+Bronze dagger;Bronzedolch
+Bronze dagger(p);Bronzedolch(p)
+Bronze dagger(p+);Bronzedolch(p+)
+Bronze dagger(p++);Bronzedolch (p++)
+Bronze dart;Bronzepfeil
+Bronze dart tip;Dartspitze aus Bronze
+Bronze dart(p);Bronzepfeil(p)
+Bronze dart(p+);Bronzepfeil(p+)
+Bronze dart(p++);Bronzepfeil(p++)
+Bronze defender;Bronzener Verteidiger
+Bronze defender (broken);Bronzener Verteidiger (gebrochen)
+Bronze defender (l);Bronzener Verteidiger (l.)
+Bronze dragon mask;Bronzene Drachenmaske
+Bronze feather;Bronzefeder
+Bronze fire arrow;Feuerpfeil aus Bronze
+Bronze fire arrow (lit);Feuerpfeil aus Bronze (beleuchtet)
+Bronze fist flag;Bronzene Faustfahne
+Bronze full helm;Vollhelm aus Bronze
+Bronze full helm (g);Bronzener Vollhelm (g)
+Bronze full helm (t);Bronzener Vollhelm (t)
+Bronze gloves;Bronzene Handschuhe
+Bronze gold-trimmed set (lg);Bronze-Set mit Goldbesatz (lg)
+Bronze gold-trimmed set (sk);Bronze-Set mit Goldbesatz (sk)
+Bronze halberd;Bronzene Hellebarde
+Bronze hasta;Bronze-Hasta
+Bronze hasta(kp);Bronze hasta(kp)
+Bronze hasta(p);Bronze hasta(p)
+Bronze hasta(p+);Bronze hasta(p+)
+Bronze hasta(p++);Bronze hasta(p++)
+Bronze javelin;Bronzener Speer
+Bronze javelin heads;Speerköpfe aus Bronze
+Bronze javelin(p);Bronzespeer (p)
+Bronze javelin(p+);Bronzespeer (p+)
+Bronze javelin(p++);Bronzespeer (p++)
+Bronze key;Bronzeschlüssel
+Bronze key black;Bronzeschlüssel schwarz
+Bronze key brown;Bronzeschlüssel braun
+Bronze key crimson;Bronzeschlüssel purpurrot
+Bronze key purple;Bronzeschlüssel lila
+Bronze key red;Bronzeschlüssel rot
+Bronze kiteshield;Drachenschild aus Bronze
+Bronze kiteshield (g);Bronze-Drachenschild (g)
+Bronze kiteshield (t);Bronze-Drachenschild (t)
+Bronze knife;Bronzemesser
+Bronze knife(p);Bronzemesser(p)
+Bronze knife(p+);Bronzemesser(p+)
+Bronze knife(p++);Bronzemesser(p++)
+Bronze limbs;Gliedmaßen aus Bronze
+Bronze locks;Bronzeschlösser
+Bronze longsword;Bronzenes Langschwert
+Bronze mace;Bronzestreitkolben
+Bronze med helm;Bronzener Med-Helm
+Bronze nails;Bronzenägel
+Bronze pick head;Pickelkopf aus Bronze
+Bronze pickaxe;Spitzhacke aus Bronze
+Bronze platebody;Bronzeplattenkörper
+Bronze platebody (g);Bronzeplattenkörper (g)
+Bronze platebody (t);Bronzeplattenkörper (t)
+Bronze platelegs;Bronzeplattenbeine
+Bronze platelegs (g);Bronzeplattenbeine (g)
+Bronze platelegs (t);Bronzeplattenbeine (t)
+Bronze plateskirt;Tellerrock aus Bronze
+Bronze plateskirt (g);Bronze-Plattenrock (g)
+Bronze plateskirt (t);Bronze-Plattenrock (t)
+Bronze scimitar;Krummsäbel aus Bronze
+Bronze set (lg);Bronze-Set (lg)
+Bronze set (sk);Bronzeset (sk)
+Bronze spear;Bronzener Speer
+Bronze spear(kp);Bronzespeer (kp)
+Bronze spear(p);Bronzespeer(p)
+Bronze spear(p+);Bronzespeer(p+)
+Bronze spear(p++);Bronzespeer (p++)
+Bronze sq shield;Quadratischer Bronzeschild
+Bronze sword;Bronzeschwert
+Bronze thrownaxe;Bronzene Wurfaxt
+Bronze trimmed set (lg);Set mit Bronzebesatz (lg)
+Bronze trimmed set (sk);Set mit Bronzebesatz (sk)
+Bronze warhammer;Bronzener Kriegshammer
+Bronze wire;Bronzedraht
+Brooch;Brosche
+Broodoo shield;Broodoo-Schild
+Broodoo shield (1);Broodoo-Schild (1)
+Broodoo shield (10);Broodoo-Schild (10)
+Broodoo shield (2);Broodoo-Schild (2)
+Broodoo shield (3);Broodoo-Schild (3)
+Broodoo shield (4);Broodoo-Schild (4)
+Broodoo shield (5);Broodoo-Schild (5)
+Broodoo shield (6);Broodoo-Schild (6)
+Broodoo shield (7);Broodoo-Schild (7)
+Broodoo shield (8);Broodoo-Schild (8)
+Broodoo shield (9);Broodoo-Schild (9)
+Brown apron;Braune Schürze
+Brown candy;Braune Süßigkeiten
+Brown headband;Braunes Stirnband
+Brown naval shirt;Braunes Marinehemd
+Brown navy slacks;Braune, marineblaue Hose
+Brown rug;Brauner Teppich
+Brown spice (1);Braunes Gewürz (1)
+Brown spice (2);Braunes Gewürz (2)
+Brown spice (3);Braunes Gewürz (3)
+Brown spice (4);Braunes Gewürz (4)
+Brown toy horsey;Braunes Spielzeugpferd
+Brown tricorn hat;Brauner Dreispitzhut
+Bruise blue snelm;Blauer Fleck
+Brulee;Brulee
+Brulee supreme;Brulee oberstes Gebot
+Bruma herb;Bruma-Kraut
+Bruma kindling;Bruma-Anzündholz
+Bruma root;Bruma-Wurzel
+Bruma torch;Bruma-Fackel
+Brush;Bürste
+Brutal black dragon;Brutaler schwarzer Drache
+Bryophyta's essence;Bryophytas Essenz
+Bryophyta's staff;Bryophytas Stab
+Bryophyta's staff (uncharged);Bryophytas Stab (ungeladen)
+Buchu leaf;Buchu-Blatt
+Buchu seed;Buchu-Samen
+Bucket;Eimer
+Bucket helm;Eimerhelm
+Bucket helm (g);Eimerhelm (g)
+Bucket of milk;Eimer Milch
+Bucket of rubble;Eimer voller Schutt
+Bucket of sand;Eimer mit Sand
+Bucket of sandworms;Eimer voller Sandwürmer
+Bucket of sap;Eimer voller Saft
+Bucket of slime;Eimer voller Schleim
+Bucket of water;Eimer Wasser
+Bucket of wax;Eimer mit Wachs
+Bucket of wester sand;Eimer mit Westernsand
+Builder's boots;Bauarbeiterstiefel
+Builder's shirt;Hemd des Baumeisters
+Builder's trousers;Bauarbeiterhose
+Bulging sack;Vorgewölbter Sack
+Bulging taxbag;Praller Steuerbeutel
+Bull roarer;Bullenbrüller
+Bullet arrow;Kugelpfeil
+Bullseye lantern;Bullseye-Laterne
+Bullseye lantern (empty);Bullseye-Laterne (leer)
+Bullseye lantern (unf);Bullseye-Laterne (unf)
+Bunny ears;Hasenohren
+Bunny feet;Hasenfüße
+Bunny legs;Hasenbeine
+Bunny paws;Hasenpfoten
+Bunny top;Häschen-Top
+Bunnyman mask;Bunnyman-Maske
+Buried alive;Lebendig begraben
+Burning amulet(1);Brennendes Amulett(1)
+Burning amulet(2);Brennendes Amulett(2)
+Burning amulet(3);Brennendes Amulett(3)
+Burning amulet(4);Brennendes Amulett(4)
+Burning amulet(5);Brennendes Amulett(5)
+Burnt anglerfish;Verbrannter Seeteufel
+Burnt bat;Verbrannte Fledermaus
+Burnt batta;Verbrannte Batta
+Burnt beast meat;Verbranntes Tierfleisch
+Burnt bird meat;Verbranntes Vogelfleisch
+Burnt bonemeal;Verbranntes Knochenmehl
+Burnt bones;Verbrannte Knochen
+Burnt bread;Verbranntes Brot
+Burnt cake;Verbrannter Kuchen
+Burnt cave eel;Verbrannter Höhlenaal
+Burnt chicken;Verbranntes Huhn
+Burnt chompy;Verbrannt, muffig
+Burnt crab meat;Verbranntes Krabbenfleisch
+Burnt crunchies;Verbrannte Crunchies
+Burnt curry;Verbranntes Curry
+Burnt dark crab;Verbrannte dunkle Krabbe
+Burnt diary;Verbranntes Tagebuch
+Burnt eel;Verbrannter Aal
+Burnt egg;Verbranntes Ei
+Burnt fish;Verbrannter Fisch
+Burnt fishcake;Verbrannter Fischkuchen
+Burnt gnomebowl;Verbrannte Gnomenschale
+Burnt jogre bonemeal;Verbranntes Jogre-Knochenmehl
+Burnt jogre bones;Verbrannte Jogre-Knochen
+Burnt jubbly;Leicht verbrannt
+Burnt karambwan;Verbranntes Karambwan
+Burnt lobster;Verbrannter Hummer
+Burnt manta ray;Verbrannter Mantarochen
+Burnt meat;Verbranntes Fleisch
+Burnt monkfish;Verbrannter Seeteufel
+Burnt mushroom;Verbrannter Pilz
+Burnt onion;Verbrannte Zwiebel
+Burnt oomlie;Verbrannter Oomlie
+Burnt oomlie wrap;Verbranntes Oomlie-Wrap
+Burnt page;Verbrannte Seite
+Burnt pie;Verbrannter Kuchen
+Burnt pitta bread;Verbranntes Fladenbrot
+Burnt pizza;Verbrannte Pizza
+Burnt potato;Verbrannte Kartoffel
+Burnt rabbit;Verbranntes Kaninchen
+Burnt rainbow fish;Verbrannter Regenbogenfisch
+Burnt sea turtle;Verbrannte Meeresschildkröte
+Burnt shark;Verbrannter Hai
+Burnt shrimp;Verbrannte Garnelen
+Burnt snail;Verbrannte Schnecke
+Burnt spider;Verbrannte Spinne
+Burnt stew;Verbrannter Eintopf
+Burnt sweetcorn;Verbrannter Zuckermais
+Burnt swordfish;Verbrannter Schwertfisch
+Bush;Busch
+Butterfly;Schmetterling
+Butterfly jar;Schmetterlingsglas
+Butterfly net;Schmetterlingsnetz
+Buttons;Knöpfe
+Byrne's coronation speech;Byrnes Krönungsrede
+Cabbage;Kohl
+Cabbage cape;Kohlumhang
+Cabbage round shield;Kohl-Rundschild
+Cabbage rune;Kohlrune
+Cabbage seed;Kohlsamen
+Cabbages(1);Kohl(1)
+Cabbages(10);Kohl(10)
+Cabbages(2);Kohl(2)
+Cabbages(3);Kohl(3)
+Cabbages(4);Kohl(4)
+Cabbages(5);Kohl(5)
+Cabbages(6);Kohl(6)
+Cabbages(7);Kohl(7)
+Cabbages(8);Kohl(8)
+Cabbages(9);Kohl(9)
+Cactus seed;Kaktussamen
+Cactus spine;Kaktuswirbelsäule
+Cadantine;Cadantine
+Cadantine blood potion (unf);Cadantinischer Bluttrank (unf)
+Cadantine potion (unf);Cadantine-Trank (unf)
+Cadantine seed;Cadantine-Samen
+Cadarn lineage;Cadarn-Linie
+Cadava berries;Cadava-Beeren
+Cadava potion;Cadava-Trank
+Cadavaberry seed;Cadavaberry-Samen
+Cake;Kuchen
+Cake of guidance;Kuchen der Führung
+Cake tin;Kuchenform
+Calcite;Calcit
+Callisto cub;Callisto-Jungtier
+Calquat fruit;Calquat-Frucht
+Calquat keg;Calquat-Fass
+Calquat sapling;Calquat-Schössling
+Calquat seedling;Calquat-Sämling
+Calquat seedling (w);Calquat-Setzling (w)
+Calquat tree seed;Calquat-Baumsamen
+Camel mask;Kamelmaske
+Camel mould (p);Kamelschimmel (p)
+Camelot teleport;Camelot-Teleport
+Camo bottoms;Camo-Unterteile
+Camo helmet;Camo-Helm
+Camo top;Camo-Oberteil
+Camorra bust;Camorra-Büste
+Camulet;Camulet
+Candle;Kerze
+Candle lantern;Kerzenlaterne
+Candles;Kerzen
+Candy cane;Zuckerstange
+Canister;Kanister
+Cannon ball;Kanonenkugel
+Cannon balls;Kanonenkugeln
+Cannon barrel;Kanonenrohr
+Cannon barrels;Kanonenrohre
+Cannon base;Kanonenbasis
+Cannon furnace;Kanonenofen
+Cannon stand;Kanonenständer
+Cannonball;Kanonenkugel
+Canopic jar;Kanopenglas
+Cap and goggles;Mütze und Schutzbrille
+Capacitor;Kondensator
+Cape hanger;Cape-Aufhänger
+Cape of legends;Kap der Legenden
+Cape of skulls;Umhang aus Totenköpfen
+Carnillean armour;Carnilleanische Rüstung
+Carol's print;Carols Druck
+Carpenter's boots;Zimmermannsstiefel
+Carpenter's helmet;Zimmermannshelm
+Carpenter's shirt;Zimmermannshemd
+Carpenter's trousers;Zimmermannshose
+Carpet;Teppich
+Carrallangar teleport;Carrallangar-Teleport
+Carrot;Karotte
+Carrot sword;Karottenschwert
+Carved gem;Geschnitztes Juwel
+Carved oak bench;Bank aus geschnitzter Eiche
+Carved oak magic wardrobe;Zaubergarderobe aus geschnitzter Eiche
+Carved oak table;Geschnitzter Eichentisch
+Carved oak wardrobe;Kleiderschrank aus geschnitzter Eiche
+Carved teak bench;Bank aus geschnitztem Teakholz
+Carved teak magic wardrobe;Magischer Kleiderschrank aus geschnitztem Teakholz
+Carved teak table;Geschnitzter Tisch aus Teakholz
+Carved teak wardrobe;Kleiderschrank aus geschnitztem Teakholz
+Casket;Schatulle
+Casket (easy);Sarg (einfach)
+Casket (elite);Sarg (Elite)
+Casket (hard);Schatulle (hart)
+Casket (medium);Schatulle (mittel)
+Castle sketch 1;Schlossskizze 1
+Castle sketch 2;Schlossskizze 2
+Castle sketch 3;Schlossskizze 3
+Castle wars bracelet(1);Castle Wars-Armband(1)
+Castle wars bracelet(2);Castle Wars-Armband(2)
+Castle wars bracelet(3);Castle Wars-Armband(3)
+Castle wars ticket;Eintrittskarte für den Burgenkrieg
+Castlewars brew(1);Castlewars-Gebräu(1)
+Castlewars brew(2);Castlewars-Gebräu(2)
+Castlewars brew(3);Castlewars-Gebräu(3)
+Castlewars brew(4);Castlewars-Gebräu(4)
+Castlewars cloak;Castlewars-Umhang
+Castlewars hood;Castlewars-Kapuze
+Castlewars manual;Castlewars-Handbuch
+Cat antipoison;Gegengift für Katzen
+Cat basket;Katzenkorb
+Cat blanket;Katzendecke
+Cat ears;Katzenohren
+Cat mask;Katzenmaske
+Cat training medal;Medaille für Katzentraining
+Catalytic rune pack;Katalytisches Runenpaket
+Catfish;Wels
+Catherby teleport;Catherby-Teleport
+Catspeak amulet;Catspeak-Amulett
+Catspeak amulet(e);Catspeak-Amulett(e)
+Cattleprod;Viehzucht
+Cavalier mask;Kavaliermaske
+Cave crawler;Höhlenkriecher
+Cave eel;Höhlenaal
+Cave goblin;Höhlenkobold
+Cave goblin skull;Höhlenkoboldschädel
+Cave goblin wire;Höhlenkobolddraht
+Cave horror;Höhlenhorror
+Cave kraken;Höhlenkrake
+Cave nightshade;Höhlennachtschatten
+Cave worms;Höhlenwürmer
+Cavefish;Höhlenfisch
+Cavern grubs;Höhlenmaden
+Cavern key;Höhlenschlüssel
+Caviar;Kaviar
+Celastrus bark;Celastrus-Rinde
+Celastrus sapling;Celastrus-Setzling
+Celastrus seed;Celastrus-Samen
+Celastrus seedling;Celastrus-Sämling
+Celastrus seedling (w);Celastrus-Sämling (w)
+Celestial globe;Himmelsglobus
+Celestial ring;Himmlischer Ring
+Celestial ring (uncharged);Himmelsring (ungeladen)
+Celestial signet (uncharged);Himmlisches Siegel (ungeladen)
+Cell door key;Zellentürschlüssel
+Cell key 1;Zellschlüssel 1
+Cell key 2;Zellenschlüssel 2
+Cemetery teleport;Friedhofsteleport
+Ceramic remains;Keramikreste
+Certificate;Zertifikat
+Cerulean twitch;Himmelblaues Zucken
+Chain;Kette
+Challenge scroll (elite);Herausforderungsschriftrolle (Elite)
+Challenge scroll (hard);Herausforderungsschriftrolle (schwer)
+Challenge scroll (medium);Herausforderungsschriftrolle (mittel)
+Champion's cape;Umhang des Champions
+Champion's lamp;Lampe des Champions
+Champions token;Champions-Token
+Chaos core;Chaoskern
+Chaos elemental;Chaoselementar
+Chaos gauntlets;Chaos-Handschuhe
+Chaos rune;Chaosrune
+Chaos rune (nz);Chaosrune (nz)
+Chaos rune pack;Chaos-Runenpaket
+Chaos talisman;Chaos-Talisman
+Chaos tiara;Chaos-Tiara
+Chaotic handegg;Chaotisches Handegg
+Chapel;Kapelle
+Charcoal;Holzkohle
+Charge dragonstone jewellery scroll;Laden Sie die Drachenstein-Schmuckrolle auf
+Charged onyx;Aufgeladener Onyx
+Chart;Diagramm
+Cheese;Käse
+Cheese+tom batta;Käse+Tom Batta
+Chef's delight;Ein Genuss des Chefkochs
+Chef's delight(1);Die Freude des Chefkochs(1)
+Chef's delight(2);Die Freude des Chefkochs(2)
+Chef's delight(3);Die Freude des Chefkochs(3)
+Chef's delight(4);Die Freude des Chefkochs(4)
+Chef's delight(m);Chef's Delight(m)
+Chef's delight(m1);Die Freude des Chefkochs(m1)
+Chef's delight(m2);Köstlichkeiten vom Chefkoch (m2)
+Chef's delight(m3);Köstlichkeiten vom Chefkoch (m3)
+Chef's delight(m4);Die Freude des Chefkochs (m4)
+Chef's hat;Kochmütze
+Chemical compound;Chemische Verbindung
+Chemical powder;Chemisches Pulver
+Chest;Brust
+Chest key;Truhenschlüssel
+Chewed bones;Gekaute Knochen
+Chicken;Huhn
+Chicken cage;Hühnerkäfig
+Chicken feet;Hühnerfüße
+Chicken head;Hühnerkopf
+Chicken legs;Hähnchenschenkel
+Chicken wings;Hühnerflügel
+Child's blanket;Kinderdecke
+Chilli con carne;Chili con Carne
+Chilli potato;Chili-Kartoffel
+Chinchompa;Chinchompa
+Chisel;Meißel
+Choc saturday;Schokoladen-Samstag
+Choc-ice;Schokoladeneis
+Chocchip crunchies;Chocchip-Crunchies
+Chocolate bar;Schokoladenriegel
+Chocolate bomb;Schokoladenbombe
+Chocolate cake;Schokoladenkuchen
+Chocolate chunks;Schokoladenstücke
+Chocolate dust;Schokoladenstaub
+Chocolate kebbit;Schokoladenkebbit
+Chocolate slice;Schokoladenscheibe
+Chocolate strawberry;Schokoladenerdbeere
+Chocolatey milk;Schokoladenmilch
+Chompy bird hat;Chompy-Vogel-Hut
+Chompy chick;Chompiges Küken
+Chopped garlic;Gehackter Knoblauch
+Chopped onion;Gehackte Zwiebel
+Chopped tomato;Gehackte Tomate
+Chopped tuna;Gehackter Thunfisch
+Chopped ugthanki;Gehacktes Ugthanki
+Chores;Hausarbeiten
+Christmas cracker;Weihnachtscracker
+Chronicle;Chronik
+Chunk of crystal;Kristallbrocken
+Cicely;Cicely
+Cider;Apfelwein
+Cider barrel;Apfelweinfass
+Cider(1);Apfelwein(1)
+Cider(2);Apfelwein(2)
+Cider(3);Apfelwein(3)
+Cider(4);Apfelwein(4)
+Cider(m1);Apfelwein (m1)
+Cider(m2);Apfelwein (m2)
+Cider(m3);Apfelwein (m3)
+Cider(m4);Apfelwein (m4)
+Cinnamon;Zimt
+Circular hide;Kreisförmiges Fell
+Citizen shoes;Citizen-Schuhe
+Citizen top;Citizen oben
+Citizen trousers;Citizen-Hose
+Clan wars cape;Umhang der Clankriege
+Clay;Ton
+Clay attack stone;Angriffsstein aus Ton
+Clay fireplace;Lehmkamin
+Clay head;Tonkopf
+Clean necklace;Saubere Halskette
+Cleaning cloth;Reinigungstuch
+Clear liquid;Klare Flüssigkeit
+Cleaver;Hackmesser
+Climbing boots;Kletterstiefel
+Climbing boots (g);Kletterschuhe (g)
+Climbing rope;Kletterseil
+Clockwork;Uhrwerk
+Clockwork book;Uhrwerkbuch
+Clockwork suit;Uhrwerk-Anzug
+Cloth-covered altar;Stoffbezogener Altar
+Clown bow tie;Clown-Fliege
+Clown gown;Clownkleid
+Clown mask;Clown-Maske
+Clown shoes;Clownschuhe
+Clown trousers;Clown-Hose
+Clue bottle (beginner);Hinweisflasche (Anfänger)
+Clue bottle (easy);Hinweisflasche (einfach)
+Clue bottle (elite);Hinweisflasche (Elite)
+Clue bottle (hard);Hinweisflasche (hart)
+Clue bottle (medium);Hinweisflasche (mittel)
+Clue box;Hinweisbox
+Clue geode (beginner);Hinweis-Geode (Anfänger)
+Clue geode (easy);Hinweisgeode (einfach)
+Clue geode (elite);Hinweis-Geode (Elite)
+Clue geode (hard);Hinweisgeode (hart)
+Clue geode (medium);Hinweis-Geode (mittel)
+Clue hunter boots;Clue Jägerstiefel
+Clue hunter cloak;Clue-Jägerumhang
+Clue hunter garb;Clue-Jäger-Gewand
+Clue hunter gloves;Clue Hunter-Handschuhe
+Clue hunter trousers;Clue Hunter-Hose
+Clue nest (beginner);Hinweisnest (Anfänger)
+Clue nest (easy);Hinweisnest (einfach)
+Clue nest (elite);Hinweisnest (Elite)
+Clue nest (hard);Hinweisnest (hart)
+Clue nest (medium);Hinweisnest (mittel)
+Clue scroll;Hinweisrolle
+Clue scroll (beginner);Hinweisrolle (Anfänger)
+Clue scroll (easy);Hinweisrolle (einfach)
+Clue scroll (elite);Hinweisschriftrolle (Elite)
+Clue scroll (hard);Hinweisrolle (schwer)
+Clue scroll (master);Hinweisrolle (Meister)
+Clue scroll (medium);Hinweisrolle (mittel)
+Clueless scroll;Ahnungslose Schriftrolle
+Coal;Kohle
+Coal bag;Kohlebeutel
+Coal fragment;Kohlefragment
+Coated frogs' legs;Beschichtete Froschschenkel
+Cockatrice;Nymphensittich
+Cockatrice head;Nymphensittichkopf
+Cocktail glass;Cocktailglas
+Cocktail guide;Cocktailführer
+Cocktail shaker;Cocktailshaker
+Coconut;Kokosnuss
+Coconut milk;Kokosmilch
+Coconut shell;Kokosnussschale
+Cod;Kabeljau
+Coffin;Sarg
+Cog;Zahn
+Coif;Haube
+Coin pouch;Münzbeutel
+Coins;Münzen
+Collection bag;Sammelbeutel
+Collection log;Sammelprotokoll
+Collector horn;Sammlerhorn
+Collector icon;Collector-Symbol
+Colour wheel;Farbrad
+Coloured ball;Farbiger Ball
+Combat bracelet;Kampfarmband
+Combat bracelet(1);Kampfarmband(1)
+Combat bracelet(2);Kampfarmband(2)
+Combat bracelet(3);Kampfarmband(3)
+Combat bracelet(4);Kampfarmband(4)
+Combat bracelet(5);Kampfarmband(5)
+Combat bracelet(6);Kampfarmband(6)
+Combat damaged key;Beschädigten Schlüssel bekämpfen
+Combat dummy;Kampfpuppe
+Combat lamp;Kampflampe
+Combat mix(1);Kampfmischung(1)
+Combat mix(2);Kampfmischung(2)
+Combat path starter kit;Starterkit für den Kampfpfad
+Combat path voucher;Gutschein für den Kampfweg
+Combat potion set;Kampftrank-Set
+Combat potion(1);Kampftrank(1)
+Combat potion(2);Kampftrank(2)
+Combat potion(3);Kampftrank(3)
+Combat potion(4);Kampftrank(4)
+Combat ring;Kampfring
+Combat room;Kampfraum
+Combat scarred key;Vernarbter Kampfschlüssel
+Combat scratched key;Combat zerkratzter Schlüssel
+Combination;Kombination
+Comfy mattress;Bequeme Matratze
+Common kebbit fur;Gewöhnliches Kebbitfell
+Common tench;Schleie
+Commorb;Commorb
+Commorb v2;Commorb v2
+Community pumpkin;Gemeinschaftskürbis
+Comp ogre bow;Comp Oger-Bogen
+Compost;Kompost
+Compost bin;Komposttonne
+Compost pack;Kompostpackung
+Compost potion(1);Komposttrank(1)
+Compost potion(2);Komposttrank(2)
+Compost potion(3);Komposttrank(3)
+Compost potion(4);Komposttrank(4)
+Conch shell;Muschelschale
+Conductor;Leiter
+Conductor mould;Leiterform
+Consecrated house;Geweihtes Haus
+Consecration seed;Weihesamen
+Construct. cape;Konstrukt. Kap
+Construct. cape(t);Konstrukt. Umhang(t)
+Construct. hood;Konstrukt. Haube
+Construction guide;Bauanleitung
+Cooked chicken;Gekochtes Hähnchen
+Cooked chompy;Chompig gekocht
+Cooked crab meat;Gekochtes Krabbenfleisch
+Cooked fishcake;Gekochter Fischkuchen
+Cooked jubbly;Jubblig gekocht
+Cooked karambwan;Gekochtes Karambwan
+Cooked meat;Gekochtes Fleisch
+Cooked mystery meat;Gekochtes Mystery-Fleisch
+Cooked oomlie wrap;Gekochter Oomlie-Wrap
+Cooked rabbit;Gekochtes Kaninchen
+Cooked slimy eel;Gekochter schleimiger Aal
+Cooked sweetcorn;Gekochter Zuckermais
+Cooking apple;Apfel kochen
+Cooking cape;Kochumhang
+Cooking cape(t);Kochumhang(t)
+Cooking gauntlets;Kochhandschuhe
+Cooking hood;Dunstabzugshaube
+Cooking pot;Kochtopf
+Copper longtail;Kupfer-Longtail
+Copper ore;Kupfererz
+Copper's crimson collar;Kupfers purpurroter Kragen
+Cormorant's glove;Kormoran-Handschuh
+Cornflour;Maismehl
+Cornflour mixture;Maismehlmischung
+Corpse of woman;Leiche einer Frau
+Corrupted axe;Beschädigte Axt
+Corrupted body (attuned);Verdorbener Körper (eingestimmt)
+Corrupted body (basic);Korrupter Körper (einfach)
+Corrupted body (perfected);Korrupter Körper (perfektioniert)
+Corrupted bow (attuned);Verderbter Bogen (eingestimmt)
+Corrupted bow (basic);Verderbter Bogen (einfach)
+Corrupted bow (perfected);Verderbter Bogen (perfektioniert)
+Corrupted dust;Verdorbener Staub
+Corrupted halberd (attuned);Verderbte Hellebarde (eingestimmt)
+Corrupted halberd (basic);Verderbte Hellebarde (einfach)
+Corrupted halberd (perfected);Verderbte Hellebarde (perfektioniert)
+Corrupted harpoon;Korrupte Harpune
+Corrupted helm;Beschädigter Helm
+Corrupted helm (attuned);Verderbter Helm (abgestimmt)
+Corrupted helm (basic);Verderbter Helm (einfach)
+Corrupted helm (perfected);Verderbter Helm (perfektioniert)
+Corrupted kiteshield;Beschädigter Drachenschild
+Corrupted legs (attuned);Verdorbene Beine (eingestimmt)
+Corrupted legs (basic);Korrupte Beine (Grundkenntnisse)
+Corrupted legs (perfected);Verdorbene Beine (perfektioniert)
+Corrupted orb;Verdorbene Kugel
+Corrupted ore;Verdorbenes Erz
+Corrupted pickaxe;Beschädigte Spitzhacke
+Corrupted platebody;Beschädigter Plattenkörper
+Corrupted platelegs;Beschädigte Plattenbeine
+Corrupted plateskirt;Beschädigter Plattenrock
+Corrupted sceptre;Verdorbenes Zepter
+Corrupted shards;Verdorbene Scherben
+Corrupted spike;Beschädigter Dorn
+Corrupted staff (attuned);Korrupter Stab (eingestimmt)
+Corrupted staff (basic);Korruptes Personal (Grundkenntnisse)
+Corrupted staff (perfected);Korruptes Personal (perfektioniert)
+Corrupted teleport crystal;Beschädigter Teleportkristall
+Corrupted youngllef;Verdorbenes Youngllef
+Cosmic rune;Kosmische Rune
+Cosmic talisman;Kosmischer Talisman
+Cosmic tiara;Kosmische Tiara
+Costume room;Kostümzimmer
+Cow gloves;Kuhhandschuhe
+Cow mask;Kuhmaske
+Cow shoes;Kuhschuhe
+Cow top;Kuh-Top
+Cow trousers;Kuhhose
+Cowbells;Kuhglocken
+Cowhide;Rindsleder
+Crab claw;Krabbenschere
+Crab helmet;Krabbenhelm
+Crab meat;Krabbenfleisch
+Crabclaw hook;Krabbenkrallenhaken
+Cracked sample;Gebrochene Probe
+Crackers;Cracker
+Crafting cape;Umhang basteln
+Crafting cape(t);Umhang(e) herstellen
+Crafting hood;Bastelhaube
+Crafting manual;Bastelanleitung
+Crafting table 1;Basteltisch 1
+Crafting table 2;Basteltisch 2
+Crafting table 3;Basteltisch 3
+Crafting table 4;Basteltisch 4
+Crandor map;Crandor-Karte
+Crane claw;Krankralle
+Crane schematic;Kranschema
+Cranial clamp;Schädelklemme
+Crate;Kiste
+Crate part;Kistenteil
+Crate with zanik;Kiste mit Zanik
+Craw's bow;Krabbenbogen
+Craw's bow (u);Kropfbogen (u)
+Crawling hand;Kriechende Hand
+Crazed scribbles;Verrückte Kritzeleien
+Cream boots;Cremefarbene Stiefel
+Cream hat;Cremefarbener Hut
+Cream robe bottoms;Cremefarbene Robenhose
+Cream robe top;Cremefarbenes Morgenmantel-Oberteil
+Creature keeper's journal;Tagebuch des Kreaturenwächters
+Crest part;Wappenteil
+Crier bell;Ausruferglocke
+Crier coat;Crier-Mantel
+Crier hat;Ausruferhut
+Criminal's dagger;Dolch eines Verbrechers
+Criminal's thread;Verbrecher-Thread
+Crimson swift;Purpurroter Mauersegler
+Crone-made amulet;Von einer alten Frau gefertigtes Amulett
+Crossbow;Armbrust
+Crossbow string;Armbrustsehne
+Cruciferous codex;Kreuzblütler-Kodex
+Crude carving;Grobe Schnitzerei
+Crude chair;Roher Stuhl
+Crude wooden chair;Roher Holzstuhl
+Cruder carving;Groberes Schnitzen
+Crumbling tome;Zerbröckelnder Wälzer
+Crumpled scroll;Zerknitterte Schriftrolle
+Crunchy chocolate mix;Knusprige Schokoladenmischung
+Crunchy easter egg;Knuspriges Osterei
+Crunchy tray;Knuspriges Tablett
+Crushed gem;Zerkleinerter Edelstein
+Crushed nest;Zerquetschtes Nest
+Crushed superior dragon bones;Zerkleinerte überlegene Drachenknochen
+Crystal;Kristall
+Crystal acorn;Kristalleichel
+Crystal armour seed;Kristallrüstungssamen
+Crystal axe;Kristallaxt
+Crystal axe (inactive);Kristallaxt (inaktiv)
+Crystal ball;Kristallkugel
+Crystal body;Kristallkörper
+Crystal body (attuned);Kristallkörper (eingestimmt)
+Crystal body (basic);Kristallkörper (Basis)
+Crystal body (beta);Kristallkörper (Beta)
+Crystal body (inactive);Kristallkörper (inaktiv)
+Crystal body (perfected);Kristallkörper (perfektioniert)
+Crystal bow;Kristallschleife
+Crystal bow (attuned);Kristallbogen (eingestimmt)
+Crystal bow (basic);Kristallbogen (einfach)
+Crystal bow (inactive);Kristallbogen (inaktiv)
+Crystal bow (perfected);Kristallbogen (perfektioniert)
+Crystal bow 1/10;Kristallbogen 1/10
+Crystal bow 1/10 (i);Kristallbogen 1/10 (i)
+Crystal bow 2/10;Kristallbogen 2/10
+Crystal bow 2/10 (i);Kristallbogen 2/10 (i)
+Crystal bow 3/10;Kristallbogen 3/10
+Crystal bow 3/10 (i);Kristallbogen 3/10 (i)
+Crystal bow 4/10;Kristallbogen 4/10
+Crystal bow 4/10 (i);Kristallbogen 4/10 (i)
+Crystal bow 5/10;Kristallbogen 5/10
+Crystal bow 5/10 (i);Kristallbogen 5/10 (i)
+Crystal bow 6/10;Kristallbogen 6/10
+Crystal bow 6/10 (i);Kristallbogen 6/10 (i)
+Crystal bow 7/10;Kristallbogen 7/10
+Crystal bow 7/10 (i);Kristallbogen 7/10 (i)
+Crystal bow 8/10;Kristallbogen 8/10
+Crystal bow 8/10 (i);Kristallbogen 8/10 (i)
+Crystal bow 9/10;Kristallschleife 9/10
+Crystal bow 9/10 (i);Kristallbogen 9/10 (i)
+Crystal bow full;Kristallbogen voll
+Crystal bow full (i);Kristallbogen voll (i)
+Crystal crown;Kristallkrone
+Crystal dust;Kristallstaub
+Crystal grail;Kristallgral
+Crystal halberd;Kristallhellebarde
+Crystal halberd (attuned);Kristallhellebarde (abgestimmt)
+Crystal halberd (basic);Kristallhellebarde (einfach)
+Crystal halberd (inactive);Kristallhellebarde (inaktiv)
+Crystal halberd (perfected);Kristallhellebarde (perfektioniert)
+Crystal halberd 1/10;Kristallhellebarde 1/10
+Crystal halberd 1/10 (i);Kristallhellebarde 1/10 (i)
+Crystal halberd 2/10;Kristallhellebarde 2/10
+Crystal halberd 2/10 (i);Kristallhellebarde 2/10 (i)
+Crystal halberd 3/10;Kristallhellebarde 3/10
+Crystal halberd 3/10 (i);Kristallhellebarde 3/10 (i)
+Crystal halberd 4/10;Kristallhellebarde 4/10
+Crystal halberd 4/10 (i);Kristallhellebarde 4/10 (i)
+Crystal halberd 5/10;Kristallhellebarde 5/10
+Crystal halberd 5/10 (i);Kristallhellebarde 5/10 (i)
+Crystal halberd 6/10;Kristallhellebarde 6/10
+Crystal halberd 6/10 (i);Kristallhellebarde 6/10 (i)
+Crystal halberd 7/10;Kristallhellebarde 7/10
+Crystal halberd 7/10 (i);Kristallhellebarde 7/10 (i)
+Crystal halberd 8/10;Kristallhellebarde 8/10
+Crystal halberd 8/10 (i);Kristallhellebarde 8/10 (i)
+Crystal halberd 9/10;Kristallhellebarde 9/10
+Crystal halberd 9/10 (i);Kristallhellebarde 9/10 (i)
+Crystal halberd full;Kristallhellebarde voll
+Crystal halberd full (i);Kristallhellebarde voll (i)
+Crystal harpoon;Kristallharpune
+Crystal harpoon (inactive);Kristallharpune (inaktiv)
+Crystal helm;Kristallhelm
+Crystal helm (attuned);Kristallhelm (abgestimmt)
+Crystal helm (basic);Kristallhelm (einfach)
+Crystal helm (beta);Kristallhelm (Beta)
+Crystal helm (inactive);Kristallhelm (inaktiv)
+Crystal helm (perfected);Kristallhelm (perfektioniert)
+Crystal impling jar;Kristallglas
+Crystal key;Kristallschlüssel
+Crystal legs;Kristallbeine
+Crystal legs (attuned);Kristallbeine (abgestimmt)
+Crystal legs (basic);Kristallbeine (einfach)
+Crystal legs (beta);Kristallbeine (Beta)
+Crystal legs (inactive);Kristallbeine (inaktiv)
+Crystal legs (perfected);Kristallbeine (perfektioniert)
+Crystal of amlodd;Kristall von Amlodd
+Crystal of cadarn;Kristall aus Cadarn
+Crystal of crwys;Kristall von Cruwys
+Crystal of hefin;Kristall von Hefin
+Crystal of iorwerth;Kristall von Iorwerth
+Crystal of ithell;Kristall der Hölle
+Crystal of meilyr;Kristall von Meilyr
+Crystal of memories;Kristall der Erinnerungen
+Crystal of power;Kristall der Macht
+Crystal of trahaearn;Kristall von Trahaearn
+Crystal orb;Kristallkugel
+Crystal ore;Kristallerz
+Crystal pendant;Kristallanhänger
+Crystal pickaxe;Kristallspitzhacke
+Crystal pickaxe (inactive);Kristallspitzhacke (inaktiv)
+Crystal sapling;Kristallsetzling
+Crystal saw;Kristallsäge
+Crystal saw seed;Kristall sah Samen
+Crystal sceptre;Kristallzepter
+Crystal seed;Kristallsamen
+Crystal seedling;Kristallkeimling
+Crystal seedling (w);Kristallkeimling (w)
+Crystal shard;Kristallscherbe
+Crystal shards;Kristallsplitter
+Crystal shield;Kristallschild
+Crystal shield (inactive);Kristallschild (inaktiv)
+Crystal shield 1/10;Kristallschild 1/10
+Crystal shield 1/10 (i);Kristallschild 1/10 (i)
+Crystal shield 2/10;Kristallschild 2/10
+Crystal shield 2/10 (i);Kristallschild 2/10 (i)
+Crystal shield 3/10;Kristallschild 3/10
+Crystal shield 3/10 (i);Kristallschild 3/10 (i)
+Crystal shield 4/10;Kristallschild 4/10
+Crystal shield 4/10 (i);Kristallschild 4/10 (i)
+Crystal shield 5/10;Kristallschild 5/10
+Crystal shield 5/10 (i);Kristallschild 5/10 (i)
+Crystal shield 6/10;Kristallschild 6/10
+Crystal shield 6/10 (i);Kristallschild 6/10 (i)
+Crystal shield 7/10;Kristallschild 7/10
+Crystal shield 7/10 (i);Kristallschild 7/10 (i)
+Crystal shield 8/10;Kristallschild 8/10
+Crystal shield 8/10 (i);Kristallschild 8/10 (i)
+Crystal shield 9/10;Kristallschild 9/10
+Crystal shield 9/10 (i);Kristallschild 9/10 (i)
+Crystal shield full;Kristallschild voll
+Crystal shield full (i);Kristallschild voll (i)
+Crystal singing for beginners;Kristallgesang für Anfänger
+Crystal spike;Kristallspitze
+Crystal staff (attuned);Kristallstab (eingestimmt)
+Crystal staff (basic);Kristallstab (einfach)
+Crystal staff (perfected);Kristallstab (perfektioniert)
+Crystal teleport seed;Kristall-Teleport-Samen
+Crystal tool seed;Kristallwerkzeug-Samen
+Crystal trinket;Kristall-Schmuckstück
+Crystal weapon seed;Kristallwaffensamen
+Crystal-mine key;Schlüssel zur Kristallmine
+Crystalline bowstring;Kristalline Bogensehne
+Crystalline portal nexus;Kristalliner Portal-Nexus
+Crystallised harpoonfish;Kristallisierter Harpunenfisch
+Cube;Würfel
+Cup of hot water;Tasse heißes Wasser
+Cup of tea;Tasse Tee
+Cup of water;Tasse Wasser
+Cupric ore powder;Kupfererzpulver
+Cupric sulfate;Kupfersulfat
+Curator's medallion;Medaillon des Kurators
+Cured yak-hide;Gehärtetes Yak-Fell
+Curry;Curry
+Curry leaf;Curryblatt
+Curry sapling;Curry-Setzling
+Curry seedling;Curry-Sämling
+Curry seedling (w);Curry-Setzling (w)
+Curry tree seed;Currybaumsamen
+Cursed banana;Verfluchte Banane
+Cursed goblin bow;Verfluchter Koboldbogen
+Cursed goblin hammer;Verfluchter Koboldhammer
+Cursed goblin staff;Verfluchter Koboldstab
+Curtains;Vorhänge
+Curved bone;Gebogener Knochen
+Cushioned basket;Gepolsterter Korb
+Custom bow string;Individuelle Bogensehne
+Cutthroat flag;Cutthroat-Flagge
+Cw armour 1;Cw-Rüstung 1
+Cw armour 2;Cw-Rüstung 2
+Cw armour 3;Cw-Rüstung 3
+Cyan crystal;Cyan-Kristall
+Cyclops head;Zyklopenkopf
+Cylinder;Zylinder
+Cyrisus's chest;Cyrisus' Brust
+Daconia rock;Daconia-Felsen
+Daeyalt ore;Daeyalt-Erz
+Daeyalt shard;Daeyalt-Scherbe
+Daffodils;Narzissen
+Dagannoth;Dagannoth
+Dagannoth bones;Dagannoth-Knochen
+Dagannoth hide;Dagannoth versteckt sich
+Dagannoth ribs;Dagannoth-Rippen
+Dagannoth-king bonemeal;Knochenmehl des Dagannoth-Königs
+Dagon'hai hat;Dagon'hai-Hut
+Dagon'hai history;Dagon'hai-Geschichte
+Dagon'hai robe bottom;Unterteil der Dagon'hai-Robe
+Dagon'hai robe top;Oberteil der Dagon'hai-Robe
+Dagon'hai robes set;Dagon'hai-Robenset
+Damaged armour;Beschädigte Rüstung
+Damaged book;Beschädigtes Buch
+Damaged dagger;Beschädigter Dolch
+Damaged monkey tail;Beschädigter Affenschwanz
+Damaged soul bearer;Beschädigter Seelenträger
+Damp egg;Feuchtes Ei
+Damp planks;Feuchte Bretter
+Damp sticks;Feuchte Stöcke
+Damp tinderbox;Feuchte Zunderbüchse
+Dareeyak teleport;Dareeyak-Teleport
+Dark acorn;Dunkle Eichel
+Dark altar;Dunkler Altar
+Dark beast;Dunkles Biest
+Dark bow;Dunkler Bogen
+Dark bow tie;Dunkle Fliege
+Dark cavalier;Dunkler Kavalier
+Dark claw;Dunkle Klaue
+Dark crab;Dunkle Krabbe
+Dark dagger;Dunkler Dolch
+Dark dye;Dunkler Farbstoff
+Dark essence block;Dunkler Essenzblock
+Dark essence fragments;Dunkle Essenzfragmente
+Dark fishing bait;Dunkler Angelköder
+Dark flippers;Dunkle Flossen
+Dark infinity bottoms;Dunkle Infinity-Hose
+Dark infinity colour kit;Dunkles Infinity-Farbset
+Dark infinity hat;Dunkler Infinity-Hut
+Dark infinity top;Dunkles Infinity-Top
+Dark journal;Dunkles Tagebuch
+Dark kebbit fur;Dunkles Kebbitfell
+Dark key;Dunkler Schlüssel
+Dark manuscript;Dunkles Manuskript
+Dark relic;Dunkles Relikt
+Dark squirrel;Dunkles Eichhörnchen
+Dark totem;Dunkles Totem
+Dark totem base;Dunkler Totemsockel
+Dark totem middle;Dunkle Totemmitte
+Dark totem top;Dunkles Totem-Top
+Dark trousers;Dunkle Hose
+Dark tuxedo cuffs;Dunkle Smokingmanschetten
+Dark tuxedo jacket;Dunkle Smokingjacke
+Dark tuxedo shoes;Dunkle Smokingschuhe
+Darklight;Dunkles Licht
+Dart;Pfeil
+Dartboard;Dartscheibe
+Dashing kebbit fur;Schickes Kebbitfell
+David's print;Davids Druck
+Dawnbringer;Dawnbringer
+Dead orb;Tote Kugel
+Dead sea slug;Nacktschnecke aus dem Toten Meer
+Deadman starter pack;Deadman-Starterpaket
+Deadman teleport tablet;Deadman-Teleport-Tablet
+Deadman's cape;Umhang des toten Mannes
+Deadman's chest;Die Brust des Toten
+Deadman's legs;Die Beine des Toten
+Death note;Todesmeldung
+Death rune;Todesrune
+Death rune (nz);Todesrune (nz)
+Death talisman;Talisman des Todes
+Death tiara;Todestiara
+Death's coffer;Die Truhe des Todes
+Decapitated head;Abgeschlagener Kopf
+Deconstructed onyx;Dekonstruierter Onyx
+Decorative armour;Dekorative Rüstung
+Decorative armour (broken);Dekorative Rüstung (kaputt)
+Decorative armour (l);Dekorative Rüstung (l)
+Decorative blood;Dekoratives Blut
+Decorative boots;Dekorative Stiefel
+Decorative boots (broken);Zierstiefel (kaputt)
+Decorative boots (l);Zierstiefel (l)
+Decorative emblem;Dekoratives Emblem
+Decorative full helm;Dekorativer Vollhelm
+Decorative full helm (broken);Dekorativer Vollhelm (kaputt)
+Decorative full helm (l);Dekorativer Vollhelm (l)
+Decorative helm;Dekorativer Helm
+Decorative helm (broken);Zierhelm (kaputt)
+Decorative helm (l);Zierhelm (l)
+Decorative pipe;Dekorative Pfeife
+Decorative rock;Dekorativer Stein
+Decorative shield;Dekorativer Schild
+Decorative shield (broken);Zierschild (kaputt)
+Decorative shield (l);Zierschild (l)
+Decorative sword;Dekoratives Schwert
+Decorative sword (broken);Dekoschwert (kaputt)
+Decorative sword (l);Dekoschwert (l)
+Decorative window;Dekoratives Fenster
+Deed;Tat
+Deep blue sweets;Tiefblaue Süßigkeiten
+Deerstalker;Deerstalker
+Defence cape;Verteidigungsumhang
+Defence cape(t);Verteidigungsumhang(t)
+Defence hood;Abwehrhaube
+Defence mix(1);Verteidigungsmix(1)
+Defence mix(2);Verteidigungsmix(2)
+Defence potion(1);Verteidigungstrank(1)
+Defence potion(2);Verteidigungstrank(2)
+Defence potion(3);Verteidigungstrank(3)
+Defence potion(4);Verteidigungstrank(4)
+Defender horn;Verteidigerhorn
+Defender icon;Verteidiger-Symbol
+Defensive shield;Verteidigungsschild
+Delphinium seed;Delphiniumsamen
+Demon;Dämon
+Demon feet;Dämonenfüße
+Demon lectern;Dämonenpult
+Demon's heart;Dämonenherz
+Demonic sigil;Dämonisches Siegel
+Demonic sigil mould;Dämonische Siegelform
+Demonic throne;Dämonischer Thron
+Demonic tome;Dämonischer Wälzer
+Dense essence block;Dichter Essenzblock
+Desecrated house;Entweihtes Haus
+Desert amulet;Wüstenamulett
+Desert amulet 1;Wüstenamulett 1
+Desert amulet 2;Wüstenamulett 2
+Desert amulet 3;Wüstenamulett 3
+Desert amulet 4;Wüstenamulett 4
+Desert boots;Wüstenstiefel
+Desert camo legs;Beine im Wüstentarn
+Desert camo top;Wüstentarn-Oberteil
+Desert devil fur;Wüstenteufelfell
+Desert disguise;Wüstenverkleidung
+Desert goat horn;Wüstenziegenhorn
+Desert habitat;Wüstenlebensraum
+Desert legs;Wüstenbeine
+Desert lizard;Wüsteneidechse
+Desert lizard bone;Knochen einer Wüsteneidechse
+Desert painting;Wüstenmalerei
+Desert robe;Wüstengewand
+Desert robes;Wüstenroben
+Desert shirt;Wüstenhemd
+Desert top;Wüstenspitze
+Devout boots;Fromme Stiefel
+Dexterous prayer scroll;Geschickte Gebetsrolle
+Dharok's armour set;Dharoks Rüstungsset
+Dharok's greataxe;Dharoks Großaxt
+Dharok's greataxe 0;Dharoks Großaxt 0
+Dharok's greataxe 100;Dharoks Großaxt 100
+Dharok's greataxe 25;Dharoks Großaxt 25
+Dharok's greataxe 50;Dharoks Großaxt 50
+Dharok's greataxe 75;Dharoks Großaxt 75
+Dharok's helm;Dharoks Helm
+Dharok's helm 0;Dharoks Helm 0
+Dharok's helm 100;Dharoks Helm 100
+Dharok's helm 25;Dharoks Helm 25
+Dharok's helm 50;Dharoks Helm 50
+Dharok's helm 75;Dharoks Helm 75
+Dharok's platebody;Dharoks Plattenkörper
+Dharok's platebody 0;Dharoks Plattenkörper 0
+Dharok's platebody 100;Dharoks Plattenkörper 100
+Dharok's platebody 25;Dharoks Plattenkörper 25
+Dharok's platebody 50;Dharoks Plattenkörper 50
+Dharok's platebody 75;Dharoks Plattenkörper 75
+Dharok's platelegs;Dharoks Plattenbeine
+Dharok's platelegs 0;Dharoks Plattenbeine 0
+Dharok's platelegs 100;Dharoks Plattenbeine 100
+Dharok's platelegs 25;Dharoks Plattenbeine 25
+Dharok's platelegs 50;Dharoks Plattenbeine 50
+Dharok's platelegs 75;Dharoks Plattenbeine 75
+Diamond;Diamant
+Diamond amulet;Diamantamulett
+Diamond amulet (u);Diamantamulett (u)
+Diamond bauble;Diamantkugel
+Diamond bolt tips;Diamant-Bolzenspitzen
+Diamond bolts;Diamantbolzen
+Diamond bolts (e);Diamantschrauben (e)
+Diamond bracelet;Diamantarmband
+Diamond dragon bolts;Diamant-Drachenbolzen
+Diamond dragon bolts (e);Diamant-Drachenbolzen (e)
+Diamond necklace;Diamant-Halskette
+Diamond ring;Diamantring
+Diango's claws;Diangos Krallen
+Diary;Tagebuch
+Digsite pendant (1);Digsite-Anhänger (1)
+Digsite pendant (2);Digsite-Anhänger (2)
+Digsite pendant (3);Digsite-Anhänger (3)
+Digsite pendant (4);Digsite-Anhänger (4)
+Digsite pendant (5);Digsite-Anhänger (5)
+Digsite teleport;Ausgrabungsstätte-Teleport
+Dinh's bulwark;Dinhs Bollwerk
+Dinh's hammer;Dinhs Hammer
+Dining room;Esszimmer
+Directionals;Wegbeschreibungen
+Directions;Wegbeschreibung
+Dirty blast;Schmutzige Explosion
+Dirty robe;Schmutziger Bademantel
+Disk of returning;Disk der Rückkehr
+Display cabinet key;Schlüssel für Vitrine
+Distillator;Destillator
+Divine bastion potion(1);Göttlicher Bastionstrank(1)
+Divine bastion potion(2);Göttlicher Bastionstrank(2)
+Divine bastion potion(3);Göttlicher Bastionstrank(3)
+Divine bastion potion(4);Göttlicher Bastionstrank(4)
+Divine battlemage potion(1);Göttlicher Kampfmagiertrank(1)
+Divine battlemage potion(2);Göttlicher Kampfmagiertrank(2)
+Divine battlemage potion(3);Göttlicher Kampfmagiertrank(3)
+Divine battlemage potion(4);Göttlicher Kampfmagiertrank(4)
+Divine magic potion(1);Göttlicher Zaubertrank(1)
+Divine magic potion(2);Göttlicher Zaubertrank(2)
+Divine magic potion(3);Göttlicher Zaubertrank(3)
+Divine magic potion(4);Göttlicher Zaubertrank(4)
+Divine ranging potion(1);Göttlicher Fernkampftrank(1)
+Divine ranging potion(2);Göttlicher Fernkampftrank(2)
+Divine ranging potion(3);Göttlicher Fernkampftrank(3)
+Divine ranging potion(4);Göttlicher Fernkampftrank(4)
+Divine super attack potion(1);Göttlicher Superangriffstrank(1)
+Divine super attack potion(2);Göttlicher Superangriffstrank(2)
+Divine super attack potion(3);Göttlicher Superangriffstrank(3)
+Divine super attack potion(4);Göttlicher Superangriffstrank(4)
+Divine super combat potion(1);Göttlicher Superkampftrank(1)
+Divine super combat potion(2);Göttlicher Superkampftrank(2)
+Divine super combat potion(3);Göttlicher Superkampftrank(3)
+Divine super combat potion(4);Göttlicher Superkampftrank(4)
+Divine super defence potion(1);Göttlicher Superverteidigungstrank(1)
+Divine super defence potion(2);Göttlicher Superverteidigungstrank(2)
+Divine super defence potion(3);Göttlicher Superverteidigungstrank(3)
+Divine super defence potion(4);Göttlicher Superverteidigungstrank(4)
+Divine super strength potion(1);Göttlicher Superkrafttrank(1)
+Divine super strength potion(2);Göttlicher Superkrafttrank(2)
+Divine super strength potion(3);Göttlicher Superkrafttrank(3)
+Divine super strength potion(4);Göttlicher Superkrafttrank(4)
+Diving apparatus;Tauchgerät
+Diving helmet;Taucherhelm
+Dock leaf;Dockblatt
+Doctor's hat;Doktorhut
+Documents;Unterlagen
+Dodgy necklace;Fragwürdige Halskette
+Doll of iban;Puppe von Iban
+Doogle leaves;Doogle geht
+Door key;Türschlüssel
+Door transcription;Türtranskription
+Dorgesh-kaan sphere;Dorgesh-Kaan-Kugel
+Dorgeshuun crossbow;Dorgeshuun-Armbrust
+Dossier;Dossier
+Double eye patch;Doppelte Augenklappe
+Draconic visage;Drakonisches Gesicht
+Dragon 2h sword;Drache 2h Schwert
+Dragon armour set (lg);Drachenrüstungsset (lg)
+Dragon armour set (sk);Drachenrüstungsset (sk)
+Dragon arrow;Drachenpfeil
+Dragon arrow(p);Drachenpfeil(p)
+Dragon arrow(p+);Drachenpfeil(p+)
+Dragon arrow(p++);Drachenpfeil (p++)
+Dragon arrowtips;Drachenpfeilspitzen
+Dragon axe;Drachenaxt
+Dragon axe (or);Drachenaxt (oder)
+Dragon axe head;Drachenaxtkopf
+Dragon battleaxe;Drachenstreitaxt
+Dragon bitter;Drachenbitter
+Dragon bitter(1);Drachenbitter(1)
+Dragon bitter(2);Drachenbitter(2)
+Dragon bitter(3);Drachenbitter(3)
+Dragon bitter(4);Drachenbitter(4)
+Dragon bitter(m);Drachenbitter(m)
+Dragon bitter(m1);Drachenbitter(m1)
+Dragon bitter(m2);Drachenbitter (m2)
+Dragon bitter(m3);Drachenbitter (m3)
+Dragon bitter(m4);Drachenbitter (m4)
+Dragon bolts;Drachenbolzen
+Dragon bolts (p);Drachenbolzen (p)
+Dragon bolts (p+);Drachenbolzen (p+)
+Dragon bolts (p++);Drachenbolzen (p++)
+Dragon bolts (unf);Drachenbolzen (unf)
+Dragon bonemeal;Drachenknochenmehl
+Dragon bones;Drachenknochen
+Dragon boots;Drachenstiefel
+Dragon boots (g);Drachenstiefel (g)
+Dragon boots ornament kit;Drachenstiefel-Ornamentset
+Dragon bracelet;Drachenarmband
+Dragon cane;Drachenstock
+Dragon chainbody;Drachenkettenkörper
+Dragon chainbody (g);Drachenkettenkörper (g)
+Dragon chainbody ornament kit;Drachen-Kettenkörper-Ornament-Set
+Dragon claws;Drachenkrallen
+Dragon crossbow;Drachenarmbrust
+Dragon crossbow (u);Drachenarmbrust (u)
+Dragon dagger;Drachendolch
+Dragon dagger(p);Drachendolch(p)
+Dragon dagger(p+);Drachendolch(p+)
+Dragon dagger(p++);Drachendolch (p++)
+Dragon dart;Drachenpfeil
+Dragon dart tip;Drachen-Dartspitze
+Dragon dart(p);Drachenpfeil(p)
+Dragon dart(p+);Drachenpfeil(p+)
+Dragon dart(p++);Drachenpfeil(p++)
+Dragon defender;Drachenverteidiger
+Dragon defender (broken);Drachenverteidiger (kaputt)
+Dragon defender (l);Drachenverteidiger (l)
+Dragon defender (t);Drachenverteidiger (t)
+Dragon defender ornament kit;Drachenverteidiger-Ornamentset
+Dragon fire arrow;Drachenfeuerpfeil
+Dragon fire arrow (lit);Drachenfeuerpfeil (beleuchtet)
+Dragon full helm;Drachen-Vollhelm
+Dragon full helm (g);Drachen-Vollhelm (g)
+Dragon full helm ornament kit;Drachen-Vollhelm-Ornament-Set
+Dragon gloves;Drachenhandschuhe
+Dragon halberd;Drachenhellebarde
+Dragon harpoon;Drachenharpune
+Dragon harpoon (or);Drachenharpune (oder)
+Dragon hasta;Drache hasta
+Dragon hasta(kp);Drache hasta(kp)
+Dragon hasta(p);Drache hasta(p)
+Dragon hasta(p+);Drache hasta(p+)
+Dragon hasta(p++);Dragon hasta(p++)
+Dragon hunter crossbow;Armbrust des Drachenjägers
+Dragon hunter lance;Drachenjägerlanze
+Dragon impling jar;Drache-Impling-Glas
+Dragon inn tankard;Dragon Inn Krug
+Dragon javelin;Drachenspeer
+Dragon javelin heads;Drachenspeerköpfe
+Dragon javelin(p);Drachenspeer(p)
+Dragon javelin(p+);Drachenspeer (p+)
+Dragon javelin(p++);Drachenspeer (p++)
+Dragon key;Drachenschlüssel
+Dragon key piece;Drachen-Schlüsselstück
+Dragon kiteshield;Drachendrachenschild
+Dragon kiteshield (g);Drachendrachenschild (g)
+Dragon kiteshield ornament kit;Drachen-Kiteshield-Ornament-Set
+Dragon knife;Drachenmesser
+Dragon knife(p);Drachenmesser(p)
+Dragon knife(p+);Drachenmesser(p+)
+Dragon knife(p++);Drachenmesser (p++)
+Dragon legs/skirt ornament kit;Drachenbeine/Rock-Ornament-Set
+Dragon limbs;Drachenglieder
+Dragon longsword;Drachenlangschwert
+Dragon mace;Drachenstreitkolben
+Dragon med helm;Drachenhelm
+Dragon metal lump;Drachenmetallklumpen
+Dragon metal shard;Drachenmetallsplitter
+Dragon metal slice;Drachenmetallscheibe
+Dragon necklace;Drachenhalskette
+Dragon pickaxe;Drachenspitzhacke
+Dragon pickaxe (or);Drachenspitzhacke (oder)
+Dragon pickaxe upgrade kit;Drachen-Spitzhacke-Upgrade-Kit
+Dragon platebody;Drachenplattenpanzer
+Dragon platebody (g);Drachenplattenpanzer (g)
+Dragon platebody ornament kit;Drachen-Plattenpanzer-Ornament-Set
+Dragon platelegs;Drachenplattenbeine
+Dragon platelegs (g);Drachenplattenbeine (g)
+Dragon plateskirt;Drachen-Plattenrock
+Dragon plateskirt (g);Drachen-Plattenrock (g)
+Dragon scale dust;Drachenschuppenstaub
+Dragon scimitar;Drachensäbel
+Dragon scimitar (or);Drachensäbel (oder)
+Dragon scimitar ornament kit;Drachensäbel-Ornamentset
+Dragon spear;Drachenspeer
+Dragon spear(kp);Drachenspeer (kp)
+Dragon spear(p);Drachenspeer(p)
+Dragon spear(p+);Drachenspeer (p+)
+Dragon spear(p++);Drachenspeer (p++)
+Dragon sq shield;Drachenquadratschild
+Dragon sq shield (g);Drachenquadratschild (g)
+Dragon sq shield ornament kit;Drachen-Quadrat-Schild-Ornament-Set
+Dragon sword;Drachenschwert
+Dragon thrownaxe;Drachenwurfaxt
+Dragon token;Drachen-Token
+Dragon warhammer;Drachenkriegshammer
+Dragonbone necklace;Drachenknochen-Halskette
+Dragonfire shield;Drachenfeuerschild
+Dragonfire ward;Drachenfeuer-Bezirk
+Dragonfruit;Drachenfrucht
+Dragonfruit pie;Drachenfruchtkuchen
+Dragonfruit sapling;Drachenfruchtsetzling
+Dragonfruit seedling;Drachenfruchtsämling
+Dragonfruit seedling (w);Drachenfruchtsämling (w)
+Dragonfruit tree seed;Drachenfruchtbaumsamen
+Dragonstone;Drachenstein
+Dragonstone amulet;Drachenstein-Amulett
+Dragonstone amulet (u);Drachenstein-Amulett (u)
+Dragonstone armour set;Drachenstein-Rüstungsset
+Dragonstone bolt tips;Drachenstein-Bolzenspitzen
+Dragonstone bolts;Drachensteinbolzen
+Dragonstone bolts (e);Drachensteinbolzen (e)
+Dragonstone boots;Drachensteinstiefel
+Dragonstone bracelet;Drachenstein-Armband
+Dragonstone dragon bolts;Drachenstein-Drachenbolzen
+Dragonstone dragon bolts (e);Drachenstein-Drachenbolzen (e)
+Dragonstone full helm;Drachenstein-Vollhelm
+Dragonstone gauntlets;Drachenstein-Stulpen
+Dragonstone platebody;Plattenkörper aus Drachenstein
+Dragonstone platelegs;Drachenstein-Plattenbeine
+Dragonstone ring;Drachensteinring
+Drakan's medallion;Drakans Medaillon
+Drake;Erpel
+Drake bonemeal;Drake-Knochenmehl
+Drake bones;Drachenknochen
+Drake's claw;Drakes Klaue
+Drake's tooth;Drakes Zahn
+Dramen branch;Dramen-Filiale
+Dramen staff;Dramen-Mitarbeiter
+Draynor manor teleport;Teleporter zum Herrenhaus von Draynor
+Draynor skull;Draynor-Schädel
+Dream log;Traumprotokoll
+Dream potion;Traumtrank
+Dream vial (empty);Traumfläschchen (leer)
+Dream vial (herb);Traumfläschchen (Kraut)
+Dream vial (water);Traumfläschchen (Wasser)
+Dreamy lamp;Verträumte Lampe
+Dried thistle;Getrocknete Distel
+Drift net;Treibnetz
+Druid pouch;Druidenbeutel
+Druid's robe top;Druiden-Robenoberteil
+Druidic spell;Druidischer Zauber
+Druidic wreath;Druidischer Kranz
+Drunk dragon;Betrunkener Drache
+Drunk parrot;Betrunkener Papagei
+Dry sticks;Trockene Stöcke
+Dual sai;Dual-Sai
+Dummy;Dummy
+Dummy portal;Dummy-Portal
+Dungeon corridor;Kerkerkorridor
+Dungeon cross;Kerkerkreuz
+Dungeon entrance;Kerkereingang
+Dungeon stairs;Kerkertreppe
+Dust battlestaff;Staubkampfstab
+Dust devil;Staubteufel
+Dust rune;Staubrune
+Dusty key;Staubiger Schlüssel
+Dusty scroll;Staubige Schriftrolle
+Dwarf;Zwerg
+Dwarf brew;Zwergengebräu
+Dwarf cannon set;Zwergenkanonen-Set
+Dwarf remains;Zwerg bleibt
+Dwarf weed;Zwergkraut
+Dwarf weed potion (unf);Zwergenkrauttrank (unf)
+Dwarf weed seed;Zwergunkrautsamen
+Dwarven battleaxe;Zwergische Streitaxt
+Dwarven helmet;Zwergenhelm
+Dwarven lore;Zwergenkunde
+Dwarven rock cake;Zwergensteinkuchen
+Dwarven stout;Zwergen-Stout
+Dwarven stout(1);Zwergenbier(1)
+Dwarven stout(2);Zwergen-Stout(2)
+Dwarven stout(3);Zwergenbier(3)
+Dwarven stout(4);Zwergen-Stout(4)
+Dwarven stout(m);Zwergen-Stout(m)
+Dwarven stout(m1);Zwergenbier (m1)
+Dwarven stout(m2);Zwergen-Stout (m2)
+Dwarven stout(m3);Zwergen-Stout (m3)
+Dwarven stout(m4);Zwergen-Stout (m4)
+Dwellberries;Wohnbeeren
+Dwellberry seed;Dwellberry-Samen
+Dyed orange;Orange gefärbt
+Dynamite;Dynamit
+Dynamite pot;Dynamittopf
+Eagle cape;Adlerumhang
+Eagle feather;Adlerfeder
+Eagle lectern;Adler-Rednerpult
+Earmuffs;Ohrenschützer
+Earth battlestaff;Erdkampfstab
+Earth impling jar;Erde-Impling-Glas
+Earth orb;Erdkugel
+Earth rune;Erdrune
+Earth rune (nz);Erdrune (nz)
+Earth rune pack;Erdrunenpaket
+Earth talisman;Talisman der Erde
+Earth tiara;Erd-Tiara
+Earth warrior champion scroll;Schriftrolle des Erdkriegers-Champions
+Earthy chocolate mix;Erdige Schokoladenmischung
+Earthy easter egg;Erdiges Osterei
+Easter;Ostern
+Easter basket;Osterkorb
+Easter blaster;Osterblaster
+Easter egg;Osterei
+Easter egg helm;Osterei-Helm
+Easter ring;Osterring
+Eastern discovery;Östliche Entdeckung
+Eastern settlement;Östliche Siedlung
+Eathram & rada extract;Eathram- und Rada-Extrakt
+Ebrill's journal;Ebrills Tagebuch
+Eclectic impling jar;Eklektisches Impling-Glas
+Ecto-token;Ecto-Token
+Ectophial;Ektophial
+Ectoplasmator;Ektoplasmator
+Ecumenical key;Ökumenischer Schlüssel
+Edern's journal;Ederns Tagebuch
+Edible seaweed;Essbare Algen
+Eek;Eek
+Eel sushi;Aal-Sushi
+Efaritay's aid;Efaritays Hilfe
+Efh salt;Efh-Salz
+Egg;Ei
+Egg and tomato;Ei und Tomate
+Egg mould;Eierform
+Egg potato;Eierkartoffel
+Egg whisk;Schneebesen
+Eggshell platebody;Plattenkörper aus Eierschale
+Eggshell platelegs;Plattenbeine aus Eierschale
+Egniol potion (1);Egniol-Trank (1)
+Egniol potion (2);Egniol-Trank (2)
+Egniol potion (3);Egniol-Trank (3)
+Egniol potion (4);Egniol-Trank (4)
+Elaborate lockbox;Aufwendiges Schließfach
+Elder (+)(1);Ältester (+)(1)
+Elder (+)(2);Ältester (+)(2)
+Elder (+)(3);Ältester (+)(3)
+Elder (+)(4);Ältester (+)(4)
+Elder (-)(1);Ältester (-)(1)
+Elder (-)(2);Ältester (-)(2)
+Elder (-)(3);Ältester (-)(3)
+Elder (-)(4);Ältester (-)(4)
+Elder cadantine;Elder Cadantine
+Elder cadantine potion (unf);Elder Cadantine Trank (unf)
+Elder chaos hood;Ältere Chaos-Kapuze
+Elder chaos robe;Elder-Chaos-Robe
+Elder chaos top;Älteres Chaos oben
+Elder maul;Elder Maul
+Elder potion (1);Holundertrank (1)
+Elder potion (2);Holundertrank (2)
+Elder potion (3);Holundertrank (3)
+Elder potion (4);Holundertrank (4)
+Eldritch nightmare staff;Eldritch-Albtraumstab
+Eldritch orb;Unheimliche Kugel
+Elemental helmet;Elementarhelm
+Elemental metal;Elementares Metall
+Elemental ore;Elementares Erz
+Elemental rune pack;Elementar-Runenpaket
+Elemental shield;Elementarschild
+Elemental sphere;Elementare Sphäre
+Elemental talisman;Elementarer Talisman
+Elena;Elena
+Elena portrait;Elena-Porträt
+Elf;Elf
+Elf crystal;Elfenkristall
+Elite void robe;Elite-Gewand der Leere
+Elite void robe (broken);Elite-Robe der Leere (kaputt)
+Elite void robe (l);Elite-Robe der Leere (l)
+Elite void top;Elite Void-Oberteil
+Elite void top (broken);Elite Void Top (kaputt)
+Elite void top (l);Elite Void Top (l)
+Elixir of everlasting;Elixier der Ewigkeit
+Elizabeth's print;Elizabeths Druck
+Elvarg's head;Elvargs Kopf
+Elven boots;Elfenstiefel
+Elven dawn;Elfendämmerung
+Elven gloves;Elfenhandschuhe
+Elven legwear;Elfen-Beinbekleidung
+Elven signet;Elfensiegel
+Elven skirt;Elfenrock
+Elven top;Elfenoberteil
+Elysian sigil;Elysisches Siegel
+Elysian spirit shield;Elysischer Geisterschild
+Embalming manual;Handbuch zur Einbalsamierung
+Emerald;Smaragd
+Emerald amulet;Smaragdamulett
+Emerald amulet (u);Smaragdamulett (u)
+Emerald bolt tips;Smaragd-Bolzenspitzen
+Emerald bolts;Smaragdbolzen
+Emerald bolts (e);Smaragdbolzen (e)
+Emerald bracelet;Smaragdarmband
+Emerald dragon bolts;Smaragdgrüne Drachenbolzen
+Emerald dragon bolts (e);Smaragddrachenbolzen (e)
+Emerald key;Smaragdschlüssel
+Emerald lantern;Smaragdlaterne
+Emerald lens;Smaragdlinse
+Emerald necklace;Smaragd-Halskette
+Emerald ring;Smaragdring
+Emerald sickle (b);Smaragdsichel (b)
+Empty blaster;Leerer Blaster
+Empty box;Leere Kiste
+Empty bucket;Leerer Eimer
+Empty bucket pack;Leere Eimerpackung
+Empty candle lantern;Leere Kerzenlaterne
+Empty cup;Leere Tasse
+Empty fishbowl;Leeres Goldfischglas
+Empty gourd vial;Leeres Kürbisfläschchen
+Empty jug;Leerer Krug
+Empty jug pack;Leere Krugpackung
+Empty light orb;Leere Lichtkugel
+Empty oil lamp;Leere Öllampe
+Empty oil lantern;Leere Öllaterne
+Empty oyster;Leere Auster
+Empty plant pot;Leerer Blumentopf
+Empty sack;Leerer Sack
+Empty spice shaker;Leerer Gewürzstreuer
+Empty tax bag;Leerer Steuerbeutel
+Empty vial;Leeres Fläschchen
+Empty vial pack;Leere Fläschchenpackung
+Empty wine bottle;Leere Weinflasche
+Enchant diamond;Verzaubernder Diamant
+Enchant dragonstone;Drachenstein verzaubern
+Enchant emerald or jade;Verzaubern Sie Smaragd oder Jade
+Enchant onyx;Verzaubern Sie Onyx
+Enchant ruby or topaz;Verzaubern Sie Rubin oder Topas
+Enchant sapphire or opal;Verzaubern Sie Saphir oder Opal
+Enchanted bar;Verzauberte Bar
+Enchanted bear;Verzauberter Bär
+Enchanted beef;Verzaubertes Rindfleisch
+Enchanted chicken;Verzaubertes Huhn
+Enchanted curtains;Verzauberte Vorhänge
+Enchanted egg;Verzaubertes Ei
+Enchanted emerald sickle (b);Verzauberte Smaragdsichel (b)
+Enchanted flour;Verzaubertes Mehl
+Enchanted gem;Verzaubertes Juwel
+Enchanted hat;Verzauberter Hut
+Enchanted key;Verzauberter Schlüssel
+Enchanted lyre;Verzauberte Leier
+Enchanted lyre(1);Verzauberte Leier(1)
+Enchanted lyre(2);Verzauberte Leier(2)
+Enchanted lyre(3);Verzauberte Leier(3)
+Enchanted lyre(4);Verzauberte Leier(4)
+Enchanted lyre(5);Verzauberte Leier(5)
+Enchanted lyre(i);Verzauberte Leier(i)
+Enchanted milk;Verzauberte Milch
+Enchanted quill;Verzauberter Federkiel
+Enchanted rat;Verzauberte Ratte
+Enchanted robe;Verzaubertes Gewand
+Enchanted ruby sickle (b);Verzauberte Rubinsichel (b)
+Enchanted scroll;Verzauberte Schriftrolle
+Enchanted snowy curtains;Verzauberte verschneite Vorhänge
+Enchanted symbol;Verzaubertes Symbol
+Enchanted top;Verzaubertes Oberteil
+Enchanted vial;Verzaubertes Fläschchen
+Endarkened juice;Verdunkelter Saft
+Energy disk (level 1);Energiescheibe (Stufe 1)
+Energy disk (level 2);Energiescheibe (Stufe 2)
+Energy disk (level 3);Energiescheibe (Stufe 3)
+Energy disk (level 4);Energiescheibe (Stufe 4)
+Energy mix(1);Energiemix(1)
+Energy mix(2);Energiemix(2)
+Energy potion(1);Energietrank(1)
+Energy potion(2);Energietrank(2)
+Energy potion(3);Energietrank(3)
+Energy potion(4);Energietrank(4)
+Engine;Motor
+Enhanced crystal key;Verbesserter Kristallschlüssel
+Enhanced crystal teleport seed;Verbesserter Kristall-Teleport-Samen
+Enraged tektiny;Wütende Tektiny
+Ensouled abyssal head;Beseelter Abgrundkopf
+Ensouled aviansie head;Beseelter Vogelkopf
+Ensouled bear head;Beseelter Bärenkopf
+Ensouled bloodveld head;Beseelter Bloodveld-Kopf
+Ensouled chaos druid head;Beseelter Chaos-Druidenkopf
+Ensouled dagannoth head;Beseelter Dagannoth-Kopf
+Ensouled demon head;Beseelter Dämonenkopf
+Ensouled dog head;Beseelter Hundekopf
+Ensouled dragon head;Beseelter Drachenkopf
+Ensouled elf head;Beseelter Elfenkopf
+Ensouled giant head;Beseelter Riesenkopf
+Ensouled goblin head;Beseelter Koboldkopf
+Ensouled horror head;Beseelter Horrorkopf
+Ensouled imp head;Beseelter Koboldkopf
+Ensouled kalphite head;Beseelter Kalphitkopf
+Ensouled minotaur head;Beseelter Minotauruskopf
+Ensouled monkey head;Beseelter Affenkopf
+Ensouled ogre head;Beseelter Ogerkopf
+Ensouled scorpion head;Beseelter Skorpionkopf
+Ensouled troll head;Beseelter Trollkopf
+Ensouled tzhaar head;Beseelter Tzhaar-Kopf
+Ensouled unicorn head;Beseelter Einhornkopf
+Ent's roots;Ents Wurzeln
+Entomologist's diary;Tagebuch des Entomologen
+Equa leaves;Equa geht
+Equa toad's legs;Beine der Equa-Kröte
+Essence impling jar;Essenz-Impling-Glas
+Essence pack;Essenzpaket
+Etchings;Radierungen
+Eternal boots;Ewige Stiefel
+Eternal crystal;Ewiger Kristall
+Eternal gem;Ewiges Juwel
+Eternal teleport crystal;Ewiger Teleportkristall
+Ethenea;Ethenea
+Event rpg;Event-Rollenspiel
+Evil chicken feet;Böse Hühnerfüße
+Evil chicken head;Böser Hühnerkopf
+Evil chicken legs;Böse Hähnchenschenkel
+Evil chicken wings;Böse Chicken Wings
+Evil chicken's egg;Böses Hühnerei
+Evil root;Böse Wurzel
+Excalibur;Excalibur
+Exit portal;Ausgangsportal
+Exotic flower;Exotische Blume
+Expeditious bracelet;Schnelles Armband
+Experiment bone;Experimentieren Sie mit Knochen
+Experimental note;Experimenteller Hinweis
+Expert mining gloves;Experten-Handschuhe für den Bergbau
+Explorer backpack;Explorer-Rucksack
+Explorer's notes;Notizen des Forschers
+Explorer's ring;Ring des Entdeckers
+Explorer's ring 1;Forscherring 1
+Explorer's ring 2;Forscherring 2
+Explorer's ring 3;Forscherring 3
+Explorer's ring 4;Forscherring 4
+Explosive discovery;Explosive Entdeckung
+Explosive potion;Explosiver Trank
+Exquisite boots;Exquisite Stiefel
+Exquisite clothes;Erlesene Kleidung
+Extended antifire mix(1);Erweiterter Feuerschutzmix(1)
+Extended antifire mix(2);Erweiterter Feuerschutzmix(2)
+Extended antifire(1);Erweiterter Feuerschutz(1)
+Extended antifire(2);Erweiterter Feuerschutz(2)
+Extended antifire(3);Erweiterter Feuerschutz(3)
+Extended antifire(4);Erweiterter Feuerschutz(4)
+Extended brush;Erweiterter Pinsel
+Extended super antifire mix(1);Erweiterter Super-Antifeuer-Mix(1)
+Extended super antifire mix(2);Erweiterter Super-Antifeuer-Mix(2)
+Extended super antifire(1);Erweiterter Super-Feuerschutz(1)
+Extended super antifire(2);Erweiterter Super-Feuerschutz(2)
+Extended super antifire(3);Erweiterter Super-Feuerschutz(3)
+Extended super antifire(4);Erweiterter Super-Feuerschutz(4)
+Extra supply crate;Zusätzliche Vorratskiste
+Extra weapons rack;Zusätzlicher Waffenständer
+Extradimensional bag;Extradimensionale Tasche
+Eye of gnome;Auge des Gnoms
+Eye of newt;Auge des Molches
+Eye of newt pack;Auge des Molchrudels
+Facemask;Schutzmaske
+Fairy enchantment;Feenzauber
+Fairy mushroom;Feenpilz
+Fairy ring;Feenring
+Fake beak;Falscher Schnabel
+Fake beard;Falscher Bart
+Fake dragon hasta(kp);Falscher Drache hasta(kp)
+Fake man;Falscher Mann
+Falador shield;Falador-Schild
+Falador shield 1;Falador-Schild 1
+Falador shield 2;Falador-Schild 2
+Falador shield 3;Falador-Schild 3
+Falador shield 4;Falador-Schild 4
+Falador teleport;Falador-Teleport
+Falconer's glove;Falknerhandschuh
+Family crest;Familienwappen
+Fancy boots;Ausgefallene Stiefel
+Fancy hedge;Schicke Hecke
+Fancy jewellery box;Ausgefallene Schmuckschatulle
+Fancy range;Ausgefallenes Sortiment
+Fancy rejuvenation pool;Schickes Verjüngungsbecken
+Fancy teak dresser;Schicke Kommode aus Teakholz
+Fancy tiara;Ausgefallene Tiara
+Fang;Fang
+Farmer;Bauer
+Farmer's boots;Bauernstiefel
+Farmer's boro trousers;Farmer's Boro-Hose
+Farmer's fork;Bauerngabel
+Farmer's jacket;Bauernjacke
+Farmer's shirt;Bauernhemd
+Farmer's strawhat;Bauernstrohhut
+Farming cape;Landwirtschaftlicher Umhang
+Farming cape(t);Landwirtschafts-Umhang(t)
+Farming hood;Landwirtschaftliche Haube
+Farming manual;Landwirtschaftshandbuch
+Farseer helm;Scharfseher-Helm
+Fat snail;Fette Schnecke
+Fat snail meat;Fettes Schneckenfleisch
+Fayrg bonemeal;Fayrg-Knochenmehl
+Fayrg bones;Fayrg-Knochen
+Feather;Feder
+Feather pack;Federpaket
+Feathered journal;Gefiedertes Tagebuch
+Fedora;Fedora
+Feldip hills teleport;Feldip-Hügel teleportieren
+Feldip weasel fur;Feldip-Wieselfell
+Female h.a.m.;Weiblicher H.A.M.
+Fencing ring;Zaunring
+Fenkenstrain's castle teleport;Fenkenstrains Burgteleport
+Fern;Farn
+Ferocious gloves;Wilde Handschuhe
+Ferret;Frettchen
+Festive cinnamon stick;Festliche Zimtstange
+Festive egg;Festliches Ei
+Festive flour;Festliches Mehl
+Festive ginger powder;Festliches Ingwerpulver
+Festive pot;Festlicher Topf
+Fever spider;Fieberspinne
+Fever spider body;Fieberspinnenkörper
+Fez;Fes
+Fibula piece;Fibelstück
+Field arrow;Feldpfeil
+Field ration;Feldration
+Fighter hat;Kämpferhut
+Fighter hat (broken);Kämpferhut (kaputt)
+Fighter hat (l);Kämpferhut (l)
+Fighter torso;Kämpfer-Torso
+Fighter torso (broken);Kämpfertorso (gebrochen)
+Fighter torso (l);Kämpfertorso (l)
+Fighting boots;Kampfstiefel
+Filled plant pot;Gefüllter Blumentopf
+Fillets;Filets
+Fine cloth;Feiner Stoff
+Fine mesh net;Feinmaschiges Netz
+Fingernails;Fingernägel
+Fingers;Finger
+Fire;Feuer
+Fire battlestaff;Feuerkampfstab
+Fire cape;Feuerumhang
+Fire cape (broken);Feuerumhang (kaputt)
+Fire cape (l);Feuerumhang (l)
+Fire feather;Feuerfeder
+Fire giant bone;Feuerriesenknochen
+Fire max cape;Feuer-Max-Umhang
+Fire max cape (broken);Fire Max-Umhang (kaputt)
+Fire max cape (l);Fire Max Umhang (l)
+Fire max hood;Fire Max-Haube
+Fire of dehumidification;Feuer der Entfeuchtung
+Fire of eternal light;Feuer des ewigen Lichts
+Fire of nourishment;Feuer der Nahrung
+Fire of unseasonal warmth;Feuer ungewöhnlicher Wärme
+Fire orb;Feuerkugel
+Fire rune;Feuerrune
+Fire rune (nz);Feuerrune (nz)
+Fire rune pack;Feuerrunenpaket
+Fire talisman;Feuertalisman
+Fire tiara;Feuer-Tiara
+Firemaking cape;Feuermachender Umhang
+Firemaking hood;Feuermachende Haube
+Firemaking tome;Wälzer zum Feuermachen
+Firepit;Feuerstelle
+Firepit with hook;Feuerstelle mit Haken
+Firepit with pot;Feuerstelle mit Topf
+Firework;Feuerwerk
+Fiscal statement;Steuererklärung
+Fish barrel;Fischfass
+Fish chunks;Fischstücke
+Fish food;Fischfutter
+Fish offcuts;Fischreste
+Fish pie;Fischpastete
+Fish sack;Fischsack
+Fish sack barrel;Fischsackfass
+Fish vial;Fischfläschchen
+Fishbowl;Fischglas
+Fishbowl and net;Goldfischglas und Netz
+Fishbowl helmet;Fishbowl-Helm
+Fishing bait;Angelköder
+Fishing cape;Angelumhang
+Fishing cape(t);Angelumhang(t)
+Fishing explosive;Angelsprengstoff
+Fishing guild teleport;Teleport der Fischergilde
+Fishing hood;Angelhaube
+Fishing mix(1);Angelmischung(1)
+Fishing mix(2);Angelmischung(2)
+Fishing pass;Angelschein
+Fishing potion(1);Angeltrank(1)
+Fishing potion(2);Angeltrank(2)
+Fishing potion(3);Angeltrank(3)
+Fishing potion(4);Angeltrank(4)
+Fishing rod;Angelrute
+Fishing tome;Angelbuch
+Fishing trophy;Angeltrophäe
+Fishlike thing;Fischähnliches Ding
+Fishy chocolate mix;Fischige Schokoladenmischung
+Fishy easter egg;Fischiges Osterei
+Five barrels;Fünf Fässer
+Fixed device;Festes Gerät
+Fiyr remains;Fiyr bleibt
+Flame pit;Flammengrube
+Flamtaer bag;Flamtaer-Tasche
+Flamtaer bracelet;Flamtaer-Armband
+Flamtaer hammer;Flamtaer-Hammer
+Flared trousers;Ausgestellte Hose
+Flash powder;Blitzpulver
+Flattened hide;Abgeflachte Haut
+Flax;Flachs
+Flaygian's notes;Flaygians Notizen
+Fletching cape;Befiederter Umhang
+Fletching cape(t);Befiederungsumhang(t)
+Fletching hood;Befiederte Kapuze
+Flighted ogre arrow;Ogerpfeil mit Flügel
+Flippers;Flossen
+Floor decoration;Bodendekoration
+Flour;Mehl
+Fluffs' kitten;Fluffs' Kätzchen
+Fluffy chocolate mix;Flauschige Schokoladenmischung
+Fluffy easter egg;Flauschiges Osterei
+Fluffy feathers;Flauschige Federn
+Fly fishing rod;Fliegenfischerrute
+Flyer;Flyer
+Flying vespina;Fliegende Vespa
+Flypaper;Fliegenpapier
+Footprint;Fußabdruck
+Forlorn boot;Verlassener Stiefel
+Formal garden;Formaler Garten
+Fossil island note book;Fossiles Insel-Notizbuch
+Fossil island wyvern;Fossiler Inselwyvern
+Fossilised branch;Versteinerter Zweig
+Fossilised leaf;Versteinertes Blatt
+Fossilised mushroom;Versteinerter Pilz
+Fossilised roots;Versteinerte Wurzeln
+Fossilised stump;Versteinerter Stumpf
+Four barrels;Vier Fässer
+Four-poster bed;Himmelbett
+Fox;Fuchs
+Fractured crystal;Gebrochener Kristall
+Fragment 1;Fragment 1
+Fragment 2;Fragment 2
+Fragment 3;Fragment 3
+Frank's print;Franks Druck
+Free to play starter pack;Kostenloses Starterpaket zum Spielen
+Fremennik;Fremennik
+Fremennik ballad;Fremennik-Ballade
+Fremennik beige shirt;Beigefarbenes Fremennik-Hemd
+Fremennik black cloak;Schwarzer Fremennik-Umhang
+Fremennik blade;Fremennik-Klinge
+Fremennik blue cloak;Blauer Fremennik-Umhang
+Fremennik blue shirt;Fremennik blaues Hemd
+Fremennik boots;Fremennik-Stiefel
+Fremennik brown cloak;Brauner Fremennik-Umhang
+Fremennik brown shirt;Fremennik braunes Hemd
+Fremennik cyan cloak;Fremennik-Cyan-Umhang
+Fremennik gloves;Fremennik-Handschuhe
+Fremennik green cloak;Grüner Fremennik-Umhang
+Fremennik grey cloak;Grauer Fremennik-Umhang
+Fremennik grey shirt;Graues Fremennik-Hemd
+Fremennik hat;Fremennik-Hut
+Fremennik helm;Fremennik-Helm
+Fremennik kilt;Fremennik-Kilt
+Fremennik pink cloak;Fremennik rosa Umhang
+Fremennik purple cloak;Lila Fremennik-Umhang
+Fremennik red cloak;Roter Fremennik-Umhang
+Fremennik red shirt;Fremennik rotes Hemd
+Fremennik robe;Fremennik-Gewand
+Fremennik sea boots;Fremennik-Seestiefel
+Fremennik sea boots 1;Fremennik-Seestiefel 1
+Fremennik sea boots 2;Fremennik Seestiefel 2
+Fremennik sea boots 3;Fremennik Seestiefel 3
+Fremennik sea boots 4;Fremennik Seestiefel 4
+Fremennik shield;Fremennik-Schild
+Fremennik skirt;Fremennik-Rock
+Fremennik teal cloak;Blaugrüner Fremennik-Umhang
+Fremennik yellow cloak;Gelber Fremennik-Umhang
+Fresh chocolate mix;Frische Schokoladenmischung
+Fresh crab claw;Frische Krabbenschere
+Fresh crab shell;Frische Krabbenschale
+Fresh easter egg;Frisches Osterei
+Fresh fish;Frischer Fisch
+Fresh monkfish;Frischer Seeteufel
+Fried mushrooms;Gebratene Pilze
+Fried onions;Röstzwiebeln
+Frog mask;Froschmaske
+Frog slippers;Froschpantoffeln
+Frog spawn;Froschlaich
+Frog token;Frosch-Token
+Frog-leather body;Körper aus Froschleder
+Frog-leather boots;Stiefel aus Froschleder
+Frog-leather chaps;Chaps aus Froschleder
+Frogburger;Frogburger
+Frogspawn gumbo;Froschlaich-Gumbo
+Frozen abyssal whip;Gefrorene Abgrundpeitsche
+Frozen bucket;Gefrorener Eimer
+Frozen jug;Gefrorener Krug
+Frozen key;Gefrorener Schlüssel
+Frozen vase;Gefrorene Vase
+Frozen whip mix;Gefrorene Peitschenmischung
+Fruit batta;Fruchtbatta
+Fruit blast;Fruchtexplosion
+Fruity chocolate mix;Fruchtige Schokoladenmischung
+Fruity easter egg;Fruchtiges Osterei
+Frying pan;Bratpfanne
+Full bucket;Voller Eimer
+Full folder;Vollständiger Ordner
+Full jug;Voller Krug
+Full kettle;Voller Wasserkocher
+Fungicide;Fungizid
+Fungicide spray 0;Fungizidspray 0
+Fungicide spray 1;Fungizidspray 1
+Fungicide spray 10;Fungizidspray 10
+Fungicide spray 2;Fungizidspray 2
+Fungicide spray 3;Fungizidspray 3
+Fungicide spray 4;Fungizidspray 4
+Fungicide spray 5;Fungizidspray 5
+Fungicide spray 6;Fungizidspray 6
+Fungicide spray 7;Fungizidspray 7
+Fungicide spray 8;Fungizidspray 8
+Fungicide spray 9;Fungizidspray 9
+Fur;Fell
+Fur head;Pelzkopf
+Fury ornament kit;Fury-Ornament-Set
+Fuse;Sicherung
+Gadderhammer;Gadderhammer
+Game book;Spielbuch
+Games necklace(1);Spiele-Halskette(1)
+Games necklace(2);Spiele-Halskette(2)
+Games necklace(3);Spiele-Halskette(3)
+Games necklace(4);Spiele-Halskette(4)
+Games necklace(5);Spiele-Halskette(5)
+Games necklace(6);Spiele-Halskette(6)
+Games necklace(7);Spiele-Halskette(7)
+Games necklace(8);Spiele-Halskette(8)
+Games room;Spielzimmer
+Gang meeting info;Informationen zu Bandentreffen
+Garden;Garten
+Garden brush;Gartenbürste
+Garden cane;Gartenstock
+Garden fence;Gartenzaun
+Garden pie;Gartenkuchen
+Gardening boots;Gartenstiefel
+Gardening trowel;Gartenkelle
+Gargoyle;Wasserspeier
+Garlic;Knoblauch
+Garlic powder;Knoblauchpulver
+Gas mask;Gasmaske
+Gauntlet cape;Stulpenumhang
+Gazebo;Pavillon
+Gear;Gang
+Gem bag;Edelsteintasche
+Generator crank;Generatorkurbel
+Ghorrock teleport;Ghorrock-Teleport
+Ghost buster 500;Ghostbuster 500
+Ghost's skull;Geisterschädel
+Ghostly boots;Gespenstische Stiefel
+Ghostly cloak;Geisterumhang
+Ghostly gloves;Gespenstische Handschuhe
+Ghostly hood;Geisterhafte Kapuze
+Ghostly robe;Geisterhaftes Gewand
+Ghostspeak amulet;Ghostspeak-Amulett
+Ghoul bone;Ghulknochen
+Ghoul champion scroll;Schriftrolle des Ghul-Champions
+Ghrazi rapier;Ghrazi-Degen
+Ghrim's book;Ghrims Buch
+Gianne dough;Gianne-Teig
+Gianne's cook book;Giannes Kochbuch
+Giant bat wing;Riesiger Fledermausflügel
+Giant boot;Riesenstiefel
+Giant boulder;Riesiger Felsbrocken
+Giant champion scroll;Riesige Champion-Schriftrolle
+Giant dwarf;Riesiger Zwerg
+Giant eagle;Riesenadler
+Giant easter egg;Riesiges Osterei
+Giant egg sac;Riesiger Eiersack
+Giant egg sac(full);Riesiger Eiersack (voll)
+Giant key;Riesiger Schlüssel
+Giant nib;Riesenfeder
+Giant pen;Riesiger Stift
+Giant present;Riesiges Geschenk
+Giant rat bone;Riesiger Rattenknochen
+Giant seaweed;Riesige Algen
+Giant squirrel;Riesiges Eichhörnchen
+Gielinor's flora - allotments;Gielinors Flora – Kleingärten
+Gielinor's flora - bushes;Gielinors Flora – Büsche
+Gielinor's flora - flowers;Gielinors Flora - Blumen
+Gielinor's flora - fruit;Gielinors Flora – Früchte
+Gielinor's flora - herbs;Gielinors Flora – Kräuter
+Gielinor's flora - hops;Gielinors Flora – Hopfen
+Gielinor's flora - trees;Gielinors Flora – Bäume
+Gilded 2h sword;Vergoldetes 2-Stunden-Schwert
+Gilded 4-poster;Vergoldetes Himmelbett
+Gilded adventure log;Vergoldetes Abenteuertagebuch
+Gilded altar;Vergoldeter Altar
+Gilded armour set (lg);Vergoldetes Rüstungsset (lg)
+Gilded armour set (sk);Vergoldetes Rüstungsset (sk)
+Gilded axe;Vergoldete Axt
+Gilded boots;Vergoldete Stiefel
+Gilded cape rack;Vergoldeter Umhangständer
+Gilded chainbody;Vergoldeter Kettenkörper
+Gilded clock;Vergoldete Uhr
+Gilded coif;Vergoldete Haube
+Gilded cross;Vergoldetes Kreuz
+Gilded d'hide body;Vergoldeter D'Hide-Körper
+Gilded d'hide chaps;Vergoldete D'Hide-Chaps
+Gilded d'hide vambraces;Vergoldete D'Hide-Unterarmschienen
+Gilded decoration;Vergoldete Dekoration
+Gilded dragonhide set;Set aus vergoldetem Drachenleder
+Gilded dresser;Vergoldete Kommode
+Gilded four-poster;Vergoldetes Himmelbett
+Gilded full helm;Vergoldeter Vollhelm
+Gilded hasta;Vergoldete Hasta
+Gilded kiteshield;Vergoldeter Drachenschild
+Gilded magic wardrobe;Vergoldete Zaubergarderobe
+Gilded med helm;Vergoldeter Med-Helm
+Gilded pickaxe;Vergoldete Spitzhacke
+Gilded platebody;Vergoldeter Plattenkörper
+Gilded platelegs;Vergoldete Plattenbeine
+Gilded plateskirt;Vergoldeter Tellerrock
+Gilded portal nexus;Vergoldeter Portal-Nexus
+Gilded scimitar;Vergoldeter Krummsäbel
+Gilded smile flag;Vergoldete Smile-Flagge
+Gilded spade;Vergoldeter Spaten
+Gilded spear;Vergoldeter Speer
+Gilded sq shield;Vergoldeter quadratischer Schild
+Gilded throne;Vergoldeter Thron
+Gilded totem;Vergoldetes Totem
+Gilded wardrobe;Vergoldeter Kleiderschrank
+Gin;Gin
+Gingerbread gnome;Lebkuchenzwerg
+Gingerbread shield;Lebkuchenschild
+Giral bat (2);Giral-Fledermaus (2)
+Glarial's amulet;Glarials Amulett
+Glarial's pebble;Glalarials Kieselstein
+Glarial's urn;Glalarials Urne
+Glarial's urn (empty);Glarials Urne (leer)
+Glassblowing book;Glasbläserbuch
+Glassblowing pipe;Glasbläserrohr
+Glistening tear;Glitzernde Träne
+Globe;Globus
+Glorious arena;Herrliche Arena
+Glough's journal;Gloughs Tagebuch
+Glough's key;Gloughs Schlüssel
+Glove rack;Handschuhständer
+Gloves of darkness;Handschuhe der Dunkelheit
+Gloves of silence;Handschuhe der Stille
+Glowing dagger;Leuchtender Dolch
+Glowing fungus;Leuchtender Pilz
+Gnome;Gnom
+Gnome amulet;Gnomen-Amulett
+Gnome bench;Gnomenbank
+Gnome child hat;Gnome-Kindermütze
+Gnome child icon;Gnome-Kind-Symbol
+Gnome child mask;Gnome-Kindermaske
+Gnome goggles;Gnome-Brille
+Gnome royal seal;Königliches Gnomensiegel
+Gnome scarf;Wichtelschal
+Gnome spice;Gnomengewürz
+Gnomeball;Gnomenball
+Gnomebowl mould;Gnomebowl-Form
+Gnomish firelighter;Gnomischer Feueranzünder
+Goat dung;Ziegenmist
+Goat horn dust;Ziegenhornstaub
+Goblin book;Koboldbuch
+Goblin champion scroll;Goblin-Champion-Schriftrolle
+Goblin decorations;Goblin-Dekorationen
+Goblin gifts;Goblin-Geschenke
+Goblin kitchen key;Kobold-Küchenschlüssel
+Goblin mail;Goblin-Post
+Goblin stew;Goblin-Eintopf
+Goblin symbol book;Kobold-Symbolbuch
+Goblin village sphere;Goblin-Dorfsphäre
+Godsword blade;Götterschwertklinge
+Godsword shard 1;Götterschwertsplitter 1
+Godsword shard 2;Götterschwertsplitter 2
+Godsword shard 3;Götterschwertsplitter 3
+Godsword shards 1 & 2;Götterschwertsplitter 1 und 2
+Godsword shards 1 & 3;Götterschwertsplitter 1 und 3
+Godsword shards 2 & 3;Götterschwertsplitter 2 und 3
+Gold amulet;Goldamulett
+Gold amulet (u);Goldamulett (u)
+Gold bar;Goldbarren
+Gold bowl;Goldschale
+Gold bracelet;Goldarmband
+Gold candlesticks;Goldene Kerzenhalter
+Gold coffin;Goldsarg
+Gold elegant blouse;Goldene elegante Bluse
+Gold elegant legs;Goldene, elegante Beine
+Gold elegant shirt;Goldenes elegantes Hemd
+Gold elegant skirt;Goldfarbener eleganter Rock
+Gold fragment;Goldfragment
+Gold headband;Goldenes Stirnband
+Gold helmet;Goldhelm
+Gold key black;Goldschlüssel schwarz
+Gold key brown;Goldschlüssel braun
+Gold key crimson;Goldschlüssel purpurrot
+Gold key purple;Goldschlüssel lila
+Gold key red;Goldschlüssel rot
+Gold leaf;Blattgold
+Gold locks;Goldene Schlösser
+Gold necklace;Goldene Halskette
+Gold ore;Golderz
+Gold ore fragment;Golderzfragment
+Gold ring;Goldring
+Gold satchel;Goldene Umhängetasche
+Gold seal;Goldsiegel
+Golden apron;Goldene Schürze
+Golden armadyl special attack;Goldener Armadyl-Spezialangriff
+Golden bandos special attack;Spezialangriff „Goldene Bandos“.
+Golden bowl;Goldene Schale
+Golden candle;Goldene Kerze
+Golden chef's hat;Goldene Kochmütze
+Golden feather;Goldene Feder
+Golden fleece;Goldenes Vlies
+Golden goblin;Goldener Kobold
+Golden hammer;Goldener Hammer
+Golden key;Goldener Schlüssel
+Golden needle;Goldene Nadel
+Golden nugget;Goldenes Nugget
+Golden pot;Goldener Topf
+Golden prospector boots;Goldene Goldsucherstiefel
+Golden prospector helmet;Goldener Goldsucherhelm
+Golden prospector jacket;Goldene Goldsucherjacke
+Golden prospector legs;Goldene Goldsucherbeine
+Golden saradomin special attack;Goldener Saradomin-Spezialangriff
+Golden scarab;Goldener Skarabäus
+Golden statuette;Goldene Statuette
+Golden tench;Goldene Schleie
+Golden tinderbox;Goldene Zunderbüchse
+Golden warbler;Goldsänger
+Golden zamorak special attack;Goldener Zamorak-Spezialangriff
+Goldsmith gauntlets;Goldschmiedehandschuhe
+Golem program;Golem-Programm
+Gollwyn's final statement;Gollwyns letzte Aussage
+Golovanova fruit;Golovanova-Frucht
+Golovanova fruit top;Golovanova-Fruchtspitze
+Golovanova seed;Golovanova-Samen
+Golpar;Golpar
+Golpar seed;Golpar-Samen
+Good anthem;Gute Hymne
+Gorak claw powder;Gorak-Klauenpulver
+Gorak claws;Gorak-Klauen
+Gorilla bonemeal;Gorillaknochenmehl
+Gorilla greegree;Gorilla-Gregree
+Gourmet impling jar;Gourmet-Impling-Glas
+Gout tuber;Gichtknolle
+Goutweed;Giersch
+Goutweedy lump;Gierschklumpen
+Graahk fur;Graahk-Fell
+Graahk headdress;Graahk-Kopfschmuck
+Graahk legs;Graahk-Beine
+Graahk top;Graahk oben
+Graceful boots;Anmutige Stiefel
+Graceful cape;Anmutiger Umhang
+Graceful gloves;Anmutige Handschuhe
+Graceful hood;Anmutige Kapuze
+Graceful legs;Anmutige Beine
+Graceful top;Anmutiges Oberteil
+Grail bell;Gralsglocke
+Grain;Getreide
+Grand seed pod;Große Samenkapsel
+Granite (2kg);Granit (2kg)
+Granite (500g);Granit (500g)
+Granite (5kg);Granit (5kg)
+Granite body;Granitkörper
+Granite boots;Granitstiefel
+Granite cannonball;Granit-Kanonenkugel
+Granite clamp;Granitklemme
+Granite dust;Granitstaub
+Granite gloves;Granithandschuhe
+Granite hammer;Granithammer
+Granite helm;Granithelm
+Granite legs;Granitbeine
+Granite longsword;Granit-Langschwert
+Granite maul;Granithammer
+Granite ring;Granitring
+Granite ring (i);Granitring (i)
+Granite shield;Granitschild
+Grape seed;Traubenkern
+Grapes;Trauben
+Grapple;Greifen
+Grassland habitat;Lebensraum Grasland
+Gravedigger boots;Totengräberstiefel
+Gravedigger gloves;Totengräberhandschuhe
+Gravedigger leggings;Totengräber-Leggings
+Gravedigger mask;Totengräbermaske
+Gravedigger top;Totengräber-Oberteil
+Gravestone;Grabstein
+Great blue heron;Großer blauer Reiher
+Greater demon mask;Größere Dämonenmaske
+Greater focus;Größere Konzentration
+Greater magic cage;Größerer magischer Käfig
+Greater siren;Größere Sirene
+Green balloon;Grüner Ballon
+Green banner;Grünes Banner
+Green boater;Grüner Bootsfahrer
+Green boots;Grüne Stiefel
+Green candy;Grüne Süßigkeiten
+Green cape;Grüner Umhang
+Green crystal;Grüner Kristall
+Green d'hide body;Grüner D'Hide-Körper
+Green d'hide body (g);Grüner D'Hide-Körper (g)
+Green d'hide body (t);Grüner D'Hide-Körper (t)
+Green d'hide chaps;Green d'Hide Chaps
+Green d'hide chaps (g);Green d'hide Chaps (g)
+Green d'hide chaps (t);Green d'hide Chaps (t)
+Green d'hide shield;Grüner d'hide-Schild
+Green d'hide vambraces;Unterarmschienen aus grünem Leder
+Green dark bow paint;Grüne dunkle Bogenfarbe
+Green destabiliser;Grüner Destabilisator
+Green dragon leather;Grünes Drachenleder
+Green dragon mask;Grüne Drachenmaske
+Green dragonhide;Grünes Drachenleder
+Green dragonhide set;Set aus grünem Drachenleder
+Green dye;Grüner Farbstoff
+Green dye bellows;Grüner Farbbalg
+Green egg;Grünes Ei
+Green elegant blouse;Grüne elegante Bluse
+Green elegant legs;Grüne elegante Beine
+Green elegant shirt;Grünes elegantes Hemd
+Green elegant skirt;Grüner eleganter Rock
+Green fireflies;Grüne Glühwürmchen
+Green firelighter;Grüner Feueranzünder
+Green gingerbread shield;Grünes Lebkuchenschild
+Green gloop soup;Grüne Gloop-Suppe
+Green goblin mail;Grüne Koboldpost
+Green halloween mask;Grüne Halloween-Maske
+Green hat;Grüner Hut
+Green headband;Grünes Stirnband
+Green logs;Grüne Protokolle
+Green marionette;Grüne Marionette
+Green naval shirt;Grünes Marinehemd
+Green navy slacks;Grüne Marineblaue Hose
+Green partyhat;Grüner Partyhut
+Green powder;Grünes Pulver
+Green rainbow strand;Grüner Regenbogenstrang
+Green robe bottoms;Grüne Robenhose
+Green robe top;Grünes Morgenmanteloberteil
+Green satchel;Grüne Umhängetasche
+Green slayer helmet;Grüner Jägerhelm
+Green slayer helmet (i);Grüner Jägerhelm (i)
+Green spiky vambraces;Grüne, stachelige Armschienen
+Green sweets;Grüne Süßigkeiten
+Green toad;Grüne Kröte
+Green tricorn hat;Grüner Dreispitzhut
+Greenman's ale;Greenmans Bier
+Greenman's ale(m);Greenman's Ale(m)
+Greenmans ale(1);Greenmans Ale(1)
+Greenmans ale(2);Greenmans Ale(2)
+Greenmans ale(3);Greenmans Ale(3)
+Greenmans ale(4);Greenmans Ale(4)
+Greenmans ale(m1);Greenmans Ale(m1)
+Greenmans ale(m2);Greenmans Bier (m2)
+Greenmans ale(m3);Greenmans Ale (m3)
+Greenmans ale(m4);Greenmans Ale (m4)
+Gregg's eastdoor;Greggs Osttür
+Gregg's iou;Greggs Schuld
+Grey boots;Graue Stiefel
+Grey gloves;Graue Handschuhe
+Grey hat;Grauer Hut
+Grey naval shirt;Graues Marinehemd
+Grey navy slacks;Graue, marineblaue Hose
+Grey robe bottoms;Graue Robenhose
+Grey robe top;Graues Morgenmanteloberteil
+Grey toy horsey;Graues Spielzeugpferd
+Grey tricorn hat;Grauer Dreispitzhut
+Grey wolf fur;Graues Wolfsfell
+Gricoller's can;Gricollers Dose
+Gricoller's fertiliser;Gricollers Dünger
+Griffin feather;Greiffeder
+Grim reaper hood;Sensenmann-Kapuze
+Grim reaper's diary;Tagebuch des Sensenmanns
+Grim robe;Grimmiges Gewand
+Grimy ardrigal;Schmutziger Ardrigal
+Grimy avantoe;Schmutziger Avantoe
+Grimy buchu leaf;Schmutziges Buchublatt
+Grimy cadantine;Schmutziger Cadantine
+Grimy dwarf weed;Schmutziges Zwergkraut
+Grimy golpar;Schmutziger Golpar
+Grimy guam leaf;Schmutziges Guamblatt
+Grimy harralander;Schmutziger Harralander
+Grimy irit leaf;Schmutziges Irit-Blatt
+Grimy kwuarm;Schmutziger Kwuarm
+Grimy lantadyme;Schmutziges Lantadym
+Grimy marrentill;Schmutziger Marrentill
+Grimy noxifer;Schmutziger Schadstoff
+Grimy ranarr weed;Schmutziges Ranarr-Gras
+Grimy rogue's purse;Die Handtasche eines schmutzigen Schurken
+Grimy sito foil;Schmutzige Sito-Folie
+Grimy snake weed;Schmutziges Schlangenkraut
+Grimy snapdragon;Schmutziges Löwenmaul
+Grimy tarromin;Schmutziges Tarromin
+Grimy toadflax;Schmutziges Leinkraut
+Grimy torstol;Schmutziger Torstol
+Grimy volencia moss;Schmutziges Volencia-Moos
+Grip's keyring;Grips Schlüsselanhänger
+Grog;Grog
+Ground ashes;Gemahlene Asche
+Ground astral rune;Boden-Astralrune
+Ground bat bones;Gemahlene Fledermausknochen
+Ground charcoal;Gemahlene Holzkohle
+Ground cod;Gemahlener Kabeljau
+Ground crab meat;Gemahlenes Krabbenfleisch
+Ground guam;Gemahlener Guam
+Ground kelp;Gemahlener Seetang
+Ground mud runes;Bodenschlammrunen
+Ground seaweed;Gemahlener Seetang
+Ground sulphur;Gemahlener Schwefel
+Ground thistle;Gemahlene Distel
+Ground tooth;Geschliffener Zahn
+Grubby key;Schmutziger Schlüssel
+Grubs à la mode;Maden à la Mode
+Grym leaf;Grym-Blatt
+Grym potion (unf);Grym-Trank (unf)
+Guam in a box;Guam in einer Kiste
+Guam in a box?;Guam in einer Kiste?
+Guam leaf;Guam-Blatt
+Guam potion (unf);Guam-Trank (unf)
+Guam seed;Guam-Samen
+Guam tar;Guam-Teer
+Guam vial;Guam-Fläschchen
+Guam-marr vial;Guam-Marr-Fläschchen
+Guanic bat (0);Guan-Fledermaus (0)
+Guard;Bewachen
+Guard dog;Wachhund
+Guardian boots;Wächterstiefel
+Gublinch shards;Gublinch-Scherben
+Guide book;Reiseführer
+Gunpowder;Schießpulver
+Guppy;Guppy
+Guthan's armour set;Guthans Rüstungsset
+Guthan's chainskirt;Guthans Kettenrock
+Guthan's chainskirt 0;Guthans Kettenrock 0
+Guthan's chainskirt 100;Guthans Kettenrock 100
+Guthan's chainskirt 25;Guthans Kettenrock 25
+Guthan's chainskirt 50;Guthans Kettenrock 50
+Guthan's chainskirt 75;Guthans Kettenrock 75
+Guthan's helm;Guthans Helm
+Guthan's helm 0;Guthans Helm 0
+Guthan's helm 100;Guthans Helm 100
+Guthan's helm 25;Guthans Helm 25
+Guthan's helm 50;Guthans Helm 50
+Guthan's helm 75;Guthans Helm 75
+Guthan's platebody;Guthans Plattenkörper
+Guthan's platebody 0;Guthans Plattenkörper 0
+Guthan's platebody 100;Guthans Plattenkörper 100
+Guthan's platebody 25;Guthans Plattenkörper 25
+Guthan's platebody 50;Guthans Plattenkörper 50
+Guthan's platebody 75;Guthans Plattenkörper 75
+Guthan's warspear;Guthans Kriegsspeer
+Guthan's warspear 0;Guthans Kriegsspeer 0
+Guthan's warspear 100;Guthans Kriegsspeer 100
+Guthan's warspear 25;Guthans Kriegsspeer 25
+Guthan's warspear 50;Guthans Kriegsspeer 50
+Guthan's warspear 75;Guthans Kriegsspeer 75
+Guthix armour set (lg);Guthix-Rüstungsset (lg)
+Guthix armour set (sk);Guthix-Rüstungsset (sk)
+Guthix balance (unf);Guthix-Balance (unf)
+Guthix balance(1);Guthix-Waage(1)
+Guthix balance(2);Guthix-Waage(2)
+Guthix balance(3);Guthix-Waage(3)
+Guthix balance(4);Guthix-Waage(4)
+Guthix bracers;Guthix-Armschienen
+Guthix cape;Guthix-Umhang
+Guthix chaps;Guthix Leute
+Guthix cloak;Guthix-Umhang
+Guthix coif;Guthix-Haube
+Guthix crozier;Guthix Krummstab
+Guthix d'hide body;Guthix d'hide Körper
+Guthix d'hide boots;Guthix d'Hide-Stiefel
+Guthix d'hide shield;Guthix d'hide-Schild
+Guthix dragonhide set;Guthix-Drachenleder-Set
+Guthix full helm;Guthix-Vollhelm
+Guthix halo;Guthix-Heiligenschein
+Guthix halo (broken);Guthix-Heiligenschein (kaputt)
+Guthix halo (l);Guthix-Heiligenschein (l)
+Guthix icon;Guthix-Symbol
+Guthix kiteshield;Guthix Kiteshield
+Guthix max cape;Guthix Max Umhang
+Guthix max hood;Guthix Max-Haube
+Guthix mitre;Guthix-Gehrung
+Guthix mjolnir;Guthix mjolnir
+Guthix page 1;Guthix Seite 1
+Guthix page 2;Guthix Seite 2
+Guthix page 3;Guthix Seite 3
+Guthix page 4;Guthix Seite 4
+Guthix platebody;Guthix-Plattenkörper
+Guthix platelegs;Guthix-Plattenbeine
+Guthix plateskirt;Guthix-Plattenrock
+Guthix rest(1);Guthix-Rest(1)
+Guthix rest(2);Guthix-Rest(2)
+Guthix rest(3);Guthix-Rest(3)
+Guthix rest(4);Guthix-Rest(4)
+Guthix robe legs;Guthix-Robenbeine
+Guthix robe top;Guthix-Robenoberteil
+Guthix staff;Guthix-Mitarbeiter
+Guthix stole;Guthix hat gestohlen
+Guthix symbol;Guthix-Symbol
+Guthixian icon;Guthixianische Ikone
+Gypsum;Gips
+Haemalchemy volume 1;Hämalchemie Band 1
+Haemalchemy volume 2;Hämalchemie Band 2
+Hag's poison;Hags Gift
+Hair;Haar
+Hair clip;Haarspange
+Halberd;Hellebarde
+Half a botanical pie;Ein halber botanischer Kuchen
+Half a dragonfruit pie;Ein halber Drachenfruchtkuchen
+Half a fish pie;Eine halbe Fischpastete
+Half a garden pie;Ein halber Gartenkuchen
+Half a meat pie;Eine halbe Fleischpastete
+Half a mushroom pie;Ein halber Pilzkuchen
+Half a redberry pie;Ein halber Rotbeerkuchen
+Half a rock;Ein halber Stein
+Half a summer pie;Ein halber Sommerkuchen
+Half a wild pie;Ein halber wilder Kuchen
+Half an admiral pie;Ein halber Admiral-Kuchen
+Half an apple pie;Ein halber Apfelkuchen
+Half baked batta;Halbgebackene Batta
+Half baked bowl;Halbgebackene Schüssel
+Half baked crunchy;Halbgebacken knusprig
+Half certificate;Halbes Zertifikat
+Half coconut;Halbe Kokosnuss
+Half full wine jug;Halbvoller Weinkrug
+Half made batta;Halb fertiges Batta
+Half made bowl;Halbfertige Schüssel
+Half made crunchy;Zur Hälfte knusprig gemacht
+Half moon spectacles;Halbmondbrille
+Hall;Saal
+Hallowed crystal shard;Geheiligter Kristallsplitter
+Hallowed focus;Geheiligter Fokus
+Hallowed grapple;Geheiligter Kampf
+Hallowed hammer;Geheiligter Hammer
+Hallowed mark;Geheiligtes Zeichen
+Hallowed ring;Geheiligter Ring
+Hallowed sack;Geheiligter Sack
+Hallowed symbol;Geheiligtes Symbol
+Hallowed token;Geheiligtes Zeichen
+Halloween mask set;Halloween-Maskenset
+Ham boots;Schinkenstiefel
+Ham cloak;Schinkenumhang
+Ham gloves;Schinkenhandschuhe
+Ham hood;Schinkenhaube
+Ham joint;Schinkenstück
+Ham logo;Schinken-Logo
+Ham robe;Schinkenmantel
+Ham shirt;Schinkenhemd
+Hammer;Hammer
+Hammerstone hops;Hammerstone-Hopfen
+Hammerstone seed;Hammerstone-Samen
+Hand fan;Handfächer
+Hand mirror;Handspiegel
+Handkerchief;Taschentuch
+Hanging skeleton;Hängendes Skelett
+Hangman game;Galgenmännchen-Spiel
+Hangover cure;Heilmittel gegen Kater
+Hard hat;Schutzhelm
+Hard leather;Hartes Leder
+Hard leather shield;Hartlederschild
+Hardcore ironman helm;Hardcore-Ironman-Helm
+Hardcore ironman platebody;Hardcore-Ironman-Plattenkörper
+Hardcore ironman platelegs;Hardcore-Ironman-Plattenbeine
+Hardleather body;Hartlederkörper
+Hardleather gloves;Hartlederhandschuhe
+Hardy gout tuber;Winterharte Gichtknolle
+Hardy gout tubers;Winterharte Gichtknollen
+Harmonised nightmare staff;Harmonisiertes Albtraumpersonal
+Harmonised orb;Harmonisierte Kugel
+Harmony;Harmonie
+Harmony island teleport;Harmonie-Insel-Teleport
+Harpoon;Harpune
+Harpoonfish;Harpunenfisch
+Harralander;Harralander
+Harralander potion (unf);Harralander-Trank (unf)
+Harralander seed;Harralander-Samen
+Harralander tar;Harralander-Teer
+Harry's cutlass;Harrys Entermesser
+Hastily scrawled note;Hastig gekritzelte Notiz
+Hat eyepatch;Hut-Augenklappe
+Hay sack;Heusack
+Hazeel scroll;Haselnuss-Schriftrolle
+Hazeel's mark;Hazeels Zeichen
+Hazelmere's book;Hazelmeres Buch
+Hazelmere's scroll;Hazelmeres Schriftrolle
+Headless arrow;Pfeil ohne Kopf
+Headless head;Kopfloser Kopf
+Healer hat;Heilerhut
+Healer hat (broken);Heilerhut (kaputt)
+Healer hat (l);Heilerhut (l)
+Healer horn;Heilerhorn
+Healer icon;Heiler-Symbol
+Healing vial;Heilfläschchen
+Healing vial(1);Heilfläschchen(1)
+Healing vial(2);Heilphiole(2)
+Healing vial(3);Heilphiole(3)
+Healing vial(4);Heilfläschchen(4)
+Heart crystal;Herzkristall
+Heat-proof vessel;Hitzebeständiges Gefäß
+Heavy ballista;Schwere Balliste
+Heavy box;Schwere Kiste
+Heavy casket;Schwerer Sarg
+Heavy frame;Schwerer Rahmen
+Hefty tax bag;Riesige Steuertüte
+Hell cat;Höllenkatze
+Hell cat ears;Höllenkatzenohren
+Hell-kitten;Höllenkätzchen
+Hellhound;Höllenhund
+Hellpuppy;Hellpuppy
+Helm of neitiznot;Helm von Neitiznot
+Helm of raedwald;Helm von Raedwald
+Helmet fragment;Helmfragment
+Herb box;Kräuterkiste
+Herb sack;Kräutersack
+Herb tea mix;Kräuterteemischung
+Herbal tincture;Kräutertinktur
+Herbi;Herbi
+Herbiboar;Pflanzeneber
+Herblore cape;Herblore-Umhang
+Herblore cape(t);Herblore-Umhang(t)
+Herblore hood;Herblore-Kapuze
+Herman's book;Hermanns Buch
+Hero;Held
+Heron;Reiher
+Herring;Hering
+Hespori seed;Hespori-Samen
+High-level plants;Hochrangige Pflanzen
+Highwayman mask;Straßenräubermaske
+Hill giant club;Hill Giant Club
+Histories of the hallowland;Geschichten des Heiligen Landes
+History and hearsay;Geschichte und Hörensagen
+History of iban;Geschichte von Iban
+Hitpoints cape;Hitpoints-Umhang
+Hitpoints cape(t);Hitpoints Umhang(t)
+Hitpoints hood;Hitpoints-Kapuze
+Hobgoblin champion scroll;Schriftrolle des Hobgoblin-Champions
+Hobgoblin guard;Hobgoblin-Wächter
+Holiday tool;Urlaubstool
+Hollow reed;Hohlrohr
+Holy blessing;Heiliger Segen
+Holy book;Heiliges Buch
+Holy book page set;Satz heiliger Buchseiten
+Holy elixir;Heiliges Elixier
+Holy force;Heilige Kraft
+Holy grail;Heiliger Gral
+Holy handegg;Heiliges Handegg
+Holy mould;Heilige Form
+Holy sandals;Heilige Sandalen
+Holy symbol;Heiliges Symbol
+Holy table napkin;Heilige Tischserviette
+Holy water;Weihwasser
+Holy wraps;Heilige Wickel
+Holy wrench;Heiliger Schraubenschlüssel
+Honourable blessing;Ehrenvoller Segen
+Hood of darkness;Kapuze der Dunkelheit
+Hooded cloak;Kapuzenumhang
+Hoop;Band
+Hoop and stick;Reifen und kleben
+Hoop snake;Hoop-Schlange
+Hornwood helm;Hornwood-Helm
+Hosidius banner;Hosidius-Banner
+Hosidius blueprints;Hosidius-Blaupausen
+Hosidius favour certificate;Hosidius-Gunstzertifikat
+Hosidius hood;Hosidius-Haube
+Hosidius letter;Hosidius-Brief
+Hosidius scarf;Hosidius-Schal
+Hosidius teleport;Hosidius teleportiert
+Hot kettle;Heißer Wasserkocher
+Houndmaster's diary;Tagebuch des Hundemeisters
+Hourglass;Sanduhr
+House advertisement;Hauswerbung
+Huge plant;Riesige Pflanze
+Huge spider;Riesige Spinne
+Human bones;Menschliche Knochen
+Human eye;Menschliches Auge
+Hunk of crystal;Ein Stück Kristall
+Hunter cape;Jägerumhang
+Hunter cape(t);Jägerumhang(t)
+Hunter hood;Hunter-Kapuze
+Hunter kit;Hunter-Kit
+Hunter potion(1);Jägertrank(1)
+Hunter potion(2);Jägertrank(2)
+Hunter potion(3);Jägertrank(3)
+Hunter potion(4);Jägertrank(4)
+Hunter's honour;Jägers Ehre
+Hunters' crossbow;Jägerarmbrust
+Hunters' talisman;Talisman für Jäger
+Hunting knife;Jagdmesser
+Hunting mix(1);Jagdmischung(1)
+Hunting mix(2);Jagdmischung(2)
+Hydra;Hydra
+Hydra bonemeal;Hydra-Knochenmehl
+Hydra bones;Hydra-Knochen
+Hydra leather;Hydra-Leder
+Hydra slayer helmet;Hydra-Slayer-Helm
+Hydra slayer helmet (i);Hydra-Slayer-Helm (i)
+Hydra tail;Hydra-Schwanz
+Hydra's claw;Hydras Klaue
+Hydra's eye;Hydras Auge
+Hydra's fang;Hydras Fangzahn
+Hydra's heart;Hydras Herz
+Iasor seed;Iasor-Samen
+Iban's ashes;Ibans Asche
+Iban's dove;Ibans Taube
+Iban's shadow;Ibans Schatten
+Iban's staff;Ibans Mitarbeiter
+Iban's staff (u);Ibans Stab (u)
+Ice arrows;Eispfeile
+Ice cooler;Eiskühler
+Ice diamond;Eisdiamant
+Ice giant ribs;Eisriesenrippen
+Ice gloves;Eishandschuhe
+Ice plateau teleport;Eisplateau-Teleport
+Iced gingerbread shield;Geeistes Lebkuchenschild
+Icosahedron;Ikosaeder
+Icy basalt;Eisiger Basalt
+Id papers;Ausweispapiere
+Ideology of darkness;Ideologie der Dunkelheit
+Ikkle hydra;Ikkle Hydra
+Imafore's betrayal;Imafores Verrat
+Imbued guthix cape;Machtgetränkter Guthix-Umhang
+Imbued guthix cape (broken);Machtgetränkter Guthix-Umhang (kaputt)
+Imbued guthix cape (l);Durchdrungener Guthix-Umhang (l)
+Imbued guthix max cape;Durchdrungener Guthix-Max-Umhang
+Imbued guthix max cape (broken);Durchdrungener Guthix-Max-Umhang (kaputt)
+Imbued guthix max cape (l);Durchdrungener Guthix-Max-Umhang (l)
+Imbued guthix max hood;Durchdrungene Guthix-Max-Kapuze
+Imbued heart;Durchdrungenes Herz
+Imbued saradomin cape;Durchdrungener Saradomin-Umhang
+Imbued saradomin cape (broken);Durchdrungener Saradomin-Umhang (kaputt)
+Imbued saradomin cape (l);Durchdrungener Saradomin-Umhang (l)
+Imbued saradomin max cape;Durchdrungener Saradomin-Max-Umhang
+Imbued saradomin max cape (broken);Durchdrungener Saradomin-Max-Umhang (kaputt)
+Imbued saradomin max cape (l);Durchdrungener Saradomin-Max-Umhang (l)
+Imbued saradomin max hood;Durchdrungene Saradomin-Max-Kapuze
+Imbued tephra;Durchdrungenes Tephra
+Imbued zamorak cape;Durchdrungener Zamorak-Umhang
+Imbued zamorak cape (broken);Machtgetränkter Zamorak-Umhang (kaputt)
+Imbued zamorak cape (l);Durchdrungener Zamorak-Umhang (l)
+Imbued zamorak max cape;Durchdrungener Zamorak-Max-Umhang
+Imbued zamorak max cape (broken);Durchdrungener Zamorak-Max-Umhang (kaputt)
+Imbued zamorak max cape (l);Durchdrungener Zamorak-Max-Umhang (l)
+Imbued zamorak max hood;Durchgefärbte Zamorak-Max-Kapuze
+Imcando hammer;Imcando-Hammer
+Imcando hammer (broken);Imcando-Hammer (kaputt)
+Imcandoria's fall;Imcandorias Sturz
+Imp;Kobold
+Imp champion scroll;Schriftrolle des Kobold-Champions
+Imp mask;Koboldmaske
+Imp repellent;Kobold-Abwehrmittel
+Imp statue;Koboldstatue
+Imp-in-a-box(1);Imp-in-a-box(1)
+Imp-in-a-box(2);Imp-in-a-box(2)
+Impling jar;Impling-Glas
+Impling scroll;Implierende Schriftrolle
+Incantation;Beschwörung
+Incense burners;Weihrauchbrenner
+Incomplete blaster;Unvollständiger Blaster
+Incomplete heavy ballista;Unvollständige schwere Balliste
+Incomplete light ballista;Unvollständige leichte Balliste
+Incomplete pizza;Unvollständige Pizza
+Incomplete stew;Unvollständiger Eintopf
+Inert locator orb;Inerte Ortungskugel
+Infernal axe;Höllische Axt
+Infernal axe (or);Höllenaxt (oder)
+Infernal axe (uncharged);Höllenaxt (ungeladen)
+Infernal cape;Höllischer Umhang
+Infernal cape (broken);Höllenumhang (kaputt)
+Infernal cape (l);Höllenumhang (l)
+Infernal chart;Höllisches Diagramm
+Infernal eel;Höllischer Aal
+Infernal harpoon;Höllische Harpune
+Infernal harpoon (or);Höllische Harpune (oder)
+Infernal harpoon (uncharged);Höllische Harpune (ungeladen)
+Infernal mage;Höllischer Magier
+Infernal max cape;Infernaler Max-Umhang
+Infernal max cape (broken);Infernaler Max-Umhang (kaputt)
+Infernal max cape (l);Infernaler Max-Umhang (l)
+Infernal max hood;Infernal Max Kapuze
+Infernal pickaxe;Höllische Spitzhacke
+Infernal pickaxe (or);Höllische Spitzhacke (oder)
+Infernal pickaxe (uncharged);Höllische Spitzhacke (ungeladen)
+Infinity boots;Infinity-Stiefel
+Infinity bottoms;Infinity-Unterteile
+Infinity gloves;Infinity-Handschuhe
+Infinity hat;Infinity-Hut
+Infinity top;Infinity-Top
+Infused wand;Infundierter Zauberstab
+Initiate cuisse;Cuisse einleiten
+Initiate harness m;Kabelbaum m einleiten
+Initiate hauberk;Hauberk einleiten
+Initiate sallet;Schaller einleiten
+Inoculation bracelet;Impfarmband
+Inquisitor's armour set;Rüstungsset des Inquisitors
+Inquisitor's great helm;Großer Helm des Inquisitors
+Inquisitor's hauberk;Kettenhemd des Inquisitors
+Inquisitor's mace;Streitkolben des Inquisitors
+Inquisitor's plateskirt;Plattenrock des Inquisitors
+Insect repellent;Insektenschutzmittel
+Instruction manual;Bedienungsanleitung
+Insulated boots;Isolierte Stiefel
+Intel report;Intel-Bericht
+Intelligence;Intelligenz
+Invasion plans;Invasionspläne
+Inversion potion;Umkehrtrank
+Inverted santa hat;Umgedrehte Weihnachtsmütze
+Invitation letter;Einladungsschreiben
+Invitation list;Einladungsliste
+Iorwerth camp teleport;Teleporter zum Iorwerth-Lager
+Iorwerth's message;Iorwerths Nachricht
+Iou;Ich
+Irit leaf;Irit-Blatt
+Irit potion (unf);Irit-Trank (unf)
+Irit seed;Irit-Samen
+Iron 2h sword;Eisernes 2-Stunden-Schwert
+Iron arrow;Eisenpfeil
+Iron arrow(p);Eisenpfeil(p)
+Iron arrow(p+);Eisenpfeil(p+)
+Iron arrow(p++);Eisenpfeil(p++)
+Iron arrowtips;Pfeilspitzen aus Eisen
+Iron axe;Eisenaxt
+Iron axe head;Axtkopf aus Eisen
+Iron bar;Eisenstange
+Iron battleaxe;Eiserne Streitaxt
+Iron bolts;Eisenbolzen
+Iron bolts (p);Eisenbolzen (p)
+Iron bolts (p+);Eisenbolzen (p+)
+Iron bolts (p++);Eisenbolzen (p++)
+Iron bolts (unf);Eisenbolzen (unf)
+Iron boots;Eisenstiefel
+Iron brutal;Eisen brutal
+Iron chainbody;Kettenkörper aus Eisen
+Iron claws;Eisenklauen
+Iron crossbow;Eisenarmbrust
+Iron crossbow (u);Eiserne Armbrust (u)
+Iron dagger;Eisendolch
+Iron dagger(p);Eisendolch(p)
+Iron dagger(p+);Eisendolch (p+)
+Iron dagger(p++);Eisendolch (p++)
+Iron dart;Eisenpfeil
+Iron dart tip;Dartspitze aus Eisen
+Iron dart(p);Eisenpfeil(p)
+Iron dart(p+);Eisenpfeil(p+)
+Iron dart(p++);Eisenpfeil(p++)
+Iron defender;Eiserner Verteidiger
+Iron defender (broken);Eiserner Verteidiger (kaputt)
+Iron defender (l);Eiserner Verteidiger (l)
+Iron dragon mask;Eiserne Drachenmaske
+Iron fire arrow;Eiserner Feuerpfeil
+Iron fire arrow (lit);Eiserner Feuerpfeil (beleuchtet)
+Iron full helm;Eiserner Vollhelm
+Iron full helm (g);Eiserner Vollhelm (g)
+Iron full helm (t);Eiserner Vollhelm (t)
+Iron gloves;Eisenhandschuhe
+Iron gold-trimmed set (lg);Eisen-Set mit Goldbesatz (lg)
+Iron gold-trimmed set (sk);Eisen-Set mit Goldbesatz (sk)
+Iron halberd;Eiserne Hellebarde
+Iron hasta;Eiserne Hasta
+Iron hasta(kp);Eisen-Hasta(kp)
+Iron hasta(p);Eisen hasta(p)
+Iron hasta(p+);Eisen hasta(p+)
+Iron hasta(p++);Eisen hasta(p++)
+Iron javelin;Eiserner Speer
+Iron javelin heads;Eiserne Speerköpfe
+Iron javelin(p);Eisenspeer (p)
+Iron javelin(p+);Eisenspeer (p+)
+Iron javelin(p++);Eisenspeer (p++)
+Iron key;Eisenschlüssel
+Iron kiteshield;Eiserner Drachenschild
+Iron kiteshield (g);Eiserner Drachenschild (g)
+Iron kiteshield (t);Eiserner Drachenschild (t)
+Iron knife;Eisenmesser
+Iron knife(p);Eisenmesser(p)
+Iron knife(p+);Eisenmesser(p+)
+Iron knife(p++);Eisenmesser (p++)
+Iron limbs;Eisenglieder
+Iron longsword;Eisernes Langschwert
+Iron mace;Eiserner Streitkolben
+Iron med helm;Eiserner Med-Helm
+Iron nails;Eisennägel
+Iron ore;Eisenerz
+Iron ore fragment;Eisenerzfragment
+Iron oxide;Eisenoxid
+Iron pick head;Spitzhackenkopf aus Eisen
+Iron pickaxe;Eisenspitzhacke
+Iron pickaxe (nz);Eisenspitzhacke (nz)
+Iron platebody;Eisenplattenkörper
+Iron platebody (g);Eisenplattenkörper (g)
+Iron platebody (t);Eisenplattenkörper (t)
+Iron platelegs;Eisenplattenbeine
+Iron platelegs (g);Eisenplattenbeine (g)
+Iron platelegs (t);Eisenplattenbeine (t)
+Iron plateskirt;Eisenplattenrock
+Iron plateskirt (g);Eisenplattenrock (g)
+Iron plateskirt (t);Eisenplattenrock (t)
+Iron railings;Eisengeländer
+Iron scimitar;Eiserner Krummsäbel
+Iron set (lg);Eisenset (lg)
+Iron set (sk);Eisenset (sk)
+Iron sheet;Eisenblech
+Iron sickle;Eiserne Sichel
+Iron spear;Eiserner Speer
+Iron spear(kp);Eisenspeer (kp)
+Iron spear(p);Eisenspeer(p)
+Iron spear(p+);Eisenspeer(p+)
+Iron spear(p++);Eisenspeer (p++)
+Iron spit;Eisenspieß
+Iron sq shield;Quadratischer Eisenschild
+Iron sword;Eisenschwert
+Iron thrownaxe;Eiserne Wurfaxt
+Iron trimmed set (lg);Set mit Eisenbesatz (lg)
+Iron trimmed set (sk);Set mit Eisenbesatz (sk)
+Iron warhammer;Eiserner Kriegshammer
+Ironman helm;Ironman-Helm
+Ironman platebody;Ironman-Plattenkörper
+Ironman platelegs;Ironman-Plattenbeine
+Isafdar;Isafdar
+Isafdar painting;Isafdar-Gemälde
+Item;Artikel
+Item list;Artikelliste
+Ivandis flail;Ivandis Dreschflegel
+Ivory comb;Elfenbeinkamm
+Jack lantern mask;Jack Lantern-Maske
+Jackal bone;Schakalknochen
+Jade;Jade
+Jade amulet;Jade-Amulett
+Jade amulet (u);Jadeamulett (u)
+Jade bolt tips;Jade-Bolzenspitzen
+Jade bolts;Jadebolzen
+Jade bolts (e);Jadebolzen (e)
+Jade bracelet;Jade-Armband
+Jade dragon bolts;Jadedrachenbolzen
+Jade dragon bolts (e);Jadedrachenbolzen (e)
+Jade machete;Jade-Machete
+Jade necklace;Jade-Halskette
+Jade ring;Jadering
+Jail key;Gefängnisschlüssel
+Jal-nib-rek;Jal-nib-rek
+Jalrek-jad;Jalrek-jad
+Jangerberries;Jangerbeeren
+Jangerberry seed;Jangerberry-Samen
+Jar generator;Jar-Generator
+Jar of chemicals;Glas mit Chemikalien
+Jar of darkness;Glas der Dunkelheit
+Jar of decay;Glas des Verfalls
+Jar of dirt;Glas voller Dreck
+Jar of dreams;Glas voller Träume
+Jar of eyes;Glas voller Augen
+Jar of miasma;Glas Miasma
+Jar of sand;Glas Sand
+Jar of smoke;Glas voller Rauch
+Jar of souls;Glas voller Seelen
+Jar of spirits;Glas Spirituosen
+Jar of stone;Glas aus Stein
+Jar of swamp;Glas Sumpf
+Javelin;Speer
+Javelin shaft;Speerschaft
+Jelly;Gelee
+Jester;Narr
+Jester cape;Narrenumhang
+Jester hat;Narrenhut
+Jester scarf;Narrenschal
+Jewellery;Schmuck
+Jewellery of jubilation;Schmuck des Jubels
+Jewels;Juwelen
+Jogre bone;Jogre-Knochen
+Jogre bonemeal;Jogre-Knochenmehl
+Jogre bones;Jogre-Knochen
+Jogre champion scroll;Jogre-Champion-Schriftrolle
+Jonas mask;Jonas-Maske
+Journal;Zeitschrift
+Journal page;Journalseite
+Jug;Krug
+Jug of bad wine;Krug mit schlechtem Wein
+Jug of vinegar;Krug mit Essig
+Jug of water;Krug mit Wasser
+Jug of wine;Krug Wein
+Juice-coated brush;Saftbeschichteter Pinsel
+Jungle camo legs;Beine im Dschungeltarnmuster
+Jungle camo top;Oberteil mit Dschungel-Camouflage
+Jungle demon mask;Dschungeldämonenmaske
+Juniper charcoal;Wacholderkohle
+Juniper logs;Wacholderstämme
+Junk;Müll
+Justiciar armour set;Justizielles Rüstungsset
+Justiciar chestguard;Brustschutz des Richters
+Justiciar faceguard;Gesichtsschutz eines Richters
+Justiciar legguards;Beinschützer der Justiz
+Justiciar's hand;Hand des Richters
+Jute fibre;Jutefaser
+Jute seed;Jutesamen
+K sigil;K-Siegel
+Kalphite princess;Kalphitische Prinzessin
+Kalphite soldier;Kalphitischer Soldat
+Kandarin headgear;Kandarin-Kopfbedeckung
+Kandarin headgear 1;Kandarin-Kopfbedeckung 1
+Kandarin headgear 2;Kandarin-Kopfbedeckung 2
+Kandarin headgear 3;Kandarin-Kopfbedeckung 3
+Kandarin headgear 4;Kandarin-Kopfbedeckung 4
+Karambwan paste;Karambwan-Paste
+Karambwan vessel;Karambwan-Schiff
+Karambwanji;Karambwanji
+Karambwanji paste;Karambwanji-Paste
+Karamja;Karamja
+Karamja gloves;Karamja-Handschuhe
+Karamja gloves 1;Karamja-Handschuhe 1
+Karamja gloves 2;Karamja-Handschuhe 2
+Karamja gloves 3;Karamja-Handschuhe 3
+Karamja gloves 4;Karamja-Handschuhe 4
+Karamja painting;Karamja-Gemälde
+Karamjan monkey;Karamjan-Affe
+Karamjan monkey greegree;Karamjan-Affe greegree
+Karamjan rum;Karamjan-Rum
+Karamthulhu;Karamthulhu
+Karidian disguise;Karidische Verkleidung
+Karil's armour set;Karils Rüstungsset
+Karil's coif;Karils Haube
+Karil's coif 0;Karils Haube 0
+Karil's coif 100;Karils Haube 100
+Karil's coif 25;Karils Haube 25
+Karil's coif 50;Karils Haube 50
+Karil's coif 75;Karils Haube 75
+Karil's crossbow;Karils Armbrust
+Karil's crossbow 0;Karils Armbrust 0
+Karil's crossbow 100;Karils Armbrust 100
+Karil's crossbow 25;Karils Armbrust 25
+Karil's crossbow 50;Karils Armbrust 50
+Karil's crossbow 75;Karils Armbrust 75
+Karil's leatherskirt;Karils Lederrock
+Karil's leatherskirt 0;Karils Lederrock 0
+Karil's leatherskirt 100;Karils Lederrock 100
+Karil's leatherskirt 25;Karils Lederrock 25
+Karil's leatherskirt 50;Karils Lederrock 50
+Karil's leatherskirt 75;Karils Lederrock 75
+Karil's leathertop;Karils Ledertop
+Karil's leathertop 0;Karils Ledertop 0
+Karil's leathertop 100;Karils Ledertop 100
+Karil's leathertop 25;Karils Ledertop 25
+Karil's leathertop 50;Karils Ledertop 50
+Karil's leathertop 75;Karils Ledertop 75
+Katana;Katana
+Kbd heads;Kbd-Köpfe
+Kebab;Kebab
+Kebab mix;Kebab-Mischung
+Kebbit;Kebbit
+Kebbit bolts;Kebbit-Bolzen
+Kebbit claws;Kebbit-Krallen
+Kebbit spike;Kebbit-Spitze
+Kebbit teeth;Kebbit-Zähne
+Kebbit teeth dust;Kebbit-Zahnstaub
+Keg;Fass
+Keg of beer;Fass Bier
+Kelda hops;Kelda hüpft
+Kelda seed;Kelda-Samen
+Kelda stout;Kelda Stout
+Keldagrim portrait;Keldagrim-Porträt
+Kelp;Seetang
+Keris;Keris
+Keris(p);Keris(p)
+Keris(p+);Keris(p+)
+Keris(p++);Keris(p++)
+Kettle;Wasserkocher
+Key;Schlüssel
+Key (elite);Schlüssel (Elite)
+Key (medium);Schlüssel (mittel)
+Key master teleport;Schlüsselmeister-Teleport
+Key master's key;Schlüssel des Hauptmeisters
+Key print;Schlüsselaufdruck
+Keys;Schlüssel
+Keystone crystal;Keystone-Kristall
+Kgp id card;KGP-Ausweis
+Khali brew;Khali-Gebräu
+Kharedst's memoirs;Kharedsts Memoiren
+Kharidian headpiece;Kharidian-Kopfbedeckung
+Kharyrll teleport;Kharyll-Teleport
+Khazard armour;Khazard-Rüstung
+Khazard cell keys;Khazard-Zellenschlüssel
+Khazard helmet;Khazard-Helm
+Khazard teleport;Khazard-Teleport
+Killer's knife;Killermesser
+Killer's print;Abdruck des Killers
+Killerwatt;Killerwatt
+Killing of a king;Tötung eines Königs
+Kindling;Anzündholz
+King arthur;König Arthur
+King worm;Königswurm
+King's message;Botschaft des Königs
+Kitchen;Küche
+Kitchen knife;Küchenmesser
+Kitchen table;Küchentisch
+Kite shield;Drachenschild
+Klank's gauntlets;Klanks Handschuhe
+Knife;Messer
+Knight of ardougne;Ritter von Ardougne
+Knight's notes;Ritternotizen
+Kodai (+)(1);Kodai (+)(1)
+Kodai (+)(2);Kodai (+)(2)
+Kodai (+)(3);Kodai (+)(3)
+Kodai (+)(4);Kodai (+)(4)
+Kodai (-)(1);Kodai (-)(1)
+Kodai (-)(2);Kodai (-)(2)
+Kodai (-)(3);Kodai (-)(3)
+Kodai (-)(4);Kodai (-)(4)
+Kodai insignia;Kodai-Abzeichen
+Kodai potion (1);Kodai-Trank (1)
+Kodai potion (2);Kodai-Trank (2)
+Kodai potion (3);Kodai-Trank (3)
+Kodai potion (4);Kodai-Trank (4)
+Kodai wand;Kodai-Zauberstab
+Kourend favour certificate;Kourend-Gunstzertifikat
+Kq head;Kq-Kopf
+Kq head (tattered);Kq-Kopf (zerfetzt)
+Kraken tentacle;Krakententakel
+Krandorian hops;Krandorischer Hopfen
+Krandorian seed;Krandorianischer Samen
+Kree'arra;Kree'arra
+Kristmas kebab;Kristmas-Kebab
+Kronos seed;Kronos-Samen
+Kruk jr;Kruk jr
+Kruk monkey greegree;Kruk-Affe greegree
+Kruk's paw;Kruks Pfote
+Kryket bat (4);Kryket-Fledermaus (4)
+Kurask;Kurask
+Kurask head;Kurask-Kopf
+Kwuarm;Kwuarm
+Kwuarm potion (unf);Kwuarm-Trank (unf)
+Kwuarm seed;Kwuarm-Samen
+Kyatt fur;Kyatt-Fell
+Kyatt hat;Kyatt-Hut
+Kyatt legs;Kyatt-Beine
+Kyatt top;Kyatt-Oberteil
+Kyren fish (6);Kyren-Fische (6)
+Ladder top;Leiter oben
+Lamp;Lampe
+Lamp of knowledge;Lampe des Wissens
+Lamp of the gatherer;Lampe des Sammlers
+Lantadyme;Lantadyme
+Lantadyme potion (unf);Lantadyme-Trank (unf)
+Lantadyme seed;Lantadyme-Samen
+Lantern lens;Laternenlinse
+Large cog;Großes Zahnrad
+Large enriched bone;Großer angereicherter Knochen
+Large fossilised limbs;Große versteinerte Gliedmaßen
+Large fossilised pelvis;Großes versteinertes Becken
+Large fossilised ribs;Große versteinerte Rippen
+Large fossilised skull;Großer versteinerter Schädel
+Large fossilised spine;Große versteinerte Wirbelsäule
+Large fountain;Großer Brunnen
+Large landscape;Große Landschaft
+Large map;Große Karte
+Large oak bed;Großes Eichenbett
+Large ornate key;Großer verzierter Schlüssel
+Large orrery;Großes Orrery
+Large oven;Großer Ofen
+Large portrait;Großes Porträt
+Large pouch;Große Tasche
+Large rock;Großer Felsen
+Large spade;Großer Spaten
+Large statues;Große Statuen
+Large storage unit;Große Lagereinheit
+Large teak bed;Großes Teakholzbett
+Large water container;Großer Wasserbehälter
+Large zombie monkey bonemeal;Großes Zombie-Affenknochenmehl
+Large-leaf plant;Großblattpflanze
+Larran's key;Larrans Schlüssel
+Larupia fur;Larupia-Fell
+Larupia hat;Larupia-Hut
+Larupia legs;Larupia-Beine
+Larupia top;Larupia-Oberteil
+Lassar teleport;Lassar-Teleport
+Lathas' amulet;Lathas‘ Amulett
+Lava battlestaff;Lava-Kampfstab
+Lava dragon bonemeal;Lavadrachen-Knochenmehl
+Lava dragon bones;Lava-Drachenknochen
+Lava dragon mask;Lava-Drachenmaske
+Lava eel;Lavaaal
+Lava rune;Lavarune
+Lava scale;Lavaschuppe
+Lava scale shard;Lavaschuppensplitter
+Lava staff upgrade kit;Lava-Stab-Upgrade-Kit
+Law rune;Gesetzesrune
+Law talisman;Gesetzes-Talisman
+Law tiara;Gesetzes-Tiara
+Lazy cat;Faule Katze
+Lazy hell cat;Faule Höllenkatze
+Leaf-bladed battleaxe;Streitaxt mit Blattklinge
+Leaf-bladed spear;Speer mit Blattklinge
+Leaf-bladed sword;Schwert mit Blattklinge
+League accomplishments scroll;Schriftrolle „Erfolge der Liga“.
+League hall;Ligahalle
+League statue;Liga-Statue
+League tomato;Liga-Tomate
+Lean snail;Schlanke Schnecke
+Lean snail meat;Mageres Schneckenfleisch
+Leaping salmon;Springender Lachs
+Leaping sturgeon;Springender Stör
+Leaping trout;Springende Forelle
+Leather;Leder
+Leather body;Lederkörper
+Leather body (g);Lederkörper (g)
+Leather boots;Lederstiefel
+Leather chaps;Lederchaps
+Leather chaps (g);Lederchaps (g)
+Leather cowl;Lederkapuze
+Leather gloves;Lederhandschuhe
+Leather shields flyer;Flyer zu Lederschilden
+Leather vambraces;Lederarmschienen
+Leaves;Blätter
+Leckish fish (2);Leckerer Fisch (2)
+Lederhosen hat;Lederhosenhut
+Lederhosen shorts;Lederhosen-Shorts
+Lederhosen top;Lederhosen-Oberteil
+Left boot;Linker Kofferraum
+Left eye patch;Linke Augenklappe
+Left skull half;Linke Schädelhälfte
+Left-handed banana;Linkshänder-Banane
+Legendary cocktail;Legendärer Cocktail
+Legends of the mountain;Legenden vom Berg
+Legs;Beine
+Lemon;Zitrone
+Lemon chunks;Zitronenstücke
+Lemon slices;Zitronenscheiben
+Lens mould;Linsenform
+Leon's champion scroll;Leons Championschriftrolle
+Leprechaun hat;Koboldhut
+Lesser demon champion scroll;Schriftrolle des Champions des Kleinen Dämons
+Lesser demon mask;Kleine Dämonenmaske
+Lesser magic cage;Kleiner magischer Käfig
+Letter;Brief
+Letter to surok;Brief an Surok
+Level 1 certificate;Zertifikat der Stufe 1
+Level 3 certificate;Zertifikat der Stufe 3
+Lever;Hebel
+Lever schematic;Schaltplan des Hebels
+Lift manual;Heben Sie manuell an
+Light ballista;Leichte Balliste
+Light bow tie;Leichte Fliege
+Light box;Leuchtkasten
+Light frame;Leichter Rahmen
+Light infinity bottoms;Leichte Infinity-Hose
+Light infinity colour kit;Light Infinity-Farbset
+Light infinity hat;Leichter Infinity-Hut
+Light infinity top;Leichtes Infinity-Top
+Light orb;Lichtkugel
+Light tax bag;Leichte Steuertasche
+Light trousers;Leichte Hose
+Light tuxedo cuffs;Leichte Smokingmanschetten
+Light tuxedo jacket;Leichte Smokingjacke
+Light tuxedo shoes;Leichte Smokingschuhe
+Lighthouse key;Leuchtturmschlüssel
+Lil' creator;Lil‘ Schöpfer
+Lil' destructor;Kleiner Zerstörer
+Lil' zik;Kleiner Zik
+Lime;Kalk
+Lime chunks;Limettenstücke
+Lime slices;Limettenscheiben
+Limestone;Kalkstein
+Limestone altar;Altar aus Kalkstein
+Limestone brick;Kalksteinziegel
+Limpwurt root;Limpwurt-Wurzel
+Limpwurt seed;Limpwurt-Samen
+Linen;Leinen
+Linum tirinum;Linum tirinum
+Lion toy;Löwenspielzeug
+Liquid honey;Flüssiger Honig
+List;Liste
+Lit black candle;Schwarze Kerze angezündet
+Lit bug lantern;Beleuchtete Käferlaterne
+Lit candle;Brennende Kerze
+Lit strange object;Beleuchtetes seltsames Objekt
+Lit torch;Brennende Fackel
+Little nightmare;Kleiner Albtraum
+Lizardman fang;Echsenmensch-Reißzahn
+Loach;Schmerle
+Loar remains;Loar bleibt
+Lobster;Hummer
+Lobster pot;Hummertopf
+Locating crystal;Kristall lokalisieren
+Locator orb;Ortungskugel
+Lockpick;Dietrich
+Locust meat;Heuschreckenfleisch
+Logavano fruit;Logavano-Frucht
+Logavano seed;Logavano-Samen
+Logs;Protokolle
+Logs and kindling;Protokolle und Anzündholz
+Long bone;Langer Knochen
+Long kebbit bolts;Lange Kebbit-Bolzen
+Long kebbit spike;Lange Kebbitspitze
+Long pulley beam;Langer Riemenscheibenbalken
+Long rope;Langes Seil
+Long vine;Lange Rebe
+Longbow;Langbogen
+Longbow (u);Langbogen (u)
+Longer pulley beam;Längerer Riemenscheibenbalken
+Loop half of key;Die Hälfte des Schlüssels umschlingen
+Looting bag;Plünderungsbeutel
+Looting bag note;Hinweis zur Plünderungstasche
+Lovakengj banner;Lovakengj-Banner
+Lovakengj favour certificate;Lovakengj-Gefälligkeitszertifikat
+Lovakengj hood;Lovakengj-Kapuze
+Lovakengj scarf;Lovakengj-Schal
+Lovakite bar;Lovakite-Bar
+Lovakite ore;Lovakite-Erz
+Low alcohol keg;Fass mit niedrigem Alkoholgehalt
+Low-level plants;Pflanzen mit niedrigem Niveau
+Lucky cutlass;Glückliches Entermesser
+Lucky impling jar;Glücksbringer-Glas
+Lucky shot flag;Glückliche Schussflagge
+Lumber order;Holzbestellung
+Lumber patch;Holzbeet
+Lumberjack boots;Holzfällerstiefel
+Lumberjack hat;Holzfällerhut
+Lumberjack legs;Holzfällerbeine
+Lumberjack top;Holzfäller-Oberteil
+Lumberyard teleport;Lumberyard-Teleport
+Lumbridge;Lumbridge
+Lumbridge graveyard teleport;Friedhofsteleport von Lumbridge
+Lumbridge painting;Lumbridge-Gemälde
+Lumbridge teleport;Lumbridge-Teleport
+Lump of crystal;Kristallklumpen
+Lunar altar;Mondaltar
+Lunar amulet;Mondamulett
+Lunar bar;Mondbar
+Lunar boots;Mondstiefel
+Lunar cape;Mondumhang
+Lunar glass;Mondglas
+Lunar globe;Mondglobus
+Lunar gloves;Mondhandschuhe
+Lunar helm;Mondhelm
+Lunar isle teleport;Teleport zur Mondinsel
+Lunar legs;Mondbeine
+Lunar ore;Monderz
+Lunar ring;Mondring
+Lunar signet;Mondsiegel
+Lunar staff;Mondstab
+Lunar staff - pt1;Mondstab – Teil 1
+Lunar staff - pt2;Mondstab – Teil 2
+Lunar staff - pt3;Mondstab – Teil 3
+Lunar torso;Mondtorso
+Lunch by the lancalliums;Mittagessen bei den Lancalliums
+Lutwidge and the moonfly;Lutwidge und die Mondfliege
+Lyre;Leier
+M sigil;M-Siegel
+M'amulet mould;M'Amulett-Form
+M. treasure chest;M. Schatztruhe
+Mace;Keule
+Machete;Machete
+Mackerel;Makrele
+Mage arena cape;Magier-Arena-Umhang
+Mage's book;Buch des Magiers
+Magenta crystal;Magentafarbener Kristall
+Magic beans;Zauberbohnen
+Magic bird house;Magisches Vogelhaus
+Magic box;Zauberkiste
+Magic butterfly net;Magisches Schmetterlingsnetz
+Magic cape;Zauberumhang
+Magic cape rack;Magischer Umhangständer
+Magic cape(t);Zauberumhang(t)
+Magic carpet;Zauberteppich
+Magic chest;Zaubertruhe
+Magic comp bow;Magischer Comp-Bogen
+Magic egg;Magisches Ei
+Magic egg ball;Magischer Eierball
+Magic essence (unf);Magische Essenz (unf)
+Magic essence mix(1);Magische Essenzmischung(1)
+Magic essence mix(2);Magische Essenzmischung(2)
+Magic essence(1);Magische Essenz(1)
+Magic essence(2);Magische Essenz(2)
+Magic essence(3);Magische Essenz(3)
+Magic essence(4);Magische Essenz(4)
+Magic fang;Magischer Fangzahn
+Magic glue;Magischer Kleber
+Magic gold feather;Magische Goldfeder
+Magic hood;Magische Kapuze
+Magic imp box pack;Magisches Kobold-Boxpaket
+Magic logs;Magische Protokolle
+Magic longbow;Magischer Langbogen
+Magic longbow (u);Magischer Langbogen (u)
+Magic mix(1);Zaubermischung(1)
+Magic mix(2);Zaubermischung(2)
+Magic ogre potion;Magischer Oger-Trank
+Magic potion(1);Zaubertrank(1)
+Magic potion(2);Zaubertrank(2)
+Magic potion(3);Zaubertrank(3)
+Magic potion(4);Zaubertrank(4)
+Magic pyre logs;Magische Scheiterhaufenscheite
+Magic roots;Magische Wurzeln
+Magic sapling;Magischer Schössling
+Magic secateurs;Zauberschere
+Magic secateurs (nz);Magische Gartenschere (NZ)
+Magic seed;Magischer Samen
+Magic seedling;Magischer Sämling
+Magic seedling (w);Magischer Sämling (w)
+Magic shield;Magischer Schild
+Magic shortbow;Magischer Kurzbogen
+Magic shortbow (i);Magischer Kurzbogen (i)
+Magic shortbow (u);Magischer Kurzbogen (u)
+Magic shortbow scroll;Magische Kurzbogenschriftrolle
+Magic staff;Zauberstab
+Magic stock;Magische Aktie
+Magic stone;Zauberstein
+Magic string;Zauberschnur
+Magic tree;Zauberbaum
+Magic whistle;Zauberpfeife
+Magical balance 1;Magisches Gleichgewicht 1
+Magical balance 2;Magisches Gleichgewicht 2
+Magical balance 3;Magisches Gleichgewicht 3
+Magical cape rack;Zauberhafter Umhangständer
+Magical orb;Magische Kugel
+Magical orb (a);Magische Kugel (a)
+Magical pumpkin;Zauberhafter Kürbis
+Magma helm;Magma-Helm
+Magma helm (uncharged);Magma-Helm (ungeladen)
+Magma mutagen;Magma-Mutagen
+Magnet;Magnet
+Magpie impling jar;Elster-Impling-Glas
+Mahogany adventure log;Mahagoni-Abenteuerprotokoll
+Mahogany altar;Mahagoni-Altar
+Mahogany armchair;Mahagoni-Sessel
+Mahogany armour case;Rüstungskoffer aus Mahagoni
+Mahogany bed;Bett aus Mahagoni
+Mahogany bench;Bank aus Mahagoni
+Mahogany bird house;Vogelhaus aus Mahagoni
+Mahogany bookcase;Bücherregal aus Mahagoni
+Mahogany burners;Brenner aus Mahagoni
+Mahogany cabinet;Schrank aus Mahagoni
+Mahogany cape rack;Umhangständer aus Mahagoni
+Mahogany chair;Stuhl aus Mahagoni
+Mahogany chest;Truhe aus Mahagoni
+Mahogany costume box;Mahagoni-Kostümbox
+Mahogany cupboard;Schrank aus Mahagoni
+Mahogany demon;Mahagoni-Dämon
+Mahogany drawer;Schublade aus Mahagoni
+Mahogany dresser;Kommode aus Mahagoni
+Mahogany eagle;Mahagoni-Adler
+Mahogany fancy dress box;Mahagoni-Kostümbox
+Mahogany feeder;Futterspender aus Mahagoni
+Mahogany house;Mahagonihaus
+Mahogany ladder;Leiter aus Mahagoni
+Mahogany lever;Hebel aus Mahagoni
+Mahogany logs;Mahagonistämme
+Mahogany magic wardrobe;Zaubergarderobe aus Mahagoni
+Mahogany outfit stand;Kleiderständer aus Mahagoni
+Mahogany plank;Mahagoni-Planke
+Mahogany portal;Mahagoni-Portal
+Mahogany pyre logs;Scheiterhaufen aus Mahagoni
+Mahogany sapling;Mahagoni-Setzling
+Mahogany scratching post;Kratzbaum aus Mahagoni
+Mahogany seed;Mahagonisamen
+Mahogany seedling;Mahagoni-Sämling
+Mahogany seedling (w);Mahagoni-Setzling (w)
+Mahogany shelves;Regale aus Mahagoni
+Mahogany stock;Schaft aus Mahagoni
+Mahogany table;Tisch aus Mahagoni
+Mahogany telescope;Mahagoni-Teleskop
+Mahogany throne;Mahagoni-Thron
+Mahogany toy box;Spielzeugkiste aus Mahagoni
+Mahogany treasure chest;Schatztruhe aus Mahagoni
+Mahogany trophy case;Trophäenkoffer aus Mahagoni
+Mahogany wardrobe;Kleiderschrank aus Mahagoni
+Major head;Großer Kopf
+Makeover voucher;Makeover-Gutschein
+Male h.a.m.;Männlicher Schinken
+Malediction shard 1;Verwünschungssplitter 1
+Malediction shard 2;Fluchsplitter 2
+Malediction shard 3;Fluchsplitter 3
+Malediction ward;Verwünschungsstation
+Mallignum root plank;Mallignum-Wurzelbrett
+Malumac's journal;Malumacs Tagebuch
+Man;Mann
+Man trap;Menschenfalle
+Mangled bones;Verstümmelte Knochen
+Maniacal monkey;Wahnsinniger Affe
+Manor key;Herrenhausschlüssel
+Manta ray;Manta
+Manual;Handbuch
+Map part;Kartenteil
+Map piece;Kartenstück
+Map scrap;Kartenschrott
+Maple bird house;Vogelhaus aus Ahorn
+Maple blackjack;Ahorn-Blackjack
+Maple blackjack(d);Maple Blackjack(d)
+Maple blackjack(o);Maple Blackjack(o)
+Maple logs;Ahornstämme
+Maple longbow;Ahorn-Langbogen
+Maple longbow (u);Ahorn-Langbogen (u)
+Maple pyre logs;Scheiterhaufen aus Ahornholz
+Maple roots;Ahornwurzeln
+Maple sapling;Ahornsetzling
+Maple seed;Ahornsamen
+Maple seedling;Ahornsämling
+Maple seedling (w);Ahornsämling (w)
+Maple shield;Ahornschild
+Maple shortbow;Kurzbogen aus Ahorn
+Maple shortbow (u);Ahorn-Kurzbogen (u)
+Maple stock;Schaft aus Ahorn
+Maple tree;Ahornbaum
+Marble adventure log;Marmor-Abenteuerprotokoll
+Marble altar;Marmoraltar
+Marble amulet;Marmoramulett
+Marble att. stone;Marmor-Att. Stein
+Marble block;Marmorblock
+Marble burners;Marmorbrenner
+Marble cape rack;Umhangständer aus Marmor
+Marble decorative bench;Dekorative Marmorbank
+Marble door;Marmortür
+Marble fireplace;Marmorkamin
+Marble lectern;Rednerpult aus Marmor
+Marble magic wardrobe;Zaubergarderobe aus Marmor
+Marble portal;Marmorportal
+Marble portal nexus;Marmorportal-Nexus
+Marble spiral;Marmorspirale
+Marble staircase;Marmortreppe
+Marble trap;Marmorfalle
+Marble wall;Marmorwand
+Marble wardrobe;Kleiderschrank aus Marmor
+Marigold seed;Ringelblumensamen
+Marigolds;Ringelblumen
+Marinated j' bones;Marinierte Knochen
+Marionette handle;Marionettengriff
+Mark of grace;Zeichen der Gnade
+Marlo's crate;Marlos Kiste
+Marr vial;Marr-Fläschchen
+Marrentill;Marrentill
+Marrentill potion (unf);Marrentill-Trank (unf)
+Marrentill seed;Marrentill-Samen
+Marrentill tar;Marrentill-Teer
+Mask of balance;Maske des Gleichgewichts
+Mask of ranul;Maske aus Ranul
+Massive storage unit;Riesige Aufbewahrungseinheit
+Master farmer;Meisterlandwirt
+Master scroll book;Meisterrollenbuch
+Master scroll book (empty);Meisterrollenbuch (leer)
+Master wand;Meisterstab
+Mature cider;Reifer Apfelwein
+Mature wmb;Reife Gebärmutter
+Max cape;Max-Umhang
+Max hood;Max-Kapuze
+Maze key;Labyrinthschlüssel
+Meat pie;Fleischpastete
+Meat pizza;Fleischpizza
+Meat tenderiser;Fleischklopfer
+Meaty chocolate mix;Fleischige Schokoladenmischung
+Meaty easter egg;Fleischiges Osterei
+Medical gown;Medizinischer Kittel
+Medium cog;Mittleres Zahnrad
+Medium enriched bone;Mittelangereicherter Knochen
+Medium fossilised limbs;Mittelgroß versteinerte Gliedmaßen
+Medium fossilised pelvis;Mittelgroßes versteinertes Becken
+Medium fossilised ribs;Mittlere versteinerte Rippen
+Medium fossilised skull;Mittlerer versteinerter Schädel
+Medium fossilised spine;Mittlere versteinerte Wirbelsäule
+Medium head;Mittlerer Kopf
+Medium map;Mittlere Karte
+Medium ninja bonemeal;Mittleres Ninja-Knochenmehl
+Medium pouch;Mittlerer Beutel
+Medium statues;Mittlere Statuen
+Medium storage unit;Mittlere Lagereinheit
+Medivaemia blossom;Medivemia-Blüte
+Meeting notes;Besprechungsnotizen
+Memoriam crystal (1);Memoriam-Kristall (1)
+Memoriam crystal (2);Memoriam-Kristall (2)
+Memoriam crystal (3);Memoriam-Kristall (3)
+Memoriam crystal (4);Memoriam-Kristall (4)
+Menagerie;Menagerie
+Menaphite purple hat;Menaphit-lila Hut
+Menaphite purple kilt;Menaphitlila Kilt
+Menaphite purple robe;Menaphitviolettes Gewand
+Menaphite purple top;Menaphitviolettes Oberteil
+Menaphite red hat;Menaphitroter Hut
+Menaphite red kilt;Menaphitroter Kilt
+Menaphite red robe;Menaphitrotes Gewand
+Menaphite red top;Menaphitrotes Oberteil
+Menaphite thug;Menaphitischer Schläger
+Merfolk trident;Meervolk-Dreizack
+Mermaid's tear;Tränen der Meerjungfrau
+Message;Nachricht
+Metal bar;Metallstange
+Metal feather;Metallfeder
+Metal key;Metallschlüssel
+Metal sheet;Blech
+Metal spade;Metallspaten
+Metamorphic dust;Metamorpher Staub
+Meter;Meter
+Miazrqa's pendant;Miazrqas Anhänger
+Mid-level plants;Mittelklasse-Pflanzen
+Midnight;Mitternacht
+Milky mixture;Milchige Mischung
+Mime boots;Pantomimenstiefel
+Mime gloves;Pantomimenhandschuhe
+Mime legs;Pantomimenbeine
+Mime mask;Pantomime-Maske
+Mime top;Pantomime oben
+Mimic;Nachahmen
+Minced meat;Hackfleisch
+Mind altar teleport;Gedankenaltar-Teleport
+Mind bomb(1);Gedankenbombe(1)
+Mind bomb(2);Gedankenbombe(2)
+Mind bomb(3);Gedankenbombe(3)
+Mind bomb(4);Gedankenbombe(4)
+Mind bomb(m1);Gedankenbombe (m1)
+Mind bomb(m2);Gedankenbombe (m2)
+Mind bomb(m3);Gedankenbombe (m3)
+Mind bomb(m4);Gedankenbombe (m4)
+Mind core;Geisteskern
+Mind helmet;Mind-Helm
+Mind rune;Gedankenrune
+Mind rune pack;Mind-Rune-Paket
+Mind shield;Gedankenschild
+Mind talisman;Geistestalisman
+Mind tiara;Geist-Tiara
+Minecart control scroll;Minecart-Steuerrolle
+Minecart ticket;Minecart-Ticket
+Mining cape;Bergbaukap
+Mining cape(t);Bergbauumhang(t)
+Mining gloves;Bergbauhandschuhe
+Mining helmet;Bergbauhelm
+Mining hood;Bergbauhaube
+Mining prop;Bergbau-Requisite
+Mining tome;Bergbau-Wälzer
+Minnow;Elritze
+Minor head;Kleiner Kopf
+Mint cake;Minzkuchen
+Mirror;Spiegel
+Mirror shield;Spiegelschild
+Misc. portrait;Sonstiges Porträt
+Miscellaneous key;Sonstiger Schlüssel
+Miscellanians;Verschiedenes
+Mission report;Missionsbericht
+Mist battlestaff;Nebelkampfstab
+Mist rune;Nebelrune
+Mith grapple;Mith-Grapple
+Mith grapple tip;Mith-Greiferspitze
+Mithril 2h sword;Mithril 2h Schwert
+Mithril armour;Mithril-Rüstung
+Mithril arrow;Mithril-Pfeil
+Mithril arrow(p);Mithrilpfeil(p)
+Mithril arrow(p+);Mithrilpfeil(p+)
+Mithril arrow(p++);Mithril-Pfeil (p++)
+Mithril arrowtips;Mithril-Pfeilspitzen
+Mithril axe;Mithril-Axt
+Mithril axe head;Mithril-Axtkopf
+Mithril bar;Mithril-Riegel
+Mithril battleaxe;Mithril-Streitaxt
+Mithril bolts;Mithril-Bolzen
+Mithril bolts (p);Mithrilbolzen (p)
+Mithril bolts (p+);Mithrilbolzen (p+)
+Mithril bolts (p++);Mithril-Bolzen (p++)
+Mithril bolts (unf);Mithrilbolzen (unf)
+Mithril boots;Mithril-Stiefel
+Mithril brutal;Mithril brutal
+Mithril chainbody;Mithril-Kettenkörper
+Mithril claws;Mithril-Klauen
+Mithril crossbow;Mithril-Armbrust
+Mithril crossbow (u);Mithril-Armbrust (u)
+Mithril dagger;Mithril-Dolch
+Mithril dagger(p);Mithrildolch(p)
+Mithril dagger(p+);Mithrildolch(p+)
+Mithril dagger(p++);Mithril-Dolch (p++)
+Mithril dart;Mithril-Pfeil
+Mithril dart tip;Mithril-Dartspitze
+Mithril dart(p);Mithrilpfeil(p)
+Mithril dart(p+);Mithrilpfeil(p+)
+Mithril dart(p++);Mithril-Pfeil (p++)
+Mithril defender;Mithril-Verteidiger
+Mithril defender (broken);Mithril-Verteidiger (kaputt)
+Mithril defender (l);Mithril-Verteidiger (l)
+Mithril dragon mask;Mithril-Drachenmaske
+Mithril fire arrow;Mithril-Feuerpfeil
+Mithril fire arrow (lit);Mithril-Feuerpfeil (beleuchtet)
+Mithril full helm;Mithril-Vollhelm
+Mithril full helm (g);Mithril-Vollhelm (g)
+Mithril full helm (t);Mithril-Vollhelm (t)
+Mithril gloves;Mithril-Handschuhe
+Mithril gold-trimmed set (lg);Mithril-Set mit Goldbesatz (lg)
+Mithril gold-trimmed set (sk);Mithril-Set mit Goldbesatz (sk)
+Mithril halberd;Mithril-Hellebarde
+Mithril hasta;Mithril hasta
+Mithril hasta(kp);Mithril hasta(kp)
+Mithril hasta(p);Mithril hasta(p)
+Mithril hasta(p+);Mithril hasta(p+)
+Mithril hasta(p++);Mithril hasta(p++)
+Mithril javelin;Mithril-Speer
+Mithril javelin heads;Mithril-Speerköpfe
+Mithril javelin(p);Mithril-Speer (p)
+Mithril javelin(p+);Mithril-Speer (p+)
+Mithril javelin(p++);Mithril-Speer (p++)
+Mithril kiteshield;Mithril-Drachenschild
+Mithril kiteshield (t);Mithril-Drachenschild (t)
+Mithril knife;Mithrilmesser
+Mithril knife(p);Mithrilmesser(p)
+Mithril knife(p+);Mithrilmesser(p+)
+Mithril knife(p++);Mithrilmesser (p++)
+Mithril limbs;Mithril-Gliedmaßen
+Mithril longsword;Mithril-Langschwert
+Mithril mace;Mithril-Streitkolben
+Mithril med helm;Mithril mit Helm
+Mithril nails;Mithril-Nägel
+Mithril ore;Mithril-Erz
+Mithril ore fragment;Mithril-Erzfragment
+Mithril pick head;Mithril pflückt den Kopf
+Mithril pickaxe;Mithril-Spitzhacke
+Mithril pickaxe (nz);Mithril-Spitzhacke (NZ)
+Mithril platebody;Mithril-Plattenkörper
+Mithril platebody (g);Mithril-Plattenkörper (g)
+Mithril platebody (t);Mithril-Plattenkörper (t)
+Mithril platelegs;Mithril-Plattenbeine
