@@ -1,483 +1,3799 @@
-A Clam Shell;Eine Muschelschale
 A Goblin standard;Eine Goblin-Standarte
-A Shayzien State;Ein Shayzien-Staat
-A Sinking Canoe;Ein sinkendes Kanu
-A barrel of rainwater;Ein Fass Regenwasser
-A bunk bed;Ein Etagenbett
-A burnt tree;Ein verbrannter Baum
-A chasm;Eine Kluft
-A crack;Ein Knall
 A dark crystal;Ein dunkler Kristall
-A fairy workbench;Eine Feenwerkbank
-A fallen barrel;Ein umgefallenes Fass
-A flag;Eine Flagge
-A gap through the wall;Eine Lücke in der Wand
-A peculiar foot print;Ein eigenartiger Fußabdruck
-A primitive joke;Ein primitiver Witz
-A rock;Ein Stein
-A shabby tent;Ein schäbiges Zelt
-A tropical tree;Ein tropischer Baum
-A wall;Eine Wand
-A wooden log;Ein Holzscheit
-Abandoned Cart;Verlassener Einkaufswagen
-Abandoned Equipment;Verlassene Ausrüstung
-Absence of tears;Keine Tränen
-Absorption potion;Absorptionstrank
-Abstract mural;Abstraktes Wandgemälde
 Abyssal Sire Topiary;Abyssal Sire Topiary
-Abyssal Sire display;Abyssal-Vater-Anzeige
-Abyssal demon head;Abgründiger Dämonenkopf
-Abyssal rift;Abgründiger Riss
-Accomplishment scroll space;Scrollbereich für Errungenschaften
-Achey Tree;Achey-Baum
 Achey Tree stump;Achey Baumstumpf
-Achievement diary display;Anzeige des Leistungstagebuchs
-Acid pool;Säurebecken
-Acidic miasma;Saures Miasma
-Adamant armour;Adamant-Rüstung
-Adult Yommi tree;Erwachsener Yommi-Baum
-Adventure log space;Platz für Abenteuerprotokolle
+A rock;Ein Stein
 Aged log;Alter Baumstamm
-Aggie's Cauldron;Aggies Kessel
-Air balloon;Luftballon
-Air rift;Luftriss
-Alan;Alan
-Alchemical Hydra;Alchemistische Hydra
-Alchemical Hydra display;Alchemistische Hydra-Ausstellung
-Alchemical Topiary;Alchemistischer Topiary
-Alchemical chart;Alchemistisches Diagramm
-Alchemical door;Alchemistische Tür
-Alchemists Teleport;Alchemisten teleportieren
-Alcove;Alkoven
-Ali M's Market;Ali Ms Markt
-Allotment;Zuteilung
-Almost a Statue;Fast eine Statue
-Altar;Altar
-Altar of Guthix;Altar von Guthix
 Altar of Zamorak;Altar von Zamorak
-Altar of nature;Altar der Natur
-Altar of the Occult;Altar des Okkulten
-Altar slab;Altarplatte
-Altar space;Altarraum
-Amlodd Banner;Amlodd-Banner
-Amulet of Glory;Amulett der Herrlichkeit
-Amulet space;Amulettraum
-An anonymous looking door;Eine anonym aussehende Tür
-An experimental anvil;Ein experimenteller Amboss
-An ogre standard;Eine Oger-Standarte
-An old lever;Ein alter Hebel
-Ancestral Glyph;Ahnen-Glyphe
-Anchor;Anker
-Anchor rope;Ankerseil
-Ancient Altar;Alter Altar
-Ancient Books;Alte Bücher
-Ancient Equipment;Antike Ausrüstung
-Ancient Fire;Uraltes Feuer
+Ancient Mural;Antikes Wandgemälde
+Antiques Shop Stall;Antiquitätenladenstand
+Achievement diary display;Anzeige des Leistungstagebuchs
 Ancient Gate;Altes Tor
 Ancient Grave;Altes Grab
-Ancient Incubator;Alter Inkubator
-Ancient Machinery;Antike Maschinen
-Ancient Mural;Antikes Wandgemälde
-Ancient Pillar;Alte Säule
-Ancient Relic;Antikes Relikt
-Ancient Rock;Uralter Fels
-Ancient Shroom;Uralter Pilz
-Ancient Zygomite;Uralter Zygomit
-Ancient brazier;Alte Kohlenpfanne
-Ancient bush;Alter Busch
-Ancient cave painting;Antike Höhlenmalerei
 Ancient chest;Antike Truhe
-Ancient machinery;Alte Maschinen
-Ancient metal gate;Altes Metalltor
-Anima patch;Anima-Patch
-Animal skull;Tierschädel
+A bunk bed;Ein Etagenbett
+A chasm;Eine Kluft
+A fairy workbench;Eine Feenwerkbank
+A tropical tree;Ein tropischer Baum
+Abyssal rift;Abgründiger Riss
+Acid pool;Säurebecken
+Alan;Alan
+An anonymous looking door;Eine anonym aussehende Tür
+Ancestral Glyph;Ahnen-Glyphe
+Ancient bush;Alter Busch
+A flag;Eine Flagge
+Abandoned Cart;Verlassener Einkaufswagen
+Abyssal Sire display;Abyssal-Vater-Anzeige
+Achey Tree;Achey-Baum
+Adult Yommi tree;Erwachsener Yommi-Baum
+Alcove;Alkoven
+Altar space;Altarraum
+An experimental anvil;Ein experimenteller Amboss
+Ancient Fire;Uraltes Feuer
+Ancient Incubator;Alter Inkubator
+Ancient Relic;Antikes Relikt
+A wall;Eine Wand
+Accomplishment scroll space;Scrollbereich für Errungenschaften
+Alchemical Hydra display;Alchemistische Hydra-Ausstellung
+Alchemical door;Alchemistische Tür
+Altar of Guthix;Altar von Guthix
+Altar slab;Altarplatte
+Amlodd Banner;Amlodd-Banner
+Amulet of Glory;Amulett der Herrlichkeit
+Ancient cave painting;Antike Höhlenmalerei
 Anna's barrel;Annas Fass
+A Sinking Canoe;Ein sinkendes Kanu
+A primitive joke;Ein primitiver Witz
+Abandoned Equipment;Verlassene Ausrüstung
+Alchemical Hydra;Alchemistische Hydra
+Alchemists Teleport;Alchemisten teleportieren
+Almost a Statue;Fast eine Statue
+Anchor;Anker
+Ancient Altar;Alter Altar
+Ancient Books;Alte Bücher
+Ancient Zygomite;Uralter Zygomit
+Alchemical Topiary;Alchemistischer Topiary
+Altar of the Occult;Altar des Okkulten
+Animal skull;Tierschädel
 Annakarl Portal;Annakarl-Portal
 Anti-Dragon Breath Shield;Anti-Drachen-Atemschild
-Antiques Shop Stall;Antiquitätenladenstand
+Aggie's Cauldron;Aggies Kessel
+Altar;Altar
+Anchor rope;Ankerseil
+Ancient Shroom;Uralter Pilz
+Ancient machinery;Alte Maschinen
+A Shayzien State;Ein Shayzien-Staat
+Acidic miasma;Saures Miasma
+Adamant armour;Adamant-Rüstung
+Allotment;Zuteilung
+Amulet space;Amulettraum
+A barrel of rainwater;Ein Fass Regenwasser
+A crack;Ein Knall
+A gap through the wall;Eine Lücke in der Wand
+A peculiar foot print;Ein eigenartiger Fußabdruck
+A shabby tent;Ein schäbiges Zelt
+An old lever;Ein alter Hebel
+A burnt tree;Ein verbrannter Baum
+Altar of nature;Altar der Natur
+An ogre standard;Eine Oger-Standarte
+Ancient Equipment;Antike Ausrüstung
+Ancient metal gate;Altes Metalltor
 Anvil;Amboss
-Ape Atoll Dungeon Portal;Affen-Atoll-Dungeon-Portal
-Apparatus;Gerät
-Appendage;Anhängsel
-Apple Press;Apple Press
-Apple Tree;Apfelbaum
-Apple basket;Apfelkorb
-Apple tree;Apfelbaum
-Apple tree stump;Apfelbaumstumpf
-Aquarium;Aquarium
-Arcane crystal;Arkaner Kristall
-Arceuus Library Portal;Arceuus-Bibliotheksportal
-Arceuus statue;Arceuus-Statue
-Arch;Bogen
-Archery target;Bogenschießen-Ziel
-Archway;Torbogen
-Arctic Pine;Arktische Kiefer
-Ardougne Portal;Ardougne-Portal
-Ardougne Wall Door;Ardougne-Wandtür
-Arena;Arena
-Arena Entrance;Arena-Eingang
-Arena Exit;Arena-Ausgang
-Arena space;Arenaraum
-Argento;Argento
-Arm;Arm
-Armadyl altar;Armadyl-Altar
-Armadyl armour display case;Armadyl-Rüstungsvitrine
-Armed Forces Report;Bericht der Streitkräfte
-Armillary sphere;Armillarsphäre
-Armour;Rüstung
-Armour case;Rüstungskoffer
-Armour case space;Platz im Panzergehäuse
-Armour display;Rüstungsanzeige
-Armour repair stand;Rüstungsreparaturständer
-Armour space;Rüstungsraum
-Armour stall;Rüstungsstand
-Armour stand;Rüstungsständer
-Arrav;Arrav
-Arrow;Pfeil
+Absorption potion;Absorptionstrank
+Air balloon;Luftballon
+Alchemical chart;Alchemistisches Diagramm
+Ancient Machinery;Antike Maschinen
+Ancient Rock;Uralter Fels
+Anima patch;Anima-Patch
+Adventure log space;Platz für Abenteuerprotokolle
+Air rift;Luftriss
+Ancient Pillar;Alte Säule
+Absence of tears;Keine Tränen
+Ancient gallows;Alter Galgen
+A Clam Shell;Eine Muschelschale
+A fallen barrel;Ein umgefallenes Fass
+A wooden log;Ein Holzscheit
+Abstract mural;Abstraktes Wandgemälde
+Abyssal demon head;Abgründiger Dämonenkopf
+Ali M's Market;Ali Ms Markt
+Ancient brazier;Alte Kohlenpfanne
+Baker's Stall;Bäckerstand
+Bakery stall;Bäckereistand
+Bamboo Gate;Bambustor
+Bank deposit box;Bankschließfach
 Arrows;Pfeile
-Artefact;Artefakt
-Artefacts;Artefakte
-Asgarnian Ale;Asgarnian Ale
 Asgarnian Hops;Asgarnischer Hopfen
 Asgarnian ale;Asgarnisches Bier
 Ash pile;Aschehaufen
-Aspidistra plant;Aspidistra-Pflanze
-Astronomical chart;Astronomische Karte
-Attack stone;Angriffsstein
-Attacker item machine;Angreifer-Item-Maschine
-Attas plant;Attas-Pflanze
-Attas plant display;Attas-Pflanzenausstellung
 Avalanche;Lawine
-Aviary Hatch;Volierenluke
-Awakened Altar;Erwachter Altar
-Awowogei;Awowogei
-Axe cabinet;Axtschrank
-Axe case;Axtkoffer
-Axeman's Folly;Axemans Torheit
-Axes;Äxte
-Baby red dragon;Baby-roter Drache
-Backpack;Rucksack
-Badly repaired wall;Schlecht reparierte Wand
-Bags for sale;Taschen zu verkaufen
-Bailing buckets;Schöpfkübel
-Baker's Stall;Bäckerstand
-Baker's stall;Bäckerstand
-Bakery stall;Bäckereistand
-Balance beam;Schwebebalken
-Balancing ledge;Balancierkante
-Balancing rope;Balancierseil
-Ball;Ball
-Ballista;Balliste
-Bamboo Bed;Bambusbett
-Bamboo Bookcase;Bücherregal aus Bambus
-Bamboo Desk;Bambus-Schreibtisch
-Bamboo Door;Bambustür
-Bamboo Gate;Bambustor
-Bamboo Ladder;Bambusleiter
-Bamboo Pipes;Bambuspfeifen
-Bamboo Stool;Bambushocker
-Banana Tree;Bananenbaum
 Banana tree;Bananenbaum
 Banana tree stump;Bananenbaumstumpf
+Apple Press;Apple Press
+Armour display;Rüstungsanzeige
+Attack stone;Angriffsstein
+Badly repaired wall;Schlecht reparierte Wand
+Bags for sale;Taschen zu verkaufen
+Bamboo Ladder;Bambusleiter
+Bank Deposit Box;Bankschließfach
+Apparatus;Gerät
+Apple tree;Apfelbaum
+Arena Entrance;Arena-Eingang
+Artefact;Artefakt
+Axeman's Folly;Axemans Torheit
+Bank Deposit Chest;Bankeinlagentruhe
+Apple basket;Apfelkorb
+Apple tree stump;Apfelbaumstumpf
+Aquarium;Aquarium
+Arceuus Library Portal;Arceuus-Bibliotheksportal
+Armour;Rüstung
+Armour stand;Rüstungsständer
+Bamboo Stool;Bambushocker
+Bank Chest-wreck;Bank-Katastrophe
+Backpack;Rucksack
+Baker's stall;Bäckerstand
+Bamboo Bookcase;Bücherregal aus Bambus
+Bank Table;Banktisch
+Bank counter;Bankschalter
+Arcane crystal;Arkaner Kristall
+Arceuus statue;Arceuus-Statue
+Arena space;Arenaraum
+Arrav;Arrav
+Banana Tree;Bananenbaum
+Appendage;Anhängsel
+Arctic Pine;Arktische Kiefer
+Ardougne Wall Door;Ardougne-Wandtür
+Artefacts;Artefakte
+Baby red dragon;Baby-roter Drache
+Bank Box;Bankfach
+Bank light;Banklicht
+Arm;Arm
+Armour space;Rüstungsraum
+Attacker item machine;Angreifer-Item-Maschine
+Apple Tree;Apfelbaum
+Arch;Bogen
+Armadyl armour display case;Armadyl-Rüstungsvitrine
+Armour stall;Rüstungsstand
+Axe case;Axtkoffer
+Axes;Äxte
+Ballista;Balliste
+Bamboo Pipes;Bambuspfeifen
+Arena;Arena
+Armour repair stand;Rüstungsreparaturständer
+Attas plant display;Attas-Pflanzenausstellung
+Awakened Altar;Erwachter Altar
 Bandage table;Verbandtisch
+Bank;Bank
+Armour case;Rüstungskoffer
+Attas plant;Attas-Pflanze
+Bamboo Door;Bambustür
+Bank chest;Banktruhe
+Archery target;Bogenschießen-Ziel
+Armadyl altar;Armadyl-Altar
+Armed Forces Report;Bericht der Streitkräfte
+Arrow;Pfeil
+Aspidistra plant;Aspidistra-Pflanze
+Awowogei;Awowogei
+Bailing buckets;Schöpfkübel
+Ball;Ball
 Bandos altar;Bandos-Altar
 Bandos armour display case;Bandos-Rüstungsvitrine
-Bank;Bank
-Bank Booth;Bankstand
-Bank Box;Bankfach
-Bank Chest-wreck;Bank-Katastrophe
-Bank Deposit Box;Bankschließfach
-Bank Deposit Chest;Bankeinlagentruhe
+Archway;Torbogen
+Argento;Argento
+Asgarnian Ale;Asgarnian Ale
+Astronomical chart;Astronomische Karte
+Aviary Hatch;Volierenluke
+Balancing ledge;Balancierkante
+Bamboo Desk;Bambus-Schreibtisch
 Bank Deposit Pot;Bankeinzahlungstopf
-Bank Table;Banktisch
 Bank booth;Bankstand
-Bank chest;Banktruhe
-Bank counter;Bankschalter
-Bank deposit box;Bankschließfach
-Bank light;Banklicht
+Ape Atoll Dungeon Portal;Affen-Atoll-Dungeon-Portal
+Ardougne Portal;Ardougne-Portal
+Arena Exit;Arena-Ausgang
+Balance beam;Schwebebalken
+Balancing rope;Balancierseil
+Bamboo Bed;Bambusbett
 Bank notice board;Anschlagtafel der Bank
-Bank papers;Bankpapiere
+Armillary sphere;Armillarsphäre
+Armour case space;Platz im Panzergehäuse
+Axe cabinet;Axtschrank
+Bank Booth;Bankstand
 Bank safe;Banksafe
-Bank table;Banktisch
-Banner;Banner
-Banner making stand;Bannerherstellungsständer
-Banner stand;Bannerständer
-Banner stand space;Platz für den Bannerstand
-Banquet table;Banketttisch
-Bar;Bar
-Bar dispenser;Barspender
-Bar pumps;Barpumpen
-Barbarian anvil;Barbarenamboss
-Barbarian bed;Barbarenbett
 Barbarian chair;Barbarenstuhl
-Barbarian table;Barbarentisch
-Barge controls;Kontrollen für Binnenschiffe
-Barley;Gerste
-Barrel;Fass
-Barrel of Mud;Fass Schlamm
-Barrel of Spears;Fass mit Speeren
 Barrel of Water;Fass Wasser
-Barrel of fish;Fass mit Fisch
-Barrel of fishbones;Fass mit Fischgräten
-Barrel of flour;Fass Mehl
-Barrel rack;Fassregal
-Barrel space;Fassraum
-Barrels;Fässer
 Barren patch;Unfruchtbarer Fleck
-Barricade;Barrikade
-Barricade table;Barrikadentisch
-Barrier;Barriere
-Barronite Crusher;Barronit-Brecher
-Barrow;Karren
-Barrows Portal;Barrows-Portal
-Bars;Barren
-Barstool;Barhocker
-Basalt rock;Basaltgestein
-Basic Jewellery Box;Einfache Schmuckschatulle
-Basilisk head;Basiliskenkopf
 Basket;Korb
-Basket Fungi;Korbpilze
-Bath;Bad
-Bath pipes;Badewannenrohre
-Bath screen;Badewannenabtrennung
-Bathroom table;Badezimmertisch
-Bathtub;Badewanne
-Battering ram;Rammbock
-Battle tower;Kampfturm
-Battlefront Portal;Battlefront-Portal
-Battlement;Zinne
-Battlements;Zinnen
-Bay window;Erkerfenster
-Beach;Strand
-Beacon;Leuchtfeuer
-Beacon.;Leuchtfeuer.
-Beam;Strahl
-Bean Mound;Bohnenhügel
-Beanstalk;Bohnenstange
-Beanstump;Bohnenstumpf
-Bear droppings;Bärenkot
-Beard;Bart
-Bed;Bett
-Bed hotspot;Bett-Hotspot
-Bed space;Schlafplatz
-Bedroom door;Schlafzimmertür
-Beehive;Bienenstock
-Beer barrel;Bierfass
 Beer barrels;Bierfässer
-Beetle;Käfer
-Bell;Glocke
-Bell mechanism;Glockenmechanismus
-Bell pull space;Klingelzugraum
-Bell rope;Glockenstrang
+Big Plant space 2;Großer Pflanzenraum 2
+Banner stand space;Platz für den Bannerstand
+Barley;Gerste
+Barrel of flour;Fass Mehl
+Beacon;Leuchtfeuer
 Bell-pull;Klingelzug
 Belladonna;Belladonna
-Belladonna patch;Belladonna-Patch
-Bellows;Balg
-Bells;Glocken
-Bellshroom;Glockenpilz
-Bench;Bank
-Betty's cauldron;Bettys Kessel
-Biclopse;Biclopse
-Big Button;Großer Knopf
-Big Compost Bin;Großer Kompostbehälter
+Big hole;Großes Loch
+Big plant 2;Große Pflanze 2
+Big window;Großes Fenster
+Bath screen;Badewannenabtrennung
+Bathtub;Badewanne
+Bed space;Schlafplatz
 Big Door;Große Tür
-Big Plant space 1;Großer Pflanzenraum 1
-Big Plant space 2;Großer Pflanzenraum 2
-Big Tree space;Großer Baumraum
+Bank papers;Bankpapiere
+Barrel of Spears;Fass mit Speeren
+Barricade;Barrikade
+Barronite Crusher;Barronit-Brecher
+Beard;Bart
+Bellshroom;Glockenpilz
+Banner stand;Bannerständer
+Barbarian anvil;Barbarenamboss
+Barrel space;Fassraum
+Bath pipes;Badewannenrohre
+Bay window;Erkerfenster
+Beetle;Käfer
+Biclopse;Biclopse
+Bank table;Banktisch
+Barbarian table;Barbarentisch
+Barrel of fishbones;Fass mit Fischgräten
+Barrel rack;Fassregal
+Beam;Strahl
+Beanstalk;Bohnenstange
+Bedroom door;Schlafzimmertür
+Bell mechanism;Glockenmechanismus
+Bar;Bar
+Bar pumps;Barpumpen
+Basket Fungi;Korbpilze
+Beehive;Bienenstock
 Big beer barrel;Großes Bierfass
 Big chest;Große Brust
-Big door;Große Tür
+Barrel of fish;Fass mit Fisch
 Big egg;Großes Ei
-Big fish;Großer Fisch
-Big hole;Großes Loch
-Big plant;Große Pflanze
-Big plant 2;Große Pflanze 2
-Big vase;Große Vase
-Big window;Großes Fenster
-Big, big boulder...;Großer, großer Felsbrocken...
+Banquet table;Banketttisch
+Barge controls;Kontrollen für Binnenschiffe
+Bars;Barren
+Basalt rock;Basaltgestein
+Battle tower;Kampfturm
+Battlement;Zinne
+Beach;Strand
+Beacon.;Leuchtfeuer.
+Bellows;Balg
+Big door;Große Tür
 Big, foot print;Groß, Fußabdruck
-Bin;Bin
-Bird cage stand;Vogelkäfigständer
-Bird feeder;Vogelhäuschen
-Bird hide structure;Vogelhautstruktur
-Bird snare;Vogelfalle
-Birdhouse;Vogelhaus
-Birdhouse (empty);Vogelhaus (leer)
-Birdseed holder;Vogelfutterhalter
-Birthday cake;Geburtstagskuchen
-Bittercap Mushrooms;Bitterkappenpilze
-Bitternut Sign;Bitternuss-Zeichen
-Bitternut Tree;Bitternussbaum
+Banner making stand;Bannerherstellungsständer
+Barbarian bed;Barbarenbett
+Barrel;Fass
+Basic Jewellery Box;Einfache Schmuckschatulle
+Battlefront Portal;Battlefront-Portal
+Bear droppings;Bärenkot
+Belladonna patch;Belladonna-Patch
+Big Button;Großer Knopf
+Big, big boulder...;Großer, großer Felsbrocken...
+Bell rope;Glockenstrang
+Big Tree space;Großer Baumraum
+Big plant;Große Pflanze
+Bar dispenser;Barspender
+Bed hotspot;Bett-Hotspot
+Bell;Glocke
+Big Compost Bin;Großer Kompostbehälter
+Barrels;Fässer
+Barrier;Barriere
+Barstool;Barhocker
+Battlements;Zinnen
+Bean Mound;Bohnenhügel
+Beanstump;Bohnenstumpf
+Bed;Bett
+Big Plant space 1;Großer Pflanzenraum 1
+Barricade table;Barrikadentisch
+Barrow;Karren
+Barrows Portal;Barrows-Portal
+Basilisk head;Basiliskenkopf
+Beer barrel;Bierfass
+Bell pull space;Klingelzugraum
+Bells;Glocken
+Betty's cauldron;Bettys Kessel
+Banner;Banner
+Barrel of Mud;Fass Schlamm
+Bath;Bad
+Bathroom table;Badezimmertisch
+Battering ram;Rammbock
+Bench;Bank
+Big fish;Großer Fisch
+Big vase;Große Vase
 Black Chest;Schwarze Truhe
-Black crystal;Schwarzer Kristall
-Black hole;Schwarzes Loch
-Black mushrooms;Schwarze Pilze
-Blackboard;Tafel
-Blacksmith's tools;Schmiedewerkzeuge
-Blacksmiths' tools;Schmiedewerkzeuge
-Blade;Klinge
-Blighted Bologano plant;Befallene Bologano-Pflanze
-Blighted Bologano seedling;Befallener Bologano-Sämling
-Blighted Golovanova plant;Befallene Golovanova-Pflanze
-Blighted Golovanova seedling;Befallener Golovanova-Sämling
-Blighted Logavano plant;Befallene Logavano-Pflanze
-Blighted Logavano seedling;Befallener Logavano-Sämling
-Blighted vine;Verdorbene Rebe
-Blindweed Patch;Blindkrautbeet
-Blisterwood Tree;Blisterwood-Baum
 Blockage;Blockierung
-Blocked Crevice;Verstopfter Spalt
-Blocked Tunnel;Blockierter Tunnel
-Blocked entry;Eintrag gesperrt
-Blocked tunnel;Blockierter Tunnel
-Blocked volcanic chamber;Verstopfte Vulkankammer
-Blood;Blut
+Boat Chute;Bootsrutsche
+Bob's barrel;Bobs Fass
+Bonfire;Feuer
+Bottle machine;Flaschenmaschine
+Bow and arrow;Pfeil und Bogen
+Bird feeder;Vogelhäuschen
+Blighted vine;Verdorbene Rebe
 Blood Altar;Blutaltar
-Blood Orb;Blutkugel
-Blood Stinkhorn;Blut-Stinkhorn
-Blood Stinktree;Blut Stinktree
-Blood crystal;Blutkristall
+Bologano seedling;Bologano-Sämling
+Boulder;Felsblock
+Blacksmith's tools;Schmiedewerkzeuge
+Blighted Logavano plant;Befallene Logavano-Pflanze
+Blisterwood Tree;Blisterwood-Baum
+Blue Flowers;Blaue Blumen
+Blue banner;Blaues Banner
+Blue flowers;Blaue Blumen
+Boiler;Kessel
+Bonzo's Table;Bonzos Tisch
+Books;Bücher
+Blighted Bologano plant;Befallene Bologano-Pflanze
+Blindweed Patch;Blindkrautbeet
+Bone barrel;Knochenfass
+Bitternut Tree;Bitternussbaum
+Black hole;Schwarzes Loch
+Blocked volcanic chamber;Verstopfte Vulkankammer
 Blood rift;Blutriss
 Blooming Hespori sprout;Blühender Hespori-Spross
+Book Cart;Bücherwagen
+Boss lair space;Boss-Versteckraum
+Birthday cake;Geburtstagskuchen
+Blocked Crevice;Verstopfter Spalt
+Blocked entry;Eintrag gesperrt
+Bone door;Knochentür
+Bookcase space;Platz im Bücherregal
+Bird cage stand;Vogelkäfigständer
+Birdhouse;Vogelhaus
+Blighted Bologano seedling;Befallener Bologano-Sämling
+Blighted Golovanova seedling;Befallener Golovanova-Sämling
 Blue Barrier;Blaue Barriere
-Blue Fire;Blaues Feuer
-Blue Flowers;Blaue Blumen
-Blue Water Sign;Blaues Wasserzeichen
-Blue banner;Blaues Banner
-Blue chemical;Blaue Chemikalie
-Blue door;Blaue Tür
-Blue flowers;Blaue Blumen
-Blue tears;Blaue Tränen
-Bluebells;Glockenblumen
-Blurberry bar;Blurberry-Riegel
-Boarded-up door;Mit Brettern vernagelte Tür
-Boards;Bretter
-Boat;Boot
-Boat Chute;Bootsrutsche
-Boat station;Bootsstation
-Boaty;Boaty
-Bob's barrel;Bobs Fass
-Body rift;Körperriss
-Bog;Moor
-Boil;Kochen
-Boiler;Kessel
 Boils;Furunkel
-Bologano plant;Bologano-Pflanze
-Bologano seedling;Bologano-Sämling
 Bone Chain;Knochenkette
+Blade;Klinge
+Blighted Logavano seedling;Befallener Logavano-Sämling
+Blood Stinktree;Blut Stinktree
+Boards;Bretter
+Boaty;Boaty
+Bog;Moor
+Bookcase;Bücherregal
+Bird hide structure;Vogelhautstruktur
+Blocked tunnel;Blockierter Tunnel
+Blue door;Blaue Tür
+Boat;Boot
+Bin;Bin
+Blue tears;Blaue Tränen
+Bowl;Schüssel
+Bird snare;Vogelfalle
+Bluebells;Glockenblumen
+Bone support;Knochenunterstützung
+Book table;Büchertisch
+Bookshelves;Bücherregale
+Boundary stones;Grenzsteine
+Bow cabinet;Bugschrank
+Birdseed holder;Vogelfutterhalter
+Black crystal;Schwarzer Kristall
+Blacksmiths' tools;Schmiedewerkzeuge
+Blood;Blut
+Boarded-up door;Mit Brettern vernagelte Tür
+Bones;Knochen
+Bottle Machine;Flaschenmaschine
+Bitternut Sign;Bitternuss-Zeichen
+Blackboard;Tafel
+Body rift;Körperriss
+Boil;Kochen
+Bone rack;Knochengestell
+Boney ladder;Knochenige Leiter
+Bookshelf;Bücherregal
+Bottle;Flasche
+Bow case;Bogenetui
+Birdhouse (empty);Vogelhaus (leer)
+Bittercap Mushrooms;Bitterkappenpilze
+Blood Orb;Blutkugel
+Blue Water Sign;Blaues Wasserzeichen
+Blue chemical;Blaue Chemikalie
+Blurberry bar;Blurberry-Riegel
+Boat station;Bootsstation
+Bologano plant;Bologano-Pflanze
 Bone Crane;Knochenkranich
 Bone arch;Knochenbogen
-Bone barrel;Knochenfass
-Bone door;Knochentür
 Bone grinder;Knochenschleifer
-Bone rack;Knochengestell
-Bone support;Knochenunterstützung
-Bones;Knochen
-Boney ladder;Knochenige Leiter
-Bonfire;Feuer
-Bonzo's Table;Bonzos Tisch
-Book Cart;Bücherwagen
-Book table;Büchertisch
-Bookcase;Bücherregal
-Bookcase space;Platz im Bücherregal
-Books;Bücher
-Bookshelf;Bücherregal
-Bookshelves;Bücherregale
-Boss lair display;Boss-Versteck-Anzeige
-Boss lair space;Boss-Versteckraum
-Bottle;Flasche
-Bottle Machine;Flaschenmaschine
-Bottle machine;Flaschenmaschine
-Boulder;Felsblock
+Black mushrooms;Schwarze Pilze
+Blood Stinkhorn;Blut-Stinkhorn
 Boulders;Felsbrocken
-Boundary stones;Grenzsteine
 Bow and Arrow;Pfeil und Bogen
-Bow and arrow;Pfeil und Bogen
-Bow case;Bogenetui
-Bowl;Schüssel
-Bowsprit;Bugspriet
-Box;Kasten
-Box cart;Kastenwagen
-Box of Health;Kiste der Gesundheit
-Box trap;Kastenfalle
-Boxes;Boxen
-Boxing mat;Boxmatte
-Boxing ring;Boxring
+Blighted Golovanova plant;Befallene Golovanova-Pflanze
+Blocked Tunnel;Blockierter Tunnel
+Blood crystal;Blutkristall
+Blue Fire;Blaues Feuer
+Boss lair display;Boss-Versteck-Anzeige
 Branch;Zweig
-Brazier;Kohlebecken
-Brew Barrel;Braufass
-Brewer's Barrel;Brauerfass
-Brewing control;Brühkontrolle
-Brewing vat;Braubottich
-Brick;Ziegel
-Bricks;Ziegel
-Bridge;Brücke
-Bright crystal;Heller Kristall
-Brimstone chest;Schwefeltruhe
-Broken Bed;Kaputtes Bett
-Broken Brazier;Kaputte Kohlenpfanne
-Broken Cabinet;Kaputtes Kabinett
-Broken Cannon;Kaputte Kanone
-Broken Cart;Kaputter Einkaufswagen
-Broken Chair;Kaputter Stuhl
-Broken Cupboard;Kaputter Schrank
-Broken Door;Kaputte Tür
-Broken Drawers;Kaputte Schubladen
-Broken Fence;Kaputter Zaun
-Broken Fire altar;Zerbrochener Feueraltar
-Broken Fountain;Kaputter Brunnen
-Broken Grandfather Clock;Kaputte Standuhr
-Broken Grandiose Doors;Zerbrochene grandiose Türen
-Broken Grate;Zerbrochenes Gitter
-Broken Lecturn;Defektes Rednerpult
-Broken Mirror;Zerbrochener Spiegel
-Broken Old Bookshelf;Zerbrochenes altes Bücherregal
-Broken Plantpot;Kaputter Pflanzentopf
-Broken Potter's Wheel;Zerbrochene Töpferscheibe
-Broken Raft;Kaputtes Floß
-Broken Railing;Kaputtes Geländer
-Broken Range;Gebrochene Reichweite
 Broken Roof;Kaputtes Dach
-Broken Scaffold;Kaputtes Gerüst
-Broken Shelves;Kaputte Regale
-Broken Sink;Kaputtes Waschbecken
-Broken Spinning Wheel;Kaputtes Spinnrad
-Broken Statue;Zerbrochene Statue
 Broken Table;Kaputter Tisch
-Broken Wall;Gebrochene Wand
-Broken Well;Gut kaputt
-Broken altar;Kaputter Altar
-Broken barrel;Gebrochener Lauf
-Broken bath;Kaputtes Bad
-Broken battering ram;Zerbrochener Rammbock
-Broken beer glass;Zerbrochenes Bierglas
-Broken boat;Kaputtes Boot
-Broken bridge;Kaputte Brücke
-Broken cage;Kaputter Käfig
-Broken cannon;Kaputte Kanone
-Broken cart;Kaputter Wagen
-Broken cart wheel;Defektes Wagenrad
-Broken catapult;Kaputtes Katapult
 Broken chain;Gebrochene Kette
-Broken chair;Kaputter Stuhl
+Broken experiment tube;Kaputtes Experimentierröhrchen
+Broken kiln;Kaputter Ofen
+Broken rowboat;Kaputtes Ruderboot
+Brick;Ziegel
+Broken Brazier;Kaputte Kohlenpfanne
+Broken Fountain;Kaputter Brunnen
+Broken Grate;Zerbrochenes Gitter
+Broken door;Kaputte Tür
+Bridge;Brücke
+Broken Fire altar;Zerbrochener Feueraltar
+Broken battering ram;Zerbrochener Rammbock
+Broken fence;Defekter Zaun
+Broken stairs;Kaputte Treppe
+Box of Health;Kiste der Gesundheit
+Brew Barrel;Braufass
+Broken Cannon;Kaputte Kanone
+Broken Mirror;Zerbrochener Spiegel
+Broken Plantpot;Kaputter Pflanzentopf
+Broken Railing;Kaputtes Geländer
+Broken bridge;Kaputte Brücke
+Broken mace trap;Kaputte Streitkolbenfalle
+Broken pillar;Zerbrochene Säule
+Broken rock;Gebrochener Stein
+Broken spinning wheel;Kaputtes Spinnrad
+Broken altar;Kaputter Altar
+Broken crossbow;Kaputte Armbrust
+Boxing ring;Boxring
+Broken Range;Gebrochene Reichweite
+Broken Statue;Zerbrochene Statue
 Broken cogs;Defekte Zahnräder
 Broken counter;Kaputter Tresen
-Broken crossbow;Kaputte Armbrust
-Broken dead tree;Gebrochener toter Baum
-Broken door;Kaputte Tür
 Broken drilling machine;Bohrmaschine kaputt
-Broken equipment table;Kaputter Gerätetisch
-Broken experiment tube;Kaputtes Experimentierröhrchen
-Broken fence;Defekter Zaun
+Box;Kasten
+Box trap;Kastenfalle
+Bricks;Ziegel
+Broken Shelves;Kaputte Regale
+Broken boat;Kaputtes Boot
+Broken cannon;Kaputte Kanone
+Broken cart wheel;Defektes Wagenrad
 Broken fish display;Ausstellung gebrochener Fische
+Broken mast;Gebrochener Mast
+Broken snare;Gebrochene Schlinge
+Brewing vat;Braubottich
+Broken Cupboard;Kaputter Schrank
+Broken Drawers;Kaputte Schubladen
+Broken range;Gebrochene Reichweite
+Broken rope bridge;Kaputte Seilbrücke
+Box of bones;Kiste mit Knochen
+Broken Dresser;Kaputte Kommode
+Broken Fence;Kaputter Zaun
+Broken Grandiose Doors;Zerbrochene grandiose Türen
+Broken Spinning Wheel;Kaputtes Spinnrad
+Broken stool;Kaputter Stuhl
+Brazier;Kohlebecken
+Broken Door;Kaputte Tür
+Broken Scaffold;Kaputtes Gerüst
+Broken Well;Gut kaputt
+Broken machinery;Kaputte Maschinen
+Broken rail;Gebrochene Schiene
+Broken Chair;Kaputter Stuhl
+Brewing control;Brühkontrolle
+Broken Grandfather Clock;Kaputte Standuhr
+Broken Raft;Kaputtes Floß
+Broken Sink;Kaputtes Waschbecken
+Broken catapult;Kaputtes Katapult
 Broken furnace;Kaputter Ofen
-Broken ground;Gebrochener Boden
-Broken kiln;Kaputter Ofen
 Broken ladder;Kaputte Leiter
-Broken lamp;Defekte Lampe
+Boxes;Boxen
+Boxing mat;Boxmatte
+Broken barrel;Gebrochener Lauf
+Broken beer glass;Zerbrochenes Bierglas
+Broken cage;Kaputter Käfig
 Broken lobster trap;Zerbrochene Hummerfalle
 Broken log raft;Kaputtes Holzfloß
+Box cart;Kastenwagen
+Bright crystal;Heller Kristall
+Brimstone chest;Schwefeltruhe
+Broken Cart;Kaputter Einkaufswagen
+Broken bath;Kaputtes Bad
+Broken cart;Kaputter Wagen
+Broken dead tree;Gebrochener toter Baum
+Broken equipment table;Kaputter Gerätetisch
+Bowsprit;Bugspriet
+Brewer's Barrel;Brauerfass
+Broken Bed;Kaputtes Bett
+Broken Cabinet;Kaputtes Kabinett
+Broken Lecturn;Defektes Rednerpult
+Broken Old Bookshelf;Zerbrochenes altes Bücherregal
+Broken Potter's Wheel;Zerbrochene Töpferscheibe
+Broken Wall;Gebrochene Wand
+Broken chair;Kaputter Stuhl
+Broken ground;Gebrochener Boden
+Broken lamp;Defekte Lampe
 Broken logs;Kaputte Protokolle
-Broken mace trap;Kaputte Streitkolbenfalle
-Broken machinery;Kaputte Maschinen
-Broken mast;Gebrochener Mast
+Broken multicannon;Kaputte Multikanone
+Broken rune case;Zerbrochener Runenkoffer
+Broken sun altar;Zerbrochener Sonnenaltar
+Bush Patch;Bush-Patch
+Bust;Büste
+Candle;Kerze
+Candlestick holder;Kerzenhalter
+Cape of Legends;Kap der Legenden
+Broken wall;Zerbrochene Wand
+Burial cairn;Grabsteinhaufen
+Cactus;Kaktus
+Carol's barrel;Carols Fass
+Bruma roots;Bruma-Wurzeln
+Camel's statue;Kamelstatue
+Camping equipment;Campingausrüstung
+Camping gear;Campingausrüstung
+Cannonball;Kanonenkugel
+Carpet;Teppich
+Bronze axe;Bronzeaxt
+Bucket;Eimer
+Buffers;Puffer
+Buffet table;Buffettisch
+Cadarn Banner;Cadarn-Banner
+Cart Camel;Warenkorb Kamel
+Bronze Chest;Bronzetruhe
+Camorra;Camorra
+Camp fire;Lagerfeuer
+Cape rack space;Cape-Rack-Platz
+Carcass;Karkasse
+Carrot;Karotte
+Carved doors;Geschnitzte Türen
+Camping fire;Campingfeuer
+Canal wall;Kanalmauer
+Candles;Kerzen
+Cannon;Kanone
+Cart;Warenkorb
+Bull's head;Bullenkopf
+Bullrushes;Bullrushes
+Burning bones;Brennende Knochen
+Cabbage;Kohl
+Cage door;Käfigtür
+Calquat Tree;Calquat-Baum
+Campfire;Lagerfeuer
+Cannonballs;Kanonenkugeln
+Broken support;Defekte Unterstützung
+Buckets;Eimer
+Bunsen burner;Bunsenbrenner
+Cabbages;Kohl
+Cannon stand;Kanonenständer
+Bronze Door;Bronzetür
+Bunk bed;Etagenbett
+Burning brazier;Brennende Kohlenpfanne
+Burnt tree;Verbrannter Baum
+Cart track sign;Wagengleisschild
+Broken strut;Gebrochene Strebe
+Bubbles;Blasen
+Cactus patch;Kaktusbeet
+Cage;Käfig
+Campbed;Gelagert
+Canary;Kanarienvogel
+Bryophyta display;Bryophyta-Ausstellung
+Bucket of Blood;Eimer voller Blut
+Budding branch;Aufstrebender Zweig
+Burnt chest;Verbrannte Brust
+Burrow;Bau
+Cabinet;Kabinett
+Candle stand;Kerzenständer
+Cannon barrels;Kanonenrohre
+Canopic Jar;Kanopenglas
+Cape hanger;Cape-Aufhänger
+Bronze pickaxe;Spitzhacke aus Bronze
+Burning driftwood;Brennendes Treibholz
+Cadavaberry bush;Cadavaberry-Strauch
+Campsite bed;Campingbett
+Cannon base;Kanonenbasis
+Cart Track;Karrenbahn
+Broom;Besen
+Cadava bush;Cadava-Busch
+Broken table;Kaputter Tisch
+Broken trap(0);Kaputte Falle(0)
+Buried skeleton;Vergrabenes Skelett
+Candelabrum;Armleuchter
+Canoe Station;Kanustation
+Carpet Exhibit;Teppichausstellung
+Cart tunnel;Wagentunnel
+Burial mound;Grabhügel
+Buried artefact;Vergrabenes Artefakt
+Burnt rock;Verbrannter Stein
+Cable;Kabel
+Calquat patch;Calquat-Pflaster
+Captain's Table;Kapitänstisch
+Carpet hotspot;Teppich-Hotspot
+Carrallangar Portal;Carrallangar-Portal
+Broken weapons;Kaputte Waffen
+Bunkbed;Etagenbett
+Burst boil;Platzendes Kochen
+Bush;Busch
+Button;Taste
+Cabinet space;Schrankraum
+Cages;Käfige
+Camelot Portal;Camelot-Portal
+Canal barge;Kanalkahn
+Cat;Katze
+Cave gobins;Höhlenkobolde
+Celastrus tree stump;Celastrus-Baumstumpf
+Cell wall window;Zellwandfenster
+Ceremonial table;Zeremonieller Tisch
+Chair;Stuhl
+Chamber;Kammer
+Carved teak bench;Bank aus geschnitztem Teakholz
+Castle Wars portal;Castle Wars-Portal
+Catherby Portal;Catherby-Portal
+Cave wall;Höhlenwand
+Ceremonial Pillow;Zeremonielles Kissen
+Chalk patterns;Kreidemuster
+Chaos rift;Chaosriss
+Chemical vent (red);Chemische Entlüftung (rot)
+Ceremonial Pillar;Zeremonielle Säule
+Chemical waste pipe;Chemieabfallrohr
+Carved oak bench;Bank aus geschnitzter Eiche
+Carved redwood;Geschnitztes Mammutbaumholz
+Cavern entrance;Höhleneingang
+Cemetery Portal;Friedhofsportal
+Centre of crop circle;Mittelpunkt des Kornkreises
+Centrepiece space;Mittelpunktraum
+Charms;Zauber
+Chemical pool;Chemiebecken
+Cat basket space;Platz für den Katzenkorb
+Cauldron;Kessel
+Cave Exit;Höhlenausgang
+Cave entrance;Höhleneingang
+Ceiling support;Deckenhalterung
+Cell Door;Zellentür
+Chain;Kette
+Challenge portal;Challenge-Portal
+Chandelier;Kronleuchter
+Charm of Boost;Charme des Boosts
+Charm of Fishing;Charme des Angelns
+Cheese;Käse
+Catapult-winch;Katapultwinde
+Cavity;Hohlraum
+Celastrus tree;Celastrus-Baum
+Charm of Luck;Glücksbringer
+Castle door;Schlosstür
+Castle wall;Burgmauer
+Cat Shrine;Katzenschrein
+Cat basket;Katzenkorb
+Catapult-lever;Katapult-Hebel
+Ceremonial Brazier;Zeremonielles Kohlenbecken
+Chambers of Xeric;Kammern von Xeric
+Chasm;Kluft
+Chemistry Table;Chemietabelle
+Castle Gates;Burgtore
+Cave web;Höhlennetz
+Cavern;Höhle
+Cerberus Topiary;Cerberus-Topiary
+Certificate of healing;Heilungsbescheinigung
+Chains;Ketten
+Chart;Diagramm
+Carved rock;Geschnitzter Stein
+Casual;Lässig
+Cave in;Nachgeben
+Cave rocks;Höhlenfelsen
+Ceremonial Pillow Stack;Zeremonieller Kissenstapel
+Charred bones;Verkohlte Knochen
+Chemical vent (blue);Chemische Entlüftung (blau)
+Carved head;Geschnitzter Kopf
+Catapult;Katapult
+Cell wall;Zellwand
+Centre piece;Mittelstück
+Changing Curtain;Vorhang wechseln
+Charcoal furnace;Kohleofen
+Charm of Defence;Charme der Verteidigung
+Chef's Delight;Die Freude des Chefkochs
+Carved log;Geschnitzter Baumstamm
+Cave Entrance;Höhleneingang
+Cave exit;Höhlenausgang
+Celastrus patch;Celastrus-Pflaster
+Cellar stairs;Kellertreppe
+Chaise lounge;Chaiselongue
+Chaos altar;Chaosaltar
+Charm of Preparation;Charme der Vorbereitung
+Chest of Champions;Truhe der Champions
+Cauldron of Thunder;Kessel des Donners
+Cavern exit;Höhlenausgang
+Cell door;Zellentür
+Chair space;Stuhlplatz
+Champion Statue;Champion-Statue
+Chemical vent (green);Chemische Entlüftung (grün)
+Chest;Brust
+Cave;Höhle
+Cave opening;Höhlenöffnung
+Cell Gate;Zellentor
+Cello;Cello
+Chalice;Kelch
+Charm of Mining;Charme des Bergbaus
+Chess;Schach
+Carving;Carving
+Celestial globe;Himmelsglobus
+Cenotaph;Kenotaph
+Cerberus display;Cerberus-Anzeige
+Chair hotspot;Stuhl-Hotspot
+Chopped tendrils;Gehackte Ranken
+Circle;Kreis
+City gate;Stadttor
+Coin Collector;Münzsammler
+Compost;Kompost
+Clan banner;Clan-Banner
+Clay fireplace;Lehmkamin
+Clock spindle;Uhrspindel
+Cog;Zahn
+Colony gate;Kolonietor
+Combat dummy;Kampfpuppe
+Compromised support;Kompromittierter Support
+Christmas curtains;Weihnachtsvorhänge
+Church organ;Kirchenorgel
+Clan Cup portal;Clan-Cup-Portal
+Clay Oven;Lehmofen
+Closed booth;Geschlossener Stand
+Cloth;Tuch
+Column;Spalte
+Citizen;Bürger
+Cleaning supplies;Reinigungsmittel
+Clothes;Kleidung
+Clothes rack;Kleiderständer
+Clay forge;Tonschmiede
+Collapsed wall;Eingestürzte Wand
+Combat ring space;Kampfringraum
+Chicken coop;Hühnerstall
+Chimney pipe;Kaminrohr
+Clothing shelves;Kleiderregale
+Coal;Kohle
+Coffin;Sarg
+Coke;Koks
+Compost Bin;Komposttonne
+Chicken Shrine;Hühnerschrein
+Clan Coffer;Clan-Koffer
+Clan hall portal;Clanhallenportal
+Climbing net;Kletternetz
+Clock;Uhr
+Cloth covered table;Mit Stoff bedeckter Tisch
+Clothes equipment;Bekleidungsausrüstung
+Cloud bank;Wolkenbank
+Clump of rocks;Felsbrocken
+Cogs;Zahnräder
+Combat Scroll;Kampfschriftrolle
+Competitive;Wettbewerbsfähig
+Connection pipe;Verbindungsrohr
+Choc-Ice Stall;Schokoladen-Eisstand
+Cider;Apfelwein
+Clam;Muschel
+Clan recruitment board;Clan-Rekrutierungsausschuss
+Coffin hotspot;Sarg-Hotspot
+Combat ring;Kampfring
+Compost heap;Komposthaufen
+Chronicles of Xeric;Chroniken von Xeric
+Closed Chest;Geschlossene Truhe
+Confusing door;Verwirrende Tür
+Connected stalagmites;Verbundene Stalagmiten
+Church pew;Kirchenbank
+Clay oven;Lehmofen
+Closed bank booth;Geschlossener Bankstand
+Chimney;Schornstein
+Clan Wars portal;Clan Wars-Portal
+Coins;Münzen
+Consecrated house;Geweihtes Haus
+Chest pieces;Bruststücke
+Christmas-Spirit Tree;Weihnachtsgeistbaum
+Clock face;Zifferblatt
+Clothes model;Kleidermodell
+Clothes stall;Kleiderstand
+Coal Tar;Kohlenteer
+Chimney Pipe;Schornsteinrohr
+Cider barrel;Apfelweinfass
+Cliff;Cliff
+Cliff edge;Klippenrand
+Climbing rope;Kletterseil
+Cloak rack;Garderobenständer
+Clothes line;Wäscheleine
+Cockatrice head;Nymphensittichkopf
+Cocoon;Kokon
+Coffer;Truhe
+Compromised floorboards;Beschädigte Dielen
+Chicken;Huhn
+Child's bed;Kinderbett
+Chopping table;Schneidetisch
+Clan Cup Trophy;Clan-Cup-Trophäe
+Climbing Net;Kletternetz
+Climbing rocks;Kletterfelsen
+Closed chest;Geschlossene Brust
+Clothes Stand;Kleiderständer
+Coal Truck;Kohle-LKW
+Coat rack;Kleiderablage
+Collector Converter;Kollektorkonverter
+City Gate;Stadttor
+Clarinet;Klarinette
+Climbing Rope;Kletterseil
+Clockmaking space;Raum für Uhrmacherei
+Combat dummy space;Kampf-Dummy-Raum
+Console;Konsole
+Clockmaker's bench;Uhrmacherbank
+Collapsed trap;Zusammengebrochene Falle
+Cooker;Kocher
+Crevasse;Gletscherspalte
+Crumbled wall;Zerfallene Wand
+Crutch;Krücke
+Crwys Banner;Crwys-Banner
+Crystal Dispenser;Kristallspender
+Crystal tree patch;Kristallbaum-Patch
+Corporeal Beast display;Körperliche Bestie-Ausstellung
+Cow wheel;Kuhrad
+Crack;Riss
+Crowd of dwarves;Schar von Zwergen
+Crypt;Krypta
+Cupboard;Schrank
+Copper Ladder;Kupferleiter
+Counter;Schalter
+Crab Shell;Krabbenschale
+Crashed glider;Abgestürztes Segelflugzeug
+Crossbow;Armbrust
+Crossbow stall;Armbruststand
+Crypt Entrance;Eingang zur Krypta
+Crystal ball space;Kristallkugelraum
+Corpse;Leichnam
+Crossbowman Statue;Armbrustschützen-Statue
+Crystal outcrop;Kristallaufschluss
+Crystal structure;Kristallstruktur
+Crystalline structure;Kristalline Struktur
+Coolant Dispenser;Kühlmittelspender
+Cosmic rift;Kosmischer Riss
+Council members;Ratsmitglieder
+Court judge;Gerichtsrichter
+Crate of rune caskets;Kiste mit Runenschatullen
+Crate of wands;Kiste mit Zauberstäben
+Crusher;Brecher
+Cube Pile;Würfelhaufen
+Cooking shelves;Kochregale
+Crafting Stall;Bastelstand
+Crystal Deposit;Kristallablagerung
+Crystal of power;Kristall der Macht
+Curling plant;Curling-Anlage
+Conveyor Belt;Fließband
+Cooking Pots;Kochtöpfe
+Crafting stall;Bastelstand
+Crashed Star;Abgestürzter Stern
+Crib;Krippe
+Crossbow Tree;Armbrustbaum
+Crystal tree;Kristallbaum
+Control panel;Bedienfeld
+Conveyor belt;Fließband
+Cooking pot;Kochtopf
+Corpses;Leichen
+Cracked wall;Rissige Wand
+Craft stall;Bastelstand
+Crazy penguin;Verrückter Pinguin
+Creeping plant;Kriechende Pflanze
+Cross;Kreuzen
+Crow nest;Krähennest
+Crude boat;Rohes Boot
+Crystal bomb;Kristallbombe
+Crystals;Kristalle
+Corporeal Beast Display;Körperliches Biest-Display
+Corrupt Deposit;Korrupte Einzahlung
+Corrupt Deposit (Depleted);Korrupte Kaution (aufgebraucht)
+Creeping Plant;Kriechende Pflanze
+Crude raft;Rohes Floß
+Crystal Sceptre;Kristallzepter
+Crystal Staircase;Kristalltreppe
+Container;Container
+Crawling hand;Kriechende Hand
+Crystal bridge;Kristallbrücke
+Crystal growth;Kristallwachstum
+Coral Reef;Korallenriff
+Cradle of Life;Wiege des Lebens
+Creeper;Kriechpflanze
+Crevice;Spalt
+Crumbling wall;Bröckelnde Wand
+Crystal ball;Kristallkugel
+Crystal spire;Kristallturm
+Cupboard space;Stauraum
+Cooling chest;Kühltruhe
+Coop;Coop
+Creature;Kreatur
+Crushed barricade;Zertrümmerte Barrikade
+Corner Table;Ecktisch
+Contortion Bars;Contortion Bars
+Corner space;Eckraum
+Corrupted Sceptre;Verdorbenes Zepter
+Crop circle;Kornkreis
+Crystal cluster;Kristallcluster
+Crystal dispenser;Kristallspender
+Coral;Koralle
+Corkscrew lever;Korkenzieherhebel
+Corpse cart;Leichenwagen
+Crater;Krater
+Crates;Kisten
+Crystal;Kristall
+Crystal Deposit (Depleted);Kristalllagerstätte (erschöpft)
+Crystal Singing Recipes;Kristallgesangsrezepte
+Cooking range;Kochherd
+Crane;Kran
+Crate;Kiste
+Daisies;Gänseblümchen
+Darklight;Dunkles Licht
+Dead Magic Tree;Toter Zauberbaum
+Dead Maple;Toter Ahorn
+Dead dwellberry bush;Abgestorbener Zwergbeerstrauch
+Curtains;Vorhänge
+Damaged Table;Beschädigter Tisch
+Dark hole;Dunkles Loch
+Dead limpwurt plant;Abgestorbene Limpwurt-Pflanze
+Cutting Table;Schneidetisch
+Dagannoth;Dagannoth
+Damaged Mast;Beschädigter Mast
+Damaged armour;Beschädigte Rüstung
+Dartboard;Dartscheibe
+Dead Body;Leiche
+Dead Teak;Totes Teakholz
+Dead Yew;Tote Eibe
+Dead bat;Tote Fledermaus
+Damaged totem pole;Beschädigter Totempfahl
+Dawn;Dämmerung
+Dead Barley;Tote Gerste
+Dead Oak;Tote Eiche
+Dead Spirit Tree;Baum des toten Geistes
+Dead White lily;Tote weiße Lilie
+Dead curry tree;Toter Currybaum
+Dead hardy goutweed;Abgestorbene winterharte Giersch
+Dead marigold;Tote Ringelblume
+Dead onions;Tote Zwiebeln
+Dead orange tree;Toter Orangenbaum
+Curved bone;Gebogener Knochen
+Damaged Earth;Beschädigte Erde
+Dead Krandorian Hops;Toter krandorischer Hopfen
+Dead potatoes;Tote Kartoffeln
+Curry tree stump;Curry-Baumstumpf
+Daconia rocks;Daconia rockt
+Dairy Cow;Milchkuh
+Danger Sign;Gefahrenzeichen
+Danger sign;Gefahrenzeichen
+David's barrel;Davids Fass
+Dead Bittercap Mushrooms;Tote Bittercap-Pilze
+Dead Elf;Toter Elf
+Dead Yommi sapling;Toter Yommi-Bäumchen
+Dead apple tree;Toter Apfelbaum
+Dead goutweed;Abgestorbener Giersch
+Dead jangerberry bush;Toter Jangerberry-Strauch
+Curtain space;Vorhangraum
+Dairy cow;Milchkuh
+Dead Snape grass;Totes Snape-Gras
+Dead nasturtium;Tote Kapuzinerkresse
+Dead papaya tree;Toter Papayabaum
+Dead Explorer;Toter Entdecker
+Dead dragonfruit plant;Abgestorbene Drachenfruchtpflanze
+Daeyalt Essence;Daeyalt-Essenz
+Dead Mahogany;Totes Mahagoni
+Dead celastrus tree;Toter Celastrus-Baum
+Daeyalt rocks;Daeyalt rockt
+Dead Calquat;Toter Calquat
+Dead Potato cactus;Toter Kartoffelkaktus
+Dead Tree;Toter Baum
+Dead cabbages;Tote Kohlköpfe
+Dead cactus;Toter Kaktus
+Dead palm tree;Tote Palme
+Dead Hammerstone Hops;Toter Hammerstone-Hopfen
+Cursed Altar;Verfluchter Altar
+Curtain;Vorhang
+Dead Belladonna;Tote Belladonna
+Dead Yommi;Toter Yommi
+Dead mushroom ring;Toter Pilzring
+Cyan Crystal;Cyan-Kristall
+Damaged mast;Beschädigter Mast
+Damaged wall;Beschädigte Wand
+Dark Chest;Dunkle Truhe
+Dark tunnel;Dunkler Tunnel
+Dead Asgarnian Hops;Abgestorbener asgarnischer Hopfen
+Dead Iasor plant;Abgestorbene Iasor-Pflanze
+Dead Kronos plant;Abgestorbene Kronos-Pflanze
+Dead Redwood tree;Toter Redwood-Baum
+Dead Wildblood Hops;Toter Wildbluthopfen
+Dead Yanillian Hops;Toter Yanillian-Hopfen
+Dead pineapple plant;Abgestorbene Ananaspflanze
+Curry tree;Currybaum
+Cyan crystal;Cyan-Kristall
+Dark Altar;Dunkler Altar
+Dart trap;Dartfalle
+Dead banana tree;Abgestorbener Bananenbaum
+Dead cadavaberry bush;Toter Cadavaberry-Strauch
+Dead calquat;Toter Calquat
+Current;Aktuell
+Cylinder Pile;Zylinderstapel
+Daffodils;Narzissen
+Dagger stall;Dolchstand
+Damaged cart;Beschädigter Wagen
+Dead Attas plant;Tote Attas-Pflanze
+Dead Jute;Tote Jute
+Dead Poison Ivy bush;Toter Poison Ivy-Busch
+Dairy churn;Milchkanne
+Damaged Vent;Beschädigte Entlüftung
+Dark crystal;Dunkler Kristall
+Dead Willow;Tote Weide
+Dead herbs;Tote Kräuter
+Dead woad plant;Abgestorbene Färberwaidpflanze
+Decorated limestone fireplace;Verzierter Kalksteinkamin
+Decoration;Dekoration
+Delphiniums;Delphinien
+Dense runestone;Dichter Runenstein
+Diseased palm tree;Kranke Palme
+Dead sweetcorn plant;Abgestorbene Zuckermaispflanze
+Dead tree;Toter Baum
+Dead tree stump;Toter Baumstumpf
+Death rift;Todesriss
+Diseased Jute;Kranke Jute
+Diseased Teak;Krankes Teakholz
+Diseased apple tree;Kranker Apfelbaum
+Dead redberry bush;Abgestorbener Rotbeerstrauch
+Dead whiteberry bush;Abgestorbener Weißbeerstrauch
+Deadman Supply Chest;Deadman-Vorratstruhe
+Deadman display;Totmannanzeige
+Death's domain;Die Domäne des Todes
+Decoration space;Dekorationsraum
+Demonic Symbol;Dämonisches Symbol
+Depleted runestone;Erschöpfter Runenstein
+Depleted vein;Erschöpfte Vene
+Dim crystal;Dunkler Kristall
+Diseased Krandorian Hops;Krandorischer Hopfen
+Diseased Yanillian Hops;Kranker Yanillian-Hopfen
+Diseased banana tree;Kranker Bananenbaum
+Dead vine;Tote Rebe
+Decaying trunk;Verfallender Stamm
+Diseased Oak;Kranke Eiche
+Diseased Spirit Tree;Kranker Geisterbaum
+Diseased White lily;Kranke weiße Lilie
+Diseased orange tree;Kranker Orangenbaum
+Diseased cabbages;Kranke Kohlköpfe
+Diseased cactus;Kranker Kaktus
+Diseased hardy goutweed;Kranke, winterharte Giersch
+Destroyed bird hide;Zerstörtes Vogelversteck
+Device;Gerät
+Deadman chest;Deadman-Truhe
+Decorated marble fireplace;Verzierter Marmorkamin
+Delphinium patch;Delphinium-Patch
+Dig Site specimen rocks;Exemplare der Ausgrabungsstätte
+Diseased Grapevines;Kranke Weinreben
+Diseased goutweed;Kranker Giersch
+Diseased marigold;Kranke Ringelblume
+Dead seaweed;Tote Algen
+Dead watermelons;Tote Wassermelonen
+Debris;Trümmer
+Dense Jungle;Dichter Dschungel
+Desk;Schreibtisch
+Diseased Asgarnian Hops;Kranker asgarnischer Hopfen
+Diseased Willow;Kranke Weide
+Diseased dwellberry bush;Kranker Zwergbeerstrauch
+Diseased herbs;Kranke Kräuter
+Diseased jangerberry bush;Kranker Jangerberry-Strauch
+Depleted Rock;Erschöpftes Gestein
+Diseased Belladonna;Kranke Belladonna
+Diseased limpwurt plant;Kranke Limpwurz-Pflanze
+Dead sourhog;Toter Sauerschwein
+Dead tomato plant;Abgestorbene Tomatenpflanze
+Death's Coffer;Die Truhe des Todes
+Death's Domain;Domäne des Todes
+Defender item machine;Defender-Gegenstandsmaschine
+Diseased dragonfruit plant;Kranke Drachenfruchtpflanze
+Deckchair;Liegestuhl
+Desert painting;Wüstenmalerei
+Digsite Pendant;Digsite-Anhänger
+Diseased Hammerstone Hops;Kranker Hammerstone-Hopfen
+Diseased calquat;Kranke Calquat
+Diseased celastrus tree;Kranker Celastrus-Baum
+Diseased nasturtium;Kranke Kapuzinerkresse
+Diseased pineapple plant;Kranke Ananaspflanze
+Dead rosemary;Toter Rosmarin
+Deposit Box;Schließfach
+Dial;Wählen
+Dice;Würfel
+Dirt;Schmutz
+Diseased Magic Tree;Kranker Zauberbaum
+Diseased Poison Ivy bush;Kranker Poison Ivy-Busch
+Diseased Potato cactus;Erkrankter Kartoffelkaktus
+Diseased Wildblood Hops;Kranker Wildbluthopfen
+Dead strawberry plant;Abgestorbene Erdbeerpflanze
+Decorated wall;Dekorierte Wand
+Diseased Barley;Kranke Gerste
+Diseased Bittercap Mushrooms;Kranke Bitterpilze
+Diseased onions;Kranke Zwiebeln
+Decorative window;Dekoratives Fenster
+Diseased Mahogany;Krankes Mahagoni
+Diseased Yew;Kranke Eibe
+Diseased papaya tree;Kranker Papayabaum
+Deadfall;Todesfall
+Desecrated house;Entweihtes Haus
+Destroyed furniture;Zerstörte Möbel
+Diseased Redwood tree;Kranker Redwood-Baum
+Diseased curry tree;Kranker Currybaum
+Demon;Dämon
+Dense forest;Dichter Wald
+Diseased Calquat;Kranker Calquat
+Diseased Maple;Kranker Ahorn
+Diseased Snape grass;Krankes Snape-Gras
+Diseased cadavaberry bush;Kranker Kadaverstrauch
+Dodgy ground;Zwielichtiger Boden
+Dolphin;Delphin
+Door hotspot;Tür-Hotspot
+Dragonfire;Drachenfeuer
+Draynor Manor Portal;Portal des Herrenhauses von Draynor
+Dream puff;Traum-Puff
+Dwarf multicannon;Zwerg-Mehrfachkanone
+Dwarven Consortium Table;Tisch des Zwergen-Konsortiums
+Eagle lever;Adlerhebel
+Dragon bitter;Drachenbitter
+Drift net (full);Treibnetz (voll)
+Dyed fabric;Gefärbter Stoff
+Earth rift;Erdriss
+Diseased strawberry plant;Kranke Erdbeerpflanze
+Dominic's coffer;Dominics Truhe
+Dwarf bath;Zwergenbad
+Dwarven Stout;Zwergen-Stout
+Dwarven machinery;Zwergenmaschinerie
+Display board;Anzeigetafel
+Dream Tree stump;Traum Baumstumpf
+Dresser space;Platz für die Kommode
+Drips;Tropfen
+Drive belt;Antriebsriemen
+Drying line;Trocknungslinie
+Dummy;Dummy
+Dungeon entrance;Kerkereingang
+Display case;Vitrine
+Dock Leaf;Dockblatt
+Dolmen;Dolmen
+Dragon's head;Drachenkopf
+Dramen tree;Dramen-Baum
+Drift net anchors;Treibnetzanker
+Drill;Bohren
+Dripping tendrils;Tropfende Ranken
+Dying tree;Sterbender Baum
+Display Case;Vitrine
+Doric's Whetstone;Dorics Schleifstein
+Dragonfly;Libelle
+Dragonfruit tree;Drachenfruchtbaum
+Drain Pipe;Abflussrohr
+Dripping vine;Tropfende Rebe
+Dying tree Stump;Sterbender Baumstumpf
+Dragon egg;Drachenei
+Dragon statue;Drachenstatue
+Dry patch;Trockener Fleck
+Dwarf MultiCannon;Zwerg-Multikanone
+Diseased redberry bush;Kranker Rotbeerstrauch
+Dock leaf plant;Ampferblattpflanze
+Door;Tür
+Doors of Dinh;Türen von Dinh
+Dresser;Kommode
+Drip;Tropfen
+Diseased tomato plant;Kranke Tomatenpflanze
+Diseased whiteberry bush;Kranker Weißbeerstrauch
+Display space;Ausstellungsfläche
+Double bed;Doppelbett
+Drilling machine;Bohrmaschine
+Diseased potatoes;Kranke Kartoffeln
+Diseased sweetcorn plant;Kranke Zuckermaispflanze
+Dwarf;Zwerg
+Dwarf remains;Zwerg bleibt
+Dwarf statue;Zwergstatue
+Earth Mound;Erdhügel
+Diseased woad plant;Kranker Färberwaid
+Domination marker;Dominanzmarker
+Dragon Bitter;Drachenbitter
+Dragon corpse;Drachenleiche
+Dwarf Flag;Zwergenflagge
+Dye Pots;Färberöpfe
+Display table;Anzeigetisch
+Disturbed sand;Gestörter Sand
+Door space;Türraum
+Doorway;Tür
+Dragonhide Leather;Drachenleder
+Dungeon door;Kerkertür
+Dwarf mirror;Zwergspiegel
+Diseased rosemary;Kranker Rosmarin
+Diseased seaweed;Kranke Algen
+Dragon head;Drachenkopf
+Dragon trophy display;Drachentrophäen-Ausstellung
+Drain;Abfluss
+Dream List;Traumliste
+Druid's robes;Druidenroben
+Dolls and balls;Puppen und Bälle
+Doors;Türen
+Driftwood;Treibholz
+Dry stone wall;Trockenmauer
+Dwellberry bush;Dwellberry-Busch
+Diseased watermelons;Kranke Wassermelonen
+Dishes;Gerichte
+Dragonfruit tree stump;Drachenfruchtbaumstumpf
+Drained Crystal;Entwässerter Kristall
+Drapes;Vorhänge
+Drawer space;Platz in der Schublade
+Drawers;Schubladen
+Dream tree;Traumbaum
+Drunken Dwarf;Betrunkener Zwerg
+Dug hole;Loch gegraben
+Dung;Dung
+Dusk;Dämmerung
+Eight;Acht
+Empty basket;Leerer Korb
+Experiment cabinet;Experimentierschrank
+Fabric rack;Stoffregal
+Edge;Rand
+Egg;Ei
+Empty pedestal;Leerer Sockel
+Empty pool;Leerer Pool
+Enchanters Teleport;Verzauberer teleportieren
+Evil claw;Böse Klaue
+Extractor gun;Ausziehpistole
+Fabric;Stoff
+Fairy ring;Feenring
+Egg sac;Eiersack
+Embers;Glut
+Equipment table;Ausrüstungstabelle
+Exit door;Ausgangstür
+Egg hopper;Eierbehälter
+Elemental balance;Elementares Gleichgewicht
+Elite clue scroll display;Elite-Hinweis-Scroll-Display
+Elven Crystal Chest;Elfenkristalltruhe
+Empty wall;Leere Wand
+Fairy bank;Feenbank
+Fairy market stall;Feenmarktstand
+Efh salt;Efh-Salz
+Electrified harpoonfish cannon;Elektrifizierte Harpunenfischkanone
+Energy Barrier;Energiebarriere
+Energy well;Energie gut
+Engine Platform;Motorplattform
+Entrance;Eingang
+Evergreen;Immergrün
+Excalibur;Excalibur
+Exit Sign;Ausgangsschild
+Empty Stall;Leerer Stall
+Empty ash pile;Leerer Aschehaufen
+Empty chest;Leere Truhe
+Experiment booth;Experimentierstand
+Fairy house;Feenhaus
+Fairy workbench;Feenwerkbank
+Falador Portal;Falador-Portal
+Empty Sack;Leerer Sack
+Empty sack;Leerer Sack
+Exit;Ausfahrt
+Exit Teleport;Verlasse den Teleport
+Explosive potion table;Explosiver Tranktisch
+Eerie statue;Unheimliche Statue
+Elf Flag;Elfenflagge
+Exercise mat;Trainingsmatte
+Experiment tube;Experimentierröhre
+Extra anchor;Zusätzlicher Anker
+Extractor hat-top;Dunstabzugshaube
+Easel;Staffelei
+Elemental sphere;Elementare Sphäre
+End of bridge;Ende der Brücke
+Eric;Eric
+Exit path;Ausgangspfad
+Explosion;Explosion
+Fairly dark crystal;Ziemlich dunkler Kristall
+Fairy fountain;Feenbrunnen
+Ectofuntus;Ektofuntus
+Elevator controls;Aufzugssteuerung
+Empty rack;Leeres Rack
+Energy Sphere;Energiesphäre
+Fairy Queen;Feenkönigin
+Energy Pylon;Energiepylon
+Experiment table;Experimentiertisch
+Fallen Wall;Gefallene Mauer
+Escape rope;Fluchtseil
+Extractor hat;Dunstabzugshaube
+Fallen statue;Gefallene Statue
+Egg Sac;Eierbeutel
+Elizabeth's barrel;Elizabeths Fass
+Empty Sarcophagus;Leerer Sarkophag
+Empty lamp;Leere Lampe
+Exit cavern;Verlassen Sie die Höhle
+Eye;Auge
+Eyes;Augen
+Eggs;Eier
+Elemental balance space;Elementarer Gleichgewichtsraum
+Empty sac;Leerer Sack
+Evil Dave;Der böse Dave
+Fallen soldier;Gefallener Soldat
+Egg launcher;Eierwerfer
+Egniol Potions;Egniol-Tränke
+Elaborate lockbox;Aufwendiges Schließfach
+Elevator;Aufzug
+Elidinis Statuette;Elidinis-Statuette
+Empty desk;Leerer Schreibtisch
+Evil eye decoration;Böser Blick-Dekoration
+Exhumed;Exhumiert
+Fairy Queen throne;Thron der Feenkönigin
+Fallen Tree;Umgestürzter Baum
+Elven lamp;Elfenlampe
+Embalming tube;Einbalsamierungsrohr
+Empty barrel;Leeres Fass
+Empty clothes;Leere Kleidung
+Equipment;Ausrüstung
+Exit portal;Ausgangsportal
+Extra chain;Zusätzliche Kette
+Fallen tree;Umgestürzter Baum
+Fencing;Fechten
+Fire of Eternal Light;Feuer des ewigen Lichts
+Fireplace surround;Kaminumrandung
+Fish stall;Fischstand
+Flames;Flammen
+Flour bin;Mehlbehälter
+Fertile Soil;Fruchtbarer Boden
+Firepit with pot;Feuerstelle mit Topf
+Fixed bridge;Feste Brücke
+Floor spikes;Bodenspikes
+Fancy range;Ausgefallenes Sortiment
+Fire of Dehumidification;Feuer der Entfeuchtung
+Fire rift;Feuerriss
+Fish basket;Fischkorb
+Flagpole;Fahnenstange
+Floor below;Etage darunter
+Flour;Mehl
+Fence end;Zaunende
+Fern;Farn
+Fire pit;Feuerstelle
+Fishing weights;Angelgewichte
+Flag;Flagge
+Fire of Domination;Feuer der Herrschaft
+Fishing net;Fischernetz
+Flashing landing light;Blinkendes Landelicht
+Floor space corner;Grundfläche Ecke
+Flower Patch;Blumenbeet
+Fence;Zaun
+Fence mid;Zaun Mitte
+Fire;Feuer
+Fishing trophy space;Platz für Angeltrophäen
+Fissure;Spalt
+Flat stone;Flacher Stein
+Flower;Blume
+Falling rock;Steinschlag
+Fence corner;Zaunecke
+Ferry;Fähre
+Fire of Nourishment;Feuer der Nahrung
+Fireplace space;Kaminplatz
+Fish bowl;Fischschale
+Five;Fünf
+Flax;Flachs
+Floor space;Grundfläche
+Fly trap;Fliegenfalle
+Fan blade;Lüfterflügel
+Fire altar;Feueraltar
+Fishing Contest Banner;Banner für den Angelwettbewerb
+Flat rock;Flacher Fels
+Floor;Boden
+Flowering fern;Blühender Farn
+Fancy dress box space;Platz für eine Kostümkiste
+Farm door;Bauernhoftür
+Felled Yommi tree;Gefällter Yommi-Baum
+Floor decoration;Bodendekoration
+Fancy dress box;Kostümbox
+Farming patch;Landwirtschaftlicher Patch
+Feathers;Federn
+Fencing ring;Zaunring
+Fenkenstrain's Castle Portal;Fenkenstrains Burgportal
+Fire of Unseasonal Warmth;Feuer der ungewöhnlichen Wärme
+Fishing spot;Angelplatz
+Flaming Fire altar;Flammender Feueraltar
+Floating Book;Schwebendes Buch
+Floor space mid;Wohnfläche Mitte
+Fence t-piece;Zaun-T-Stück
+Fermenting Vat;Gärbottich
+Firepit;Feuerstelle
+Fireplace;Kamin
+Fishing Spot;Angelplatz
+Floorboards;Dielen
+Fancy pool of Rejuvenation;Schicker Pool der Verjüngung
+Figurehead;Galionsfigur
+First aid box;Erste-Hilfe-Kasten
+Fish;Fisch
+Floor space side;Grundflächenseite
+Floor tile;Bodenfliese
+Flowers;Blumen
+Fog marker;Nebelmarkierung
+Fence space;Zaunplatz
+Fire Wall;Brandmauer
+Fire remains;Feuer bleibt
+Firebox;Feuerraum
+Firepit with hook;Feuerstelle mit Haken
+Fishing Crane;Fischereikran
+Floats;Schwimmt
+Fly paper;Fliegenpapier
+Final Pillar;Letzte Säule
+Firm snow patch;Fester Schneefleck
+Fish bits;Fischstücke
+Fishing Guild Portal;Portal der Fischergilde
+Fishing rod;Angelrute
+Flowerbed;Blumenbeet
+Flute;Flöte
+Fence bits;Zaunteile
+Fire trap;Feuerfalle
+Falling door;Fallende Tür
+Fancy Jewellery Box;Ausgefallene Schmuckschatulle
+Filled Recess;Gefüllte Aussparung
+Fishing Spot (Depleted);Angelplatz (erschöpft)
+Flat ground;Flacher Boden
+Footprints;Fußabdrücke
+Fossil cleaning bench;Fossile Reinigungsbank
+Fossil fuel;Fossiler Brennstoff
+Furnace Coolant;Ofenkühlmittel
+Gear box;Getriebe
+Font;Schriftart
+Frozen door;Gefrorene Tür
+Frozen orc;Gefrorener Ork
+Funeral Pyre;Scheiterhaufen
+Gas hole;Gasloch
+Ghorrock Portal;Ghorrock-Portal
+Fractionalising still;Immer noch fraktionieren
+Frozen ornate pool of Rejuvenation;Gefrorener, verzierter Pool der Verjüngung
+Frozen table;Gefrorener Tisch
+Fungi on log;Pilze auf Baumstamm
+Fur stall;Pelzstall
+Furnace;Ofen
+Gap;Lücke
+Gates;Tore
+Gem Rock;Edelsteinfelsen
+Frog spit;Froschspucke
+Garden fence;Gartenzaun
+Gem Stall;Edelsteinstand
+Food chute;Futterrutsche
+Forest Mushrooms;Waldpilze
+Forest floor;Waldboden
+Fortified gate;Befestigtes Tor
+Fountain of Heroes;Brunnen der Helden
+Fountain of Rune;Runenbrunnen
+Fruit Tree Patch;Obstbaumbeet
+Fruit cart;Obstwagen
+Fungus doormat;Pilz-Fußmatte
+Geyser;Geysir
+Giant Boulder;Riesiger Felsbrocken
+Giant feathers;Riesige Federn
+Gilded Adventure Log;Vergoldetes Abenteuertagebuch
+Fox;Fuchs
+Fremennik Boat;Fremennik-Boot
+Fremennik boat;Fremennik-Boot
+Game space;Spielraum
+Gift of Peace;Geschenk des Friedens
+Gilded bench;Vergoldete Bank
+Four;Vier
+Fragment of Seren;Fragment von Seren
+Frozen Pool of Restoration;Gefrorener Teich der Wiederherstellung
+Fungus covered Cavern wall;Pilzbedeckte Höhlenwand
+Giant vial;Riesiges Fläschchen
+Gilded cape rack;Vergoldeter Umhangständer
+Fruit Stall;Obststand
+Fungus;Pilz
+Fungus pattern;Pilzmuster
+Fuse;Sicherung
+General Bentnoze;General Bentnoze
+General Stall;Generalstall
+Giant Anvil;Riesiger Amboss
+Giant Dwarf;Riesenzwerg
+Giant crystal;Riesiger Kristall
+Gibbet;Galgen
+Formidable passage;Beeindruckende Passage
+Fungus seat;Pilzsitz
+Gallows;Galgen
+Gas bubble;Gasblase
+Gate of War;Tor des Krieges
+Gilded stand;Vergoldeter Ständer
+Fossil Island display case;Fossil Island-Vitrine
+Frank's barrel;Franks Fass
+Free-for-all portal;Kostenloses Portal für alle
+Gabion defence;Gabionenverteidigung
+Gangplank;Laufplanke
+Fountain of Uhld;Uhld-Brunnen
+General Graardor display;General Graardor-Ausstellung
+General Wartface;General Wartface
+Glarial's Tomb;Glarials Grab
+Frog;Frosch
+Full fishing net;Volles Fischernetz
+Gem stall;Edelsteinstand
+Generator;Generator
+Food Trough;Futtertrog
+Food trough;Futtertrog
+Fossil Storage;Fossilienlagerung
+Frame;Rahmen
+Frozen warrior;Gefrorener Krieger
+Gigantic penguin;Riesiger Pinguin
+Glarial's Tombstone;Glalarials Grabstein
+Frozen Pool of Revitalisation;Gefrorener Pool der Revitalisierung
+G.A.G. banner;GAG. Banner
+Gas cylinder;Gasflasche
+Gate;Tor
+Gazebo;Pavillon
+Giant anvil;Riesiger Amboss
+Gilded wardrobe;Vergoldeter Kleiderschrank
+Food Stall;Imbissstand
+Food cupboard;Lebensmittelschrank
+Foot lockers;Fußschränke
+Fountain;Brunnen
+Frozen Pool of Rejuvenation;Gefrorener Pool der Verjüngung
+Frozen demon;Gefrorener Dämon
+Frozen fancy pool of Rejuvenation;Gefrorener, schicker Pool der Verjüngung
+Fungi;Pilze
+Gauntlet Portal;Handschuhportal
+Globe space;Globusraum
+Goal;Ziel
+Grassland;Wiese
+Gnome bench;Gnomenbank
+Gnome crates;Gnomenkisten
+Gold Castlewars armour;Goldene Castlewars-Rüstung
+Grave;Grab
+Graveyard Teleport;Friedhofsteleport
+Gloves and duster;Handschuhe und Staubwedel
+Glowing Orb;Leuchtende Kugel
+Gnome cabinet;Zwergenschrank
+Gnome landing light;Gnome-Landelicht
+Gnome skeleton;Gnomenskelett
+Goat poo;Ziegenkot
+Grain;Getreide
+Granary wall;Getreidespeicherwand
+Great Olmic Statue;Große olmische Statue
+Greenman's ale;Greenmans Bier
+Glowing Fungus;Leuchtender Pilz
+Gnome barrel;Gnomenfass
+Gnome cooker;Zwergenkocher
+Gnome crowd;Gnomenmenge
+Gobln Merfsh;Gobln Merfsh
+Golden Gnome;Goldener Zwerg
+Goo covered vine;Mit Schleim bedeckte Rebe
+Grass;Gras
+Globe;Globus
+Glove Rack;Handschuhständer
+Glyphs;Glyphen
+Gnome chair;Gnomenstuhl
+Gnome table;Gnomentisch
+Golem rubble;Golem-Trümmer
+Grand Exchange Portal;Großes Börsenportal
+Gnome barrels;Gnomenfässer
+Gnome goal;Gnomenziel
+Golem arm;Golem-Arm
+Gramophone;Grammophon
+Granary roof;Getreidespeicherdach
+Globe of Gielinor;Globus von Gielinor
+Grand Gold Chest;Große Goldtruhe
+Grate;Gitter
+Grave of Scorpius;Grab von Scorpius
+Glouphrie statue;Glouphrie-Statue
+Glowing Carving;Glühende Schnitzerei
+Glowing crystal;Leuchtender Kristall
+Godfather throne;Patenthron
+Goutweed Crate;Gierschkiste
+Grand bookshelf;Großes Bücherregal
+Greater magic circle;Großer magischer Kreis
+Golden lantern;Goldene Laterne
+Gout Tuber Plant;Gichtknollenpflanze
+Goutweed;Giersch
+Grain sacks;Getreidesäcke
+Grand Exchange booth;Grand Exchange-Stand
+Grape arbor;Weinlaube
+Green chemical;Grüne Chemikalie
+Greenmans Ale;Greenmans Ale
+Gnome crate;Gnomenkiste
+Golden pear bush;Goldener Birnenstrauch
+Golovanova seedling;Golovanova-Sämling
+Gravestone;Grabstein
+Greater teleport focus;Größerer Teleport-Fokus
+Green door;Grüne Tür
+Goat;Ziege
+Goblin stove;Goblin-Ofen
+Gold;Gold
+Golden cage;Goldener Käfig
+Golem foot;Golem-Fuß
+Golem head;Golem-Kopf
+Grandfather clock;Standuhr
+Green tears;Grüne Tränen
+Glass table;Glastisch
+Gold Chest;Goldtruhe
+Green banner;Grünes Banner
+Glass door;Glastür
+Gnome Glider;Gnom-Gleiter
+Golden tree;Goldener Baum
+Golem body;Golem-Körper
+Gourd tree;Kürbisbaum
+Grand Exchange display;Große Börsenausstellung
+Glowing carving;Leuchtende Schnitzerei
+Golf-cart;Golfwagen
+Golovanova plant;Golovanova-Pflanze
+Gorilla Statue;Gorilla-Statue
+Grape vine;Weinrebe
+Grapevine;Weinrebe
+Grave marker;Grabstein
+Grill;Grill
+Gnome Flag;Gnome-Flagge
+Goblin crowd;Goblin-Menge
+Grain of Plenty;Korn der Fülle
+Grandiose Doors;Grandiose Türen
+Grapevines;Weinreben
+Glowing fungus;Leuchtender Pilz
+Gnome glider;Gnom-Segelflugzeug
+Gnome statue;Gnomenstatue
+Gold Screen;Goldschirm
+Gold cannonball;Goldene Kanonenkugel
+Grandfather Clock;Standuhr
+Great Olm display;Tolle Olm-Ausstellung
+Hanging meat;Hängendes Fleisch
+Hespori;Hespori
+Grinder;Schleifer
+Guild door;Zunfttür
+Guthix Portal;Guthix-Portal
+Heap of bricks;Haufen Ziegel
+Heather;Heidekraut
+Herb Stall;Kräuterstand
+Grotto;Grotte
+Habitat space;Lebensraum
+Hanging log;Hängendes Protokoll
+Hardcore Ironman;Hardcore-Ironman
+Hazeel's coffin;Hazeels Sarg
+Heavy door;Schwere Tür
+Hidden trapdoor;Versteckte Falltür
+Grim lilly;Grimmige Lilly
+Guard dog;Wachhund
+Harpoonfish cannon;Harpunenfischkanone
+Healer item machine;Heiler-Gegenstandsmaschine
+Hearth;Feuerstelle
+Growing vine;Wachsende Rebe
+Handholds;Haltegriffe
+Hay bales;Heuballen
+Hefin Banner;Hefin-Banner
+Hespori patch;Hespori-Patch
+Guard;Bewachen
+Guide rope;Führungsseil
+Hanging banner;Hängendes Banner
+Hanging pirate;Hängender Pirat
+Hat rack;Hutablage
+Hazelmere statue;Hazelmere-Statue
+Hellhound;Höllenhund
+Heraldry space;Heraldischer Raum
+Heroic statue;Heldenstatue
+Guard space;Platz bewachen
+Guild trophy space;Platz für Gildentrophäen
+Half-built Loom;Halbfertiger Webstuhl
+Hammock;Hängematte
+Hand holds;Hand hält
+Hanger;Aufhänger
+Hank (ghastly!);Hank (schrecklich!)
+Hank (sick);Hank (krank)
+Hay Bales;Heuballen
+Herbs;Kräuter
+Hanging;Hängend
+Hanging tapestry;Hängender Wandteppich
+Harpoons;Harpunen
+Healer spring;Heilerquelle
+Healthorg statue;Healthorg-Statue
+Hedge;Hecke
+Herman's desk;Hermans Schreibtisch
+Grimgnash;Grimgnash
+Grubby Door;Schmutzige Tür
+Haar-Tok;Haar-Tok
+Hammerstone Hops;Hammerstone-Hopfen
+Handle;Handhaben
+Handy portal;Praktisches Portal
+Hangman game;Galgenmännchen-Spiel
+Harp;Harfe
+Hat stand;Hutständer
+Head trophy space;Kopftrophäenplatz
+Growing wheat;Weizen anbauen
+Guild Door;Gildentür
+Hanging hand;Hängende Hand
+Herb;Kraut
+High Stakes;Hohe Einsätze
+Grym Root;Grym Root
+Gun Locker;Waffenschrank
+Harvested Celastrus tree;Geernteter Celastrus-Baum
+Heat;Hitze
+Helmet pluming stand;Helm-Ständer
+Grubby Chest;Schmuddelige Truhe
+Grym Root (Depleted);Grym-Wurzel (aufgebraucht)
+Hanging cape;Hängender Umhang
+Hanging flag;Hängende Flagge
+Hanging wheel;Hängendes Rad
+Harmony Island Portal;Harmony Island-Portal
+Hatch;Luke
+Healing certificate;Heilungszertifikat
+Hedging;Absicherung
+Henge;Henge
+Herb patch;Kräuterbeet
+Hillside entrance;Eingang am Hang
+Grotesque Guardians' display;Groteske Wächterausstellung
+Hammers;Hämmer
+Hank (very sick);Hank (sehr krank)
+Hardwood Grove Doors;Hartholz-Grove-Türen
+Hardy goutweed;Winterharte Giersch
+Haystack;Heuhaufen
+Hidden Statue;Versteckte Statue
+Hill;Hügel
+Hammer;Hammer
+Hank (Well);Hank (Nun)
+Guitar;Gitarre
+Hanging dye;Hängender Farbstoff
+Grotto tree;Grottenbaum
+Hard rock;Harter Rock
+Hay bale;Heuballen
+Headless statue;Kopflose Statue
+Heater;Heizung
+Hollowed rock;Ausgehöhlter Stein
+Hoop Snake;Hoop-Schlange
+Hutch;Stall
+Iban's Throne;Ibans Thron
+Ice Light;Eislicht
+Ice crystal;Eiskristall
+Icon of Zamorak;Ikone von Zamorak
+Imposing Doors;Imposante Türen
+Incinerator;Verbrennungsanlage
+Hoisted sail;Gehisstes Segel
+Hole in wall;Loch in der Wand
+Huge Gate;Riesiges Tor
+Icon of Gnome Child;Ikone des Gnomenkindes
+Hobgoblin;Kobold
+Hole;Loch
+Hole in the wall;Loch in der Wand
+Hollow Log;Hohler Baumstamm
+Howling Snow Storm;Heulender Schneesturm
+Ice ledge;Eisvorsprung
+Icosahedron Pile;Ikosaeder-Stapel
+Illuminated Symbol;Beleuchtetes Symbol
+Inconspicuous bush (hard);Unscheinbarer Busch (hart)
+Inconspicuous hole (elite);Unauffälliges Loch (Elite)
+Inconspicuous hole (master);Unauffälliges Loch (Meister)
+Inconspicuous hole (medium);Unauffälliges Loch (mittel)
+Infernal chart;Höllisches Diagramm
+Holy barrier;Heilige Barriere
+Ice steps;Eisstufen
+Icy rocks;Eisige Felsen
+Inconspicuous crate (easy);Unauffällige Kiste (einfach)
+Inconspicuous hole (hard);Unauffälliges Loch (hart)
+Inconspicuous rocks (elite);Unauffällige Steine ​​(Elite)
+Hull;Rumpf
+Ice chunks;Eisbrocken
+Ice storm;Eissturm
+Icon of Bob;Ikone von Bob
+Inconspicuous crate (master);Unauffällige Kiste (Meister)
+Inconspicuous rocks (easy);Unauffällige Felsen (einfach)
+Hurdle;Hürde
+Iasor plant;Iasor-Anlage
+Ice covered boulder;Eisbedeckter Felsbrocken
+Igloo;Iglu
+Inconspicuous bush (easy);Unauffälliger Busch (einfach)
+Inconspicuous bush (elite);Unauffälliger Busch (Elite)
+Inconspicuous crate (hard);Unauffällige Kiste (hart)
+Inconspicuous rocks (master);Unauffällige Steine ​​(Meister)
+History;Geschichte
+Hot vent door;Heiße Entlüftungstür
+Huge vat;Riesiger Bottich
+Icicle;Eiszapfen
+Incomplete map;Unvollständige Karte
+Inconspicuous bush (beginner);Unauffälliger Busch (Anfänger)
+Inconspicuous rocks (medium);Unauffällige Steine ​​(mittel)
+Hopper;Trichter
+Ice blockage;Eisblockade
+Ice bridge;Eisbrücke
+Icthlarin's statue;Icthlarins Statue
+Holding area;Haltebereich
+Hollow log;Hohler Baumstamm
+Holy Barrier;Heilige Barriere
+Hosidius statue;Hosidius-Statue
+Hot Coals;Heiße Kohlen
+House Advertisement;Hauswerbung
+Ice;Eis
+Icy rock;Eisiger Fels
+Inconspicuous hole (easy);Unauffälliges Loch (einfach)
+Inconspicuous rocks (hard);Unauffällige Steine ​​(hart)
+Hope bridge;Hoffnungsbrücke
+Hops Patch;Hopfenbeet
+Hospital shelves;Krankenhausregale
+Huge plant;Riesige Pflanze
+Ice Column;Eissäule
+Ice Troll King;Eistrollkönig
+Incense burner;Räuchergefäß
+Hollow tree;Hohler Baum
+Horn of Death;Horn des Todes
+Icon of Saradomin;Ikone von Saradomin
+Icy Cavern;Eisige Höhle
+Inconspicuous bush (medium);Unauffälliger Busch (mittel)
+Huge Spider;Riesige Spinne
+Icon space;Symbolbereich
+Inactive Symbol;Inaktives Symbol
+Huge Mushroom;Riesiger Pilz
+Hurt fairy;Verletzte Fee
+Icon of Guthix;Ikone von Guthix
+Inconspicuous crate (medium);Unauffällige Kiste (mittel)
+Incubation chamber;Inkubationskammer
+Horn of glory;Horn der Herrlichkeit
+Icyene Statue;Icyene-Statue
+Inconspicuous bush (master);Unauffälliger Busch (Meister)
+Human Flag;Menschliche Flagge
+Ice cube;Eiswürfel
+Icicles;Eiszapfen
+Inanimate Altar;Unbelebter Altar
+Hook briar;Haken-Dornbusch
+Hopper controls;Hopper-Steuerung
+Ice Throne;Eisthron
+Ice gate;Eistor
+Inconspicuous crate (elite);Unauffällige Kiste (Elite)
+Incubator;Inkubator
+Iron Winch;Eisenwinde
+Kebab;Kebab
+Kelda Hops;Kelda-Hopfen
+Kitchen Drawers;Küchenschubladen
+Lab table;Labortisch
+Lalli's Stew;Lallis Eintopf
+Ithell Banner;Ithell-Banner
+Jangerberry bush;Jangerberry-Busch
+Javelin;Speer
+Junction box;Anschlussdose
+Karamja painting;Karamja-Gemälde
+Key;Schlüssel
+Kitchen gate;Küchentor
+Jail Door;Gefängnistür
+Jungle Grass;Dschungelgras
+Jungle Tree;Dschungelbaum
+Kourend map display case;Kourend-Kartenvitrine
+Lamp;Lampe
+Intermediate Flag;Mittlere Flagge
+Item Chest;Gegenstandstruhe
+Kalphite Queen Topiary;Formschnitt der Kalphitenkönigin
+Jacky Jester;Jacky Jester
+Jewellery stall;Schmuckstand
+Kalphite Queen display;Ausstellung der Kalphitenkönigin
+Kharyrll Portal;Kharyll-Portal
+King Arthur;König Artus
+Kronos plant;Kronos-Pflanze
+Kurask head;Kurask-Kopf
+Ladder;Leiter
+Ladder space;Leiterraum
+Jagged wall;Zerklüftete Wand
+Jenkins;Jenkins
+Jolly Roger;Piratenflagge
+Jungle Tree Stump;Dschungelbaumstumpf
+Junk;Müll
+Kettle;Wasserkocher
+Kharidian cactus (Healthy);Kharidian-Kaktus (gesund)
+Kitchen cabinet;Küchenschrank
+Lamppost;Laternenpfahl
+Ivory table;Elfenbeintisch
+Juna;Juna
+Jutting wall;Vorstehende Wand
+Kalphite Soldier;Kalphitischer Soldat
+Kelp;Seetang
+Kharidian cactus (Dry);Kharidian-Kaktus (trocken)
+Lab tube;Laborröhrchen
+Lancalliums;Lancallien
+Landscape space;Landschaftsraum
+Keg;Fass
+Keyhole;Schlüsselloch
+Lamp space;Lampenraum
+Isafdar painting;Isafdar-Gemälde
+Jungle Flower;Dschungelblume
+KQ head;KQ-Kopf
+Kelda Hops Patch;Kelda Hopfen-Patch
+Knight;Ritter
+Kraken display;Kraken-Anzeige
+Information;Information
+Iron railings;Eisengeländer
+Ironman & Ultimate Ironwoman;Ironman und ultimative Ironwoman
+Jungle plant;Dschungelpflanze
+Justiciar armour;Justizielle Rüstung
+Krandorian Hops;Krandorischer Hopfen
+Lamp still;Lampe noch
+Information booth;Informationsstand
+Insurance stall;Versicherungsstand
+Kourend sigil;Kourend-Siegel
+Lamp oil still;Lampenöl noch
+Lamp stall;Lampenstand
+Jewellery box space;Platz für eine Schmuckschatulle
+KBD heads;KBD-Köpfe
+Kalphite queen legs;Beine der Kalphite-Königin
+Kennith's ball;Kenniths Ball
+Kings' ladder;Königsleiter
+Kite shield;Drachenschild
+Knight Statue;Ritterstatue
+Kourend Portal;Kourend-Portal
+Ladder top;Leiter oben
+Injured fairy;Verletzte Fee
+Iorwerth Banner;Iorwerth-Banner
+Iron ladder;Eisenleiter
+Kaleef's body;Kaleefs Körper
+Information scroll;Informationsrolle
+Jungle Plant;Dschungelpflanze
+Kitchen table;Küchentisch
+Kraken Topiary;Kraken-Topiary
+Lander hatch;Lander-Luke
+Juliet;Julia
+Jungle Bush;Dschungelbusch
+Justiciar Statue;Justizstatue
+Jute;Jute
+Kalphite Queen;Kalphite-Königin
+Lander boat;Landerboot
+Information Scroll;Informationsrolle
+Interdimensional rift;Interdimensionaler Riss
+Interrogation chair;Verhörstuhl
+Jungle Palm;Dschungelpalme
+Jungle flower;Dschungelblume
+Kelda Stout;Kelda Stout
+Landscape;Landschaft
+Large rock;Großer Felsen
+Leafy Palm Tree;Blattpalme
+Lever B;Hebel B
+Lifelilly;Lebenslilly
+Limestone fireplace;Kamin aus Kalkstein
+Large Barrel;Großes Fass
+Lava;Lava
+Lava forge;Lavaschmiede
+Lizardman corpse;Leiche eines Echsenmenschen
+Lizardman eggs;Echsenmensch-Eier
+Large grave;Großes Grab
+Lathe;Drehbank
+Lift;Aufzug
+Linum Tirinum (Depleted);Linum Tirinum (abgereichert)
+Large Rock;Großer Felsen
+Large grave stone;Großer Grabstein
+Lazim's statue;Lazims Statue
+Large Geyser;Großer Geysir
+Large open cupboard;Großer offener Schrank
+Larran's big chest;Larrans große Brust
+Letter;Brief
+Life buoy;Rettungsring
+Lifeless Matter;Leblose Materie
+Light Jungle;Leichter Dschungel
+Large Fossil Support;Große Fossilienunterstützung
+Laundry Basket;Wäschekorb
+League Accomplishment Scroll;Liga-Erfolgsschriftrolle
+Lift Platform;Hebeplattform
+Large Table;Großer Tisch
+Large boulder;Großer Felsbrocken
+Large cupboard;Großer Schrank
+Leaflet;Broschüre
+Leaves;Blätter
+Lever C;Hebel C
+Lava trough;Lavarinne
+Lantern;Laterne
+Large doors;Große Türen
+Large hole;Großes Loch
+Large orrery;Großes Orrery
+Large table;Großer Tisch
+Law rift;Gesetzeskonflikt
+Leather shields;Lederschilde
+Leviathan;Leviathan
+Lift Engine;Heben Sie den Motor an
+Large crystals;Große Kristalle
+Large urn;Große Urne
+Lever space;Hebelraum
+Levers;Hebel
+Larder;Speisekammer
+Large Display;Großes Display
+Large oven;Großer Ofen
+Large sewer pipe;Großes Abwasserrohr
+Large storage unit;Große Lagereinheit
+Lightning conductor;Blitzableiter
+Linum Tirinum;Linum Tirinum
+Little boulder;Kleiner Felsbrocken
+Leaflets;Flugblätter
+League statue;Liga-Statue
+Lectern space;Rednerpultplatz
+Ledge;Leiste
+Left side of a fireplace;Linke Seite eines Kamins
+Lever;Hebel
+Lever D;Hebel D
+Light;Licht
+Light door;Leichte Tür
+Lighting mechanism;Beleuchtungsmechanismus
+Large Crystal;Großer Kristall
+Large geyser;Großer Geysir
+League Firsts Board;Vorstand der League Firsts
+Leak;Leck
+Leftovers;Reste
+Legends Guild door;Tür der Legendengilde
+Lighting space;Beleuchtungsraum
+Large door;Große Tür
+Large fountain;Großer Brunnen
+Large vase;Große Vase
+Large-leaf Plant;Großblattpflanze
+Lava crater;Lavakrater
+Lectern;Rednerpult
+Limpwurt plant;Limpwurt-Pflanze
+Little crack;Kleiner Riss
+Large Boulder;Großer Felsbrocken
+Large Fossil Display;Große Fossilienausstellung
+Large bone;Großer Knochen
+Large cave;Große Höhle
+Large stalagmite;Großer Stalagmit
+Larran's small chest;Larrans kleine Truhe
+Lava Monster;Lavamonster
+Lava gap;Lavalücke
+Leafy tree;Belaubter Baum
+Lever A;Hebel A
+Larder space;Speisekammer
+Large Cage;Großer Käfig
+Lever E;Hebel E
+Lever F;Hebel F
+Lever bracket;Hebelhalterung
+Lightning;Blitz
+Lion Statue;Löwenstatue
+Little tent;Kleines Zelt
+Lizard dwelling;Eidechsenwohnung
+Locked gate;Verschlossenes Tor
+Log Store;Protokollspeicher
+Magic Mirror;Zauberspiegel
+Magical symbol;Magisches Symbol
+Lumpy rug;Klumpiger Teppich
+Magic guild door;Tür der Zaubergilde
+Mahogany chest;Truhe aus Mahagoni
+Mahogany wall decoration;Wanddekoration aus Mahagoni
+Lobstrosity;Lobstrosität
+Low wall;Niedrige Mauer
+Machine;Maschine
+Magenta Crystal;Magentafarbener Kristall
+Magic cape rack;Magischer Umhangständer
+Magic chest;Zaubertruhe
+Magic spell;Zauberspruch
+Magic wardrobe;Magische Garderobe
+Mahogany;Mahagoni
+Locked Ogre chest;Verschlossene Oger-Truhe
+Log balance;Protokollsaldo
+Long branched tree;Langer verzweigter Baum
+Magic Mushtree;Magischer Mushtree
+Magic Portal;Magisches Portal
+Magic wardrobe space;Magischer Kleiderschrankraum
+Magical Barrier;Magische Barriere
+Locked chest;Verschlossene Truhe
+Locked door;Verschlossene Tür
+Log raft;Blockfloß
+Lure cave;Lockhöhle
+Magic Stall;Zauberstall
+Magic birdhouse;Magisches Vogelhaus
+Magic birdhouse (empty);Magisches Vogelhaus (leer)
+Magic tree;Zauberbaum
+Mahogany cape rack;Umhangständer aus Mahagoni
+Mahogany sapling;Mahagoni-Setzling
+Lizardman lair;Das Versteck des Echsenmenschen
+Logavano plant;Logavano-Anlage
+Loose panel;Lose Platte
+Magic Tree Stump;Magischer Baumstumpf
+Logs;Protokolle
+Lunar Altar;Mondaltar
+Lunar Isle Portal;Portal der Mondinsel
+Lunar globe;Mondglobus
+Magic Gate;Magisches Tor
+Magic box;Zauberkiste
+Magical wheat;Magischer Weizen
+Mahogany house;Mahagonihaus
+Machine panel;Maschinentafel
+Magic ball;Zauberball
+Magic box failed;Die Zauberbox ist fehlgeschlagen
+Magic table;Zaubertisch
+Magical pumpkin;Zauberhafter Kürbis
+Mahogany table;Tisch aus Mahagoni
+Mahogany tree;Mahagonibaum
+Mahogany trophy case;Trophäenkoffer aus Mahagoni
+Loose Mud;Loser Schlamm
+Loose rocks;Lose Steine
+Lumbridge painting;Lumbridge-Gemälde
+Magic wheat;Magischer Weizen
+Magical Fire;Magisches Feuer
+Magical Obelisk;Magischer Obelisk
+Magical shield;Magischer Schild
+Loader;Lader
+Magic door;Magische Tür
+Mahogany Wardrobe;Kleiderschrank aus Mahagoni
+Mahogany birdhouse;Vogelhaus aus Mahagoni
+Mahogany feeder;Futterspender aus Mahagoni
+Log pile;Holzstapel
+Lumbridge Portal;Lumbridge-Portal
+Mahogany outfit stand;Kleiderständer aus Mahagoni
+Log storage;Protokollspeicher
+Long grass;Langes Gras
+Lovakengj statue;Lovakengj-Statue
+Machinery;Maschinen
+Magenta crystal;Magentafarbener Kristall
+Magic circle;Magischer Kreis
+Magical fire;Magisches Feuer
+Lovakite furnace;Lovakite-Ofen
+Low fence;Niedriger Zaun
+Magic well;Magisch gut
+Mahogany bench;Bank aus Mahagoni
+Lizardman head;Echsenmannkopf
+Lock;Sperren
+Longhall door;Longhall-Tür
+Loose Railing;Loses Geländer
+Magic Tree;Zauberbaum
+Magical Animator;Magischer Animator
+Mahogany Adventure Log;Mahagoni-Abenteuerprotokoll
+Mahogany prize chest;Preistruhe aus Mahagoni
+Mahogany scratching post;Kratzbaum aus Mahagoni
+Long planks;Lange Bretter
+Loom;Webstuhl
+Magenta door;Magentafarbene Tür
+Mahogany tree stump;Mahagonibaumstumpf
+Locker;Schließfach
+Lockers;Schließfächer
+Logavano seedling;Logavano-Sämling
+Lumbridge Guide;Lumbridge-Führer
+Magic barrier;Magische Barriere
+Magical Chest;Magische Truhe
+Mahogany birdhouse (empty);Mahagoni-Vogelhaus (leer)
+Map space;Kartenraum
+Master clue scroll display;Meisterhinweis-Schriftrollenanzeige
+Mature Asgarnian Ale;Reifes Asgarnian Ale
+Medivaemia root;Medivemia-Wurzel
+Mirror;Spiegel
+Mithril door;Mithril-Tür
+Mole hill;Maulwurfshügel
+Monkey Madness 2 display;Monkey Madness 2-Anzeige
+Mature Cider;Reifer Apfelwein
+Mature juniper tree;Reifer Wacholderbaum
+Mausoleum door;Mausoleumstür
+Melting Pot;Schmelztiegel
+Mill;Mühle
+Man trap;Menschenfalle
+Mangle;Mangel
+Meilyr Banner;Meilyr-Banner
+Metal door;Metalltür
+Mine cart sign;Minenwagenschild
+Map table;Kartentisch
+Massive ribs;Massive Rippen
+Meat tree;Fleischbaum
+Mine cave;Meine Höhle
+Mandibular Maximus;Unterkiefer Maximus
+Marble trap;Marmorfalle
+Marshy jungle vine;Sumpfige Dschungelrebe
+Marv (ghastly!);Marv (schrecklich!)
+Medpack Box;Medpack-Box
+Milk Urns;Milchurnen
+Minecart;Minecart
+Man hidden;Mann versteckt
+Marble bench;Marmorbank
+Mark of Darkness;Zeichen der Dunkelheit
+Marker;Marker
+Market Stall;Marktstand
+Marv (Well);Marv (Nun)
+Medical table;Medizinischer Tisch
+Metal;Metall
+Mine cart;Mein Wagen
+Molanisk;Molanisk
+Marble hidden;Marmor versteckt
+Mausoleum Door;Mausoleumstür
+Metal pieces;Metallteile
+Millstones;Mühlsteine
+Mine Cart;Minenwagen
+Making Friends with My Arm display;Ausstellung „Freunde finden mit meinem Arm“.
+Manhole;Mannloch
+Maple birdhouse;Vogelhaus aus Ahorn
+Massive storage unit;Riesige Aufbewahrungseinheit
+Mature Wizards Mind Bomb;Reife Zauberer-Gedankenbombe
+Medium Boulder;Mittlerer Felsbrocken
+Mercenary;Söldner
+Merfolk Skeleton;Meervolk-Skelett
+Map;Karte
+Marble adventure log;Marmor-Abenteuerprotokoll
+Marble fireplace;Marmorkamin
+Marim Portal;Marim-Portal
+Medium fence;Mittlerer Zaun
+Mature Dragon Bitter;Reifer Drachenbitter
+Medium storage unit;Mittlere Lagereinheit
+Metal bird;Metallvogel
+Metal stand;Metallständer
+Marigold;Ringelblume
+Marv (sick);Marv (krank)
+Mast;Mast
+Medium Jungle;Mittlerer Dschungel
+Money Pot;Geldtopf
+Market stall;Marktstand
+Mature Chef's Delight;Ein Genuss für reife Köche
+Meat table;Fleischtisch
+Medium Fossil Display;Mittlere Fossilienausstellung
+Memoriam Device;Memoriam-Gerät
+Mighty torrent;Mächtiger Torrent
+Mind Altar Portal;Mind-Altar-Portal
+Maple Tree;Ahornbaum
+Maple birdhouse (empty);Ahorn-Vogelhaus (leer)
+Marble wall;Marmorwand
+Mark of Power;Zeichen der Macht
+Marv (very sick);Marv (sehr krank)
+Mature Moonlight Mead;Reifer Moonlight Met
+Mind Door;Gedankentür
+Mannequin;Mannequin
+Marigolds;Ringelblumen
+Mature Axeman's Folly;Die Torheit des reifen Axtkämpfers
+Memorial;Denkmal
+Metal gate;Metalltor
+Mine door;Meine Tür
+Mithril armour;Mithril-Rüstung
+Marble cape rack;Umhangständer aus Marmor
+Marked wall;Markierte Wand
+Mature Dwarven Stout;Reifes Zwergenbier
+Mausoleum;Mausoleum
+Metal ladder;Metallleiter
+Mind rift;Geistesriss
+Manhole cover;Schachtabdeckung
+Maple tree;Ahornbaum
+Mature Greenmans Ale;Reifes Greenmans Ale
+Mature Slayer's Respite;Atempause des reifen Jägers
+Metal Press;Metallpresse
+Mine door entrance;Eingang zur Minentür
+Mineral vein;Mineralader
+Mounted Firemaking Cape;Berittener Feuermacher-Umhang
+Mounted Music Cape;Berittener Musikumhang
+Mounted Slayer Cape (t);Umhang des berittenen Jägers (t)
+Mounted Xeric's Warrior;Berittener Xerics Krieger
+Monkey bars;Klettergerüste
+Moonlight Mead;Mondscheinmet
+Mossy rock;Moosiger Stein
+Mound of earth;Erdhügel
+Mounted Achievement Diary Cape;Berittener Leistungstagebuch-Umhang
+Mounted Crafting Cape;Berittener Handwerksumhang
+Mounted Herblore Cape;Berittener Herblore-Umhang
+Mounted Hitpoints Cape;Berittener Hitpoints-Umhang
+Mounted Hunting Cape;Berittener Jagdumhang
+Mounted Runecrafting Cape;Berittener Umhang der Runenfertigung
+Mounted Smithing Cape;Berittener Schmiedeumhang
+Mounted swordfish;Berittener Schwertfisch
+Mud;Dreck
+Mounted Agility Cape (t);Berittener Agility-Umhang (t)
+Mud mound;Schlammhügel
+Mud patch;Schlammfleck
+Morytania painting;Morytania-Gemälde
+Mounted Head Space;Angebrachter Kopfraum
+Mounted Prayer Cape (t);Berittener Gebetsumhang (t)
+Mounted Xeric's Guard;Berittene Xerics Wache
+Mounted Hunting Cape (t);Berittener Jagdumhang (t)
+Mounted Infernal Cape;Berittener Höllenumhang
+Mounted Magic Cape (t);Berittener Zauberumhang (t)
+Mouse hole;Mauseloch
+Mud pit;Schlammgrube
+Mushroom;Pilz
+Mounted Attack Cape (t);Berittener Angriffsumhang (t)
+Mounted Defence Cape;Berittener Verteidigungsumhang
+Mounted Fletching Cape;Berittener Befiederungsumhang
+Mounted Runecrafting Cape (t);Berittener Runenfertigungsumhang (t)
+Mounted Slayer Cape;Umhang des berittenen Jägers
+Monkey trap;Affenfalle
+Mounted Coins;Aufgesetzte Münzen
+Mounted Cooking Cape;Befestigter Kochumhang
+Mounted Fire Cape;Berittener Feuerumhang
+Mounted Fishing Cape;Berittener Angelumhang
+Mounted Woodcutting Cape;Befestigter Holzfällerumhang
+Muddy patch;Schlammiger Fleck
+Mudpile;Schlammhaufen
+Mummy;Mumie
+Mushroo;Pilz
+Mounted Firemaking Cape (t);Berittener Feuermacherumhang (t)
+Mounted Fishing Cape (t);Angelumhang montiert (t)
+Mounted Xeric's Champion;Xerics berittener Champion
+Mushtoise;Mushtoise
+Monkeybars;Klettergerüste
+Moths;Motten
+Mounted Agility Cape;Berittener Agility-Umhang
+Mounted Cooking Cape (t);Montierter Kochumhang (t)
+Mounted Hitpoints Cape (t);Berittener Hitpoints-Umhang (t)
+Mounted Xeric's General;Berittener General von Xeric
+Mourner;Trauernde
+Multicannon parts;Teile für mehrere Kanonen
+Mounted Prayer Cape;Berittener Gebetsumhang
+Monkey Statue;Affenstatue
+Mould;Schimmel
+Mounted Construction Cape;Befestigter Bauumhang
+Mounted Fletching Cape (t);Berittener Befiederungsumhang (t)
+Mounted Head;Berittener Kopf
+Mounted Magic Cape;Berittener Zauberumhang
+Mounted Mythical Cape;Berittener mythischer Umhang
+Mounted Ranged Cape (t);Berittener Fernkampfumhang (t)
+Mounted Thieving Cape (t);Berittener Diebesumhang (t)
+Mounted Xeric's Sentinel;Xerics Wächter beritten
+Mounted shark;Berittener Hai
+Monument;Monument
+Mounted Construction Cape (t);Befestigter Bauumhang (t)
+Mounted Max Cape;Berittener Max Cape
+Mounted Woodcutting Cape (t);Berittener Holzfällerumhang (t)
+Mounted harpoonfish;Berittener Harpunenfisch
+Mounted sea bass;Berittener Wolfsbarsch
+Mushrooms;Pilze
+Moth;Motte
+Mounted Champion's Cape;Umhang des berittenen Champions
+Mounted Crafting Cape (t);Berittener Handwerksumhang (t)
+Mounted Emblem;Aufgesetztes Emblem
+Mounted Quest Cape;Berittenes Quest-Kap
+Mounted Strength Cape;Berittener Kraftumhang
+Mounted Strength Cape (t);Berittener Kraftumhang (t)
+Mushroom patch;Pilzbeet
+Monumental chest;Monumentale Truhe
+Mounted Defence Cape (t);Berittener Verteidigungsumhang (t)
+Mounted Farming Cape (t);Berittener Bauernumhang (t)
+Mounted Herblore Cape (t);Berittener Herblore-Umhang (t)
+Mounted Thieving Cape;Berittener Diebesumhang
+Mud pile;Schlammhaufen
+Mossy branch;Bemooster Zweig
+Mounted Attack Cape;Berittener Angriffsumhang
+Mounted Mining Cape (t);Berittener Bergbaukap (t)
+Mounted Ranged Cape;Berittener Fernkampfkap
+Mushroom torch;Pilzfackel
+Monster space;Monsterraum
+Mounted Farming Cape;Berittener Bauernumhang
+Mounted Mining Cape;Berittenes Bergbaukap
+Mounted Smithing Cape (t);Berittener Schmiedeumhang (t)
+Mural;Wandgemälde
+Mystic symbol;Mystisches Symbol
+Nasturtium;Kapuzinerkresse
+New farming patch;Neuer Landwirtschafts-Patch
+Noxious tendrils;Schädliche Ranken
+Oak birdhouse;Vogelhaus aus Eiche
+Oak house;Eichenhaus
+Obelisk of Water;Obelisk des Wassers
+Odd looking wall;Seltsam aussehende Wand
+Mysterious statue;Geheimnisvolle Statue
+Net;Netto
+Nightmare;Alptraum
+Oak wardrobe;Kleiderschrank aus Eiche
+Ogre Coffin;Oger-Sarg
+Mysterious pool;Geheimnisvoller Pool
+Navigator's table;Navigatortisch
+Noticeboard;Schwarzes Brett
+Oak wall decoration;Wanddekoration aus Eiche
+Oaknock statue;Oaknock-Statue
+Obstacle pipe;Hindernisrohr
+Nettles;Brennnesseln
+Nightmare zone display;Anzeige der Albtraumzone
+Notice;Beachten
+Oak prize chest;Preistruhe aus Eichenholz
+Oaknock's exchanger;Oaknocks Austauscher
+Oaknock's machine;Oaknocks Maschine
+Obelisk of Air;Obelisk der Luft
+Occupied Cormorant perch;Besetzter Kormoranbarsch
+Ogre barricade;Oger-Barrikade
+Music Scores;Musikpartituren
+Musical space;Musikalischer Raum
+Mystical mirror;Mystischer Spiegel
+Mythic Statue;Mythische Statue
+Note;Notiz
+Oak scratching post;Kratzbaum aus Eiche
+Oak table;Eichentisch
+Nightmare Berries;Albtraumbeeren
+Nightmare Topiary;Albtraum-Topiary
+Obsidian bench;Obsidianbank
+Mystic portal;Mystisches Portal
+Nails;Nägel
+Notices;Hinweise
+Novice Flag;Anfängerflagge
+Obelisk of Earth;Obelisk der Erde
+Musty bookshelf;Muffiges Bücherregal
+Mysterious ruins;Geheimnisvolle Ruinen
+Mystical barrier (orange);Mystische Barriere (orange)
+Mythical cape;Mythischer Umhang
+Nature rift;Naturriss
+Neutral Barrier;Neutrale Barriere
+Oak outfit stand;Kleiderständer aus Eichenholz
+Oak tree stump;Eichenstumpf
+Obelisk;Obelisk
+Official Order of Construction;Offizielle Bauordnung
+Mysterious pipe;Geheimnisvolle Pfeife
+Nature house;Naturhaus
+Ned's Table;Neds Tisch
+Nest;Nest
+Nightmare Blossom;Albtraumblüte
+Oak bench;Eichenbank
+Oak drawers;Schubladen aus Eiche
+Oak trophy case;Trophäenkoffer aus Eichenholz
+Obstacle;Hindernis
+Mushy Bed;Matschiges Bett
+Narrow wall;Schmale Wand
+Oak;Eiche
+Oak feeder;Eichenfutterhäuschen
+Oaknock's Machine;Oaknocks Maschine
+Obsidian fence;Obsidianzaun
+Office table;Bürotisch
+Mysterious stone;Geheimnisvoller Stein
+Newspapers;Zeitungen
+Nightmare display;Albtraumdarstellung
+Nine;Neun
+Node;Knoten
+Oak chair;Eichenstuhl
+My life;Mein Leben
+Narrow gap;Enge Lücke
+Oak Tree;Eiche
+Oak birdhouse (empty);Vogelhaus aus Eiche (leer)
+Oak chest;Truhe aus Eiche
+Oak tree;Eiche
+Ogre bed;Ogerbett
+Notice board;Schild
+Occupied perch;Besetzter Barsch
+Odd markings;Seltsame Markierungen
+Mystical door;Mystische Tür
+Mushtree;Mushtree
+Music Stand;Notenständer
+Mystical barrier;Mystische Barriere
+Nothing;Nichts
+Novice flag;Anfängerflagge
+Ogre bench;Ogerbank
+Mysterious glow;Geheimnisvolles Leuchten
+Mystical barrier (red);Mystische Barriere (rot)
+Net trap;Netzfalle
+Oak cape rack;Umhangregal aus Eichenholz
+Obelisk of Fire;Obelisk des Feuers
+Obsidian fence post;Obsidian-Zaunpfosten
+Obstacle net;Hindernisnetz
+Ogre Drums;Ogertrommeln
+Old Crane;Alter Kran
+Old Shrine;Alter Schrein
+Old tools;Alte Werkzeuge
+Old wall;Alte Mauer
+Olmic pillar;Olmische Säule
+Opulent rug;Opulenter Teppich
+Orange tree;Orangenbaum
+Ore crate;Erzkiste
+Ornate banner stand;Verzierter Bannerständer
+Ornate kalphite combat dummy;Verzierte Kampfpuppe aus Kalphit
+Ornate railing;Verziertes Geländer
+Palm tree;Palme
+Onion seeds;Zwiebelsamen
+Open hot vent door;Heiße Entlüftungstür öffnen
+Open trapdoor;Falltür öffnen
+Opulent table;Opulenter Tisch
+Ornamental fountain;Zierbrunnen
+Palm;Palme
+Old Memorial;Altes Denkmal
+Old tree;Alter Baum
+Operation table;Operationstisch
+Ornament;Ornament
+Ornamental anvil;Zieramboss
+Ornate combat dummy;Verzierte Kampfpuppe
+Ornate vampyre combat dummy;Verzierte Vampir-Kampfpuppe
+Panning point;Schwenkpunkt
+Ogre fire;Ogerfeuer
+Old fire pit;Alte Feuerstelle
+Operation chair;Operationsstuhl
+Ornate vase;Kunstvolle Vase
+Overhanging rock;Überhängender Felsen
+Overload potion;Überladungstrank
+Old ruin entrance;Alter Ruineneingang
+Old sacks;Alte Säcke
+Oozing barrier;Nässende Barriere
+Orange door;Orangefarbene Tür
+Ornate dragon combat dummy;Verzierte Drachenkampfpuppe
+Painting;Malerei
+Panning tray;Schwenktablett
+Old bookshelf;Altes Bücherregal
+Onion plant;Zwiebelpflanze
+Opening;Öffnung
+Orchids;Orchideen
+Ornate kurask combat dummy;Verzierte Kampfpuppe aus Kurask
+Ornate undead combat dummy;Verzierte Untoten-Kampfpuppe
+Output Tap;Ausgangshahn
+Oven;Ofen
+Pack;Pack
+Old well;Alter Brunnen
+One;Eins
+Opened gold chest;Geöffnete goldene Truhe
+Operating Table;Operationstisch
+Ore stones;Erzsteine
+Paladin;Paladin
+Ore sack;Erzsack
+Olaf's boat;Olafs Boot
+Old Stall;Alter Stall
+Oojimaflip;Oojimaflip
+Open Chest;Öffne die Truhe
+Open Door;Offene Tür
+Ornamental globe;Zierglobus
+Owl Statue;Eulenstatue
+Oil lamp;Öllampe
+Onion;Zwiebel
+Open Cupboard;Offener Schrank
+Operating table;Operationstisch
+Ore table;Erztisch
+Ornate candle;Verzierte Kerze
+Palm tree stump;Palmenstumpf
+Open statue;Offene Statue
+Ore vein;Erzader
+Ornate league statue;Verzierte Ligastatue
+Ornate pool of Rejuvenation;Kunstvoller Pool der Verjüngung
+Orange tree stump;Orangenbaumstumpf
+Ornate Jewellery Box;Verzierte Schmuckschatulle
+Ornate lockbox;Verziertes Schließfach
+Ogre spit-roast;Oger-Spießbraten
+Ogre stone door;Oger-Steintür
+Old Bookshelf;Altes Bücherregal
+Old log;Altes Protokoll
+Onion basket;Zwiebelkorb
+Ornate trophy pedestal;Verzierter Trophäensockel
+Ornate wilderness combat dummy;Verzierte Wildnis-Kampfattrappe
+Outfit stand space;Platz für den Outfit-Stand
+Painting stand;Lackierständer
+Panel;Panel
+Ominous Fishing Spot;Unheilvoller Angelplatz
+Open chest;Offene Brust
+Open gate;Tor öffnen
+Orb;Kugel
+Pagoda Fungus;Pagodenpilz
+Old crane;Alter Kran
+Orchid;Orchidee
+Organ;Orgel
+Old axe;Alte Axt
+Old passageway;Alter Durchgang
+Orrery;Orrery
+Otherworldly garden;Jenseitiger Garten
+Otherworldly theme;Jenseitiges Thema
+Our lives;Unser Leben
+Pedestal;Sockel
+Peephole;Guckloch
+Penance Fighter statue;Buße-Kämpfer-Statue
+Pendulum;Pendel
+Pie stall;Kuchenstand
+Pipe machine;Rohrmaschine
+Piping;Rohrleitungen
+Passage;Passage
+Patched Wall;Geflickte Wand
+Penance Ranger statue;Buße-Ranger-Statue
+Pew;Bank
+Phren Roots;Phren-Wurzeln
+Pigeon;Taube
+Pile of bricks;Haufen Ziegel
+Pillar;Säule
+Pine;Kiefer
+Pet list;Haustierliste
+Pile of fish;Haufen Fische
+Pin;Stift
+Pirate map;Piratenkarte
+Pit;Grube
+Plant;Anlage
+Paper;Papier
+Passageway;Durchgang
+Penance Healer statue;Buße-Heiler-Statue
+Picnic bench;Picknickbank
+Plantpot;Pflanzentopf
+Papaya tree;Papayabaum
+Pentamid Pile;Pentamid-Stapel
+Petrified Mushtree;Versteinerter Mushtree
+Petrified Spine Plant;Versteinerte Wirbelsäulenpflanze
+Piano stool;Klavierhocker
+Pile of Rock;Steinhaufen
+Pile of rubble.;Schutthaufen.
+Platform edge;Plattformkante
+Partial fence;Teilweiser Zaun
+Pebbles;Kieselsteine
+Perch;Barsch
+Pile of Fishbowls;Stapel von Goldfischgläsern
+Pile of canes;Haufen Stöcke
+Pinboard;Pinnwand
+Pirate Captain;Piratenkapitän
+Pile of rubble;Schutthaufen
+Pillar of Light;Säule des Lichts
+Pirate Pete;Pirat Pete
+Papaya tree stump;Papaya-Baumstumpf
+Penance Queen spawn statue;Spawn-Statue der Buße-Königin
+Pet list space;Platz für die Haustierliste
+Pirate Flag;Piratenflagge
+Partially broken bridge;Teilweise kaputte Brücke
+Pedestal space;Sockelraum
+Pickaxe;Spitzhacke
+Pile of rocks;Steinhaufen
+Pineapple plant;Ananaspflanze
+Pitcher plant;Kannenpflanze
+Penance Runner statue;Buße-Läufer-Statue
+Pet house space;Platz für ein Haustierhaus
+Platform support;Plattformunterstützung
+Pear tree;Birnbaum
+Pet feeder space;Futterplatz für Haustiere
+Pirate Sign;Piratenzeichen
+Plant door;Pflanzentür
+Plaque;Plakette
+Play blocks;Spielblöcke
+Petrified Large Mushroom;Versteinerter großer Pilz
+Petrified Pufferfish;Versteinerter Kugelfisch
+Picket fence;Lattenzaun
+Pile of skulls;Haufen Schädel
+Pipes;Rohre
+Piscarilius statue;Piscarilius-Statue
+Plant Fossil Display;Ausstellung von Pflanzenfossilien
+Planter;Pflanzer
+Parasol;Sonnenschirm
+Pedals;Pedale
+Petrified Pitcher;Versteinerter Krug
+Phren Roots (Depleted);Phren-Wurzeln (erschöpft)
+Picture;Bild
+Pile of rope;Haufen Seil
+Pineapple Plant;Ananaspflanze
+Pink rose bush patch;Rosa Rosenstrauchbeet
+Pitfall;Falle
+Parchment;Pergament
+Patched wall;Geflickte Wand
+Path;Weg
+Piano;Klavier
+Picnic table;Picknicktisch
+Pineapple plant stump;Ananas-Pflanzenstumpf
+Pipe;Rohr
+Platform;Plattform
+Party Balloon;Partyballon
+Pen Door;Stifttür
+Penance cave;Buße-Höhle
+Pet basket;Haustierkorb
+Pet blanket;Haustierdecke
+Petrified mushroom;Versteinerter Pilz
+Pendant;Anhänger
+Picture wall;Bilderwand
+Pile of Ancient Books;Stapel alter Bücher
+Pinball Post;Flipper-Beitrag
+Plank;Planke
+Pool space;Poolbereich
+Portal Home;Portal-Startseite
+Potatoes;Kartoffeln
+Preparation Table;Vorbereitungstisch
+Private bank booth;Privatbankstand
+Protruding rocks;Vorstehende Steine
+Pyramid entrance;Eingang zur Pyramide
+Polluted water;Verschmutztes Wasser
+Pool of Rejuvenation;Pool der Verjüngung
+Pool of Slime;Schleimpool
+Portrait space;Porträtraum
+Post;Post
+Potato;Kartoffel
+Potion of power table;Tabelle „Trank der Macht“.
+Prison Door;Gefängnistür
+Plough;Pflug
+Portal Nexus space;Portal-Nexus-Raum
+Portrait;Porträt
+Potion shelf;Trankregal
+Potion shelves;Zaubertrankregale
+Press support;Presseunterstützung
+Pressure Barrel;Druckfass
+Private portal;Privates Portal
+Points settings;Punkteeinstellungen
+Pot of dynamite;Topf voll Dynamit
+Potato seed;Kartoffelsamen
+Pump;Pumpe
+Poison Ivy bush;Giftefeu-Busch
+Pokers;Poker
+Pole;Pole
+Portal of Heroes;Portal der Helden
+Pot of Gold;Topf voll Gold
+Potato basket;Kartoffelkorb
+Professor's table;Professorentisch
+Pylon;Pylon
+Pool of blood;Blutlache
+Portal frame;Portalrahmen
+Potential fire;Möglicher Brand
+Pots;Töpfe
+Powder Barrel;Pulverfass
+Power saw;Motorsäge
+Pool of Dreams;Pool der Träume
+Pool of Revitalisation;Pool der Revitalisierung
+Portcullis;Fallgatter
+Potions;Zaubertränke
+Priest Statue;Priesterstatue
+Pyre site;Scheiterhaufen
+Poll booth;Wahlkabine
+Pressure machine;Druckmaschine
+Prize chest space;Preislicher Platz in der Truhe
+Pyre boat;Scheiterhaufenboot
+Rachel (Well);Rachel (Nun)
+Pool of Refreshment;Erfrischungspool
+Pyromancer;Pyromant
+Quiescent Snow Storm;Ruhiger Schneesturm
+Portal;Portal
+Portal of Champions;Portal der Champions
+Portal of Legends;Portal der Legenden
+Posh bell-pull;Schicker Klingelzug
+Potted plant;Topfpflanze
+Protest Banners;Protestbanner
+Quest list space;Platz auf der Questliste
+Pool of Restoration;Pool der Wiederherstellung
+Posts;Beiträge
+Potato plants;Kartoffelpflanzen
+Precarious bridge;Prekäre Brücke
+Pump and drain;Pumpen und ablassen
+Plinth;Sockel
+Portal Nexus;Portal-Nexus
+Portal machine;Portalmaschine
+Pot-boiler;Topfkessel
+Potter's Wheel;Töpferscheibe
+Power Grid;Stromnetz
+Prison door;Gefängnistür
+Rabbitless hole;Kaninchenloses Loch
+Pond;Teich
+Portal space;Portalraum
+Potted flower;Topfblume
+Potter's wheel;Töpferscheibe
+Prison space;Gefängnisraum
+Rabbit hole;Kaninchenbau
+Pool of Nightmares;Pool der Albträume
+Poster;Poster
+Pot;Pot
+Potato cactus;Kartoffelkaktus
+Potato plant;Kartoffelpflanze
+Pressure Lever;Druckhebel
+Plunder Storage;Plünderungslager
+Pole-vault;Stabhochsprung
+Portal of Death;Portal des Todes
+Potted fern;Topffarn
+Pottery Oven;Töpferofen
+Pressure pad;Druckpolster
+Pump and tub;Pumpe und Wanne
+Quest List;Questliste
+Rabbit snare;Kaninchenschlinge
+Poison crater;Giftkrater
+Poor Bed;Schlechtes Bett
+Protest Poster;Protestplakat
+Rachel (ghastly!);Rachel (schrecklich!)
+Red flowers;Rote Blumen
+Redberry bush;Rotbeerstrauch
+Reinitialisation Panel;Reinitialisierungspanel
+Restraint Table;Rückhaltetabelle
+Rickety door;Klapprige Tür
+Rock Chair;Rock-Stuhl
+Rock pile;Steinhaufen
+Rocking unicorn;Schaukelndes Einhorn
+Red rose bush patch;Roter Rosenbuschbeet
+Redwood birdhouse;Redwood-Vogelhaus
+Redwood tree;Redwood-Baum
+Repaired furnace;Reparierter Ofen
+Reward Chest;Belohnungstruhe
+Right side of a fireplace;Rechte Seite eines Kamins
+Rockslide;Steinschlag
+Rack of barrels;Regal mit Fässern
+Ray of Light;Lichtstrahl
+Recess;Aussparung
+Red chemical;Rote Chemikalie
+Reeds;Schilf
+Rock Formation (Glowing);Felsformation (leuchtend)
+Rack;Gestell
+Ranging game space;Umfangreicher Spielraum
+Rat barn;Rattenstall
+Red Flowers;Rote Blumen
+Repaired Roof;Repariertes Dach
+Red Banana Tree;Roter Bananenbaum
+Rachel (sick);Rachel (krank)
+Ranis Drakan;Ranis Drakan
+Red fungi;Rote Pilze
+Redwood;Redwood
+Repair Locker;Schließfach reparieren
+Rewards Chest;Belohnungstruhe
+Rewards chest;Belohnungstruhe
+River;Fluss
+Rock debris;Felsschutt
+Rock of Dalgroth;Felsen von Dalgroth
+Rocks;Felsen
+Rocky ledge;Felsvorsprung
+Rat;Ratte
+Red Water Sign;Rotes Wasserzeichen
+Refinery;Raffinerie
+Repaired leak;Leck repariert
+Reset Lever;Rückstellhebel
+Reward chest;Belohnungstruhe
+Rinsing pool;Spülbecken
+Rock Formation;Felsformation
+Raised coffin;Erhöhter Sarg
+Range chimney;Range-Schornstein
+Rare Flowers;Seltene Blumen
+Red Barrier;Rote Barriere
+Redwood fence post;Redwood-Zaunpfosten
+Repair space;Platz reparieren
+Rock Pile;Steinhaufen
+Rock slide;Steinschlag
+Rocking chair;Schaukelstuhl
+Raft;Floß
+Ramp;Rampe
+Redwood fence;Redwood-Zaun
+Repaired wall;Reparierte Wand
+Restraining Table;Rückhaltetisch
+Retorts;Erwidert
+Reward pool;Belohnungspool
+Rail;Schiene
+Rat barrel;Rattenfass
+Recruiting board;Rekrutierungsausschuss
+Rocky Ledge;Felsvorsprung
+Rat Wall;Rattenwand
+Red door;Rote Tür
+Redwood tree patch;Redwood-Baumbeet
+Rock;Felsen
+Rock and string;Rock und Streicher
+Rocky handholds;Felsige Haltegriffe
+Rocky outcrop;Felsvorsprung
+Rat wall;Rattenwand
+Reinforced crate;Verstärkte Kiste
+Ranging spot;Rangierplatz
+Range;Reichweite
+Rat hole;Rattenloch
+Red banner;Rotes Banner
+Redwood birdhouse (empty);Redwood-Vogelhaus (leer)
+Repair bench;Reparaturbank
+Rock wall;Felswand
+Rockery;Steingarten
+Rocky shore;Felsiges Ufer
+Rachel (very sick);Rachel (sehr krank)
+Railing;Geländer
+Rat trap;Rattenfalle
+Rat wheel;Rattenrad
+Red Star Fungi;Rote Sternpilze
+Return Orb;Rückkehrkugel
+Ripples;Wellen
+Rockfall;Steinschlag
+Rat lever;Rattenhebel
+Rat-hole;Rattenloch
+Red Castlewars armour;Rote Castlewars-Rüstung
+Rift;Riss
+Ring of Stones;Ring aus Steinen
+Rock Formation (Depleted);Felsformation (erschöpft)
+Rockpile;Steinhaufen
+Round shield;Runder Schild
+Ruined Pillar;Zerstörte Säule
+STASH (master);STASH (Meister)
+Sacred Bone Burner;Heiliger Knochenbrenner
+Sacred Forge;Heilige Schmiede
+Sacrificial boat;Opferboot
+Rope Ladder;Strickleiter
+Roped tree;Mit Seil bespannter Baum
+Rough hewn steps;Grob behauene Stufen
+Rowboat;Ruderboot
+Ruined Stall;Zerstörter Stall
+Rocky surface;Felsige Oberfläche
+Rolling pin;Nudelholz
+Roof Entrance;Dacheingang
+Rose bush;Rosenstrauch
+Rotten sapling;Fauler Schössling
+Rotten stump;Fauler Baumstumpf
+Ruined stall;Ruinierter Stand
+Rune essence;Runenessenz
+Ruptured cavern;Geborstene Höhle
+Rocnar;Rocnar
+Rotten food;Verdorbenes Essen
+Rotting branch;Verrottender Ast
+Rubble;Schutt
+Rug;Teppich
+Ruins Exit;Ruinenausgang
+Rupert;Rupert
+STASH (beginner);STASH (Anfänger)
+Sack;Sack
+Sack pile;Sackhaufen
+Rotten Yommi tree;Fauler Yommi-Baum
+Rotting log;Verrottender Baumstamm
+Sabertooth Squirrel;Säbelzahntiger-Eichhörnchen
+Salve Graveyard Portal;Salve-Friedhofsportal
+Roof edge;Dachkante
+Rope ladder;Strickleiter
+Rope swing;Seilschaukel
+Row boat;Ruderboot
+Rubber cap mushroom;Pilz mit Gummikappe
+Rune armour;Runenrüstung
+Rusted anvil;Verrosteter Amboss
+Rotten carpet;Fauler Teppich
+Rune pouches;Runenbeutel
+Rocky support;Rockiger Support
+Ropes;Seile
+Rotten Yommi;Fauler Yommi
+Rowboat space;Platz für Ruderboote
+Ruins Entrance;Eingang zur Ruine
+Rune case space;Platz für Runenkoffer
+Rune dragon;Runendrache
+Sailfish;Segelfisch
+Roots;Wurzeln
+Ropeswing;Seilschaukel
+Rum Crate;Rumkiste
+Runner trap(1);Läuferfalle(1)
+Rusty key;Rostiger Schlüssel
+STASH (hard);STASH (hart)
+Sack Pile;Sackhaufen
+Roof;Dach
+Rope bell-pull;Seilglockenzug
+Ruins;Ruinen
+Sacred water;Heiliges Wasser
+Rooftop Agility display;Agility-Display auf dem Dach
+Rope anchor;Seilanker
+Roses;Rosen
+Rubble Pile;Schutthaufen
+Runic Altar;Runenaltar
+S.T.A.S.H chart;S.T.A.S.H-Diagramm
+Sacks;Säcke
+Roof top beams;Dachbalken
+Rope bridge;Seilbrücke
+Rotten Apple Pile;Fauler Apfelhaufen
+Rune display case;Runenvitrine
+STASH (elite);STASH (Elite)
+Sacrificial Pyre;Opferscheiterhaufen
+Rolled up rug;Zusammengerollter Teppich
+Roof Exit;Dachausgang
+Rope;Seil
+Rosebush;Rosenstrauch
+Rotting tree;Verrottender Baum
+Sail;Segel
+Rolled up rugs;Aufgerollte Teppiche
+Root;Wurzel
+Rosemary;Rosmarin
+Rune Essence;Runenessenz
+Runite Minor;Runit Minor
+STASH (medium);VORRAT (mittel)
+Rope bridge support;Unterstützung der Seilbrücke
+Rotten village fence;Verrotteter Dorfzaun
+Rough wall;Raue Wand
+Rune temple sign;Runen-Tempelzeichen
+Runecrafting altar;Runenherstellungsaltar
+Sails;Segel
+Rotten Totem pole;Verrotteter Totempfahl
+Royal Wedding Invitation;Königliche Hochzeitseinladung
+Rug space;Teppichplatz
+Runner trap(2);Läuferfalle(2)
+STASH (easy);STASH (einfach)
+Safe;Sicher
+Saltpetre;Salpeter
+Scarecrow;Vogelscheuche
+Seating space;Sitzplatz
+Seers weathervane;Seher-Wetterfahne
+Seers' Village Portal;Dorfportal der Seher
+Shelves space;Platz im Regal
+Scorched earth;Verbrannte Erde
+Scrapey Tree;Scrapey-Baum
+Scratching post space;Platz für Kratzbäume
+Scroll rack;Scroll-Rack
+Secure chest;Sichere Truhe
+Seed vault;Samentresor
+Shadow root;Schattenwurzel
+Shaking box;Schüttelbox
+Sand;Sand
+Sarachnis display;Sarachnis-Ausstellung
+Saucepan;Topf
+Scrying pool;Wahrsagebecken
+Secret Door;Geheimtür
+Sewer valve;Abwasserventil
+Shattered rockface;Zerschmetterte Felswand
+Sapling;Schössling
+Scimitar Stall;Scimitar-Stand
+Seal of Hefin;Siegel von Hefin
+Shape puzzle;Formpuzzle
+Shark Beast;Hai-Biest
+Shining pool;Glänzender Pool
+Sandpit;Sandkasten
+Saradomin Portal;Saradomin-Portal
+Sarcophagus;Sarkophag
+Scaffolding;Gerüst
+Sculpture;Skulptur
+Seaweed;Algen
+Seven;Sieben
+Shayzien statue;Shayzien-Statue
+Shelves;Regale
+Shield display;Schildanzeige
+Shimmering field;Schimmerndes Feld
+Sample table;Beispieltisch
+Sandy's Desk;Sandys Schreibtisch
+Score board;Anzeigetafel
+Screen;Bildschirm
+Seal of Cadarn;Siegel von Cadarn
+Seal of Crwys;Siegel von Crwys
+Seal of Meilyr;Siegel von Meilyr
+Seed table;Saattabelle
+Ship hull;Schiffsrumpf
+Sarah (Well);Sarah (Nun)
+Sarah (sick!);Sarah (krank!)
+Scrolls;Schriftrollen
+Scuttle;Scuttle
+Sewing machine;Nähmaschine
+Shayzien snapped banner;Shayzien schnappte das Banner
+Shield Display;Schildanzeige
+Seaweed Pile;Algenhaufen
+Secret entrance;Geheimer Eingang
+Shantay pass;Shantay-Pass
+Saradomin Standard;Saradomin-Standard
+Shadow crystal;Schattenkristall
+Shaving stand;Rasierständer
+Shelf of thread;Regal aus Faden
+Scoreboard;Anzeigetafel
+Scrawled note;Gekritzelte Notiz
+Seaweed patch;Algenbeet
+Septic tendrils;Septische Ranken
+Shark head;Haikopf
+Sand pile;Sandhaufen
+Saradomin star;Saradomin-Stern
+Scrapey Bark Sign;Scrapey Bark Schild
+Scrying orb;Wahrsagungskugel
+Seal of Amlodd;Siegel von Amlodd
+Security Barrier;Sicherheitsbarriere
+Sandy's Coffee Mug;Sandys Kaffeetasse
+Saradomin staff;Saradomin-Mitarbeiter
+Sarah (ghastly!);Sarah (schrecklich!)
+Seal of Ithell;Siegel der Ithell
+Sewer pipe;Abwasserrohr
+Sandworm castings;Gussteile von Sandwürmern
+Saradomin altar;Saradomin-Altar
+Sarah (very sick!);Sarah (sehr krank!)
+Scaregull;Vogelmöwe
+Scroll;Scrollen
+Seal of Iorwerth;Siegel von Iorwerth
+Shayzien banner;Shayzien-Banner
+Shelf space;Regalfläche
+Shield;Schild
+Ship;Schiff
+Sand pit;Sandkasten
+Scaffold;Gerüst
+Seal of Trahaearn;Siegel von Trahaearn
+Seal of the Forgotten;Siegel des Vergessenen
+Seed Stall;Saatstand
+Shimmering barrier;Schimmernde Barriere
+Saradomin Brazier;Saradomin Kohlenbecken
+Schematic crate;Schematische Kiste
+Scroll table;Scrolltabelle
+Senntisten Portal;Senntisten-Portal
+Servant's moneybag;Geldbeutel eines Dieners
+Shackle table;Schäkeltisch
+Shelf;Regal
+Shell;Hülse
+Shop counter;Ladentheke
+Silver stall;Silberner Stand
+Singing Bowl;Klangschale
+Sir Lucan;Sir Lucan
+Slave;Sklave
+Small plant;Kleine Pflanze
+Ship's wheel;Schiffsrad
+Shooting Star Noticeboard;Shooting Star-Informationstafel
+Skroom;Skroom
+Skull;Schädel
+Skullshield;Schädelschild
+Small Plant space 2;Kleiner Pflanzenraum 2
+Small orrery;Kleines Orrery
+Smelly hole;Stinkendes Loch
+Signpost;Wegweiser
+Silverlight;Silverlight
+Sinclair family crest;Wappen der Sinclair-Familie
+Sinclair family fountain;Sinclair-Familienbrunnen
+Slayer's Respite;Atempause des Jägers
+Small Oven;Kleiner Ofen
+Small bush;Kleiner Busch
+Small furnace;Kleiner Ofen
+Small vase;Kleine Vase
+Short fence;Kurzer Zaun
+Shrivelled plant;Geschrumpfte Pflanze
+Shuttered window;Fenster mit Fensterläden
+Sink space;Platz zum Spülen
+Small plant 2;Kleine Pflanze 2
+Ship's ladder;Schiffsleiter
+Shop Counter;Ladentheke
+Sir Tristram;Sir Tristram
+Short Plant;Kurze Pflanze
+Shot;Schuss
+Shrine;Schrein
+Sign post;Wegweiser
+Simple lockbox;Einfaches Schließfach
+Sir Amik Varze;Sir Amik Varze
+Sir Bedivere;Sir Bedivere
+Slab;Platte
+Slashed Bush;Aufgeschlitzter Busch
+Slope end;Hangende
+Small fern;Kleiner Farn
+Sinclair mansion drain;Abfluss des Sinclair-Herrenhauses
+Skull slope;Schädelneigung
+Simple stove;Einfacher Herd
+Slashed web;Durchgeschlitztes Netz
+Small storage unit;Kleine Lagereinheit
+Slayer Helmet display case;Slayer-Helm-Vitrine
+Slightly broken bridge;Leicht kaputte Brücke
+Slightly dark crystal;Leicht dunkler Kristall
+Slimy water;Schleimiges Wasser
+Small Table;Kleiner Tisch
+Small table;Kleiner Tisch
+Six;Sechs
+Slashed bush;Aufgeschlitzter Busch
+Small Plant space 1;Kleiner Pflanzenraum 1
+Small crystals;Kleine Kristalle
+Smashed chair;Zertrümmerter Stuhl
+Singing bowl;Klangschale
+Sink;Waschbecken
+Sir Lancelot;Sir Lancelot
+Sir Palomedes;Herr Palomedes
+Skotizo Topiary;Skotizo-Formschnitt
+Skotizo display;Skotizo-Anzeige
+Slashed tapestry;Aufgeschlitzter Wandteppich
+Slight indentations;Leichte Einkerbungen
+Slope;Neigung
+Small chest;Kleine Brust
+Smelly mushroom;Stinkender Pilz
+Silver Chest;Silberne Truhe
+Single pillar;Einzelne Säule
+Skrach Uglogwee;Skrach Uglogwee
+Slug goo;Schneckenschlamm
+Small Boulder;Kleiner Felsbrocken
+Small Geyser;Kleiner Geysir
+Smashed table;Zertrümmerter Tisch
+Smashed window;Zertrümmertes Fenster
+Sleeping bag;Schlafsack
+Sliced web;Geschnittenes Netz
+Small gravestone;Kleiner Grabstein
+Small oven;Kleiner Ofen
+Smashed cage;Zertrümmerter Käfig
+Sickle logo;Sichel-Logo
+Sinclair family beehive;Bienenstock der Familie Sinclair
+Sinclair family compost heap;Komposthaufen der Familie Sinclair
+Sithik Ints;Sithik Ints
+Skeleton;Skeleton
+Shoe box;Schuhkarton
+Short planks;Kurze Bretter
+Shortcut;Abkürzung
+Sign;Zeichen
+Sinister barrel;Unheimliches Fass
+Skulls;Schädel
+Sluice Gate;Schleusentor
+Silk stall;Seidenstand
+Slimy pillars;Schleimige Säulen
+Slimy residue;Schleimiger Rückstand
+Small Fossil Display;Kleine Fossilienausstellung
+Small fountain;Kleiner Brunnen
+Small rock;Kleiner Stein
+Spinning Wheel;Spinnrad
+Spore;Spore
+Snowy bird hide;Verschneites Vogelversteck
+Spiders' nest;Spinnennest
+Spike defence;Spike-Verteidigung
+Spirit Angler dock;Spirit Angler-Dock
+Standard Stand;Standardständer
+Smokey well;Rauchig gut
+Smoky cave;Rauchige Höhle
+Snowdrops;Schneeglöckchen
+Spinning light;Spinnendes Licht
+Spirit Tree Patch;Geisterbaum-Patch
+Spooky picture;Gruseliges Bild
+Spooky stairs;Gruselige Treppe
+Stacked crates;Gestapelte Kisten
+Stagnant fish display;Stehende Fischpräsentation
+Stalagmites;Stalagmiten
+Speartrap;Speerfalle
+Spin Blades;Spin Blades
+Spinning pipe;Spinnrohr
+Spinning wheel;Spinnrad
+Spirit tree;Geisterbaum
+Sq'irk tree;Sq'irk-Baum
+Square shield;Quadratischer Schild
+Stand;Stand
+Standard;Standard
+Smoking vent;Rauchabzug
+Soil;Boden
+Sparkling pool;Glitzernder Pool
+Spikey chain;Stachelige Kette
+Spine mushroom;Wirbelsäulenpilz
+Spirit Angler stats;Spirit Angler-Statistiken
+Spit roast;Spießbraten
+Stacked barrels;Gestapelte Fässer
+Stalagmite;Stalagmit
+Spade;Spaten
+Spirit Tree Stump;Geisterbaumstumpf
+Spirit tendrils;Geisterranken
+Soil patch;Bodenfleck
+Soul Obelisk;Seelenobelisk
+Soul Wars Portal;Soul Wars-Portal
+Spiderwebs;Spinnennetze
+Spiritual Fairy Tree;Spiritueller Feenbaum
+Staff barrel;Stabfass
+Stained-glass window;Buntglasfenster
+Staircase;Treppe
+Snape grass seedling;Snape-Gras-Sämling
+Snow;Schnee
+Snowfall;Schneefall
+Spice stall;Gewürzstand
+Spider eggs;Spinneneier
+Spike hidden;Spike versteckt
+Spiked pit;Stachelgrube
+Spirit Tree;Geisterbaum
+Solid bronze door;Massive Bronzetür
+Spikes;Spikes
+Spork;Göffel
+Spotlight;Scheinwerfer
+Spray;Spray
+Sofa;Sofa
+Solid black door;Solide schwarze Tür
+Spirit pump;Spirituspumpe
+Stacked Boxes;Gestapelte Kisten
+Stair Space;Treppenraum
+Smoke;Rauch
+Snape grass plant;Snape-Graspflanze
+Snow jump;Schneesprung
+Solid steel door;Massive Stahltür
+Snowdrop patch;Schneeglöckchen-Patch
+Spike trap;Spike-Falle
+Sprouting Roots;Sprießende Wurzeln
+Stairs;Treppe
+Stalactite;Stalaktit
+Soul Altar;Seelenaltar
+Soul boat;Seelenboot
+Space;Raum
+Specimen;Probe
+Spinning Machine;Spinnmaschine
+Smoke Crystal;Rauchkristall
+Soldier;Soldat
+Solid gold door;Tür aus massivem Gold
+Specimen tray;Probentablett
+Spinning blades;Sich drehende Klingen
+Spinning pole;Spinnstange
+Staff of Bob the Cat;Stab von Bob the Cat
+Solid silver door;Massive silberne Tür
+Soul Devourer;Seelenfresser
+Soul rift;Seelenriss
+Specimen table;Probentisch
+Stall;Stall
+Snake;Schlange
+Snow drift;Schneeverwehung
+Spear wall;Speerwand
+Sphinx;Sphinx
+Spice Rack;Gewürzregal
+Spiny bush;Stacheliger Busch
+Stagnant Lake;Stehender See
+Stairs down;Treppe runter
+Stairs up;Treppe hoch
+Stairwell;Treppenhaus
+Statue of Saradomin;Statue von Saradomin
+Steel dragon;Stahldrache
+Stepping Stone;Sprungbrett
+Stone Ladder;Steinleiter
+Stone pool;Steinbecken
+Storage space;Stauraum
+Standing Torch;Stehende Fackel
+Statue of a warrior;Statue eines Kriegers
+Stepping stones;Trittsteine
+Stone signpost;Wegweiser aus Stein
+Stepping log;Schrittprotokoll
+Stone chest;Steintruhe
+Stone wall;Steinmauer
+Storage crate;Aufbewahrungskiste
+Strange looking stone;Seltsam aussehender Stein
+Standing stone;Stehender Stein
+Statuette Plinth;Statuettensockel
+Stepping stone;Sprungbrett
+Stone Pile;Steinhaufen
+Stone crate;Steinkiste
+Standing spears;Stehende Speere
+Statue of a queen;Statue einer Königin
+Statuette in alcove;Statuette in Nische
+Stick and hoop;Stock und Reifen
+Stinking tendrils;Stinkende Ranken
+Stone Mechanism;Steinmechanismus
+Stone Tablet;Steintafel
+Stormram;Stormram
+Star chart;Sternenkarte
+Statue of Zamorak;Statue von Zamorak
+Statue plinth;Statuensockel
+Steel cage;Stahlkäfig
+Stone Gate;Steintor
+Stone space;Steinraum
+Strange floor;Seltsamer Boden
+Strange hole;Seltsames Loch
+Standing torch;Stehende Fackel
+Statue steps;Statuenstufen
+Stone Staircase;Steintreppe
+Storeroom Door;Lagerraumtür
+Stove space;Platz für den Herd
+Strange grid;Seltsames Gitter
+Statue;Statue
+Statue Plinth;Sockel der Statue
+Steam_Pump;Steam_Pump
+Steep roof;Steiles Dach
+Stone table;Steintisch
+Stop!;Stoppen!
+Strange Shell;Seltsame Muschel
+Statue of Guthix;Statue von Guthix
+Steam generator;Dampfgenerator
+Stone;Stein
+Stone Pew;Steinbank
+Stone arch;Steinbogen
+Stone crusher;Steinbrecher
+Strange blocks;Seltsame Blöcke
+Start;Start
+Steam Generator;Dampfgenerator
+Steeple;Kirchturm
+Steps;Schritte
+Stone stand;Steinständer
+Stove;Herd
+Statue Space;Statuenraum
+Statue of a king;Statue eines Königs
+Steel Chest;Stahltruhe
+Stool;Hocker
+Stool hotspot;Stuhl-Hotspot
+Strange Bells;Seltsame Glocken
+Sticks;Stöcke
+Stile;Stil
+Storage unit;Lagereinheit
+Strange Banana Tree;Seltsamer Bananenbaum
+Strange Tile;Seltsame Kachel
+Statue of Baxtorian;Statue von Baxtorian
+Steam press;Dampfpresse
+Stone Plinth;Steinsockel
+Stone ladder;Steinleiter
+Strange Egg;Seltsames Ei
+Statue of Glarial;Glalarial-Statue
+Steam Pump;Dampfpumpe
+Steam Vent;Dampfentlüftung
+Steel range;Stahlsortiment
+Stepladder;Stehleiter
+Stone Door;Steintür
+Stone Relief;Steinrelief
+Stone block;Steinblock
+Statue space;Statuenraum
+Stick;Stock
+Stone bridge;Steinbrücke
+Stone pedestal;Steinsockel
+Stones;Steine
+Strange Machine;Seltsame Maschine
+Strange altar;Seltsamer Altar
+Strange machine;Seltsame Maschine
+Statue with key;Statue mit Schlüssel
+Stocks;Aktien
+Stone circle wall;Steinkreiswand
+Stone door;Steintür
+Stone tablet;Steintafel
+Storage shelves;Lagerregale
+Sulliuscep sprout;Sulliuscep-Spross
+Tanning line;Bräunungslinie
+Tar Barrel;Teerfass
+Tar buckets;Teereimer
+Strange pool;Seltsamer Pool
+Strawberry seed;Erdbeersamen
+Sweetcorn;Zuckermais
+Sword space;Schwertraum
+Symbol;Symbol
+Symbol of Saradomin;Symbol von Saradomin
+Symbol of Zamorak;Symbol von Zamorak
+Table hotspot;Tisch-Hotspot
+Suit of Armour;Rüstung
+Sulliuscep;Sulliuscep
+Supply chest;Vorratskiste
+Swampy lamp;Sumpfige Lampe
+Sweetgrub Sign;Sweetgrub-Schild
+Tanning Barrel;Bräunungsfass
+Tar barrel;Teerfass
+Tchiki Monkey Nut Bush;Tchiki Affennussstrauch
+Te salt;Das Salz
+Strange plant;Seltsame Pflanze
+Streak info;Streak-Info
+Sturdy door;Stabile Tür
+Sulphur;Schwefel
+Swings;Schaukeln
+Sword in stone;Schwert aus Stein
+Symbol of Guthix;Symbol von Guthix
+Table space;Tischfläche
+Tailor's materials;Schneidermaterialien
+Tall mirror;Hoher Spiegel
+Sulphur Vent;Schwefelentlüftung
+Sunflower;Sonnenblume
+Table;Tisch
+Tall vine;Hoher Weinstock
+Target;Ziel
+Strange wall;Seltsame Wand
+Stump;Stumpf
+Sturdy wooden gate;Stabiles Holztor
+Sweets;Süßigkeiten
+Table and till;Tisch und Kasse
+Tap;Klopfen
+Studded Leather;Nietenbesetztes Leder
+Stuffed swordfish;Gefüllter Schwertfisch
+Tangle vine;Gewirrrebe
+Sunflowers;Sonnenblumen
+Supermajority marker;Supermajoritätsmarker
+Swamp;Sumpf
+Swamp tree branch;Sumpfbaumzweig
+Switch;Schalten
+Swordshop Sign;Schwertladenschild
+Tangle hidden;Gewirr versteckt
+Tar Thing;Teer-Sache
+Strange stone;Seltsamer Stein
+Stronghold;Hochburg
+Study desk;Schreibtisch
+Sword case;Schwertetui
+Stretcher;Bahre
+Support;Unterstützung
+Swamp bubbles;Sumpfblasen
+Sweetcorn plant;Zuckermaispflanze
+Tall tree;Hoher Baum
+Strategy table;Strategietisch
+Strawberry;Erdbeere
+Strawberry plant;Erdbeerpflanze
+Students' art;Kunst der Studierenden
+Stump chair;Stumpfstuhl
+Symbol of life;Symbol des Lebens
+Table saw;Tischkreissäge
+Supporting Pillar;Stützsäule
+Swords;Schwerter
+Tall Reeds;Hohes Schilf
+Strange passage;Seltsame Passage
+Study Desk;Schreibtisch
+Super magic potion;Super Zaubertrank
+Super ranging potion;Superreichhaltiger Trank
+Swamp paste;Sumpfpaste
+Swaying tree;Schwankender Baum
+Table parts;Tischteile
+Tactical map frame;Taktischer Kartenrahmen
+Strange shrine;Seltsamer Schrein
+Strong Yew;Starke Eibe
+Sulphur vent;Schwefelentlüftung
+Swamp tree;Sumpfbaum
+Swampy sink;Sumpfiges Waschbecken
+Sweetgrub Mound;Sweetgrub-Hügel
+Structural pillar;Strukturelle Säule
+Suit of armour;Rüstung
+Sunken rowboat;Versunkenes Ruderboot
+Sweet;Süß
+Sweetcorn seed;Zuckermaissamen
+Sword cabinet;Schwertschrank
+Table blockade;Tischblockade
+Strong Tree;Starker Baum
+Strut;Strebe
+Supplies;Lieferungen
+Suspicious footprints;Verdächtige Fußabdrücke
+Swamp Boaty;Sumpfboot
+Tall Plant;Hohe Pflanze
+Tapestry;Tapisserie
+Tea stall;Teestand
+Teak Tree;Teakbaum
+Telekinetic Teleport;Telekinetischer Teleport
+The Cloister Bell;Die Klosterglocke
+The middle of a fireplace;Die Mitte eines Kamins
+Thick vines;Dicke Ranken
+Throne Room Door;Thronsaaltür
+Toadstool;Pilz
+Tomato;Tomate
+Torture Rack;Folterständer
+Teak scratching post;Kratzbaum aus Teakholz
+Teak table;Tisch aus Teakholz
+Teleport crystal;Teleport-Kristall
+Ticket Dispenser;Ticketspender
+Teak cape rack;Umhangständer aus Teakholz
+Teak drawers;Schubladen aus Teakholz
+Thorns;Dornen
+Tip jar space;Platz für das Trinkgeldglas
+Tool Storage;Werkzeugaufbewahrung
+Torch;Fackel
+Ten;Zehn
+Tent flap;Zeltklappe
+The Inferno;Das Inferno
+Timber;Holz
+Tok-Xil;Tok-Xil
+Tomb dolmen;Grabdolmen
+Teak birdhouse (empty);Vogelhaus aus Teakholz (leer)
+Telescope space;Teleskopraum
+Temple Door;Tempeltür
+Temple wall;Tempelmauer
+Terminal;Terminal
+The Sheared Ram;Der geschorene Widder
+Thingymajig;Thingymajig
+Throne space;Thronraum
+Tomb;Grab
+Tool space;Werkzeugraum
+Telescope;Teleskop
+The Grotesque Guardians' display;Die Ausstellung der grotesken Wächter
+Theatre of Blood;Theater des Blutes
+Tight-gap;Enge Lücke
+Tools;Werkzeuge
+Teak bench;Bank aus Teakholz
+Teak birdhouse;Vogelhaus aus Teakholz
+Teak wardrobe;Kleiderschrank aus Teakholz
+Teleport space;Teleportraum
+Temperature gauge;Temperaturanzeige
+Tent;Zelt
+Tent wall;Zeltwand
+Thermonuclear Smoke Devil Display;Thermonukleare Rauchteufel-Anzeige
+Teak feeder;Futterspender aus Teakholz
+Teleportation Device;Teleportationsgerät
+Teleportation focus;Teleportationsfokus
+Temp Stone 4 Zip;Temp Stone 4 Zip
+The Great Expedition;Die große Expedition
+Thistle;Distel
+Tomb exit;Grabausgang
+Teak;Teak
+Teak house;Teakholzhaus
+Teak prize chest;Preistruhe aus Teakholz
+Tent roof;Zeltdach
+Tight Gap;Enge Lücke
+Tent door;Zelttür
+The Font of Consumption;Die Quelle des Konsums
+Thorny bushes;Dornige Büsche
+Throne;Thron
+Tomato plant;Tomatenpflanze
+Teleport Platform;Teleport-Plattform
+Teleport hidden;Teleport versteckt
+Throne of Weiss;Thron von Weiss
+Toadstools;Fliegenpilze
+Tomb doors;Grabtüren
+Teak chest;Truhe aus Teakholz
+Theme space;Themenraum
+Three;Drei
+Tightrope;Seil
+Timber defence;Holzverteidigung
+Tip jar;Trinkgeldglas
+Topiary bush;Formschnittstrauch
+Tent pole;Zeltstange
+Tile;Fliese
+Timeline;Zeitleiste
+Teak wall decoration;Wanddekoration aus Teakholz
+Teleport trap;Teleport-Falle
+Tendrils;Ranken
+The Gauntlet;Der Handschuh
+The Jormungand;Der Jormungand
+The jury;Die Jury
+Till;Bis
+Tombstone;Grabstein
+Topiary space;Formschnittraum
+Terror Snail;Terrorschnecke
+Thana;Thana
+The Maiden of Sugadinti;Die Jungfrau von Sugadinti
+Temple door;Tempeltür
+Thick Web;Dickes Netz
+Thick vine;Dicke Rebe
+Tin bath;Zinnbad
+Tiny storage unit;Winzige Aufbewahrungseinheit
+Tithe patch;Zehnte-Patch
+Tomb Door;Grabtür
+Trap space;Fallenraum
+Trapdoor table;Falltürtisch
+Travel cart;Reisewagen
+Treadmill;Tretmühle
+Tree branch;Ast
+Toy sink;Spielzeugwaschbecken
+Trashed Patch;Vermüllter Patch
+Troll;Troll
+Trolley;Wagen
+TzHaar statue;TzHaar-Statue
+Uncooking pot;Topf auskochen
+Tree patch;Baumbeet
+Trellis;Gitter
+Unicorn Statue;Einhornstatue
+Totem pole;Totempfahl
+Toy box;Spielzeugkiste
+Toy weapons;Spielzeugwaffen
+Treasure space;Schatzraum
+Trebuchet;Trebuchet
+Trough;Trog
+Tower;Turm
+Toy range;Spielzeugsortiment
+Track support;Track-Unterstützung
+Trailblazer rug;Wegbereiter-Teppich
+Train cart;Zugwagen
+Treasure chest;Schatzkiste
+Tree Door;Baumtür
+Tree stump;Baumstumpf
+Troll ladder;Trollleiter
+Underwall tunnel;Untermauertunnel
+Unoccupied Cormorant perch;Unbesetzter Kormoranbarsch
+Totem;Totem
+Toy box space;Platz für eine Spielzeugkiste
+Trapdoor space;Raum durch eine Falltür
+Tree;Baum
+Troll Stronghold Portal;Portal der Trollfestung
+Tunnel wall;Tunnelwand
+Unicorn;Einhorn
+Urn;Urne
+Treasure room;Schatzkammer
+Treated patch;Behandeltes Pflaster
+Twisted Crate;Verdrehte Kiste
+Totem Pole;Totempfahl
+Toy Stall;Spielzeugstand
+Trahaearn Banner;Trahaearn-Banner
+Trapdoor;Falltür
+Trapdoor tunnel;Falltürtunnel
+Treasure Trail Statistics;Statistiken zur Schatzsuche
+Unferth's patch;Unferths Patch
+Unlit candle;Unbeleuchtete Kerze
+Trawler net;Trawlernetz
+Tree Stump;Baumstumpf
+Trophy pedestal;Trophäenpodest
+Twigs;Zweige
+Two;Zwei
+Underwater Cavern Entrance;Eingang zur Unterwasserhöhle
+Treasure Hunt Fairy House;Schatzsuche-Feenhaus
+Tribal Statue;Stammesstatue
+Tripwire;Stolperdraht
+Tropical leaves;Tropische Blätter
+Tropical tree;Tropischer Baum
+Unicorn's head;Einhornkopf
+Track;Schiene
+Tulips;Tulpen
+Twocan;Twocan
+TzHaar Flag;TzHaar-Flagge
+Undead combat dummy;Untoten-Kampfpuppe
+Toy corner;Spielzeugecke
+Trailblazer globe;Wegbereiter-Globus
+Training dummy;Trainingspuppe
+Trap Door;Falltür
+Tree trunk;Baumstamm
+Trimmed Yommi;Getrimmter Yommi
+Trophy case space;Platz im Trophäenkoffer
+Twisted Bow;Verdrehter Bogen
+Tzkal-Zuk display;Tzkal-Zuk-Anzeige
+Urt salt;Urt-Salz
+Tower door;Turmtür
+Toy bricks;Spielzeugsteine
+Trap bypass;Fallenbypass
+Tree space;Baumplatz
+Trunk;Stamm
+Tube;Rohr
+Tunnel entrance;Tunneleingang
+Unstable Altar;Instabiler Altar
+Transport platform;Transportplattform
+Trap;Fangen
+Trellis top;Rankgitter oben
+Treasure chest space;Platz in der Schatztruhe
+Troll Stew;Troll-Eintopf
+Tropical Leaves;Tropische Blätter
+Tunnel roof;Tunneldach
+Tower ladder;Turmleiter
+Toy table;Spielzeugtisch
+Tracks;Spuren
+Tribal statue;Stammesstatue
+Trumpet;Trompete
+Tunnel;Tunnel
+Twisted bush;Verdrehter Busch
+Unlocked Ogre chest;Oger-Truhe freigeschaltet
+Vine patch;Weinbeet
+Volcanic theme;Vulkanisches Thema
+Wardrobe;Kleiderschrank
+Water Tank;Wassertank
+Waterfall rocks;Wasserfallfelsen
+Volcanic Furnace;Vulkanofen
+Wall decoration;Wanddekoration
+Wallchart;Wandtafel
+Water containers;Wasserbehälter
+Water controls;Wasserkontrollen
+Water's edge;Wasserkante
+Volcanic garden;Vulkanischer Garten
+Wall;Wand
+Wall Pipe;Wandrohr
+Warehouse shelves;Lagerregale
+Waste Paper Bin;Papierkorb
+Watchtower Legs;Wachturm-Beine
+Water valve;Wasserventil
+Viewer;Zuschauer
+Vyre well;Vyre gut
+Water Pump;Wasserpumpe
+Water Trough;Wassertrog
+Valve;Ventil
+Vat;MwSt
+Viewing orb;Betrachtungskugel
+Vines;Reben
+Wall rubble;Mauerschutt
+Wardrobe space;Platz im Kleiderschrank
+Washbasin;Waschbecken
+Vials;Fläschchen
+Vorkath head;Vorkath-Kopf
+Wall corner;Wandecke
+Wall of flame;Flammenwand
+Waste pipes;Abfallrohre
+Water Sign;Wasserzeichen
+Waterbirth Island Portal;Waterbirth-Inselportal
+Vault Door;Tresortür
+Veg stall;Gemüsestand
+Watchtower;Wachturm
+Waiting Room Door;Wartezimmertür
+Wall Crusher;Wandbrecher
+Wall opening;Wandöffnung
+Wand rack;Zauberstabständer
+Washing line;Wäscheleine
+Water;Wasser
+Water Channel;Wasserkanal
+Water pump;Wasserpumpe
+Water tap;Wasserhahn
+Vase set;Vasen-Set
+Vent;Entlüften
+Village fence;Dorfzaun
+Warning Sign;Warnzeichen
+Watchtower Middle;Wachturm-Mitte
+Waterfall;Wasserfall
+Vampyre statue;Vampirstatue
+Vault;Gewölbe
+Verzik's throne;Verziks Thron
+Wall safe;Wandtresor
+Wall support;Wandhalterung
+Water pipes;Wasserleitungen
+Water rift;Wasserriss
+Velvet stool;Samthocker
+Verzik Vitur display;Verzik Vitur-Display
+Walkway;Gehweg
+Wall map;Wandkarte
+Water Barrel;Wasserfass
+Water wheel;Wasserrad
+Utensil Stall;Utensilienstand
+Velvet round chair;Runder Stuhl aus Samt
+Verzik Vitur;Verzik Vitur
+Volcanic vent;Vulkanschlot
+Volcano Entrance;Vulkaneingang
+Wall chart;Wandkarte
+Warning sign;Warnschild
+Water barrel;Wasserfass
+Waterlily;Seerose
+Vanilla plant;Vanillepflanze
+Velvet chair;Samtstuhl
+Vine;Rebe
+Vorkath Topiary;Formschnitt von Vorkath
+Vorkath display;Vorkath-Anzeige
+Wall of bricks;Mauer aus Ziegeln
+Water Source;Wasserquelle
+Water Valve;Wasserventil
+Varrock Portal;Varrock-Portal
+Vase;Vase
+Veteran Flag;Veteranenflagge
+Volcanic sulphur;Vulkanischer Schwefel
+Washing Line;Wäscheleine
+Water Pool;Wasserbecken
+Watering Hole;Wasserstelle
+Utensil cupboard;Utensilienschrank
+Vampyre tomb;Vampirgrab
+Vegetable Stall;Gemüsestand
+Vine ladder;Weinleiter
+Volcanic Forge;Vulkanschmiede
+Volcanic chamber;Vulkankammer
+Wall chart space;Platz für Wandtafeln
+War table;Kriegstisch
+Warhammer;Warhammer
+Weapon Rack;Waffenständer
+Wheel;Rad
+Whipping Plant;Schlaganlage
+White tree;Weißer Baum
+Willow's bag;Willows Tasche
+Wooden Table;Holztisch
+Weathervane;Wetterfahne
+Whirlpool;Whirlpool
+Wilderness Ditch;Wildnisgraben
+Willow tree;Weidenbaum
+Wintumber tree;Winterbaum
+Witch's charm;Hexenzauber
+Weeping wall;Weinende Wand
+Werewolf Flag;Werwolf-Flagge
+White Knight;Weißer Ritter
+White rose bush patch;Weißes Rosenstrauchbeet
+Wildblood Hops;Wildbluthopfen
+Willow Tree;Weidenbaum
+Winch;Winde
+Windswept tree;Windgepeitschter Baum
+Winter's End;Winterende
+Wizard Statue;Zaubererstatue
+Wooden Beams;Holzbalken
+Wooden chest;Truhe aus Holz
+Wooden gate;Holztor
+Watermelon seed;Wassermelonenkerne
+Weapons Rack;Waffenständer
+White Tree;Weißer Baum
+Wilf (ghastly!);Wilf (schrecklich!)
+Wilf (very sick);Wilf (sehr krank)
+Windchimes;Windspiele
+Wooden boards;Holzbretter
+Wire;Draht
+Weeds;Unkraut
+Wheat;Weizen
+Wish-list;Wunschliste
+Wood;Holz
+Weiss Portal;Weiss-Portal
+Well stacked rocks;Gut gestapelte Steine
+Wilderness Sign;Wildnisschild
+Wilderness Statistics;Wildnisstatistik
+Window;Fenster
+White Crystal;Weißer Kristall
+Willow tree stump;Weidenbaumstumpf
+Wilting wheat;Welkender Weizen
+Wooden bench;Holzbank
+Wooden defence;Verteidigung aus Holz
+Wooden platform;Holzplattform
+Weapon rack;Waffenständer
+Web sack;Websack
+Weedy patch;Unkrautfleck
+Well;Also
+Wilhelm;Wilhelm
+Withering Attas plant;Verwelkte Attas-Pflanze
+Withering Iasor plant;Verwelkte Iasor-Pflanze
+Wizards Mind Bomb;Zauberer-Gedankenbombe
+Wooden Stair;Holztreppe
+Wooden chair;Holzstuhl
+Wood Basket;Holzkorb
+Willow birdhouse;Vogelhaus aus Weide
+Willow birdhouse (empty);Weidenvogelhaus (leer)
+Window space;Fensterplatz
+Wire machine;Drahtmaschine
+Wheely table;Rolltisch
+Whetstone;Wetzstein
+White lily;Weiße Lilie
+Withering Kronos plant;Verwelkte Kronos-Pflanze
+Watermelons;Wassermelonen
+White crystal;Weißer Kristall
+Winch bucket;Windenschaufel
+Wine rack;Weinregal
+Wooden Obstruction;Hölzernes Hindernis
+Wooden cart;Holzwagen
+Wooden fence;Holzzaun
+Web;Web
+Weiss banner;Weiss-Banner
+West Ardougne Portal;West-Ardougne-Portal
+Wheelbarrow;Schubkarre
+White roses;Weiße Rosen
+Whiteberry bush;Weißbeerstrauch
+Wilf (sick);Wilf (krank)
+Wine barrel;Weinfass
+Witch Glyph;Hexen-Glyphe
+Wolf Statue;Wolfsstatue
+Wooden crate;Holzkiste
+Watermelon;Wassermelone
+Weather vane;Wetterfahne
+White Castlewars armour;Weiße Castlewars-Rüstung
+Wilf (Well);Wilf (Nun)
+Windswept Tree;Windgepeitschter Baum
+Woad plant;Waidpflanze
+Woodcutting stump;Holzfällerstumpf
+Wooden doors;Holztüren
+Waterpump;Wasserpumpe
+Waystone;Wegstein
+Weathered wall;Verwitterte Wand
+Wet driftwood;Nasses Treibholz
+White Tree patch;Weißer Baum-Patch
+Willow;Weide
+Wooden barricade;Holzbarrikade

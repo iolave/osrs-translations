@@ -1,260 +1,305 @@
 Follow;Seguir
+Bank;Banquear
+Examine;Examinar
+Cancel;Cancelar
+Collect;Recolectar
+Trade with;Comerciar con
 Sets;Conjuntos
 Exchange;Intercambiar
 History;Historia
-Trade with;Comerciar con
-Walk here;Caminar aquí
-Examine;Examinar
-Talk-to;Hablar con
-Bank;Banquear
-Lookup;Buscar
-Cancel;Cancelar
 Report;Reportar
-Collect;Recolectar
+Talk-to;Hablar con
+Lookup;Buscar
+Walk here;Caminar aquí
 Prices;Precios
 Drop;Botar
 Decant;Decantar
 Use;Usar
-View guide prices;Ver guía de precios
+View <col=ff981f>Ranged</col> guide;Ver guía <col=ff981f>a distancia</col>
 View <col=ff981f>Farming</col> guide;Ver guía de <col=ff981f>Agricultura</col>
-Wiki;wiki
-Add to canvas;Añadir al lienzo
-View <col=ff981f>Agility</col> guide;Ver guía de <col=ff981f>Agilidad</col>
-View equipment stats;Ver estadísticas de equipos
-View <col=ff981f>Herblore</col> guide;Ver guía de <col=ff981f>Herblore</col>
-Remove;Remover
-View <col=ff981f>Magic</col> guide;Ver guía <col=ff981f>Magic</col>
 View <col=ff981f>Sailing</col> guide;Ver guía de <col=ff981f>Navegación</col>
 Call follower;Llamar seguidor
-View <col=ff981f>Thieving</col> guide;Ver guía <col=ff981f>Robo</col>
-View <col=ff981f>Woodcutting</col> guide;Ver guía de <col=ff981f>Xilografía</col>
 View <col=ff981f>Construction</col> guide;Ver guía de <col=ff981f>Construcción</col>
-View <col=ff981f>Ranged</col> guide;Ver guía <col=ff981f>a distancia</col>
-View items kept on death;Ver elementos conservados al morir
+Add to canvas;Añadir al lienzo
+Remove;Remover
 View <col=ff981f>Runecraft</col> guide;Ver guía de <col=ff981f>Runecraft</col>
+View <col=ff981f>Magic</col> guide;Ver guía <col=ff981f>Magic</col>
+View <col=ff981f>Thieving</col> guide;Ver guía <col=ff981f>Robo</col>
+View <col=ff981f>Agility</col> guide;Ver guía de <col=ff981f>Agilidad</col>
+View <col=ff981f>Woodcutting</col> guide;Ver guía de <col=ff981f>Xilografía</col>
+View guide prices;Ver guía de precios
 View <col=ff981f>Cooking</col> guide;Ver guía de <col=ff981f>Cocina</col>
-View <col=ff981f>Crafting</col> guide;Ver guía de <col=ff981f>elaboración</col>
+View equipment stats;Ver estadísticas de equipos
 View <col=ff981f>Prayer</col> guide;Ver guía de <col=ff981f>oración</col>
+View <col=ff981f>Herblore</col> guide;Ver guía de <col=ff981f>Herblore</col>
+View items kept on death;Ver elementos conservados al morir
+Wiki;wiki
+View <col=ff981f>Crafting</col> guide;Ver guía de <col=ff981f>elaboración</col>
 Play;Jugar
-Rewards;Recompensas
 Skull;Cráneo
-View <col=ff981f>Strength</col> guide;Ver guía de <col=ff981f>Fuerza</col>
-View <col=ff981f>Defence</col> guide;Ver guía de <col=ff981f>Defensa</col>
-View <col=ff981f>Slayer</col> guide;Ver guía <col=ff981f>Asesino</col>
-View <col=ff981f>Hunter</col> guide;Ver guía <col=ff981f>Cazador</col>
-View <col=ff981f>Hitpoints</col> guide;Ver guía de <col=ff981f>Puntos de vida</col>
-View <col=ff981f>Fletching</col> guide;Ver guía de <col=ff981f>flechado</col>
+Rewards;Recompensas
 View <col=ff981f>Mining</col> guide;Ver guía de <col=ff981f>Minería</col>
-View <col=ff981f>Attack</col> guide;Ver guía de <col=ff981f>ataque</col>
+View <col=ff981f>Hunter</col> guide;Ver guía <col=ff981f>Cazador</col>
+View <col=ff981f>Slayer</col> guide;Ver guía <col=ff981f>Asesino</col>
+View <col=ff981f>Strength</col> guide;Ver guía de <col=ff981f>Fuerza</col>
+View <col=ff981f>Hitpoints</col> guide;Ver guía de <col=ff981f>Puntos de vida</col>
 View <col=ff981f>Smithing</col> guide;Ver guía de <col=ff981f>Herrería</col>
-View <col=ff981f>Firemaking</col> guide;Ver guía <col=ff981f>Hacer fuego</col>
+View <col=ff981f>Defence</col> guide;Ver guía de <col=ff981f>Defensa</col>
+View <col=ff981f>Fletching</col> guide;Ver guía de <col=ff981f>flechado</col>
+View <col=ff981f>Attack</col> guide;Ver guía de <col=ff981f>ataque</col>
+Open <col=ff9040>Ardougne Journal</col>;Abrir <col=ff9040>Diario Ardougne</col>
 Read journal:;Leer diario:
-Open wiki guide:;Abrir guía wiki:
-Start Helper;Iniciar ayudante
-Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Diario de Ardougne</col>
 Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Diario del Desierto</col>
+View <col=ff981f>Firemaking</col> guide;Ver guía <col=ff981f>Hacer fuego</col>
+Open <col=ff9040>Desert Journal</col>;Abrir <col=ff9040>Diario del Desierto</col>
 Show on map:;Mostrar en el mapa:
 Start Quest Helper;Iniciar ayudante de misión
+Start Helper;Iniciar ayudante
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Diario de Ardougne</col>
+Open wiki guide:;Abrir guía wiki:
 Open wiki quick guide:;Abrir guía rápida wiki:
-Open <col=ff9040>Desert Journal</col>;Abrir <col=ff9040>Diario del Desierto</col>
-Open <col=ff9040>Ardougne Journal</col>;Abrir <col=ff9040>Diario Ardougne</col>
 Collection Overview;Descripción general de la colección
 Tasks;Tareas
 Achievement Diaries;Diarios de logros
-Bosses;jefes
 Overview;Descripción general
-Collection Log;Registro de colección
 Reveal;Revelar
+Bosses;jefes
+Collection Log;Registro de colección
 Activate;Activar
 View;Vista
 Cast;Lanzar hechizo
-Setup;Configuración
-Join;Unirse
+Your Clan;Tu clan
 Grouping;Agrupamiento
+Setup;Configuración
+Grand Exchange;Gran Intercambio
 View another clan;Ver otro clan
 Configure;Configurar
-Grand Exchange;Gran Intercambio
-Your Clan;Tu clan
-Random;Aleatorio
-Toggle;Palanca
-Manual;Manual
-Auto retaliate;Tomar represalias automáticas
-Block;Bloquear
-Settings;Ajustes
+Join;Unirse
 Punch;Puñetazo
-Kick;Patada
+Toggle;Palanca
+Auto retaliate;Tomar represalias automáticas
+Settings;Ajustes
+Random;Aleatorio
 Unlock hint;Pista de desbloqueo
+Block;Bloquear
+Kick;Patada
+Manual;Manual
+Select;Seleccionar
 I don't know it.;No lo sé.
 Exit;Salida
-Select;Seleccionar
 View Inbox;Ver bandeja de entrada
 Skills;Habilidades
 View <col=ff981f>Fishing</col> guide;Ver guía de <col=ff981f>Pesca</col>
+Worn Equipment;Equipamiento puesto
+Enable spell reordering;Habilitar reordenamiento de hechizos
 Combat Options;Opciones de combate
 Enable spell filtering;Habilitar el filtrado de hechizos
 Disable prayer filtering;Desactivar el filtrado de oraciones
-Worn Equipment;Equipamiento puesto
-Character Summary;Resumen de personajes
-Enable spell reordering;Habilitar reordenamiento de hechizos
-Enable prayer reordering;Habilitar el reordenamiento de oraciones
 Quest List;Lista de misiones
+Character Summary;Resumen de personajes
 Magic;Magia
 Prayer;Oración
+Enable prayer reordering;Habilitar el reordenamiento de oraciones
 Show;Espectáculo
-Open Store;Abrir tienda
 Deposit;Depósito
+Open Store;Abrir tienda
 Loot;Botín
 Destroy;Destruir
 Music Player;Reproductor de música
-Chop down;Tronchar
 Inventory;Inventario
-Useful links;Enlaces útiles
+Chop down;Tronchar
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Mostrar ninguno
+Report abuse;Informar abuso
+World Switcher;Cambiador de mundos
 <col=ffff00>Trade:</col> Show none;<col=ffff00>Comercio:</col> Mostrar ninguno
+Display;Mostrar
+Useful links;Enlaces útiles
 <col=ffff00>Trade:</col> Show friends;<col=ffff00>Intercambiar:</col> Mostrar amigos
 Community;Comunidad
-<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Mostrar ninguno
-<col=ffff00>Channel:</col> Show none;<col=ffff00>Canal:</col> Mostrar ninguno
-Display;Mostrar
-<col=ffff00>Private:</col> Show friends;<col=ffff00>Privado:</col> Mostrar amigos
 Audio;Audio
-<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Establecer modo de chat:</col> Clan (/@c)
-Switch tab;Cambiar pestaña
-Report game bug;Informar error del juego
-<col=ffff00>Private:</col> Clear history;<col=ffff00>Privado:</col> Borrar historial
-<col=ffff00>Channel:</col> Show all;<col=ffff00>Canal:</col> Mostrar todo
-Configure filter;Configurar filtro
-Emotes;Emoticones
-Account;Cuenta
-<col=ffff00>Public:</col> Show autochat;<col=ffff00>Público:</col> Mostrar chat automático
-<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Borrar historial
-Report abuse;Informar abuso
-<col=ffff00>Public:</col> Show none;<col=ffff00>Público:</col> No mostrar ninguno
-Ignore List;Lista de ignorados
-<col=00ff00>Filter public chat</col>;<col=00ff00>Filtrar chat público</col>
-<col=ffff00>Game:</col> Filter;<col=ffff00>Juego:</col> Filtro
-<col=00afff>Setup your autochat</col>;<col=00afff>Configura tu chat automático</col>
-Take;Llevar
-<col=ffff00>Private:</col> Show none;<col=ffff00>Privado:</col> Mostrar ninguno
-<col=ffff00>Trade:</col> Show all;<col=ffff00>Comercio:</col> Mostrar todo
-<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Mostrar amigos
-Account Management;Gestión de cuentas
-Chat-channel;canal de chat
-<col=ffff00>Public:</col> Clear history;<col=ffff00>Público:</col> Borrar historial
 <col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Mostrar todo
-<col=ffff00>Channel:</col> Show friends;<col=ffff00>Canal:</col> Mostrar amigos
 <col=ffff00>Private:</col> Show all;<col=ffff00>Privado:</col> Mostrar todo
-Logout;Cerrar sesión
 <col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Establecer modo de chat:</col> Clan invitado (/@gc)
 <col=ffff00>Channel:</col> Clear history;<col=ffff00>Canal:</col> Borrar historial
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privado:</col> Borrar historial
+Account;Cuenta
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Mostrar amigos
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Canal:</col> Mostrar ninguno
+Switch tab;Cambiar pestaña
+<col=ffff00>Public:</col> Show none;<col=ffff00>Público:</col> No mostrar ninguno
 Friends List;Lista de amigos
-World Switcher;Cambiador de mundos
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Público:</col> Mostrar amigos
+Logout;Cerrar sesión
 <col=ffff00>Public:</col> Show standard;<col=ffff00>Público:</col> Mostrar estándar
-<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Establecer modo de chat:</col> Canal (/@f)
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Canal:</col> Mostrar todo
+Emotes;Emoticones
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Público:</col> Mostrar chat automático
 <col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Establecer modo de chat:</col> Público (/@p)
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Borrar historial
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privado:</col> Mostrar ninguno
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Comercio:</col> Mostrar todo
+Account Management;Gestión de cuentas
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Establecer modo de chat:</col> Clan (/@c)
+Report game bug;Informar error del juego
+Ignore List;Lista de ignorados
+<col=ffff00>Game:</col> Filter;<col=ffff00>Juego:</col> Filtro
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Público:</col> Borrar historial
+Configure filter;Configurar filtro
+<col=00ff00>Filter public chat</col>;<col=00ff00>Filtrar chat público</col>
+Take;Llevar
 Controls;Controles
 <col=ffff00>Public:</col> Hide;<col=ffff00>Público:</col> Ocultar
-<col=ffff00>Public:</col> Show friends;<col=ffff00>Público:</col> Mostrar amigos
-Close;Cerca
+<col=00afff>Setup your autochat</col>;<col=00afff>Configura tu chat automático</col>
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Canal:</col> Mostrar amigos
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Establecer modo de chat:</col> Canal (/@f)
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privado:</col> Mostrar amigos
+Chat-channel;canal de chat
 Show on Map;Mostrar en el mapa
+Close;Cerca
 Outside;Afuera
-Yanille;yanille
 Warnings;Advertencias
-Seers';Videntes
 Enable warning;Habilitar advertencia
+Seers';Videntes
+Yanille;yanille
 Animation;Animación
-Open <col=ff9040>Fremennik Journal</col>;Abra <col=ff9040>Diario Fremennik</col>
-Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Diario de Lumbridge & Draynor</col>
 Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Diario de Kourend y Kebos</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Abrir <col=ff9040>Diario de Kourend & Kebos</col>
+Open <col=ff9040>Fremennik Journal</col>;Abra <col=ff9040>Diario Fremennik</col>
 Open <col=ff9040>Karamja Journal</col>;Abra <col=ff9040>Diario Karamja</col>
-Open <col=ff9040>Lumbridge & Draynor Journal</col>;Abrir <col=ff9040>Revista de Lumbridge & Draynor</col>
-Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Diario Falador</col>
-Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Diario Fremennik</col>
-Open <col=ff9040>Kandarin Journal</col>;Abra <col=ff9040>Diario Kandarin</col>
 Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Diario Karamja</col>
 Open <col=ff9040>Falador Journal</col>;Abrir <col=ff9040>Diario Falador</col>
-Open <col=ff9040>Kourend & Kebos Journal</col>;Abrir <col=ff9040>Diario de Kourend & Kebos</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Diario de Lumbridge & Draynor</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Diario Fremennik</col>
+Open <col=ff9040>Kandarin Journal</col>;Abra <col=ff9040>Diario Kandarin</col>
 Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Diario Kandarin</col>
-Bond Pouch;Bolsa de bonos
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Abrir <col=ff9040>Revista de Lumbridge & Draynor</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Diario Falador</col>
+Learn More;Más información
 DPS;DPS
 Search;Buscar
-Learn More;Más información
-Open;Abierto
+Bond Pouch;Bolsa de bonos
 Pick;Elegir
+Open;Abierto
 Join Castle Wars;Únete a Castle Wars
-Attack;Ataque
 Climb-down;Bajar
-Travel;Viajar
-Rest;Descansar
-Build;Construir
+Attack;Ataque
 Check;Controlar
+Rest;Descansar
 Tend-to;tender a
+Build;Construir
+Travel;Viajar
 Add friend;Agregar amigo
 Add ignore;Agregar ignorar
-Enter-guest;Ingresar-invitado
+Items;Elementos
 Climb-up;Subir
 Enter;Ingresar
+Enter-guest;Ingresar-invitado
 Enter-member;Entrar-miembro
-Items;Elementos
 Knock-at;golpe
 Smith;Herrero
+Continue;Continuar
 Pet;Mascota
 Shoo-away;ahuyentar
-Continue;Continuar
 Trade;Comercio
-Create <col=ff9040>Sell</col> offer;Crear oferta de <col=ff9040>Venta</col>
-Favourite;Favorito
-Switch;Cambiar
-2;2 
-Create <col=ff9040>Buy</col> offer;Crear oferta de <col=ff9040>Comprar</col>
 1;1 
+Switch;Cambiar
+Create <col=ff9040>Sell</col> offer;Crear oferta de <col=ff9040>Venta</col>
+Create <col=ff9040>Buy</col> offer;Crear oferta de <col=ff9040>Comprar</col>
+Favourite;Favorito
+2;2 
 Clear;Claro
 -5%;-5%
-Collect to inventory;Recoger al inventario
-+5%;+5%
-Modify offer;Modificar oferta
-Confirm;Confirmar
-Abort offer;Cancelar oferta
 View offer;Ver oferta
++5%;+5%
+Collect to inventory;Recoger al inventario
+Confirm;Confirmar
 Collect to bank;Recoger al banco
+Abort offer;Cancelar oferta
+Modify offer;Modificar oferta
 Enter price;Introduce el precio
 Customise;Personalizar
 Guide price;Precio orientativo
-All;Todo
-Enter quantity;Introduce la cantidad
 +1;+1
+Enter quantity;Introduce la cantidad
+All;Todo
 Offer;Oferta
 Buy: 1 x Nature rune;Comprar: 1 x Runa de la naturaleza
 Buy-offer;oferta de compra
 Chop-down;talar
 Look North;Mirar al norte
-Look South;mirar hacia el sur
-Look East;mirar hacia el este
 Look West;Mirar al oeste
+Look East;mirar hacia el este
+Look South;mirar hacia el sur
 Hide;Esconder
 Cook;Cocinar
 Refresh;Refrescar
 Message;Mensaje
+Delete Friend;Eliminar amigo
 Delete;Borrar
 Add Friend;Agregar amigo
-Delete Friend;Eliminar amigo
 Find;Encontrar
 Toggle Run;Alternar ejecutar
 Open subsection;Subsección abierta
 Pickpocket;Carterista
 Claim-staves;bastones de reclamo
-Rake;Rastrillo
 3;3 
 Inspect;Inspeccionar
-Toggle unlock message;Alternar mensaje de desbloqueo
-Select <col=ff981f>Chat;Seleccione <col=ff981f>Chatear
-Mute;Silenciar
-All Settings;Todas las configuraciones
+Rake;Rastrillo
 Select <col=ff981f>Activities;Seleccione <col=ff981f>Actividades
-Select <col=ff981f>Gameplay;Selecciona <col=ff981f>Jugabilidad
-Select <col=ff981f>Audio;Seleccione <col=ff981f>Audio
-Select <col=ff981f>Display;Seleccione <col=ff981f>Mostrar
+Mute;Silenciar
+Toggle unlock message;Alternar mensaje de desbloqueo
+All Settings;Todas las configuraciones
+Select <col=ff981f>Chat;Seleccione <col=ff981f>Chatear
 Select <col=ff981f>Warnings;Seleccione <col=ff981f>Advertencias
+Select <col=ff981f>Display;Seleccione <col=ff981f>Mostrar
+Select <col=ff981f>Audio;Seleccione <col=ff981f>Audio
+Select <col=ff981f>Gameplay;Selecciona <col=ff981f>Jugabilidad
 View-journal;Ver diario
 Stats;Estadísticas
 Rummage;Hurgar
 Switch View;Cambiar vista
+Guide;Guía
+Release;Liberar
+View tab;Ver pestaña
+Withdraw-10;Retirar-10
+Withdraw-All-but-1;Retirar-todos-menos-1
+Withdraw-10000;Retirar-10000
+Withdraw-X;Retirar-X
+Withdraw-5;Retirar-5
+Collapse tab;Contraer pestaña
+Remove placeholders;Eliminar marcadores de posición
+Withdraw-1;Retirar-1
+Withdraw-All;Retirar todo
+Rename tag tab;Cambiar nombre de pestaña de etiqueta
+Set custom quantity;Establecer cantidad personalizada
+Default quantity: 10,000;Cantidad predeterminada: 10.000
+Delete tag tab;Eliminar pestaña de etiqueta
+Default quantity: 10;Cantidad predeterminada: 10
+Change icon;Cambiar icono
+View tag tab;Ver pestaña de etiqueta
+Default quantity: 1;Cantidad predeterminada: 1
+Export tag tab;Pestaña de etiqueta de exportación
+Enable layout;Habilitar diseño
+Makeover;cambio de imagen
+Unlock;Descubrir
+Read;Leer
+Walk-down;Caminata
+Study;Estudiar
+Dismiss;Despedir
+Look-at;Mira a
+Focus on;Concentrarse en
+Cancelar;Cancelar
+Climb;Trepar
+Clear history;Borrar historial
+Item;Artículo
+Note;Nota
+Swap;Intercambio
+Insert;Insertar
+Disable;Desactivar
+Deposit worn items;Depositar artículos usados
+Deposit inventory;Inventario de depósito
+Default quantity: All;Cantidad predeterminada: Todos
+Withdraw-14;Retirar-14
+Default quantity: 5;Cantidad predeterminada: 5
+Default quantity: 14;Cantidad predeterminada: 14
+Pay (Fruit tree);Pagar (árbol frutal)
