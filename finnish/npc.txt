@@ -1,3608 +1,3616 @@
- Sneaky undead fowl;Ovela epäkuolleet linnut
-'Beedy-eye' Jones;"Beedy-eye" Jones
-'Beefy' Burns;"Beefy" Burns
-'Betty' B.Boppin;"Betty" B.Boppin
-'Bird's-Eye' Jack;"Bird's Eye" Jack
-'Birds-Eye' Jack;"Birds-Eye" Jack
-'Black-eye';'mustasilmä'
-'Currency' The Alchemist;"Valuutta" Alkemisti
-'Eagle-eye' Shultz;"Kotkansilmä" Shultz
-'Gummy';'kumimainen'
-'Lecherous' Lee;"Ihme" Lee
-'No fingers';"Ei sormia"
-'Picarron' Pete;"Picarron" Pete
-'Sticky' Sanders;"Tahmea" Sanders
-'The Guns';"Aseet"
-'Transmute' The Alchemist;"Transmute" The Alchemist
 1337sp34kr;1337sp34kr 
-50% Luke;50% Luke
-? ? ? ?;? ? ? ?
 A Doubt;Epäilys
-A pile of broken glass;Kasa rikkoutunutta lasia
-A'abla;A'abla
-Abbot Langley;Apotti Langley
-Aberab;Aberab
-Aberrant spectre;Aberrantti haamu
-Abhorrent spectre;Kammottava haamu
-Abidor Crank;Abidor Crank
-Abigaila;Abigaila
-Abigale;Abigale
-Abomination;Kauhistus
-Abyssal Sire;Abyssal isä
-Abyssal demon;Abyssal demoni
-Abyssal guardian;Abyssalin vartija
-Abyssal leech;Abyssal iilimato
-Abyssal orphan;Abyssal orpo
-Abyssal walker;Abyssal kävelijä
-Account Guide;Tiliopas
-Account security tutor;Tilin turvallisuuden opettaja
-Achietties;Achietties
-Acidic Bloodveld;Hapan Bloodveld
-Acorn;Acorn
-Adamant dragon;Adamant lohikäärme
-Adamantite ore;Adamantiittimalmi
-Adventurer;Seikkailija
-Adventurer (easy);Seikkailija (helppo)
-Adventurer Jon;Seikkailija Jon
-Advisor Ghrim;Neuvonantaja Ghrim
 Aemad;Aemad
-Aeonisig Raispher;Aeonisig Raispher
-Afflicted;Vaurioitunut
-Afflicted(Razmire);Vaurioitunut (Razmire)
-Afflicted(Ulsquire);Vaikea (Ulsquire)
-Afrah;Afrah
-Aga;Aga
-Aggie;Aggie
-Agility Boss;Agility Boss
-Agility Instructor;Agilityn ohjaaja
-Agility Trainer;Agility Trainer
-Agmundi;Agmundi
-Agnar;Agnar
-Agrith Naar;Agrith Naar
-Agrith Naar (hard);Agrith Naar (kova)
-Agrith-Na-Na;Agrith-Na-Na
-Agrith-Na-Na (hard);Agrith-Na-Na (kova)
-Ahab;Ahab
-Ahrim the Blighted;Ahrim Blighted
-Air elemental;Ilmaelementti
-Air wizard;Ilman velho
-Aisles;Käytävät
 Aivas;Aivas
-Ajjat;Ajjat
-Ak-Haranu;Ak-Haranu
-Akthanakos;Akthanakos
-Al Shabim;Al Shabim
-Al the Camel;Al kameli
-Al-Kharid warrior;Al-Kharidin soturi
-Alain;Alain
-Alan;Alan
-Albino bat;Albino lepakko
-Alchemical Hydra;Alkemiallinen Hydra
-Alchemy Guardian;Alchemy Guardian
-Alec Kincade;Alec Kincade
-Aleck;Aleck
-Alek Constantine;Aleksi Konstantin
-Alexander;Aleksanteri
+'Birds-Eye' Jack;"Birds-Eye" Jack
+Abyssal leech;Abyssal iilimato
+Acidic Bloodveld;Hapan Bloodveld
 Alexandra;Alexandra
+Ali Morrisane;Ali Morrisane
+'Transmute' The Alchemist;"Transmute" The Alchemist
+Abbot Langley;Apotti Langley
+Abyssal demon;Abyssal demoni
+Adamant dragon;Adamant lohikäärme
+Aggie;Aggie
+Ali the Farmer;Ali maanviljelijä
+50% Luke;50% Luke
+Abyssal walker;Abyssal kävelijä
+Agrith Naar;Agrith Naar
+Agrith-Na-Na (hard);Agrith-Na-Na (kova)
+Air elemental;Ilmaelementti
+Alec Kincade;Alec Kincade
 Alexis;Alexis
 Alfonse the waiter;Alfonse tarjoilija
-Ali Morrisane;Ali Morrisane
-Ali The barman;Ali Baarimikko
-Ali the Camel;Ali kameli
-Ali the Camel Man;Ali kamelimies
-Ali the Carter;Ali Carter
-Ali the Farmer;Ali maanviljelijä
-Ali the Guard;Ali vartija
-Ali the Hag;Ali Hag
-Ali the Kebab seller;Ali Kebab-myyjä
 Ali the Leaflet Dropper;Ali Lehtitiputtaja
+Aberrant spectre;Aberrantti haamu
+Adventurer;Seikkailija
+Aeonisig Raispher;Aeonisig Raispher
+Ahab;Ahab
+Ali the Camel;Ali kameli
+Ali the Kebab seller;Ali Kebab-myyjä
 Ali the Mayor;Ali pormestari
-Ali the Operator;Ali operaattori
-Ali the Smith;Ali Smith
-Ali the Snake Charmer;Ali käärmeen hurmaaja
-Ali the Tailor;Ali räätäli
-Ali the dyer;Ali värjääjä
-Alice;Alice
-Alice the Camel;Liisa kameli
-Alice's husband;Alicen aviomies
-Allanna;Allanna
-Almera;Almera
-Alomone;Alomone
-Alrena;Alrena
-Alrik;Alrik
-Alry the Angler;Alry the Angler
-Altar;Alttari
-Altarkiz;Altarkiz
-Aluft Gianne snr.;Aluft Gianne snr.
-Alviss;Alviss
-Alwyn;Alwyn
-Alyssa;Alyssa
-Ambassador Alvijar;Suurlähettiläs Alvijar
+'Beefy' Burns;"Beefy" Burns
+'Bird's-Eye' Jack;"Bird's Eye" Jack
+'Sticky' Sanders;"Tahmea" Sanders
+A pile of broken glass;Kasa rikkoutunutta lasia
+Adamantite ore;Adamantiittimalmi
+Adventurer (easy);Seikkailija (helppo)
+Adventurer Jon;Seikkailija Jon
+Aga;Aga
+Ak-Haranu;Ak-Haranu
+Alek Constantine;Aleksi Konstantin
+Ali The barman;Ali Baarimikko
+Ali the Carter;Ali Carter
+'Eagle-eye' Shultz;"Kotkansilmä" Shultz
+'No fingers';"Ei sormia"
+Abidor Crank;Abidor Crank
+Abigale;Abigale
+Agnar;Agnar
+'The Guns';"Aseet"
+Account Guide;Tiliopas
+Agmundi;Agmundi
+Agrith-Na-Na;Agrith-Na-Na
+Ali the Guard;Ali vartija
+'Gummy';'kumimainen'
+Acorn;Acorn
+Aisles;Käytävät
+Akthanakos;Akthanakos
+Al-Kharid warrior;Al-Kharidin soturi
+Albino bat;Albino lepakko
+Afrah;Afrah
+Agility Instructor;Agilityn ohjaaja
+Agrith Naar (hard);Agrith Naar (kova)
+ Sneaky undead fowl;Ovela epäkuolleet linnut
+'Currency' The Alchemist;"Valuutta" Alkemisti
+'Lecherous' Lee;"Ihme" Lee
+A'abla;A'abla
+Afflicted(Ulsquire);Vaikea (Ulsquire)
+'Beedy-eye' Jones;"Beedy-eye" Jones
+'Picarron' Pete;"Picarron" Pete
+Afflicted;Vaurioitunut
+Agility Trainer;Agility Trainer
+Ali the Hag;Ali Hag
+Aberab;Aberab
+Abyssal Sire;Abyssal isä
+Account security tutor;Tilin turvallisuuden opettaja
+Advisor Ghrim;Neuvonantaja Ghrim
+Ajjat;Ajjat
+Alain;Alain
+Abomination;Kauhistus
+Afflicted(Razmire);Vaurioitunut (Razmire)
+Al the Camel;Al kameli
+Ali the Camel Man;Ali kamelimies
+'Black-eye';'mustasilmä'
+Achietties;Achietties
+Agility Boss;Agility Boss
+Ahrim the Blighted;Ahrim Blighted
+Air wizard;Ilman velho
+Al Shabim;Al Shabim
+Alan;Alan
+Alchemical Hydra;Alkemiallinen Hydra
+Alexander;Aleksanteri
+'Betty' B.Boppin;"Betty" B.Boppin
+? ? ? ?;? ? ? ?
+Abhorrent spectre;Kammottava haamu
+Abigaila;Abigaila
+Abyssal guardian;Abyssalin vartija
+Abyssal orphan;Abyssal orpo
+Alchemy Guardian;Alchemy Guardian
+Aleck;Aleck
 Ambassador Ferrnook;Suurlähettiläs Ferrnook
-Ambassador Gimblewap;Suurlähettiläs Gimblewap
-Ambassador Spanfipple;Suurlähettiläs Spanfipple
-Amelia;Amelia
-Ammonite Crab;Ammoniittirapu
-Amrod;Amrod
-Amy;Amy
-An old Dwarf;Vanha kääpiö
-Ana;Ana
-Anaire;Anaire
-Ancient Fungi;Muinaiset sienet
 Ancient Ghost;Muinainen Ghost
-Ancient Guardian;Muinainen vartija
-Ancient Wizard;Muinainen velho
-Ancient Wyvern;Muinainen Wyvern
-Ancient Zygomite;Muinainen tsygomiitti
 Ancient monkey;Muinainen apina
-Andiess Juip;Andiess Juip
-Andras;Andras
-Andrea;Andrea
-Andros Mai;Andros Mai
 Aneirin;Aneirin
-Angel;Enkeli
-Angelo;Angelo
-Angry barbarian spirit;Vihainen barbaarihenki
+Animated Adamant Armour;Animoitu Adamant Armor
+Apmeken;Apmeken
+Arianwyn;Arianwyn
+Ali the Tailor;Ali räätäli
+Anaire;Anaire
+Ancient Zygomite;Muinainen tsygomiitti
+Andiess Juip;Andiess Juip
 Angry bear;Vihainen karhu
 Angry giant rat;Vihainen jättirotta
-Angry goblin;Vihainen peikko
-Angry unicorn;Vihainen yksisarvinen
-Animated Adamant Armour;Animoitu Adamant Armor
-Animated Black Armour;Animoitu Black Armour
-Animated Bronze Armour;Animoitu pronssipanssari
-Animated Iron Armour;Animoitu Iron Armor
-Animated Mithril Armour;Animoitu Mithril Armor
-Animated Rune Armour;Animoitu Rune Armor
-Animated Steel Armour;Animoitu teräspanssari
-Animated spade;Animoitu lapio
-Animated steel armour;Animoitu teräspanssari
 Anita;Anita
-Anja;Anja
-Ankou;Ankou
-Anleif;Anleif
-Anna;Anna
-Anna Jones;Anna Jones
-Anne Isaakson;Anne Isaakson
-Annette;Annette
 Annoyed guardian mummy;Ärsyttää huoltajamuumio
-Anton;Anton
-Anwen;Anwen
-Apmeken;Apmeken
-Apothecary;Apteekkari
-Apprentice;Oppipoika
-Apprentice (medium);Oppipoika (keskikokoinen)
-Apprentice workman;Työntekijän oppipoika
-Aranwe;Aranwe
+Armourer (tier 5);Panssari (taso 5)
 Archaeological expert;Arkeologinen asiantuntija
-Archaeologist;Arkeologi
-Archeio;Archeio
+Armourer (tier 3);Panssari (taso 3)
+Altarkiz;Altarkiz
+Andrea;Andrea
+Animated Bronze Armour;Animoitu pronssipanssari
+Ankou;Ankou
+Anna;Anna
+Aranwe;Aranwe
+Arnold Lydspor;Arnold Lydspor
+Ali the dyer;Ali värjääjä
+Alice;Alice
+Ambassador Gimblewap;Suurlähettiläs Gimblewap
+Andras;Andras
+Animated Iron Armour;Animoitu Iron Armor
+Animated Steel Armour;Animoitu teräspanssari
 Archer;Jousimies
-Archpriest of the Unicorn;Yksisarvisen arkkipappi
-Arcis;Arcis
-Aredhel;Aredhel
-Aretha;Aretha
-Arhein;Arhein
-Arianwyn;Arianwyn
 Arianwyn (hard);Arianwyn (kova)
+Almera;Almera
+Alwyn;Alwyn
+Ambassador Spanfipple;Suurlähettiläs Spanfipple
+Amrod;Amrod
+Angry goblin;Vihainen peikko
+Arhein;Arhein
+Ambassador Alvijar;Suurlähettiläs Alvijar
+Anwen;Anwen
+Apprentice workman;Työntekijän oppipoika
+Armourer (tier 4);Panssari (taso 4)
+Alrena;Alrena
+Angelo;Angelo
+Animated Rune Armour;Animoitu Rune Armor
+Anton;Anton
+Armourer (tier 1);Panssari (taso 1)
+Ali the Smith;Ali Smith
+Ammonite Crab;Ammoniittirapu
+Annette;Annette
+Apothecary;Apteekkari
+Anleif;Anleif
+Aretha;Aretha
+Ali the Snake Charmer;Ali käärmeen hurmaaja
+Angry barbarian spirit;Vihainen barbaarihenki
+Archaeologist;Arkeologi
+An old Dwarf;Vanha kääpiö
 Aristarchus;Aristarkus
-Armadylean guard;Armadylean vartija
 Armod;Armod
 Armour salesman;Panssarikauppias
-Armoured Foe;Panssarivihollinen
-Armourer (tier 1);Panssari (taso 1)
 Armourer (tier 2);Panssari (taso 2)
-Armourer (tier 3);Panssari (taso 3)
-Armourer (tier 4);Panssari (taso 4)
-Armourer (tier 5);Panssari (taso 5)
-Army Commander;Armeijan komentaja
 Arno;Arno
-Arnold Lydspor;Arnold Lydspor
-Arnor;Arnor
-Arrg;Arrg
-Arrg (hard);Arrg (kova)
-Arsen the Thief;Varas Arsen
-Art;Taide
-Art Critic Jacques;Taidekriitikko Jacques
-Arthur;Arthur
-Arthur the Clue Hunter;Arthur vihjeenmetsästäjä
-Artimeus;Artimeus
-Artur Hosidius;Artur Hosidius
-Arvel;Arvel
-Arzinian Avatar of Magic;Arzinian Magic Avatar
-Arzinian Avatar of Ranging;Arzinian Avatar of Ranging
-Arzinian Avatar of Strength;Arzinian Voiman Avatar
-Arzinian Being of Bordanzan;Arzinian Bordanzanin olento
-Ash;Tuhka
-Ashild;Ashild
-Askeladden;Askeladden
-Assassin;Salamurhaaja
-Assistant;Assistant
-Assistant Brock;Assistentti Brock
-Assistant Le Smith;Assistentti Le Smith
-Assistant Lori;Assistentti Lori
-Assistant Marrow;Assistentti Marrow
-Assistant Serf;Assistant Serf
-Assistant Stan;Assistentti Stan
-Asteros Arceuus;Asteros Arceuus
-Asyff;Asyff
-Asyn Shade;Asyn Shade
-Asyn Shadow;Asyn Shadow
+Alice's husband;Alicen aviomies
+Allanna;Allanna
+Alrik;Alrik
+Altar;Alttari
+Ancient Guardian;Muinainen vartija
+Angel;Enkeli
+Animated Black Armour;Animoitu Black Armour
+Animated spade;Animoitu lapio
+Arcis;Arcis
+Aredhel;Aredhel
+Armadylean guard;Armadylean vartija
+Ali the Operator;Ali operaattori
+Andros Mai;Andros Mai
+Animated steel armour;Animoitu teräspanssari
+Anja;Anja
+Apprentice (medium);Oppipoika (keskikokoinen)
+Archpriest of the Unicorn;Yksisarvisen arkkipappi
+Alice the Camel;Liisa kameli
+Alomone;Alomone
+Alviss;Alviss
+Alyssa;Alyssa
+Ana;Ana
+Ancient Wyvern;Muinainen Wyvern
+Animated Mithril Armour;Animoitu Mithril Armor
+Anna Jones;Anna Jones
+Apprentice;Oppipoika
+Army Commander;Armeijan komentaja
+Alry the Angler;Alry the Angler
+Aluft Gianne snr.;Aluft Gianne snr.
+Amelia;Amelia
+Amy;Amy
+Ancient Fungi;Muinaiset sienet
+Ancient Wizard;Muinainen velho
+Angry unicorn;Vihainen yksisarvinen
+Anne Isaakson;Anne Isaakson
+Archeio;Archeio
+Armoured Foe;Panssarivihollinen
 Asyn shadow;Asyn varjo
-Atlas;Atlas
-Aubury;Aubury
-Auctioneer;Huutokaupanpitäjä
-Audmann;Audmann
-Auguste;Auguste
-Aurel;Aurel
-Austri;Austri
-Autumn Elemental;Syksyn elementaali
-Ava;Ava
-Avan;Avan
-Avatar of Creation;Luomisen avatar
-Avatar of Destruction;Tuhon avatar
-Aviansie;Aviansie
-Awakened Altar;Herätty alttari
-Awowogei;Awowogei
-Awusah the Mayor;Awusah pormestari
-Ayesha;Ayesha
 Azzanadra;Azzanadra
-Baba Yaga;Baba Yaga
-Baby Chinchompa;Chinchompa vauva
-Baby Mole;Vauva Myyrä
-Baby Mole-rat;Vauva Myyrä-rotta
-Baby Roc;Vauva Roc
-Baby black dragon;Vauva musta lohikäärme
-Baby blue dragon;Vauvan sininen lohikäärme
-Baby green dragon;Vauvan vihreä lohikäärme
-Baby impling;Vauva vihjailee
-Baby red dragon;Vauva punainen lohikäärme
-Baby tanglefoot;Vauvan tanglefoot
-Badger;Mäyrä
-Bailey;Bailey
-Baker;Leipuri
 Bakuna;Bakuna
-Bald Headed Eagle;Bald Headed Eagle
 Balfrug Kreeyath;Balfrug Kreeyath
-Balloon Animal;Ilmapallo eläin
-Balloon Toad;Ilmapallo rupikonna
-Bandit;Bandit
-Bandit Leader;Bandiitin johtaja
-Bandit champion;Bandiitin mestari
-Bandit shopkeeper;Bandit kauppias
-Bandosian guard;Bandosian vartija
-Banisoch;Banisoch
-Bank guard;Pankin vartija
-Banker;Pankkiiri
-Banker tutor;Pankkiirin opettaja
 Banknote Exchange Merchant;Setelien vaihtokauppias
-Banshee;Banshee
-Baraek;Baraek
-Barb-tailed kebbit;Piikkihäntäkebbit
-Barbara;Barbara
-Barbarian;Barbaari
-Barbarian Warlord;Barbaari sotapäällikkö
-Barbarian guard;Barbaari vartija
-Bardur;Bardur
-Barfy Bill;Barfy Bill
-Barge foreman;Proomun työnjohtaja
 Barge guard;Proomun vartija
-Barge workman;Proomun työmies
-Bark Blamish Snail;Bark Blamish Snail
-Barker;Barker
-Barlak;Barlak
-Barmaid;Tarjoilijatar
 Barman;Baarimikko
 Barnabus Hurma;Barnabus Hurma
-Barrelchest;Barrelchest
-Barrelchest (hard);tynnyri (kova)
+Assistant Brock;Assistentti Brock
+Austri;Austri
+Awusah the Mayor;Awusah pormestari
+Baby Mole-rat;Vauva Myyrä-rotta
+Baby tanglefoot;Vauvan tanglefoot
 Barricade;Barrikadi
+Arvel;Arvel
+Arzinian Being of Bordanzan;Arzinian Bordanzanin olento
+Assassin;Salamurhaaja
+Asteros Arceuus;Asteros Arceuus
+Audmann;Audmann
+Autumn Elemental;Syksyn elementaali
+Ava;Ava
+Barlak;Barlak
+Asyn Shadow;Asyn Shadow
+Baby red dragon;Vauva punainen lohikäärme
+Banisoch;Banisoch
+Barbarian guard;Barbaari vartija
+Arnor;Arnor
+Ashild;Ashild
+Assistant Stan;Assistentti Stan
+Awowogei;Awowogei
+Ayesha;Ayesha
+Baby impling;Vauva vihjailee
+Barker;Barker
+Arthur the Clue Hunter;Arthur vihjeenmetsästäjä
+Avatar of Creation;Luomisen avatar
+Bank guard;Pankin vartija
+Banker tutor;Pankkiirin opettaja
+Barmaid;Tarjoilijatar
+Artimeus;Artimeus
+Askeladden;Askeladden
+Asyff;Asyff
+Auctioneer;Huutokaupanpitäjä
+Baby Chinchompa;Chinchompa vauva
+Bandit shopkeeper;Bandit kauppias
+Bandosian guard;Bandosian vartija
+Banker;Pankkiiri
+Arsen the Thief;Varas Arsen
+Assistant Serf;Assistant Serf
+Aubury;Aubury
+Avatar of Destruction;Tuhon avatar
+Balloon Animal;Ilmapallo eläin
+Bandit champion;Bandiitin mestari
+Arrg;Arrg
+Assistant Le Smith;Assistentti Le Smith
+Awakened Altar;Herätty alttari
+Baby Roc;Vauva Roc
+Baby blue dragon;Vauvan sininen lohikäärme
+Barge workman;Proomun työmies
+Barrelchest (hard);tynnyri (kova)
 Bartak;Bartak
-Bartender;Baarimikko
-Basilisk;Basiliski
-Basilisk Knight;Basiliskin ritari
+Arrg (hard);Arrg (kova)
+Balloon Toad;Ilmapallo rupikonna
+Barb-tailed kebbit;Piikkihäntäkebbit
+Ash;Tuhka
+Assistant;Assistant
+Asyn Shade;Asyn Shade
+Avan;Avan
+Baraek;Baraek
+Barbarian Warlord;Barbaari sotapäällikkö
+Barfy Bill;Barfy Bill
+Barrelchest;Barrelchest
+Auguste;Auguste
+Aurel;Aurel
+Baby Mole;Vauva Myyrä
+Banshee;Banshee
+Barge foreman;Proomun työnjohtaja
+Bark Blamish Snail;Bark Blamish Snail
+Arzinian Avatar of Ranging;Arzinian Avatar of Ranging
+Arzinian Avatar of Strength;Arzinian Voiman Avatar
+Baby green dragon;Vauvan vihreä lohikäärme
+Bald Headed Eagle;Bald Headed Eagle
+Art Critic Jacques;Taidekriitikko Jacques
+Arzinian Avatar of Magic;Arzinian Magic Avatar
+Assistant Marrow;Assistentti Marrow
+Art;Taide
+Arthur;Arthur
+Baker;Leipuri
+Bandit;Bandit
+Barbarian;Barbaari
+Bardur;Bardur
+Artur Hosidius;Artur Hosidius
+Assistant Lori;Assistentti Lori
+Atlas;Atlas
+Aviansie;Aviansie
+Baba Yaga;Baba Yaga
+Baby black dragon;Vauva musta lohikäärme
+Badger;Mäyrä
+Bailey;Bailey
+Bandit Leader;Bandiitin johtaja
+Barbara;Barbara
 Basilisk Sentinel;Basilisk Sentinel
-Basilisk Youngling;Basilisk Youngling
-Bast;Bast
-Bat;Bat
-Batt Mellamy;Batt Mellamy
-Battle mage;Taistelumaagi
-Battle tortoise display;Taistelukilpikonnan näyttö
-Baxtorian;Baxtorian
-Bear Cub;Karhunpentu
-Bearded gorilla;Parrakas gorilla
-Beaver;Majava
-Bed;Vuode
-Bedabin Nomad;Bedabin Nomad
-Bedabin Nomad Fighter;Bedabin Nomad Fighter
-Bedabin Nomad Guard;Bedabin Nomad Guard
-Bedread the bold;Lihavoitu vuodeliina
-Bee keeper;Mehiläishoitaja
-Bees!;Mehiläiset!
-Beggar;Kerjäläinen
-Beigarth;Beigarth
-Beite;Beite
-Bellemorde;Bellemorde
-Belona;Belona
-Bench;Penkki
-Benjamin;Benjamin
-Benny;Benny
-Bentamir;Bentamir
-Bernald;Bernald
-Berry;Marja
-Berserk barbarian spirit;Berserk barbaarihenki
-Bert;Bert
-Betty;Betty
-Biblia;Biblia
-Big Dave;Iso Dave
-Big Snake;Iso käärme
-Big Wolf;Iso susi
 Big frog;Iso sammakko
-BigRedJapan;BigRedJapan
-Bill Teach;Bill Teach
-Billy;Billy
-Billy Goat;Billy Goat
-Billy Rehnison;Billy Rehnison
-Billy, a guard of Falador;Billy, Faladorin vartija
-Bird;Lintu
-Bjorn;Björn
-Black Cat;Musta Kissa
-Black Guard;Musta vartija
 Black Guard Berserker;Mustakaarti Berserker
-Black Heather;Musta kanerva
-Black Knight;Musta ritari
-Black Knight Captain;Black Knight kapteeni
-Black Knight Titan;Black Knight Titan
-Black Knight Titan (hard);Black Knight Titan (kova)
-Black bear;Musta karhu
-Black chinchompa;Musta chinchompa
-Black demon;Musta demoni
-Black demon (hard);Musta demoni (kova)
-Black dragon;Musta lohikäärme
-Black golem;Musta golem
-Black knight;Musta ritari
-Black salamander;Musta salamanteri
-Black swan;Musta joutsen
 Black unicorn;Musta yksisarvinen
 Black unicorn Foal;Musta yksisarvinen varsa
-Black warlock;Musta velho
-Blackjack seller;Blackjack myyjä
-Blaec;Blaec
-Blair;Blair
-Blandebir;Blandebir
-Blanin;Blanin
-Blasidar the sculptor;kuvanveistäjä Blasidar
-Blast Furnace Foreman;Masuunin työnjohtaja
-Blessed giant rat;Siunattu jättirotta
-Blessed spider;Siunattu hämähäkki
-Bloated Toad;Turvonnut rupikonna
-Blood Blamish Snail;Blood Blamish Snail
-Blood spawn;Veren kuteminen
-Bloodhound;Verikoira
-Bloodveld;Bloodveld
-Bloodworm;Verimato
-Blue Monkey;Sininen apina
-Blue Opal Director;Blue Opal johtaja
-Blue Opal Secretary;Blue Opal sihteeri
-Blue Sheep;Sininen lammas
-Blue dragon;Sininen lohikäärme
-Blurberry;Blurberry
-Boar;Karju
-Boat;Vene
-Bob;Bob
 Bob Barter (herbs);Bob Barter (yrtit)
-Bob, another guard of Falador;Bob, toinen Faladorin vartija
-Bobawu;Bobawu
+Basilisk Knight;Basiliskin ritari
+Battle mage;Taistelumaagi
+Bedabin Nomad Fighter;Bedabin Nomad Fighter
+Beggar;Kerjäläinen
+Billy;Billy
+Black Knight Titan;Black Knight Titan
+Black golem;Musta golem
+Blessed spider;Siunattu hämähäkki
+Big Dave;Iso Dave
+Black bear;Musta karhu
+Blue Opal Secretary;Blue Opal sihteeri
+Bob;Bob
 Bobbing fossil;Keinuva fossiili
-Body Golem;Golemin ruumis
-Bolkoy;Bolkoy
-Bologa;Bologa
+Basilisk;Basiliski
+Baxtorian;Baxtorian
+Benjamin;Benjamin
+Billy Rehnison;Billy Rehnison
+Blackjack seller;Blackjack myyjä
+Bast;Bast
+Bedread the bold;Lihavoitu vuodeliina
+Benny;Benny
+Bentamir;Bentamir
+Bloodhound;Verikoira
+Blurberry;Blurberry
+Beaver;Majava
+Black Guard;Musta vartija
+Black swan;Musta joutsen
+Black warlock;Musta velho
+Blast Furnace Foreman;Masuunin työnjohtaja
+Bloated Toad;Turvonnut rupikonna
+Bloodveld;Bloodveld
+Black Heather;Musta kanerva
+Blood Blamish Snail;Blood Blamish Snail
+Bobawu;Bobawu
 Bolongo;Bolongo
-Bonafido;Bonafido
-Boneguard;Boneguard
-Bones;Luut
-Bonzara;Bonzara
-Bonzo;Bonzo
-Boot;Boot
+Big Wolf;Iso susi
+Bjorn;Björn
+Blasidar the sculptor;kuvanveistäjä Blasidar
+Blood spawn;Veren kuteminen
+Blue Opal Director;Blue Opal johtaja
+Bear Cub;Karhunpentu
+Black Cat;Musta Kissa
+Black dragon;Musta lohikäärme
+Bob, another guard of Falador;Bob, toinen Faladorin vartija
+Basilisk Youngling;Basilisk Youngling
+Berry;Marja
+Black Knight Captain;Black Knight kapteeni
+Black Knight Titan (hard);Black Knight Titan (kova)
+Black chinchompa;Musta chinchompa
+Blaec;Blaec
+Blessed giant rat;Siunattu jättirotta
+Bed;Vuode
+Bedabin Nomad;Bedabin Nomad
+Bee keeper;Mehiläishoitaja
+Berserk barbarian spirit;Berserk barbaarihenki
+BigRedJapan;BigRedJapan
+Billy Goat;Billy Goat
+Black demon;Musta demoni
+Blandebir;Blandebir
+Bloodworm;Verimato
+Boar;Karju
+Beite;Beite
+Bert;Bert
+Big Snake;Iso käärme
+Bill Teach;Bill Teach
+Billy, a guard of Falador;Billy, Faladorin vartija
+Blair;Blair
+Blue Monkey;Sininen apina
+Blue dragon;Sininen lohikäärme
+Bartender;Baarimikko
+Bat;Bat
+Biblia;Biblia
+Bird;Lintu
+Black Knight;Musta ritari
+Black knight;Musta ritari
+Bellemorde;Bellemorde
+Belona;Belona
+Betty;Betty
+Body Golem;Golemin ruumis
+Bedabin Nomad Guard;Bedabin Nomad Guard
+Bench;Penkki
+Black demon (hard);Musta demoni (kova)
+Black salamander;Musta salamanteri
+Blue Sheep;Sininen lammas
+Bologa;Bologa
+Batt Mellamy;Batt Mellamy
+Battle tortoise display;Taistelukilpikonnan näyttö
+Bearded gorilla;Parrakas gorilla
+Bees!;Mehiläiset!
+Beigarth;Beigarth
+Bernald;Bernald
+Blanin;Blanin
+Boat;Vene
+Bolkoy;Bolkoy
 Border Guard;Rajavartiolaitos
-Boris;Boris
-Bork Sigmundson;Bork Sigmundson
-Borrokar;Borrokar
+Butler Jones;Butler Jones
 Boulder;Siirtolohkare
-Bouncer;Bouncer
-Bouncer (hard);Bouncer (kova)
-Bouquet Mac Hyacinth;Kukkakimppu Mac Hyasintti
-Bow and Arrow salesman;Jousi ja nuoli myyjä
 Boy;Poika
-Brambickle;Brambickle
-Brana;Brana
-Branwen;Branwen
-Brassican Mage;Brassican Mage
-Bravek;Rohkea
-Brawler;Tappelupukari
-Bree;Bree
-Breive;Breive
 Brendt;Brendt
+Brother Althric;Veli Althric
+Caninelle Draynar;Caninelle Draynar
+Captain Bentley;Kapteeni Bentley
+Boris;Boris
+Bouquet Mac Hyacinth;Kukkakimppu Mac Hyasintti
+Broken Handz;Rikkoutunut Handz
+Cabin Boy Colin;Mökkipoika Colin
+Caden Azro;Caden Azro
+Capt' Arnav;Kapteeni Arnav
+Camel display;Kamelin näyttö
+Boneguard;Boneguard
+Bouncer (hard);Bouncer (kova)
+Bree;Bree
+Briget;Briget
+Brother Kojo;Veli Kojo
+Brutal blue dragon;Brutaali sininen lohikäärme
+Bunkdo;Bunkdo
+Burkor;Burkor
 Breoca;Breoca
 Brewer;Panimo
-Brian;Brian
-Brian O'Richard;Brian O'Richard
-Briget;Briget
-Brimstail;Brimstail
-Brine rat;Suolavesi rotta
-Broddi;Broddi
-Broken Handz;Rikkoutunut Handz
-Broken clay golem;Murtunut savigolem
-Bronze dragon;Pronssinen lohikäärme
 Broodoo victim;Broodoo uhri
-Brother Aimeri;Veli Aimeri
-Brother Althric;Veli Althric
-Brother Brace;Veli Brace
-Brother Cedric;Veli Cedric
-Brother Jered;Veli Jered
-Brother Kojo;Veli Kojo
+Butler Jarvis;Butler Jarvis
+Butterfly;Perhonen
+Caerwyn;Caerwyn
+Caleb;Caleb
+Borrokar;Borrokar
+Breive;Breive
+Brine rat;Suolavesi rotta
 Brother Maledict;Veli Maledict
-Brother Omad;Veli Omad
 Brother Tranquility;Veli Rauhallisuus
-Brown Engine Director;Brown moottorin johtaja
-Brown Engine Secretary;Brown moottorin sihteeri
-Brugsen Bursen;Brugsen Bursen
+Callisto cub;Kalliston poikanen
+Cap'n Hand;Cap'n Käsi
+Bork Sigmundson;Bork Sigmundson
+Buinn;Buinn
+Callisto;Callisto
+Camarst;Camarst
+Captain Barnaby;Kapteeni Barnaby
+Bones;Luut
+Brian;Brian
+Bryn;Bryn
+Bunny;Pupu
+Burntof;Burntof
+Cage;Häkki
+Candle seller;Kynttilän myyjä
+Captain;Kapteeni
+Bow and Arrow salesman;Jousi ja nuoli myyjä
+Bravek;Rohkea
+Brawler;Tappelupukari
+Brother Cedric;Veli Cedric
+Brutal red dragon;Brutaali punainen lohikäärme
+Bryophyta;Bryophyta
+Cabin boy;Mökkipoika
+Candle maker;Kynttilänvalmistaja
+Captain Bleemadge;Kapteeni Bleemage
+Branwen;Branwen
+Brian O'Richard;Brian O'Richard
 Bruise Blamish Snail;Mustelma Blamish Snail
 Brundt the Chieftain;Brundt päällikkö
 Brutal black dragon;Brutaali musta lohikäärme
-Brutal blue dragon;Brutaali sininen lohikäärme
-Brutal green dragon;Brutaali vihreä lohikäärme
-Brutal red dragon;Brutaali punainen lohikäärme
-Bryn;Bryn
-Bryophyta;Bryophyta
-Bugs;Bugeja
-Builder;Rakentaja
-Buinn;Buinn
 Bullrush;Bullrush
-Bunkdo;Bunkdo
-Bunkwicket;Bunkwicket
-Bunny;Pupu
-Burkor;Burkor
-Burntmeat;Poltettu liha
-Burntof;Burntof
+Cabin boy Jenkins;Mökkipoika Jenkins
+Cap'n Izzy No-Beard;Cap'n Izzy No-Beard
+Brambickle;Brambickle
+Brassican Mage;Brassican Mage
+Bronze dragon;Pronssinen lohikäärme
+Brother Jered;Veli Jered
+Builder;Rakentaja
+Camel;Kameli
+Camp dweller;Leirin asukas
+Boot;Boot
+Brother Omad;Veli Omad
+Brugsen Bursen;Brugsen Bursen
+Bugs;Bugeja
 Bush snake;Bushin käärme
 Butler;Butler
-Butler Jarvis;Butler Jarvis
-Butler Jones;Butler Jones
-Butterfly;Perhonen
-Cabin Boy Colin;Mökkipoika Colin
-Cabin Boy Herbert;Mökkipoika Herbert
-Cabin boy;Mökkipoika
-Cabin boy Jenkins;Mökkipoika Jenkins
-Caden Azro;Caden Azro
-Caerwyn;Caerwyn
-Cage;Häkki
-Caleb;Caleb
-Calin;Calin
-Callisto;Callisto
-Callisto cub;Kalliston poikanen
-Cam the Camel;Camelin kamera
-Camarst;Camarst
-Camel;Kameli
-Camel display;Kamelin näyttö
-Camorra;Camorra
-Camp dweller;Leirin asukas
-Candle maker;Kynttilänvalmistaja
-Candle seller;Kynttilän myyjä
-Caninelle Draynar;Caninelle Draynar
 Cannoneer;Kanuoneer
-Cap'n Hand;Cap'n Käsi
-Cap'n Izzy No-Beard;Cap'n Izzy No-Beard
-Capt' Arnav;Kapteeni Arnav
-Captain;Kapteeni
-Captain Barnaby;Kapteeni Barnaby
-Captain Bentley;Kapteeni Bentley
-Captain Bleemadge;Kapteeni Bleemage
+Bonzo;Bonzo
+Bouncer;Bouncer
+Brown Engine Director;Brown moottorin johtaja
+Burntmeat;Poltettu liha
+Cabin Boy Herbert;Mökkipoika Herbert
+Cam the Camel;Camelin kamera
+Bonafido;Bonafido
+Brimstail;Brimstail
+Broddi;Broddi
+Broken clay golem;Murtunut savigolem
+Brother Aimeri;Veli Aimeri
+Brown Engine Secretary;Brown moottorin sihteeri
+Brutal green dragon;Brutaali vihreä lohikäärme
+Bonzara;Bonzara
+Brana;Brana
+Brother Brace;Veli Brace
+Bunkwicket;Bunkwicket
+Calin;Calin
+Camorra;Camorra
 Captain Braindeath;Kapteeni Braindeath
-Captain Bruce;Kapteeni Bruce
-Captain Cain;Kapteeni Cain
-Captain Cleive;Kapteeni Cleive
-Captain Daerkin;Kapteeni Daerkin
-Captain Dalbur;Kapteeni Dalbur
-Captain Donnie;Kapteeni Donnie
-Captain Dudi;Kapteeni Dudi
-Captain Errdo;Kapteeni Errdo
-Captain Ginea;Kapteeni Ginea
-Captain Janaway;Kapteeni Janaway
-Captain Kalt;Kapteeni Kalt
-Captain Khaled;Kapteeni Khaled
-Captain Klemfoodle;Kapteeni Klemfoodle
-Captain Lamdoo;Kapteeni Lamdoo
-Captain Lawgof;Kapteeni Lawgof
-Captain Magoro;Kapteeni Magoro
-Captain Ned;Kapteeni Ned
-Captain Ninto;Kapteeni Ninto
-Captain Pudi;Kapteeni Pudi
-Captain Rachelle;Kapteeni Rachelle
-Captain Rimor;Kapteeni Rimor
-Captain Rovin;Kapteeni Rovin
-Captain Sdiar;Kapteeni Sdiar
-Captain Shanks;Kapteeni Shanks
-Captain Shoracks;Kapteeni Shoracks
-Captain Siad;Kapteeni Siad
-Captain Tobias;Kapteeni Tobias
-Captain Tock;Kapteeni Tock
-Captain Tom;Kapteeni Tom
-Carado;Carado
 Caranthir;Caranthir
-Carl;Carl
-Carla;Carla
-Carnivorous chinchompa;Lihansyöjä chinchompa
 Carnivus Belamorta;Carnivus Belamorta
-Carol;Carol
-Caroline;Caroline
-Carpenter;Puuseppä
-Carpenter Kjallak;Puuseppä Kjallak
-Cart Camel;Kärry Kameli
-Cart conductor;Kärryjen johdin
-Cassie;Cassie
 Cat;Kissa
-Catablepon;Catablepon
-Catalina;Catalina
-Cave Scenery;Luolamaisema
-Cave abomination;Luolan kauhistus
-Cave bug;Luolavukka
-Cave bug larva;Luolavukan toukka
-Cave crawler;Luola-indeksoija
-Cave goblin;Luolapeikko
-Cave goblin child;Luolapeikkolapsi
-Cave goblin guard;Luolan peikkovartija
-Cave goblin miner;Luolapeikko kaivosmies
 Cave horror;Luolan kauhu
-Cave kraken;Luola kraken
-Cave lizard;Luolalisko
-Cave monk;Luolamunkki
-Cave slime;Luolalimaa
-Cave snake;Luolakäärme
-Cavemouth;Cavemouth
+Chaos druid warrior;Kaaosdruidisoturi
+Carla;Carla
+Cassie;Cassie
+Cave goblin guard;Luolan peikkovartija
 Cavey Davey;Cavey Davey
-Cecilia;Cecilia
-Celebrian;julkkis
-Celegorm;Celegorm
-Celyn;Celyn
-Centaur;Kentauri
-Ceolburg;Ceolburg
 Cerberus;Cerberus
-Ceril Carnillean;Ceril Carnillean
-Cerulean twitch;Cerulean nykiminen
-Ceto;Ceto
-Chadwell;Chadwell
-Chaeldar;Chaeldar
-Chamber guardian;Kamarin huoltaja
 Chancy;Chancy
 Chaos Elemental;Chaos Elemental
-Chaos Elemental Jr.;Chaos Elemental Jr.
-Chaos Fanatic;Chaos Fanatic
-Chaos Golem;Kaaos Golem
-Chaos druid;Kaaosdruidi
-Chaos druid warrior;Kaaosdruidisoturi
-Chaos dwarf;Kaaoksen kääpiö
-Chaotic death spawn;Kaoottinen kuoleman kuteminen
-Charles;Charles
-Charles Charlington;Charles Charlington
-Charley;Charley
-Charlie;Charlie
 Charlie Brown;Charlie Brown
-Charlie the Tramp;Charlie Kulkuri
-Charlie the cook;Charlie kokki
 Charmed Warrior;Charmed Warrior
-Chasm Crawler;Chasm Crawler
-Checkal;Checkal
+Captain Cain;Kapteeni Cain
+Captain Lawgof;Kapteeni Lawgof
+Captain Shanks;Kapteeni Shanks
+Cart conductor;Kärryjen johdin
+Cave abomination;Luolan kauhistus
+Cave slime;Luolalimaa
+Cave snake;Luolakäärme
+Celegorm;Celegorm
+Celyn;Celyn
 Cheerleader;Cheerleader
+Captain Janaway;Kapteeni Janaway
+Cave goblin;Luolapeikko
+Charles Charlington;Charles Charlington
+Captain Magoro;Kapteeni Magoro
+Captain Rimor;Kapteeni Rimor
+Carado;Carado
+Caroline;Caroline
+Cave monk;Luolamunkki
+Centaur;Kentauri
+Charlie the cook;Charlie kokki
+Captain Bruce;Kapteeni Bruce
+Captain Dudi;Kapteeni Dudi
+Captain Pudi;Kapteeni Pudi
+Captain Rachelle;Kapteeni Rachelle
+Catalina;Catalina
+Cave Scenery;Luolamaisema
 Chef Olivia;kokki Olivia
 Chemist;Kemisti
-Cheryl;Cheryl
+Captain Cleive;Kapteeni Cleive
+Captain Daerkin;Kapteeni Daerkin
+Captain Tock;Kapteeni Tock
+Carnivorous chinchompa;Lihansyöjä chinchompa
+Carpenter Kjallak;Puuseppä Kjallak
+Cart Camel;Kärry Kameli
+Cerulean twitch;Cerulean nykiminen
+Checkal;Checkal
+Captain Dalbur;Kapteeni Dalbur
+Cave lizard;Luolalisko
+Ceolburg;Ceolburg
+Chamber guardian;Kamarin huoltaja
+Chaos dwarf;Kaaoksen kääpiö
+Captain Errdo;Kapteeni Errdo
+Captain Ned;Kapteeni Ned
+Captain Ninto;Kapteeni Ninto
+Cave bug;Luolavukka
+Cave goblin miner;Luolapeikko kaivosmies
+Cecilia;Cecilia
 Chicken;Kana
-Chief Farmer;Pääviljelijä
-Chief Tess;Päällikkö Tess
-Chief servant;Pääpalvelija
-Child;Lapsi
-Chinchompa;Chinchompa
-Choke devil;Kurkkupaholainen
-Chompy bird;Nuhjuinen lintu
+Captain Shoracks;Kapteeni Shoracks
+Catablepon;Catablepon
+Cave bug larva;Luolavukan toukka
+Celebrian;julkkis
+Chadwell;Chadwell
+Chaos Golem;Kaaos Golem
+Cheryl;Cheryl
+Captain Donnie;Kapteeni Donnie
+Charlie the Tramp;Charlie Kulkuri
+Captain Siad;Kapteeni Siad
+Carl;Carl
+Carol;Carol
+Chaos Elemental Jr.;Chaos Elemental Jr.
+Charlie;Charlie
+Captain Khaled;Kapteeni Khaled
+Carpenter;Puuseppä
+Cave crawler;Luola-indeksoija
+Cave goblin child;Luolapeikkolapsi
+Chaotic death spawn;Kaoottinen kuoleman kuteminen
+Charles;Charles
+Chaos Fanatic;Chaos Fanatic
+Captain Ginea;Kapteeni Ginea
+Captain Klemfoodle;Kapteeni Klemfoodle
+Captain Lamdoo;Kapteeni Lamdoo
+Captain Rovin;Kapteeni Rovin
+Captain Sdiar;Kapteeni Sdiar
+Captain Tobias;Kapteeni Tobias
+Captain Tom;Kapteeni Tom
+Ceril Carnillean;Ceril Carnillean
+Ceto;Ceto
+Chaeldar;Chaeldar
+Captain Kalt;Kapteeni Kalt
+Cave kraken;Luola kraken
+Cavemouth;Cavemouth
+Chaos druid;Kaaosdruidi
+Charley;Charley
+Chasm Crawler;Chasm Crawler
 Chompy chick;Pulloinen poikanen
-Chronozon;Chronozon
-Chronozon (hard);Chronozon (kova)
-Chuck;Heittää
-Cirdan;Cirdan
-City guard;Kaupungin vartija
-Civilian;Siviili
-Clan Guard;Klaanin vartija
-Claude;Claude
-Claus the chef;Claus kokki
-Clay golem;Savigolem
-Cleaner;Siivooja
-Cleddyf;Cleddyf
 Clerk;Virkailija
-Clerris;Clerris
-Clivet;Clivet
-Clockwork cat;Kellomainen kissa
-Clothears;Vaatteet
-Co-ordinator;Koordinaattori
-Coal;Hiili
-Cob;Cob
-Cockathrice;Cockathrice
-Cockatrice;Cockatrice
-Coenus;Coenus
-Col. O'Niall;Eversti O'Niall
-Colonel Grimsson;Eversti Grimsson
-Colonel Radick;Eversti Radick
-Colossal Hydra;Colossal Hydra
-Combat Instructor;Taisteluohjaaja
-Combat Test;Taistelutesti
-Combat Test (maxhit);Taistelutesti (maxhit)
-Combat stone;Taistelukivi
-Commander Connad;Komentaja Connad
-Commander Fullore;Komentaja Fullore
-Commander Montai;Komentaja Montai
-Commander Veldaban;Komentaja Veldaban
-Commander Zilyana;komentaja Zilyana
-Commissioner Anwar;Komissaari Anwar
-Competition Judge;Kilpailun tuomari
-Confused barbarian;Hämmentynyt barbaari
-Confusion beast;Hämmennys peto
-Conrad King;Conrad King
-Conwenna;Conwenna
-Cook;Kokki
-Cooking tutor;Ruoanlaiton opettaja
-Cool Mom227;Siisti äiti227
-Copper longtail;Kupari pitkähäntä
 Copper ore;Kuparimalmi
-Corkat quo Sihar;Corkat quo Sihar
-Cormorant;Merimetso
-Cornelius;Cornelius
-Corporeal Beast;Ruumiillinen peto
-Corporeal Critter;Ruumiillinen otus
-Corpse;Ruumis
-Corrupt Lizardman;Korruptoitunut Lizardman
-Corrupt Lizardman (hard);Korruptoitunut Lizardman (kova)
-Corrupted Bat;Vioittunut Bat
 Corrupted Bear;Korruptoitunut karhu
-Corrupted Dark Beast;Korruptoitunut Dark Beast
-Corrupted Dragon;Korruptoitunut lohikäärme
-Corrupted Hunllef;Korruptoitunut Hunllef
-Corrupted Rat;Vioittunut rotta
 Corrupted Scorpion;Korruptoitunut Scorpion
 Corrupted Spider;Korruptoitunut hämähäkki
-Corrupted Unicorn;Korruptoitunut yksisarvinen
-Corrupted Wolf;Korruptoitunut susi
-Corrupted Youngllef;Korruptoitunut Youngllef
-Corrupted scavenger;Korruptoitunut raiskaaja
-Corsair Traitor;Corsair petturi
-Corsair Traitor (hard);Corsair Traitor (kova)
-Cosmic Being;Kosminen Olento
-Council workman;Neuvoston työntekijä
-Councillor Andrews;Neuvoston jäsen Andrews
+Chronozon;Chronozon
+Chuck;Heittää
+Combat stone;Taistelukivi
+Commander Veldaban;Komentaja Veldaban
+Confused barbarian;Hämmentynyt barbaari
+Corporeal Critter;Ruumiillinen otus
 Councillor Halgrive;Valtuutettu Halgrive
-Councillor Orson;Valtuutettu Orson
-Councillor Unkar;Valtuutettu Unkar
-Count Check;Count Tarkista
-Count Draynor;Kreivi Draynor
-Count Draynor (hard);Kreivi Draynor (kova)
-Court judge;Tuomioistuimen tuomari
+Crazy archaeologist;Hullu arkeologi
+Confusion beast;Hämmennys peto
 Cow;Lehmä
-Cow (hard);Lehmä (kova)
 Cow calf;Lehmän vasikka
-Cow31337Killer;Lehmä31337Tappaja
+Crate;Häkki
+Crawling hand;Ryömivä käsi
+Chief servant;Pääpalvelija
+Choke devil;Kurkkupaholainen
+Clerris;Clerris
+Commander Fullore;Komentaja Fullore
+Cook;Kokki
+Corrupted Wolf;Korruptoitunut susi
+Cow (hard);Lehmä (kova)
+Claus the chef;Claus kokki
+Combat Test (maxhit);Taistelutesti (maxhit)
+Commander Zilyana;komentaja Zilyana
+Conrad King;Conrad King
+Copper longtail;Kupari pitkähäntä
+Corkat quo Sihar;Corkat quo Sihar
+Cormorant;Merimetso
+Cosmic Being;Kosminen Olento
+Count Check;Count Tarkista
+Chronozon (hard);Chronozon (kova)
+Cleddyf;Cleddyf
+Clothears;Vaatteet
+Combat Test;Taistelutesti
+Commissioner Anwar;Komissaari Anwar
+Chinchompa;Chinchompa
+Coenus;Coenus
+Corrupt Lizardman (hard);Korruptoitunut Lizardman (kova)
+Councillor Unkar;Valtuutettu Unkar
+Chief Farmer;Pääviljelijä
+City guard;Kaupungin vartija
+Corrupted Dragon;Korruptoitunut lohikäärme
+Corsair Traitor (hard);Corsair Traitor (kova)
+Crawling Hand;Indeksoiva käsi
+Civilian;Siviili
+Cleaner;Siivooja
+Co-ordinator;Koordinaattori
+Cockatrice;Cockatrice
+Commander Montai;Komentaja Montai
+Cornelius;Cornelius
+Corrupted Hunllef;Korruptoitunut Hunllef
+Corrupted Unicorn;Korruptoitunut yksisarvinen
+Clay golem;Savigolem
+Cockathrice;Cockathrice
+Colonel Grimsson;Eversti Grimsson
+Corporeal Beast;Ruumiillinen peto
+Court judge;Tuomioistuimen tuomari
+Crate goblin;Häkkipeikko
+Creakyknees;Creakyknees
+Chompy bird;Nuhjuinen lintu
+Colonel Radick;Eversti Radick
+Competition Judge;Kilpailun tuomari
+Cool Mom227;Siisti äiti227
+Corpse;Ruumis
+Corsair Traitor;Corsair petturi
+Councillor Andrews;Neuvoston jäsen Andrews
+Clan Guard;Klaanin vartija
+Count Draynor;Kreivi Draynor
+Corrupted Bat;Vioittunut Bat
+Count Draynor (hard);Kreivi Draynor (kova)
 Cowardly Bandit;Pelkuri Bandit
+Clivet;Clivet
+Clockwork cat;Kellomainen kissa
+Corrupted Dark Beast;Korruptoitunut Dark Beast
+Corrupted Youngllef;Korruptoitunut Youngllef
+Coal;Hiili
+Commander Connad;Komentaja Connad
+Conwenna;Conwenna
+Corrupt Lizardman;Korruptoitunut Lizardman
+Corrupted scavenger;Korruptoitunut raiskaaja
+Cow31337Killer;Lehmä31337Tappaja
+Chief Tess;Päällikkö Tess
+Child;Lapsi
+Cirdan;Cirdan
+Claude;Claude
+Cob;Cob
+Col. O'Niall;Eversti O'Niall
+Colossal Hydra;Colossal Hydra
+Combat Instructor;Taisteluohjaaja
+Cooking tutor;Ruoanlaiton opettaja
+Corrupted Rat;Vioittunut rotta
+Council workman;Neuvoston työntekijä
+Councillor Orson;Valtuutettu Orson
 Crab;Rapu
 Crafting tutor;Käsityön ohjaaja
-Crate;Häkki
-Crate goblin;Häkkipeikko
-Crawling Hand;Indeksoiva käsi
-Crawling hand;Ryömivä käsi
-Crazy archaeologist;Hullu arkeologi
-Creakyknees;Creakyknees
-Crefydd;Crefydd
-Crimson swift;Crimson Swift
-Crimsonette van Marr;Crimsonette van Marr
 Crocodile;Krokotiili
-Crondis;Crondis
-Crone;Crone
-Crow;Varis
-Crunchy;Rapeaa
-Crusher;Murskain
+Dagannoth;Dagannoth
+Dagannoth Prime;Dagannoth Prime
+Dalcian Fang (easy);Dalcian Fang (helppo)
+Dark energy core;Pimeän energian ydin
 Crushing hand;Murskaava käsi
-Crust of ice;Jään kuori
+Cuffs;Hihansuut
+Davon;Davon
+Deathly ranger;Kuolettava metsänvartija
 Crypt rat;Krypta rotta
-Crypt spider;Krypta hämähäkki
-Crystal impling;Crystal Impling
-Crystalline Bat;Crystalline Bat
-Crystalline Bear;Kristallinen karhu
+Dagannoth Supreme Jr.;Dagannoth Supreme Jr.
+Dakh'thoulan Aegis;Dakh'thoulan Aegis
+Dark Core;Tumma ydin
+Dark mage;Tumma maagi
+Dark wizard;Tumma velho
+Dartog;Dartog
+Dad (hard);Isä (kova)
+Dagannoth fledgeling;Dagannoth syntyessään
+Dalal;Dalal
+Death wing;Kuoleman siipi
 Crystalline Dark Beast;Crystalline Dark Beast
 Crystalline Dragon;Kristallinen lohikäärme
 Crystalline Hunllef;Crystalline Hunllef
-Crystalline Rat;Kiteinen rotta
-Crystalline Scorpion;Kristallinen Skorpioni
 Crystalline Spider;Crystalline Spider
-Crystalline Unicorn;Kristallinen yksisarvinen
-Crystalline Wolf;Kristallinen susi
-Cuffs;Hihansuut
-Culinaromancer;Kulinaaromi
 Culinaromancer (hard);Kulinaromanssi (kova)
-Curator Haig Halen;Kuraattori Haig Halen
-Curly;Kihara
-Curpile Fyod;Curpile Fyod
-Curufin;Curufin
-Customer;Asiakas
-Customs officer;Tullivirkailija
-Cyclops;kyklooppi
-Cyreg Paddlehorn;Cyreg Paddlehorn
 Cyrisus;Cyrisus
-Da Vinci;Da Vinci
-Dad;Isä
-Dad (hard);Isä (kova)
-Daer Krand;Daer Krand
 Daero;Daero
-Daga;Daga
-Dagannoth;Dagannoth
-Dagannoth Prime;Dagannoth Prime
-Dagannoth Prime Jr.;Dagannoth Prime Jr.
-Dagannoth Rex;Dagannoth Rex
-Dagannoth Rex Jr.;Dagannoth Rex Jr.
 Dagannoth Supreme;Dagannoth Supreme
-Dagannoth Supreme Jr.;Dagannoth Supreme Jr.
-Dagannoth fledgeling;Dagannoth syntyessään
-Dagannoth mother;Dagannothin äiti
-Dagannoth mother (hard);Dagannothin äiti (kova)
-Dagannoth spawn;Dagannothin kuteminen
-Dakh'thoulan Aegis;Dakh'thoulan Aegis
-Dalal;Dalal
-Dalcian Fang (easy);Dalcian Fang (helppo)
-Dalila;Dalila
-Dallas Jones;Dallas Jones
-Dalldav;Dalldav
-Damaged clay golem;Vaurioitunut savigolem
-Damien Leucurte;Damien Leucurte
-Damis;Damis
-Damis (hard);Damis (kova)
-Dampe;Kostea
-Damwin;Damwin
-Dantaera;Dantaera
-Darcor quo Narga;Darcor quo Narga
-Dark Ankou;Tumma Ankou
-Dark Core;Tumma ydin
-Dark Mage;Dark Mage
-Dark Squirrel;Tumma orava
-Dark beast;Tumma peto
-Dark core;Tumma ydin
-Dark energy core;Pimeän energian ydin
-Dark kebbit;Tumma kebbit
-Dark mage;Tumma maagi
-Dark warrior;Pimeä soturi
-Dark wizard;Tumma velho
-Darkmeyer Slave;Darkmeyer Slave
-Darren;Darren
-Dartog;Dartog
-Darve;Darve
 Daryl;Daryl
-Dashing kebbit;Reipas kebbit
-Dave;Dave
-Davey;Davey
+Debra;Debra
+Crystalline Wolf;Kristallinen susi
+Damien Leucurte;Damien Leucurte
+Darcor quo Narga;Darcor quo Narga
+Crust of ice;Jään kuori
+Crystalline Bat;Crystalline Bat
+Cyclops;kyklooppi
+Daer Krand;Daer Krand
+Dagannoth mother (hard);Dagannothin äiti (kova)
+Dark Ankou;Tumma Ankou
+Crunchy;Rapeaa
+Crystalline Bear;Kristallinen karhu
+Dagannoth mother;Dagannothin äiti
+Damis;Damis
+Dark Squirrel;Tumma orava
+Crow;Varis
+Crystalline Rat;Kiteinen rotta
+Daga;Daga
+Damwin;Damwin
+Crondis;Crondis
+Culinaromancer;Kulinaaromi
+Dad;Isä
 David;David
+Crypt spider;Krypta hämähäkki
+Curly;Kihara
+Dagannoth Prime Jr.;Dagannoth Prime Jr.
+Damis (hard);Damis (kova)
+Curpile Fyod;Curpile Fyod
+Customer;Asiakas
+Da Vinci;Da Vinci
+Damaged clay golem;Vaurioitunut savigolem
+Dark beast;Tumma peto
+Dashing kebbit;Reipas kebbit
+Dead swamp snake;Kuollut suon käärme
+Crone;Crone
+Crystalline Unicorn;Kristallinen yksisarvinen
+Customs officer;Tullivirkailija
+Dagannoth spawn;Dagannothin kuteminen
+Dalila;Dalila
+Dark Mage;Dark Mage
+Dark kebbit;Tumma kebbit
+Darkmeyer Slave;Darkmeyer Slave
+Davey;Davey
 David Andrews;David Andrews
-Davon;Davon
 Dawn;Aamunkoitto
 Dead Monk;Kuollut munkki
-Dead swamp snake;Kuollut suon käärme
-Deadly red spider;Tappava punainen hämähäkki
 Death;Kuolema
+Crefydd;Crefydd
+Crimson swift;Crimson Swift
+Crusher;Murskain
+Crystalline Scorpion;Kristallinen Skorpioni
+Curator Haig Halen;Kuraattori Haig Halen
+Dagannoth Rex Jr.;Dagannoth Rex Jr.
+Dallas Jones;Dallas Jones
+Dampe;Kostea
+Dark warrior;Pimeä soturi
+Deadly red spider;Tappava punainen hämähäkki
+Crimsonette van Marr;Crimsonette van Marr
+Crystal impling;Crystal Impling
+Curufin;Curufin
+Dark core;Tumma ydin
+Darve;Darve
+Dave;Dave
+Cute creature;Suloinen olento
+Cyreg Paddlehorn;Cyreg Paddlehorn
+Dagannoth Rex;Dagannoth Rex
+Dalldav;Dalldav
+Dantaera;Dantaera
+Darren;Darren
 Death spawn;Kuoleman kuteminen
-Death wing;Kuoleman siipi
 Deathly mage;Kuoleman taikuri
-Deathly ranger;Kuolettava metsänvartija
-Debra;Debra
-Defiler;Defiler
-Del-Monty;Del-Monty
-Delrith;Delrith
-Demon;Demoni
 Demon butler;Demoni-hovimestari
-Demonic gorilla;Demoninen gorilla
-Denadu;Denadu
-Denath;Denath
-Denulth;Denulth
-Deranged archaeologist;Hämmentynyt arkeologi
-Derni;Derni
-Dernu;Dernu
-Derrik;Derrik
-Derse Venator;Derse Venator
-Derwen;Derwen
-Desert Lizard;Aavikkolisko
-Desert Phoenix;Aavikko Phoenix
-Desert Spirit;Aavikon henki
-Desert Wolf;Aavikon susi
-Desert eagle;Aavikkokotka
-Desert snake;Aavikon käärme
-Desmodus Lasiurus;Desmodus Lasiurus
-Despoina Callidra;Despoina Callidra
-Dessourt;Jälkiruoka
-Dessourt (hard);Jälkiruoka (kova)
-Dessous;Dessous
-Dessous (hard);Dessous (kova)
-Devan Rutter;Devan Rutter
-Deviant spectre;Poikkeava haamu
-Devin Mendelberg;Devin Mendelberg
-Dharok the Wretched;Dharok kurja
 Diana;Diana
-Diango;Diango
-Dig Site workman;Kaivaustyöntekijä
-Digsite workman;Digityömies
-Dimintheis;Dimintheis
-Diol;Diol
-Diphylla Bechstein;Diphylla Bechstein
 Dire Wolf;Hirveä susi
-Disciple of Iban;Ibanin opetuslapsi
-Disciple of Yama;Yaman opetuslapsi
-Dobwinkle;Dobwinkle
-Dock worker;Telakkatyöntekijä
-Dockmaster;Dockmaster
-Doctor Orbon;Tohtori Orbon
-Dodgy Squire;Dodgy Squire
-Dog;Koira
-Doll;Nukke
-Dominic Onion;Dominic Sipuli
-Dommik;Dommik
-Don;Don
-Don't Know What;En tiedä mitä
-Donal;Donal
-Dondakan the Dwarf;Dondakan kääpiö
-Donie;Donie
+Dromund's cat;Dromundin kissa
+Denulth;Denulth
 Donny the lad;Donny poika
-Donovan the Family Handyman;Donovan perheen yleismies
-Doomion;Doomion
-Doomsayer;Doomsayer
-Door;Ovi
+Doric;doorilainen
+Doug Deeping;Doug Deeping
+Dragon impling;Lohikäärme vihjailee
+Dreven;Dreven
+Droalak;Droalak
+Demonic gorilla;Demoninen gorilla
+Dominic Onion;Dominic Sipuli
+Donie;Donie
+Dr Fenkenstrain;Tohtori Fenkenstrain
+Dr Harlow;Tohtori Harlow
+Drake;Drake
+Draul Leptoc;Draul Leptoc
+Drunken soldier;Humalassa sotilas
+Defiler;Defiler
+Deranged archaeologist;Hämmentynyt arkeologi
+Desert Spirit;Aavikon henki
+Desert eagle;Aavikkokotka
+Diango;Diango
+Diphylla Bechstein;Diphylla Bechstein
 Door man;Oven mies
 Door-support;Ovituki
-Doric;doorilainen
-Doris;Doris
-Double agent;Kaksoisagentti
-Doug Deeping;Doug Deeping
-Doyen;Vanhin
-Dr Fenkenstrain;Tohtori Fenkenstrain
-Dr Ford;Tohtori Ford
-Dr Harlow;Tohtori Harlow
 Dr Jekyll;Tohtori Jekyll
-Draconis Sanguine;Draconis Sanguine
-Dragon display;Dragon näyttö
-Dragon impling;Lohikäärme vihjailee
-Dragonkin;Dragonkin
-Drain pipe;Viemäriputki
-Drake;Drake
-Drasdan Ranor;Drasdan Ranor
-Draul Leptoc;Draul Leptoc
-Dreven;Dreven
 Drew;Drew
-Drezel;Drezel
-Driftwood;Ajopuu
 Drill Sergeant;Poran kersantti
-Droalak;Droalak
-Drogo dwarf;Drogo-kääpiö
-Dromund;Dromund
-Dromund's cat;Dromundin kissa
-Dron;Dron
-Druid;druidi
 Drunken Ali;Humalassa Ali
-Drunken Dwarf;humalainen kääpiö
-Drunken Dwarf's Leg;Humalaisen kääpiön jalka
-Drunken man;Humalassa mies
-Drunken soldier;Humalassa sotilas
-Dryad;Dryad
-Duck;Ankka
+Del-Monty;Del-Monty
+Diol;Diol
+Drasdan Ranor;Drasdan Ranor
 Duckling;Ankanpoikanen
-Ducklings;Ankanpojat
+Desert snake;Aavikon käärme
+Dessourt;Jälkiruoka
+Dessous (hard);Dessous (kova)
+Double agent;Kaksoisagentti
+Denath;Denath
+Derrik;Derrik
+Desmodus Lasiurus;Desmodus Lasiurus
+Devan Rutter;Devan Rutter
+Dig Site workman;Kaivaustyöntekijä
+Donal;Donal
+Door;Ovi
+Doyen;Vanhin
+Dr Ford;Tohtori Ford
+Druid;druidi
+Dryad;Dryad
+Dernu;Dernu
+Dodgy Squire;Dodgy Squire
+Donovan the Family Handyman;Donovan perheen yleismies
+Demon;Demoni
+Derni;Derni
+Dockmaster;Dockmaster
+Doctor Orbon;Tohtori Orbon
+Denadu;Denadu
+Desert Phoenix;Aavikko Phoenix
+Dessourt (hard);Jälkiruoka (kova)
+Deviant spectre;Poikkeava haamu
+Dommik;Dommik
+Doomion;Doomion
+Dragon display;Dragon näyttö
+Driftwood;Ajopuu
+Dromund;Dromund
+Derse Venator;Derse Venator
+Devin Mendelberg;Devin Mendelberg
+Doll;Nukke
+Don't Know What;En tiedä mitä
+Dron;Dron
 Dugopul;Dugopul
+Desert Wolf;Aavikon susi
+Disciple of Iban;Ibanin opetuslapsi
+Doomsayer;Doomsayer
+Doris;Doris
+Drain pipe;Viemäriputki
+Drezel;Drezel
+Drunken Dwarf's Leg;Humalaisen kääpiön jalka
+Despoina Callidra;Despoina Callidra
+Dharok the Wretched;Dharok kurja
+Don;Don
+Draconis Sanguine;Draconis Sanguine
+Drunken Dwarf;humalainen kääpiö
+Dimintheis;Dimintheis
+Disciple of Yama;Yaman opetuslapsi
+Dock worker;Telakkatyöntekijä
+Dog;Koira
+Dondakan the Dwarf;Dondakan kääpiö
+Dragonkin;Dragonkin
+Drunken man;Humalassa mies
+Delrith;Delrith
+Desert Lizard;Aavikkolisko
+Dessous;Dessous
+Dobwinkle;Dobwinkle
+Duck;Ankka
+Ducklings;Ankanpojat
+Derwen;Derwen
+Digsite workman;Digityömies
+Drogo dwarf;Drogo-kääpiö
 Duke;Duke
 Duke Horacio;Herttua Horacio
-Dummy;Nukke
-Dumpy;Pönäkkä
-Dunce;Puupää
-Dung;Lantaa
-Dungeon rat;Dungeon rotta
-Dunstan;Dunstan
 Duradel;Duradel
-Durgok;Durgok
-Dusk;Hämärä
-Dust devil;Pöly paholainen
-Dusty Aliv;Pölyinen Aliv
-Dusuri;Dusuri
-Dwarf;Kääpiö
-Dwarf gang member;Kääpiöjengi jäsen
-Dwarven Boatman;Kääpiö Boatman
-Dwarven Engineer;Kääpiöinsinööri
-Dwarven Ferryman;Dwarven Ferryman
-Dwarven Miner;Dwarven Miner
-Eadburg;Eadburg
-Eadgar;Eadgar
-Eagle;Kotka
 Earth Warrior Champion;Earth Warrior -mestari
-Earth elemental;Maan alkuaine
-Earth impling;Maa vaikuttaa
-Earth warrior;Maan soturi
-Earth wizard;Maan velho
-Earwen;Earwen
-Eblis;Eblis
-Echned Zekin;Echned Zekin
-Eclectic impling;Eklektinen impling
 Ed;Ed
-Ed Wood;Ed Wood
-Edmond;Edmond
-Edrahil;Edrahil
-Eduard;Eduard
-Edward;Edward
-Eebel;Eebel
-Eek;Eek
-Efa;Efa
-Effigy;Effigy
-Egg;Muna
-Egg launcher;Munanheitin
 Einar;Einar
 Eira;Eira
-Ek'ans Chan;Ek'ans Chan
-Ektheme;Ektheme
-Eldalote;Eldalote
-Elder Chaos druid;Vanhin Chaos-druidi
-Elder Gnome child;Vanhin Gnome-lapsi
-Elder Guard;Vanhin vartija
-Elderly Elf;Vanha tonttu
-Eldgrim;Eldgrim
-Elemental balance;Elementaarinen tasapaino
-Elemental rock;Elementaarinen rock
-Elena;Elena
-Elena Hosidius;Elena Hosidius
-Elenwe;Elenwe
 Elf Archer;Elf Archer
-Elf Hermit;Tonttu Erakko
-Elf Tracker;Elf Tracker
-Elf Warrior;Tonttu soturi
-Elfinlocks;Elfinlocks
-Elgan;Elgan
-Elijah;Elijah
-Elisabeta;Elisabeta
-Elise;Elise
-Elissa;Elissa
 Elite Void Knight;Elite Void Knight
-Elizabeth;Elizabeth
-Elkoy;Elkoy
-Elladan;Elladan
-Ellen;Ellen
+Dwarf gang member;Kääpiöjengi jäsen
+Earwen;Earwen
+Edmond;Edmond
+Ektheme;Ektheme
+Elder Gnome child;Vanhin Gnome-lapsi
+Elenwe;Elenwe
 Ellena;Ellena
-Ellie;Ellie
-Ellis;Ellis
-Elly the Camel;Elly kameli
-Elnock Inquisitor;Elnock inkvisiittori
-Elsie;Elsie
-Elstan;Elstan
-Eluned;Eluned
-Elvarg;Elvarg
-Elvarg (hard);Elvarg (kova)
-Elven Scout;Haltioiden Scout
 Embalmer;Palsamointilaite
-Emblem Trader;Tunnuskauppias
 Emerald Benedict;Smaragdi Benedict
+Enchantment Guardian;Enchantment Guardian
+Dung;Lantaa
+Dusuri;Dusuri
+Echned Zekin;Echned Zekin
+Elemental rock;Elementaarinen rock
+Elf Warrior;Tonttu soturi
+Elise;Elise
+Energy focus (green);Energiafokus (vihreä)
+Dust devil;Pöly paholainen
+Eebel;Eebel
+Elkoy;Elkoy
+Ellen;Ellen
+Energy focus (blue);Energiafokus (sininen)
+Dwarven Engineer;Kääpiöinsinööri
+Elf Hermit;Tonttu Erakko
+Elly the Camel;Elly kameli
+Emblem Trader;Tunnuskauppias
+Dungeon rat;Dungeon rotta
+Eek;Eek
+Efa;Efa
+Egg launcher;Munanheitin
+Dummy;Nukke
+Dumpy;Pönäkkä
+Dusty Aliv;Pölyinen Aliv
+Eblis;Eblis
+Elgan;Elgan
+Elizabeth;Elizabeth
+Dunce;Puupää
+Elisabeta;Elisabeta
+Eadburg;Eadburg
+Egg;Muna
+Dunstan;Dunstan
+Ek'ans Chan;Ek'ans Chan
+Enerdhil;Enerdhil
+Dwarven Ferryman;Dwarven Ferryman
+Earth warrior;Maan soturi
+Edrahil;Edrahil
+Elemental balance;Elementaarinen tasapaino
+Elven Scout;Haltioiden Scout
+Enel;Enel
+Earth wizard;Maan velho
+Edward;Edward
+Elderly Elf;Vanha tonttu
+Elstan;Elstan
+Enchanted Bucket;Enchanted Bucket
+Eclectic impling;Eklektinen impling
+Eldalote;Eldalote
+Elder Guard;Vanhin vartija
+Elf Tracker;Elf Tracker
+Elissa;Elissa
+Elvarg;Elvarg
 Emilia;Emilia
-Emily;Emily
+Dwarven Boatman;Kääpiö Boatman
+Dwarven Miner;Dwarven Miner
+Eagle;Kotka
+Elena Hosidius;Elena Hosidius
+Elfinlocks;Elfinlocks
+Elijah;Elijah
+Elladan;Elladan
+Ellis;Ellis
+Elsie;Elsie
+Eluned;Eluned
 Enakhra;Enakhra
 Enchanted Broom;Lumottu luuta
-Enchanted Bucket;Enchanted Bucket
-Enchantment Guardian;Enchantment Guardian
+Durgok;Durgok
+Dwarf;Kääpiö
+Eadgar;Eadgar
+Ed Wood;Ed Wood
+Eduard;Eduard
+Elder Chaos druid;Vanhin Chaos-druidi
+Eldgrim;Eldgrim
+Elena;Elena
+Elvarg (hard);Elvarg (kova)
+Emily;Emily
 Enclave guard;Enklaavin vartija
-Enel;Enel
+Dusk;Hämärä
+Earth elemental;Maan alkuaine
+Earth impling;Maa vaikuttaa
+Effigy;Effigy
+Ellie;Ellie
+Elnock Inquisitor;Elnock inkvisiittori
 Enelye;Enelye
-Enerdhil;Enerdhil
-Energy focus (blue);Energiafokus (sininen)
-Energy focus (green);Energiafokus (vihreä)
-Energy focus (red);Energiafokus (punainen)
-Energy focus (white);Energiafokus (valkoinen)
+Enraged Tektiny;Raivostunut Tektiny
+Entrana firebird;Entrana tulilintu
+Episcula Helsing;Episcula Helsing
+Eric;Eric
+Ewesey;Ewesey
+Fanellaman;Fanellaman
+Farmer Fromund;Maanviljelijä Fromund
+Ernest;Ernest
+Ethereal Numerator;Eteerinen osoittaja
+Executioner;Pyöveli
+Factory Worker;Tehdastyöläinen
+Fairy chef;Keiju kokki
+Fake Man;Fake Mies
+Fareed (hard);Kävi (kova)
+Fear reaper;Pelkää viikatemies
+Ent;Ent
+Eoin;Eoin
+Erestor;Erestor
+Ethereal Mimic;Eteerinen jäljitelmä
+Evil Bob;Paha Bob
+Experiment;Kokeilu
+Fairy;Keiju
+Fallen Man;Langennut Mies
+Farid Morrisane (ores and bars);Farid Morrisane (malmit ja patukat)
+Father Aereck;Isä Aereck
+Felkrash;Felkrash
 Energy sprite;Energia sprite
-Engineer;Insinööri
+Enraged barbarian spirit;Raivostunut barbaarihenki
+Estate agent;Kiinteistönvälittäjä
+Evil creature;Paha olento
+Farmer's wife;Maanviljelijän vaimo
+Father Lawrence;Isä Lawrence
+Ferd;Ferd
+Enormous Tentacle;Valtava lonkero
+Essyllt;Essyllt
+Ethereal Expert;Eetterinen asiantuntija
+Fat Rocco;Lihava Rocco
+Father Jean;Isä Jean
+Feanor;Feanor
+Fairy Very Wise;Keiju Erittäin Viisas
+Fairy shop assistant;Keiju myyjä
+Fayeth;Fayeth
+Energy focus (red);Energiafokus (punainen)
+Eudav;Eudav
+Father Badden;Isä Badden
+Female slave;Naisorja
 Engineering assistant;Insinööriavustaja
 Enilly;Enilly
-Eniola;Eniola
+Ethereal Guide;Eetterinen opas
+Farolt;Farolt
 Enoch;Enoch
-Enormous Tentacle;Valtava lonkero
-Enraged Tektiny;Raivostunut Tektiny
-Enraged barbarian spirit;Raivostunut barbaarihenki
-Ent;Ent
-Entomologist;Entomologi
-Entrana firebird;Entrana tulilintu
-Entrance Guardian;Sisäänkäynnin valvoja
+Essyllt (hard);Essyllt (kova)
+Esther;Esther
+Ethereal Lady;Eetterinen Lady
+Father Reen;Isä Reen
+Femi;Femi
+Feral Vampyre;Villi vampyyri
+Evil Dave;Paha Dave
+Fadli;Fadli
+Fairy Fixit;Fairy Fixit
+Fenkenstrain's Monster;Fenkenstrainin hirviö
 Eodan;Eodan
 Eohric;Eohric
-Eoin;Eoin
-Episcula Helsing;Episcula Helsing
-Erdan;Erdan
-Erestor;Erestor
-Eric;Eric
 Ermin;Ermin
-Ernest;Ernest
-Erodoeht;Erodoeht
-Escaping slave;Pakene orja
+Fat Tony;Lihava Tony
+Father Eysseric;Isä Eysseric
+Father Urhney;Isä Urhney
+Entrance Guardian;Sisäänkäynnin valvoja
 Essence impling;Essence Impling
-Essyllt;Essyllt
-Essyllt (hard);Essyllt (kova)
-Estate agent;Kiinteistönvälittäjä
-Esther;Esther
-Ethereal Expert;Eetterinen asiantuntija
-Ethereal Fluke;Eteerinen Fluke
-Ethereal Guide;Eetterinen opas
-Ethereal Lady;Eetterinen Lady
-Ethereal Man;Eetterinen Mies
-Ethereal Mimic;Eteerinen jäljitelmä
-Ethereal Numerator;Eteerinen osoittaja
-Ethereal Perceptive;Eteerinen Perceptive
-Eudav;Eudav
-Eve;Eeva
-Evil Bob;Paha Bob
-Evil Chicken;Paha kana
 Evil Chicken (hard);Evil Chicken (kova)
-Evil Dave;Paha Dave
-Evil creature;Paha olento
-Evil spirit;Paha henki
-Ewesey;Ewesey
-Examiner;Tarkastaja
-Executioner;Pyöveli
-Experiment;Kokeilu
-Experiment No.2;Koe nro 2
-Ezekial Lovecraft;Ezekial Lovecraft
-Factory Manager;Tehdaspäällikkö
-Factory Worker;Tehdastyöläinen
-Fadli;Fadli
-Fairy;Keiju
 Fairy Aeryka;Keiju Aeryka
-Fairy Fixit;Fairy Fixit
-Fairy Godfather;Keiju Kummisetä
-Fairy Nuff;Fairy Nuff
-Fairy Queen;Keiju kuningatar
-Fairy Very Wise;Keiju Erittäin Viisas
-Fairy chef;Keiju kokki
-Fairy shop assistant;Keiju myyjä
-Fairy shop keeper;Keijukaupan pitäjä
-Fake Man;Fake Mies
-Fallen Man;Langennut Mies
 Falo the Bard;Falo Bard
 Fancy Dan;Ihana Dan
-Fanellaman;Fanellaman
-Fareed;Fareed
-Fareed (hard);Kävi (kova)
-Farid Morrisane (ores and bars);Farid Morrisane (malmit ja patukat)
-Farmer;Maanviljelijä
 Farmer Brumty;Maanviljelijä Brumty
-Farmer Fromund;Maanviljelijä Fromund
-Farmer Gricoller;Maanviljelijä Gricoller
-Farmer Hayfield;Maanviljelijä Hayfield
-Farmer's wife;Maanviljelijän vaimo
-Farolt;Farolt
-Fat Rocco;Lihava Rocco
-Fat Tony;Lihava Tony
-Father Aereck;Isä Aereck
-Father Badden;Isä Badden
-Father Eysseric;Isä Eysseric
-Father Jean;Isä Jean
-Father Lawrence;Isä Lawrence
-Father Reen;Isä Reen
-Father Urhney;Isä Urhney
-Fayeth;Fayeth
-Feanor;Feanor
-Fear reaper;Pelkää viikatemies
 Felfiz Yaryus;Felfiz Yaryus
-Felkrash;Felkrash
-Female slave;Naisorja
-Femi;Femi
-Fenkenstrain's Monster;Fenkenstrainin hirviö
-Feral Vampyre;Villi vampyyri
-Ferd;Ferd
-Fernahei;Fernahei
-Ferocious barbarian spirit;Raivoisa barbaarihenki
-Ferox;Ferox
-Ferret;Fretti
-Ferryman Nathwood;Lauttamies Nathwood
-Ferryman Sathwood;Lauttamies Sathwood
-Fever spider;Kuume hämähäkki
-Ffoni;Ffoni
-Fidelio;Fidelio
-Fightslave;Fightslave
-Filamina;Filamiini
-Filliman Tarlock;Filliman Tarlock
+Eniola;Eniola
+Escaping slave;Pakene orja
+Evil spirit;Paha henki
+Fairy Godfather;Keiju Kummisetä
+Fareed;Fareed
+Farmer;Maanviljelijä
+Farmer Hayfield;Maanviljelijä Hayfield
+Engineer;Insinööri
+Erdan;Erdan
+Ethereal Fluke;Eteerinen Fluke
+Ethereal Man;Eetterinen Mies
+Factory Manager;Tehdaspäällikkö
+Farmer Gricoller;Maanviljelijä Gricoller
+Energy focus (white);Energiafokus (valkoinen)
+Erodoeht;Erodoeht
+Ethereal Perceptive;Eteerinen Perceptive
+Eve;Eeva
+Examiner;Tarkastaja
+Experiment No.2;Koe nro 2
+Ezekial Lovecraft;Ezekial Lovecraft
+Fairy Nuff;Fairy Nuff
+Fairy Queen;Keiju kuningatar
+Fairy shop keeper;Keijukaupan pitäjä
+Entomologist;Entomologi
+Evil Chicken;Paha kana
+First Mate Deri;Ensimmäinen perämies Deri
+Flosi Dalksson;Flosi Dalksson
+Fremennik Warrior;Fremennik Warrior
+Freygerd;Freygerd
+Flax keeper;Pellavanvartija
+Flying Vespina;Lentävä Vespina
+Froono;Froono
+Fishbowl;Fishbowl
+Fisherman Frodi;Kalastaja Frodi
+Flambeed;Flambeed
+Flower;Kukka
 Financial Seer;Talousnäkijä
+Fishmonger;Kalakauppias
+Flockleader Geerin;Parvenjohtaja Geerin
+Frank;Frank
+Fridgeir;Jääkaappi
+Frog princess;Sammakkoprinsessa
 Financial Wizard;Finanssinero
 Finarfin;Finarfin
-Findis;Findis
-Finduilas;Finduilas
-Fingolfin;Fingolfiini
-Fingon;Fingon
-Finn;suomalainen
-Fionella;Fionella
-Fior;Fior
-Fire Warrior of Lesarkus;Lesarkuksen tulisoturi
-Fire elemental;Tuli elementaali
-Fire giant;Tuli jättiläinen
-Fire wizard;Palovelho
-First Mate Deri;Ensimmäinen perämies Deri
-First Mate Peri;Ensimmäinen perämies Peri
-First mate 'Davey-boy';Esikaveri "Davey-boy"
-Fish;Kalastaa
-Fish monger;Kalakauppias
-Fish shoal;Kalaparvi
-Fishbowl;Fishbowl
-Fisherman;Kalastaja
-Fisherman Frodi;Kalastaja Frodi
-Fishing spot;Kalastuspaikka
-Fishing tutor;Kalastuksen ohjaaja
-Fishmonger;Kalakauppias
-Fiyr Shade;Fiyr Shade
-Fiyr Shadow;Fiyr Shadow
-Flambeed;Flambeed
 Flambeed (hard);Flambeed (kova)
-Flaming pyrelord;Lievä pyrelordi
-Flawed Golem;Virheellinen Golem
-Flax keeper;Pellavanvartija
-Flaygian Screwte;Flaygian Screwte
 Flesh Crawler;Flesh Crawler
-Flies;Kärpäsiä
-Flight Kilisa;Lento Kilisa
-Flippa;Flippa
-Flockleader Geerin;Parvenjohtaja Geerin
-Floki;Floki
-Florin;Florin
-Flosi Dalksson;Flosi Dalksson
-Flower;Kukka
-Flower Girl;Kukkatyttö
-Fly trap;Kärpäsloukku
 Flying Book;Lentävä kirja
-Flying Vespina;Lentävä Vespina
-Flying female vampire;Lentävä naisvampyyri
-Flynn;Flynn
 Foreman;Työnjohtaja
+Freaky Forester;Hullu metsänhoitaja
+Frog prince;Sammakkoprinssi
+Fungi;Sienet
+Ferox;Ferox
+Fightslave;Fightslave
+Findis;Findis
+Fiyr Shade;Fiyr Shade
+Flaygian Screwte;Flaygian Screwte
 Forester;Metsänhoitaja
 Forester (hard);Metsänhoitaja (kova)
-Forgotten Soul;Unohtunut sielu
-Former Vampyre;Entinen vampyyri
-Fornek quo Maten;Fornek quo Maten
 Fortress Guard;Linnoituksen vartija
-Fortunato;Fortunato
-Fossegrimen;Fossegrimen
-Fossil Collector;Fossiilien keräilijä
-Fossil Rock;Fossiilinen kivi
-Fox;Kettu
 Fragment of Seren;Fragmentti Serenistä
 Francis;Francis
-Francois;Francois
-Frank;Frank
+Frincos;Frincos
+Fever spider;Kuume hämähäkki
+Fionella;Fionella
+First mate 'Davey-boy';Esikaveri "Davey-boy"
+Fishing tutor;Kalastuksen ohjaaja
+Fortunato;Fortunato
 Frankie;Frankie
+Frog;Sammakko
+Fuggy;Tunkkainen
+Fidelio;Fidelio
+Fingon;Fingon
+Fly trap;Kärpäsloukku
+Fridleif Shieldson;Fridleif Shieldson
+Fingolfin;Fingolfiini
+Fire Warrior of Lesarkus;Lesarkuksen tulisoturi
+Fire elemental;Tuli elementaali
+Fossil Rock;Fossiilinen kivi
+Fior;Fior
+Florin;Florin
+Flynn;Flynn
+Fritz the Glassblower;Fritz lasinpuhallin
+Ferryman Sathwood;Lauttamies Sathwood
+Fishing spot;Kalastuspaikka
+Flawed Golem;Virheellinen Golem
+Floki;Floki
+Fornek quo Maten;Fornek quo Maten
 Franklin Caranos;Franklin Caranos
-Freaky Forester;Hullu metsänhoitaja
+Frenita;Frenita
+Finn;suomalainen
+Fisherman;Kalastaja
+Flippa;Flippa
+Fox;Kettu
+Frizzy Skernip;Pörröinen Skernip
+Frogeel;Frogeel
+Ferryman Nathwood;Lauttamies Nathwood
+Freja;Freja
+Ferocious barbarian spirit;Raivoisa barbaarihenki
+Ffoni;Ffoni
+Filamina;Filamiini
+Fire giant;Tuli jättiläinen
+Fish;Kalastaa
+Fish monger;Kalakauppias
+Flight Kilisa;Lento Kilisa
+Flower Girl;Kukkatyttö
+Flying female vampire;Lentävä naisvampyyri
+Forgotten Soul;Unohtunut sielu
+Fullangr;Fullangr
+Ferret;Fretti
+Finduilas;Finduilas
+Fire wizard;Palovelho
+First Mate Peri;Ensimmäinen perämies Peri
+Fish shoal;Kalaparvi
+Fiyr Shadow;Fiyr Shadow
+Flaming pyrelord;Lievä pyrelordi
+Francois;Francois
+Freidir;Freidir
+Fernahei;Fernahei
+Filliman Tarlock;Filliman Tarlock
+Flies;Kärpäsiä
+Former Vampyre;Entinen vampyyri
+Fossegrimen;Fossegrimen
+Fossil Collector;Fossiilien keräilijä
 Freald;Freald
 Fred the Farmer;Fred maanviljelijä
-Freidir;Freidir
-Freja;Freja
-Fremennik Warrior;Fremennik Warrior
-Frenita;Frenita
-Freygerd;Freygerd
-Fridgeir;Jääkaappi
-Fridleif Shieldson;Fridleif Shieldson
-Frincos;Frincos
-Fritz the Glassblower;Fritz lasinpuhallin
-Frizzy Skernip;Pörröinen Skernip
-Frog;Sammakko
-Frog prince;Sammakkoprinssi
-Frog princess;Sammakkoprinsessa
-Frogeel;Frogeel
-Froono;Froono
-Fuggy;Tunkkainen
-Fullangr;Fullangr
-Fungi;Sienet
 Fur trader;Turkiskauppias
-Furnace grate;Uunin arina
-Fycie;Fycie
 Fyiona Fray (easy);Fiiona Fray (helppo)
-G.L.O. Caranock;G.L.O. Caranock
-GPDT employee;GPDT työntekijä
-Gabooty;Gabooty
-Gabriela;Gabriela
-Gadderanks;Gadderankit
-Gadrin;Gadrin
-Gaius;Gaius
-Galahad;Galahad
-Galana;Galana
-Galathil;Galathil
-Galina;Galina
-Gallow;Gallow
-Galvek;Galvek
-Gamer;Pelaaja
-Gamfred;Gamfred
-Gang boss;Ryhmän pomo
-Gangster;Gangsteri
 Garai;Garai
-Garbek quo Maten;Garbek quo Maten
-Garden supplier;Puutarhan toimittaja
-Gardener;Puutarhuri
-Gardener Ghost;Puutarhuri Ghost
-Gardener Gunnhild;Puutarhuri Gunnhild
-Gardener Jay Jr.;Puutarhuri Jay Jr.
-Gargh;Gargh
-Gargoyle;Irvikuva
-Garkor;Garkor
-Garl;Garl
-Garth;Garth
-Garv;Garv
-Gate of War;Sodan portti
-Gatekeeper;Portinvartija
-Gauss;Gauss
-Gee;Jep
-Gelatinnoth Mother;Gelatinnoth äiti
-Gelatinnoth Mother (hard);Gelatinnoth Mother (kova)
-Gelin;Gelin
-Gelmir;Gelmir
-Gem;Helmi
-Gem merchant;Jalokivikauppias
-Gem trader;Jalokivikauppias
-Gene;Gene
-General Babacus;Kenraali Babacus
-General Bentnoze;Kenraali Bentnoze
-General Graardor;Kenraali Graardor
-General Graardor Jr.;Kenraali Graardor Jr.
-General Hining;Kenraali Hining
-General Khazard;Kenraali Khazard
-General Kilian;Kenraali Kilian
 General Salara;Kenraali Salara
-General Vir;Kenraali Vir
-General Wartface;Yleinen Wartface
-Generic Diplomat;Yleinen diplomaatti
-Genie;Genie
-George Laxmeister;George Laxmeister
-Georgy;Georgiy
+Giant Roc;Jättiläinen Roc
+Giant lobster;Jättiläinen hummeri
+Garden supplier;Puutarhan toimittaja
 Gerald;Gerald
-Gerrant;Gerrant
-Gertrude;Gertrude
-Gertrude's cat;Gertruden kissa
-Gethin;Gethin
-Ghaslor the Elder;Ghaslor vanhin
-Ghast;Ghast
-Ghommal;Ghommal
-Ghost;Aave
-Ghost (?);Aave (?)
-Ghost banker;Kummituspankkiiri
-Ghost captain;Kummituskapteeni
-Ghost disciple;Aave opetuslapsi
-Ghost farmer;Haamuviljelijä
 Ghost guard;Kummitusvartija
-Ghost innkeeper;Ghost majatalon pitäjä
+Giant Lobster;Jättiläinen hummeri
+GPDT employee;GPDT työntekijä
+Georgy;Georgiy
+Ghost;Aave
+Galvek;Galvek
+Gardener Ghost;Puutarhuri Ghost
+Gem merchant;Jalokivikauppias
+Ghost captain;Kummituskapteeni
 Ghost sailor;Ghost merimies
-Ghost shopkeeper;Haamukauppias
-Ghost villager;Kummituskyläläinen
 Ghoul;Ghoul
 Ghoul Champion;Ghoul-mestari
 Gianne jnr.;Gianne jnr.
-Giant;Jättiläinen
-Giant Champion;Jättiläinen mestari
-Giant Lobster;Jättiläinen hummeri
-Giant Mole;Jättiläinen myyrä
-Giant Roc;Jättiläinen Roc
-Giant Roc (hard);Giant Roc (kova)
+Fycie;Fycie
+Gelatinnoth Mother (hard);Gelatinnoth Mother (kova)
+Galathil;Galathil
+Gallow;Gallow
+Gang boss;Ryhmän pomo
+Gangster;Gangsteri
+Gardener Gunnhild;Puutarhuri Gunnhild
+Gene;Gene
+Generic Diplomat;Yleinen diplomaatti
+Gerrant;Gerrant
+Gertrude;Gertrude
+Gethin;Gethin
+Ghost farmer;Haamuviljelijä
 Giant Rock Crab;Jättiläinen kalliorapu
-Giant Sea Snake;Jättiläinen merikäärme
-Giant Squirrel;Jättiläinen orava
-Giant bat;Jättiläinen lepakko
+Gelmir;Gelmir
+General Hining;Kenraali Hining
+Galana;Galana
+Gamer;Pelaaja
+Garkor;Garkor
+Gate of War;Sodan portti
+General Bentnoze;Kenraali Bentnoze
+Giant rockslug;Jättiläinen kivietana
+G.L.O. Caranock;G.L.O. Caranock
+Gamfred;Gamfred
+Gargh;Gargh
+Garv;Garv
+Gem trader;Jalokivikauppias
+George Laxmeister;George Laxmeister
+Ghommal;Ghommal
+Ghost banker;Kummituspankkiiri
+Giant rat;Jättiläinen rotta
+Gabooty;Gabooty
+Gadrin;Gadrin
+Galina;Galina
+Garbek quo Maten;Garbek quo Maten
+Garl;Garl
+Giant Champion;Jättiläinen mestari
 Giant crypt rat;Jättiläinen kryptorta
+Giant mosquito;Jättiläinen hyttynen
+Gardener Jay Jr.;Puutarhuri Jay Jr.
+Gelatinnoth Mother;Gelatinnoth äiti
+Gem;Helmi
+General Kilian;Kenraali Kilian
+Giant scarab;Jättiläinen skarabeus
+Gauss;Gauss
+Gertrude's cat;Gertruden kissa
+Ghaslor the Elder;Ghaslor vanhin
+Ghast;Ghast
+Giant;Jättiläinen
+Giant Squirrel;Jättiläinen orava
+Gabriela;Gabriela
+Gardener;Puutarhuri
+General Babacus;Kenraali Babacus
+General Wartface;Yleinen Wartface
+Ghost shopkeeper;Haamukauppias
+Giant Sea Snake;Jättiläinen merikäärme
+Gaius;Gaius
+Garth;Garth
+Gelin;Gelin
+General Graardor;Kenraali Graardor
+Giant bat;Jättiläinen lepakko
 Giant crypt spider;Jättiläinen kryptahämähäkki
 Giant frog;Jättiläinen sammakko
-Giant lobster;Jättiläinen hummeri
-Giant mosquito;Jättiläinen hyttynen
-Giant rat;Jättiläinen rotta
-Giant rockslug;Jättiläinen kivietana
-Giant scarab;Jättiläinen skarabeus
-Giant scarab (hard);Jättiläinen skarabe (kova)
-Giant skeleton;Jättiläinen luuranko
-Giant snail;Jättiläinen etana
-Giant spider;Jättiläinen hämähäkki
-Gielinor Guide;Gielinor opas
-Giles;Giles
-Gileth;Gileth
-Gillie Groats;Gillie Groats
-Giral bat;Tyttö lepakko
+Gadderanks;Gadderankit
+Galahad;Galahad
+Gargoyle;Irvikuva
+Gee;Jep
+Genie;Genie
+Ghost (?);Aave (?)
+Ghost villager;Kummituskyläläinen
+Giant Mole;Jättiläinen myyrä
+Furnace grate;Uunin arina
+Gatekeeper;Portinvartija
+General Graardor Jr.;Kenraali Graardor Jr.
+General Khazard;Kenraali Khazard
+General Vir;Kenraali Vir
+Ghost disciple;Aave opetuslapsi
+Ghost innkeeper;Ghost majatalon pitäjä
+Giant Roc (hard);Giant Roc (kova)
 Gita Prymes;Gita Prymes
-Gladiator;Gladiaattori
-Glenda;Glenda
-Glod;Glod
-Glod (hard);Glod (kova)
-Glorfindel;Glorfindel
-Glough;Glough
-Glouphrie the Untrusted;Glouphrie epäluotettava
-Gnocci the Cook;Gnocci kokki
-Gnome;Gnome
-Gnome Archer;Gnome Archer
-Gnome Coach;Gnome valmentaja
-Gnome Driver;Gnome ohjain
-Gnome Mage;Gnome Mage
-Gnome Waiter;Gnome tarjoilija
-Gnome ball referee;Gnome-pallotuomari
-Gnome baller;Gnome baller
-Gnome banker;Gnome pankkiiri
-Gnome child;Gnome lapsi
-Gnome companion;Gnome kumppani
-Gnome emissary;Gnome lähettiläs
-Gnome guard;Gnome vartija
-Gnome shop keeper;Gnome-kauppias
-Gnome soldier;Gnome sotilas
-Gnome trainer;Gnome kouluttaja
 Gnome traveller;Gnome matkustaja
-Gnome troop;Gnome-joukko
 Gnome winger;Gnome-laitahyökkääjä
 Gnome woman;Gnome nainen
-Gnormadium Avlafrim;Gnormadium Avlafrim
-Gnosi;Gnosi
-Goat;Vuohi
-Goat Poo;Vuohen kakka
-Goblin;Goblin
-Goblin Champion;Goblin-mestari
-Goblin Cook;Goblin Cook
-Goblin fish;Goblin kala
-Goblin guard;Goblin vartija
-Goblin scribe;Goblin kirjuri
-Godric;Godric
-Gold ore;Kultamalmi
-Golden sheep;Kultainen lammas
-Golden warbler;Kultainen koura
-Golem;Golem
-Golova;Golova
-Golrie;Golrie
-Gorad;Gorad
-Gorak;Gorak
-Gordon;Gordon
-Goreu;Goreu
-Gorhak quo Narga;Gorhak quo Narga
-Gorilla;Gorilla
-Gossip;Juoruja
-Gourmet;Gourmet
-Gourmet impling;Gourmet impling
-Grace;Armo
-Grail Maiden;Graal Maiden
-Grand Exchange Clerk;Suuri vaihtovirkailija
-Grandpa Jack;Isoisä Jack
-Grave;Hauta
-Grave digger;Haudankaivaja
-Grave scorpion;Hauta skorpioni
-Graveyard Guardian;Hautausmaan vartija
-Gravingas;Gravingas
 Greasycheeks;Rasvaiset posket
-Great Olm;Suuri Olm
-Great Olm (Left claw);Great Olm (vasen kynsi)
-Great Olm (Right claw);Great Olm (oikea kynsi)
-Great blue heron;Suuri sininen haikara
 Greater Nechryael;Suur-Nechryael
-Greater Skeleton Hellhound;Suurluuranko Hellhound
-Greater abyssal demon;Suurempi kuiludemoni
-Greater demon;Suurempi demoni
-Greater ghostly thrall;Suurempi aavemainen jännitys
 Greater skeletal thrall;Suurempi luuranko
+Gnome trainer;Gnome kouluttaja
 Greater zombified thrall;Suurempi zombisoitunut jännitys
-Green Gemstone Director;Green Gemstone johtaja
-Green Gemstone Secretary;Vihreän jalokiven sihteeri
-Green Sheep;Vihreä lammas
-Green dragon;Vihreä lohikäärme
-Green fireflies;Vihreät tulikärpäset
-Greengrocer;Vihanneskauppias
-Greldo;Greldo
-Grew;Kasvoi
-Grey golem;Harmaa golem
-Grigor Rasputin;Grigor Rasputin
-Grigore;Grigore
-Grimesquit;Grimesquit
 Grimgnash;Grimgnash
 Grinka Krast;Grinka Krast
+Gillie Groats;Gillie Groats
+Gnocci the Cook;Gnocci kokki
+Gnome Driver;Gnome ohjain
+Gnome baller;Gnome baller
+Goblin fish;Goblin kala
+Gourmet;Gourmet
+Green Gemstone Director;Green Gemstone johtaja
+Grigore;Grigore
+Giant scarab (hard);Jättiläinen skarabe (kova)
+Gnome child;Gnome lapsi
+Gnome companion;Gnome kumppani
+Gnome soldier;Gnome sotilas
+Goblin guard;Goblin vartija
+Gorak;Gorak
+Gourmet impling;Gourmet impling
+Grey golem;Harmaa golem
+Gnome Waiter;Gnome tarjoilija
+Gnome guard;Gnome vartija
+Goblin;Goblin
+Grave scorpion;Hauta skorpioni
+Greater ghostly thrall;Suurempi aavemainen jännitys
+Giant snail;Jättiläinen etana
+Glorfindel;Glorfindel
+Gnome shop keeper;Gnome-kauppias
+Gnosi;Gnosi
+Grand Exchange Clerk;Suuri vaihtovirkailija
+Grandpa Jack;Isoisä Jack
+Great blue heron;Suuri sininen haikara
+Greengrocer;Vihanneskauppias
+Giant spider;Jättiläinen hämähäkki
+Glough;Glough
+Goat Poo;Vuohen kakka
+Goblin Champion;Goblin-mestari
+Golrie;Golrie
+Gorad;Gorad
+Gorilla;Gorilla
+Green Gemstone Secretary;Vihreän jalokiven sihteeri
+Gnome emissary;Gnome lähettiläs
+Gnome troop;Gnome-joukko
+Gnormadium Avlafrim;Gnormadium Avlafrim
+Grace;Armo
+Grave;Hauta
+Gravingas;Gravingas
+Greater abyssal demon;Suurempi kuiludemoni
+Green dragon;Vihreä lohikäärme
+Grigor Rasputin;Grigor Rasputin
+Grimesquit;Grimesquit
+Giant skeleton;Jättiläinen luuranko
+Gnome banker;Gnome pankkiiri
+Golden sheep;Kultainen lammas
+Great Olm (Left claw);Great Olm (vasen kynsi)
+Gladiator;Gladiaattori
+Glod;Glod
+Graveyard Guardian;Hautausmaan vartija
+Green fireflies;Vihreät tulikärpäset
+Gileth;Gileth
+Glenda;Glenda
+Golem;Golem
+Grave digger;Haudankaivaja
+Greater demon;Suurempi demoni
+Greldo;Greldo
+Grew;Kasvoi
 Grip;Pito
-Grish;Grish
-Grizzly bear;Harmaakarhu
+Giral bat;Tyttö lepakko
+Gnome Mage;Gnome Mage
+Goblin Cook;Goblin Cook
+Goblin scribe;Goblin kirjuri
+Golova;Golova
+Gordon;Gordon
+Giles;Giles
+Goat;Vuohi
+Gold ore;Kultamalmi
+Gossip;Juoruja
+Greater Skeleton Hellhound;Suurluuranko Hellhound
+Green Sheep;Vihreä lammas
+Gielinor Guide;Gielinor opas
+Glod (hard);Glod (kova)
+Gnome;Gnome
+Godric;Godric
+Grail Maiden;Graal Maiden
+Great Olm;Suuri Olm
+Golden warbler;Kultainen koura
+Goreu;Goreu
+Glouphrie the Untrusted;Glouphrie epäluotettava
+Gnome Archer;Gnome Archer
+Gnome Coach;Gnome valmentaja
+Gnome ball referee;Gnome-pallotuomari
+Gorhak quo Narga;Gorhak quo Narga
+Great Olm (Right claw);Great Olm (oikea kynsi)
 Grizzly bear cub;Grizzly-karhunpentu
-Growler;Growler
-Growthling;Kasvava
-Grubfoot;Grubfoot
-Grubor;Grubor
-Gruff McScruff;Gruff McScruff
-Grug;Grug
-Gruh;Gruh
-Grum;Grum
-Grundt;Grundt
-Gruva Patrull;Gruva Patrull
-Guanic bat;Guaanilepakko
-Guard;Vartija
-Guard Bandit;Vartija Bandit
-Guard Captain;Vartijan kapteeni
-Guard Recruiter;Vartijan rekrytoija
-Guard Vemmeldo;Vartija Vemmeldo
-Guard dog;Vartiokoira
-Guardian Drake;Guardian Drake
-Guardian mummy;Suojelijamuumio
-Guardian of Armadyl;Armadylin vartija
-Guidor;Guidor
-Guildmaster;Kiltamestari
-Guildmaster Jane;Kiltamestari Jane
-Guildmaster Lars;Kiltamestari Lars
-Guilin;Guilin
-Guinevere;Guinevere
-Gujuo;Gujuo
-Gull;Lokki
-Gulldamar;Gulldamar
-Gulluck;Gulluck
-Gundai;Gundai
-Gundik;Gundik
-Gunnar Holdstrom;Gunnar Holdström
-Gunnjorn;Gunnjorn
-Gunslik;Gunslik
-Gunthor the brave;Gunthor rohkea
-Guthan the Infested;Guthanin saastuttamat
 Gwallter;Gwallter
 Gwerin Hapus;Gwerin Hapus
-Gwindor;Gwindor
-Gwyl;Gwyl
-Gwyn;Gwyn
-Gypsy;Mustalainen
-Gypsy Aris;Gypsy Aris
+Hafuba;Hafuba
+Head Mourner;Pääsuri
+Gruva Patrull;Gruva Patrull
 Gyr Falcon;Gyr Falcon
-H.A.M. Archer;KINKKU. Jousimies
+Haemas Lamescus;Haemas Lamescus
+Hallak;Hallak
+Harold Evans;Harold Evans
+Harry;Harry
+Head;Pää
+Guard Bandit;Vartija Bandit
+Gunthor the brave;Gunthor rohkea
+Hamab;Hamab
+Hammerspike Stoutbeard;Hammerspike Stoutbeard
+Growler;Growler
+Gruh;Gruh
+Hairdresser;Kampaaja
+Haldor quo Keran;Haldor quo Keran
+Head Thief;Päävaras
+Gruff McScruff;Gruff McScruff
+Gunnar Holdstrom;Gunnar Holdström
+Harrallak Menarous;Harrallak Menarous
+Growthling;Kasvava
 H.A.M. Deacon;KINKKU. Diakoni
+Half-Zombie;Puoli-zombi
+Hameln the Jester;Hameln narri
+Haming;Haming
+Harpert;Harpert
+Haze;Haze
+Grug;Grug
+Gulldamar;Gulldamar
+Gundai;Gundai
+Gunnjorn;Gunnjorn
 H.A.M. Guard;KINKKU. Vartija
 H.A.M. Mage;KINKKU. Mage
 H.A.M. Member;KINKKU. Jäsen
-HAM member;HAM:n jäsen
-HRH Hrafn;HRH Hrafn
-Habibah;Habibah
-Hadley;Hadley
-Haemas Lamescus;Haemas Lamescus
-Haera;Haera
-Hafuba;Hafuba
-Hairdresser;Kampaaja
-Hajedy;Hajedy
-Haldor quo Keran;Haldor quo Keran
-Half-Zombie;Puoli-zombi
-Half-soulless;Puolisieluton
-Halla;Halla
-Hallak;Hallak
-Hamab;Hamab
-Hamal the Chieftain;Hamal päällikkö
-Hameln the Jester;Hameln narri
-Hamid;Hamid
-Haming;Haming
-Hammerspike Stoutbeard;Hammerspike Stoutbeard
-Hanchen the Hound;Hanchen koira
-Hangman game;Hangman peli
-Hans;Hans
-Hari;Hari
-Haris;Haris
-Harold;Harold
-Harold Evans;Harold Evans
-Harpert;Harpert
-Harpie Bug Swarm;Harpie Bug Swarm
-Harrallak Menarous;Harrallak Menarous
-Harry;Harry
 Haskell;Haskell
-Hassan;Hassan
-Hatius Cosaintus;Hatius Cosaintus
-Haze;Haze
-Hazeel;Hazeel
-Hazeel Cultist;Hazeel-kultisti
-Hazelmere;Hazelmere
-Head;Pää
-Head Guard;Pääsuoja
-Head Mourner;Pääsuri
-Head Thief;Päävaras
-Head chef;Pääkokki
 Headless Beast;Päätön peto
 Headless Beast (hard);Päätön peto (kova)
+Grizzly bear;Harmaakarhu
+Gwindor;Gwindor
+Halla;Halla
+Hazelmere;Hazelmere
+Guard Recruiter;Vartijan rekrytoija
+Guildmaster Lars;Kiltamestari Lars
+Gujuo;Gujuo
+Haera;Haera
+Hari;Hari
+Grubfoot;Grubfoot
+Guard Vemmeldo;Vartija Vemmeldo
+Guardian mummy;Suojelijamuumio
+Guidor;Guidor
+Gypsy;Mustalainen
+Hangman game;Hangman peli
+Hassan;Hassan
+Grubor;Grubor
+Guildmaster;Kiltamestari
+Gwyn;Gwyn
+H.A.M. Archer;KINKKU. Jousimies
+Harold;Harold
+Harpie Bug Swarm;Harpie Bug Swarm
+Hazeel Cultist;Hazeel-kultisti
+Grish;Grish
+Grum;Grum
+Guanic bat;Guaanilepakko
+Guardian Drake;Guardian Drake
+Guildmaster Jane;Kiltamestari Jane
+Gulluck;Gulluck
+Gundik;Gundik
+Habibah;Habibah
+Hamal the Chieftain;Hamal päällikkö
+Hanchen the Hound;Hanchen koira
+Grunsh;Grunsh
+Guilin;Guilin
+Guthan the Infested;Guthanin saastuttamat
+HAM member;HAM:n jäsen
+Grundt;Grundt
+Gull;Lokki
+Gypsy Aris;Gypsy Aris
+Hamid;Hamid
+Hans;Hans
+Guard;Vartija
+Guard dog;Vartiokoira
+Guinevere;Guinevere
+Gunslik;Gunslik
+Gwyl;Gwyl
+HRH Hrafn;HRH Hrafn
+Hajedy;Hajedy
+Half-soulless;Puolisieluton
+Hazeel;Hazeel
+Head Guard;Pääsuoja
+Head chef;Pääkokki
+Guard Captain;Vartijan kapteeni
+Guardian of Armadyl;Armadylin vartija
+Hadley;Hadley
+Haris;Haris
+Hatius Cosaintus;Hatius Cosaintus
 Healthorg and tortoise;Terveysorg ja kilpikonna
-Heckel Funch;Heckel Funch
-Hegir;Hegir
-Helemos;Helemos
-Helena;Helena
-Helga;Helga
 Hell-Rat;Helvetin rotta
-Hell-kitten;Helvetin kissanpentu
-Hellcat;Hellcat
-Hellhound;Helvettikoira
-Hellpuppy;Helppuppy
-Hendor;Hendor
-Hengel;Hengel
-Hengrad;Hengrad
-Henja;Henja
-Henryeta Carnillean;Henryeta Carnillean
 Herbi;Herbi
-Herbiboar;Herbiboar
-Herman Caranos;Herman Caranos
-Hero;Sankari
-Heron;Harmaahaikara
-Herquin;Herquin
 Hervi;Hervi
-Heskel;Heskel
-Hespori;Hespori
-Het;Het
-Hetty;Hetty
-Hewey;Hei hei
-Hickton;Hickton
-Hieve;Hieve
-High Priest;Ylimmäinen pappi
 High Priestess Zul-Harcinqa;Ylipappitar Zul-Harcinqa
-Highwayman;Moottoritiemies
-Hild;Hild
-Hill Giant;Hill Giant
-Hirko;Hirko
-Historian Duffy;Historioitsija Duffy
-Historian Minas;Historioitsija Minas
-Hiylik Myna;Hei Myna
-Hobbes;Hobbes
 Hobgoblin;Peikko
-Hobgoblin Champion;Hobgoblin-mestari
-Hofuthand (weapons and armour);Hofuthand (aseet ja panssari)
-Hole in the wall;Reikä seinässä
-Holgart;Holgart
-Holoy;Holoy
-Holthion;Holthion
-Homunculus;Homunculus
-Honest Jimmy;Rehellinen Jimmy
-Honour guard;Kunniavartija
-Hooded Figure;Hupullinen figuuri
-Hooknosed Jack;Koukkukärkinen Jack
-Hoop Snake;Hoop Snake
-Hopeless beast;Toivoton peto
-Hopeless creature;Toivoton olento
-Hopleez;Hopleez
-Hops;Humala
-Horace;Horace
-Horacio;Horacio
-Horned graahk;Sarvimainen graahk
-Horphis;Horphis
-Horvik;Horvik
-Hosa;Hosa
-House;Talo
-Hring Hring;Hring Hring
 Hudo;Hudo
 Hudon;Hudon
-Huge spider;Valtava hämähäkki
-Hugor;Hugor
-Hunding;Hunding
-Hunting expert;Metsästyksen asiantuntija
-Hura;Hura
-Husk;Kuori
-Hydra;Hydra
 Hygd;Hygd
-Ian;Ian
+Ice block;Jääpala
+Ice spider;Jäähämähäkki
+Ice troll grunt;Jääpeikko murisee
+Highwayman;Moottoritiemies
+Icefiend;Icefiend
+Hell-Rat Behemoth;Helvetin rotan Behemoth
+Hellpuppy;Helppuppy
+Hero;Sankari
+Hespori;Hespori
+Hill Giant;Hill Giant
+Hirko;Hirko
+Holgart;Holgart
+Hosa;Hosa
+Hugor;Hugor
+Hunting expert;Metsästyksen asiantuntija
+Helemos;Helemos
+Hetty;Hetty
+Honour guard;Kunniavartija
+Horvik;Horvik
+Hring Hring;Hring Hring
 Iban;Iban
+Ice demon;Jäädemoni
+Hiylik Myna;Hei Myna
+Hoop Snake;Hoop Snake
+Hopleez;Hopleez
+Ice troll;Jäätrolli
+Iestin;Iestin
+Helena;Helena
+High Priest;Ylimmäinen pappi
+Hild;Hild
+Hobbes;Hobbes
+Hell-kitten;Helvetin kissanpentu
+Herman Caranos;Herman Caranos
+Het;Het
+Horace;Horace
+Hydra;Hydra
+Ice warrior;Jääsoturi
+Horphis;Horphis
+Ice troll female;Naaras jääpeikko
+Icthlarin;Icthlarin
+Idris;Idris
+Hendor;Hendor
+Hengel;Hengel
+Holoy;Holoy
+Hooknosed Jack;Koukkukärkinen Jack
+Huge spider;Valtava hämähäkki
+Hunding;Hunding
+Husk;Kuori
+Icicle;Jääpuikko
+Hengrad;Hengrad
+Henryeta Carnillean;Henryeta Carnillean
+Holthion;Holthion
+Ice troll male;Jääpeikko mies
+Ice wolf;Jääsusi
+Helga;Helga
+Hooded Figure;Hupullinen figuuri
+Horacio;Horacio
+Hura;Hura
+Ian;Ian
+Heron;Harmaahaikara
+Hieve;Hieve
 Ice Queen;Jääkuningatar
+Heckel Funch;Heckel Funch
+Hellcat;Hellcat
+Hole in the wall;Reikä seinässä
+Homunculus;Homunculus
+Hopeless creature;Toivoton olento
+Hops;Humala
+Ice troll runt;Jääpeikkojuoksu
+Icelord;Icelord
+Hellhound;Helvettikoira
+Henja;Henja
+Historian Minas;Historioitsija Minas
+Honest Jimmy;Rehellinen Jimmy
 Ice Troll;Jääpeikko
 Ice Troll King;Jääpeikkokuningas
+Heskel;Heskel
+Hickton;Hickton
+Historian Duffy;Historioitsija Duffy
+Hofuthand (weapons and armour);Hofuthand (aseet ja panssari)
+Horned graahk;Sarvimainen graahk
+House;Talo
 Ice Troll King (hard);Jääpeikkokuningas (kova)
-Ice block;Jääpala
-Ice demon;Jäädemoni
 Ice giant;Jääjättiläinen
-Ice spider;Jäähämähäkki
-Ice troll;Jäätrolli
-Ice troll female;Naaras jääpeikko
-Ice troll grunt;Jääpeikko murisee
-Ice troll male;Jääpeikko mies
-Ice troll runt;Jääpeikkojuoksu
-Ice warrior;Jääsoturi
-Ice wolf;Jääsusi
 Iceberg;Jäävuori
-Icefiend;Icefiend
-Icelord;Icelord
-Icicle;Jääpuikko
-Icthlarin;Icthlarin
+Hegir;Hegir
+Herbiboar;Herbiboar
+Herquin;Herquin
+Hewey;Hei hei
+Hobgoblin Champion;Hobgoblin-mestari
+Hopeless beast;Toivoton peto
 Idril;Idril
-Idris;Idris
-Iestin;Iestin
-Ifaba;Ifaba
-Iffie;Iffie
-Ignatius Vulcan;Ignatius Vulcan
-Ignisia;Ignisia
-Ikkle Hydra;Ikkle Hydra
-Ileana;Ileana
-Ilfeen;Ilfeen
 Ima;Ima
-Imerominia;Imerominia
-Imiago;Imiago
-Imin;Imin
-Iminye;Iminye
-Immenizz;Immenizz
-Imp;Imp
-Imp Champion;Imp-mestari
-Imp defender;Imp-puolustaja
 Imre;Imre
-Incapacitated Pyromancer;Toimintakyvytön Pyromancer
-Indis;Indis
-Infernal Mage;Infernal Mage
-Infernal pyrelord;Helvetin pyrelordi
-Information clerk;Tietovirkailija
-Inga;Inga
-Ingrid;Ingrid
-Ingrid Hradson;Ingrid Hradson
-Ingwe;Ingwe
-Ingwion;Ingwion
-Inn Keeper;Inn Keeper
-Innocent-looking key;Viattoman näköinen avain
-Insatiable Bloodveld;Kyltymätön Bloodveld
-Insatiable mutated Bloodveld;Kyltymätön mutatoitunut Bloodveld
-Invrigar the Necromancer;Invrigar the Necromancer
 Iona;Iona
-Iorwerth Archer;Iorwerth Archer
-Iorwerth Warrior;Iorwerth Warrior
-Irena;Irena
-Irene;Irene
-Irina;Irina
-Irksol;Irksol
-Iron Man tutor;Iron Man tutor
-Iron dragon;Rautainen lohikäärme
-Iron ore;Rautamalmi
-Iron pickaxe;Rautahakku
-Irvig Senay;Irvig Senay
-Irwin Feaselbaum;Irwin Feaselbaum
-Ish the Navigator;Ish the Navigator
-Ishmael;Ismael
-Islwyn;Islwyn
-Istoria;Istoria
-Ithoi the Navigator;Ithoi Navigaattori
-Ivan;Ivan
-Ivan Strom;Ivan Strom
-Iwan;Iwan
-Iwazaru;Iwazaru
-Jack;Jack
-Jack Sails;Jack Sails
-Jack Seagull;Jack Lokki
 Jackal;Sakaali
 Jacky Jester;Jacky Jester
-Jade;Jade
-Jadid;Jadid
-Jagbakoba;Jagbakoba
-Jail guard;Vankilan vartija
-Jailer;Vanginvartija
-Jake;Jake
-Jal-Ak;Jal-Ak
-Jal-AkRek-Ket;Jal-AkRek-Ket
-Jal-AkRek-Mej;Jal-AkRek-Mej
-Jal-AkRek-Xil;Jal-AkRek-Xil
 Jal-ImKot;Jal-ImKot
-Jal-MejJak;Jal-MejJak
-Jal-MejRah;Jal-MejRah
 Jal-Nib;Jal-Nib
-Jal-Nib-Rek;Jal-Nib-Rek
-Jal-Xil;Jal-Xil
-Jal-Zek;Jal-Zek
-JalRek-Jad;JalRek-Jad
+Jethick;Jethick
+Information clerk;Tietovirkailija
+Ingwion;Ingwion
+Iron Man tutor;Iron Man tutor
+Jagbakoba;Jagbakoba
+Jake;Jake
+Jal-MejRah;Jal-MejRah
+Ileana;Ileana
+Insatiable mutated Bloodveld;Kyltymätön mutatoitunut Bloodveld
+Irina;Irina
 JalTok-Jad;JalTok-Jad
-James;James
+Inn Keeper;Inn Keeper
+Invrigar the Necromancer;Invrigar the Necromancer
+Iron ore;Rautamalmi
+Jack;Jack
+Jack Seagull;Jack Lokki
+Ignatius Vulcan;Ignatius Vulcan
+Imerominia;Imerominia
+Irene;Irene
+Istoria;Istoria
+Jal-Ak;Jal-Ak
 Jamila;Jamila
-Jaraah;Jaraah
-Jardric;Jardric
-Jari;Jari
+Jelly;Hyytelö
+Jess;Jess
+Irvig Senay;Irvig Senay
+Irwin Feaselbaum;Irwin Feaselbaum
+Jadid;Jadid
+Jenny Blade;Jenny Blade
+Jessie;Jessie
+Ifaba;Ifaba
+Ikkle Hydra;Ikkle Hydra
+Infernal Mage;Infernal Mage
+Ingrid;Ingrid
+Ingrid Hradson;Ingrid Hradson
+Iron pickaxe;Rautahakku
+Ishmael;Ismael
+Jade;Jade
+Jal-Nib-Rek;Jal-Nib-Rek
+Jennifer;Jennifer
+Iron dragon;Rautainen lohikäärme
+Ivan Strom;Ivan Strom
+Jal-AkRek-Ket;Jal-AkRek-Ket
+Jal-Zek;Jal-Zek
 Jarr;Jarr
-Jarvald;Jarvald
-Jatix;Jatix
 Jayene Kliyn (medium);Jayene Kliyn (keskikokoinen)
 Jeb;Jeb
-Jeed;Jeed
-Jeff;Jeff
-Jelly;Hyytelö
-Jennella;Jennella
-Jennifer;Jennifer
-Jenny Blade;Jenny Blade
-Jeremy Clerksin;Jeremy Clerksin
-Jerico;Jerico
-Jess;Jess
-Jessie;Jessie
-Jethick;Jethick
 Jewelled Crab;Jalokivirapu
-Jewelled Crab (blue);Jalokivirapu (sininen)
-Jewelled Crab (green);Jalokivirapu (vihreä)
+Ivan;Ivan
+Jal-AkRek-Mej;Jal-AkRek-Mej
+Imin;Imin
+Iminye;Iminye
+Imp defender;Imp-puolustaja
+Inga;Inga
+Iorwerth Archer;Iorwerth Archer
+JalRek-Jad;JalRek-Jad
+Jarvald;Jarvald
+Jeff;Jeff
+Jennella;Jennella
+Iffie;Iffie
+Imp Champion;Imp-mestari
+Islwyn;Islwyn
+Jail guard;Vankilan vartija
+Jal-Xil;Jal-Xil
+Jeremy Clerksin;Jeremy Clerksin
+Ish the Navigator;Ish the Navigator
+Ithoi the Navigator;Ithoi Navigaattori
+Jailer;Vanginvartija
+Jeed;Jeed
+Infernal pyrelord;Helvetin pyrelordi
+Ingwe;Ingwe
+Insatiable Bloodveld;Kyltymätön Bloodveld
+Irena;Irena
+Iwan;Iwan
+Iwazaru;Iwazaru
+Jardric;Jardric
+Jatix;Jatix
+Ilfeen;Ilfeen
+Incapacitated Pyromancer;Toimintakyvytön Pyromancer
+Irksol;Irksol
+Jal-AkRek-Xil;Jal-AkRek-Xil
+Jal-MejJak;Jal-MejJak
+James;James
+Jaraah;Jaraah
+Jerico;Jerico
+Ignisia;Ignisia
+Imiago;Imiago
+Immenizz;Immenizz
+Imp;Imp
+Indis;Indis
+Innocent-looking key;Viattoman näköinen avain
+Iorwerth Warrior;Iorwerth Warrior
+Jack Sails;Jack Sails
+Jari;Jari
 Jewelled Crab (red);Jalokivirapu (punainen)
-Jex;Jex
-Jig cart;Jig-kärry
-Jill;Jill
-Jiminua;Jiminua
-Jimmy;Jimmy
-Jimmy Dazzler;Jimmy Dazzler
-Jimmy the Chisel;Jimmy taltta
-Joe;Joe
-Jofridr Mordstatter;Jofridr Mordstatter
-Jogre;Jogre
-Jogre Champion;Jogren mestari
-Johanhus Ulsbrecht;Johanhus Ulsbrecht
-John;John
-Johnathon;Johnathon
-Jokul;Jokul
-Jon;Jon
-Jonathan;Jonathan
-Jonny the beard;Jonny parta
-Jorra;Jorra
-Jorral;Jorral
-Jorzik;Jorzik
-Joseph;Joseph
-Joshua;Joshua
-Jossik;Jossik
-Jubbly bird;Pirteä lintu
-Jubster;Jubster
-Judge of Yama;Yaman tuomari
-Jukat;Jukat
-Julie;Julie
-Juliet;Julia
-Jumaane;Jumaane
-Juna;Juna
-Jungle Demon;Viidakon demoni
 Jungle Demon (hard);Viidakkodemoni (kova)
-Jungle Wolf;Viidakon susi
-Jungle eagle;Viidakon kotka
-Jungle forester;Viidakon metsänhoitaja
-Jungle horror;Viidakon kauhu
-Jungle savage;Viidakon villi
-Jungle spider;Viidakon hämähäkki
-Junior Navigator;Junior Navigaattori
-Jury;Tuomaristo
-Justiciar Zachariah;Tuomari Zachariah
-Justin Servil;Justin Servil
-Justine;Justine
+Kamfreena;Kamfreena
+Kaston;Kaston
 Jyn;Jyn
 K'klik;K'klik
-K'ril Tsutsaroth;K'ril Tsutsaroth
-K'ril Tsutsaroth Jr.;K'ril Tsutsaroth Jr.
-KGP Agent;KGP-agentti
-KGP Guard;KGP vartija
+Kaleb Paramaya;Kaleb Paramaya
+Karil the Tainted;Karil Tainted
+Jex;Jex
+Jiminua;Jiminua
+Jogre Champion;Jogren mestari
+Jungle Wolf;Viidakon susi
+Jungle horror;Viidakon kauhu
+Kai;Kai
+Jill;Jill
+Jorra;Jorra
 Kaal-Ket-Jor;Kaal-Ket-Jor
+Kalphite Larva;Kalfiitin toukka
+Kelvin;Kelvin
+Jorzik;Jorzik
+Jubster;Jubster
+Jungle spider;Viidakon hämähäkki
+Kalphite Princess;Kalphiten prinsessa
+Jimmy Dazzler;Jimmy Dazzler
+Jon;Jon
+Kamil (hard);Kamil (kova)
+Kaylee;Kaylee
+Keef;Keef
+Jewelled Crab (blue);Jalokivirapu (sininen)
+Johnathon;Johnathon
+Jumaane;Jumaane
+Kaht B'alam;Kaht B'alam
+Kalphite Worker;Kalphiten työntekijä
+Kennith;Kennith
+Jogre;Jogre
+Joshua;Joshua
+Jossik;Jossik
+Judge of Yama;Yaman tuomari
+K'ril Tsutsaroth;K'ril Tsutsaroth
+Kamil;Kamil
+Kaqemeex;Kaqemeex
+Jorral;Jorral
+Juliet;Julia
+Jungle eagle;Viidakon kotka
+Jungle forester;Viidakon metsänhoitaja
+Justin Servil;Justin Servil
+Kamen;Kamen
+Kazgar;Kazgar
+Jonny the beard;Jonny parta
+Joseph;Joseph
+Junior Navigator;Junior Navigaattori
+K'ril Tsutsaroth Jr.;K'ril Tsutsaroth Jr.
+Kalphite Queen;Kalphiten kuningatar
+Kebbit;Kebbit
+Jewelled Crab (green);Jalokivirapu (vihreä)
+Jimmy;Jimmy
+Julie;Julie
 Kaal-Mej-San;Kaal-Mej-San
+Kalrag;Kalrag
+Kanel;Kanel
+Kangai Mau;Kangai Mau
+Karamel (hard);Karamel (kova)
+Karim;Karim
+Jokul;Jokul
+Jonathan;Jonathan
+Jubbly bird;Pirteä lintu
+Jungle Demon;Viidakon demoni
+Justiciar Zachariah;Tuomari Zachariah
+KGP Agent;KGP-agentti
+Kalphite Soldier;Kalphite sotilas
+Karam;Karam
+Keepa Kettilon;Keepa Kettilon
+Jig cart;Jig-kärry
+Johanhus Ulsbrecht;Johanhus Ulsbrecht
+KGP Guard;KGP vartija
 Kaal-Xil-Dar;Kaal-Xil-Dar
 Kael Forshaw;Kael Forshaw
-Kaht B'alam;Kaht B'alam
-Kai;Kai
-Kaleb Paramaya;Kaleb Paramaya
-Kalphite Guardian;Kalphite Guardian
-Kalphite Larva;Kalfiitin toukka
-Kalphite Princess;Kalphiten prinsessa
-Kalphite Queen;Kalphiten kuningatar
-Kalphite Soldier;Kalphite sotilas
-Kalphite Worker;Kalphiten työntekijä
-Kalrag;Kalrag
 Kalron;Kalron
-Kamen;Kamen
-Kamfreena;Kamfreena
-Kamil;Kamil
-Kamil (hard);Kamil (kova)
-Kanel;Kanel
-Kaqemeex;Kaqemeex
 Karaday;Karaday
-Karam;Karam
 Karamel;Karamel
-Karamel (hard);Karamel (kova)
+Kathy Corkat;Kathy Corkat
+Kelyn;Kelyn
+Joe;Joe
+Jofridr Mordstatter;Jofridr Mordstatter
+Jukat;Jukat
+Jury;Tuomaristo
+Justine;Justine
 Karamthulhu;Karamthulhu
 Kardia;Kardia
-Karil the Tainted;Karil Tainted
-Karim;Karim
 Karl;Karl
-Kaston;Kaston
-Kathy Corkat;Kathy Corkat
-Katrine;Katrine
-Kaylee;Kaylee
+Jimmy the Chisel;Jimmy taltta
+John;John
+Kalphite Guardian;Kalphite Guardian
 Kazemde;Kazemde
-Kazgar;Kazgar
-Kebbit;Kebbit
-Keef;Keef
-Keepa Kettilon;Keepa Kettilon
 Keith;Keith
-Kelvin;Kelvin
-Kelyn;Kelyn
 Kendall;Kendall
+Juna;Juna
+Jungle savage;Viidakon villi
+Katrine;Katrine
 Kenelme;Kenelme
-Kennith;Kennith
-Kent;Kent
-Ket'sal K'uk;Ket'sal K'uk
-Ket-Zek;Ket-Zek
 Key Master;Avaimen mestari
-Kharid Scorpion;Kharid Scorpion
-Khazard Guard;Khazardin vartija
-Khazard Ogre;Khazard Ogre
-Khazard Scorpion;Khazard Scorpion
-Khazard barman;Khazard baarimikko
-Khazard commander;Khazardin komentaja
-Khazard trooper;Khazard sotilas
-Khazard warlord;Khazard sotapäällikkö
-Khazard warlord (hard);Khazard sotapäällikkö (kova)
-Khorvak, a dwarven engineer;Khorvak, kääpiöinsinööri
-Kikazaru;Kikazaru
-Killer;Tappaja
-Killerwatt;Killerwatt
 Kilron;Kilron
-Kineer;Kineer
-King Arthur;Kuningas Arthur
-King Artur Hosidius;Kuningas Artur Hosidius
-King Awowogei;Kuningas Awowogei
 King Black Dragon;King Black Dragon
-King Bolren;Kuningas Bolren
 King Gjuki Sorvott IV;Kuningas Gjuki Sorvott IV
-King Healthorg;Kuningas Healthorg
-King Kandur Hosidius;Kuningas Kandur Hosidius
-King Lathas;Kuningas Lathas
-King Narnode Shareen;Kuningas Narnode Shareen
+Kree'arra;Kree'arra
+Kubec Unkar;Kubec Unkar
+Lady Kelyn Ithell;Lady Kelyn Ithell
+King Awowogei;Kuningas Awowogei
 King Percival;Kuningas Percival
-King Roald;Kuningas Roald
-King Roald (hard);King Roald (kova)
-King Sand Crab;Kuningas hiekkarapu
-King Scorpion;Kuningas Skorpioni
 King Thoros;Kuningas Thoros
+Knight of the Lion;Leijonan ritari
+Knight of the Unicorn;Yksisarvisen ritari
+Kolodion;Kolodion
+Kragen;Kragen
+Kruk;Kruk
+Lady Vulcana Lovakengj;Lady Vulcana Lovakengj
+Ket-Zek;Ket-Zek
+Killer;Tappaja
+King Arthur;Kuningas Arthur
 King Vargas;Kuningas Vargas
+Klank;Klank
+Kraka;Kraka
+Kylie Minnow;Kylie Minnow
+Lanzig;Lanzig
+Khazard Guard;Khazardin vartija
+Killerwatt;Killerwatt
+Klenter;Klenter
+Lanthus;Lanthus
+Kineer;Kineer
+King Artur Hosidius;Kuningas Artur Hosidius
+Kjut;Kjut
+Knight of Saradomin;Saradomin ritari
+Kroy;Kroy
+Kurt;Kurt
+Lady Table;Lady Table
+Kikazaru;Kikazaru
+King Kandur Hosidius;Kuningas Kandur Hosidius
+King Scorpion;Kuningas Skorpioni
+Koschei the Deathless;Koschei Kuolematon
+Krato;Krato
+Lady Servil;Lady Servil
+Khazard Ogre;Khazard Ogre
+Khazard trooper;Khazard sotilas
+King Healthorg;Kuningas Healthorg
+King Narnode Shareen;Kuningas Narnode Shareen
+Kjedelig Uppsen;Kjedelig Uppsen
+Klarense;Klarense
+Konoo;Konoo
+Khazard Scorpion;Khazard Scorpion
+King Roald;Kuningas Roald
+King Sand Crab;Kuningas hiekkarapu
+Kitten;Kissanpentu
+Knight of the Owl;Pöllön ritari
+Kryket bat;Kryket-lepakko
+Lady Ffion Meilyr;Lady Ffion Meilyr
+Lamb;Lammas
+Kharid Scorpion;Kharid Scorpion
+Knight;Ritari
+Kob;Kob
+Kormar quo Maten;Kormar quo Maten
+Kualti;Kualti
+Knight of Ardougne;Ardougnen ritari
+Ket'sal K'uk;Ket'sal K'uk
+King Roald (hard);King Roald (kova)
+Kraken;Kraken
+Ksenia;Ksenia
 King kurask;King kurask
 King rat;Kuningas rotta
-King's Messenger;Kuninkaan lähettiläs
-Kitten;Kissanpentu
-Kjedelig Uppsen;Kjedelig Uppsen
-Kjut;Kjut
-Klank;Klank
-Klarense;Klarense
-Klenter;Klenter
-Knight;Ritari
-Knight of Ardougne;Ardougnen ritari
-Knight of Saradomin;Saradomin ritari
-Knight of Varlamore;Varlamoren ritari
-Knight of the Lion;Leijonan ritari
-Knight of the Owl;Pöllön ritari
-Knight of the Unicorn;Yksisarvisen ritari
-Knight of the Wolf;Suden ritari
 Koanee;Koanee
-Kob;Kob
-Koftik;Koftik
-Kolodion;Kolodion
-Konar quo Maten;Konar quo Maten
-Konoo;Konoo
-Kormar quo Maten;Kormar quo Maten
-Kortan;Kortan
-Koschei the Deathless;Koschei Kuolematon
-Koschei the deathless;Koschei kuolematon
-Kragen;Kragen
-Kraka;Kraka
-Kraken;Kraken
-Krato;Krato
-Kree'arra;Kree'arra
-Kree'arra Jr.;Kree'arra Jr.
-Kroy;Kroy
-Kruk;Kruk
-Kryket bat;Kryket-lepakko
-Krystilia;Krystilia
-Ksenia;Ksenia
-Kualti;Kualti
-Kubec Unkar;Kubec Unkar
-Kurask;Kurask
-Kurt;Kurt
-Kylie Minnow;Kylie Minnow
-Lacey;Lacey
 Lady Carys Hefin;Lady Carys Hefin
-Lady Crombwick;Lady Crombwick
-Lady Ffion Meilyr;Lady Ffion Meilyr
+Khorvak, a dwarven engineer;Khorvak, kääpiöinsinööri
+King Bolren;Kuningas Bolren
+King's Messenger;Kuninkaan lähettiläs
+Koftik;Koftik
+Krystilia;Krystilia
 Lady Keli;Lady Keli
-Lady Kelyn Ithell;Lady Kelyn Ithell
-Lady Nadezhda Shadum;Lady Nadezhda Shadum
-Lady Servil;Lady Servil
-Lady Shauna Piscarilius;Lady Shauna Piscarilius
-Lady Table;Lady Table
-Lady Tangwen Trahaearn;Lady Tangwen Trahaearn
-Lady Vulcana Lovakengj;Lady Vulcana Lovakengj
-Lahsram;Lahsram
 Lalli;Lalli
-Lamb;Lammas
-Lammy Langle;Lammy Langle
+Khazard commander;Khazardin komentaja
+King Lathas;Kuningas Lathas
+Konar quo Maten;Konar quo Maten
+Kortan;Kortan
+Koschei the deathless;Koschei kuolematon
+Kree'arra Jr.;Kree'arra Jr.
+Lady Nadezhda Shadum;Lady Nadezhda Shadum
+Lady Shauna Piscarilius;Lady Shauna Piscarilius
+Lahsram;Lahsram
 Lan the Butcher;Teurastaja Lan
-Lanthus;Lanthus
-Lanzig;Lanzig
 Large mosquito;Suuri hyttynen
+Khazard warlord (hard);Khazard sotapäällikkö (kova)
+Knight of Varlamore;Varlamoren ritari
+Knight of the Wolf;Suden ritari
+Lacey;Lacey
+Lady Crombwick;Lady Crombwick
+Lady Tangwen Trahaearn;Lady Tangwen Trahaearn
+Lammy Langle;Lammy Langle
 Large zombie monkey;Suuri zombie-apina
-Larran;Larran
-Larrissa;Larrissa
-Larry;Larry
-Larxus;Larxus
-Lasenna Rasputin;Lasenna Rasputin
-Lathas;Lathas
-Latlink Fastbell;Latlink Fastbell
-Launa;Launa
-Lauretta;Lauretta
-Lava beast;Laava peto
-Lava dragon;Laava lohikäärme
-Layleen;Layleen
-Lazim;Lazim
-Lazy cat;Laiska kissa
-Lazy hellcat;Laiska helvetinkissa
-Le-sabrè;Le-sabrè
-Lead Navigator;Päänavigaattori
-Leagues Assistant;Liigan assistentti
-Leagues Tutor;Liigan ohjaaja
-Leatherworker;Nahkatyöläinen
-Lector Gura;Lektori Gura
-Leech;Iilimato
-Leech display;Leech näyttö
-Leela;Leela
-Leenz;Leenz
-Left head;Vasen pää
-Legends guard;Legendojen vartija
-Leke quo Keran;Leke quo Keran
-Lenny;Lenny
-Lensa;Lensa
-Lenwe;Lenwe
-Lenyig Karna;Lenyig Karna
-Leo;Leo
-Leon;Leon
-Leon d'Cour;Leon d'Cour
-Lesser Demon Champion;Pienen demonin mestari
-Lesser Fanatic;Pieni fanaattinen
-Lesser demon;Pieni demoni
-Lesser ghostly thrall;Pienempi aavemainen jännitys
-Lesser skeletal thrall;Pienempi luuranko
-Lesser zombified thrall;Vähemmän zombisoitunutta jännitystä
-Lev;Lev
+Kent;Kent
+Khazard barman;Khazard baarimikko
+Khazard warlord;Khazard sotapäällikkö
+Kurask;Kurask
 Li'l lamb;Li' lammas
-Liam;Liam
-Librarian;Kirjastonhoitaja
-Lidio;Lidio
-Lieutenant Schepbur;Luutnantti Schepbur
-Lieve McCracken;Lieve McCracken
-Light creature;Kevyt olento
-Lil' Bloat;Lil' Bloat
-Lil' Creator;Lil' Luoja
-Lil' Destructor;Lil' Destructor
-Lil' Maiden;Lil' Maiden
-Lil' Nylo;Lil' Nylo
-Lil' Sot;Lil' Sot
-Lil' Xarp;Lil' Xarp
 Lil' Zik;Lil' Zik
-Lilifang;Lilifang
-Liliwen;Liliwen
-Liliya;Lilija
-Lillia;Lillia
-Lilly;Lilly
 Lindir;Lindir
-Linen worker;Pellavatyöläinen
-Lisa;Lisa
 Lisse Isaakson;Lisse Isaakson
 Litara;Litara
-Lithil;Lithil
-Little Nightmare;Pikku painajainen
 Little Parasite;Pieni loinen
-Lizard;Lisko
-Lizard display;Liskon näyttö
-Lizardman;Lizardman
-Lizardman brute;Lizardman brute
 Lizardman shaman;Lizardman shamaani
-Lleidr Golau;Lleidr Golau
-Lliann;Lliann
-Llio;Llio
+Left head;Vasen pää
+Leo;Leo
+Lesser Demon Champion;Pienen demonin mestari
 Loading crane;Lastausnosturi
-Loar Shade;Loar Shade
-Loar Shadow;Loar Shadow
-Lobstrosity;Hummeri
-Local;Paikallinen
-Local Gnome;Paikallinen Gnome
-Locust;Heinäsirkka
-Locust rider;Heinäsirkan ratsastaja
-Lofu;Lofu
 Logava;Logava
-Logios;Logis
-Logosia;Logosia
-Loinur;Loinur
 Lokar Searunner;Lokar Searunner
-Loki;Loki
-Lokraa quo Sihar;Lokraa quo Sihar
-Lollk;Lollk
-Long-tailed Wyvern;Pitkähäntäinen Wyvern
-Longbow Ben;Pitkäjousi Ben
-Longhall Bouncer;Longhall Bouncer
+Layleen;Layleen
+Leagues Tutor;Liigan ohjaaja
+Leke quo Keran;Leke quo Keran
+Lev;Lev
+Lil' Creator;Lil' Luoja
+Lil' Destructor;Lil' Destructor
+Lliann;Lliann
+Larry;Larry
+Launa;Launa
+Lesser zombified thrall;Vähemmän zombisoitunutta jännitystä
+Lillia;Lillia
+Lathas;Lathas
+Lava dragon;Laava lohikäärme
+Leon;Leon
+Lesser Fanatic;Pieni fanaattinen
+Lithil;Lithil
+Local;Paikallinen
+Logosia;Logosia
+Latlink Fastbell;Latlink Fastbell
+Lenwe;Lenwe
+Lenyig Karna;Lenyig Karna
+Lieve McCracken;Lieve McCracken
+Lil' Maiden;Lil' Maiden
+Liliya;Lilija
+Lizardman;Lizardman
+Lobstrosity;Hummeri
+Liam;Liam
+Lisa;Lisa
+Lizard;Lisko
+Loinur;Loinur
 Look-out;Varo
+Lava beast;Laava peto
+Lazim;Lazim
+Lil' Bloat;Lil' Bloat
+Liliwen;Liliwen
+Llio;Llio
+Lokraa quo Sihar;Lokraa quo Sihar
+Le-sabrè;Le-sabrè
+Leech display;Leech näyttö
+Leenz;Leenz
+Legends guard;Legendojen vartija
+Lil' Xarp;Lil' Xarp
+Longbow Ben;Pitkäjousi Ben
+Lauretta;Lauretta
+Lensa;Lensa
+Lesser demon;Pieni demoni
+Lidio;Lidio
+Lil' Nylo;Lil' Nylo
+Lilifang;Lilifang
+Lollk;Lollk
+Lazy cat;Laiska kissa
+Librarian;Kirjastonhoitaja
+Little Nightmare;Pikku painajainen
+Lizardman brute;Lizardman brute
+Local Gnome;Paikallinen Gnome
 Looming shadow;Näyttävä varjo
-Lord Alexei Jovkai;Lordi Aleksei Jovkai
-Lord Baxtorian Cadarn;Lordi Baxtorian Cadarn
-Lord Crombwick;Lordi Crombwick
-Lord Daquarius;Lordi Daquarius
-Lord Iestin Iorwerth;Lordi Iestin Iorwerth
-Lord Ieuan Amlodd;Lordi Ieuan Amlodd
-Lord Iorwerth;Lordi Iorwerth
-Lord Kandur Hosidius;Lordi Kandur Hosidius
-Lord Marshal Brogan;Lordi marsalkka Brogan
-Lord Mischa Myrmel;Lordi Mischa Myrmel
-Lord Pandur Hosidius;Lordi Pandur Hosidius
-Lord Piquan Crwys;Lordi Piquan Crwys
-Lord Rologarth;Lordi Rologarth
-Lord Shiro Shayzien;Lordi Shiro Shayzien
-Lord Trobin Arceuus;Lordi Trobin Arceuus
-Lorelai;Lorelai
-Lornor quo Narga;Lornor quo Narga
-Lorraine;Lorraine
-Lost barbarian;Kadonnut barbaari
-Louie Legs;Louie Jalat
-Louisa;Louisa
-Lovada;Lovada
-Lovakengj Engineer;Lovakengj insinööri
-Love Cats;Rakasta Kissoja
-Lowe;Lowe
-Lowerniel Drakan;Lowerniel Drakan
-Lubufu;Lubufu
-Lucien;Lucien
-Lucky impling;Onnekas impling
+Leagues Assistant;Liigan assistentti
+Leela;Leela
+Leon d'Cour;Leon d'Cour
+Lesser ghostly thrall;Pienempi aavemainen jännitys
+Lilly;Lilly
+Lleidr Golau;Lleidr Golau
+Loar Shadow;Loar Shadow
+Locust;Heinäsirkka
+Lofu;Lofu
+Lasenna Rasputin;Lasenna Rasputin
+Lead Navigator;Päänavigaattori
+Lector Gura;Lektori Gura
+Lesser skeletal thrall;Pienempi luuranko
+Linen worker;Pellavatyöläinen
+Loar Shade;Loar Shade
+Logios;Logis
+Loki;Loki
+Larran;Larran
+Larrissa;Larrissa
+Lazy hellcat;Laiska helvetinkissa
+Leech;Iilimato
+Lenny;Lenny
+Light creature;Kevyt olento
+Locust rider;Heinäsirkan ratsastaja
+Longhall Bouncer;Longhall Bouncer
+Larxus;Larxus
+Leatherworker;Nahkatyöläinen
+Lieutenant Schepbur;Luutnantti Schepbur
+Lil' Sot;Lil' Sot
+Lizard display;Liskon näyttö
+Long-tailed Wyvern;Pitkähäntäinen Wyvern
 Lucy;Lucy
-Lumberjack Leif;Metsämies Leif
-Lumbridge Guide;Lumbridgen opas
-Lumdo;Lumdo
-Lumiere;Lumiere
-Luminata;Luminata
 Lumo;Lumo
-Luna;Luna
+Mahtan;Mahtan
+Maria Gadderanks;Maria Gadderanks
+Lord Iestin Iorwerth;Lordi Iestin Iorwerth
+Lord Piquan Crwys;Lordi Piquan Crwys
+Lorelai;Lorelai
 Lundail;Lundail
-Lunderwin;Lunderwin
-Lurgon;Lurgon
-Luscion;Luscion
-Luthas;Luthas
-Lutwidge;Lutwidge
-Lux grub;Lux grub
-Lynx;Ilves
-Lynx Tamer;Lynx Tamer
-Lyra;Lyra
-Mac;Mac
-Macaroni Penguin;Makaroni pingviini
-Mad skavid;Hullu skavid
 Madame Caldarium;Madame Caldarium
 Maedhros;Maedhros
-Maeglin;Maeglin
-Mage (easy);Mage (helppo)
-Mage of Zamorak;Zamorakin maagi
-Magic Instructor;Taikuuden opettaja
-Magic axe;Maaginen kirves
-Magic combat tutor;Taikataisteluopettaja
-Magnus Gram;Magnus mummi
-Magpie impling;Harakka impling
-Mahtan;Mahtan
-Maid;Maid
-Mairin;Mairin
-Maisa;Maisa
-Major Attack;Suuri hyökkäys
-Major Collect;Major kerätä
-Major Defend;Major Defend
-Major Heal;Major Heal
-Make-over mage;Make-over taikuri
-Malak;Malak
-Male slave;Miesorja
-Malevolent Mage;Pahanlaatuinen Mage
-Malignius Mortifer;Malignius Mortifer
-Mallak quo Keran;Mallak quo Keran
-Mama;Mama
-Mamma Bufetta;Mamma Bufetta
-Mammoth;Mammutti
-Man;Mies
-Mandrith;Mandrith
-Mandy;Mandy
-Maniacal Monkey Archer;Maniacal Monkey Archer
-Maniacal monkey;Maniakaalinen apina
-Manni the Reveller;Juhlailija Manni
 Marble gargoyle;Marmorinen gargoyle
-Marfet;Marfet
-Maria Gadderanks;Maria Gadderanks
-Maria Gunnars;Maria Gunnars
-Mariah;Mariah
-Marisi;Marisi
 Marius;Marius
-Marius Giste;Marius Giste
-Mark;Mark
-Market Guard;Markkinavartija
-Market seller;Markkinoiden myyjä
+Lord Iorwerth;Lordi Iorwerth
+Lucky impling;Onnekas impling
+Lumbridge Guide;Lumbridgen opas
+Magic axe;Maaginen kirves
 Markog;Markog
-Marley;Marley
-Marlo;Marlo
-Marmor quo Narga;Marmor quo Narga
+Lord Rologarth;Lordi Rologarth
+Lost barbarian;Kadonnut barbaari
+Lumiere;Lumiere
+Lyra;Lyra
+Major Heal;Major Heal
+Maniacal monkey;Maniakaalinen apina
 Marten;Näätä
 Martha Rehnison;Martha Rehnison
-Martin Holt;Martin Holt
-Martin Thwait;Martin Thwait
-Martin the Master Gardener;Martin mestaripuutarhuri
-Martina Scorsby;Martina Scorsby
-Marwolaeth Dawnsio;Marwolaeth Dawnsio
-Mary;Mary
-Master Chef;Mestarikokki
-Master Crafter;Mestari Crafter
-Master Farmer;Mestari maanviljelijä
-Master Navigator;Päänavigaattori
-Master fisher;Mestari kalastaja
-Master smithing tutor;Sepän mestariopettaja
-Matilda;Matilda
-Matthew;Matthew
-Matthias;Matthias
-Mattimeo;Mattimeo
+Lord Ieuan Amlodd;Lordi Ieuan Amlodd
+Major Defend;Major Defend
+Mammoth;Mammutti
+Maria Gunnars;Maria Gunnars
+Louie Legs;Louie Jalat
+Lurgon;Lurgon
+Maisa;Maisa
+Male slave;Miesorja
+Market seller;Markkinoiden myyjä
+Luminata;Luminata
+Lux grub;Lux grub
+Magnus Gram;Magnus mummi
+Lord Kandur Hosidius;Lordi Kandur Hosidius
+Love Cats;Rakasta Kissoja
+Lubufu;Lubufu
+Lucien;Lucien
+Lynx;Ilves
+Mad skavid;Hullu skavid
+Maeglin;Maeglin
+Magpie impling;Harakka impling
+Malak;Malak
+Malignius Mortifer;Malignius Mortifer
+Marley;Marley
+Lord Alexei Jovkai;Lordi Aleksei Jovkai
+Lord Marshal Brogan;Lordi marsalkka Brogan
+Lord Mischa Myrmel;Lordi Mischa Myrmel
+Lord Shiro Shayzien;Lordi Shiro Shayzien
+Louisa;Louisa
+Lumberjack Leif;Metsämies Leif
+Mage (easy);Mage (helppo)
+Make-over mage;Make-over taikuri
+Marfet;Marfet
+Lovakengj Engineer;Lovakengj insinööri
+Lowerniel Drakan;Lowerniel Drakan
+Luthas;Luthas
+Mairin;Mairin
+Malevolent Mage;Pahanlaatuinen Mage
+Manni the Reveller;Juhlailija Manni
+Marmor quo Narga;Marmor quo Narga
+Lorraine;Lorraine
+Mac;Mac
+Magic Instructor;Taikuuden opettaja
+Maniacal Monkey Archer;Maniacal Monkey Archer
+Lovada;Lovada
+Macaroni Penguin;Makaroni pingviini
+Major Collect;Major kerätä
+Mark;Mark
+Market Guard;Markkinavartija
+Lumdo;Lumdo
+Luna;Luna
+Mariah;Mariah
+Lord Crombwick;Lordi Crombwick
+Lornor quo Narga;Lornor quo Narga
+Mama;Mama
+Mandrith;Mandrith
+Marius Giste;Marius Giste
+Lord Pandur Hosidius;Lordi Pandur Hosidius
+Lowe;Lowe
+Lunderwin;Lunderwin
+Lutwidge;Lutwidge
+Lynx Tamer;Lynx Tamer
+Mage of Zamorak;Zamorakin maagi
+Maid;Maid
+Man;Mies
+Mandy;Mandy
+Marisi;Marisi
+Marlo;Marlo
+Lord Baxtorian Cadarn;Lordi Baxtorian Cadarn
+Lord Daquarius;Lordi Daquarius
+Lord Trobin Arceuus;Lordi Trobin Arceuus
+Luscion;Luscion
+Magic combat tutor;Taikataisteluopettaja
+Major Attack;Suuri hyökkäys
+Mallak quo Keran;Mallak quo Keran
+Mamma Bufetta;Mamma Bufetta
 Mawnis Burowgar;Mawnis Burowgar
-Mawrth;Mawrth
-Mayor Hobb;Pormestari Hobb
-Maz;Maz
-Mazchna;Mazchna
-Maze Guardian;Maze Guardian
-Mazion;Mazion
-Me;Minulle
-Me (hard);minä (kova)
-Meddwl Ymlaen Llaw;Meddwl Ymlaen Llaw
-Medium ninja monkey;Keskikokoinen ninja-apina
-Meegle;Meegle
-Megan;Megan
 Meiyerditch citizen;Meiyerditchin kansalainen
-Meiyerditch miner;Meiyerditch kaivosmies
-Mekritus A'hara;Mekritus A'hara
-Melana Moonlander;Melana Moonlander
-Melee combat tutor;Lähitaistelun opettaja
-Meleti;Meleti
-Melina;Melina
-Melvin;Melvin
 Melzar the Mad;Melzar hullu
-Memory of Seren;Serenin muisto
-Menaphite Leader;Menafiittien johtaja
-Menaphite Thug;Menaphite Thug
-Menaphite guard;Menafiittinen vartija
-Mercenary;Palkkasoturi
-Mercenary Captain;Palkkasoturikapteeni
-Mercy;Armo
-Meredith;Meredith
-Merlin;Merlin
-Mernia;Mernia
-Mernik;Mernik
-Meskhenet;Meskhenet
-Metarialus;Metarialus
-Meteora;Meteora
 Mi-Gor;Mi-Gor
-Mia;Mia
-Miala;Miala
-Miazrqa;Miazrqa
-Middle head;Keskipää
-Midnight;Keskiyö
-Mihail;Mihail
-Mike;Mike
 Miles;Mailia
-Milla;Milla
-Milli Rehnison;Milli Rehnison
+Miriam;Miriam
+Mischievous ghost;Kurja haamu
+Mary;Mary
+Maz;Maz
+Maze Guardian;Maze Guardian
+Menaphite guard;Menafiittinen vartija
+Midnight;Keskiyö
 Millie Miller;Millie Miller
-Miltog;Miltog
-Mime;Miimi
-Mimm;Mimm
-Mind Golem;Mieli Golem
-Mine Cart;Minun kori
-Mine cart;Minun kärry
+Miala;Miala
+Matthias;Matthias
+Mazchna;Mazchna
+Mazion;Mazion
 Mine cart driver;Minun kärryn kuljettaja
-Mine supervisor;Kaivoksen valvoja
 Miner;Kaivosmies
 Miner Magnus;Kaivosmies Magnus
-Miniature chaotic clouds;Miniatyyri kaoottiset pilvet
-Mining Instructor;Kaivoskouluttaja
-Mining tutor;Kaivostoiminnan ohjaaja
-Minotaur;Minotaurus
-Miodvetnir;Miodvetnir
-Miriam;Miriam
-Miriel;Miriel
-Mischievous ghost;Kurja haamu
-Misdrievus Shadum;Misdrievus Shadum
-Mishkal'un Dorn;Mishkal'un Dorn
-Miss Cheevers;Neiti Cheevers
-Miss Schism;Neiti Skisma
-Mist;Sumu
-Mistag;Mistag
+Moggy;Katti
+Meegle;Meegle
+Menaphite Leader;Menafiittien johtaja
+Mike;Mike
+Milli Rehnison;Milli Rehnison
+Mogrim;Mogrim
+Martin Thwait;Martin Thwait
+Master Crafter;Mestari Crafter
 Mithrellas;Mithrellas
+Master fisher;Mestari kalastaja
+Meddwl Ymlaen Llaw;Meddwl Ymlaen Llaw
+Miniature chaotic clouds;Miniatyyri kaoottiset pilvet
+Mistag;Mistag
+Mizaru;Mizaru
+Mercenary Captain;Palkkasoturikapteeni
+Meredith;Meredith
+Mernia;Mernia
+Mine cart;Minun kärry
+Mining Instructor;Kaivoskouluttaja
+Mishkal'un Dorn;Mishkal'un Dorn
+Marwolaeth Dawnsio;Marwolaeth Dawnsio
+Master Farmer;Mestari maanviljelijä
+Mercy;Armo
+Mimm;Mimm
+Miriel;Miriel
+Melee combat tutor;Lähitaistelun opettaja
+Menaphite Thug;Menaphite Thug
+Mernik;Mernik
+Metarialus;Metarialus
+Mime;Miimi
+Mine Cart;Minun kori
+Miss Schism;Neiti Skisma
 Mithril dragon;Mithril lohikäärme
 Mithril ore;Mitrilin malmi
-Mittens;Rukkaset
-Mizaru;Mizaru
-Moe;Moe
-Mofina;Mofina
-Moggy;Katti
+Martina Scorsby;Martina Scorsby
+Matilda;Matilda
+Me;Minulle
+Megan;Megan
+Meiyerditch miner;Meiyerditch kaivosmies
+Mind Golem;Mieli Golem
+Molanisk;Molanisk
+Mekritus A'hara;Mekritus A'hara
+Meleti;Meleti
+Melvin;Melvin
+Memory of Seren;Serenin muisto
+Mia;Mia
+Mining tutor;Kaivostoiminnan ohjaaja
+Miodvetnir;Miodvetnir
 Mogre;Mogre
 Mogre Guard;Mogren vartija
-Mogrim;Mogrim
-Molanisk;Molanisk
-Moldof;Moldof
+Martin Holt;Martin Holt
+Master Chef;Mestarikokki
+Mattimeo;Mattimeo
+Miltog;Miltog
+Mine supervisor;Kaivoksen valvoja
+Mist;Sumu
+Mawrth;Mawrth
+Me (hard);minä (kova)
+Melana Moonlander;Melana Moonlander
+Melina;Melina
+Mercenary;Palkkasoturi
+Meskhenet;Meskhenet
+Meteora;Meteora
+Middle head;Keskipää
+Mihail;Mihail
+Minotaur;Minotaurus
+Misdrievus Shadum;Misdrievus Shadum
+Mittens;Rukkaset
+Martin the Master Gardener;Martin mestaripuutarhuri
+Master Navigator;Päänavigaattori
+Master smithing tutor;Sepän mestariopettaja
+Merlin;Merlin
+Miazrqa;Miazrqa
+Milla;Milla
+Mofina;Mofina
+Matthew;Matthew
+Mayor Hobb;Pormestari Hobb
+Medium ninja monkey;Keskikokoinen ninja-apina
+Miss Cheevers;Neiti Cheevers
+Moe;Moe
 Mole display;Myyränäyttö
-Molly;Molly
-Monk;Munkki
-Monk of Entrana;Entranan munkki
-Monk of Zamorak;Zamorakin munkki
-Monkey;Apina
-Monkey Archer;Apina Archer
-Monkey Child;Apinan lapsi
-Monkey Guard;Apinavartija
-Monkey Zombie;Apina Zombie
 Monkey display;Apinan näyttö
-Monkey guard;Apinan vartija
-Monkey minder;Apinanhoitaja
-Monkey on unicorn;Apina yksisarvisen päällä
-Monstrous Basilisk;Hirviömäinen basiliski
-Monstrous basilisk;Hirviömäinen basiliski
-Mord Gunnars;Mord Gunnars
-Mordan Nikazsi;Mordan Nikazsi
-Morgan;Morgan
-Morgan Le Faye;Morgan Le Faye
-Mori;Mori
-Morris;Morris
-Mort Nightshade;Mort Nightshade
-Mort'ton Local;Mort'tonin paikallinen
-Mort'ton local;Mort'tonin paikallinen
-Morten Holdstrom;Morten Holdstrom
-Mortina Daubenton;Mortina Daubenton
-Morvran;Morvran
-Mosquito swarm;Hyttysparvi
-Moss Giant;Moss jättiläinen
-Moss Guardian;Moss Guardian
-Moss Guardian (hard);Moss Guardian (kova)
-Moss giant;Sammaleen jättiläinen
-Most of a Zombie;Suurin osa zombista
-Mother;Äiti
-Mother Mallum;Äiti Mallum
-Moths;Koit
-Mountain Dwarf;Vuoristokääpiö
-Mountain Goat;Vuorivuohi
-Mountain Guide;Vuoristoopas
-Mountain goat;Vuorivuohi
-Mountain troll;Vuoripeikko
 Mounted terrorbird gnome;Asennettu terrorbird gnome
-Mounted terrorchick gnome;Asennettu terrorchick gnome
-Mourner;Sureva
-Mouse;Hiiri
-Movario;Movario
-Mr. Mordaut;Herra Mordaut
-Ms. Hynn Terprett;Rouva Hynn Terprett
 Mubariz;Mubariz
-Mudskipper;Mudskipper
-Mugger;Ryöstäjä
-Mummy;Muumio
-Mummy ashes;Äiti tuhkaa
 Munty;Munty
 Murcaily;Murcaily
-Murfet;Murfet
-Murky Matt (runes);Murky Matt (riimuja)
-Murky Pat;Hämärä Pat
 Murng bat;Murng lepakko
-Murphy;Murphy
-Muruwoi;Muruwoi
-Museum guard;Museon vartija
-Mushroom;Sieni
-Mutant tarn;Mutantti tarn
-Mutated Bloodveld;Mutoitunut Bloodveld
-Muttadile;Muttadile
-My Arm;Minun Käsi
-Myndill;Myndill
-Myre Blamish Snail;Myre Blamish Snail
-Mysterious Adventurer;Salaperäinen seikkailija
-Mysterious Figure;Salaperäinen hahmo
-Mysterious Old Man;Salaperäinen vanha mies
-Mysterious Stranger;Salaperäinen muukalainen
-Mysterious Voice;Salaperäinen Ääni
 Mysterious ghost;Salaperäinen haamu
-Mystery figure;Mysteeri hahmo
 Naghead;Naghead
-Nail beast;Nail peto
-Nakasa Jovkai;Nakasa Jovkai
 Nardah Banker;Nardah pankkiiri
-Nardok;Nardok
-Narf;Narf
-Natalidae Shadum;Natalidae Shadum
-Nathifa;Nathifa
-Natural Historian;Luonnonhistorioitsija
-Natural historian;Luonnonhistorioitsija
-Nature Spirit;Luonnon henki
-Nature impling;Luonto vaikuttaa
-Nazastarool (hard);Nazastarool (kova)
-Nechryael;Nechryael
-Nechryarch;Nechryarch
 Necromancer;Necromancer
+Monkey minder;Apinanhoitaja
+Mort Nightshade;Mort Nightshade
+Murfet;Murfet
+Murphy;Murphy
+Nail beast;Nail peto
+Monkey;Apina
+Morvran;Morvran
+Mosquito swarm;Hyttysparvi
+Moths;Koit
+Ms. Hynn Terprett;Rouva Hynn Terprett
+Mugger;Ryöstäjä
+Mysterious Voice;Salaperäinen Ääni
 Necrovarus;Necrovarus
-Ned;Ned
+Molly;Molly
+Mordan Nikazsi;Mordan Nikazsi
+Morris;Morris
+Mosol Rei;Mosol Rei
+Mother;Äiti
+Natalidae Shadum;Natalidae Shadum
+Monkey Guard;Apinavartija
+Murky Pat;Hämärä Pat
+Monkey Zombie;Apina Zombie
+Monstrous Basilisk;Hirviömäinen basiliski
+Moss Guardian;Moss Guardian
+Mountain goat;Vuorivuohi
+Mummy;Muumio
+Mushroom;Sieni
+Monk;Munkki
+Mountain troll;Vuoripeikko
+Mouse;Hiiri
+Movario;Movario
+Nazastarool;Nazastarool
+Mountain Dwarf;Vuoristokääpiö
+Mummy ashes;Äiti tuhkaa
+Murky Matt (runes);Murky Matt (riimuja)
+Museum guard;Museon vartija
+Mystery figure;Mysteeri hahmo
+Nathifa;Nathifa
+Myre Blamish Snail;Myre Blamish Snail
+Mysterious Stranger;Salaperäinen muukalainen
+Monkey Child;Apinan lapsi
+Morgan Le Faye;Morgan Le Faye
+Morten Holdstrom;Morten Holdstrom
+Mother Mallum;Äiti Mallum
+Mountain Goat;Vuorivuohi
+Mounted terrorchick gnome;Asennettu terrorchick gnome
+Mutant tarn;Mutantti tarn
+Nature Spirit;Luonnon henki
+Mort'ton local;Mort'tonin paikallinen
+Moss Giant;Moss jättiläinen
+Mountain Guide;Vuoristoopas
+Mutated Bloodveld;Mutoitunut Bloodveld
+Monkey guard;Apinan vartija
+Monkey on unicorn;Apina yksisarvisen päällä
+Morgan;Morgan
+Mr. Mordaut;Herra Mordaut
+Mudskipper;Mudskipper
+Mysterious Adventurer;Salaperäinen seikkailija
+Narf;Narf
+Natural Historian;Luonnonhistorioitsija
+Nazastarool (hard);Nazastarool (kova)
+Moss giant;Sammaleen jättiläinen
+Muruwoi;Muruwoi
+My Arm;Minun Käsi
+Nature impling;Luonto vaikuttaa
+Nechryarch;Nechryarch
 Neferti the Camel;Kameli Neferti
 Neil;Neil
-Neite;Ei
-Nellas;Nellas
-Nemishka;Nemishka
-Nerdanel;Nerdanel
-Nesty;Nesty
-New Recruit Tony;Uusi värvätty Tony
-Newtroost;Newtroost
-Nezikchened;Nezikchened
-Nezikchened (hard);Nezikchened (kova)
-Nia;Nia
-Nicholas;Nicholas
-Nick;Nick
-Nickolaus;Nickolaus
-Nicoleta;Nicoleta
-Nieve;Nieve
-Nigel;Nigel
-Night beast;Yön peto
-Nikita;Nikita
-Nikkie;Nikkie
-Nikolai;Nikolai
-Niles;Niles
-Niloof;Niloof
-Nimloth;Nimloth
-Nimrodel;Nimrodel
-Ninja impling;Ninja vihjailee
-Nipper;Nipper
-Nirrie;Nirrie
-Nisha;Nisha
-Nkuku;Nkuku
-Noctillion Lugosi;Noctillion Lugosi
-Noella;Noella
-Nolar;Nolar
-Nomad;Nomad
-Noodle;Nuudeli
-Noon;Keskipäivä
-Nora T. Hagg;Nora T. Hagg
-Noranna Tytanin;Noranna Tytanin
-Norman;Norman
-Not Bob;Ei Bob
-Noterazzo;Noterazzo
-Novice;Noviisi
-Nuclear smoke devil;Ydinsavupaholainen
-Nulodion;Nulodion
-Numpty;Nuhjuinen
-Nung;Nung
-Nurmof;Nurmof
-Nurse Boubou;Sairaanhoitaja Boubou
-Nurse Emma Gentsy;Sairaanhoitaja Emma Gentsy
-Nurse Inn'Juree;Sairaanhoitaja Inn'Juree
-Nurse Sarah;Sairaanhoitaja Saara
-Nurse Wooned;Sairaanhoitaja Wooned
-Nylocas;Nylocas
-Nylocas Athanatos;Nylocas Athanatos
-Nylocas Hagios;Nylocas Hagios
-Nylocas Ischyros;Nylocas Ischyros
-Nylocas Matomenos;Nylocas Matomenos
-Nylocas Prinkipas;Nylocas Prinkipas
-Nylocas Queen;Nylocas Queen
-Nylocas Toxobolos;Nylocas Toxobolos
-Nylocas Vasilias;Nylocas Vasilias
-Oaknock the Engineer;Oaknock the Engineer
-Oath Lord D'rows;Oath Lord D'rows
-Oathbreaker B'ats;Oathbreaker B'ats
-Oathbreaker E'piws;Oathbreaker E'piws
-Oathbreaker M'als;Valanmurtaja M'als
-Obli;Obli
-Obor;Obor
-Observatory assistant;Observatorion assistentti
-Observatory professor;Observatorion professori
+Mort'ton Local;Mort'tonin paikallinen
+Mourner;Sureva
+Muttadile;Muttadile
+Mysterious Old Man;Salaperäinen vanha mies
+Natural historian;Luonnonhistorioitsija
+Moldof;Moldof
+Monk of Entrana;Entranan munkki
+Monkey Archer;Apina Archer
+Mord Gunnars;Mord Gunnars
+Mysterious Figure;Salaperäinen hahmo
+Nechryael;Nechryael
+Monk of Zamorak;Zamorakin munkki
+Monstrous basilisk;Hirviömäinen basiliski
+Mori;Mori
+Mortina Daubenton;Mortina Daubenton
+Moss Guardian (hard);Moss Guardian (kova)
+Most of a Zombie;Suurin osa zombista
+Myndill;Myndill
+Nakasa Jovkai;Nakasa Jovkai
+Nardok;Nardok
+Ned;Ned
 Ocga;Ocga
-Ochre Blamish Snail;Ocher Blamish Snail
-Odd Mushroom;Outo Sieni
-Odd Old Man;Outo Vanhus
-Odd Stone;Outo Kivi
-Odmar;Odmar
-Odovacar;Odovacar
-Odysseus;Odysseus
-Og;Og
-Ogre;Ogre
-Ogre boat;Ogre vene
-Ogre chieftain;Ogren päällikkö
-Ogre guard;Ogren vartija
-Ogre merchant;Ogren kauppias
-Ogre shaman;Ogren shamaani
-Ogre trader;Ogre kauppias
-Ogress Shaman;Ogressin shamaani
-Ogress Warrior;Ogress Warrior
-Oipuis;Oipuis
-Olaf Hradson;Olaf Hradson
-Olaf the Bard;Olaf Bard
-Olbertus;Olbertus
-Old Man Ral;Vanha mies Ral
-Old Man Yarlo;Vanha mies Yarlo
 Old crone;Vanha kruunu
-Old dwarf;Vanha kääpiö
-Old man;Vanha mies
-Oldak;Oldak
+Neite;Ei
+Nigel;Nigel
+Nurse Emma Gentsy;Sairaanhoitaja Emma Gentsy
+Nylocas Athanatos;Nylocas Athanatos
+Ogress Warrior;Ogress Warrior
+New Recruit Tony;Uusi värvätty Tony
+Nisha;Nisha
+Noella;Noella
+Norman;Norman
+Numpty;Nuhjuinen
 Olivia;Olivia
 Ollie the Camel;Kameli Ollie
 Olmlet;Olmlet
-Omart;Omart
-Oneiromancer;Oneiromancer
-Oobapohk;Oobapohk
-Oomlie bird;Oomlie lintu
-Oozing barrier;Tihkuva este
-Operator;Operaattori
-Oracle;Oraakkeli
-Orange salamander;Oranssi salamanteri
-Ordan;Ordan
-Ork;Ork
-Orlando Smith;Orlando Smith
-Oronwen;Oronwen
-Oropher;Oropher
-Orophin;Orophin
-Orrvor quo Maten;Orrvor quo Maten
-Osian;Osian
-Osman;Osman
-Ospak;Ospak
-Osten;Osten
-Osvald;Osvald
-Oswald;Oswald
-Oswallt;Oswallt
-Othainian;Othainialainen
-Other Half-Zombie;Muu Half-Zombie
-Otherworldly being;Toisen maailman oleminen
-Otto Godblessed;Otto Jumalan siunattu
-Ouditor;Tarkastaja
-Ouhai;Ouhai
-Outlaw;Lainsuojaton
-Overgrown cat;Liian kasvanut kissa
-Overgrown hellcat;Ylikasvanut helvetinkissa
-Owl;Pöllö
-Oxi;Oxi
-Oziach;Oziach
-PKMaster0036;PKMaster0036
+Noctillion Lugosi;Noctillion Lugosi
+Noterazzo;Noterazzo
+Nulodion;Nulodion
+Nurse Sarah;Sairaanhoitaja Saara
+Nylocas Matomenos;Nylocas Matomenos
+Olaf the Bard;Olaf Bard
+Nemishka;Nemishka
+Nikkie;Nikkie
+Nylocas Vasilias;Nylocas Vasilias
+Oathbreaker E'piws;Oathbreaker E'piws
+Odd Mushroom;Outo Sieni
+Old dwarf;Vanha kääpiö
+Nezikchened (hard);Nezikchened (kova)
+Niloof;Niloof
+Noranna Tytanin;Noranna Tytanin
+Nylocas Prinkipas;Nylocas Prinkipas
+Nellas;Nellas
+Nieve;Nieve
+Noon;Keskipäivä
+Not Bob;Ei Bob
+Oathbreaker M'als;Valanmurtaja M'als
+Og;Og
+Ogre guard;Ogren vartija
+Nicoleta;Nicoleta
+Nikita;Nikita
+Nimrodel;Nimrodel
+Nurse Boubou;Sairaanhoitaja Boubou
+Odysseus;Odysseus
+Oipuis;Oipuis
+Nirrie;Nirrie
+Nkuku;Nkuku
+Novice;Noviisi
+Obli;Obli
+Ogre shaman;Ogren shamaani
+Nesty;Nesty
+Nimloth;Nimloth
+Ninja impling;Ninja vihjailee
+Nipper;Nipper
+Nurse Inn'Juree;Sairaanhoitaja Inn'Juree
+Observatory assistant;Observatorion assistentti
+Odd Stone;Outo Kivi
+Ogre;Ogre
+Nezikchened;Nezikchened
+Nia;Nia
+Nicholas;Nicholas
+Nickolaus;Nickolaus
+Nikolai;Nikolai
+Niles;Niles
+Nomad;Nomad
+Nurmof;Nurmof
+Nurse Wooned;Sairaanhoitaja Wooned
+Nylocas Toxobolos;Nylocas Toxobolos
+Observatory professor;Observatorion professori
+Ogre chieftain;Ogren päällikkö
+Old Man Ral;Vanha mies Ral
+Nung;Nung
+Nylocas Ischyros;Nylocas Ischyros
+Oathbreaker B'ats;Oathbreaker B'ats
+Ogre trader;Ogre kauppias
+Ogress Shaman;Ogressin shamaani
+Nerdanel;Nerdanel
+Nick;Nick
+Nylocas;Nylocas
+Oath Lord D'rows;Oath Lord D'rows
+Ochre Blamish Snail;Ocher Blamish Snail
+Odd Old Man;Outo Vanhus
+Olbertus;Olbertus
+Old Man Yarlo;Vanha mies Yarlo
+Newtroost;Newtroost
+Night beast;Yön peto
+Noodle;Nuudeli
+Nylocas Hagios;Nylocas Hagios
+Oaknock the Engineer;Oaknock the Engineer
+Odovacar;Odovacar
+Ogre merchant;Ogren kauppias
+Olaf Hradson;Olaf Hradson
+Oldak;Oldak
+Nolar;Nolar
+Obor;Obor
+Odmar;Odmar
+Ogre boat;Ogre vene
+Old man;Vanha mies
+Nora T. Hagg;Nora T. Hagg
+Nuclear smoke devil;Ydinsavupaholainen
+Nylocas Queen;Nylocas Queen
 Padulah;Padulah
-Pagida;Pagida
-Painted One;Maalattu yksi
-Paladin;Paladin
-Palmer;Palmer
-Pandur Hosidius;Pandur Hosidius
-Panning guide;Panorointiopas
-Parasite;Loinen
-Parrot;Papukaija
-Parrots;Papukaijat
-Parroty Pete;Papukaija Pete
-Party Pete;Juhla Pete
-Passive Tar Monster;Passiivinen tervahirviö
-Patchy;Hajanainen
-Patrick;Patrick
-Patrolman;partiomies
-Patrolwoman;Partionainen
-Pauline Polaris;Pauline Polaris
-Peaceful barbarian spirit;Rauhallinen barbaarihenki
-Peasant;Talonpoika
-Pebble;Kivi
-Pee Hat;Pissahattu
-Peer the Seer;Katso näkijää
-Peksa;Peksa
-Pelican;Pelikaani
-Penance Fighter;Penance Fighter
-Penance Healer;Katumuksen parantaja
-Penance Pet;Penance Pet
 Penance Queen;Katumuksen kuningatar
-Penance Ranger;Penance Ranger
 Penance Runner;Penance Runner
-Penda;Penda
-Penguin;Pingviini
-Penguin display;Pingviinien näyttö
-Penguin suit;Pingviinien puku
 Pennant;Viiri
-Pentyn;Pentyn
-Penwie;Penwie
-Perdu;Perdu
-Perfect gold ore;Täydellinen kultamalmi
-Perrdur;Perrdur
-Perry;Perry
-Pescaling Pax;Pescaling Pax
+Petra Fiyed;Petra Fiyed
+Phials;Pullot
+Pieve;Pieve
+Orlando Smith;Orlando Smith
+Osten;Osten
+Othainian;Othainialainen
+Overgrown cat;Liian kasvanut kissa
+Owl;Pöllö
+Painted One;Maalattu yksi
+Peer the Seer;Katso näkijää
+Penance Ranger;Penance Ranger
+Oozing barrier;Tihkuva este
+Oswald;Oswald
+Penance Healer;Katumuksen parantaja
 Pestilent Bloat;Pestilent Bloat
+Phosani's Nightmare;Phosanin painajainen
+Phrin Shadow;Phrin varjo
+Oxi;Oxi
+Pagida;Pagida
+Pebble;Kivi
+Phillipa;Phillipa
+Phoenix;Phoenix
+Osman;Osman
+Patrick;Patrick
+Patrolwoman;Partionainen
+Penguin display;Pingviinien näyttö
 Pet rock;Lemmikkikivi
 Peter;Peter
-Petra Fiyed;Petra Fiyed
-Petrified Pete;Kivettynyt Pete
-Phabelle Bile;Phabelle Bile
-Phantom Hand;Phantom käsi
 Phantuwti Fanstuwi Farsight;Phantuwti Fanstuwi Farsight
-Pheasant;Fasaani
-Phials;Pullot
-Phileas Rimor;Phileas Rimor
-Philipe Carnillean;Philipe Carnillean
-Phillipa;Phillipa
-Philop;Philop
-Phingspet;Phingspet
 Phluxia bat;Phluxia lepakko
-Phoenix;Phoenix
-Phosani's Nightmare;Phosanin painajainen
-Phrin Shade;Phrin Shade
-Phrin Shadow;Phrin varjo
+Oneiromancer;Oneiromancer
+Penguin;Pingviini
+Philipe Carnillean;Philipe Carnillean
+Ordan;Ordan
+Oropher;Oropher
+Osvald;Osvald
+Oziach;Oziach
+Paladin;Paladin
+Patrolman;partiomies
+Peaceful barbarian spirit;Rauhallinen barbaarihenki
+Perdu;Perdu
+Phabelle Bile;Phabelle Bile
 Pierre;Pierre
-Pieve;Pieve
-Pig;Sika
-Pig Thing;Possujuttu
-Piglet;Porsas
-Pile of bones;Kasa luita
-Piles;Paalut
-Pilg;Pilg
-Piliar;Piliar
-Pillory Guard;Pillerivartija
-Ping;Ping
-Pipistrelle Draynar;Pipistrelle Draynar
-Pirate;Merirosvo
-Pirate Guard;Merirosvovartija
-Pirate Jackie the Fruit;Merirosvo Jackie the Fruit
-Pirate Pete;Piraatti Pete
-Pit Scorpion;Pit Scorpion
-Pizazz Hat;Pizazz-hattu
-Plague cow;Rutto lehmä
-Plague frog;Rutto sammakko
-Poison Salesman;Myrkkyjen myyjä
-Poison Scorpion;Poison Scorpion
-Poison spider;Myrkkyhämähäkki
-Polar eagle;Jääkotka
-Polmafi Ferdygris;Polmafi Ferdygris
-Poltenip;Poltenip
-Pong;Pong
-Pontak;Pontak
-Ponts the Bridgemaster;Ponts the Bridgemaster
-Poor looking man;Huono näköinen mies
-Poor looking woman;Huono näköinen nainen
-Porazdir;Porazdir
-Port Official;Sataman virkamies
-Port worker;Sataman työntekijä
-Portal;Portaali
-Portal of Death;Kuoleman portaali
-Portobello;Portobello
-Possessed Priest;Valtuutettu pappi
-Possessed pickaxe;Omistanut hakku
-Postie Pete;Posti Pete
-Pox;Pox
-Prael bat;Prael lepakko
-Praistan Ebola;Praistan Ebola
-Prayer tutor;Rukousopettaja
-Preswylwyr Dall;Preswylwyr Dall
-Prickly kebbit;Piikikäs kebbit
-Priest;Pappi
-Priestess Zul-Gwenwynig;Pappitar Zul-Gwenwynig
+Omart;Omart
+Parrot;Papukaija
+Parroty Pete;Papukaija Pete
+Perry;Perry
+Philop;Philop
+Ork;Ork
+Other Half-Zombie;Muu Half-Zombie
+PKMaster0036;PKMaster0036
+Palmer;Palmer
+Pentyn;Pentyn
+Penwie;Penwie
+Pescaling Pax;Pescaling Pax
+Pheasant;Fasaani
+Phingspet;Phingspet
+Orophin;Orophin
+Ouditor;Tarkastaja
+Passive Tar Monster;Passiivinen tervahirviö
+Pauline Polaris;Pauline Polaris
+Peasant;Talonpoika
+Phrin Shade;Phrin Shade
+Oomlie bird;Oomlie lintu
+Osian;Osian
+Oswallt;Oswallt
+Pelican;Pelikaani
+Oracle;Oraakkeli
+Orrvor quo Maten;Orrvor quo Maten
+Penance Pet;Penance Pet
+Penguin suit;Pingviinien puku
+Pandur Hosidius;Pandur Hosidius
+Peksa;Peksa
+Penda;Penda
+Phantom Hand;Phantom käsi
+Phileas Rimor;Phileas Rimor
+Oobapohk;Oobapohk
+Oronwen;Oronwen
+Panning guide;Panorointiopas
+Patchy;Hajanainen
+Penance Fighter;Penance Fighter
+Perrdur;Perrdur
+Operator;Operaattori
+Ospak;Ospak
+Ouhai;Ouhai
+Outlaw;Lainsuojaton
+Parasite;Loinen
+Parrots;Papukaijat
+Pee Hat;Pissahattu
+Orange salamander;Oranssi salamanteri
+Otherworldly being;Toisen maailman oleminen
+Otto Godblessed;Otto Jumalan siunattu
+Overgrown hellcat;Ylikasvanut helvetinkissa
+Party Pete;Juhla Pete
+Perfect gold ore;Täydellinen kultamalmi
+Petrified Pete;Kivettynyt Pete
 Prifddinas guard;Prifddinas vartija
-Primula;Primula
-Prince Ali;Prinssi Ali
-Prince Black Dragon;Prinssi musta lohikäärme
-Prince Brand;Prinssi Brand
-Princess Astrid;Prinsessa Astrid
-Prison Pete;Vankila Pete
-Prisoner;Vanki
-Prissy Scilla;Prissy Scilla
-Private Paldo;Yksityinen Paldo
-Private Paldon;Yksityinen Paldon
-Private Pendron;Yksityinen Pendron
-Private Pierreb;Yksityinen Pierreb
-Probita;Probita
-Professor Gracklebone;Professori Gracklebone
-Professor Imblewyn;Professori Imblewyn
-Professor Manglethorp;Professori Manglethorp
-Professor Oddenstein;Professori Oddenstein
-Professor Onglewip;Professori Onglewip
-Prosecutor;Syyttäjä
-Prospector Percy;Etsijä Percy
-Protest Leader;Protestin johtaja
-Protester;Mielenosoittaja
-Psykk bat;Psykk bat
-Puffer Fish;Puffer Fish
-Puffin;Lunni
-Pumpy;Pumpuinen
-Puppadile;Puppadile
-Purepker895;Purepker895
-Purple Pewter Director;Purple Pewterin johtaja
-Purple Pewter Secretary;Purple Pewter sihteeri
-Pusskins;Pusskins
-Pyramid block;Pyramidi lohko
-Pyrefiend;Pyrefiend
 Pyrelord;Pyrelord
-Pyromancer;Pyromancer
-Quartermaster;Varsinainen mestari
+Pig Thing;Possujuttu
+Pilg;Pilg
+Plague cow;Rutto lehmä
+Professor Gracklebone;Professori Gracklebone
+Puffer Fish;Puffer Fish
 Queen Ellamaria;Kuningatar Ellamaria
-Queen Sigrid;Kuningatar Sigrid
+Pipistrelle Draynar;Pipistrelle Draynar
+Pit Scorpion;Pit Scorpion
+Pong;Pong
+Ponts the Bridgemaster;Ponts the Bridgemaster
+Poor looking woman;Huono näköinen nainen
+Private Pierreb;Yksityinen Pierreb
+Protester;Mielenosoittaja
 Queen Zyanyi Arkan;Kuningatar Zyanyi Arkan
-Queen spawn;Queen spawn
+Radimus Erkle;Radimus Erkle
+Polar eagle;Jääkotka
+Prince Black Dragon;Prinssi musta lohikäärme
+Professor Onglewip;Professori Onglewip
+Purple Pewter Director;Purple Pewterin johtaja
+Quartermaster;Varsinainen mestari
+Polmafi Ferdygris;Polmafi Ferdygris
+Portal of Death;Kuoleman portaali
+Pox;Pox
+Primula;Primula
+Professor Imblewyn;Professori Imblewyn
 Quest Guide;Seikkailuopas
 Quiz Master;Tietokilpailun mestari
 Qutiedoll;Quitiedoll
-R4ng3rNo0b889;R4ng3rNo0b889
-Rabbit;Kani
 Raccoon;Pesukarhu
-Rachael;Rachael
-Radat;Radat
-Radigad Ponfit;Radigad Ponfit
-Radimus Erkle;Radimus Erkle
+Piliar;Piliar
+Pirate;Merirosvo
+Pirate Guard;Merirosvovartija
+Pirate Pete;Piraatti Pete
+Pizazz Hat;Pizazz-hattu
+Possessed pickaxe;Omistanut hakku
+Preswylwyr Dall;Preswylwyr Dall
+Professor Manglethorp;Professori Manglethorp
+Pumpy;Pumpuinen
+Postie Pete;Posti Pete
+Prael bat;Prael lepakko
+Prickly kebbit;Piikikäs kebbit
+Prisoner;Vanki
+Private Paldon;Yksityinen Paldon
+Purepker895;Purepker895
+Pusskins;Pusskins
+Pyromancer;Pyromancer
 Radu;Radu
 Raeli;Raeli
+Piles;Paalut
+Ping;Ping
+Queen Sigrid;Kuningatar Sigrid
+R4ng3rNo0b889;R4ng3rNo0b889
+Porazdir;Porazdir
+Port Official;Sataman virkamies
+Prison Pete;Vankila Pete
+Probita;Probita
+Professor Oddenstein;Professori Oddenstein
+Radigad Ponfit;Radigad Ponfit
 Raetul;Raetul
-Ragnar;Ragnar
-Ragnvald;Ragnvald
-Rakkar;Rakkar
-Ram;Ram
-Ramara du Croissant;Ramara du Croissant
+Pig;Sika
+Piglet;Porsas
+Pile of bones;Kasa luita
+Plague frog;Rutto sammakko
+Poltenip;Poltenip
+Possessed Priest;Valtuutettu pappi
+Prayer tutor;Rukousopettaja
+Puppadile;Puppadile
+Rabbit;Kani
+Pirate Jackie the Fruit;Merirosvo Jackie the Fruit
+Poison Salesman;Myrkkyjen myyjä
+Port worker;Sataman työntekijä
+Priest;Pappi
+Psykk bat;Psykk bat
+Portobello;Portobello
+Prospector Percy;Etsijä Percy
+Protest Leader;Protestin johtaja
+Puffin;Lunni
+Purple Pewter Secretary;Purple Pewter sihteeri
+Radat;Radat
+Pontak;Pontak
+Private Paldo;Yksityinen Paldo
+Pyramid block;Pyramidi lohko
+Pyrefiend;Pyrefiend
+Pillory Guard;Pillerivartija
+Praistan Ebola;Praistan Ebola
+Prince Ali;Prinssi Ali
+Poison Scorpion;Poison Scorpion
+Poison spider;Myrkkyhämähäkki
+Portal;Portaali
+Prince Brand;Prinssi Brand
+Private Pendron;Yksityinen Pendron
+Rachael;Rachael
+Poor looking man;Huono näköinen mies
+Priestess Zul-Gwenwynig;Pappitar Zul-Gwenwynig
+Princess Astrid;Prinsessa Astrid
+Prissy Scilla;Prissy Scilla
+Prosecutor;Syyttäjä
+Queen spawn;Queen spawn
 Ramarno;Ramarno
-Ramocean;Ramosealainen
-Ranael;Ranael
-Ranalph Devere;Ranalph Devere
-Randivor;Randivor
 Ranged combat tutor;Kantaman taisteluohjaaja
-Ranger;Ranger
-Ranger (medium);Ranger (keskikokoinen)
-Ranging Guild Doorman;Range Guild Doorman
 Ranis Drakan;Ranis Drakan
 Rannveig;Rannveig
-Rantz;Rantz
-Raqueel;Raqueel
-Rashiliyia;Rashiliyia
-Rasolo;Rasolo
-Rassain;Rassain
-Rat;Rotta
-Rat Burgiss;Rotta Burgiss
-Rauborn;Rauborn
-Raulyn;Raulyn
-Raum Urda-Stein;Raum Urda-Stein
-Ravager;Ravager
-Raven;Korppi
-Razmire Keelgan;Razmire Keelgan
-Razvan;Razvan
-Reach;Tavoita
-Reacher;Reacher
-Reanimated TzHaar;Reanimoitu TzHaar
-Reanimated abyssal;Reanimoitu kuilu
-Reanimated aviansie;Reanimoitu lintu
-Reanimated bear;Reanimoitu karhu
-Reanimated bloodveld;Reanimoitu verisuoni
-Reanimated chaos druid;Elvytetty kaaosdruidi
-Reanimated dagannoth;Reanimoitu dagannoth
-Reanimated demon;Reanimoitu demoni
-Reanimated demon spawn;Elvytetty demonien kuteminen
-Reanimated dog;Reanimoitu koira
-Reanimated dragon;Elvytetty lohikäärme
-Reanimated elf;Reanimoitu tonttu
-Reanimated giant;Reanimoitu jättiläinen
-Reanimated goblin;Reanimoitu peikko
 Reanimated horror;Reanimoitu kauhu
-Reanimated imp;Reanimoitu imp
-Reanimated kalphite;Reanimoitu kalfiitti
-Reanimated minotaur;Reanimoitu minotaurus
-Reanimated monkey;Reanimoitu apina
-Reanimated ogre;Elvytetty ogre
-Reanimated scorpion;Elvytetty skorpioni
-Reanimated troll;Reanimoitu trolli
-Reanimated unicorn;Reanimoitu yksisarvinen
-Rebel Archer;Kapinallinen Archer
-Rebel Scout;Kapinallinen Scout
-Rebel Warrior;Kapinallissoturi
-Recruiter;Rekrytoija
-Red;Punainen
-Red Axe Cat;Punainen kirves kissa
-Red Axe Director;Red Axe johtaja
-Red Axe Henchman;Punainen kirves kätyrimies
-Red Axe Secretary;Punaisen kirvesen sihteeri
 Red Monkey;Punainen apina
-Red Panda;Punainen Panda
-Red Sheep;Punainen lammas
 Red dragon;Punainen lohikäärme
-Red fireflies;Punaiset tulikärpäset
 Red salamander;Punainen salamanteri
 Redbeard Frank;Punaparta Frank
-Reese;Reese
-Reeso;Reeso
-Ref;Viite
-Refugee;pakolainen
-Regath;Regath
-Reginald;Reginald
-Reinald;Reinald
-Reinn;Reinn
-Reldak;Reldak
-Reldo;Reldo
-Relobo Blinyo (logs);Relobo Blinyo (tukit)
-Remsai;Remsai
-Remus Kaninus;Remus Kaninus
-Renegade Knight;Renegade ritari
-Renegade knight;Renegade ritari
-Repugnant spectre;vastenmielinen haamu
-Researcher;Tutkija
-Reshi;Reshi
-Resistance Fighter;Vastarintataistelija
-Respiratory system;Hengitysjärjestelmä
-Restless ghost;Levoton aave
-Retired sailor;Eläkkeellä oleva merimies
 Revenant cyclops;Revenant kykloopit
-Revenant dark beast;Revenant tumma peto
-Revenant demon;Revenant demoni
-Revenant dragon;Revenant lohikäärme
+Ravager;Ravager
+Renegade knight;Renegade ritari
+Revenant hobgoblin;Revenant Hobgoblin
+Reanimated bear;Reanimoitu karhu
+Reanimated troll;Reanimoitu trolli
+Reinn;Reinn
 Revenant goblin;Revenant goblin
 Revenant hellhound;Revenant helvetinkoira
-Revenant hobgoblin;Revenant Hobgoblin
-Revenant imp;Revenant imp
-Revenant knight;Revenant ritari
-Revenant ork;Revenant ork
+Ragnar;Ragnar
+Rakkar;Rakkar
+Ramara du Croissant;Ramara du Croissant
+Reanimated abyssal;Reanimoitu kuilu
+Reanimated aviansie;Reanimoitu lintu
+Reanimated dagannoth;Reanimoitu dagannoth
+Reanimated kalphite;Reanimoitu kalfiitti
+Reanimated minotaur;Reanimoitu minotaurus
+Red Axe Secretary;Punaisen kirvesen sihteeri
+Ranger;Ranger
+Raqueel;Raqueel
+Raulyn;Raulyn
+Reach;Tavoita
+Reanimated bloodveld;Reanimoitu verisuoni
+Rebel Scout;Kapinallinen Scout
+Reldak;Reldak
+Reshi;Reshi
+Ragnvald;Ragnvald
+Ranael;Ranael
+Reanimated TzHaar;Reanimoitu TzHaar
+Remus Kaninus;Remus Kaninus
+Renegade Knight;Renegade ritari
+Researcher;Tutkija
+Ram;Ram
+Ramocean;Ramosealainen
+Rat Burgiss;Rotta Burgiss
+Reanimated dog;Reanimoitu koira
+Recruiter;Rekrytoija
+Red Axe Henchman;Punainen kirves kätyrimies
+Repugnant spectre;vastenmielinen haamu
+Respiratory system;Hengitysjärjestelmä
+Reanimated goblin;Reanimoitu peikko
+Red Axe Cat;Punainen kirves kissa
+Ranger (medium);Ranger (keskikokoinen)
+Raven;Korppi
+Razvan;Razvan
+Reanimated chaos druid;Elvytetty kaaosdruidi
+Reldo;Reldo
+Rasolo;Rasolo
+Red fireflies;Punaiset tulikärpäset
+Refugee;pakolainen
+Restless ghost;Levoton aave
+Retired sailor;Eläkkeellä oleva merimies
+Ranalph Devere;Ranalph Devere
+Reanimated unicorn;Reanimoitu yksisarvinen
+Resistance Fighter;Vastarintataistelija
+Revenant demon;Revenant demoni
+Randivor;Randivor
+Rat;Rotta
+Reacher;Reacher
+Reanimated demon spawn;Elvytetty demonien kuteminen
+Reanimated monkey;Reanimoitu apina
+Red Axe Director;Red Axe johtaja
+Revenant dark beast;Revenant tumma peto
+Ranging Guild Doorman;Range Guild Doorman
+Rauborn;Rauborn
+Red;Punainen
+Reinald;Reinald
+Rantz;Rantz
+Rassain;Rassain
+Rebel Archer;Kapinallinen Archer
+Relobo Blinyo (logs);Relobo Blinyo (tukit)
+Remsai;Remsai
+Rashiliyia;Rashiliyia
+Raum Urda-Stein;Raum Urda-Stein
+Reanimated demon;Reanimoitu demoni
+Reanimated elf;Reanimoitu tonttu
+Reanimated giant;Reanimoitu jättiläinen
+Reanimated imp;Reanimoitu imp
+Reanimated ogre;Elvytetty ogre
+Red Sheep;Punainen lammas
+Reeso;Reeso
+Reginald;Reginald
+Razmire Keelgan;Razmire Keelgan
+Reanimated dragon;Elvytetty lohikäärme
+Reanimated scorpion;Elvytetty skorpioni
+Rebel Warrior;Kapinallissoturi
+Red Panda;Punainen Panda
+Reese;Reese
+Ref;Viite
+Regath;Regath
+Revenant dragon;Revenant lohikäärme
 Revenant pyrefiend;Revenant Pyrefiend
 Rewards Guardian;Palkkiot Guardian
-Rhazien;Rhazien
-Rhiannon;Rhiannon
-Rhoddwr Tan;Rhoddwr Tan
-Rhonen;Rhonen
+Right head;Oikea pää
+Romily Weaklax;Romily Weaklax
+Saeros;Saeros
+San Fan;San Fan
+Revenant knight;Revenant ritari
+Rind the gardener;Kuori puutarhuri
+Robert O'Reilly;Robert O'Reilly
+Rock;Rock
+Rocky;Rocky
+Rolad;Rolad
+Ross;Ross
+Sacrifice;Uhrata
+Rocks;Kivet
+Rokuh;Rokuh
+Rolayne Twickit (hard);Rolayne Twickit (kova)
+Ruantun;Ruantun
+Saba;Saba
 Rhyfel;Rhyfel
 Richard;Richard
-Richard Flintmaul;Richard Flintmaul
-Rick;Rick
-Rick Turpentine;Rick Terpentine
-Ricketty door;Ricketty ovi
-Rift guardian;Rift vartija
-Right head;Oikea pää
-Riki the sculptor's model;Kuvanveistäjä Riki -malli
-Rimae Sirsalis;Rimae Sirsalis
-Rind the gardener;Kuori puutarhuri
 Rionasta;Rionasta
-River troll;Jokipeikko
-Riyl Shade;Riyl Shade
-Riyl Shadow;Riyl Shadow
-Riyl shadow;Riyl varjo
-Roachey;Roachey
-Roavar;Roavar
-Robert Boss;Robert Boss
-Robert O'Reilly;Robert O'Reilly
-Robert the Strong;Robert Vahva
-Robin;Robin
-Robyn;Robyn
-Rock;Rock
 Rock Crab;Kivirapu
 Rock Golem;Rock Golem
-Rock lobster;Kivihummeri
-Rock pile;Kivikasa
-Rocks;Kivet
-Rockslug;Rockslug
-Rocky;Rocky
 Rocnar;Rocnar
 Rod Fishing spot;Vapakalastuspaikka
-Rogue;Rogue
-Rogue Guard;Rogue Vartija
-Rohak;Rohak
-Rokuh;Rokuh
-Rolad;Rolad
-Rolayne Twickit (hard);Rolayne Twickit (kova)
-Romeo;Romeo
-Rometti;Rometti
-Romily Weaklax;Romily Weaklax
-Rommik;Rommik
-Ron Gadderanks;Ron Gadderanks
-Rooster;Kukko
-Root;Juuri
-Rory;Rory
-Rosie;Rosie
-Ross;Ross
 Ross and Ben;Ross ja Ben
-Rowdy Guard;Rohkea vartija
-Rowdy dwarf;Röyhkeä kääpiö
-Rowdy slave;Röyhkeä orja
-Roy;Roy
-Roy jr.;Roy jr.
-Royal Guard;Kuninkaallinen vartija
-Ruantun;Ruantun
-Ruby harvest;Rubiinin sato
-Rufus;Rufus
-Rug Merchant;Mattojen kauppias
-Runa;Runa
-Rune dragon;Rune lohikäärme
-Runite Golem;Runite Golem
-Runite Minor;Runite Minor
-Runite ore;Runiittimalmi
-Runolf;Runolf
-Runvastr;Runvastr
 Rupert the Beard;Rupert parta
 Rusty;Ruosteinen
-Saba;Saba
-Sabeil;Sabeil
-Saboteur;Sabotoija
+Rick;Rick
+Rimae Sirsalis;Rimae Sirsalis
+Riyl Shadow;Riyl Shadow
+Roavar;Roavar
+Robert Boss;Robert Boss
+Rooster;Kukko
+Runite Golem;Runite Golem
+Runvastr;Runvastr
 Sabre-toothed kebbit;Sarehampainen kebbit
+Sagira;Sagira
+Sand Crab;Hiekkarapu
+Riki the sculptor's model;Kuvanveistäjä Riki -malli
+Riyl shadow;Riyl varjo
+Robin;Robin
+Rock pile;Kivikasa
+Rory;Rory
+Roy;Roy
 Sabre-toothed kyatt;Sarehampainen kyatt
+Rogue;Rogue
+Runite ore;Runiittimalmi
+Runolf;Runolf
+Sabeil;Sabeil
 Sabreen;Sabreen
-Sacrifice;Uhrata
-Sadwrn;Sadwrn
-Saeros;Saeros
+Salarin the twisted;Salarin kierretty
+Rhonen;Rhonen
+Rick Turpentine;Rick Terpentine
+Salgant;Salgant
+Rhazien;Rhazien
+Rohak;Rohak
+Rosie;Rosie
+Rowdy slave;Röyhkeä orja
+Rufus;Rufus
 Saeth;Saeth
+San Tojalon;San Tojalon
+Rogue Guard;Rogue Vartija
+Revenant ork;Revenant ork
+Rhiannon;Rhiannon
+Richard Flintmaul;Richard Flintmaul
+Ricketty door;Ricketty ovi
+River troll;Jokipeikko
+Rometti;Rometti
+Ron Gadderanks;Ron Gadderanks
+Rowdy dwarf;Röyhkeä kääpiö
 Safalaan Hallow;Safalaan Pyhä
 Safta Doc;Safta Doc
-Sagira;Sagira
 Sailor;Merimies
-Salarin the twisted;Salarin kierretty
-Salenab;Salenab
-Salgant;Salgant
-Sam;Sam
+Rhoddwr Tan;Rhoddwr Tan
+Rift guardian;Rift vartija
+Robert the Strong;Robert Vahva
+Rock lobster;Kivihummeri
+Rockslug;Rockslug
+Romeo;Romeo
+Root;Juuri
+Rowdy Guard;Rohkea vartija
+Rug Merchant;Mattojen kauppias
 Sammy Servil;Sammy Servil
-San Fan;San Fan
-San Tojalon;San Tojalon
-Sand Crab;Hiekkarapu
-Sand Snake;Hiekka käärme
-Sand Snake (hard);Sand Snake (kova)
-Sand storm;Hiekkamyrsky
-Sandicrahb;Sandicrahb
-Sandwich lady;Voileipänainen
-Sandy;Sandy
-Sandy Boulder;Sandy Boulder
+Revenant imp;Revenant imp
+Robyn;Robyn
+Rune dragon;Rune lohikäärme
+Runite Minor;Runite Minor
+Saboteur;Sabotoija
+Salenab;Salenab
+Roachey;Roachey
+Rommik;Rommik
+Royal Guard;Kuninkaallinen vartija
+Ruby harvest;Rubiinin sato
+Runa;Runa
+Sadwrn;Sadwrn
+Riyl Shade;Riyl Shade
+Roy jr.;Roy jr.
+Sam;Sam
 Sandy rocks;Hiekkaisia ​​kiviä
-Sanfew;Sanfew
-Sani Piliu;Sani Piliu
-Saniboch;Saniboch
-Santiri;Santiri
-Sapphire glacialis;Sapphire glacialis
-Sarachnis;Sarachnis
-Saradomin priest;Saradomin pappi
-Saradomin wizard;Saradomin velho
-Saradominist recruiter;Saradoministinen rekrytoija
-Sarah;Sarah
-Sarble;Sarble
-Sarius Guile;Sarius Guile
-Saro;Saro
 Sassilik;Sassilik
-Savant;Savant
-Sawmill Operator;Sahan operaattori
-Sawmill operator;Sahan operaattori
-Sbott;Sbott
-Scabaras;Scabaras
-Scarab mage;Scarab maagi
-Scarab swarm;Scarab parvi
-Scarabs;Scarabs
-Scared skavid;Peloissaan skavid
-Scarg;Scarg
-Scavenger beast;Raiskaaja peto
-Scavvo;Scavvo
-Schoolboy;Koulupoika
-Schoolgirl;Koulutyttö
-Scion;Scion
-Scorpia;Skorpia
-Scorpia's guardian;Scorpian vartija
-Scorpia's offspring;Scorpian jälkeläisiä
-Scorpion;Skorpioni
-Scout;Partiolainen
-Screaming banshee;Huutava banshee
-Screaming twisted banshee;Huutava kierretty banshee
-Scrubfoot;Scrubfoot
-Sea Snake Hatchling;Merikäärme Hatchling
-Sea Snake Young;Merikäärme nuori
-Sea Troll General;Meripeikkokenraali
-Sea Troll Queen;Meripeikkokuningatar
-Sea slug;Merietana
-Sea slugs display;Merietanoiden näyttö
-Sea troll;Meripeikko
-Seagull;Lokki
-Seaman Lorris;Merimies Lorris
-Seaman Morris;Merimies Morris
-Seaman Thresnor;Merimies Thresnor
-Secretary;Sihteeri
-Security Guard;Vartija
-Seddu;Seddu
-Sedridor;Sedridor
-Seer;Näkijä
-Selena;Selena
-Selene;Selene
-Seravel;Seravel
-Seren;Seren
-Sergeant;Kersantti
-Sergeant Damien;Kersantti Damien
-Sergeant Grimspike;Kersantti Grimspike
-Sergeant Mossfists;Kersantti Mossfistit
 Sergeant Ricardo;Kersantti Ricardo
-Sergeant Sambur;Kersantti Sambur
+Sheepdog;Lammaskoira
+Sand Snake (hard);Sand Snake (kova)
+Sapphire glacialis;Sapphire glacialis
+Selena;Selena
 Sergeant Slimetoes;Kersantti Slimetoes
-Sergeant Steelwill;Kersantti Steelwill
-Sergeant Strongstack;Kersantti Strongstack
-Sergiu;Sergiu
-Servant;Palvelija
 Servery assistant;Palveleva avustaja
+Shark;Hai
+Sand Snake;Hiekka käärme
+Sandwich lady;Voileipänainen
+Scorpia's guardian;Scorpian vartija
+Scrubfoot;Scrubfoot
+Shayzien Infiltrator;Shayzien Infiltrator
+Sawmill operator;Sahan operaattori
+Scorpia's offspring;Scorpian jälkeläisiä
+Seaman Lorris;Merimies Lorris
+Seren;Seren
 Seth;Seth
 Seth Groats;Seth Groats
 Shade;Varjostin
-Shade Spirit;Shade Spirit
-Shadow;Varjo
 Shadow Hound;Varjokoira
-Shadow Wyrm;Shadow Wyrm
-Shadow spider;Varjo hämähäkki
-Shadow warrior;Varjosoturi
-Shadowy figure;Varjoinen hahmo
-Shady figure;Varjoisa hahmo
-Shaeded Beast;Shaeded Beast
-Shamus;Shamus
-Shanomi;Shanomi
-Shantay;Shantay
 Shantay Guard;Shantayn vartija
 Sharimika;Sharimika
-Shark;Hai
-Shayda;Shayda
-Shayzien Infiltrator;Shayzien Infiltrator
-Sheep;lampaat
-Sheepdog;Lammaskoira
+Sea slugs display;Merietanoiden näyttö
+Sedridor;Sedridor
+Shadow Wyrm;Shadow Wyrm
 Sherlock;Sherlock
+Sawmill Operator;Sahan operaattori
+Scarab mage;Scarab maagi
+Screaming twisted banshee;Huutava kierretty banshee
+Sea Troll General;Meripeikkokenraali
+Selene;Selene
+Sergeant Sambur;Kersantti Sambur
+Shadow warrior;Varjosoturi
+Shanomi;Shanomi
+Sani Piliu;Sani Piliu
+Santiri;Santiri
+Sarah;Sarah
+Schoolgirl;Koulutyttö
+Secretary;Sihteeri
+Sergiu;Sergiu
+Saradomin wizard;Saradomin velho
+Saro;Saro
+Seaman Thresnor;Merimies Thresnor
+Seer;Näkijä
+Sandy;Sandy
+Saniboch;Saniboch
+Saradomin priest;Saradomin pappi
+Seagull;Lokki
+Shadowy figure;Varjoinen hahmo
+Sarachnis;Sarachnis
+Saradominist recruiter;Saradoministinen rekrytoija
+Scabaras;Scabaras
+Scorpion;Skorpioni
+Sea Snake Young;Merikäärme nuori
+Sergeant Grimspike;Kersantti Grimspike
+Shady figure;Varjoisa hahmo
+Shantay;Shantay
+Sheep;lampaat
+Sand storm;Hiekkamyrsky
+Scarab swarm;Scarab parvi
+Sea Snake Hatchling;Merikäärme Hatchling
+Sea Troll Queen;Meripeikkokuningatar
+Seravel;Seravel
+Sergeant Steelwill;Kersantti Steelwill
+Sarius Guile;Sarius Guile
+Scarg;Scarg
+Schoolboy;Koulupoika
+Scout;Partiolainen
+Sea slug;Merietana
+Seddu;Seddu
+Sergeant Strongstack;Kersantti Strongstack
+Shade Spirit;Shade Spirit
+Sandicrahb;Sandicrahb
+Sandy Boulder;Sandy Boulder
+Sanfew;Sanfew
+Scarabs;Scarabs
+Sea troll;Meripeikko
+Sergeant Mossfists;Kersantti Mossfistit
+Servant;Palvelija
+Shadow;Varjo
+Shadow spider;Varjo hämähäkki
+Shamus;Shamus
+Shayda;Shayda
+Scared skavid;Peloissaan skavid
+Scion;Scion
+Security Guard;Vartija
+Sergeant Damien;Kersantti Damien
+Shaeded Beast;Shaeded Beast
+Savant;Savant
+Sbott;Sbott
+Scavenger beast;Raiskaaja peto
+Scavvo;Scavvo
+Screaming banshee;Huutava banshee
+Seaman Morris;Merimies Morris
+Sarble;Sarble
+Scorpia;Skorpia
+Sergeant;Kersantti
 Sheryl;Sheryl
-Shield master;Kilven mestari
-Shifter;Vaihde
-Shilop;Shilop
-Shipyard worker;Telakan työntekijä
-Shiratti the Custodian;Shiratti säilyttäjä
-Shop assistant;Kauppa-apulainen
+Siamun;Siamun
+Sigismund;Sigismund
+Sinister Stranger;Synkkä muukalainen
+Sir Harry;Sir Harry
+Sister Scarophia;Sisar Scarophia
+Skeleton;Luuranko
 Shop keeper;Kaupan pitäjä
 Shura;Shura
-Siamun;Siamun
-Sian;Sian
-Sid;Sid
-Siegfried Erkle;Siegfried Erkle
 Sigbert the Adventurer;Sigbert seikkailija
-Sigismund;Sigismund
-Sigli the Huntsman;Sigli metsästäjä
+Sil'as Dahcsnu;Sil'as Dahcsnu
+Simona;Simona
+Sir Palomedes;Sir Palomedes
+Sister Senga;Sisar Senga
+Sister Toen;Sisar Toen
+Siegfried Erkle;Siegfried Erkle
+Sinclair;Sinclair
+Sir Leye;Sir Leye
+Sir Ren Itchood;Sir Ren Itchood
+Sirsal Banker;Sirsal pankkiiri
+Skeleton Hellhound;Luuranko Hellhound
+Shiratti the Custodian;Shiratti säilyttäjä
 Sigmund;Sigmund
 Sigmund The Merchant;Sigmund Kauppias
-Sigmund and Zanik;Sigmund ja Zanik
-Signy;Signy
-Sigurd;Sigurd
-Sil'as Dahcsnu;Sil'as Dahcsnu
-Silk merchant;Silkkikauppias
-Silk trader;Silkkikauppias
-Silver Cog Director;Silver Cog johtaja
-Silver Cog Secretary;Hopeahammassihteeri
-Silver merchant;Hopeakauppias
-Silver ore;Hopeamalmi
-Simon;Simon
-Simon Templeton;Simon Templeton
-Simona;Simona
-Sin Seer;Syntinäkijä
-Sinclair;Sinclair
-Sinclair Guard dog;Sinclairin vartiokoira
-Sinco Doar;Sinco Doar
-Sinister Stranger;Synkkä muukalainen
-Sir Amik Varze;Sir Amik Varze
-Sir Bedivere;Sir Bedivere
-Sir Carl;Sir Carl
-Sir Gawain;Sir Gawain
-Sir Harry;Sir Harry
-Sir Jerro;Sir Jerro
-Sir Kay;Sir Kay
-Sir Kuam Ferentse;Sir Kuam Ferentse
-Sir Lancelot;Sir Lancelot
-Sir Leye;Sir Leye
-Sir Lucan;Sir Lucan
-Sir Mordred;Sir Mordred
-Sir Palomedes;Sir Palomedes
-Sir Pelleas;Sir Pelleas
-Sir Percival;Sir Percival
-Sir Prysin;Sir Prisin
 Sir Rebral;Sir Rebral
-Sir Ren Itchood;Sir Ren Itchood
-Sir Renitee;Sir Renite
-Sir Spishyus;Sir Spishyus
-Sir Tiffy Cashien;Sir Tiffy Cashien
-Sir Tinley;Sir Tinley
-Sir Tristram;Sir Tristram
-Sir Vyvin;Sir Vyvin
-Sirsal Banker;Sirsal pankkiiri
-Sister Aseret;Sisar Aseret
-Sister Naoj;Sisar Naoj
-Sister Salohcin;Sisar Salohcin
-Sister Scarophia;Sisar Scarophia
-Sister Senga;Sisar Senga
-Sister Sevi;Sisar Sevi
-Sister Soul Jar;Sisar Soul Jar
-Sister Toen;Sisar Toen
-Sister Yram;Sisar Yram
-Sithik Ints;Sithik Ints
-Skavid;Skavid
-Skeletal Mystic;Skeletal Mystic
-Skeletal Wyvern;Skeletal Wyvern
-Skeletal miner;Luuston kaivosmies
-Skeleton;Luuranko
-Skeleton Champion;Skeleton mestari
-Skeleton Hellhound;Luuranko Hellhound
-Skeleton Hellhound (hard);Luuranko Hellhound (kova)
-Skeleton Mage;Skeleton Mage
-Skeleton brute;Luuranko raaka
-Skeleton fremennik;Fremennik luuranko
-Skeleton heavy;Luuranko raskas
 Skeleton hero;Skeleton sankari
-Skeleton mage;Luurankomaagi
-Skeleton thug;Luuranko roisto
-Skeleton warlord;Luurankojen sotapäällikkö
-Skippy;Skippy
-Skogre;Skogre
-Skotizo;Skotizo
-Skotos;Skotos
-Skrach Uglogwee;Skrach Uglogwee
-Skraeling;Skraeling
-Skulgrimen;Skulgrimen
 Skuli Myrka;Skuli Myrka
 Skullball;Skullball
-Skullball Boss;Skullball Boss
-Skullball Trainer;Skullball Trainer
 Slagilith;Slagilith
+Shifter;Vaihde
+Sin Seer;Syntinäkijä
+Sir Tiffy Cashien;Sir Tiffy Cashien
+Sister Soul Jar;Sisar Soul Jar
+Sithik Ints;Sithik Ints
+Skeleton Mage;Skeleton Mage
+Skeleton warlord;Luurankojen sotapäällikkö
+Sigmund and Zanik;Sigmund ja Zanik
+Sinco Doar;Sinco Doar
+Sir Carl;Sir Carl
+Sister Aseret;Sisar Aseret
+Sister Salohcin;Sisar Salohcin
+Skeleton mage;Luurankomaagi
+Shield master;Kilven mestari
+Shilop;Shilop
+Shop assistant;Kauppa-apulainen
+Sir Spishyus;Sir Spishyus
+Skippy;Skippy
+Skogre;Skogre
+Skrach Uglogwee;Skrach Uglogwee
+Sid;Sid
+Sinclair Guard dog;Sinclairin vartiokoira
+Sir Tinley;Sir Tinley
+Skeleton brute;Luuranko raaka
 Slagilith (hard);Slagilith (kova)
-Slash Bash;Slash Bash
-Slave;Orja
-Sleeping Monkey;Nukkuva Apina
-Sleeping guard;Nukkuva vartija
-Sleepwalker;Unissakävelijä
-Slieve;Slieve
-Slim Louie;Ohut Louie
-Slippers;Tossut
-Sloane;Sloane
-Slug Hemligssen;Slug Hemligssen
-Slug Prince;Slug Prince
+Silk merchant;Silkkikauppias
+Silver merchant;Hopeakauppias
+Sir Bedivere;Sir Bedivere
+Sir Kuam Ferentse;Sir Kuam Ferentse
+Sir Lancelot;Sir Lancelot
+Sir Lucan;Sir Lucan
+Sir Mordred;Sir Mordred
+Sir Vyvin;Sir Vyvin
+Sister Yram;Sisar Yram
+Skeletal Wyvern;Skeletal Wyvern
+Skullball Trainer;Skullball Trainer
+Simon;Simon
+Sir Percival;Sir Percival
+Skraeling;Skraeling
+Silk trader;Silkkikauppias
+Sir Prysin;Sir Prisin
+Sir Tristram;Sir Tristram
+Skeleton Hellhound (hard);Luuranko Hellhound (kova)
+Skeleton thug;Luuranko roisto
+Skotizo;Skotizo
+Shipyard worker;Telakan työntekijä
+Sian;Sian
+Silver Cog Director;Silver Cog johtaja
+Sir Renitee;Sir Renite
+Sister Naoj;Sisar Naoj
+Sister Sevi;Sisar Sevi
+Skeletal Mystic;Skeletal Mystic
+Skeleton fremennik;Fremennik luuranko
+Skotos;Skotos
+Skulgrimen;Skulgrimen
+Sir Gawain;Sir Gawain
+Sir Jerro;Sir Jerro
+Sir Kay;Sir Kay
+Skeletal miner;Luuston kaivosmies
+Skeleton Champion;Skeleton mestari
+Sigli the Huntsman;Sigli metsästäjä
+Silver Cog Secretary;Hopeahammassihteeri
+Simon Templeton;Simon Templeton
+Skeleton heavy;Luuranko raskas
+Signy;Signy
+Sigurd;Sigurd
+Silver ore;Hopeamalmi
+Sir Amik Varze;Sir Amik Varze
+Sir Pelleas;Sir Pelleas
+Skavid;Skavid
+Skullball Boss;Skullball Boss
+Spinner;Spinner
+Squirrel;Orava
+Stone Guardian;Stone Guardian
 Small Lizard;Pieni lisko
-Small ninja monkey;Pieni ninja-apina
-Small zombie monkey;Pieni zombi-apina
-Smellytoes;Hajuvarpaat
-Smiddi Ryak (hard);Smiddi Ryak (kova)
 Smith;Smith
-Smithing apprentice;Smithingin oppipoika
-Smoggy;Sumuinen
-Smoke Devil;Smoke Devil
-Smoke devil;Savu paholainen
-Smokin' Joe;Tupakoiva Joe
-Smolcano;Smolcano
-Snail display;Etanan näyttö
-Snake;Käärme
-Snakeling;Snakeling
-Snow;Lumi
-Snowflake;Lumihiutale
-Snowy knight;Luminen ritari
-Sofiya;Sofiya
-Soldier;Sotilas
-Soldier (tier 1);Sotilas (taso 1)
 Soldier (tier 2);Sotilas (taso 2)
-Soldier (tier 3);Sotilas (taso 3)
-Soldier (tier 4);Sotilas (taso 4)
-Soldier (tier 5);Sotilas (taso 5)
-Solihib;Solihib
-Solus Dellagar;Solus Dellagar
-Solztun;Solztun
-Sophanem guard;Sophanem vartija
-Sophia Hughes;Sophia Hughes
-Sorceress;Noita
-Sorebones;Kipuja
-Sorin;Sorin
 Sorrn;Anteeksi
 Sotetseg;Sottseg
-Soulless;Sieluton
-Sourhog;Sourhog
-Spang;Spang
-Spawn;Spawn
-Spawn of Sarachnis;Sarachniksen kutu
-Spectator;Katsoja
-Speedy Keith;Nopea Keith
-Sphinx;Sfinksi
-Spice seller;Mausteen myyjä
-Spider;Hämähäkki
-Spidine;Spidine
-Spiked Turoth;Piikkinen Turoth
-Spin Blades;Pyöritä terät
-Spined larupia;Spined larupia
-Spinner;Spinner
-Spinolyp;Spinolyp
-Spirit Angler;Spirit Angler
-Spirit of Scorpius;Skorpionin henki
-Spirit of Zadimus;Zadimuksen henki
-Spirit tree;Henki puu
-Spiritual mage;Henkinen taikuri
 Spiritual ranger;Henkinen metsänvartija
-Spiritual warrior;Henkinen soturi
-Spit goblin;Split goblin
+Squire;Squire
+Starflower;Tähtikukka
+Snowy knight;Luminen ritari
+Sorceress;Noita
+Spidine;Spidine
+Slash Bash;Slash Bash
+Spinolyp;Spinolyp
 Spitting Wyvern;Wyvern sylkeminen
+Snow;Lumi
+Soldier;Sotilas
+Solus Dellagar;Solus Dellagar
+Sophanem guard;Sophanem vartija
+Sorebones;Kipuja
+Sorin;Sorin
+Spang;Spang
+Squire (Novice);Squire (noviisi)
+Stankers;Stankers
+Strange plant;Outo kasvi
+Soldier (tier 3);Sotilas (taso 3)
+Soldier (tier 5);Sotilas (taso 5)
+Spawn;Spawn
+Spice seller;Mausteen myyjä
+Spria;Spria
+Star Sprite;Star Sprite
+Straven;Straven
+Sleeping Monkey;Nukkuva Apina
+Sleeping guard;Nukkuva vartija
+Small ninja monkey;Pieni ninja-apina
+Snakeling;Snakeling
+Sofiya;Sofiya
+Spined larupia;Spined larupia
+Stone mason;Kiven muuraaja
+Smithing apprentice;Smithingin oppipoika
+Smolcano;Smolcano
+Snake;Käärme
+Spectator;Katsoja
+Spirit of Scorpius;Skorpionin henki
+Squire (Veteran);Squire (veteraani)
+Steel dragon;Teräs lohikäärme
+Slug Hemligssen;Slug Hemligssen
+Sourhog;Sourhog
+Starlight;Tähtien valo
+Steve;Steve
+Stonemason;Kivenmuuraja
+Storm cloud;Myrskypilvi
+Smoke devil;Savu paholainen
+Solihib;Solihib
+Spawn of Sarachnis;Sarachniksen kutu
+Spiked Turoth;Piikkinen Turoth
+Stick;Tikku
+Sloane;Sloane
+Smokin' Joe;Tupakoiva Joe
+Sphinx;Sfinksi
+Stag;Stag
+Smiddi Ryak (hard);Smiddi Ryak (kova)
+Smoggy;Sumuinen
+Snowflake;Lumihiutale
+Speedy Keith;Nopea Keith
+Spider;Hämähäkki
+Spirit of Zadimus;Zadimuksen henki
+Spit goblin;Split goblin
+Stanford;Stanford
+Strange watcher;Outo katsoja
+Slim Louie;Ohut Louie
+Smellytoes;Hajuvarpaat
+Snail display;Etanan näyttö
+Soulless;Sieluton
+Sraracha;Sraracha
+Stranger;Muukalainen
+Slieve;Slieve
+Slippers;Tossut
+Smoke Devil;Smoke Devil
+Sophia Hughes;Sophia Hughes
+Spirit Angler;Spirit Angler
+Spiritual warrior;Henkinen soturi
+Spring Elemental;Kevät elementaali
+Slave;Orja
+Slug Prince;Slug Prince
+Solztun;Solztun
+Spin Blades;Pyöritä terät
+Spirit tree;Henki puu
 Splatter;Roiskia
 Spotted kebbit;Täplikäs kebbit
-Spria;Spria
-Spring Elemental;Kevät elementaali
-Squire;Squire
+Sleepwalker;Unissakävelijä
+Small zombie monkey;Pieni zombi-apina
+Soldier (tier 1);Sotilas (taso 1)
+Soldier (tier 4);Sotilas (taso 4)
+Spiritual mage;Henkinen taikuri
 Squire (Intermediate);Squire (keskitaso)
-Squire (Novice);Squire (noviisi)
-Squire (Veteran);Squire (veteraani)
-Squirrel;Orava
-Sraracha;Sraracha
-Stag;Stag
-Stanford;Stanford
-Stankers;Stankers
-Star Sprite;Star Sprite
-Starflower;Tähtikukka
-Starlight;Tähtien valo
-Steel dragon;Teräs lohikäärme
-Steve;Steve
-Stick;Tikku
-Stone Guardian;Stone Guardian
-Stone mason;Kiven muuraaja
-Stonemason;Kivenmuuraja
 Storm Cloud;Myrskypilvi
-Storm cloud;Myrskypilvi
 Strange Old Man;Outo Vanhus
-Strange plant;Outo kasvi
-Strange watcher;Outo katsoja
-Stranger;Muukalainen
-Straven;Straven
-Stray dog;Kulkukoira
-Street urchin;Katusiili
 Strong Ronny;Vahva Ronny
-Student;Opiskelija
-Stuliette;Stuletti
-Stumpy;Pullea
-Stunned Hoop Snake;Järkyttynyt Hoop Snake
 Stunted demonic gorilla;Kitukasvuinen demoninen gorilla
-Styrmir;Styrmir
-Suit of armour;Panssaripuku
-Sulphur Lizard;Rikkilisko
-Summer Elemental;Summer Elemental
-Summoned Soul;Kutsuttu sielu
-Summoned Zombie;Kutsuttu zombie
-Sune;Sune
-Superior ghostly thrall;Ylivertainen aavemainen jännitys
-Superior skeletal thrall;Ylivoimainen luuranko
-Superior zombified thrall;Ylivertainen zombitettu jännitys
-Supreme Commander;Ylipäällikkö
-Suqah;Suqah
-Surgeon General Tafani;Yleiskirurgi Tafani
-Surma;Surma
-Surok Magis;Surok Magis
-Survival Expert;Selviytymisen asiantuntija
-Suspect;Epäilty
-Suspicious water;Epäilyttävä vesi
-Svetlana;Svetlana
-Svidi;Svidi
-Swamp Crab;Suon rapu
-Swamp Priest;Suon pappi
 Swamp frog;Suon sammakko
-Swamp lizard;Suon lisko
-Swamp snake;Suon käärme
-Swamp toad;Suo rupikonna
-Swampy log;Soinen tukki
 Swan;Joutsen
-Swarm;Parvi
-Sweeper;Lakaisukone
-Swensen the Navigator;Swensen Navigaattori
-Swordchick;Swordchick
-Sylas;Sylas
 Taiman;Taiman
-Talia;Talia
-Taloned Wyvern;Taloned Wyvern
-Tamayu;Tamayu
+Tangleroot;Tanglroot
+Tea seller;Teen myyjä
+Terror dog;Terrori koira
+Suit of armour;Panssaripuku
+Superior ghostly thrall;Ylivertainen aavemainen jännitys
+Survival Expert;Selviytymisen asiantuntija
+Swamp lizard;Suon lisko
 Tamble;Taulukko
 Tanglefoot;Tanglefoot
-Tanglefoot (hard);Tanglefoot (kova)
-Tangleroot;Tanglroot
-Tanner;Nahkuri
-Tanya;Tanya
-Tar Bubbles;Tervakuplat
+Summoned Zombie;Kutsuttu zombie
+Suspicious water;Epäilyttävä vesi
+Svetlana;Svetlana
+Tempoross;Tempoross
+Teodor;Teodor
+Stunned Hoop Snake;Järkyttynyt Hoop Snake
+Svidi;Svidi
+Swamp snake;Suon käärme
+Swamp toad;Suo rupikonna
 Tar Monster;Tervahirviö
-Tarfol quo Maten;Tarfol quo Maten
-Target;Kohde
-Taria;Taria
-Tarik;Tarik
-Tarn;Tarn
-Tarquin;Tarkvin
-Tassie Slipcast;Tassie Slipcast
-Tati;Tati
-Tatie;Tatie
-Tau;Tau
-Taxidermist;Taksidermisti
 Taylor;Taylor
-Tayten;Tayten
-Tea seller;Teen myyjä
-Teacher;Opettaja
-Teacher and pupil;Opettaja ja oppilas
+Tekton;Tekton
+Terrorbird;Terrorbird
 Ted Rehnison;Ted Rehnison
 Tegdak;Tegdak
-Tegid;Tegid
-Tektiny;Tektiny
-Tekton;Tekton
-Tekton (enraged);Tekton (raivoissaan)
 Telekinetic Guardian;Telekinetic Guardian
 Temple Spider;Temppelihämähäkki
-Temple guardian;Temppelin vartija
-Tempoross;Tempoross
-Tentacle;Lonkero
-Tenzing;Tenzing
-Teodor;Teodor
-Terror dog;Terrori koira
-Terror dog statue;Terror-koiran patsas
-Terrorbird;Terrorbird
-Terrorbird display;Terrorbird näyttö
-Terrorchick gnome;Terrorchick gnome
-Thakkrad Sigmundson;Thakkrad Sigmundson
-The 'Wedge';"Kiila"
-The Beast;Peto
-The Collector;Keräilijä
 The Draugen;Draugen
-The Everlasting;Ikuinen
-The Everlasting (hard);Ikuinen (kova)
-The Face;Kasvot
-The Fisher King;Kalastajakuningas
 The Illusive;Illusive
-The Inadequacy;Riittämättömyys
-The Inadequacy (hard);Riittämättömyys (kova)
+Summoned Soul;Kutsuttu sielu
+Swamp Priest;Suon pappi
+Taloned Wyvern;Taloned Wyvern
+Tarn;Tarn
+Terror dog statue;Terror-koiran patsas
+The Beast;Peto
 The Jormungand;Jormungand
-The Kendal;Kendal
-The Kendal (hard);Kendal (kova)
-The Lady of the Lake;Lady of the Lake
-The Maiden of Sugadinti;Sugadintin neito
-The Mimic;Mimic
-The Monkey's Aunt;Apinan täti
-The Monkey's Uncle;Apinan setä
-The Nightmare;Painajainen
-The Queen of Thieves;Varkaiden kuningatar
-The Shaikahan;Shaikahan
-The Untouchable;Koskematon
-The Untouchable (hard);Koskematon (kova)
-Thermonuclear smoke devil;Termoydinsavun paholainen
-Thessalia;Thessalia
-Thias Leacke;Thias Leacke
-Thief;Varas
-Thing under the bed;Asia sängyn alla
-Thingol;Thingol
-Third Age Mage;Kolmannen iän maagi
-Third Age Ranger;Kolmas ikärahti
-Third Age Warrior;Kolmannen iän soturi
-Thirus;Thirus
-Thistle;Ohdake
-Thomdril;Thomdril
-Thora the Barkeep;Thora Barkeep
-Thordur;Thordur
-Thorgel;Thorgel
+Stray dog;Kulkukoira
+Street urchin;Katusiili
+Sulphur Lizard;Rikkilisko
+Summer Elemental;Summer Elemental
+Sune;Sune
+Supreme Commander;Ylipäällikkö
+Tanglefoot (hard);Tanglefoot (kova)
+The Everlasting (hard);Ikuinen (kova)
+The Inadequacy (hard);Riittämättömyys (kova)
+Stumpy;Pullea
+Superior skeletal thrall;Ylivoimainen luuranko
+Surgeon General Tafani;Yleiskirurgi Tafani
+Surok Magis;Surok Magis
+Swamp Crab;Suon rapu
+Tarik;Tarik
+Tatie;Tatie
+Teacher;Opettaja
+Tentacle;Lonkero
+Terrorchick gnome;Terrorchick gnome
+The Collector;Keräilijä
+Tamayu;Tamayu
+Tayten;Tayten
+Tekton (enraged);Tekton (raivoissaan)
+The Fisher King;Kalastajakuningas
+Sylas;Sylas
+Tanya;Tanya
+Tegid;Tegid
+Tektiny;Tektiny
+Temple guardian;Temppelin vartija
+Tar Bubbles;Tervakuplat
+Swampy log;Soinen tukki
+Talia;Talia
+Tarfol quo Maten;Tarfol quo Maten
+Tarquin;Tarkvin
+Tassie Slipcast;Tassie Slipcast
+Thakkrad Sigmundson;Thakkrad Sigmundson
+Student;Opiskelija
+Styrmir;Styrmir
+Suqah;Suqah
+Surma;Surma
+Suspect;Epäilty
+Swarm;Parvi
+Sweeper;Lakaisukone
+Tanner;Nahkuri
+Target;Kohde
+The 'Wedge';"Kiila"
+The Everlasting;Ikuinen
+Swensen the Navigator;Swensen Navigaattori
+Swordchick;Swordchick
+Taria;Taria
+Tati;Tati
+Tau;Tau
+Tenzing;Tenzing
+Terrorbird display;Terrorbird näyttö
+The Inadequacy;Riittämättömyys
+Stuliette;Stuletti
+Superior zombified thrall;Ylivertainen zombitettu jännitys
+Taxidermist;Taksidermisti
+Teacher and pupil;Opettaja ja oppilas
+The Face;Kasvot
 Thorhild;Thorhild
-Thorkel Silkbeard;Thorkelin silkkiparta
-Thormac;Thormac
-Thorodin;Thorodin
-Thorvald the Warrior;Thorvald soturi
-Thrantax the Mighty;Thrantax the Mighty
-Thrower Troll;Heittäjä Trolli
-Thrower troll;Heittäjä trolli
-Thug;Roisto
-Thumpy;Tyhmäinen
-Thurgo;Thurgo
-Thyria;Thyria
-Tiadeche;Tiadeche
-Ticket Merchant;Lippukauppias
-Ticket dwarf;Lippukääpiö
-Ticket goblin;Lippupeikko
-Tide;Vuorovesi
-Tiles;Laatat
-Tilt;Kallistaa
 Tim;Tim
-Timallus;Timallus
-Timble;Timble
-Timfraku;Timfraku
-Tin ore;Tina malmi
-Tina;Tina
-Tindar;Tindar
-Tindel Marchant;Tindel Marchant
-Tinsay;Tinsay
-Tinse Torpe;Tinse Torpe
-Tiny Tempor;Pieni Tempor
-Tirrie;Tirrie
-Tjorvi;Tjorvi
 Toban;Toban
-Toby;Toby
 Tok-Xil;Tok-Xil
-Tolna;Tolna
 Tomas Lawry;Tomas Lawry
-Tombar;Tombar
-Tommy 2-times;Tommy 2 kertaa
-Tool Leprechaun;Työkalu Leprechaun
-Toothy;Hampainen
-Topsy;Topsy
-Torag the Corrupted;Torag korruptoituneita
 Torbrund;Torbrund
-Torcher;Torcher
-Torfinn;Torfinn
-Tormented Soul;Kiusattu sielu
-Torrcs;Torrcs
-Torrell;Torrell
-Tortoise;Kilpikonna
+The Lady of the Lake;Lady of the Lake
+Thirus;Thirus
+Thomdril;Thomdril
+Thrower Troll;Heittäjä Trolli
+Tiny Tempor;Pieni Tempor
+Tjorvi;Tjorvi
+The Kendal (hard);Kendal (kova)
+Thordur;Thordur
+Thug;Roisto
+Tilt;Kallistaa
+Timfraku;Timfraku
+Tindar;Tindar
 Tortured gorilla;Kidutettu gorilla
-Tortured soul;Kidutettu sielu
+The Maiden of Sugadinti;Sugadintin neito
+Third Age Mage;Kolmannen iän maagi
+Tin ore;Tina malmi
 Tostig;Tostig
-Tough Guy;Kovanaama
+Toy Soldier;Lelu sotilas
+The Monkey's Aunt;Apinan täti
+Tina;Tina
+Tinsay;Tinsay
+Torcher;Torcher
+Torrcs;Torrcs
+Tortured soul;Kidutettu sielu
 Tower Advisor;Tower Advisor
+The Shaikahan;Shaikahan
+Thormac;Thormac
+Thumpy;Tyhmäinen
+Tinse Torpe;Tinse Torpe
+Tombar;Tombar
 Tower Archer;Tower Archer
-Tower Mage;Tower Mage
+The Kendal;Kendal
+Thermonuclear smoke devil;Termoydinsavun paholainen
+Tormented Soul;Kiusattu sielu
+Thyria;Thyria
+Ticket goblin;Lippupeikko
+Tindel Marchant;Tindel Marchant
+Toby;Toby
 Tower guard;Tornin vartija
-Town Crier;Town Crier
-Town Guard;Kaupungin vartija
+Trader;Kauppias
+The Monkey's Uncle;Apinan setä
+The Queen of Thieves;Varkaiden kuningatar
+Thing under the bed;Asia sängyn alla
+Thorgel;Thorgel
+Ticket dwarf;Lippukääpiö
 Toy Doll;Lelu-nukke
 Toy Mouse;Leluhiiri
-Toy Soldier;Lelu sotilas
-Tracker gnome 1;Tracker gnome 1
-Tracker gnome 2;Tracker gnome 2
-Tracker gnome 3;Tracker gnome 3
-Trade Referee;Kaupan erotuomari
-Trader;Kauppias
 Trader Crewmember;Kauppiaan miehistön jäsen
+The Nightmare;Painajainen
+Thief;Varas
+Thorodin;Thorodin
+Thrantax the Mighty;Thrantax the Mighty
+Tiadeche;Tiadeche
+Timble;Timble
+Third Age Warrior;Kolmannen iän soturi
+Thistle;Ohdake
+Thorvald the Warrior;Thorvald soturi
+Ticket Merchant;Lippukauppias
+Topsy;Topsy
+Tough Guy;Kovanaama
+Tracker gnome 3;Tracker gnome 3
+The Untouchable;Koskematon
+Thias Leacke;Thias Leacke
+Thora;Thora
+Thora the Barkeep;Thora Barkeep
+Thurgo;Thurgo
+Tide;Vuorovesi
+Tiles;Laatat
+Tommy 2-times;Tommy 2 kertaa
+Trade Referee;Kaupan erotuomari
+Third Age Ranger;Kolmas ikärahti
+Thrower troll;Heittäjä trolli
+Tolna;Tolna
+Tool Leprechaun;Työkalu Leprechaun
+Toothy;Hampainen
+Town Crier;Town Crier
+Tracker gnome 1;Tracker gnome 1
+Thessalia;Thessalia
+Torfinn;Torfinn
+Tower Mage;Tower Mage
+Thingol;Thingol
+Tirrie;Tirrie
+Torag the Corrupted;Torag korruptoituneita
+Tortoise;Kilpikonna
 Trader Stan;Kauppias Stan
-Trader Sven;Kauppias Sven
 Traiborn;Traiborn
+The Mimic;Mimic
+The Untouchable (hard);Koskematon (kova)
+Thorkel Silkbeard;Thorkelin silkkiparta
+Timallus;Timallus
+Torrell;Torrell
+Town Guard;Kaupungin vartija
+Tracker gnome 2;Tracker gnome 2
+Trader Sven;Kauppias Sven
 Trainee Guard;Vartijaharjoittelija
-Trainer Nacklepen;Valmentaja Nacklepen
-Tramp;Kulkuri
-Trapped Soul;Loukkuun jäänyt sielu
-Trapped Soul (hard);Trapped Soul (kova)
-Traxi;Traxi
-Treacle;Siirappi
 Treasure fairy;Aarrekeiju
 Tree;Puu
-Tree spirit;Puun henki
-Tree spirit (hard);Puun henki (kova)
-Trees;puut
-Trefaji;Trefaji
-Treus Dayth;Treusin päivä
-Treus Dayth (hard);Treus Dayth (kova)
-Treznor;Treznor
-Tribal Weapon Salesman;Heimojen aseiden myyjä
-Tribesman;Heimomies
-Tristan;Tristan
-Trobert;Trobert
-Trogen Konungarde;Trogen Konungarde
-Troll;Peikko
-Troll child;Trollin lapsi
-Troll father;Trollin isä
-Troll general;Trolli kenraali
-Troll mother;Trollin äiti
-Troll spectator;Trollin katsoja
-Trolley;Kärry
-Tropical wagtail;Trooppinen wagtail
-Trossa;Trossa
-Trufitus;Trufitus
-Tstanon Karlak;Tstanon Karlak
-Turael;Turael
-Turbogroomer;Turbogroomer
-Turgall;Turgall
-Turgok;Turgok
-Turgon;Turgon
 Turoth;Turoth
-Tutab;Tutab
-Twig;Oksa
 Twiggy O'Korn;Twiggy O'Korn
-Twisted Banshee;Twisted Banshee
-Two-pints;Kaksi pinttiä
-Tyke;Tyke
-Tynan;Tynan
-Typhor;Typhor
-Tyras Guard;Tyras vartija
-Tyras guard;Tyras vartija
-Tyss;Tyss
-Tz-Kek;Tz-Kek
-Tz-Kih;Tz-Kih
-TzHaar-Hur;TzHaar-Hur
-TzHaar-Hur-Lek;TzHaar-Hur-Lek
-TzHaar-Hur-Rin;TzHaar-Hur-Rin
+Ur-pel;Ur-pel
+Trainer Nacklepen;Valmentaja Nacklepen
+Trapped Soul;Loukkuun jäänyt sielu
 TzHaar-Hur-Tel;TzHaar-Hur-Puh
-TzHaar-Hur-Zal;TzHaar-Hur-Zal
-TzHaar-Ket;TzHaar-Ket
-TzHaar-Ket-Keh;TzHaar-Ket-Keh
-TzHaar-Ket-Rak;TzHaar-Ket-Rak
-TzHaar-Ket-Yil;TzHaar-Ket-Yil
-TzHaar-Ket-Zuh;TzHaar-Ket-Zuh
-TzHaar-Mej;TzHaar-Mej
-TzHaar-Mej-Bal;TzHaar-Mej-Bal
-TzHaar-Mej-Dir;TzHaar-Mej-Dir
-TzHaar-Mej-Jal;TzHaar-Mej-Jal
-TzHaar-Mej-Kah;TzHaar-Mej-Kah
-TzHaar-Mej-Roh;TzHaar-Mej-Roh
-TzHaar-Xil;TzHaar-Xil
-TzKal-Zuk;TzKal-Zuk
-TzRek-Jad;TzRek-Jad
-TzRek-Zuk;TzRek-Zuk
-TzTok-Jad;TzTok-Jad
-Ug;Ug
-Uglug Nar;Ugug Nar
-Ugthanki;Ugthanki
-Ulfric;Ulfric
-Ulifed;Ulifed
-Ulsquire Shauncy;Ulsquire Shauncy
-Undead Druid;Undead Druid
 Undead Lumberjack;Undead metsuri
-Undead Zealot;Undead Zealot
-Undead chicken;Epäkuollut kana
-Undead cow;Epäkuollut lehmä
-Undead one;Undead yksi
-Undead tree;Epäkuollut puu
-Undor;Undor
 Unferth;Unferth
 Ungadulu;Ungadulu
 Unicorn;Yksisarvinen
-Unicorn Foal;Yksisarvinen varsa
-Unicow;Unicow
-Unnamed troll child;Nimetön trollilapsi
-Uodai;Uodai
-Ur-lun;Ur-lun
 Ur-meg;Ur-meg
-Ur-pel;Ur-pel
-Ur-taal;Ur-taal
+Tree spirit (hard);Puun henki (kova)
+Trogen Konungarde;Trogen Konungarde
+Troll father;Trollin isä
+Turael;Turael
+Unicow;Unicow
+Twig;Oksa
 Ur-tag;Ur-tunniste
 Ur-vass;Ur-vass
-Ur-zek;Ur-zek
-Urbi;Urbi
-Uri;Uri
-Urium Shade;Urium-sävy
-Urium Shadow;Urium varjo
-Usi;Usi
-Utrec;Utrec
-Uurrak quo Narga;Uurrak quo Narga
-Uwogo;Uwogo
-Uyoro;Uyoro
-Vaeringk;Vaeringk
-Vaire;Vaire
-Valaine;Valaine
-Valantay Eppel (medium);Valantay Eppel (keskikokoinen)
-Valentin Rasputin;Valentin Rasputin
-Valentina Diaemus;Valentina Diaemus
-Valeria;Valeria
-Valgerd;Valgerd
+TzHaar-Mej-Dir;TzHaar-Mej-Dir
+Tropical wagtail;Trooppinen wagtail
+Tstanon Karlak;Tstanon Karlak
+Tyss;Tyss
+TzHaar-Ket-Yil;TzHaar-Ket-Yil
+Unicorn Foal;Yksisarvinen varsa
+Ur-taal;Ur-taal
+Tristan;Tristan
+Troll;Peikko
+Two-pints;Kaksi pinttiä
+Tz-Kih;Tz-Kih
+TzHaar-Hur;TzHaar-Hur
+Trapped Soul (hard);Trapped Soul (kova)
+Trefaji;Trefaji
+Tyke;Tyke
+Traxi;Traxi
+Trees;puut
+Tribal Weapon Salesman;Heimojen aseiden myyjä
+Troll child;Trollin lapsi
+Tyras Guard;Tyras vartija
+TzKal-Zuk;TzKal-Zuk
+Ugthanki;Ugthanki
+Ur-lun;Ur-lun
+Treus Dayth (hard);Treus Dayth (kova)
+Troll general;Trolli kenraali
+Troll mother;Trollin äiti
+Troll spectator;Trollin katsoja
+TzHaar-Hur-Lek;TzHaar-Hur-Lek
+Undead Druid;Undead Druid
+Undead Zealot;Undead Zealot
+Tree spirit;Puun henki
+Turgall;Turgall
+Twisted Banshee;Twisted Banshee
+Typhor;Typhor
+Tyras guard;Tyras vartija
+TzHaar-Ket-Zuh;TzHaar-Ket-Zuh
+TzHaar-Xil;TzHaar-Xil
+TzRek-Jad;TzRek-Jad
+TzRek-Zuk;TzRek-Zuk
+Treus Dayth;Treusin päivä
+Tynan;Tynan
+TzHaar-Ket;TzHaar-Ket
+TzHaar-Ket-Keh;TzHaar-Ket-Keh
+TzHaar-Mej-Kah;TzHaar-Mej-Kah
+Uglug Nar;Ugug Nar
+Ulsquire Shauncy;Ulsquire Shauncy
+Undead chicken;Epäkuollut kana
+Undor;Undor
+Tribesman;Heimomies
+Trolley;Kärry
+Turbogroomer;Turbogroomer
+Turgok;Turgok
+TzHaar-Mej-Jal;TzHaar-Mej-Jal
+TzHaar-Mej-Roh;TzHaar-Mej-Roh
+TzTok-Jad;TzTok-Jad
+Ug;Ug
+Ulfric;Ulfric
+Ulizius;Ulizius
+Unnamed troll child;Nimetön trollilapsi
+Tramp;Kulkuri
+Treacle;Siirappi
+Trobert;Trobert
+Trufitus;Trufitus
+Turgon;Turgon
+TzHaar-Hur-Zal;TzHaar-Hur-Zal
+TzHaar-Mej-Bal;TzHaar-Mej-Bal
+Treznor;Treznor
+Trossa;Trossa
+Tutab;Tutab
+Tz-Kek;Tz-Kek
+TzHaar-Hur-Rin;TzHaar-Hur-Rin
+TzHaar-Ket-Rak;TzHaar-Ket-Rak
+TzHaar-Mej;TzHaar-Mej
+Ulifed;Ulifed
+Undead cow;Epäkuollut lehmä
+Undead one;Undead yksi
+Undead tree;Epäkuollut puu
+Uodai;Uodai
 Vallessia Dracyula;Vallessia Dracyula
-Vallessia von Pitt;Vallessia von Pitt
-Vampyre Juvenile;Nuori vampyyri
-Vampyre Juvinate;Vampyyri Juvinate
-Vampyressa van Von;Vampyressa van von
+Vanstrom Klause;Vanström Klause
+Vasa Nistirio;Vasa Nistirio
+Veliaf Hurtz;Veliaf Hurtz
+Vermundi;Vermundi
+Vitreous warped Jelly;Lasimainen vääntynyt Jelly
+Vyre Orator;Vyre Puhuja
+Wally;Wally
+Valaine;Valaine
 Vampyric hound;Vampyyrikoira
-Vampyrus Diaemus;Vampyrus Diaemus
-Vanescula Drakan;Vanescula Drakan
-Vanessa;Vanessa
-Vanguard;Vanguard
-Vanligga Gastfrihet;Vanligga Gastfrihet
 Vannah;Vannah
 Vannaka;Vannaka
-Vanstrom Klause;Vanström Klause
+Vespine soldier;Vespine sotilas
+Vet'ion Jr.;Vet'ion Jr.
+Vlad Bechstein;Vlad Bechstein
+Volf Olafson;Volf Olafson
+Vorki;Vorki
+Vornas quo Maten;Vornas quo Maten
+Vyrewatch;Vyrewatch
 Varrian Sobak;Varrian Sobak
-Vasa Minirio;Vasa Minirio
-Vasa Nistirio;Vasa Nistirio
-Vasile;Vasile
-Vasquen;Vasquen
-Veliaf Hurtz;Veliaf Hurtz
-Velorina;Velorina
-Velrak the explorer;Tutkija Velrak
-Venenatis;Venenatis
-Venenatis spiderling;Venenatis hämähäkki
-Veos;Veos
-Vera;Vera
+Vespina;Vespina
+Vestri;Vestri
+Vigr;Vigr
+Vritra;Vritra
+Wallasalki;Wallasalki
+Warped Jelly;Vääntynyt Jelly
+Warrior of Murahs;Murahsin soturi
+Vortas quo Keran;Vortas quo Keran
+Vulcan Orvoros;Vulcan Orvoros
+Uri;Uri
 Verac the Defiled;Verac the Defiled
-Verak;Verak
-Vermundi;Vermundi
 Veronica;Veronica
 Vertida Sefalatis;Vertida Sefalatis
-Verzik Vitur;Verzik Vitur
-Vespina;Vespina
-Vespine soldier;Vespine sotilas
-Vespula;Vespula
-Vestri;Vestri
-Vet'ion;Vet'ion
-Vet'ion Jr.;Vet'ion Jr.
-Vet'ion Reborn;Vet'ion Reborn
-Victor;Victor
-Vigr;Vigr
-Vigroy;Vigroy
-Villager;Kyläläinen
-Villia;Villia
-Violetta Sanguine;Violetta Sanguine
-Vitreous Jelly;Lasimainen hyytelö
-Vitreous warped Jelly;Lasimainen vääntynyt Jelly
-Viyeldi;Viyeldi
-Vlad Bechstein;Vlad Bechstein
-Vlad Diaemus;Vlad Diaemus
-Vladimir;Vladimir
-Voice of Yama;Yaman ääni
-Void Knight;Tyhjä ritari
-Volf Olafson;Volf Olafson
-Von van Von;Von van Von
-Vonnetta Varnis;Vonnetta Varnis
-Vorkath;Vorkath
-Vorki;Vorki
-Vormar Vakan;Vormar Vakan
-Vornas quo Maten;Vornas quo Maten
-Vortas quo Keran;Vortas quo Keran
-Vritra;Vritra
-Vulcan Orvoros;Vulcan Orvoros
-Vulture;Korppikotka
-Vyre Orator;Vyre Puhuja
-Vyrelady;Vyrelady
-Vyrelord;Vyrelord
-Vyrewatch;Vyrewatch
-Vyrewatch Sentinel;Vyrewatch Sentinel
-Wagchin;Wagchin
-Wall beast;Seinä peto
-Wallasalki;Wallasalki
-Wally;Wally
-Wanderer;Vaeltaja
 Wandering impling;Vaeltava impling
-Warped Jelly;Vääntynyt Jelly
-Warrior;Soturi
-Warrior of Murahs;Murahsin soturi
-Warrior woman;Soturi nainen
-Watchman;Vartija
+Urbi;Urbi
+Urium Shade;Urium-sävy
+Valentin Rasputin;Valentin Rasputin
+Valgerd;Valgerd
+Vyrelord;Vyrelord
+Usi;Usi
+Vaire;Vaire
+Vanessa;Vanessa
+Velrak the explorer;Tutkija Velrak
+Viyeldi;Viyeldi
+Vonnetta Varnis;Vonnetta Varnis
+Valentina Diaemus;Valentina Diaemus
+Vanligga Gastfrihet;Vanligga Gastfrihet
+Vasa Minirio;Vasa Minirio
+Vasile;Vasile
+Vasquen;Vasquen
+Venenatis spiderling;Venenatis hämähäkki
+Vigroy;Vigroy
+Voice of Yama;Yaman ääni
+Von van Von;Von van Von
+Vorkath;Vorkath
+Vulture;Korppikotka
+Wanderer;Vaeltaja
 Watchtower Wizard;Vartiotornin velho
+Uwogo;Uwogo
+Vanguard;Vanguard
+Velorina;Velorina
+Vormar Vakan;Vormar Vakan
+Utrec;Utrec
+Uurrak quo Narga;Uurrak quo Narga
+Vaeringk;Vaeringk
+Valeria;Valeria
+Vampyressa van Von;Vampyressa van von
+Vet'ion;Vet'ion
+Vlad Diaemus;Vlad Diaemus
+Watchman;Vartija
+Venenatis;Venenatis
+Verak;Verak
+Victor;Victor
+Villager;Kyläläinen
+Violetta Sanguine;Violetta Sanguine
+Vladimir;Vladimir
+Void Knight;Tyhjä ritari
+Vyrewatch Sentinel;Vyrewatch Sentinel
+Vampyre Juvinate;Vampyyri Juvinate
+Vampyrus Diaemus;Vampyrus Diaemus
+Verzik Vitur;Verzik Vitur
+Vespula;Vespula
+Vet'ion Reborn;Vet'ion Reborn
+Villia;Villia
+Vyrelady;Vyrelady
+Wagchin;Wagchin
 Water elemental;Vesielementti
-Water wizard;Vesi velho
+Urium Shadow;Urium varjo
+Uyoro;Uyoro
+Vallessia von Pitt;Vallessia von Pitt
+Vanescula Drakan;Vanescula Drakan
+Vera;Vera
+Vitreous Jelly;Lasimainen hyytelö
+Ur-zek;Ur-zek
+Valantay Eppel (medium);Valantay Eppel (keskikokoinen)
+Vampyre Juvenile;Nuori vampyyri
+Veos;Veos
+Wall beast;Seinä peto
+Warrior;Soturi
+Warrior woman;Soturi nainen
+Wemund;Wemund
+Wintertoad;Wintertoad
+Wizard Mizgog;Velho Mizgog
+Yohnus;Yohnus
+Ysbeid;Ysbeid
 Waterfiend;Vesiystävä
-Watson;Watson
-Waydar;Waydar
-Waymottin;Waymottin
+White wolf;Valkoinen susi
+Yadviga;Yadviga
+Ymladd;Ymladd
+Ysgawyn;Ysgawyn
+Yuri;Juri
+White Chisel Secretary;White Chisel sihteeri
+Wily hellcat;Viisas helvetinkissa
+Winter Soldier;Talven sotilas
+Woman;Nainen
+Wormbrain;matoaivot
+Yt-HurKot;Yt-HurKot
+Wesley;Wesley
+Witch's experiment (hard);Noidan kokeilu (kova)
+Wyson the gardener;Wyson puutarhuri
+Yellow Snow;Keltainen lumi
+Yt-MejKot;Yt-MejKot
+Wilough;Wilough
+Witch's experiment (second form) (hard);Noidan kokeilu (toinen muoto) (kova)
+Wizard Distentor;Wizard Distentor
+Woman-at-arms (hard);Nainen käsivarsissa (kova)
+Workman;Työmies
+Wise Old Man;Viisas Vanhus
+Wizard Grayzag;Velho Grayzag
+Wood Dryad;Puinen Dryad
+Yenrab;Yenrab
+Weaponsmaster;Asemestari
+Witch's cat;Noidan kissa
+Witch's experiment (second form);Noidan kokeilu (toinen muoto)
+Wolfbone;Wolfbone
+Wydin;Wydin
+Water wizard;Vesi velho
 Wayne;Wayne
 Weakened Delrith;Heikentynyt Delrith
-Weaponsmaster;Asemestari
-Weird Old Man;Outo Vanhus
-Well-armed Foe;Hyvin aseistettu vihollinen
-Wemund;Wemund
-Wengra quo Sihar;Wengra quo Sihar
 Werewolf;Ihmissusi
-Wesley;Wesley
 Weve;Weve
-Whirlpool;Whirlpool
-White Chisel Director;White Chisel johtaja
-White Chisel Secretary;White Chisel sihteeri
-White Knight;Valkoinen ritari
-White golem;Valkoinen golem
-White wolf;Valkoinen susi
-Wild dog;Villi koira
-Wild kebbit;Villi kebbit
-Will o' the wisp;Will o' the wisp
 William;William
 Willow;Paju
-Wilough;Wilough
-Wilson;Wilson
-Wily cat;Viisas kissa
-Wily hellcat;Viisas helvetinkissa
-Winelda;Winelda
-Wingman Skree;Wingman Skree
-Wingstone;Wingstone
-Winkin;Silmänisku
-Winter Elemental;Winter Elemental
-Winter Soldier;Talven sotilas
-Wintertoad;Wintertoad
-Wise Old Man;Viisas Vanhus
 Wise Young Man;Viisas Nuori Mies
-Wiskit;Wiskit
-Wistan;Wistan
 Witch;Noita
-Witch's cat;Noidan kissa
-Witch's experiment;Noidan kokeilu
-Witch's experiment (fourth form);Noidan kokeilu (neljäs muoto)
-Witch's experiment (fourth form) (hard);Noidan kokeilu (neljäs muoto) (kova)
-Witch's experiment (hard);Noidan kokeilu (kova)
-Witch's experiment (second form);Noidan kokeilu (toinen muoto)
-Witch's experiment (second form) (hard);Noidan kokeilu (toinen muoto) (kova)
 Witch's experiment (third form);Noitakoe (kolmas muoto)
-Witch's experiment (third form) (hard);Noidan kokeilu (kolmas muoto) (kova)
-Witchaven villager;Witchavenin kyläläinen
-Wizard;Ohjattu toiminto
-Wizard Akutha;Velho Akutha
-Wizard Cromperty;Wizard Cromperty
-Wizard Distentor;Wizard Distentor
-Wizard Frumscone;Velho Frumscone
-Wizard Grayzag;Velho Grayzag
-Wizard Mizgog;Velho Mizgog
-Wizard Sinina;Velho Sinina
-Wolf;Susi
-Wolfbone;Wolfbone
-Woman;Nainen
-Woman-at-arms (hard);Nainen käsivarsissa (kova)
-Wood Dryad;Puinen Dryad
-Woodsman tutor;Woodsman opettaja
-Workman;Työmies
-Wormbrain;matoaivot
-Wounded soldier;Haavoittunut sotilas
-Wurbel;Wurbel
-Wydin;Wydin
-Wyrm;Wyrm
-Wyson the gardener;Wyson puutarhuri
-Wyvern display;Wyvern näyttö
-Xamphur;Xamphur
 Xarpus;Xarpus
-Xorrah quo Sihar;Xorrah quo Sihar
-Yadviga;Yadviga
 Yak;Jak
-Yanni Salika;Yanni Salika
-Yarsul;Yarsul
-Yellow Fortune Director;Yellow Fortune -johtaja
+Yrsa;Yrsa
+Weird Old Man;Outo Vanhus
+Wingstone;Wingstone
+Witch's experiment;Noidan kokeilu
+Wizard Frumscone;Velho Frumscone
+Wyvern display;Wyvern näyttö
 Yellow Fortune Secretary;Keltainen Fortune Secretary
 Yellow Sheep;Keltainen lammas
-Yellow Snow;Keltainen lumi
-Yenrab;Yenrab
-Yeti;Lumimies
-Ymladd;Ymladd
-Yohnus;Yohnus
-Young 'un;Nuori 'un
-Young impling;Nuori impling
-Youngllef;Youngllef
-Yrsa;Yrsa
-Ysbeid;Ysbeid
-Ysgawyn;Ysgawyn
 Ystwyth;Ystwyth
-Yt-HurKot;Yt-HurKot
-Yt-MejKot;Yt-MejKot
+White golem;Valkoinen golem
+Wizard;Ohjattu toiminto
+Wizard Akutha;Velho Akutha
+Wolf;Susi
+Youngllef;Youngllef
+Wild dog;Villi koira
+Witch's experiment (fourth form) (hard);Noidan kokeilu (neljäs muoto) (kova)
+Wurbel;Wurbel
+Xorrah quo Sihar;Xorrah quo Sihar
+Young impling;Nuori impling
+Well-armed Foe;Hyvin aseistettu vihollinen
+Wily cat;Viisas kissa
+Wizard Cromperty;Wizard Cromperty
+Woodsman tutor;Woodsman opettaja
+Xamphur;Xamphur
+Young 'un;Nuori 'un
+Watson;Watson
+Wengra quo Sihar;Wengra quo Sihar
+White Knight;Valkoinen ritari
+Wild kebbit;Villi kebbit
+Will o' the wisp;Will o' the wisp
+Wizard Sinina;Velho Sinina
+Yanni Salika;Yanni Salika
+Yeti;Lumimies
+Waydar;Waydar
+Winelda;Winelda
+Winkin;Silmänisku
+Witch's experiment (fourth form);Noidan kokeilu (neljäs muoto)
+Yarsul;Yarsul
+White Chisel Director;White Chisel johtaja
+Wingman Skree;Wingman Skree
+Witch's experiment (third form) (hard);Noidan kokeilu (kolmas muoto) (kova)
+Wounded soldier;Haavoittunut sotilas
+Yellow Fortune Director;Yellow Fortune -johtaja
 Yulf Squecks;Yulf Squecks
-Yuri;Juri
+Waymottin;Waymottin
+Whirlpool;Whirlpool
+Wilson;Wilson
+Winter Elemental;Winter Elemental
+Wiskit;Wiskit
+Wistan;Wistan
+Witchaven villager;Witchavenin kyläläinen
+Wyrm;Wyrm
 Zakl'n Gritch;Zakl'n Gritch
-Zalcano;Zalcano
-Zamorak crafter;Zamorak käsityöläinen
 Zamorak mage;Zamorak taikuri
-Zamorak ranger;Zamorak metsänvartija
-Zamorak warrior;Zamorak soturi
-Zamorak wizard;Zamorak velho
-Zogre;Zogre
 Zoja;Zoja
 Zombie;Zombie
 Zombie pirate;Zombie-merirosvo
+Zamorak ranger;Zamorak metsänvartija
+Zamorak wizard;Zamorak velho
 Zombie rat;Zombie rotta
-Zombie swab;Zombie-puikko
+Zamorak crafter;Zamorak käsityöläinen
+Zogre;Zogre
 Zombies Champion;Zombien mestari
-Zombified Spawn;Zombified Spawn
-Zulrah;Zulrah
 Zygomite;Tsygomiitti
+Zulrah;Zulrah
+Zamorak warrior;Zamorak soturi
+Zombified Spawn;Zombified Spawn
+Zalcano;Zalcano
+Zombie swab;Zombie-puikko

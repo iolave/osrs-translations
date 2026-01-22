@@ -1,247 +1,305 @@
 Follow;Volgen
+Bank;Bank
+Examine;Onderzoeken
+Cancel;Annuleren
+Collect;Verzamelen
+Trade with;Handel mee
 Sets;Stelt in
 Exchange;Aandelenbeurs
 History;Geschiedenis
-Trade with;Handel mee
-Walk here;Loop hier
-Examine;Onderzoeken
-Talk-to;Praat mee
-Bank;Bank
-Lookup;Opzoeken
-Cancel;Annuleren
 Report;Rapport
-Collect;Verzamelen
+Talk-to;Praat mee
+Lookup;Opzoeken
+Walk here;Loop hier
 Prices;Prijzen
 Drop;Druppel
 Decant;Decanteren
 Use;Gebruik
-View guide prices;Bekijk richtprijzen
+View <col=ff981f>Ranged</col> guide;Bekijk de <col=ff981f>Ranged</col>-gids
 View <col=ff981f>Farming</col> guide;Bekijk de gids <col=ff981f>Boeren</col>
-Wiki;Wiki
-Add to canvas;Toevoegen aan canvas
-View <col=ff981f>Agility</col> guide;Bekijk de <col=ff981f>Agility</col>-gids
-View equipment stats;Bekijk uitrustingsstatistieken
-View <col=ff981f>Herblore</col> guide;Bekijk de <col=ff981f>Herblore</col>-gids
-Remove;Verwijderen
-View <col=ff981f>Magic</col> guide;Bekijk de <col=ff981f>Magische</col>-gids
 View <col=ff981f>Sailing</col> guide;Bekijk de <col=ff981f>Zeilgids</col>
 Call follower;Bel volger
-View <col=ff981f>Thieving</col> guide;Bekijk de <col=ff981f>Thieving</col>-gids
-View <col=ff981f>Woodcutting</col> guide;Bekijk de gids <col=ff981f>Houtsnijden</col>
 View <col=ff981f>Construction</col> guide;Bekijk de <col=ff981f>Bouw</col> handleiding
-View <col=ff981f>Ranged</col> guide;Bekijk de <col=ff981f>Ranged</col>-gids
-View items kept on death;Bekijk items die bij overlijden worden bewaard
+Add to canvas;Toevoegen aan canvas
+Remove;Verwijderen
 View <col=ff981f>Runecraft</col> guide;Bekijk de <col=ff981f>Runecraft</col>-gids
+View <col=ff981f>Magic</col> guide;Bekijk de <col=ff981f>Magische</col>-gids
+View <col=ff981f>Thieving</col> guide;Bekijk de <col=ff981f>Thieving</col>-gids
+View <col=ff981f>Agility</col> guide;Bekijk de <col=ff981f>Agility</col>-gids
+View <col=ff981f>Woodcutting</col> guide;Bekijk de gids <col=ff981f>Houtsnijden</col>
+View guide prices;Bekijk richtprijzen
 View <col=ff981f>Cooking</col> guide;Bekijk de <col=ff981f>Kookgids</col>
-View <col=ff981f>Crafting</col> guide;Bekijk de <col=ff981f>Crafting</col>-gids
+View equipment stats;Bekijk uitrustingsstatistieken
 View <col=ff981f>Prayer</col> guide;Bekijk de gids <col=ff981f>Gebeden</col>
+View <col=ff981f>Herblore</col> guide;Bekijk de <col=ff981f>Herblore</col>-gids
+View items kept on death;Bekijk items die bij overlijden worden bewaard
+Wiki;Wiki
+View <col=ff981f>Crafting</col> guide;Bekijk de <col=ff981f>Crafting</col>-gids
 Play;Toneelstuk
-Rewards;Beloningen
 Skull;Schedel
-View <col=ff981f>Strength</col> guide;Bekijk de <col=ff981f>Kracht</col>-gids
-View <col=ff981f>Defence</col> guide;Bekijk de gids <col=ff981f>Verdediging</col>
-View <col=ff981f>Slayer</col> guide;Bekijk de <col=ff981f>Slayer</col>-gids
-View <col=ff981f>Hunter</col> guide;Bekijk de <col=ff981f>Hunter</col>-gids
-View <col=ff981f>Hitpoints</col> guide;Bekijk de <col=ff981f>Hitpoints</col>-gids
-View <col=ff981f>Fletching</col> guide;Bekijk de <col=ff981f>Fletching</col>-gids
+Rewards;Beloningen
 View <col=ff981f>Mining</col> guide;Bekijk de gids voor <col=ff981f>Mijnbouw</col>
-View <col=ff981f>Attack</col> guide;Bekijk de <col=ff981f>Aanval</col>-gids
+View <col=ff981f>Hunter</col> guide;Bekijk de <col=ff981f>Hunter</col>-gids
+View <col=ff981f>Slayer</col> guide;Bekijk de <col=ff981f>Slayer</col>-gids
+View <col=ff981f>Strength</col> guide;Bekijk de <col=ff981f>Kracht</col>-gids
+View <col=ff981f>Hitpoints</col> guide;Bekijk de <col=ff981f>Hitpoints</col>-gids
 View <col=ff981f>Smithing</col> guide;Bekijk de <col=ff981f>Smiding</col>-gids
-View <col=ff981f>Firemaking</col> guide;Bekijk de <col=ff981f>Vuurmaken</col> handleiding
+View <col=ff981f>Defence</col> guide;Bekijk de gids <col=ff981f>Verdediging</col>
+View <col=ff981f>Fletching</col> guide;Bekijk de <col=ff981f>Fletching</col>-gids
+View <col=ff981f>Attack</col> guide;Bekijk de <col=ff981f>Aanval</col>-gids
+Open <col=ff9040>Ardougne Journal</col>;Open <col=ff9040>Ardougne Journal</col>
 Read journal:;Journaal lezen:
-Open wiki guide:;Wikigids openen:
-Start Helper;Helper starten
-Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
 Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Woestijnjournaal</col>
+View <col=ff981f>Firemaking</col> guide;Bekijk de <col=ff981f>Vuurmaken</col> handleiding
+Open <col=ff9040>Desert Journal</col>;Open <col=ff9040>Woestijnjournaal</col>
 Show on map:;Toon op kaart:
 Start Quest Helper;Zoektochthelper starten
+Start Helper;Helper starten
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Open wiki guide:;Wikigids openen:
 Open wiki quick guide:;Wiki-korte handleiding openen:
-Open <col=ff9040>Desert Journal</col>;Open <col=ff9040>Woestijnjournaal</col>
-Open <col=ff9040>Ardougne Journal</col>;Open <col=ff9040>Ardougne Journal</col>
 Collection Overview;Collectieoverzicht
 Tasks;Taken
 Achievement Diaries;Prestatiedagboeken
-Bosses;Bazen
 Overview;Overzicht
-Collection Log;Verzamellogboek
 Reveal;Onthullen
+Bosses;Bazen
+Collection Log;Verzamellogboek
 Activate;Activeren
 View;Weergave
 Cast;Vorm
-Setup;Installatie
-Join;Meedoen
+Your Clan;Jouw clan
 Grouping;Groepering
+Setup;Installatie
+Grand Exchange;Grote Beurs
 View another clan;Bekijk een andere clan
 Configure;Configureer
-Grand Exchange;Grote Beurs
-Your Clan;Jouw clan
-Random;Willekeurig
-Toggle;Schakelaar
-Manual;Handmatig
-Auto retaliate;Automatische vergelding
-Block;Blok
-Settings;Instellingen
+Join;Meedoen
 Punch;Pons
-Kick;Trap
+Toggle;Schakelaar
+Auto retaliate;Automatische vergelding
+Settings;Instellingen
+Random;Willekeurig
 Unlock hint;Ontgrendel hint
+Block;Blok
+Kick;Trap
+Manual;Handmatig
+Select;Selecteer
 I don't know it.;Ik weet het niet.
 Exit;Uitgang
-Select;Selecteer
 View Inbox;Bekijk Postvak IN
 Skills;Vaardigheden
 View <col=ff981f>Fishing</col> guide;Bekijk de <col=ff981f>Visserij</col> gids
+Worn Equipment;Versleten uitrusting
+Enable spell reordering;Schakel het opnieuw ordenen van spellingen in
 Combat Options;Gevechtsopties
 Enable spell filtering;Schakel spellingfiltering in
 Disable prayer filtering;Schakel gebedsfiltering uit
-Worn Equipment;Versleten uitrusting
-Character Summary;Karaktersamenvatting
-Enable spell reordering;Schakel het opnieuw ordenen van spellingen in
-Enable prayer reordering;Schakel het opnieuw ordenen van gebeden in
 Quest List;Questlijst
+Character Summary;Karaktersamenvatting
 Magic;Magie
 Prayer;Gebed
+Enable prayer reordering;Schakel het opnieuw ordenen van gebeden in
 Show;Show
-Open Store;Winkel openen
 Deposit;Borg
+Open Store;Winkel openen
 Loot;Buit
 Destroy;Vernietigen
 Music Player;Muziekspeler
-Chop down;Hak neer
 Inventory;Inventaris
-Useful links;Nuttige links
+Chop down;Hak neer
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Geen tonen
+Report abuse;Misbruik melden
+World Switcher;Wereldwisselaar
 <col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Geen tonen
+Display;Weergave
+Useful links;Nuttige links
 <col=ffff00>Trade:</col> Show friends;<col=ffff00>Ruilen:</col> Laat vrienden zien
 Community;Gemeenschap
-<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Geen tonen
-<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanaal:</col> Geen tonen
-Display;Weergave
-<col=ffff00>Private:</col> Show friends;<col=ffff00>Privé:</col> Laat vrienden zien
 Audio;Audio
-<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chatmodus instellen:</col> Clan (@c)
-Switch tab;Van tabblad wisselen
-Report game bug;Spelfout melden
-<col=ffff00>Private:</col> Clear history;<col=ffff00>Privé:</col> Geschiedenis wissen
-<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanaal:</col> Toon alles
-Configure filter;Configureer filter
-Emotes;Emotes
-Account;Rekening
-<col=ffff00>Public:</col> Show autochat;<col=ffff00>Openbaar:</col> Autochat tonen
-<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Geschiedenis wissen
-Report abuse;Misbruik melden
-<col=ffff00>Public:</col> Show none;<col=ffff00>Openbaar:</col> Geen tonen
-Ignore List;Lijst negeren
-<col=00ff00>Filter public chat</col>;<col=00ff00>Openbare chat filteren</col>
-<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filter
-<col=00afff>Setup your autochat</col>;<col=00afff>Stel uw autochat in</col>
-Take;Nemen
-<col=ffff00>Private:</col> Show none;<col=ffff00>Privé:</col> Geen tonen
-<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Toon alles
-<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Toon vrienden
-Account Management;Accountbeheer
-Chat-channel;Chat-kanaal
-<col=ffff00>Public:</col> Clear history;<col=ffff00>Openbaar:</col> Geschiedenis wissen
 <col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Toon alles
-<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanaal:</col> Toon vrienden
 <col=ffff00>Private:</col> Show all;<col=ffff00>Privé:</col> Alles weergeven
-Logout;Uitloggen
 <col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chatmodus instellen:</col> Gastclan (@gc)
 <col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanaal:</col> Geschiedenis wissen
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privé:</col> Geschiedenis wissen
+Account;Rekening
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Toon vrienden
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanaal:</col> Geen tonen
+Switch tab;Van tabblad wisselen
+<col=ffff00>Public:</col> Show none;<col=ffff00>Openbaar:</col> Geen tonen
 Friends List;Vriendenlijst
-World Switcher;Wereldwisselaar
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Openbaar:</col> Toon vrienden
+Logout;Uitloggen
 <col=ffff00>Public:</col> Show standard;<col=ffff00>Openbaar:</col> Toon standaard
-<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chatmodus instellen:</col> Kanaal (@f)
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanaal:</col> Toon alles
+Emotes;Emotes
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Openbaar:</col> Autochat tonen
 <col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chatmodus instellen:</col> Openbaar (@p)
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Geschiedenis wissen
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privé:</col> Geen tonen
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Toon alles
+Account Management;Accountbeheer
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chatmodus instellen:</col> Clan (@c)
+Report game bug;Spelfout melden
+Ignore List;Lijst negeren
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filter
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Openbaar:</col> Geschiedenis wissen
+Configure filter;Configureer filter
+<col=00ff00>Filter public chat</col>;<col=00ff00>Openbare chat filteren</col>
+Take;Nemen
 Controls;Controles
 <col=ffff00>Public:</col> Hide;<col=ffff00>Openbaar:</col> Verbergen
-<col=ffff00>Public:</col> Show friends;<col=ffff00>Openbaar:</col> Toon vrienden
-Close;Dichtbij
+<col=00afff>Setup your autochat</col>;<col=00afff>Stel uw autochat in</col>
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanaal:</col> Toon vrienden
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chatmodus instellen:</col> Kanaal (@f)
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privé:</col> Laat vrienden zien
+Chat-channel;Chat-kanaal
 Show on Map;Toon op kaart
+Close;Dichtbij
 Outside;Buiten
-Yanille;Yanille
 Warnings;Waarschuwingen
-Seers';zieners
 Enable warning;Waarschuwing inschakelen
+Seers';zieners
+Yanille;Yanille
 Animation;Animatie
-Open <col=ff9040>Fremennik Journal</col>;Open <col=ff9040>Fremennik Journal</col>
-Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
 Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Open <col=ff9040>Kourend & Kebos Journaal</col>
+Open <col=ff9040>Fremennik Journal</col>;Open <col=ff9040>Fremennik Journal</col>
 Open <col=ff9040>Karamja Journal</col>;Open <col=ff9040>Karamja-dagboek</col>
-Open <col=ff9040>Lumbridge & Draynor Journal</col>;Open <col=ff9040>Lumbridge & Draynor Journal</col>
-Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador-dagboek</col>
-Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-tijdschrift</col>
-Open <col=ff9040>Kandarin Journal</col>;Open <col=ff9040>Kandarin-dagboek</col>
 Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-dagboek</col>
 Open <col=ff9040>Falador Journal</col>;Open <col=ff9040>Falador Journaal</col>
-Open <col=ff9040>Kourend & Kebos Journal</col>;Open <col=ff9040>Kourend & Kebos Journaal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-tijdschrift</col>
+Open <col=ff9040>Kandarin Journal</col>;Open <col=ff9040>Kandarin-dagboek</col>
 Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-dagboek</col>
-Bond Pouch;Bond-zakje
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Open <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador-dagboek</col>
+Learn More;Meer informatie
 DPS;DPS
 Search;Zoekopdracht
-Learn More;Meer informatie
-Open;Open
+Bond Pouch;Bond-zakje
 Pick;Kies
+Open;Open
 Join Castle Wars;Sluit je aan bij Castle Wars
-Attack;Aanval
 Climb-down;Klim naar beneden
-Travel;Reis
-Rest;Rest
-Build;Bouwen
+Attack;Aanval
 Check;Rekening
+Rest;Rest
 Tend-to;Neiging tot
+Build;Bouwen
+Travel;Reis
 Add friend;Vriend toevoegen
 Add ignore;Voeg negeren toe
-Enter-guest;Enter-gast
+Items;Artikelen
 Climb-up;Klim omhoog
 Enter;Binnenkomen
+Enter-guest;Enter-gast
 Enter-member;Enter-lid
-Items;Artikelen
 Knock-at;Klop-op
 Smith;Smit
+Continue;Doorgaan
 Pet;Huisdier
 Shoo-away;Schiet weg
-Continue;Doorgaan
 Trade;Handel
-Create <col=ff9040>Sell</col> offer;Maak een <col=ff9040>Verkoop</col> aanbieding
-Favourite;Favoriet
-Switch;Schakelaar
-2;2 
-Create <col=ff9040>Buy</col> offer;Maak een <col=ff9040>Koop</col> aanbieding
 1;1 
+Switch;Schakelaar
+Create <col=ff9040>Sell</col> offer;Maak een <col=ff9040>Verkoop</col> aanbieding
+Create <col=ff9040>Buy</col> offer;Maak een <col=ff9040>Koop</col> aanbieding
+Favourite;Favoriet
+2;2 
 Clear;Duidelijk
 -5%;-5%
-Collect to inventory;Verzamel naar inventaris
-+5%;+5%
-Modify offer;Aanbieding aanpassen
-Confirm;Bevestigen
-Abort offer;Aanbieding afbreken
 View offer;Bekijk aanbieding
++5%;+5%
+Collect to inventory;Verzamel naar inventaris
+Confirm;Bevestigen
 Collect to bank;Verzamelen naar de bank
+Abort offer;Aanbieding afbreken
+Modify offer;Aanbieding aanpassen
 Enter price;Voer prijs in
 Customise;Pas aan
 Guide price;Richtprijs
-All;Alle
-Enter quantity;Voer het aantal in
 +1;+1
+Enter quantity;Voer het aantal in
+All;Alle
 Offer;Aanbod
 Buy: 1 x Nature rune;Koop: 1 x Natuurrune
 Buy-offer;Koop-aanbieding
 Chop-down;Afhaken
 Look North;Kijk naar het noorden
-Look South;Kijk naar het zuiden
-Look East;Kijk naar het oosten
 Look West;Kijk naar het westen
+Look East;Kijk naar het oosten
+Look South;Kijk naar het zuiden
 Hide;Verbergen
 Cook;Kok
 Refresh;Vernieuwen
 Message;Bericht
+Delete Friend;Vriend verwijderen
 Delete;Verwijderen
 Add Friend;Vriend toevoegen
-Delete Friend;Vriend verwijderen
 Find;Vinden
 Toggle Run;Schakel Uitvoeren in
 Open subsection;Onderafdeling openen
 Pickpocket;Zakkenroller
 Claim-staves;Claim-stokken
-Rake;Hark
 3;3 
 Inspect;Inspecteren
+Rake;Hark
+Select <col=ff981f>Activities;Selecteer <col=ff981f>Activiteiten
+Mute;Stom
+Toggle unlock message;Schakel het ontgrendelingsbericht in
+All Settings;Alle instellingen
+Select <col=ff981f>Chat;Selecteer <col=ff981f>Chatten
+Select <col=ff981f>Warnings;Selecteer <col=ff981f>Waarschuwingen
+Select <col=ff981f>Display;Selecteer <col=ff981f>Weergeven
+Select <col=ff981f>Audio;Selecteer <col=ff981f>Audio
+Select <col=ff981f>Gameplay;Selecteer <col=ff981f>Gameplay
+View-journal;Bekijk-dagboek
+Stats;Statistieken
+Rummage;Snuffelen
+Switch View;Weergave wijzigen
+Guide;Gids
+Release;Uitgave
+View tab;Tabblad bekijken
+Withdraw-10;Intrekken-10
+Withdraw-All-but-1;Trek-alles-behalve-1 terug
+Withdraw-10000;Intrekken-10000
+Withdraw-X;Intrekken-X
+Withdraw-5;Intrekken-5
+Collapse tab;Tabblad samenvouwen
+Remove placeholders;Tijdelijke aanduidingen verwijderen
+Withdraw-1;Intrekken-1
+Withdraw-All;Alles intrekken
+Rename tag tab;Hernoem het tagtabblad
+Set custom quantity;Aangepaste hoeveelheid instellen
+Default quantity: 10,000;Standaardhoeveelheid: 10.000
+Delete tag tab;Tabblad Tag verwijderen
+Default quantity: 10;Standaardhoeveelheid: 10
+Change icon;Pictogram wijzigen
+View tag tab;Tabblad Tag bekijken
+Default quantity: 1;Standaardhoeveelheid: 1
+Export tag tab;Tabblad Exporttag
+Enable layout;Indeling inschakelen
+Makeover;Make-over
+Unlock;Ontgrendelen
+Read;Lezen
+Walk-down;Naar beneden lopen
+Study;Studie
+Dismiss;Afwijzen
+Look-at;Kijk-naar
+Focus on;Focus op
+Cancelar;Annuleren
+Climb;Beklimmen
+Clear history;Geschiedenis wissen
+Item;Item
+Note;Opmerking
+Swap;Ruil
+Insert;Invoegen
+Disable;Uitzetten
+Deposit worn items;Bewaar versleten artikelen
+Deposit inventory;Inventaris deponeren
+Default quantity: All;Standaardhoeveelheid: Alles
+Withdraw-14;Intrekken-14
+Default quantity: 5;Standaardhoeveelheid: 5
+Default quantity: 14;Standaardhoeveelheid: 14
+Pay (Fruit tree);Betalen (Fruitboom)
