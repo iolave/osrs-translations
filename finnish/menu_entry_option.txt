@@ -303,3 +303,9 @@ Withdraw-14;Nosto-14
 Default quantity: 5;Oletusmäärä: 5
 Default quantity: 14;Oletusmäärä: 14
 Pay (Fruit tree);Palkka (hedelmäpuu)
+Dismantle;Purkaa
+Wield;Käytellä
+Wear;Käyttää
+Fullscreen <col=ff9040>World Map</col>;Koko näytön <col=ff9040>maailmankartta</col>
+Minimise <col=ff9040>Minimap</col>;Pienennä <col=ff9040>pienikartta</col>
+Floating <col=ff9040>World Map</col>;Kelluva <col=ff9040>maailmankartta</col>

@@ -303,3 +303,9 @@ Withdraw-14;Ritiro-14
 Default quantity: 5;Quantità predefinita: 5
 Default quantity: 14;Quantità predefinita: 14
 Pay (Fruit tree);Paga (Albero da frutto)
+Dismantle;Smantellare
+Wield;Impugnare
+Wear;Indossare
+Fullscreen <col=ff9040>World Map</col>;<col=ff9040>Mappa del mondo</col> a schermo intero
+Minimise <col=ff9040>Minimap</col>;Riduci a icona <col=ff9040>Minimappa</col>
+Floating <col=ff9040>World Map</col>;<col=ff9040>Mappa del mondo</col> mobile
