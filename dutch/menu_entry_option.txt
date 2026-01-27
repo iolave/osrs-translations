@@ -303,3 +303,9 @@ Withdraw-14;Intrekken-14
 Default quantity: 5;Standaardhoeveelheid: 5
 Default quantity: 14;Standaardhoeveelheid: 14
 Pay (Fruit tree);Betalen (Fruitboom)
+Dismantle;Ontmantelen
+Wield;Hanteren
+Wear;Dragen
+Fullscreen <col=ff9040>World Map</col>;Volledig scherm <col=ff9040>Wereldkaart</col>
+Minimise <col=ff9040>Minimap</col>;Minimaliseer <col=ff9040>Minimap</col>
+Floating <col=ff9040>World Map</col>;Zwevende <col=ff9040>Wereldkaart</col>

@@ -303,3 +303,9 @@ Withdraw-14;Uttag-14
 Default quantity: 5;Standard kvantitet: 5
 Default quantity: 14;Standardantal: 14
 Pay (Fruit tree);Betala (fruktträd)
+Dismantle;Ta isär
+Wield;Svinga
+Wear;Bära
+Fullscreen <col=ff9040>World Map</col>;Helskärmskarta <col=ff9040>Världskarta</col>
+Minimise <col=ff9040>Minimap</col>;Minimera <col=ff9040>Minimarta</col>
+Floating <col=ff9040>World Map</col>;Flytande <col=ff9040>världskarta</col>

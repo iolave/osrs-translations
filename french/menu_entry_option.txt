@@ -303,3 +303,9 @@ Withdraw-14;Retrait-14
 Default quantity: 5;Quantité par défaut : 5
 Default quantity: 14;Quantité par défaut : 14
 Pay (Fruit tree);Payer (Arbre fruitier)
+Dismantle;Démanteler
+Wield;Exercer
+Wear;Porter
+Fullscreen <col=ff9040>World Map</col>;Plein écran <col=ff9040>Carte du monde</col>
+Minimise <col=ff9040>Minimap</col>;Réduire la <col=ff9040>Mini-carte</col>
+Floating <col=ff9040>World Map</col>;<col=ff9040>Carte du monde</col> flottante
