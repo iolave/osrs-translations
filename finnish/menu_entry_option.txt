@@ -1,285 +1,285 @@
 Follow;Seuraa
-Bank;Pankki
-Examine;Tutki
-Cancel;Peruuttaa
-Collect;Kerätä
-Trade with;Kauppa kanssa
 Sets;Sarjat
 Exchange;Vaihtaa
 History;Historia
-Report;Raportoi
-Talk-to;Keskustele
-Lookup;Haku
+Trade with;Kauppa kanssa
 Walk here;Kävele täällä
+Examine;Tutki
+Talk-to;Keskustele
+Bank;Pankki
+Lookup;Haku
+Cancel;Peruuttaa
+Report;Raportoi
+Collect;Kerätä
 Prices;hinnat
 Drop;Pudota
 Decant;Dekantoi
 Use;Käyttää
-View <col=ff981f>Ranged</col> guide;Katso <col=ff981f>Etäisyys</col>-opas
+View guide prices;Katso ohjehinnat
 View <col=ff981f>Farming</col> guide;Katso <col=ff981f>Maatalous</col>-opas
+Wiki;Wiki
+Add to canvas;Lisää kankaalle
+View <col=ff981f>Agility</col> guide;Katso <col=ff981f>Agility</col>-opas
+View equipment stats;Katso varustetilastot
+View <col=ff981f>Herblore</col> guide;Katso <col=ff981f>Herblore</col>-opas
+Remove;Poistaa
+View <col=ff981f>Magic</col> guide;Katso <col=ff981f>Magic</col>-opas
 View <col=ff981f>Sailing</col> guide;Katso <col=ff981f>Purjehdus</col>-opas
 Call follower;Soita seuraajalle
-View <col=ff981f>Construction</col> guide;Katso <col=ff981f>Rakennusopas</col>
-Add to canvas;Lisää kankaalle
-Remove;Poistaa
-View <col=ff981f>Runecraft</col> guide;Katso <col=ff981f>Runecraft</col>-opas
-View <col=ff981f>Magic</col> guide;Katso <col=ff981f>Magic</col>-opas
 View <col=ff981f>Thieving</col> guide;Katso <col=ff981f>Thieving</col> -opas
-View <col=ff981f>Agility</col> guide;Katso <col=ff981f>Agility</col>-opas
 View <col=ff981f>Woodcutting</col> guide;Katso <col=ff981f>Puunleikkaus</col>-opas
-View guide prices;Katso ohjehinnat
-View <col=ff981f>Cooking</col> guide;Katso <col=ff981f>Ruoanlaitto</col>-opas
-View equipment stats;Katso varustetilastot
-View <col=ff981f>Prayer</col> guide;Katso <col=ff981f>Rukous</col>-opas
-View <col=ff981f>Herblore</col> guide;Katso <col=ff981f>Herblore</col>-opas
+View <col=ff981f>Construction</col> guide;Katso <col=ff981f>Rakennusopas</col>
+View <col=ff981f>Ranged</col> guide;Katso <col=ff981f>Etäisyys</col>-opas
 View items kept on death;Katso kuolemantapauksessa säilytetyt tavarat
-Wiki;Wiki
+View <col=ff981f>Runecraft</col> guide;Katso <col=ff981f>Runecraft</col>-opas
+View <col=ff981f>Cooking</col> guide;Katso <col=ff981f>Ruoanlaitto</col>-opas
 View <col=ff981f>Crafting</col> guide;Katso <col=ff981f>käsityön</col>-opas
+View <col=ff981f>Prayer</col> guide;Katso <col=ff981f>Rukous</col>-opas
 Play;Pelata
-Skull;Kallo
 Rewards;Palkinnot
-View <col=ff981f>Mining</col> guide;Katso <col=ff981f>Louhinta</col>-opas
-View <col=ff981f>Hunter</col> guide;Katso <col=ff981f>Hunter</col> -opas
-View <col=ff981f>Slayer</col> guide;Katso <col=ff981f>Slayer</col> -opas
+Skull;Kallo
 View <col=ff981f>Strength</col> guide;Katso <col=ff981f>voimakkuus</col>-opas
-View <col=ff981f>Hitpoints</col> guide;Katso <col=ff981f>Hitpoints</col>-opas
-View <col=ff981f>Smithing</col> guide;Katso <col=ff981f>Smithingin</col>-opas
 View <col=ff981f>Defence</col> guide;Katso <col=ff981f>Puolustus</col>-opas
+View <col=ff981f>Slayer</col> guide;Katso <col=ff981f>Slayer</col> -opas
+View <col=ff981f>Hunter</col> guide;Katso <col=ff981f>Hunter</col> -opas
+View <col=ff981f>Hitpoints</col> guide;Katso <col=ff981f>Hitpoints</col>-opas
 View <col=ff981f>Fletching</col> guide;Katso <col=ff981f>Fletching</col> -opas
+View <col=ff981f>Mining</col> guide;Katso <col=ff981f>Louhinta</col>-opas
 View <col=ff981f>Attack</col> guide;Katso <col=ff981f>Attack</col> -opas
-Open <col=ff9040>Ardougne Journal</col>;Avaa <col=ff9040>Ardougne Journal</col>
-Read journal:;Lue päiväkirja:
-Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Desert Journal</col>
+View <col=ff981f>Smithing</col> guide;Katso <col=ff981f>Smithingin</col>-opas
 View <col=ff981f>Firemaking</col> guide;Katso <col=ff981f>Tulonteko</col>-opas
-Open <col=ff9040>Desert Journal</col>;Avaa <col=ff9040>Desert Journal</col>
-Show on map:;Näytä kartalla:
-Start Quest Helper;Käynnistä Quest Helper
+Read journal:;Lue päiväkirja:
+Open wiki guide:;Avaa wikiopas:
 Start Helper;Käynnistä Helper
 Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
-Open wiki guide:;Avaa wikiopas:
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Desert Journal</col>
+Show on map:;Näytä kartalla:
+Start Quest Helper;Käynnistä Quest Helper
 Open wiki quick guide:;Avaa wikin pikaopas:
+Open <col=ff9040>Desert Journal</col>;Avaa <col=ff9040>Desert Journal</col>
+Open <col=ff9040>Ardougne Journal</col>;Avaa <col=ff9040>Ardougne Journal</col>
 Collection Overview;Kokoelman yleiskatsaus
 Tasks;Tehtävät
 Achievement Diaries;Saavutuspäiväkirjat
-Overview;Yleiskatsaus
-Reveal;Paljastaa
 Bosses;Pomot
+Overview;Yleiskatsaus
 Collection Log;Keräysloki
+Reveal;Paljastaa
 Activate;Aktivoida
 View;Näytä
 Cast;Heittää
-Your Clan;Sinun klaanisi
-Grouping;Ryhmittely
 Setup;Asennus
-Grand Exchange;Suuri vaihto
+Join;Liity
+Grouping;Ryhmittely
 View another clan;Katso toinen klaani
 Configure;Määritä
-Join;Liity
-Punch;Booli
-Toggle;Vaihda
-Auto retaliate;Automaattinen kosto
-Settings;Asetukset
+Grand Exchange;Suuri vaihto
+Your Clan;Sinun klaanisi
 Random;Satunnainen
-Unlock hint;Avausvihje
-Block;Lohko
-Kick;Potkia
+Toggle;Vaihda
 Manual;Manuaalinen
-Select;Valitse
+Auto retaliate;Automaattinen kosto
+Block;Lohko
+Settings;Asetukset
+Punch;Booli
+Kick;Potkia
+Unlock hint;Avausvihje
 I don't know it.;En tiedä sitä.
 Exit;Poistu
+Select;Valitse
 View Inbox;Näytä Saapuneet
 Skills;Taidot
 View <col=ff981f>Fishing</col> guide;Katso <col=ff981f>Kalastus</col>-opas
-Worn Equipment;Kuluneet laitteet
-Enable spell reordering;Ota oikeinkirjoituksen uudelleenjärjestäminen käyttöön
 Combat Options;Taisteluvaihtoehdot
 Enable spell filtering;Ota oikeinkirjoituksen suodatus käyttöön
 Disable prayer filtering;Poista rukoussuodatus käytöstä
-Quest List;Tehtävälista
+Worn Equipment;Kuluneet laitteet
 Character Summary;Hahmon yhteenveto
+Enable spell reordering;Ota oikeinkirjoituksen uudelleenjärjestäminen käyttöön
+Enable prayer reordering;Ota rukouksen uudelleenjärjestäminen käyttöön
+Quest List;Tehtävälista
 Magic;Taika
 Prayer;Rukous
-Enable prayer reordering;Ota rukouksen uudelleenjärjestäminen käyttöön
 Show;Show
-Deposit;Tallettaa
 Open Store;Avaa Store
+Deposit;Tallettaa
 Loot;Ryöstää
 Destroy;Tuhota
 Music Player;Musiikkisoitin
-Inventory;Varasto
 Chop down;Kaataa
-<col=ffff00>Clan:</col> Show none;<col=ffff00>Klaani:</col> ei näytä mitään
-Report abuse;Ilmoita väärinkäytöstä
-World Switcher;Maailman vaihtaja
-<col=ffff00>Trade:</col> Show none;<col=ffff00>Kauppa:</col> Ei näytä mitään
-Display;Näyttö
+Inventory;Varasto
 Useful links;Hyödyllisiä linkkejä
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Kauppa:</col> Ei näytä mitään
 <col=ffff00>Trade:</col> Show friends;<col=ffff00>Kauppa:</col> Näytä ystäviä
 Community;yhteisössä
-Audio;Audio
-<col=ffff00>Clan:</col> Show all;<col=ffff00>Klaani:</col> Näytä kaikki
-<col=ffff00>Private:</col> Show all;<col=ffff00>Yksityinen:</col> Näytä kaikki
-<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Aseta chat-tila:</col> Vierasklaani (/@gc)
-<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanava:</col> Tyhjennä historia
-<col=ffff00>Private:</col> Clear history;<col=ffff00>Yksityinen:</col> Tyhjennä historia
-Account;Tili
-<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klaani:</col> Näytä ystäviä
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Klaani:</col> ei näytä mitään
 <col=ffff00>Channel:</col> Show none;<col=ffff00>Kanava:</col> ei näytä mitään
+Display;Näyttö
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Yksityinen:</col> Näytä ystävät
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Aseta chat-tila:</col> Klaani (/@c)
 Switch tab;Vaihda välilehteä
-<col=ffff00>Public:</col> Show none;<col=ffff00>Julkinen:</col> ei näytä mitään
-Friends List;Ystävälista
-<col=ffff00>Public:</col> Show friends;<col=ffff00>Julkinen:</col> Näytä ystävät
-Logout;Kirjaudu ulos
-<col=ffff00>Public:</col> Show standard;<col=ffff00>Julkinen:</col> Näytä standardi
+Report game bug;Ilmoita pelivirheestä
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Yksityinen:</col> Tyhjennä historia
 <col=ffff00>Channel:</col> Show all;<col=ffff00>Kanava:</col> Näytä kaikki
+Configure filter;Määritä suodatin
 Emotes;Hymiöt
+Account;Tili
 <col=ffff00>Public:</col> Show autochat;<col=ffff00>Julkinen:</col> Näytä automaattinen keskustelu
-<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Aseta chat-tila:</col> Julkinen (/@p)
 <col=ffff00>Clan:</col> Clear history;<col=ffff00>Klaani:</col> Tyhjennä historia
+Report abuse;Ilmoita väärinkäytöstä
+<col=ffff00>Public:</col> Show none;<col=ffff00>Julkinen:</col> ei näytä mitään
+Ignore List;Ohita lista
+<col=00ff00>Filter public chat</col>;<col=00ff00>Suodata julkinen keskustelu</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Peli:</col> Suodata
+<col=00afff>Setup your autochat</col>;<col=00afff>Määritä automaattinen chat</col>
+Take;Ota
 <col=ffff00>Private:</col> Show none;<col=ffff00>Yksityinen:</col> ei näytä mitään
 <col=ffff00>Trade:</col> Show all;<col=ffff00>Kauppa:</col> Näytä kaikki
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klaani:</col> Näytä ystäviä
 Account Management;Tilinhallinta
-<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Aseta chat-tila:</col> Klaani (/@c)
-Report game bug;Ilmoita pelivirheestä
-Ignore List;Ohita lista
-<col=ffff00>Game:</col> Filter;<col=ffff00>Peli:</col> Suodata
+Chat-channel;Chat-kanava
 <col=ffff00>Public:</col> Clear history;<col=ffff00>Julkinen:</col> Tyhjennä historia
-Configure filter;Määritä suodatin
-<col=00ff00>Filter public chat</col>;<col=00ff00>Suodata julkinen keskustelu</col>
-Take;Ota
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Klaani:</col> Näytä kaikki
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanava:</col> Näytä ystäviä
+<col=ffff00>Private:</col> Show all;<col=ffff00>Yksityinen:</col> Näytä kaikki
+Logout;Kirjaudu ulos
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Aseta chat-tila:</col> Vierasklaani (/@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanava:</col> Tyhjennä historia
+Friends List;Ystävälista
+World Switcher;Maailman vaihtaja
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Julkinen:</col> Näytä standardi
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Aseta chat-tila:</col> Kanava (/@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Aseta chat-tila:</col> Julkinen (/@p)
 Controls;Säätimet
 <col=ffff00>Public:</col> Hide;<col=ffff00>Julkinen:</col> Piilota
-<col=00afff>Setup your autochat</col>;<col=00afff>Määritä automaattinen chat</col>
-<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanava:</col> Näytä ystäviä
-<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Aseta chat-tila:</col> Kanava (/@f)
-<col=ffff00>Private:</col> Show friends;<col=ffff00>Yksityinen:</col> Näytä ystävät
-Chat-channel;Chat-kanava
-Show on Map;Näytä kartalla
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Julkinen:</col> Näytä ystävät
 Close;Lähellä
+Show on Map;Näytä kartalla
 Outside;Ulkopuolella
-Warnings;Varoitukset
-Enable warning;Ota varoitus käyttöön
-Seers';Näkijät
 Yanille;Yanille
+Warnings;Varoitukset
+Seers';Näkijät
+Enable warning;Ota varoitus käyttöön
 Animation;Animaatio
-Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
-Open <col=ff9040>Kourend & Kebos Journal</col>;Avaa <col=ff9040>Kourend & Kebos Journal</col>
 Open <col=ff9040>Fremennik Journal</col>;Avaa <col=ff9040>Fremennik Journal</col>
-Open <col=ff9040>Karamja Journal</col>;Avaa <col=ff9040>Karamja Journal</col>
-Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja Journal</col>
-Open <col=ff9040>Falador Journal</col>;Avaa <col=ff9040>Falador Journal</col>
 Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
-Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
-Open <col=ff9040>Kandarin Journal</col>;Avaa <col=ff9040>Kandarin Journal</col>
-Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin Journal</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Avaa <col=ff9040>Karamja Journal</col>
 Open <col=ff9040>Lumbridge & Draynor Journal</col>;Avaa <col=ff9040>Lumbridge & Draynor Journal</col>
 Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador Journal</col>
-Learn More;Lisätietoja
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
+Open <col=ff9040>Kandarin Journal</col>;Avaa <col=ff9040>Kandarin Journal</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Falador Journal</col>;Avaa <col=ff9040>Falador Journal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Avaa <col=ff9040>Kourend & Kebos Journal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin Journal</col>
+Bond Pouch;Bond-pussi
 DPS;DPS
 Search;Haku
-Bond Pouch;Bond-pussi
-Pick;Valita
+Learn More;Lisätietoja
 Open;Avata
+Pick;Valita
 Join Castle Wars;Liity Castle Warsiin
-Climb-down;Perääntyminen
 Attack;Hyökkäys
-Check;Tarkista
-Rest;Levätä
-Tend-to;Taipuvainen
-Build;Rakentaa
+Climb-down;Perääntyminen
 Travel;Matkustaa
+Rest;Levätä
+Build;Rakentaa
+Check;Tarkista
+Tend-to;Taipuvainen
 Add friend;Lisää ystävä
 Add ignore;Lisää ohitus
-Items;Tuotteet
+Enter-guest;Sisään-vieras
 Climb-up;Kiipeäminen
 Enter;Enter
-Enter-guest;Sisään-vieras
 Enter-member;Tule jäseneksi
+Items;Tuotteet
 Knock-at;Knock-at
 Smith;Smith
-Continue;Jatkaa
 Pet;Lemmikki
 Shoo-away;Painu pois
+Continue;Jatkaa
 Trade;Kauppa
-1;1 
-Switch;Kytkin
 Create <col=ff9040>Sell</col> offer;Luo <col=ff9040>Myy</col>-tarjous
-Create <col=ff9040>Buy</col> offer;Luo <col=ff9040>Osta</col>-tarjous
 Favourite;Suosikki
+Switch;Kytkin
 2;2 
+Create <col=ff9040>Buy</col> offer;Luo <col=ff9040>Osta</col>-tarjous
+1;1 
 Clear;Selkeä
 -5%;-5 %
-View offer;Katso tarjous
-+5%;+5 %
 Collect to inventory;Kerää varastoon
-Confirm;Vahvistaa
-Collect to bank;Kerää pankkiin
-Abort offer;Peruuta tarjous
++5%;+5 %
 Modify offer;Muokkaa tarjousta
+Confirm;Vahvistaa
+Abort offer;Peruuta tarjous
+View offer;Katso tarjous
+Collect to bank;Kerää pankkiin
 Enter price;Syötä hinta
 Customise;Mukauta
 Guide price;Ohjehinta
-+1;+1
-Enter quantity;Syötä määrä
 All;Kaikki
+Enter quantity;Syötä määrä
++1;+1
 Offer;Tarjous
 Buy: 1 x Nature rune;Osta: 1 x Nature rune
 Buy-offer;Ostotarjous
 Chop-down;Katkaisu
 Look North;Katso pohjoiseen
-Look West;Katso länteen
-Look East;Katso itään
 Look South;Katso etelään
+Look East;Katso itään
+Look West;Katso länteen
 Hide;Piilottaa
 Cook;Kokki
 Refresh;Päivitä
 Message;Viesti
-Delete Friend;Poista ystävä
 Delete;Poistaa
 Add Friend;Lisää ystävä
+Delete Friend;Poista ystävä
 Find;Löytää
 Toggle Run;Toggle Run
 Open subsection;Avaa alaosio
 Pickpocket;Taskuvaras
 Claim-staves;Vaatimukset
+Rake;Rake
 3;3 
 Inspect;Tarkastaa
-Rake;Rake
-Select <col=ff981f>Activities;Valitse <col=ff981f>Toiminnot
-Mute;Mykistä
 Toggle unlock message;Avaa lukituksen avausviesti
-All Settings;Kaikki asetukset
 Select <col=ff981f>Chat;Valitse <col=ff981f>Chat
-Select <col=ff981f>Warnings;Valitse <col=ff981f>Varoitukset
-Select <col=ff981f>Display;Valitse <col=ff981f>Näyttö
-Select <col=ff981f>Audio;Valitse <col=ff981f>Ääni
+Mute;Mykistä
+All Settings;Kaikki asetukset
+Select <col=ff981f>Activities;Valitse <col=ff981f>Toiminnot
 Select <col=ff981f>Gameplay;Valitse <col=ff981f>Peli
+Select <col=ff981f>Audio;Valitse <col=ff981f>Ääni
+Select <col=ff981f>Display;Valitse <col=ff981f>Näyttö
+Select <col=ff981f>Warnings;Valitse <col=ff981f>Varoitukset
 View-journal;Näytä-päiväkirja
 Stats;Tilastot
 Rummage;Rummage
 Switch View;Vaihda näkymää
 Guide;Opas
-Release;Vapauta
 View tab;Näytä-välilehti
-Withdraw-10;Nosto-10
-Withdraw-All-but-1;Nosta-kaikki paitsi-1
-Withdraw-10000;Nosto - 10 000
-Withdraw-X;Nosto-X
-Withdraw-5;Nosto-5
 Collapse tab;Tiivistä välilehti
-Remove placeholders;Poista paikkamerkit
-Withdraw-1;Nosto-1
+Withdraw-X;Nosto-X
+Withdraw-10000;Nosto - 10 000
+Withdraw-10;Nosto-10
 Withdraw-All;Poista kaikki
-Rename tag tab;Nimeä tunniste-välilehti uudelleen
-Set custom quantity;Aseta mukautettu määrä
+Remove placeholders;Poista paikkamerkit
+Withdraw-5;Nosto-5
+Withdraw-All-but-1;Nosta-kaikki paitsi-1
+Withdraw-1;Nosto-1
+Release;Vapauta
 Default quantity: 10,000;Oletusmäärä: 10 000
+Default quantity: 1;Oletusmäärä: 1
+Set custom quantity;Aseta mukautettu määrä
+View tag tab;Näytä tunniste -välilehti
+Rename tag tab;Nimeä tunniste-välilehti uudelleen
 Delete tag tab;Poista tagi-välilehti
 Default quantity: 10;Oletusmäärä: 10
-Change icon;Vaihda kuvake
-View tag tab;Näytä tunniste -välilehti
-Default quantity: 1;Oletusmäärä: 1
-Export tag tab;Vie tagi-välilehti
 Enable layout;Ota asettelu käyttöön
+Change icon;Vaihda kuvake
+Export tag tab;Vie tagi-välilehti
 Makeover;Makeover
 Unlock;Avata
 Read;Lukea
@@ -295,17 +295,65 @@ Item;Tuote
 Note;Huom
 Swap;Vaihtaa
 Insert;Lisää
-Disable;Poista käytöstä
-Deposit worn items;Talleta kuluneet tavarat
-Deposit inventory;Talleta varasto
 Default quantity: All;Oletusmäärä: Kaikki
-Withdraw-14;Nosto-14
+Deposit inventory;Talleta varasto
+Deposit worn items;Talleta kuluneet tavarat
+Disable;Poista käytöstä
 Default quantity: 5;Oletusmäärä: 5
-Default quantity: 14;Oletusmäärä: 14
+Withdraw-14;Nosto-14
 Pay (Fruit tree);Palkka (hedelmäpuu)
-Dismantle;Purkaa
+Default quantity: 14;Oletusmäärä: 14
 Wield;Käytellä
 Wear;Käyttää
-Fullscreen <col=ff9040>World Map</col>;Koko näytön <col=ff9040>maailmankartta</col>
+Dismantle;Purkaa
 Minimise <col=ff9040>Minimap</col>;Pienennä <col=ff9040>pienikartta</col>
 Floating <col=ff9040>World Map</col>;Kelluva <col=ff9040>maailmankartta</col>
+Fullscreen <col=ff9040>World Map</col>;Koko näytön <col=ff9040>maailmankartta</col>
+Castle Wars;Linnan sodat
+Collect-from;Kerää- mistä
+Tears of Guthix;Guthixin kyyneleet
+Farm Teleport;Farm Teleport
+Pray-at;Rukoile-at
+Story;Tarina
+Equip;Varustaa
+Wintertodt Camp;Wintertodtin leiri
+Rub;Hieroa
+Corporeal Beast;Ruumiillinen peto
+Monastery Teleport;Luostari Teleport
+Fortis Colosseum;Fortis Colosseum
+Ferox Enclave;Ferox Enclave
+Barbarian Outpost;Barbaarien etuvartio
+Emir's Arena;Emir's Arena
+Burthorpe;Burthorpe
+Drink;Juoda
+Open Activity Adviser;Avaa Activity Adviser
+Mine;Minun
+Uncharge;Poista lataus
+Xeric's Lookout;Xericin näköalapaikka
+Steal-from;Varasta
+Xeric's Honour;Xericin kunnia
+Check steps;Tarkista vaiheet
+Teleport;Teleportoi
+Enable prayer filtering;Ota rukoussuodatus käyttöön
+Trim;Leikata
+Perform;Suorittaa
+Loop;Silmukka
+Xeric's Glade;Xeric's Glade
+Xeric's Heart;Xericin sydän
+Remove default;Poista oletus
+Xeric's Inferno;Xericin Inferno
+Deposit-X;Talletus-X
+Deposit-All;Talletus-kaikki
+Default quantity: <col=ff9040>5</col>;Oletusmäärä: <col=ff9040>5</col>
+Deposit Lock Settings;Talletuslukon asetukset
+Disable inventory locks;Poista varaston lukitukset käytöstä
+Deposit-10;Talletus - 10
+Deposit-1;Talletus-1
+Deposit-5;Talletus-5
+Default quantity: <col=ff9040>1</col>;Oletusmäärä: <col=ff9040>1</col>
+Shave;Parranajo
+Haircut;Hiustenleikkaus
+Net;Net
+Toggle Accept Aid;Ota apu käyttöön
+Empty;Tyhjä
+Eat;Syödä
