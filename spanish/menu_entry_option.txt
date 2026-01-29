@@ -93,8 +93,8 @@ View <col=ff981f>Fishing</col> guide;Ver guía de <col=ff981f>Pesca</col>
 Combat Options;Opciones de combate
 Enable spell filtering;Habilitar el filtrado de hechizos
 Disable prayer filtering;Desactivar el filtrado de oraciones
-Worn Equipment;Equipamiento puesto
-Character Summary;Resumen de personajes
+Worn Equipment;Equipamiento
+Character Summary;Resumen de personaje
 Enable spell reordering;Habilitar reordenamiento de hechizos
 Enable prayer reordering;Habilitar el reordenamiento de oraciones
 Quest List;Lista de misiones
@@ -102,11 +102,11 @@ Magic;Magia
 Prayer;Oración
 Show;Espectáculo
 Open Store;Abrir tienda
-Deposit;Depósito
+Deposit;Depostiar
 Loot;Botín
 Destroy;Destruir
 Music Player;Reproductor de música
-Chop down;Tronchar
+Chop down;Talar
 Inventory;Inventario
 Useful links;Enlaces útiles
 <col=ffff00>Trade:</col> Show none;<col=ffff00>Comercio:</col> Mostrar ninguno
@@ -133,7 +133,7 @@ Ignore List;Lista de ignorados
 <col=00ff00>Filter public chat</col>;<col=00ff00>Filtrar chat público</col>
 <col=ffff00>Game:</col> Filter;<col=ffff00>Juego:</col> Filtro
 <col=00afff>Setup your autochat</col>;<col=00afff>Configura tu chat automático</col>
-Take;Llevar
+Take;Recoger
 <col=ffff00>Private:</col> Show none;<col=ffff00>Privado:</col> Mostrar ninguno
 <col=ffff00>Trade:</col> Show all;<col=ffff00>Comercio:</col> Mostrar todo
 <col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Mostrar amigos
@@ -154,7 +154,7 @@ World Switcher;Cambiador de mundos
 Controls;Controles
 <col=ffff00>Public:</col> Hide;<col=ffff00>Público:</col> Ocultar
 <col=ffff00>Public:</col> Show friends;<col=ffff00>Público:</col> Mostrar amigos
-Close;Cerca
+Close;Cerrar
 Show on Map;Mostrar en el mapa
 Outside;Afuera
 Yanille;yanille
@@ -174,29 +174,29 @@ Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Diario Karamja</col>
 Open <col=ff9040>Falador Journal</col>;Abrir <col=ff9040>Diario Falador</col>
 Open <col=ff9040>Kourend & Kebos Journal</col>;Abrir <col=ff9040>Diario de Kourend & Kebos</col>
 Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Diario Kandarin</col>
-Bond Pouch;Bolsa de bonos
+Bond Pouch;Bolsa de bonds
 DPS;DPS
 Search;Buscar
 Learn More;Más información
-Open;Abierto
+Open;Abrir
 Pick;Elegir
 Join Castle Wars;Únete a Castle Wars
-Attack;Ataque
+Attack;Atacar
 Climb-down;Bajar
 Travel;Viajar
 Rest;Descansar
 Build;Construir
-Check;Controlar
+Check;Verificar
 Tend-to;tender a
 Add friend;Agregar amigo
 Add ignore;Agregar ignorar
 Enter-guest;Ingresar-invitado
 Climb-up;Subir
-Enter;Ingresar
+Enter;Entrar
 Enter-member;Entrar-miembro
 Items;Elementos
-Knock-at;golpe
-Smith;Herrero
+Knock-at;Golpear
+Smith;Forjar
 Pet;Mascota
 Shoo-away;ahuyentar
 Continue;Continuar
@@ -207,7 +207,7 @@ Switch;Cambiar
 2;2 
 Create <col=ff9040>Buy</col> offer;Crear oferta de <col=ff9040>Comprar</col>
 1;1 
-Clear;Claro
+Clear;Limpiar
 -5%;-5%
 Collect to inventory;Recoger al inventario
 +5%;+5%
@@ -230,7 +230,7 @@ Look North;Mirar al norte
 Look South;mirar hacia el sur
 Look East;mirar hacia el este
 Look West;Mirar al oeste
-Hide;Esconder
+Hide;Ocultar
 Cook;Cocinar
 Refresh;Refrescar
 Message;Mensaje
@@ -240,7 +240,7 @@ Delete Friend;Eliminar amigo
 Find;Encontrar
 Toggle Run;Alternar ejecutar
 Open subsection;Subsección abierta
-Pickpocket;Carterista
+Pickpocket;Hurtar
 Claim-staves;bastones de reclamo
 Rake;Rastrillo
 3;3 
@@ -296,8 +296,8 @@ Note;Nota
 Swap;Intercambio
 Insert;Insertar
 Default quantity: All;Cantidad predeterminada: Todos
-Deposit inventory;Inventario de depósito
-Deposit worn items;Depositar artículos usados
+Deposit inventory;Depositar inventario
+Deposit worn items;Depositar equipamiento
 Disable;Desactivar
 Default quantity: 5;Cantidad predeterminada: 5
 Withdraw-14;Retirar-14
@@ -327,7 +327,7 @@ Emir's Arena;Arena del Emir
 Burthorpe;burthorpe
 Drink;Beber
 Open Activity Adviser;Asesor de actividades abiertas
-Mine;Mío
+Mine;Minar
 Uncharge;Descargar
 Xeric's Lookout;El mirador de Xeric
 Steal-from;Robar de
@@ -357,3 +357,20 @@ Net;Neto
 Toggle Accept Aid;Toggle Aceptar ayuda
 Empty;Vacío
 Eat;Comer
+Adventure Paths;Caminos de Aventura
+Clean;Limpio
+Smith set;conjunto de herrero
+Stab;Puñalada
+Lunge;Estocada
+Slash;Barra oblicua
+Placeholder;Marcador de posición
+Name Changer;Cambiador de nombre
+Upgrade Now;Actualiza ahora
+Disable spell filtering;Desactivar el filtrado ortográfico
+Close <col=ff9040>Floating panel</col>;Cerrar <col=ff9040>Panel flotante</col>
+Ultimate Ironman;Hombre de Hierro definitivo
+7 days;7 días
+Hardcore Group Ironman;Ironman grupo duro
+Unranked Group Ironman;Ironman grupal no clasificado
+None;Ninguno
+Group Ironman;Grupo Ironman

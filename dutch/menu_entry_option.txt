@@ -357,3 +357,24 @@ Net;Netto
 Toggle Accept Aid;Schakel Hulp accepteren in
 Empty;Leeg
 Eat;Eten
+Adventure Paths;Avonturenpaden
+Clean;Schoon
+Smith set;Smit ingesteld
+Stab;Steken
+Lunge;Longe
+Slash;Snij
+Placeholder;Tijdelijke aanduiding
+Name Changer;Naamwisselaar
+Upgrade Now;Upgrade nu
+Disable spell filtering;Schakel spellingfiltering uit
+Close <col=ff9040>Floating panel</col>;Sluit <col=ff9040>Zwevend paneel</col>
+Ultimate Ironman;Ultieme Ironman
+7 days;7 dagen
+Hardcore Group Ironman;Hardcoregroep Ironman
+Unranked Group Ironman;Niet-gerangschikte groep Ironman
+None;Geen
+Group Ironman;Groep Ironman
+Ironman;Ijzerman
+Hardcore Ironman;Harde Ironman
+Proceed;Doorgaan
+90 days;90 dagen

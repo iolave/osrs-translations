@@ -357,3 +357,14 @@ Net;Net
 Toggle Accept Aid;Ota apu käyttöön
 Empty;Tyhjä
 Eat;Syödä
+Adventure Paths;Seikkailupolut
+Clean;Puhdas
+Smith set;Smith setti
+Stab;Puukottaa
+Lunge;Syöksy
+Slash;Kauttaviiva
+Placeholder;Paikkamerkki
+Name Changer;Nimenvaihtaja
+Upgrade Now;Päivitä nyt
+Disable spell filtering;Poista oikeinkirjoituksen suodatus käytöstä
+Close <col=ff9040>Floating panel</col>;Sulje <col=ff9040>Kelluva paneeli</col>

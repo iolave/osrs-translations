@@ -357,3 +357,14 @@ Net;Líquido
 Toggle Accept Aid;Alternar Aceitar Ajuda
 Empty;Vazio
 Eat;Comer
+Adventure Paths;Caminhos de aventura
+Clean;Limpar
+Smith set;Conjunto de ferreiro
+Stab;Esfaquear
+Lunge;Estocada
+Slash;Barra
+Placeholder;Espaço reservado
+Name Changer;Trocador de nome
+Upgrade Now;Atualize agora
+Disable spell filtering;Desativar filtragem ortográfica
+Close <col=ff9040>Floating panel</col>;Fechar <col=ff9040>painel flutuante</col>

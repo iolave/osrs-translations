@@ -357,3 +357,24 @@ Net;Filet
 Toggle Accept Aid;Toggle Accepter l'aide
 Empty;Vide
 Eat;Manger
+Adventure Paths;Parcours Aventure
+Clean;Faire le ménage
+Smith set;Ensemble Smith
+Stab;Poignarder
+Lunge;Fente
+Slash;Sabrer
+Placeholder;Espace réservé
+Name Changer;Changeur de nom
+Upgrade Now;Mettre à niveau maintenant
+Disable spell filtering;Désactiver le filtrage orthographique
+Close <col=ff9040>Floating panel</col>;Fermer le <col=ff9040>Panneau flottant</col>
+Ultimate Ironman;Ironman ultime
+7 days;7 jours
+Hardcore Group Ironman;Ironman de groupe hardcore
+Unranked Group Ironman;Ironman de groupe non classé
+None;Aucun
+Group Ironman;Groupe Ironman
+Ironman;Homme de fer
+Hardcore Ironman;Ironman hardcore
+Proceed;Procéder
+90 days;90 jours

@@ -357,3 +357,14 @@ Net;Netto
 Toggle Accept Aid;Växla Acceptera hjälp
 Empty;Tömma
 Eat;Äta
+Adventure Paths;Äventyrsvägar
+Clean;Rena
+Smith set;Smith set
+Stab;Hugg
+Lunge;Utfall
+Slash;Snedstreck
+Placeholder;Platshållare
+Name Changer;Namnbytare
+Upgrade Now;Uppgradera nu
+Disable spell filtering;Inaktivera stavningsfiltrering
+Close <col=ff9040>Floating panel</col>;Stäng <col=ff9040>Flytande panel</col>
