@@ -357,3 +357,14 @@ Net;Netto
 Toggle Accept Aid;Schalten Sie „Hilfe annehmen“ um
 Empty;Leer
 Eat;Essen
+Adventure Paths;Abenteuerpfade
+Clean;Sauber
+Smith set;Smith-Set
+Stab;Stechen
+Lunge;Ausfallschritt
+Slash;Schrägstrich
+Placeholder;Platzhalter
+Name Changer;Namensänderung
+Upgrade Now;Jetzt upgraden
+Disable spell filtering;Deaktivieren Sie die Zauberfilterung
+Close <col=ff9040>Floating panel</col>;Schließen Sie das <col=ff9040>Floating Panel</col>
