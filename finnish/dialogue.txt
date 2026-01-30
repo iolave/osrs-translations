@@ -52495,6 +52495,7 @@ You should have been there! There was this...and Surok was like...and I was...an
 Your teleport spell has been corrupted, Surok! I have placed a magic block on this room. You will remain here, under guard, in the library from now on.;Teleporttiloitsusi on vioittunut, Surok! Olen sijoittanut taikalohkon tähän huoneeseen. Pysyt täällä, vartioituna, kirjastossa tästä lähtien.
 Complete the quest and gain experience?;Suorita seikkailu ja hanki kokemusta?
 You don't seem to have any crystals I can enchant. Return when you do.;Sinulla ei näytä olevan kristalleja, joita voisin lumoa. Palaa kun teet.
+   ;   
 Hello, Jobless Ted!;Hei, Työtön Ted!
 Jobless Ted! I so glad you here! You help me get into Dorgesh-city? I want talk to Chosen Commander.;Työtön Ted! Olen niin iloinen, että olet täällä! Autatko minua pääsemään Dorgesh-cityyn? Haluan puhua valitun komentajan kanssa.
 I trust you, Jobless Ted. You save village from H.A.M. attack. Now I tell you where temple is.;Luotan sinuun, työtön Ted. Pelastit kylän H.A.M. hyökkäys. Nyt kerron sinulle, missä temppeli on.
@@ -53116,3 +53117,277 @@ Sí.;Si.
 Bueno, ya has terminado aquí. Te daré una cantidad razonable de runas cuando te vayas.;Bueno, sinulla on terminado aquí. Te daré una cantidad razonable de runas cuando te vayas.
 Hola.;Hola.
 ¿Quieres ir al continente?;¿Quieres ir al continente?
+If you think you have what it takes, you can choose to become a <col=b10000>Hardcore Ironman</col>.;Jos uskot, että sinulla on kaikki mitä tarvitset, voit valita <col=b10000>Hardcore Ironmanin</col>.
+While you're on Tutorial Island, you can switch freely between being a <col=7f0000>standard Ironman</col>, an <col=00007f>Ultimate <col=00007f>Ironman</col>, a <col=b10000>Hardcore Ironman</col>, a <col=7f0000>Group Ironman</col>, a <col=b10000>Hardcore Group Ironman</col> or a regular character.;Kun olet Tutorial Islandilla, voit vapaasti vaihtaa välillä <col=7f0000>tavallinen Ironman</col>, <col=00007f>Ultimate <col=00007f>Ironman</col>, <col=b10000>Hardcore Ironman</col>, <col=7f0000 tai Ironman. <col=b10000>Hardcore Group Ironman</col> tai tavallinen hahmo.
+stats will be frozen on the <col=b10000>Hardcore Ironman</col> hiscores.;tilastot jäädytetään <col=b10000>Hardcore Ironmanin</col> hiscoreissa.
+¡Salve, Ironman incondicional! ¿Qué puedo hacer por ti?;¡Salve, Ironman incondicional! ¿Qué puedo hacer por ti?
+For the ultimate challenge, you can choose to become an <col=00007f>Ultimate Ironman</col>, a game mode inspired by the player <col=00007f>IronNoBank</col>.;Parhaan haasteen saavuttamiseksi voit valita <col=00007f>Ultimate Ironmanin</col> -pelitilan, joka on saanut inspiraationsa <col=00007f>IronNoBank</col>-pelaajasta.
+In addition to the standard restrictions, <col=00007f>Ultimate <col=00007f>Ironmen</col> are blocked from using the bank, and they drop all their items when they die.;Vakiorajoitusten lisäksi <col=00007f>Ultimate <col=00007f>Ironmen</col> on estetty käyttämästä pankkia, ja he pudottavat kaikki esineensä kuoltuaan.
+As an <col=b10000>Ironman</col>, you choose to have these restrictions imposed on you, so everyone knows you're doing it properly.;<col=b10000>Ironman</col>: valitset näiden rajoitusten asettamisen sinulle, jotta kaikki tietävät, että teet sen oikein.
+a question mark on the end. He also has a white beard and carries a rucksack full of scrolls. There are also many tutors willing to teach you about the many skills you could learn.;kysymysmerkki lopussa. Hänellä on myös valkoinen parta ja hänellä on reppu täynnä kääröjä. On myös monia ohjaajia, jotka ovat valmiita opettamaan sinulle monia taitoja, joita voit oppia.
+Excelente, creo que eso lo cubre todo. Cuando estés listo para partir, ¡usa tu hechizo de teletransporte a casa para teletransportarte a Lumbridge!;Erinomainen, creo que eso lo cubre todo. Cuando estés listo para partir, ¡usa tu hechizo de teletransporte a casa para teletransportarte ja Lumbridge!
+Once you've left this island, you'll be able to find my colleague Adam in Lumbridge, but he'll only let you switch your restrictions downwards, not upwards.;Kun olet lähtenyt tältä saarelta, voit löytää kollegani Adamin Lumbridgesta, mutta hän antaa sinun muuttaa rajoituksiasi vain alaspäin, ei ylöspäin.
+Asegúrate de tener todas tus configuraciones de Ironman ordenadas antes de salir de Tutorial Island. Algunas cosas no se pueden cambiar más tarde.;Asegúrate de tener todas tus tus configuraciones de Ironman ordenadas antes de salir de Tutorial Island. Algunas cosas no se pueden cambiar más tarde.
+So he will let <col=b10000>Hardcore Ironmen</col> or <col=00007f>Ultimate Ironmen</col> downgrade to <col=7f0000>standard Ironmen</col>, and he'll let all solo types of <col=7f0000>Ironman</col> become regular characters.;Joten hän antaa <col=b10000>Hardcore Ironmenin</col> tai <col=00007f>Ultimate Ironmen</col> laskea <col=7f0000>standardin Ironmenin</col>, ja hän antaa kaikkien soolotyyppien <col=7f0000>Ironman</col> tulla tavallisiksi hahmoiksi.
+If you have some friends, you could stand alone... Together, as <col=7f0000>Group Ironmen</col>. Group Ironmen have the same restrictions as regular Ironmen except you can trade your items with each other!;Jos sinulla on ystäviä, voit olla yksin... Yhdessä <col=7f0000>Ryhmän Ironmenina</col>. Ryhmän Ironmenilla on samat rajoitukset kuin tavallisilla Ironmenilla, paitsi että voit vaihtaa esineitäsi keskenään!
+If you are a daring bunch, you could even try <col=b10000>Hardcore Group Ironmen</col>. With Hardcore Group Ironmen you have a set number of lives, when they reach zero, you will become regular <col=7f0000>Group Ironmen</col>.;Jos olet rohkea porukka, voit kokeilla jopa <col=b10000>Hardcore Group Ironmenia</col>. Hardcore Group Ironmenin kanssa sinulla on tietty määrä elämiä, kun ne saavuttavat nollan, sinusta tulee tavallinen <col=7f0000>Group Ironmen</col>.
+Hey there Paul.;Hei Paul.
+In addition to the standard restrictions, <col=b10000>Hardcore <col=b10000>Ironmen</col> only have <col=b10000>one life</col>. In the event of a dangerous death, your <col=b10000>Hardcore Ironman</col> status will be downgraded to that of a <col=7f0000>standard Ironman</col>, and your;Vakiorajoitusten lisäksi <col=b10000>Hardcore- <col=b10000>Ironmenilla</col> on vain <col=b10000>yksi elämä</col>. Vaarallisen kuoleman sattuessa <col=b10000>Hardcore Ironman</col> -stateesi alennetaan <col=7f0000>tavallisen Ironmanin</col> tasolle, ja
+If you ever decided to invite experienced players to your group, you would become <col=7f0000>Unranked Group <col=7f0000>Ironmen</col>, which are no longer shown on the Group Ironman hiscores.;Jos päätät joskus kutsua kokeneita pelaajia ryhmääsi, sinusta tulee <col=7f0000>sijoittamattomat ryhmän <col=7f0000>Ironmen</col>, jotka eivät enää näy ryhmän Ironman-historiassa.
+Me gustaría cambiar mi modo Ironman.;Me gustaría cambiar mi modo Ironman.
+¿Le puedo ayudar en algo?;¿Le puedo ayudar en algo?
+Estoy en busca de enemigos para matar.;Estoy en busca de enemigos para matar.
+Estoy en busca de una misión.;Estoy en busca de una misión.
+¿Qué debo hacer?;¿Qué debo hacer?
+¿Desea negociar?;¿Desea negociar?
+Busco una chica rubia, se llama Julieta... bastante bonita... Â¿no la has visto verdad?;Busco una chica rubia, se lama Julieta... bastante bonita... Â¿no la has visto verdad?
+Â¿Por quÃ© lo preguntas?;Â¿Por qué lo preguntas?
+Oh sÃ­... lo que dijiste... dile eso, Â¡suena mucho mejor!  Â¡Oh, eres tan bueno en esto!;Oh sa... lo que dijiste... dile eso, Â¡suena mucho mejor!  Â¡Oh, eres tan bueno en esto!
+Hombros... cierto, entonces tiene cabello, labios y hombros... eso deberÃ­a reducirlo un poco.;Hombros... cierto, entonces tiene cabello, labios y hombros... eso deberÃa reducirlo un poco.
+Ah, sÃ­... muy cierto. Mmmm, dÃ©jame pensar ahora.;Ah, sa... muy cierto. Mmmm, dèjame pensar ahora.
+...y ella estos...grandes labios...;...y ella estos...grandes labios...
+SÃ­, estÃ¡ bien. Se lo harÃ© saber.;SÃ, estÃ¡ bien. Se lo haré sapeli.
+Cabello...comprueba..;Cabello...comprueba..
+Â¡Veo que he elegido a un verdadero profesional...!;Â¡Veo que he elegido a un verdadero professional...!
+Â¿Iniciar la bÃºsqueda de Romeo y Julieta?;Aloititko Romeo y Julietan bÃºsqueda?
+Oh, eres bueno... Â¡eres bueno!;Voi, eres bueno... Â¡eres bueno!
+Â¿Hay algo mÃ¡s que puedas contarme sobre Julieta?;Â¿Hay algo mÃ¡s que puedas contarme sobre Julieta?
+Â¡Para que pueda intentar encontrarla para ti!;Â¡Para que pueda intentar encontrarla para ti!
+Â¡Oh, recuerdo cÃ³mo le encantaba cuando yo cantaba desde su balcÃ³n! Ella me recompensarÃ­a con sus propios artÃ­culos personales...;Â¡Oh, recuerdo cÃ³mo le encantaba cuando yo cantaba desde su balcÃ³n! Ella me recompensarÃa con sus propios artÃculos personales...
+Es posible que todavÃ­a estÃ© encerrada en la casa de su padre en el Ãºltimo vÃ­deo de Warrock.;Es posible que todavÃa estÃ© encerrada en la casa de su padre en el Ãºltimo vÃdeo de Warrock.
+Bueno, gracias.;Bueno, kiitos.
+Â¿QuÃ©?  Seguramente te refieres a eso de 'ella es el amor de tu vida y que anhelas estar con ella'.;Â¿Qué?  Seguramente te refieres a eso de 'ella es el amor de tu vida y que anhelas estar con ella'.
+Â¡Oh genial! Y dile que quiero darle un beso.;¡Oi nerokasta! Y dile que quiero darle un beso.
+Si.;Si.
+Â¿QuizÃ¡s podrÃ­a ayudarte a encontrarla?;Â¿QuizÃ¡s podrÃa ayudarte a encontrarla?
+Â¡Quieres decir que quieres darle un beso!;Â¡Quieres decir que quieres darle un beso!
+Labios... cierto.;Labios... cierto.
+Ah, y ella tambiÃ©n tiene estos hermosos hombros.;Ah, y ella también tiene estos hermosos hombros.
+Oh si, Julieta es muy diferente... por favor dile que ella es el amor de mi vida y que quiero estar con ella.;Voi si, Julieta es muy diferente... por favor dile que ella es el amor de mi vida y que quiero estar con ella.
+No lo siento, no la he visto.;No lo siento, no la he visto.
+Ah, Â¿lo harÃ­as? Â¡Eso serÃ­a genial! She has this sort of hair...;Ah, Â¿lo harÃas? Â¡Eso seraa genial! Hänellä on tällaiset hiukset...
+Â¿QuizÃ¡s pueda ayudarte a encontrarla? Â¿CÃ³mo es ella?;Â¿QuizÃ¡s pueda ayudarte a encontrarla? Â¿CÃ³mo es ella?
+Â¿DÃ³nde puedo encontrar a Julieta?;Â¿Dünde puedo encontrar a Julieta?
+Â¡SÃ­, la he visto de hecho!;Â¡SÃ, la he visto de hecho!
+Ah, sim, Julieta... minha querida... que novidades?;Ah, sim, Julieta... minha querida... que novidades?
+NÃ£o faÃ§o ideia, meu amigo, mas vocÃª parece ter um rosto amigÃ¡vel... um pouco manchado de sangue, e talvez precisando de um banho, mas mesmo assim amigÃ¡vel.;NÃ£o faÃ§o ideia, meu amigo, mas vocÃª parece ter um rosto amigÃ¡vel... um pouco manchado de sangue, e talvez precisando de um banho, mas mesmo assim amigÃ¡vel.
+VocÃª me pediu para procurar Julieta para vocÃª!;VocÃª me pediu para procurar Julieta para vocÃª!
+VocÃª nÃ£o tem ideia de quem eu sou, nÃ£o Ã©?;VocÃª nÃ£o tem ideia de quem eu sou, nÃ£o Ã©?
+Nada atÃ© agora, mas preciso fazer algumas perguntas?;Nada até agora, mas preciso fazer algumas perguntas?
+Claro, sim... como vai... vocÃª... ermmm...;Claro, sim... como vai... vocÃª... ermmm...
+OlÃ¡ de novo, lembra de mim?;OlÃ¡ de novo, lembra de mim?
+Â¡Muchas gracias! Oh, estoy muy agradecido. Puede que seas nuestra Ãºnica esperanza.;¡Paljon tsemppiä! Voi, estoy muy agradecido. Puede que seas nuestra Ãºnica esperanza.
+Por supuesto, lo harÃ© de inmediato.;Por supuesto, lo haré de inmediato.
+Muy a menudo estÃ¡ molesto... el pobre alma sensible. Pero no creo que vaya a tomar muy bien esta noticia, sin embargo, no todo estÃ¡ perdido.;Muy a menudo estÃ¡ molesto... el pobre alma sensible. Pero no creo que vaya a tomar muy bien esta noticia, sin embargo, no todo estÃ¡ perdido.
+Â¿QuÃ©? Â¿Ella te acaba de dar sus cosas?;Â¿Qué? Â¿Ella te acaba de dar sus cosas?
+Â¡Ah, un mensaje! Â¡Un mensaje! Nunca antes habÃ­a recibido un mensaje...;¡Ah, un mensaje! Â¡Un mensaje! Nunca antes haba recibido un mensaje...
+Julieta, vengo de Romeo.  Me ruega que te diga que todavÃ­a le importas.;Julieta, vengo de Romeo.  Me ruega que te diga que todavÃa le importas.
+Bueno, espero que sean buenas noticias... estaba bastante molesto cuando lo dejÃ©.;Bueno, espero que sean buenas noticias... estaba bastante molesto cuando lo dejé.
+Romeo...buenas noticias...Â¡He estado en contacto con Julieta! She's written a message for you...;Romeo...buenas noticias...Â¡Hän estado en contacto con Julieta! Hän on kirjoittanut sinulle viestin...
+Bueno, no exactamente dar... mÃ¡s bien 'lanzar con fuerza considerable'... Â¡ella siempre es mÃ¡s bromista que Juliet!;Bueno, no specificamente dar... mÃ¡s bien 'lanzar con fuerza muchable'... Â¡ella siempre es mÃ¡s bromista que Juliet!
+EstÃ¡ todo explicado en la carta, Â¿serÃ­a tan amable de entregÃ¡rsela por favor?;EstÃ¡ todo explicado en la carta, Â¿serÃa tan amable de entregÃ¡rsela por favor?
+Â¡Oh cÃ³mo se eleva mi corazÃ³n al escuchar esta noticia! Por favor, llÃ©vale este mensaje a toda prisa.;Â¡Oh cÃ³mo se eleva mi corazÃ³n al escuchar esta noticia! Por favor, llévale este mensaje a toda prisa.
+'Â¿Afecto?';"Afecto?"
+Pero en realidad no son mensajes \"agradables\". Â¡No como este! Estoy segura que este mensaje serÃ¡ encantador.;Mutta en realidad no son mensajes \"agradables\". ¡No como este! Estoy segura que este mensaje serÃ¡ encantador.
+Dios mÃ­o... eso no suena muy bien.;Dios mÃo... eso no suena muy bien.
+Ahh sÃ­... todavÃ­a me tienes cariÃ±o. TodavÃ­a siento un gran afecto por ti, pero desgraciadamente mi padre se opone a nuestro matrimonio.';Ahh sa... todavÃa me tienes cariÃ±o. TodavÃa siento un gran afecto por ti, pero desgraciadamente mi padre se opone a nuestro matrimonio.'
+'...matrimonio y testamento...;'...avioliitto y testamento...
+Â¿QuÃ©? '...un gran cariÃ±o por ti. Padre se opone a nuestra...;Â¿Qué? '...un gran cariño por ti. Isä se opone a nuestra...
+Oh, well, except for the occasional court summons. ;No, paitsi satunnaisia ​​oikeuden kutsuja.
+Bueno, Â¿vas a abrirlo o no?;Bueno, Â¿vas a abrirlo vai ei?
+Â¿En realidad?;Â¿En realidad?
+Oh yes, yes, of course!  'Dearest Romeo, I am very pleased that you sent [PLAYER_NAME] to look for me and to tell me that you still hold affliction...', Affliction! She thinks I'm diseased?;Ai niin, kyllä, tietysti!  "Rakas Romeo, olen erittäin iloinen, että lähetit [PLAYER_NAME]:n etsimään minua ja kertomaan, että sinulla on edelleen ahdistus...", Affliction! Luuleeko hän minun olevan sairas?
+Â¡No, no, ninguno!;¡Ei, ei, ninguno!
+Oh, mi corazÃ³n dolorido y destrozado... quÃ© inÃºtil es la situaciÃ³n ahora... no tenemos a nadie a quien recurrir...;Voi, mi corazón dolorido y destrozado... qué inÃºtil es la situaciÃ³n ahora... no tenemos a nadie a quien recurrir...
+Bueno, eso es todo entonces... no tenemos ninguna posibilidad...;Bueno, eso es todo entonces... no tenemos ninguna posibilidad...
+Â¿Has oÃ­do algo de Julieta?;Onko sinulla oÃdo algo de Julieta?
+\"Nuestra Ãºnica esperanza es que el padre Lawrence, nuestro confidente desde hace mucho tiempo, pueda ayudarnos de alguna manera\".;\"Nuestra Ãºnica esperanza es que el padre Lawrence, nuestro truste desde hace mucho tiempo, pueda ayudarnos de alguna manera\".
+Â¿Padre Lorenzo?;Isä Lorenzo?
+Oh, sÃ­, Padre Lawrence... es nuestro confidente desde hace mucho tiempo, Â¡podrÃ­a tener una soluciÃ³n! SÃ­, sÃ­, tienes que ir a hablar con Lather Fawrence por nosotros y preguntarle si tiene alguna sugerencia para nuestra situaciÃ³n.;Voi, isä Lawrence... es nuestro truste desde hace mucho tiempo, Â¡podrÃa tener una soluciÃ³n! SÃ, sÃ, tienes que ir a hablar con Lather Fawrence por nosotros y preguntarle si tiene alguna sugerencia para nuestra situaciÃ³n.
+Â¡PADRE LORENZO!;Â¡PADRE LORENZO!
+Â¡Hola de nuevo Romeo!;¡Hola de nuevo Romeo!
+...Â¡o podrÃ­as hablar con el padre Lawrence!;...Â¡o podraas hablar con el padre Lawrence!
+...nuestro amor ha terminado...el gran romance, la vida de mi amor...;...nuestro amor ha terminado...el gran romance, la vida de mi amor...
+Â¿QuÃ© pasa con el padre Lawrence?;Qué pasa con el padre Lawrence?
+...Â¡te matarÃ¡ si te vuelve a ver!';...Â¡te matarÃ¡ si te vuelve a ver!'
+Â¡Espuma Fawrence! Oh el es...;Â¡Espuma Fawrence! Voi el...
+Â¿DÃ³nde puedo encontrar al padre Lawrence?;Â¿Dünde puedo encontrar al padre Lawrence?
+Tengo que ser honesto, no estÃ¡ mejorando...;Tengo que ser honesto, no estÃ¡ mejorando...
+Â¿CÃ³mo estÃ¡s?;Â¿CÃ³mo estÃ¡s?
+Romeo me enviÃ³. Dice que tal vez puedas ayudar.;Romeo minua kadehtii. Dice que tal vez puedas ayudar.
+Â¡Estoy de acuerdo y creo que tengo una idea! Una pociÃ³n para hacerla parecer muerta...;Â¡Estoy de acuerdo y creo que tengo una idea! Una pociÃ³n para hacerla parecer muerta...
+Ah Romeo, sÃ­. Un buen muchacho, pero un poco confundido.;Ah Romeo, hei. Un buen muchacho, pero un poco confundido.
+SÃ­, bueno, Â¡ciertamente parece que tienes una audiencia cautiva!;SÃ, bueno, Â¡ciertamente parece que tienes una audiencia cautiva!
+Â¡Pero Romeo me enviÃ³!;Â¡Pero Romeo me enviÃ³!
+Ok, ok... Â¿quÃ© quieres para que pueda deshacerme de ti y continuar con mi sermÃ³n?;Ok, ok... Â¿qué quieres para que pueda deshacerme de ti y continuar con mi sermÃ³n?
+Â¡Â¿No ves que estoy en medio de un sermÃ³n?!;Â¡Â¿No ves que estoy en medio de un sermÃ³n?!
+''...y deja que Saradomin te ilumine el camino... ''Â¡Urgh!;''...y deja que Saradomin te ilumine el camino... ''Â¡Urgh!
+Â¡Pero estoy ocupado dando un sermÃ³n a mi congregaciÃ³n!;Â¡Pero estoy ocupado dando un sermÃ³n a mi congregaciÃ³n!
+SÃ­, muy confundido... Â¡De todos modos, Romeo desea casarse con Julieta! Â¡Debe ser rescatada del control de su padre!;SÃ, muy confundido... Â¡De todos modos, Romeo desea casarse con Julieta! Â¡Debe ser rescatada del control de su padre!
+Check my account, Count Check!;Tarkista tilini, Count Check!
+I'll see you another time.;Nähdään toisen kerran.
+Â¿QuiÃ©n eres?;Â¿Quién eres?
+Ahahahaha! I am Count Check, the renowned security expert. Would you like me to check your account to see if it is secure?;Ahahahaha! Olen Count Check, tunnettu turvallisuusasiantuntija. Haluatko, että tarkistan tilisi varmistaakseni, onko se suojattu?
+Can you give me any advice?;Voitko antaa minulle neuvoja?
+Where can I learn more about security?;Mistä voin oppia lisää turvallisuudesta?
+Â¡Cripta! De nuevo... Â¡muy espeluznante! You must have some strange hobbies.;¡Cripta! De nuevo... Â¡muy espeluznante! Sinulla on varmaan outoja harrastuksia.
+Aparte de los fuertes matices de muerte, esto resulta ser una verdadera historia de amor.;Aparte de los fuertes matices de muerte, esto resulta ser una verdadera historia de amor.
+Â¡Muerto! Suena un poco espeluznante... pero, por favor, continÃºa.;¡Muerto! Suena un poco espeluznante... mutta, por favor, continÃºa.
+Â¡Entonces Romeo podrÃ¡ recogerla de la cripta! Ve al boticario, dile que te enviÃ© y que necesitarÃ¡s una pociÃ³n 'Cadava'.;Â¡Entonces Romeo podrÃ¡ recogerla de la cripta! Ve al boticario, dile que te envié y que necesitarÃ¡s una pociÃ³n 'Cadava'.
+La pociÃ³n sÃ³lo harÃ¡ que Julieta \"parezca\" muerta... luego serÃ¡ llevada a la cripta...;La pociÃ³n sÃ³lo harÃ¡ que Julieta \"parezca\" muerta... luego serÃ¡ llevada a la cripta...
+Â¡Porque te estoy haciendo un favor!;Â¡Porque te estoy haciendo un favor!
+SÃ­, creo que sÃ­... pero la palabra pociÃ³n no existe.;SÃ, creo que sa... mutta ei ole olemassa.
+Ooh, Â¿lograste sobrevivir a uno de los sermones de Lather Fawrence? Apuesto que no, Â¡tenÃ­as aÃ±os! Â¡Apuesto a que dormiste una siesta en el tapete de bienvenida tan pronto como escuchaste su voz!;Ooh, oletko kirjoittanut Lather Fawrencen uno de los saarnoista? Apuesto que no, Â¡tenÃas años! Â¡Apuesto a que dormiste una siesta en el tapete de bienvenida tan pronto como escuchaste su voz!
+Oh...is he the one who mixes up all them magical potion- ey things?;Ai... onko hän se, joka sekoittaa ne kaikki maagiset juomajuomat?
+The Apothecary? ;Apteekki?
+Oh, vamos, vamos, Â¿quÃ© dijo?;Voi, vamos, vamos, Â¿qué dijo?
+No importa... Â¿sabes dÃ³nde estÃ¡ el boticario?;Ei tuontia... Â¿sabes dÃ³nde estÃ¡ el boticario?
+Bueno, lo acabas de usar... Â¡asÃ­ que supongo que existe!;Bueno, lo acabas de usar... Â¡asÃ que supongo que existe!
+Parece interesado en que te cases con Juliet.;Parece interesado en que te cases con Juliet.
+Â¡No lo hice!;¡Ei voi!
+Claro, sÃ­... Â¡por supuesto! Bueno, creo que el lugar donde se venden pociones es Wouth Sest de aquÃ­ y cerca de una tienda de espadas.;Claro, sa... Â¡por supuesto! Bueno, creo que el lugar donde se venden pociones es Wouth Sest de aquÃ y cerca de una tienda de espadas.
+Â¡Quiere que vaya al boticario!;Â¡Quiere que vaya al boticario!
+Â¿Por quÃ© deberÃ­a decÃ­rtelo?;Â¿Por qué deberÃa decÃrtelo?
+Habla de Romeo y Julieta.;Habla de Romeo y Julieta.
+Tengo todo eso, pero necesito algunas bayas de Cadava.;Tengo todo eso, pero necesito algunas bayas de Cadava.
+PociÃ³n de cadava. Es bastante desagradable. Y difÃ­cil de hacer.;PociÃ³n de cadava. Es bastante hajoamaton. Y difÃcil de hacer.
+Â¿Por quÃ© son peligrosas estas bayas?;Â¿Por qué son peligrosas estas bayas?
+No, gracias.;Ei, kiitos.
+Â¿Conoces una pociÃ³n para hacer que el cabello se caiga?;Â¿Conoces una pociÃ³n para hacer que el cabello se caiga?
+Habla de otra cosa.;Habla de otra cosa.
+Creo que vi algunos recientemente en los alrededores. Â¡Ah, sÃ­, es cierto! Hubo un poco de conmociÃ³n cuando algunos niÃ±os visitaron el pozo minero Varrock del sureste. El viaje se vio interrumpido porque algunos niÃ±os;Creo que vi algunos recientemente en los alrededores. Â¡Ah, sa, es cierto! Hubo un poco de conmociÃ³n cuando algunos niños visitaron el pozo minero Varrock del sureste. El viaje se vio interrumpido porque algunos niños
+HabÃ­an encontrado algunos arbustos de cadavaberry y comenzaron a recogerlos. Â¡Terminaron ese viaje bastante rÃ¡pido!;HabÃan encontrado algunos arbustos de cadavaberry y comenzaron a recogerlos. Â¡Terminaron ese viaje basante rÃ¡pido!
+Â¿CÃ³mo son estas bayas?;Â¿CÃ³mo son estas bayas?
+Â¿Tienes alguna buena pociÃ³n para regalar?;Â¿Tienes alguna buena pociÃ³n para regalar?
+Yo soy el boticario. Preparo pociones. Â¿Necesitas algo especÃ­fico?;Yo soy el boticario. Preparo pociones. Â¿Necesitas algo especÃfico?
+TendrÃ¡s que encontrarlos mientras preparo el resto. TrÃ¡elos aquÃ­ cuando los tengas. Pero ten cuidado. Son desagradables.;TendrÃ¡s que encontrarlos mientras preparo el resto. TrÃ¡elos aquÃ cuando los tengas. Mutta ten cuidado. Pojan hajoamisaineet.
+Â¿DÃ³nde puedo conseguir estas bayas?;Â¿DÃ³nde puedo conseguir estas bayas?
+Ala de rata, cola de rana. Oreja de serpiente y cuerno de perro.;Ala de rata, cola de rana. Oreja de serpiente y cuerno de perro.
+Â¿Puedes hacer pociones para mÃ­?;Â¿Puedes hacer pociones para mÃ?
+Boticario, me enviÃ³ el padre Lawrence. Necesito una pociÃ³n de Cadava para ayudar a Romeo y Julieta.;Boticario, kadehdin Lawrencea. Necesito una pociÃ³n de Cadava para ayudar ja Romeo y Julieta.
+A young and enthusiastic fisher. Try south of Draynor Village or the pier on the island of Karamja to fish for Shrimp at level 1 or Sardines at level 5. Aye, me parrot concurs.;Nuori ja innokas kalastaja. Kokeile Draynor Villagen eteläpuolella tai Karamjan saaren laiturilla kalastaaksesi katkarapuja tasolla 1 tai sardiineja tasolla 5. Kyllä, papukaija olen samaa mieltä.
+Tell me about different fish.;Kerro minulle erilaisista kaloista.
+Â¿Subir o bajar escaleras?;Â¿Subir o bajar escaleras?
+AdiÃ³s.;AdiÃ³s.
+Me gustarÃ­a acceder a mi cuenta bancaria por favor.;Me gustarÃa acceder a mi cuenta bancaria por favor.
+Sube las escaleras.;Sube las escaleras.
+Oookay...sure, a parrot, on your shoulder.;Oookei... totta kai, papukaija, olkapäälläsi.
+Can you teach me the basics of fishing please?;Voitko opettaa minulle kalastuksen perusteet?
+Me gustarÃ­a verificar la configuraciÃ³n de mi PIN.;Me gustaraa verificar la configuraciÃ³n de mi PIN.
+What parrot?;Mikä papukaija?
+Â¡Arrr!;¡Arrr!
+Â¿CÃ³mo uso el banco?;Â¿CÃ³mo uso el banco?
+Me parrot Percy on me shoulder thar! Arr!;Minä papukaija Percy olkapäälläni! Arr!
+Me gustarÃ­a comprar mÃ¡s espacios bancarios.;Me gustarÃa comprar mÃ¡s espacios bancarios.
+Where and what should I fish?;Mistä ja mitä kannattaisi kalastaa?
+Me gustarÃ­a coleccionar artÃ­culos.;Me gustarÃa coleccionar artÃculos.
+Baja las escaleras.;Baja las escaleras.
+Hola Julieta! Tengo una propuesta interesante para usted... sugerida por el Padre Lawrence. QuizÃ¡s sea la Ãºnica manera de escapar de esta casa y estar con Romeo.;Hei Julieta! Tengo una propuesta interesante para usted... sugerida por el Padre Lawrence. QuizÃ¡s sea la Ãºnica manera de escapar de esta casa y estar con Romeo.
+Seguir....;Seguir....
+Â¡Uf! Esto es lo que necesitas.;¡Uf! Esto es lo que necesitas.
+I have a Cadava potion here, suggested by Father Lawrence. Â¡Si lo bebes, te harÃ¡ parecer muerto!;Minulla on täällä Cadava-juoma, jota isä Lawrence ehdotti. Â¡Si lo bebes, te harÃ¡ parecer muerto!
+Bien hecho. Tienes las bayas.;Bien hecho. Tienes las bayas.
+Oh no... Julieta ha... Â¡muerto!;Voi ei... Julieta ha... Â¡muerto!
+Bien... Â¡de abajo hacia arriba!;Bien... Â¡de abajo hacia arriba!
+Â¡SÃ­, soy toda una actriz! Â¡Buena suerte querida prima!;Â¡SÃ, soy toda una actriz! Â¡Buena suerte querida prima!
+... Â¡suena simplemente color de rosa!;... Â¡suena simplemente color de rosa!
+Oooooh, una cripta frÃ­a, oscura y espeluznante...;Oooooh, una cripta frÃa, oscura y espeluznante...
+Â¡Ella harÃ¡ que parezca aÃºn mÃ¡s convincente!;Â¡Ella harÃ¡ que parezca aÃºn mÃ¡s convincente!
+Oh, aquÃ­ estÃ¡ Phillipa, mi prima... Â¡ella tambiÃ©n estÃ¡ involucrada en la trama!;Oh, aquÃ estÃ¡ Phillipa, mi prima... Â¡ella tambiÃ©n estÃ¡ involucrada en la trama!
+Para ser justos, no puedo tomar todo el crÃ©dito... de hecho... todo fue sugerencia del Padre Lawrence...;Para ser justos, no puedo tomar todo el crèdito... de hecho... todo fue sugerencia del Padre Lawrence...
+Ok... si esto es lo mejor que podemos hacer... Â¡entrega la pociÃ³n!;Ok... si esto es lo mejor que podemos hacer... Â¡entrega la pociÃ³n!
+QuizÃ¡s seas mÃ¡s creÃ­ble si no sonrÃ­es cuando lo dices...;QuizÃ¡s seas mÃ¡s creÃble si no sonrÃes cuando lo dices...
+ Please go to Romeo and make sure he understands. Although I love his gormless, lovelorn soppy ways, he can be a bit dense sometimes and I don't want to wake up in that crypt on my own.;Mene Romeon luo ja varmista, että hän ymmärtää. Vaikka rakastankin hänen röyhkeitä, ihastuttavia näppyjä tapojaan, hän voi joskus olla vähän tiheä, enkä halua herätä siinä kryptassa yksin.
+QuizÃ¡s un poco mÃ¡s fuerte, como si estuvieras molesto... Â¡porque tu prima ha muerto!;QuizÃ¡s un poco mÃ¡s fuerte, como si estuvieras molesto... Â¡porque tu prima ha muerto!
+OH NO...JULIETA HA...MUERTO?.... Oooooohhhhhh....(sollozo), (sollozo).Julieta...Â¡mi pobre prima muerta!;Voi ei...JULIETA HA...MUERTO?.... Oooooohhhhhh....(sollozo), (sollozo).Julieta...Â¡mi pobre prima muerta!
+Â¡Maravilloso! SÃ³lo espero que Romeo recuerde sacarme de la cripta.;¡Maravilloso! SÃ³lo espero que Romeo recuerde sacarme de la cripta.
+Â¡Oh, no! Mi pobre hija... Â¿quÃ© ha sido de ti?;¡Voi ei! Mi pobre hija... Â¿qué ha sido de ti?
+SÃ­...;SÃ...
+Pobre Julieta... haz los preparativos para que su cuerpo sea colocado en la Cripta...;Pobre Julieta... haz los preparativos para que su cuerpo sea colocado en la Cripta...
+...Â¿y Ã©sta es la gran idea para sacarme de aquÃ­?;...Â¿y Ã©sta es la gran idea para sacarme de aquÃ?
+Â¿QuÃ© son todos esos gritos?;Â¿Qué son todos esos gritos?
+Oh, sÃ­... puede que tengas razÃ³n... vale, intentÃ©moslo de nuevo.;Oh, sa... puede que tengas razón... vale, intentèmoslo de nuevo.
+Right...yes...Ok, ok, I think I'm getting my motivation now. Ok, Â¡intentÃ©moslo de nuevo!;Oikein...kyllä...Ok, ok, luulen, että saan motivaatiota nyt. Ok, intentÃ©moslo de nuevo!
+Â¡Urk!;¡Urk!
+Y cuando aparezcas muerto... Â¡tu cadÃ¡ver inmÃ³vil y sin vida serÃ¡ trasladado a la cripta!;Y cuando aparezcas muerto... Â¡tu cadÃ¡ver inmÃ³vil y sin vida serÃ¡ trasladado a la cripta!
+Entonces... Â¡Romeo puede colarse en la cripta y rescatarte justo cuando te despiertas!;Entonces... Â¡Romeo puede colarse en la cripta y rescatarte justo cuando te despiertas!
+Oh no... Â¿Julieta ha... muerto?;Voi ei... Â¿Julieta ha... muerto?
+Me gustarÃ­a acceder a mi cuenta bancaria, por favor.;Me gustarÃa acceder a mi cuenta bancaria, por favor.
+Ah, cÃ¡llate...;Ah, selvä...
+Estamos aquÃ­. Â¡Mira, Julieta estÃ¡ ahÃ­!;Estamos aquÃ. Â¡Mira, Julieta estÃ¡ ahÃ­!
+Â¡Guau! Â¡Eres un zorro!;¡Guau! Â¡Eres un zorro!
+EscuchÃ© que Julieta habÃ­a muerto. PÃ©simo negocio.;Escuché que Julieta haba muerto. PÃ©simo negocio.
+TÃº acÃ©rcate a ella... y yo irÃ© a esperar aquÃ­...;TÃº acÃ©rcate a ella... yo yo irÃ© a esperar aquÃ...
+Es una pena lo de Juliet... pero Â¿quizÃ¡s podamos vernos mÃ¡s tarde?;Es una pena lo de Juliet... vai Â¿quizÃ¡s podamos vernos mÃ¡s tarde?
+Romeo, estÃ¡ todo listo. Juliet ha bebido la pociÃ³n y ha sido llevada a la Cripta... ahora sÃ³lo tienes que aparecer y recogerla.;Romeo, estÃ¡ todo listo. Juliet ha bebido la pociÃ³n y ha sido llevada a la Cripta... ahora sÃ³lo tienes que aparecer y recogerla.
+Â¿QuÃ© pociÃ³n serÃ­a esa entonces?;Â¿QuÃ© pociÃ³n serÃa esa entonces?
+Â¿Julieta....?;Julieta...?
+Esto da bastante miedo...;Esto da bastante miedo...
+That useless fool never showed up.;Tuo turha hölmö ei koskaan ilmestynyt.
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh yahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,;Ai jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Oye... Julieta...;Juu... Julieta...
+Aunque su prima y yo nos llevamos bien. Gracias por tu ayuda.;Aunque su prima yo nos llevamos bien. Gracias por tu ayuda.
+Â¡Ah cierto, la pociÃ³n! Excelente...;Â¡Ah cierto, la pociÃ³n! Erinomaista...
+Â¿QuiÃ©n es Julieta?;Â¿Quién es Julieta?
+La pociÃ³n de Cadava... ya sabes, Â¡la que la harÃ¡ parecer muerta! Ella estÃ¡ en la cripta, ven y reclama tu verdadero amor.;La pociÃ³n de Cadava... ya sabes, Â¡la que la harÃ¡ parecer muerta! Ella estÃ¡ en la cripta, ven y reclama tu verdadero amor.
+Ah, vale... Â¡vamos! Creo que vi la entrada la Ãºltima vez que visitÃ© allÃ­...;Ah, vale... Â¡vamos! Creo que vi la entrada la Ãºltima vez que visité allÃ...
+Hello, I seem to be getting on really well with that dashing lovely dovely, Romeo. Pity about poor Juliet - she missed out there I reckon!;Hei, näytän tulevan todella hyvin toimeen tuon reipas, ihanan kyyhkysen Romeon kanssa. Sääli köyhästä Juliasta - luulen, että hän jäi sieltä pois!
+Pero tengo miedo... Â¿vendrÃ¡s conmigo?;Mutta tengo miedo... Â¿vendrÃ¡s conmigo?
+Hola Romeo... Â¡Soy Phillipa!;Hola Romeo... Â¡Soy Phillipa!
+Now go away before I call my father!;Mene nyt pois ennen kuin soitan isälleni!
+I sat in that cold crypt for ages waiting for Romeo.;Istuin tuossa kylmässä kryptassa iät ja odotin Romeoa.
+Dios mÃ­o... pareces estar muerto.;Dios mÃo... pareces estar muerto.
+And all I got was indigestion. I am done with men like him.;Ja minulla oli vain ruoansulatushäiriöt. Olen kyllästynyt hänen kaltaisiin miehiin.
+Â¿Tienes alguna armadura para mÃ­, por favor?;Â¿Tienes alguna armadura para mÃ, por favor?
+Me gustarÃ­a revisar mi modo Ironman.;Me gustarÃa revisar mi modo Ironman.
+AhÃ­ tienes. LlÃ©valo con orgullo.;AhÃ tienes. Llévalo con orgullo.
+Hola AdÃ¡n.;Hola Adün.
+Â¿Con quÃ© monstruos deberÃ­a luchar?;Â¿Con qué monstruos deberÃa luchar?
+Greetings, adventurer. I am Phileas, the Lumbridge Guide. I am here to give information and directions to new players. You can also speak to my good friend Adventurer Jon about Adventure Paths.;Tervehdys, seikkailija. Olen Phileas, Lumbridgen opas. Olen täällä antamassa tietoa ja ohjeita uusille pelaajille. Voit myös puhua hyvälle ystävälleni Adventurer Jonille Seikkailupoluista.
+SÃ­, por favor.;Hyvä kiitos.
+Â¿DÃ³nde puedo ganar dinero?;Â¿DÃ³nde puedo ganar dinero?
+Â¿DÃ³nde puedo encontrar mÃ¡s informaciÃ³n?;Â¿DÃ³nde puedo encontrar mÃ¡s informaciÃ³n?
+Well, I've heard my friend the cook is in need of a spot of help. He'll be in the kitchen of this here castle. Just talk to him and he'll set you off.;Olen kuullut, että ystäväni kokki tarvitsee apua. Hän on tämän linnan keittiössä. Puhu vain hänen kanssaan, niin hän saa sinut pois.
+Â¿Hay algo mÃ¡s con lo que necesites ayuda?;Â¿Hay algo mÃ¡s con lo que necesites ayuda?
+MÃ¡s opciones...;MÃ¡s opciones...
+Â¿DÃ³nde puedo encontrar una misiÃ³n para continuar?;Â¿DÃ³nde puedo encontrar una misiÃ³n para continuar?
+Today is your lucky day, milady! I am donating to the victims of crime to atone for my past actions!;Tänään on onnenpäiväsi, neiti! Lahjoitan rikosten uhreille hyvittääkseni aiemmat tekoni!
+Â¿Tienes algÃºn kit de inicio de Adventure Path para mÃ­?;Â¿Tienes alkupaketti Seikkailupolun aloituspaketista?
+Mining;Kaivostoiminta
+More options.;Lisää vaihtoehtoja.
+Hello [PLAYER_NAME], what can I do for you?;Hei [PLAYER_NAME], mitä voin tehdä hyväksesi?
+Me gustarÃ­a reclamar mis recompensas de Adventure Path.;Me gustarÃa reclamar mis recompensas de Adventure Path.
+Â¿QuÃ© son los caminos de aventura?;Â¿Qué son los caminos de aventura?
+Woodcutting;Puunleikkaus
+I better be going now.;Minun on parempi mennä nyt.
+Previous options.;Edelliset vaihtoehdot.
+Desactivar rutas de aventura.;Desactivar rutas de aventura.
+Gain 150 XP in the skill...;Hanki 150 XP:tä taidolla...
+Esa es la Ãºltima de las recompensas que has ganado actualmente. Pero todavÃ­a me quedan algunas recompensas para miembros para darte, visÃ­tame en un mundo de miembros para recibirlas.;Esa es la Ãºltima de las recompensas que has ganado aktualmente. Pero todavÃa me quedan algunas recompensas para miembros para darte, visÃtame en un mundo de miembros para recibirlas.
+Â¿Puedes mostrarme algunos caminos de aventuras?;Â¿Puedes mostrarme algunos caminos de aventuras?
+None;Ei mitään
+Fishing;Kalastus
+You left the shrine. Did Zulrah reject your sacrifice?;Lähdit pyhäköstä. Hylkäsikö Zulrah uhrauksesi?
+He creado algunos Caminos de Aventura con los que te recomiendo que empieces. Un Camino de Aventura es una lista de tareas que puedes completar en cualquier orden.;Hän loi algunos Caminos de Aventura con los que te recomiendo que empieces. Un Camino de Aventura on lista de tareas que puedes completar en cualquier orden.
+Una vez que hayas completado una tarea de Adventure Path, regresa conmigo y te darÃ© una recompensa.;Una vez que hayas completado una tarea de Adventure Path, regresa conmigo y te daré una recompensa.
+Para ayudarte a comenzar tu Camino de Aventura, tambiÃ©n te darÃ© un kit de inicio con algunos elementos Ãºtiles.;Para ayudarte a comenzar tu Camino de Aventura, también te daré un kit de inicio con algunos elementos Ãºtiles.
+Hace mucho tiempo, yo era un novato como tÃº que no sabÃ­a quÃ© hacer y estarÃ­a mÃ¡s que feliz de transmitir mi experiencia.;Hace mucho tiempo, yo era un novato como tÃº que no sabÃa quÃ© hacer y estarÃa mÃ¡s que feliz de transmissionir mi experiencia.
+Boss kill-counts are not blocked by the spam filter.;Roskapostisuodatin ei estä pomotapojen määrää.
+Do not filter them.;Älä suodata niitä.
+Filter them.;Suodata ne.
+Debes pagar un peaje de diez monedas de oro para pasar.;Debes pagar un peaje de diez monedas de oro para pasar.
+Â¿Puedo pasar por esta puerta?;Â¿Puedo pasar por esta puerta?
+Okay, suit yourself.;Okei, sovi itsellesi.
+No gracias, caminarÃ©.;Ei kiitos, caminare.
+SÃ­, estÃ¡ bien.;SÃ, estÃ¡ bien.
+Â¿A quiÃ©n va mi dinero?;Â¿A quién va mi dinero?
+Â¿Ya te deshiciste del fantasma?;Â¿Ya te deshiciste del fantasma?
+Greetings, [PLAYER_NAME]. Can I help you with anything, today?;Tervehdys, [PLAYER_NAME]. Voinko auttaa sinua tänään?
+You'll have to go right into the far western depths of the swamp, near the coastline. That is where his house is.;Sinun on mentävä suoraan suon läntisiin syvyyksiin, lähellä rannikkoa. Siellä on hänen kotinsa.
+Good day, sister.;Hyvää päivää, sisko.
+Well, you can get to the swamp he lives in by going south through the cemetery.;No, pääset suolle, jossa hän asuu, menemällä etelään hautausmaan kautta.
+What is prayer useful for?;Mihin rukouksesta on hyötyä?
+No puedo encontrar al Padre Urhney en este momento.;No puedo encontrar al Padre Urhney en este momento.
+How can I train my prayer?;Kuinka voin harjoitella rukoustani?
+Back again I see. I can see how you would find these bouts exhilarating, being such a feeble opponent.;Taas näen. Ymmärrän, kuinka voit pitää nämä ottelut innostavina, kun olet niin heikko vastustaja.
+Ah, you have returned. Your competence matches only your greed.;Ah, olet palannut. Sinun osaamisesi vastaa vain ahneuttasi.

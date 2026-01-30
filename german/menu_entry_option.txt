@@ -368,3 +368,112 @@ Name Changer;Namensänderung
 Upgrade Now;Jetzt upgraden
 Disable spell filtering;Deaktivieren Sie die Zauberfilterung
 Close <col=ff9040>Floating panel</col>;Schließen Sie das <col=ff9040>Floating Panel</col>
+Ultimate Ironman;Ultimativer Ironman
+7 days;7 Tage
+Hardcore Group Ironman;Hardcore-Gruppen-Ironman
+Unranked Group Ironman;Nicht gewerteter Gruppen-Ironman
+None;Keiner
+Group Ironman;Gruppe Ironman
+Ironman;Ironman
+Hardcore Ironman;Hardcore-Ironman
+Proceed;Fortfahren
+90 days;90 Tage
+Top-floor;Obergeschoss
+Cross;Kreuzen
+Smelt;Stint
+Bait;Köder
+Toggle warnings;Warnungen umschalten
+Lure;Locken
+Buy;Kaufen
+Bury;Begraben
+Check Kudos;Überprüfen Sie das Lob
+Look at;Schauen Sie sich an
+Light;Licht
+Adjust Brightness;Helligkeit anpassen
+Select <col=ff981f>Controls;Wählen Sie <col=ff981f>Steuerelemente
+Board;Planke
+Grapple;Greifen
+Toggle skull prevention;Schädelprävention umschalten
+Restore Default Zoom;Standardzoom wiederherstellen
+Select <col=ff981f>Interfaces;Wählen Sie <col=ff981f>Schnittstellen
+Buy-X;Kaufen-X
+Potions;Zaubertränke
+Buy-5;Kaufen-5
+Buy-1;Kaufen-1
+Buy-All;Alles kaufen
+Show worn items;Getragene Artikel anzeigen
+Bottom-floor;Untergeschoss
+Locate;Lokalisieren
+Disable Adventure Paths;Abenteuerpfade deaktivieren
+Repair;Reparieren
+Show<col=ff9040> Task information;<col=ff9040> ​​Aufgabeninformationen anzeigen
+Expand;Expandieren
+Show task: <col=ff9040>Getting started with Mining;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Mining
+More info;Weitere Informationen
+Check reward;Belohnung prüfen
+Show<col=ff9040> Paths;<col=ff9040> ​​Pfade anzeigen
+Claim-trophies;Claim-Trophäen
+Set<col=ff9040> Focus;Legen Sie<col=ff9040> ​​den Fokus fest
+Show task: <col=ff9040>Getting started with Fishing;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Angeln
+Select <col=ff9040>Gatherer path;Wählen Sie <col=ff9040>Gatherer-Pfad
+Show task: <col=ff9040>Getting started with Woodcutting;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Holzfällen
+Pick-from;Auswählen
+Drop<col=ff9040> Focus;<col=ff9040> ​​Fokus fallen lassen
+Suck;Saugen
+Close dropdown;Dropdown-Liste schließen
+Select <col=ff9040>Combat path;Wählen Sie <col=ff9040>Kampfpfad
+Armour;Rüstung
+Show<col=ff9040> Settings;<col=ff9040>Einstellungen anzeigen
+Show <col=ff9040>path reward;<col=ff9040>Pfadbelohnung anzeigen
+View House Options;Hausoptionen anzeigen
+Open Bond Pouch;Öffnen Sie den Bond-Beutel
+Empty containers;Leere Behälter
+Enable <col=ff9040>Notes;Aktivieren Sie <col=ff9040>Notizen
+Enable <col=ff9040>Insert;Aktivieren Sie <col=ff9040>Einfügen
+Age;Alter
+Enable;Aktivieren
+Open Adventure Paths;Offene Abenteuerpfade
+Show task: <col=ff9040>Sharpshooter;Aufgabe anzeigen: <col=ff9040>Scharfschütze
+Claim;Beanspruchen
+Show task: <col=ff9040>Getting started with Magic;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Magic
+Show task: <col=ff9040>Getting a grip on it;Aufgabe anzeigen: <col=ff9040>Das in den Griff bekommen
+Show task: <col=ff9040>Body builder;Aufgabe anzeigen: <col=ff9040>Karosseriebauer
+Show task: <col=ff9040>Getting started with Attack;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Attack
+Show task: <col=ff9040>Striking a pose;Aufgabe anzeigen: <col=ff9040>Eine Pose einnehmen
+Show task: <col=ff9040>Honing my aim;Aufgabe anzeigen: <col=ff9040>Mein Ziel verbessern
+Show task: <col=ff9040>Bringer of chaos;Aufgabe anzeigen: <col=ff9040>Bringer des Chaos
+Show task: <col=ff9040>Building muscle;Aufgabe anzeigen: <col=ff9040>Muskeln aufbauen
+Show task: <col=ff9040>Mithril defence;Aufgabe anzeigen: <col=ff9040>Mithril-Verteidigung
+Show task: <col=ff9040>Getting started with Defence;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit der Verteidigung
+Show task: <col=ff9040>Getting started with Strength;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Stärke
+Show task: <col=ff9040>Sticks and stones;Aufgabe anzeigen: <col=ff9040>Stöcke und Steine
+Show task: <col=ff9040>Weapons master;Aufgabe anzeigen: <col=ff9040>Waffenmeister
+Show task: <col=ff9040>Getting started with Ranged;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Ranged
+Talk-To;Gesprächspartner
+Shut;Schließen
+Pay-toll(10gp);Mautgebühr (10 gp)
+Revert;Zurücksetzen
+Deactivate;Deaktivieren
+Ironman Group;Ironman-Gruppe
+Predict;Vorhersagen
+Leave;Verlassen
+Copy-outfit;Copy-Outfit
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Gruppe:</col> Verlauf löschen
+Jump;Springen
+Challenge;Herausforderung
+Reanimate;Wiederbeleben
+Quick Pass;Schneller Pass
+Pass;Passieren
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Gruppe:</col> Freunde anzeigen
+<col=ffff00>Group:</col> Show all;<col=ffff00>Gruppe:</col> Alle anzeigen
+<col=ffff00>Group:</col> Show none;<col=ffff00>Gruppe:</col> Keine anzeigen
+Quench;Löschen
+Withdraw-18;Rückzug-18
+Inside;Innen
+Home;Heim
+Group;Gruppe
+Deposit-18;Anzahlung-18
+Build mode;Build-Modus
+Resurrect;Auferstehen
+Friend's house;Das Haus eines Freundes
+Break;Brechen

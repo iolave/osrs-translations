@@ -378,3 +378,102 @@ Ironman;Homme de fer
 Hardcore Ironman;Ironman hardcore
 Proceed;Procéder
 90 days;90 jours
+Top-floor;Dernier étage
+Cross;Croix
+Smelt;Éperlan
+Bait;Appât
+Toggle warnings;Activer/désactiver les avertissements
+Lure;Leurre
+Buy;Acheter
+Bury;Enterrer
+Check Kudos;Vérifiez les félicitations
+Look at;Regarder
+Light;Lumière
+Adjust Brightness;Ajuster la luminosité
+Select <col=ff981f>Controls;Sélectionnez <col=ff981f>Contrôles
+Board;Conseil
+Grapple;Grappin
+Toggle skull prevention;Activer/désactiver la prévention du crâne
+Restore Default Zoom;Restaurer le zoom par défaut
+Select <col=ff981f>Interfaces;Sélectionnez <col=ff981f>Interfaces
+Buy-X;Acheter-X
+Potions;Potions
+Buy-5;Acheter-5
+Buy-1;Acheter-1
+Buy-All;Acheter tout
+Show worn items;Afficher les articles portés
+Bottom-floor;Rez-de-chaussée
+Locate;Situer
+Disable Adventure Paths;Désactiver les parcours d'aventure
+Repair;Réparation
+Show<col=ff9040> Task information;Afficher<col=ff9040> ​​informations sur la tâche
+Expand;Développer
+Show task: <col=ff9040>Getting started with Mining;Afficher la tâche : <col=ff9040>Démarrer avec le minage
+More info;Plus d'informations
+Check reward;Vérifier la récompense
+Show<col=ff9040> Paths;Afficher<col=ff9040> ​​chemins
+Claim-trophies;Réclamation-trophées
+Set<col=ff9040> Focus;Définir<col=ff9040> ​​le focus
+Show task: <col=ff9040>Getting started with Fishing;Afficher la tâche : <col=ff9040>Démarrer avec la pêche
+Select <col=ff9040>Gatherer path;Sélectionnez <col=ff9040>Chemin du rassembleur
+Show task: <col=ff9040>Getting started with Woodcutting;Afficher la tâche : <col=ff9040>Démarrer avec la coupe de bois
+Pick-from;À choisir
+Drop<col=ff9040> Focus;Abandonner<col=ff9040> ​​Focus
+Suck;Sucer
+Close dropdown;Fermer la liste déroulante
+Select <col=ff9040>Combat path;Sélectionnez <col=ff9040>Chemin de combat
+Armour;Armure
+Show<col=ff9040> Settings;Afficher les paramètres<col=ff9040>
+Show <col=ff9040>path reward;Afficher la <col=ff9040>récompense du chemin
+View House Options;Voir les options de maison
+Open Bond Pouch;Pochette de liaison ouverte
+Empty containers;Conteneurs vides
+Enable <col=ff9040>Notes;Activer <col=ff9040>Notes
+Enable <col=ff9040>Insert;Activer <col=ff9040>Insérer
+Age;Âge
+Enable;Activer
+Open Adventure Paths;Parcours d'aventure ouverts
+Show task: <col=ff9040>Sharpshooter;Afficher la tâche : <col=ff9040>Tireur d'élite
+Claim;Réclamer
+Show task: <col=ff9040>Getting started with Magic;Afficher la tâche : <col=ff9040>Démarrer avec Magic
+Show task: <col=ff9040>Getting a grip on it;Afficher la tâche : <col=ff9040>Maîtriser la tâche
+Show task: <col=ff9040>Body builder;Afficher la tâche : <col=ff9040>Culturiste
+Show task: <col=ff9040>Getting started with Attack;Afficher la tâche : <col=ff9040>Démarrer avec Attack
+Show task: <col=ff9040>Striking a pose;Afficher la tâche : <col=ff9040>Prendre la pose
+Show task: <col=ff9040>Honing my aim;Afficher la tâche : <col=ff9040>Affiner mon objectif
+Show task: <col=ff9040>Bringer of chaos;Afficher la tâche : <col=ff9040>Porteur du chaos
+Show task: <col=ff9040>Building muscle;Afficher la tâche : <col=ff9040>Développement musculaire
+Show task: <col=ff9040>Mithril defence;Afficher la tâche : <col=ff9040>Défense en mithril
+Show task: <col=ff9040>Getting started with Defence;Afficher la tâche : <col=ff9040>Premiers pas avec la Défense
+Show task: <col=ff9040>Getting started with Strength;Afficher la tâche : <col=ff9040>Démarrer avec Force
+Show task: <col=ff9040>Sticks and stones;Afficher la tâche : <col=ff9040>Bâtons et pierres
+Show task: <col=ff9040>Weapons master;Afficher la tâche : <col=ff9040>Maître des armes
+Show task: <col=ff9040>Getting started with Ranged;Afficher la tâche : <col=ff9040>Démarrer avec Ranged
+Talk-To;Parler à
+Shut;Fermer
+Pay-toll(10gp);Péage (10gp)
+Revert;Revenir
+Deactivate;Désactiver
+Ironman Group;Groupe Ironman
+Predict;Prédire
+Leave;Partir
+Copy-outfit;Tenue de copie
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Groupe :</col> Effacer l'historique
+Jump;Saut
+Challenge;Défi
+Reanimate;Ranimer
+Quick Pass;Passe rapide
+Pass;Passer
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Groupe :</col> Afficher les amis
+<col=ffff00>Group:</col> Show all;<col=ffff00>Groupe :</col> Afficher tout
+<col=ffff00>Group:</col> Show none;<col=ffff00>Groupe :</col> Afficher aucun
+Quench;Éteindre
+Withdraw-18;Retrait-18
+Inside;À l'intérieur
+Home;Maison
+Group;Groupe
+Deposit-18;Dépôt-18
+Build mode;Mode construction
+Resurrect;Ressusciter
+Friend's house;La maison d'un ami
+Break;Casser

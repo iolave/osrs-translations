@@ -378,3 +378,102 @@ Ironman;Ijzerman
 Hardcore Ironman;Harde Ironman
 Proceed;Doorgaan
 90 days;90 dagen
+Top-floor;Bovenste verdieping
+Cross;Kruis
+Smelt;Spiering
+Bait;Aas
+Toggle warnings;Schakel waarschuwingen in
+Lure;Lokken
+Buy;Kopen
+Bury;Begraven
+Check Kudos;Controleer complimenten
+Look at;Kijken naar
+Light;Licht
+Adjust Brightness;Pas de helderheid aan
+Select <col=ff981f>Controls;Selecteer <col=ff981f>Besturingselementen
+Board;Bord
+Grapple;Grijper
+Toggle skull prevention;Schakel schedelpreventie in of uit
+Restore Default Zoom;Herstel standaardzoom
+Select <col=ff981f>Interfaces;Selecteer <col=ff981f>Interfaces
+Buy-X;Koop-X
+Potions;Drankjes
+Buy-5;Koop-5
+Buy-1;Koop-1
+Buy-All;Koop-alles
+Show worn items;Laat gedragen items zien
+Bottom-floor;Benedenverdieping
+Locate;Lokaliseren
+Disable Adventure Paths;Schakel avonturenpaden uit
+Repair;Reparatie
+Show<col=ff9040> Task information;Toon<col=ff9040> ​​Taakinformatie
+Expand;Uitbreiden
+Show task: <col=ff9040>Getting started with Mining;Taak weergeven: <col=ff9040>Aan de slag met mijnbouw
+More info;Meer informatie
+Check reward;Controleer beloning
+Show<col=ff9040> Paths;Toon<col=ff9040> ​​paden
+Claim-trophies;Claim-trofeeën
+Set<col=ff9040> Focus;Stel<col=ff9040> ​​Focus in
+Show task: <col=ff9040>Getting started with Fishing;Taak weergeven: <col=ff9040>Aan de slag met vissen
+Select <col=ff9040>Gatherer path;Selecteer <col=ff9040>Verzamelaarpad
+Show task: <col=ff9040>Getting started with Woodcutting;Taak weergeven: <col=ff9040>Aan de slag met houtsnijden
+Pick-from;Pick-van
+Drop<col=ff9040> Focus;Laat de focus vallen<col=ff9040>
+Suck;Zuigen
+Close dropdown;Sluit de vervolgkeuzelijst
+Select <col=ff9040>Combat path;Selecteer <col=ff9040>Gevechtspad
+Armour;Pantser
+Show<col=ff9040> Settings;Toon<col=ff9040> ​​Instellingen
+Show <col=ff9040>path reward;Toon <col=ff9040>padbeloning
+View House Options;Bekijk huisopties
+Open Bond Pouch;Open Bond-zakje
+Empty containers;Lege containers
+Enable <col=ff9040>Notes;Schakel <col=ff9040>Notities in
+Enable <col=ff9040>Insert;Schakel <col=ff9040>Invoegen in
+Age;Leeftijd
+Enable;Inschakelen
+Open Adventure Paths;Open avonturenpaden
+Show task: <col=ff9040>Sharpshooter;Taak weergeven: <col=ff9040>Scherpschutter
+Claim;Claim
+Show task: <col=ff9040>Getting started with Magic;Taak weergeven: <col=ff9040>Aan de slag met Magic
+Show task: <col=ff9040>Getting a grip on it;Toon taak: <col=ff9040>Er grip op krijgen
+Show task: <col=ff9040>Body builder;Taak weergeven: <col=ff9040>Bodybuilder
+Show task: <col=ff9040>Getting started with Attack;Taak weergeven: <col=ff9040>Aan de slag met Attack
+Show task: <col=ff9040>Striking a pose;Taak weergeven: <col=ff9040>Een pose aannemen
+Show task: <col=ff9040>Honing my aim;Taak weergeven: <col=ff9040>Mijn doel aanscherpen
+Show task: <col=ff9040>Bringer of chaos;Taak weergeven: <col=ff9040>Brenger van chaos
+Show task: <col=ff9040>Building muscle;Toon taak: <col=ff9040>Spiermassa opbouwen
+Show task: <col=ff9040>Mithril defence;Toon taak: <col=ff9040>Mithril verdediging
+Show task: <col=ff9040>Getting started with Defence;Taak weergeven: <col=ff9040>Aan de slag met Defensie
+Show task: <col=ff9040>Getting started with Strength;Taak weergeven: <col=ff9040>Aan de slag met kracht
+Show task: <col=ff9040>Sticks and stones;Toon taak: <col=ff9040>Stokken en stenen
+Show task: <col=ff9040>Weapons master;Toon taak: <col=ff9040>Wapenmeester
+Show task: <col=ff9040>Getting started with Ranged;Taak weergeven: <col=ff9040>Aan de slag met Ranged
+Talk-To;Praat met
+Shut;Sluit
+Pay-toll(10gp);Betaaltol(10gp)
+Revert;Terugdraaien
+Deactivate;Deactiveren
+Ironman Group;Ironman-groep
+Predict;Voorspellen
+Leave;Vertrekken
+Copy-outfit;Kopieer-outfit
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Groep:</col> Geschiedenis wissen
+Jump;Springen
+Challenge;Uitdaging
+Reanimate;Reanimeren
+Quick Pass;Snelle pas
+Pass;Doorgang
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Groep:</col> Vrienden tonen
+<col=ffff00>Group:</col> Show all;<col=ffff00>Groep:</col> Alles weergeven
+<col=ffff00>Group:</col> Show none;<col=ffff00>Groep:</col> Geen tonen
+Quench;Afschrikken
+Withdraw-18;Intrekken-18
+Inside;Binnen
+Home;Thuis
+Group;Groep
+Deposit-18;Borg-18
+Build mode;Bouwmodus
+Resurrect;Herrijzen
+Friend's house;Het huis van een vriend
+Break;Pauze

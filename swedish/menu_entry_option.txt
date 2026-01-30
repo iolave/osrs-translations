@@ -368,3 +368,112 @@ Name Changer;Namnbytare
 Upgrade Now;Uppgradera nu
 Disable spell filtering;Inaktivera stavningsfiltrering
 Close <col=ff9040>Floating panel</col>;Stäng <col=ff9040>Flytande panel</col>
+Ultimate Ironman;Ultimate Ironman
+7 days;7 dagar
+Hardcore Group Ironman;Hardcore Group Ironman
+Unranked Group Ironman;Orankad Group Ironman
+None;Ingen
+Group Ironman;Grupp Ironman
+Ironman;Ironman
+Hardcore Ironman;Hardcore Ironman
+Proceed;Fortsätta
+90 days;90 dagar
+Top-floor;Översta våningen
+Cross;Korsa
+Smelt;Smälta
+Bait;Bete
+Toggle warnings;Växla varningar
+Lure;Locka
+Buy;Köpa
+Bury;Begrava
+Check Kudos;Kolla Kudos
+Look at;Titta på
+Light;Ljus
+Adjust Brightness;Justera ljusstyrkan
+Select <col=ff981f>Controls;Välj <col=ff981f>Kontroller
+Board;Styrelse
+Grapple;Brottas
+Toggle skull prevention;Växla skalleförebyggande
+Restore Default Zoom;Återställ standardzoom
+Select <col=ff981f>Interfaces;Välj <col=ff981f>Gränssnitt
+Buy-X;Köp-X
+Potions;Potions
+Buy-5;Köp-5
+Buy-1;Köp-1
+Buy-All;Köp-alla
+Show worn items;Visa slitna föremål
+Bottom-floor;Nedre våningen
+Locate;Lokalisera
+Disable Adventure Paths;Inaktivera äventyrsvägar
+Repair;Reparera
+Show<col=ff9040> Task information;Visa<col=ff9040> ​​uppgiftsinformation
+Expand;Expandera
+Show task: <col=ff9040>Getting started with Mining;Visa uppgift: <col=ff9040>Komma igång med Mining
+More info;Mer info
+Check reward;Kontrollera belöning
+Show<col=ff9040> Paths;Visa<col=ff9040> ​​sökvägar
+Claim-trophies;Anspråk-troféer
+Set<col=ff9040> Focus;Ställ in<col=ff9040> ​​Fokus
+Show task: <col=ff9040>Getting started with Fishing;Visa uppgift: <col=ff9040>Komma igång med fiske
+Select <col=ff9040>Gatherer path;Välj <col=ff9040>Gatherer-sökväg
+Show task: <col=ff9040>Getting started with Woodcutting;Visa uppgift: <col=ff9040>Komma igång med träskärning
+Pick-from;Välj från
+Drop<col=ff9040> Focus;Släpp<col=ff9040> ​​Fokus
+Suck;Suga
+Close dropdown;Stäng rullgardinsmenyn
+Select <col=ff9040>Combat path;Välj <col=ff9040>Stridsbana
+Armour;Rustning
+Show<col=ff9040> Settings;Visa<col=ff9040> ​​inställningar
+Show <col=ff9040>path reward;Visa <col=ff9040>sökvägsbelöning
+View House Options;Visa husalternativ
+Open Bond Pouch;Öppen Bond-påse
+Empty containers;Tomma behållare
+Enable <col=ff9040>Notes;Aktivera <col=ff9040>Anteckningar
+Enable <col=ff9040>Insert;Aktivera <col=ff9040>Infoga
+Age;Åldras
+Enable;Aktivera
+Open Adventure Paths;Öppna äventyrsvägar
+Show task: <col=ff9040>Sharpshooter;Visa uppgift: <col=ff9040>Sharpshooter
+Claim;Krav
+Show task: <col=ff9040>Getting started with Magic;Visa uppgift: <col=ff9040>Komma igång med Magic
+Show task: <col=ff9040>Getting a grip on it;Visa uppgift: <col=ff9040>Få ett grepp om det
+Show task: <col=ff9040>Body builder;Visa uppgift: <col=ff9040>Kroppsbyggare
+Show task: <col=ff9040>Getting started with Attack;Visa uppgift: <col=ff9040>Komma igång med Attack
+Show task: <col=ff9040>Striking a pose;Visa uppgift: <col=ff9040>Att slå en pose
+Show task: <col=ff9040>Honing my aim;Visa uppgift: <col=ff9040>Slipa mitt mål
+Show task: <col=ff9040>Bringer of chaos;Visa uppgift: <col=ff9040>Bringer of chaos
+Show task: <col=ff9040>Building muscle;Visa uppgift: <col=ff9040>Bygga muskler
+Show task: <col=ff9040>Mithril defence;Visa uppgift: <col=ff9040>Mithril försvar
+Show task: <col=ff9040>Getting started with Defence;Visa uppgift: <col=ff9040>Komma igång med försvar
+Show task: <col=ff9040>Getting started with Strength;Visa uppgift: <col=ff9040>Komma igång med Strength
+Show task: <col=ff9040>Sticks and stones;Visa uppgift: <col=ff9040>Pinnar och stenar
+Show task: <col=ff9040>Weapons master;Visa uppgift: <col=ff9040>Vapenmästare
+Show task: <col=ff9040>Getting started with Ranged;Visa uppgift: <col=ff9040>Komma igång med Ranged
+Talk-To;Talk-To
+Shut;Stänga
+Pay-toll(10gp);Betalavgift (10gp)
+Revert;Återgå
+Deactivate;Avaktivera
+Ironman Group;Ironman Group
+Predict;Förutspå
+Leave;Lämna
+Copy-outfit;Copy-outfit
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Grupp:</col> Rensa historik
+Jump;Hoppa
+Challenge;Utmaning
+Reanimate;Väcka till liv
+Quick Pass;Snabbpass
+Pass;Passera
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Grupp:</col> Visa vänner
+<col=ffff00>Group:</col> Show all;<col=ffff00>Grupp:</col> Visa alla
+<col=ffff00>Group:</col> Show none;<col=ffff00>Grupp:</col> Visa ingen
+Quench;Släcka
+Withdraw-18;Uttag-18
+Inside;Inuti
+Home;Hem
+Group;Grupp
+Deposit-18;Insättning-18
+Build mode;Byggläge
+Resurrect;Återuppväcka
+Friend's house;Vännens hus
+Break;Bryta
