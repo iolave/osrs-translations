@@ -368,3 +368,112 @@ Name Changer;Trocador de nome
 Upgrade Now;Atualize agora
 Disable spell filtering;Desativar filtragem ortográfica
 Close <col=ff9040>Floating panel</col>;Fechar <col=ff9040>painel flutuante</col>
+Ultimate Ironman;Homem de Ferro Supremo
+7 days;7 dias
+Hardcore Group Ironman;Grupo Hardcore Ironman
+Unranked Group Ironman;Grupo não classificado Ironman
+None;Nenhum
+Group Ironman;Grupo de Ironman
+Ironman;Homem de Ferro
+Hardcore Ironman;Homem de Ferro Incondicional
+Proceed;Prosseguir
+90 days;90 dias
+Top-floor;Piso superior
+Cross;Cruzar
+Smelt;Cheirava
+Bait;Isca
+Toggle warnings;Alternar avisos
+Lure;Atrair
+Buy;Comprar
+Bury;Enterrar
+Check Kudos;Verifique elogios
+Look at;Olhe para
+Light;Luz
+Adjust Brightness;Ajustar brilho
+Select <col=ff981f>Controls;Selecione <col=ff981f>Controles
+Board;Quadro
+Grapple;Agarrar
+Toggle skull prevention;Alternar prevenção do crânio
+Restore Default Zoom;Restaurar zoom padrão
+Select <col=ff981f>Interfaces;Selecione <col=ff981f>Interfaces
+Buy-X;Compre-X
+Potions;Poções
+Buy-5;Compra-5
+Buy-1;Compra-1
+Buy-All;Compre tudo
+Show worn items;Mostrar itens usados
+Bottom-floor;Piso inferior
+Locate;Localizar
+Disable Adventure Paths;Desativar caminhos de aventura
+Repair;Reparar
+Show<col=ff9040> Task information;Mostrar<col=ff9040> ​​informações da tarefa
+Expand;Expandir
+Show task: <col=ff9040>Getting started with Mining;Mostrar tarefa: <col=ff9040>Introdução à mineração
+More info;Mais informações
+Check reward;Verifique a recompensa
+Show<col=ff9040> Paths;Mostrar<col=ff9040> ​​Caminhos
+Claim-trophies;Reivindique troféus
+Set<col=ff9040> Focus;Definir<col=ff9040> ​​Foco
+Show task: <col=ff9040>Getting started with Fishing;Mostrar tarefa: <col=ff9040>Introdução à Pesca
+Select <col=ff9040>Gatherer path;Selecione <col=ff9040>Caminho do coletor
+Show task: <col=ff9040>Getting started with Woodcutting;Mostrar tarefa: <col=ff9040>Introdução à xilogravura
+Pick-from;Escolha
+Drop<col=ff9040> Focus;Eliminar<col=ff9040> ​​Foco
+Suck;Chupar
+Close dropdown;Fechar menu suspenso
+Select <col=ff9040>Combat path;Selecione <col=ff9040>Caminho de combate
+Armour;Armadura
+Show<col=ff9040> Settings;Mostrar<col=ff9040> ​​configurações
+Show <col=ff9040>path reward;Mostrar <col=ff9040>recompensa do caminho
+View House Options;Ver opções de casa
+Open Bond Pouch;Bolsa de títulos aberta
+Empty containers;Recipientes vazios
+Enable <col=ff9040>Notes;Ativar <col=ff9040>Notas
+Enable <col=ff9040>Insert;Ativar <col=ff9040>Inserir
+Age;Idade
+Enable;Habilitar
+Open Adventure Paths;Caminhos de aventura abertos
+Show task: <col=ff9040>Sharpshooter;Mostrar tarefa: <col=ff9040>Sharpshooter
+Claim;Alegar
+Show task: <col=ff9040>Getting started with Magic;Mostrar tarefa: <col=ff9040>Introdução ao Magic
+Show task: <col=ff9040>Getting a grip on it;Mostrar tarefa: <col=ff9040>Controlando-a
+Show task: <col=ff9040>Body builder;Mostrar tarefa: <col=ff9040>Construtor de carrocerias
+Show task: <col=ff9040>Getting started with Attack;Mostrar tarefa: <col=ff9040>Introdução ao Attack
+Show task: <col=ff9040>Striking a pose;Mostrar tarefa: <col=ff9040>Fazer uma pose
+Show task: <col=ff9040>Honing my aim;Mostrar tarefa: <col=ff9040>Aprimorar minha mira
+Show task: <col=ff9040>Bringer of chaos;Mostrar tarefa: <col=ff9040>Portador do caos
+Show task: <col=ff9040>Building muscle;Mostrar tarefa: <col=ff9040>Construir músculos
+Show task: <col=ff9040>Mithril defence;Mostrar tarefa: <col=ff9040>Defesa de Mithril
+Show task: <col=ff9040>Getting started with Defence;Mostrar tarefa: <col=ff9040>Introdução à Defesa
+Show task: <col=ff9040>Getting started with Strength;Mostrar tarefa: <col=ff9040>Introdução ao Strength
+Show task: <col=ff9040>Sticks and stones;Mostrar tarefa: <col=ff9040>Paus e pedras
+Show task: <col=ff9040>Weapons master;Mostrar tarefa: <col=ff9040>Mestre de armas
+Show task: <col=ff9040>Getting started with Ranged;Mostrar tarefa: <col=ff9040>Introdução ao Ranged
+Talk-To;Fale com
+Shut;Fechar
+Pay-toll(10gp);Pedágio (10gp)
+Revert;Reverter
+Deactivate;Desativar
+Ironman Group;Grupo Ironman
+Predict;Prever
+Leave;Deixar
+Copy-outfit;Roupa de cópia
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Grupo:</col> Limpar histórico
+Jump;Pular
+Challenge;Desafio
+Reanimate;Reanimar
+Quick Pass;Passe rápido
+Pass;Passar
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Grupo:</col> Mostrar amigos
+<col=ffff00>Group:</col> Show all;<col=ffff00>Grupo:</col> Mostrar todos
+<col=ffff00>Group:</col> Show none;<col=ffff00>Grupo:</col> Mostrar nenhum
+Quench;Apagar
+Withdraw-18;Retirar-18
+Inside;Dentro
+Home;Lar
+Group;Grupo
+Deposit-18;Depósito-18
+Build mode;Modo de construção
+Resurrect;Ressuscitar
+Friend's house;Casa de amigo
+Break;Quebrar

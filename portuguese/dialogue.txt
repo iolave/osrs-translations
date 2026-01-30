@@ -52495,6 +52495,7 @@ You should have been there! There was this...and Surok was like...and I was...an
 Your teleport spell has been corrupted, Surok! I have placed a magic block on this room. You will remain here, under guard, in the library from now on.;Seu feitiço de teletransporte foi corrompido, Surok! Coloquei um bloco mágico nesta sala. Você permanecerá aqui, sob guarda, na biblioteca de agora em diante.
 Complete the quest and gain experience?;Completar a missão e ganhar experiência?
 You don't seem to have any crystals I can enchant. Return when you do.;Você não parece ter nenhum cristal que eu possa encantar. Volte quando você fizer isso.
+   ;   
 Hello, Jobless Ted!;Olá, Ted desempregado!
 Jobless Ted! I so glad you here! You help me get into Dorgesh-city? I want talk to Chosen Commander.;Ted desempregado! Estou tão feliz por você estar aqui! Você me ajuda a entrar na cidade de Dorgesh? Quero falar com o Comandante Escolhido.
 I trust you, Jobless Ted. You save village from H.A.M. attack. Now I tell you where temple is.;Eu confio em você, Ted desempregado. Você salva a vila do H.A.M. ataque. Agora eu te digo onde fica o templo.
@@ -53116,3 +53117,277 @@ Sí.;Si.
 Bueno, ya has terminado aquí. Te daré una cantidad razonable de runas cuando te vayas.;Bom, você terminou aqui. Você ousa uma quantidade razoável de runas quando você vai.
 Hola.;Olá.
 ¿Quieres ir al continente?;Você quer ir para o continente?
+If you think you have what it takes, you can choose to become a <col=b10000>Hardcore Ironman</col>.;Se você acha que tem o que é preciso, você pode optar por se tornar um <col=b10000>Hardcore Ironman</col>.
+While you're on Tutorial Island, you can switch freely between being a <col=7f0000>standard Ironman</col>, an <col=00007f>Ultimate <col=00007f>Ironman</col>, a <col=b10000>Hardcore Ironman</col>, a <col=7f0000>Group Ironman</col>, a <col=b10000>Hardcore Group Ironman</col> or a regular character.;Enquanto estiver na Ilha Tutorial, você pode alternar livremente entre ser um <col=7f0000>Ironman padrão</col>, um <col=00007f><col=00007f>Ironman Ultimate</col>, um <col=b10000>Ironman Hardcore</col>, um <col=7f0000>Ironman de Grupo</col>, um <col=b10000>Hardcore Group Ironman</col> ou um personagem normal.
+stats will be frozen on the <col=b10000>Hardcore Ironman</col> hiscores.;as estatísticas serão congeladas nos recordes do <col=b10000>Hardcore Ironman</col>.
+¡Salve, Ironman incondicional! ¿Qué puedo hacer por ti?;Salve, Ironman incondicional! O que posso fazer por você?
+For the ultimate challenge, you can choose to become an <col=00007f>Ultimate Ironman</col>, a game mode inspired by the player <col=00007f>IronNoBank</col>.;Para o desafio final, você pode optar por se tornar um <col=00007f>Ultimate Ironman</col>, um modo de jogo inspirado no jogador <col=00007f>IronNoBank</col>.
+In addition to the standard restrictions, <col=00007f>Ultimate <col=00007f>Ironmen</col> are blocked from using the bank, and they drop all their items when they die.;Além das restrições padrão, <col=00007f>Ultimate <col=00007f>Ironmen</col> são impedidos de usar o banco e deixam cair todos os seus itens quando morrem.
+As an <col=b10000>Ironman</col>, you choose to have these restrictions imposed on you, so everyone knows you're doing it properly.;Como um <col=b10000>Ironman</col>, você escolhe que essas restrições sejam impostas a você, para que todos saibam que você está fazendo isso corretamente.
+a question mark on the end. He also has a white beard and carries a rucksack full of scrolls. There are also many tutors willing to teach you about the many skills you could learn.;um ponto de interrogação no final. Ele também tem barba branca e carrega uma mochila cheia de pergaminhos. Existem também muitos tutores dispostos a ensinar-lhe as muitas habilidades que você pode aprender.
+Excelente, creo que eso lo cubre todo. Cuando estés listo para partir, ¡usa tu hechizo de teletransporte a casa para teletransportarte a Lumbridge!;Excelente, eu acho que isso é tudo. Quando você está listado para partir, use seu hechizo de teletransporte para casa para teletransporte para Lumbridge!
+Once you've left this island, you'll be able to find my colleague Adam in Lumbridge, but he'll only let you switch your restrictions downwards, not upwards.;Depois de sair desta ilha, você poderá encontrar meu colega Adam em Lumbridge, mas ele só permitirá que você mude suas restrições para baixo, não para cima.
+Asegúrate de tener todas tus configuraciones de Ironman ordenadas antes de salir de Tutorial Island. Algunas cosas no se pueden cambiar más tarde.;Certifique-se de ter todas as configurações de Ironman ordenadas antes de sair da Ilha Tutorial. Algumas coisas não podem ser alteradas mais tarde.
+So he will let <col=b10000>Hardcore Ironmen</col> or <col=00007f>Ultimate Ironmen</col> downgrade to <col=7f0000>standard Ironmen</col>, and he'll let all solo types of <col=7f0000>Ironman</col> become regular characters.;Então ele permitirá que <col=b10000>Hardcore Ironmen</col> ou <col=00007f>Ultimate Ironmen</col> sejam rebaixados para <col=7f0000>Ironmen padrão</col>, e permitirá que todos os tipos solo de <col=7f0000>Ironman</col> se tornem personagens regulares.
+If you have some friends, you could stand alone... Together, as <col=7f0000>Group Ironmen</col>. Group Ironmen have the same restrictions as regular Ironmen except you can trade your items with each other!;Se você tiver alguns amigos, poderá ficar sozinho... Juntos, como <col=7f0000>Grupo Ironmen</col>. Os Ironmen de grupo têm as mesmas restrições dos Ironmen normais, exceto que vocês podem trocar seus itens entre si!
+If you are a daring bunch, you could even try <col=b10000>Hardcore Group Ironmen</col>. With Hardcore Group Ironmen you have a set number of lives, when they reach zero, you will become regular <col=7f0000>Group Ironmen</col>.;Se você é um grupo ousado, você pode até tentar <col=b10000>Hardcore Group Ironmen</col>. Com Hardcore Group Ironmen você tem um determinado número de vidas, quando elas chegam a zero, você se tornará um <col=7f0000>Group Ironmen</col> normal.
+Hey there Paul.;Olá, Paulo.
+In addition to the standard restrictions, <col=b10000>Hardcore <col=b10000>Ironmen</col> only have <col=b10000>one life</col>. In the event of a dangerous death, your <col=b10000>Hardcore Ironman</col> status will be downgraded to that of a <col=7f0000>standard Ironman</col>, and your;Além das restrições padrão, <col=b10000>Hardcore <col=b10000>Ironmen</col> só têm <col=b10000>uma vida</col>. No caso de uma morte perigosa, seu status de <col=b10000>Ironman Hardcore</col> será rebaixado para o de um <col=7f0000>Ironman padrão</col>, e seu status
+If you ever decided to invite experienced players to your group, you would become <col=7f0000>Unranked Group <col=7f0000>Ironmen</col>, which are no longer shown on the Group Ironman hiscores.;Se você decidisse convidar jogadores experientes para o seu grupo, você se tornaria um <col=7f0000><col=7f0000>Ironmen</col> de grupo não classificado, que não é mais mostrado nos recordes de Ironman de grupo.
+Me gustaría cambiar mi modo Ironman.;Eu gostaria de mudar meu modo Ironman.
+¿Le puedo ayudar en algo?;Você pode ajudar em algo?
+Estoy en busca de enemigos para matar.;Estou em busca de inimigos para matar.
+Estoy en busca de una misión.;Estou em busca de uma missão.
+¿Qué debo hacer?;O que devo fazer?
+¿Desea negociar?;Você deseja negociar?
+Busco una chica rubia, se llama Julieta... bastante bonita... Â¿no la has visto verdad?;Busco una chica rubia, se llama Julieta... bastante bonita... Â¿no la has visto verdade?
+Â¿Por quÃ© lo preguntas?;Por que você faz perguntas?
+Oh sÃ­... lo que dijiste... dile eso, Â¡suena mucho mejor!  Â¡Oh, eres tan bueno en esto!;Oh sÃ... lo que dijiste... dile eso, Â¡suena mucho mejor!  Â¡Oh, você é tão bom nisso!
+Hombros... cierto, entonces tiene cabello, labios y hombros... eso deberÃ­a reducirlo un poco.;Hombros... cierto, entonces tiene cabello, labios y hombros... isso deveria reduzir um pouco.
+Ah, sÃ­... muy cierto. Mmmm, dÃ©jame pensar ahora.;Ah, sim... muy cierto. Mmmm, deixe-me pensar agora.
+...y ella estos...grandes labios...;...y ella estos...grandes lábios...
+SÃ­, estÃ¡ bien. Se lo harÃ© saber.;SÃ, estÃ¡ bien. Se lo haré saber.
+Cabello...comprueba..;Cabello...comprueba..
+Â¡Veo que he elegido a un verdadero profesional...!;Â¡Vejo que ele elegeu um verdadeiro profissional...!
+Â¿Iniciar la bÃºsqueda de Romeo y Julieta?;Você iniciou a busca de Romeu e Julieta?
+Oh, eres bueno... Â¡eres bueno!;Oh, és bom... és bom!
+Â¿Hay algo mÃ¡s que puedas contarme sobre Julieta?;Há algo mais que você possa me contar sobre Julieta?
+Â¡Para que pueda intentar encontrarla para ti!;Â¡Para que você possa tentar encontrá-la para você!
+Â¡Oh, recuerdo cÃ³mo le encantaba cuando yo cantaba desde su balcÃ³n! Ella me recompensarÃ­a con sus propios artÃ­culos personales...;¡Oh, lembre-se de como ele encantaba quando eu cantaba desde sua varanda! Ella me recompensaria con sus propios artículos personales...
+Es posible que todavÃ­a estÃ© encerrada en la casa de su padre en el Ãºltimo vÃ­deo de Warrock.;É possível que você esteja encerrada na casa de seu padre no último vídeo de Warrock.
+Bueno, gracias.;Bom, obrigado.
+Â¿QuÃ©?  Seguramente te refieres a eso de 'ella es el amor de tu vida y que anhelas estar con ella'.;O que?  Seguramente você se refere a isso de 'ella é o amor de sua vida e que anhelas estejam com ela'.
+Â¡Oh genial! Y dile que quiero darle un beso.;¡Oh, genial! E diga que quero dar um beso.
+Si.;Si.
+Â¿QuizÃ¡s podrÃ­a ayudarte a encontrarla?;Â¿Quizás podría ayudarte a encontrála?
+Â¡Quieres decir que quieres darle un beso!;Â¡Quieres decir que quieres darle un beso!
+Labios... cierto.;Lábios... claro.
+Ah, y ella tambiÃ©n tiene estos hermosos hombros.;Ah, e ela também tem esses lindos homens.
+Oh si, Julieta es muy diferente... por favor dile que ella es el amor de mi vida y que quiero estar con ella.;Oh sim, Julieta é muito diferente... por favor dile que ela é o amor da minha vida e que eu quero estar com ela.
+No lo siento, no la he visto.;Não o sinto, não o vi.
+Ah, Â¿lo harÃ­as? Â¡Eso serÃ­a genial! She has this sort of hair...;Ah, ¿lo harías? ¡Eso seria genial! Ela tem esse tipo de cabelo...
+Â¿QuizÃ¡s pueda ayudarte a encontrarla? Â¿CÃ³mo es ella?;Você pode ajudá-lo a encontrá-lo? Como é ela?
+Â¿DÃ³nde puedo encontrar a Julieta?;Onde posso encontrar Julieta?
+Â¡SÃ­, la he visto de hecho!;Â¡SÃ, la he visto de hecho!
+Ah, sim, Julieta... minha querida... que novidades?;Ah, sim, Julieta... minha querida... que novidades?
+NÃ£o faÃ§o ideia, meu amigo, mas vocÃª parece ter um rosto amigÃ¡vel... um pouco manchado de sangue, e talvez precisando de um banho, mas mesmo assim amigÃ¡vel.;Não é uma ideia, meu amigo, mas você parece ter um rosto amigável... um pouco manchado de sangue, e talvez precisando de um banho, mas mesmo assim amigável.
+VocÃª me pediu para procurar Julieta para vocÃª!;Você me pediu para procurar Julieta para você!
+VocÃª nÃ£o tem ideia de quem eu sou, nÃ£o Ã©?;Você não tem ideia de quem eu sou, não é?
+Nada atÃ© agora, mas preciso fazer algumas perguntas?;Nada até agora, mas preciso fazer algumas perguntas?
+Claro, sim... como vai... vocÃª... ermmm...;Claro, sim... como vai... você... ermmm...
+OlÃ¡ de novo, lembra de mim?;Olá de novo, lembra de mim?
+Â¡Muchas gracias! Oh, estoy muy agradecido. Puede que seas nuestra Ãºnica esperanza.;¡Muito obrigado! Oh, estou muito grato. Você pode ter nossa única esperança.
+Por supuesto, lo harÃ© de inmediato.;Por suposto, ele será imediatamente.
+Muy a menudo estÃ¡ molesto... el pobre alma sensible. Pero no creo que vaya a tomar muy bien esta noticia, sin embargo, no todo estÃ¡ perdido.;Muy a menudo está molesto... el pobre alma sensible. Mas não pensei que iria levar muito bem esta notícia, no entanto, não está tudo perdido.
+Â¿QuÃ©? Â¿Ella te acaba de dar sus cosas?;O que? Você acabou de dar suas coisas?
+Â¡Ah, un mensaje! Â¡Un mensaje! Nunca antes habÃ­a recibido un mensaje...;Ah, uma mensagem! ¡Uma mensagem! Nunca antes recebi uma mensagem...
+Julieta, vengo de Romeo.  Me ruega que te diga que todavÃ­a le importas.;Julieta, vengo de Romeu.  Me ruega que te diga que todavia le importas.
+Bueno, espero que sean buenas noticias... estaba bastante molesto cuando lo dejÃ©.;Bueno, espero que sean buenas noticias... esteja bastante molesto quando o dejé.
+Romeo...buenas noticias...Â¡He estado en contacto con Julieta! She's written a message for you...;Romeo...buenas noticias...¡Ele esteve em contato com Julieta! Ela escreveu uma mensagem para você...
+Bueno, no exactamente dar... mÃ¡s bien 'lanzar con fuerza considerable'... Â¡ella siempre es mÃ¡s bromista que Juliet!;Bom, não exatamente dar... mais bien 'lanzar com força considerável'... Ela sempre é mais bromista que Julieta!
+EstÃ¡ todo explicado en la carta, Â¿serÃ­a tan amable de entregÃ¡rsela por favor?;Está tudo explicado na carta, Â¿seria tan amable de entregársela por favor?
+Â¡Oh cÃ³mo se eleva mi corazÃ³n al escuchar esta noticia! Por favor, llÃ©vale este mensaje a toda prisa.;Â¡Oh, como se eleva mi corazón al escuchar esta noticia! Por favor, envie esta mensagem para todo preço.
+'Â¿Afecto?';'Â¿Afecto?'
+Pero en realidad no son mensajes \"agradables\". Â¡No como este! Estoy segura que este mensaje serÃ¡ encantador.;Mas na realidade não há mensagens \"agradáveis\". ¡Não como este! Tenho certeza de que esta mensagem será encantadora.
+Dios mÃ­o... eso no suena muy bien.;Deus meu... eso no suena muy bien.
+Ahh sÃ­... todavÃ­a me tienes cariÃ±o. TodavÃ­a siento un gran afecto por ti, pero desgraciadamente mi padre se opone a nuestro matrimonio.';Ahh sÃ... todavÃa me tienes cariÃ±o. Toda vez que você sentia um grande afeto, mas desgraciadamente meu pai se opôs ao nosso casamento.
+'...matrimonio y testamento...;'...matrimônio e testamento...
+Â¿QuÃ©? '...un gran cariÃ±o por ti. Padre se opone a nuestra...;O que? '...un gran cariño por ti. Padre se opõe a nossa...
+Oh, well, except for the occasional court summons. ;Bem, exceto pelas intimações judiciais ocasionais.
+Bueno, Â¿vas a abrirlo o no?;Bom, você estava abrindo-o ou não?
+Â¿En realidad?;Na realidade?
+Oh yes, yes, of course!  'Dearest Romeo, I am very pleased that you sent [PLAYER_NAME] to look for me and to tell me that you still hold affliction...', Affliction! She thinks I'm diseased?;Ah, sim, sim, claro!  'Querido Romeu, estou muito feliz que você tenha enviado [PLAYER_NAME] para me procurar e me dizer que você ainda está aflito...', Aflição! Ela acha que estou doente?
+Â¡No, no, ninguno!;¡Não, não, ninguém!
+Oh, mi corazÃ³n dolorido y destrozado... quÃ© inÃºtil es la situaciÃ³n ahora... no tenemos a nadie a quien recurrir...;Oh, meu coração dolorido e destruído... o que é a situação agora... não temos a ninguém que repita...
+Bueno, eso es todo entonces... no tenemos ninguna posibilidad...;Bom, isso é tudo então... não temos nenhuma possibilidade...
+Â¿Has oÃ­do algo de Julieta?;Você ouviu algo de Julieta?
+\"Nuestra Ãºnica esperanza es que el padre Lawrence, nuestro confidente desde hace mucho tiempo, pueda ayudarnos de alguna manera\".;“Nossa única esperança é que o padre Lawrence, nosso confiante desde há muito tempo, pode nos ajudar de alguma maneira”.
+Â¿Padre Lorenzo?;Padre Lorenzo?
+Oh, sÃ­, Padre Lawrence... es nuestro confidente desde hace mucho tiempo, Â¡podrÃ­a tener una soluciÃ³n! SÃ­, sÃ­, tienes que ir a hablar con Lather Fawrence por nosotros y preguntarle si tiene alguna sugerencia para nuestra situaciÃ³n.;Oh, sim, Padre Lawrence... es nuestro confidente desde hace mucho tiempo, ¡podría tener una solución! Sim, sim, você tem que falar com Lather Fawrence por nós e perguntar se você tem alguma sugestão para nossa situação.
+Â¡PADRE LORENZO!;PADRE LORENZO!
+Â¡Hola de nuevo Romeo!;¡Hola de nuevo Romeo!
+...Â¡o podrÃ­as hablar con el padre Lawrence!;...¡o podrías falar com o padre Lawrence!
+...nuestro amor ha terminado...el gran romance, la vida de mi amor...;...nosso amor ha terminado...el gran romance, la vida de mi amor...
+Â¿QuÃ© pasa con el padre Lawrence?;O que aconteceu com o padre Lawrence?
+...Â¡te matarÃ¡ si te vuelve a ver!';...¡te matará si te vuelve a ver!'
+Â¡Espuma Fawrence! Oh el es...;¡Espuma Fawrence! Ah, é...
+Â¿DÃ³nde puedo encontrar al padre Lawrence?;Onde posso encontrar o padre Lawrence?
+Tengo que ser honesto, no estÃ¡ mejorando...;Tenho que ser honesto, não estou melhorando...
+Â¿CÃ³mo estÃ¡s?;Como você está?
+Romeo me enviÃ³. Dice que tal vez puedas ayudar.;Romeo me envió. Dice que tal vez pode ajudar.
+Â¡Estoy de acuerdo y creo que tengo una idea! Una pociÃ³n para hacerla parecer muerta...;Estou de acordo e acredito que tenho uma ideia! Uma posição para fazer parecer morta...
+Ah Romeo, sÃ­. Un buen muchacho, pero un poco confundido.;Ah Romeu, sim. Um bom muchacho, mas um pouco confuso.
+SÃ­, bueno, Â¡ciertamente parece que tienes una audiencia cautiva!;Sim, bom, certamente parece que você tem um público cautivo!
+Â¡Pero Romeo me enviÃ³!;¡Pero Romeo me envió!
+Ok, ok... Â¿quÃ© quieres para que pueda deshacerme de ti y continuar con mi sermÃ³n?;Ok, ok... O que você quer para que você possa me desfazer de você e continuar com meu sermão?
+Â¡Â¿No ves que estoy en medio de un sermÃ³n?!;Você não está no meio de um sermão?!
+''...y deja que Saradomin te ilumine el camino... ''Â¡Urgh!;''...e deixe que Saradomin te ilumine o caminho... ''Â¡Urgh!
+Â¡Pero estoy ocupado dando un sermÃ³n a mi congregaciÃ³n!;Mas estou ocupado dando um sermão na minha congregação!
+SÃ­, muy confundido... Â¡De todos modos, Romeo desea casarse con Julieta! Â¡Debe ser rescatada del control de su padre!;SÃ, muy confundido... Â¡De todos os modos, Romeo deseja casarse com Julieta! Â¡Debe ser resgatado do controle de seu pai!
+Check my account, Count Check!;Verifique minha conta, conte cheque!
+I'll see you another time.;Vejo você outra hora.
+Â¿QuiÃ©n eres?;Quem é você?
+Ahahahaha! I am Count Check, the renowned security expert. Would you like me to check your account to see if it is secure?;Ahahahaha! Sou Count Check, o renomado especialista em segurança. Gostaria que eu verificasse sua conta para ver se ela é segura?
+Can you give me any advice?;Você pode me dar algum conselho?
+Where can I learn more about security?;Onde posso aprender mais sobre segurança?
+Â¡Cripta! De nuevo... Â¡muy espeluznante! You must have some strange hobbies.;¡Cripta! De novo... ¡muito espeleznante! Você deve ter alguns hobbies estranhos.
+Aparte de los fuertes matices de muerte, esto resulta ser una verdadera historia de amor.;Além das fortes mortes, o resultado é uma verdadeira história de amor.
+Â¡Muerto! Suena un poco espeluznante... pero, por favor, continÃºa.;¡Muerto! Suena un poco espeluznante... mas, por favor, continue.
+Â¡Entonces Romeo podrÃ¡ recogerla de la cripta! Ve al boticario, dile que te enviÃ© y que necesitarÃ¡s una pociÃ³n 'Cadava'.;Â¡Entonces Romeo podrá recogerla de la cripta! Ve ao boticário, dile que te inveja e que precisa de uma poção 'Cadava'.
+La pociÃ³n sÃ³lo harÃ¡ que Julieta \"parezca\" muerta... luego serÃ¡ llevada a la cripta...;La poción só fez que Julieta \"parezca\" muerta... luego será llevada a la cripta...
+Â¡Porque te estoy haciendo un favor!;Â¡Porque você está fazendo um favor!
+SÃ­, creo que sÃ­... pero la palabra pociÃ³n no existe.;Só acredito que só... mas a palavra poção não existe.
+Ooh, Â¿lograste sobrevivir a uno de los sermones de Lather Fawrence? Apuesto que no, Â¡tenÃ­as aÃ±os! Â¡Apuesto a que dormiste una siesta en el tapete de bienvenida tan pronto como escuchaste su voz!;Ooh, você sobreviveu a um dos sermões de Lather Fawrence? Apuesto que no, ¡tenías años! Â¡Apuesto a que dormiste uma sesta no tapete de bem-vindo tão pronto como escuchaste su voz!
+Oh...is he the one who mixes up all them magical potion- ey things?;Ah... é ele quem mistura todas aquelas poções mágicas?
+The Apothecary? ;O Boticário?
+Oh, vamos, vamos, Â¿quÃ© dijo?;Oh, vamos, vamos, o que você disse?
+No importa... Â¿sabes dÃ³nde estÃ¡ el boticario?;Não importa... Você sabe onde está o boticário?
+Bueno, lo acabas de usar... Â¡asÃ­ que supongo que existe!;Bueno, lo acaba de usar... ¡así que supongo que existe!
+Parece interesado en que te cases con Juliet.;Parece interessado nos casos com Julieta.
+Â¡No lo hice!;Não, ei!
+Claro, sÃ­... Â¡por supuesto! Bueno, creo que el lugar donde se venden pociones es Wouth Sest de aquÃ­ y cerca de una tienda de espadas.;Claro, sÃ... Â¡por supuesto! Bom, acredito que o lugar onde se vendem poções é Wouth Sest de aqui e perto de uma tienda de espadas.
+Â¡Quiere que vaya al boticario!;Â¡Quiere que vaya al boticário!
+Â¿Por quÃ© deberÃ­a decÃ­rtelo?;Â¿Por que deveria decártelo?
+Habla de Romeo y Julieta.;Habla de Romeu e Julieta.
+Tengo todo eso, pero necesito algunas bayas de Cadava.;Tenho tudo isso, mas preciso de algumas baías de Cadava.
+PociÃ³n de cadava. Es bastante desagradable. Y difÃ­cil de hacer.;Poção de cadava. É bastante desagradável. E difícil de fazer.
+Â¿Por quÃ© son peligrosas estas bayas?;Por que são perigosas estas bayas?
+No, gracias.;Não, obrigado.
+Â¿Conoces una pociÃ³n para hacer que el cabello se caiga?;Você conhece uma posição para fazer o cabelo cair?
+Habla de otra cosa.;Fala de outra coisa.
+Creo que vi algunos recientemente en los alrededores. Â¡Ah, sÃ­, es cierto! Hubo un poco de conmociÃ³n cuando algunos niÃ±os visitaron el pozo minero Varrock del sureste. El viaje se vio interrumpido porque algunos niÃ±os;Creo que vi alguns recentemente nos arredores. Â¡Ah, sim, é claro! Hubo un poco de conmoción quando alguns meninos visitam o pozo mineiro Varrock del sureste. A viagem é interrompida porque alguns meninos
+HabÃ­an encontrado algunos arbustos de cadavaberry y comenzaron a recogerlos. Â¡Terminaron ese viaje bastante rÃ¡pido!;Ele encontrou alguns arbustos de cadavaberry e começou a reconhecê-los. Â¡Terminaron ese viaje bastante rápido!
+Â¿CÃ³mo son estas bayas?;Como são estas bayas?
+Â¿Tienes alguna buena pociÃ³n para regalar?;Você tem alguma boa posição para presentear?
+Yo soy el boticario. Preparo pociones. Â¿Necesitas algo especÃ­fico?;Eu sou o boticário. Prepare poções. Você precisa de algo específico?
+TendrÃ¡s que encontrarlos mientras preparo el resto. TrÃ¡elos aquÃ­ cuando los tengas. Pero ten cuidado. Son desagradables.;Tendrás que encontrá-los enquanto prepara o resto. Tráelos aqui quando los tengas. Mas tenha cuidado. Filho desagradáveis.
+Â¿DÃ³nde puedo conseguir estas bayas?;Onde posso conseguir essas bayas?
+Ala de rata, cola de rana. Oreja de serpiente y cuerno de perro.;Ala de rata, cola de rana. Orelha de serpente e couro de perro.
+Â¿Puedes hacer pociones para mÃ­?;Você pode fazer poções para mim?
+Boticario, me enviÃ³ el padre Lawrence. Necesito una pociÃ³n de Cadava para ayudar a Romeo y Julieta.;Boticário, me envie o padre Lawrence. Necessito uma poção de Cadava para ajudar Romeu e Julieta.
+A young and enthusiastic fisher. Try south of Draynor Village or the pier on the island of Karamja to fish for Shrimp at level 1 or Sardines at level 5. Aye, me parrot concurs.;Um pescador jovem e entusiasmado. Tente ao sul da vila de Draynor ou no cais da ilha de Karamja para pescar camarão no nível 1 ou sardinhas no nível 5. Sim, meu papagaio concorda.
+Tell me about different fish.;Conte-me sobre diferentes peixes.
+Â¿Subir o bajar escaleras?;Subir ou baixar escalas?
+AdiÃ³s.;Adeus.
+Me gustarÃ­a acceder a mi cuenta bancaria por favor.;Eu gostaria de acessar minha conta bancária por favor.
+Sube las escaleras.;Sube as escadas.
+Oookay...sure, a parrot, on your shoulder.;Ok... claro, um papagaio, no seu ombro.
+Can you teach me the basics of fishing please?;Você pode me ensinar o básico da pesca, por favor?
+Me gustarÃ­a verificar la configuraciÃ³n de mi PIN.;Eu gostaria de verificar a configuração do meu PIN.
+What parrot?;Que papagaio?
+Â¡Arrr!;¡Arrr!
+Â¿CÃ³mo uso el banco?;Como uso o banco?
+Me parrot Percy on me shoulder thar! Arr!;Meu papagaio Percy no meu ombro! Arr!
+Me gustarÃ­a comprar mÃ¡s espacios bancarios.;Eu gostaria de comprar mais espaços bancários.
+Where and what should I fish?;Onde e o que devo pescar?
+Me gustarÃ­a coleccionar artÃ­culos.;Me gustaria coleccionar artigos.
+Baja las escaleras.;Baixas escadas.
+Hola Julieta! Tengo una propuesta interesante para usted... sugerida por el Padre Lawrence. QuizÃ¡s sea la Ãºnica manera de escapar de esta casa y estar con Romeo.;Olá Julieta! Tenho uma proposta interessante para você... sugerida pelo Padre Lawrence. Quizás mar a única maneira de escapar desta casa e estar com Romeo.
+Seguir....;Seguir....
+Â¡Uf! Esto es lo que necesitas.;¡Uf! Isso é o que você precisa.
+I have a Cadava potion here, suggested by Father Lawrence. Â¡Si lo bebes, te harÃ¡ parecer muerto!;Tenho aqui uma poção Cadava, sugerida pelo Padre Lawrence. Â¡Si lo bebes, você vai parecer morto!
+Bien hecho. Tienes las bayas.;Bem, hecho. Tem as baías.
+Oh no... Julieta ha... Â¡muerto!;Ah, não... Julieta ha... ¡muerto!
+Bien... Â¡de abajo hacia arriba!;Bien... Â¡de abajo hacia arriba!
+Â¡SÃ­, soy toda una actriz! Â¡Buena suerte querida prima!;¡SÃ, sou toda uma atriz! ¡Buena suerte querida prima!
+... Â¡suena simplemente color de rosa!;... Â¡suena simplemente cor de rosa!
+Oooooh, una cripta frÃ­a, oscura y espeluznante...;Oooooh, una cripta fría, oscura y espeluznante...
+Â¡Ella harÃ¡ que parezca aÃºn mÃ¡s convincente!;Â¡Ella hará que parezca aún mais convincente!
+Oh, aquÃ­ estÃ¡ Phillipa, mi prima... Â¡ella tambiÃ©n estÃ¡ involucrada en la trama!;Oh, aqui está Phillipa, mi prima... Ela também está involucrada na trama!
+Para ser justos, no puedo tomar todo el crÃ©dito... de hecho... todo fue sugerencia del Padre Lawrence...;Para ser justo, não posso levar todo o crédito... de hecho... tudo foi sugerido pelo Padre Lawrence...
+Ok... si esto es lo mejor que podemos hacer... Â¡entrega la pociÃ³n!;Ok... se isso é o melhor que podemos fazer... Entrega la poción!
+QuizÃ¡s seas mÃ¡s creÃ­ble si no sonrÃ­es cuando lo dices...;Quizás mares mais creíbles si no sonríes cuando lo dices...
+ Please go to Romeo and make sure he understands. Although I love his gormless, lovelorn soppy ways, he can be a bit dense sometimes and I don't want to wake up in that crypt on my own.;Por favor, vá até Romeu e certifique-se de que ele entende. Embora eu ame seu jeito idiota e amoroso, ele pode ser um pouco estúpido às vezes e eu não quero acordar naquela cripta sozinha.
+QuizÃ¡s un poco mÃ¡s fuerte, como si estuvieras molesto... Â¡porque tu prima ha muerto!;Quizás un poco mais forte, como si estuvieras molesto... Â¡porque tu prima ha muerto!
+OH NO...JULIETA HA...MUERTO?.... Oooooohhhhhh....(sollozo), (sollozo).Julieta...Â¡mi pobre prima muerta!;OH NÃO...JULIETA HA...MUERTO?.... Oooooohhhhhh....(sollozo), (sollozo).Julieta...Â¡mi pobre prima muerta!
+Â¡Maravilloso! SÃ³lo espero que Romeo recuerde sacarme de la cripta.;¡Maravilloso! Só espero que Romeo recuerde sacarme de la cripta.
+Â¡Oh, no! Mi pobre hija... Â¿quÃ© ha sido de ti?;Ah, não! Mi pobre hija... o que você fez?
+SÃ­...;SÃ...
+Pobre Julieta... haz los preparativos para que su cuerpo sea colocado en la Cripta...;Pobre Julieta... fez os preparativos para que seu corpo fosse colocado na Cripta...
+...Â¿y Ã©sta es la gran idea para sacarme de aquÃ­?;...Â¿e esta é a grande ideia para sacarme de aqui?
+Â¿QuÃ© son todos esos gritos?;O que são todos esses gritos?
+Oh, sÃ­... puede que tengas razÃ³n... vale, intentÃ©moslo de nuevo.;Oh, é possível que você tenha razão... vale, tentemoslo de novo.
+Right...yes...Ok, ok, I think I'm getting my motivation now. Ok, Â¡intentÃ©moslo de nuevo!;Certo... sim... Ok, ok, acho que estou ganhando motivação agora. Ok, ¡intentémoslo de nuevo!
+Â¡Urk!;¡Urk!
+Y cuando aparezcas muerto... Â¡tu cadÃ¡ver inmÃ³vil y sin vida serÃ¡ trasladado a la cripta!;E quando você aparece morto... seu cadáver inmóvel e sem vida será trasladado à cripta!
+Entonces... Â¡Romeo puede colarse en la cripta y rescatarte justo cuando te despiertas!;Então... ¡Romeo pode colar na cripta e resgatar apenas quando você se despiertas!
+Oh no... Â¿Julieta ha... muerto?;Oh não... Julieta ha... morta?
+Me gustarÃ­a acceder a mi cuenta bancaria, por favor.;Eu gostaria de acessar minha conta bancária, por favor.
+Ah, cÃ¡llate...;Ah, callate...
+Estamos aquÃ­. Â¡Mira, Julieta estÃ¡ ahÃ­!;Estamos aqui. ¡Mira, Julieta está ah!
+Â¡Guau! Â¡Eres un zorro!;¡Guau! Â¡Eres un zorro!
+EscuchÃ© que Julieta habÃ­a muerto. PÃ©simo negocio.;Escute que Julieta havia morrido. Pésimo negócio.
+TÃº acÃ©rcate a ella... y yo irÃ© a esperar aquÃ­...;Tú acércate a ella... y yo iré a esperar aqui...
+Es una pena lo de Juliet... pero Â¿quizÃ¡s podamos vernos mÃ¡s tarde?;Es una pena lo de Juliet... pero Â¿quizás podamos vernos mais tarde?
+Romeo, estÃ¡ todo listo. Juliet ha bebido la pociÃ³n y ha sido llevada a la Cripta... ahora sÃ³lo tienes que aparecer y recogerla.;Romeo, está tudo listado. Juliet bebeu a poção e foi levada à Cripta... agora só tem que aparecer e se lembrar.
+Â¿QuÃ© pociÃ³n serÃ­a esa entonces?;O que seria essa posição então?
+Â¿Julieta....?;¿Julieta....?
+Esto da bastante miedo...;Isso é bastante miedo...
+That useless fool never showed up.;Aquele idiota inútil nunca apareceu.
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh yahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,;Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,
+Oye... Julieta...;Ei... Julieta...
+Aunque su prima y yo nos llevamos bien. Gracias por tu ayuda.;Ainda que sejamos prima e nós nos levaremos bem. Obrigado por sua ajuda.
+Â¡Ah cierto, la pociÃ³n! Excelente...;¡Ah cierto, la poción! Excelente...
+Â¿QuiÃ©n es Julieta?;Quem é Julieta?
+La pociÃ³n de Cadava... ya sabes, Â¡la que la harÃ¡ parecer muerta! Ella estÃ¡ en la cripta, ven y reclama tu verdadero amor.;La poción de Cadava... ya sabes, Â¡la que la hará parece muerta! Ela está na cripta, vem e reclama seu verdadeiro amor.
+Ah, vale... Â¡vamos! Creo que vi la entrada la Ãºltima vez que visitÃ© allÃ­...;Ah, vale... ¡vamos! Creo que vi la entrada la Última vez que visité allÃ...
+Hello, I seem to be getting on really well with that dashing lovely dovely, Romeo. Pity about poor Juliet - she missed out there I reckon!;Olá, parece que estou me dando muito bem com aquele lindo pombinho, Romeu. Pena pela pobre Julieta - ela perdeu lá, eu acho!
+Pero tengo miedo... Â¿vendrÃ¡s conmigo?;Mas eu tengo miedo... Vendrás conmigo?
+Hola Romeo... Â¡Soy Phillipa!;Olá Romeu... Soy Phillipa!
+Now go away before I call my father!;Agora vá embora antes que eu ligue para meu pai!
+I sat in that cold crypt for ages waiting for Romeo.;Fiquei sentado naquela cripta fria por muito tempo esperando por Romeu.
+Dios mÃ­o... pareces estar muerto.;Deus meu... parece estar morto.
+And all I got was indigestion. I am done with men like him.;E tudo que tive foi indigestão. Eu cansei de homens como ele.
+Â¿Tienes alguna armadura para mÃ­, por favor?;Você tem alguma armadura para mim, por favor?
+Me gustarÃ­a revisar mi modo Ironman.;Eu gostaria de revisar meu modo Ironman.
+AhÃ­ tienes. LlÃ©valo con orgullo.;Ahã tienes. Llévalo con orgullo.
+Hola AdÃ¡n.;Olá Adán.
+Â¿Con quÃ© monstruos deberÃ­a luchar?;Com que monstruos deveriam lutar?
+Greetings, adventurer. I am Phileas, the Lumbridge Guide. I am here to give information and directions to new players. You can also speak to my good friend Adventurer Jon about Adventure Paths.;Saudações, aventureiro. Eu sou Phileas, o Guia de Lumbridge. Estou aqui para dar informações e orientações aos novos jogadores. Você também pode falar com meu bom amigo Aventureiro Jon sobre Trilhas de Aventura.
+SÃ­, por favor.;Sim, por favor.
+Â¿DÃ³nde puedo ganar dinero?;Onde posso ganhar dinheiro?
+Â¿DÃ³nde puedo encontrar mÃ¡s informaciÃ³n?;Onde posso encontrar mais informações?
+Well, I've heard my friend the cook is in need of a spot of help. He'll be in the kitchen of this here castle. Just talk to him and he'll set you off.;Bem, ouvi dizer que meu amigo cozinheiro está precisando de ajuda. Ele estará na cozinha deste castelo aqui. Basta falar com ele e ele irá te irritar.
+Â¿Hay algo mÃ¡s con lo que necesites ayuda?;Há algo mais com o que você precisa de ajuda?
+MÃ¡s opciones...;Mais opções...
+Â¿DÃ³nde puedo encontrar una misiÃ³n para continuar?;Onde posso encontrar uma missão para continuar?
+Today is your lucky day, milady! I am donating to the victims of crime to atone for my past actions!;Hoje é seu dia de sorte, senhora! Estou doando às vítimas do crime para expiar minhas ações passadas!
+Â¿Tienes algÃºn kit de inicio de Adventure Path para mÃ­?;Você tem algum kit de início de Adventure Path para mim?
+Mining;Mineração
+More options.;Mais opções.
+Hello [PLAYER_NAME], what can I do for you?;Olá [PLAYER_NAME], o que posso fazer por você?
+Me gustarÃ­a reclamar mis recompensas de Adventure Path.;Eu gostaria de reclamar minhas recompensas de Adventure Path.
+Â¿QuÃ© son los caminos de aventura?;O que são os caminhos de aventura?
+Woodcutting;Xilogravura
+I better be going now.;É melhor eu ir agora.
+Previous options.;Opções anteriores.
+Desactivar rutas de aventura.;Desativar rotas de aventura.
+Gain 150 XP in the skill...;Ganhe 150 XP na habilidade...
+Esa es la Ãºltima de las recompensas que has ganado actualmente. Pero todavÃ­a me quedan algunas recompensas para miembros para darte, visÃ­tame en un mundo de miembros para recibirlas.;Essa é a última das recompensas que ganhou atualmente. Mas hoje você me daria algumas recompensas para membros para dar, visite-me em um mundo de membros para recebê-los.
+Â¿Puedes mostrarme algunos caminos de aventuras?;Você pode me mostrar alguns caminhos de aventura?
+None;Nenhum
+Fishing;Pesca
+You left the shrine. Did Zulrah reject your sacrifice?;Você saiu do santuário. Zulrah rejeitou seu sacrifício?
+He creado algunos Caminos de Aventura con los que te recomiendo que empieces. Un Camino de Aventura es una lista de tareas que puedes completar en cualquier orden.;Ele criou alguns Caminhos de Aventura com os que você recomendou que os completassem. Un Camino de Aventura é uma lista de tarefas que você pode completar em qualquer ordem.
+Una vez que hayas completado una tarea de Adventure Path, regresa conmigo y te darÃ© una recompensa.;Uma vez que você completou uma tarefa do Adventure Path, regresse ao amigo e receba uma recompensa.
+Para ayudarte a comenzar tu Camino de Aventura, tambiÃ©n te darÃ© un kit de inicio con algunos elementos Ãºtiles.;Para ajudá-lo a começar seu Caminho de Aventura, você também precisa de um kit de início com alguns elementos úteis.
+Hace mucho tiempo, yo era un novato como tÃº que no sabÃ­a quÃ© hacer y estarÃ­a mÃ¡s que feliz de transmitir mi experiencia.;Há muito tempo, eu era uma novidade como aquilo que não sabia o que fazer e estaria mais feliz em transmitir minha experiência.
+Boss kill-counts are not blocked by the spam filter.;As contagens de mortes de chefes não são bloqueadas pelo filtro de spam.
+Do not filter them.;Não os filtre.
+Filter them.;Filtre-os.
+Debes pagar un peaje de diez monedas de oro para pasar.;Debes pagar um pedaço de dez moedas de ouro para passar.
+Â¿Puedo pasar por esta puerta?;Posso passar por esta porta?
+Okay, suit yourself.;Ok, fique à vontade.
+No gracias, caminarÃ©.;Não, obrigado, caminaré.
+SÃ­, estÃ¡ bien.;SÃ, estÃ¡ bien.
+Â¿A quiÃ©n va mi dinero?;A quién va mi dinero?
+Â¿Ya te deshiciste del fantasma?;Você já deshiciste del fantasma?
+Greetings, [PLAYER_NAME]. Can I help you with anything, today?;Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?
+You'll have to go right into the far western depths of the swamp, near the coastline. That is where his house is.;Você terá que ir direto para as profundezas do extremo oeste do pântano, perto da costa. É onde fica a casa dele.
+Good day, sister.;Bom dia, irmã.
+Well, you can get to the swamp he lives in by going south through the cemetery.;Bem, você pode chegar ao pântano em que ele mora indo para o sul, passando pelo cemitério.
+What is prayer useful for?;Para que serve a oração?
+No puedo encontrar al Padre Urhney en este momento.;Não foi possível encontrar o Padre Urhney neste momento.
+How can I train my prayer?;Como posso treinar minha oração?
+Back again I see. I can see how you would find these bouts exhilarating, being such a feeble opponent.;De volta, eu vejo. Posso ver como você acharia essas lutas estimulantes, sendo um adversário tão fraco.
+Ah, you have returned. Your competence matches only your greed.;Ah, você voltou. Sua competência corresponde apenas à sua ganância.

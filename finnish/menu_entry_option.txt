@@ -368,3 +368,112 @@ Name Changer;Nimenvaihtaja
 Upgrade Now;Päivitä nyt
 Disable spell filtering;Poista oikeinkirjoituksen suodatus käytöstä
 Close <col=ff9040>Floating panel</col>;Sulje <col=ff9040>Kelluva paneeli</col>
+Ultimate Ironman;Ultimate Ironman
+7 days;7 päivää
+Hardcore Group Ironman;Hardcore Group Ironman
+Unranked Group Ironman;Rankaamaton Group Ironman
+None;Ei mitään
+Group Ironman;Ryhmä Ironman
+Ironman;Ironman
+Hardcore Ironman;Hardcore Ironman
+Proceed;Edetä
+90 days;90 päivää
+Top-floor;Ylin kerros
+Cross;Ylittää
+Smelt;Kuore
+Bait;Syötti
+Toggle warnings;Varoitukset päälle/pois
+Lure;Houkutella
+Buy;Ostaa
+Bury;Haudata
+Check Kudos;Tarkista Kudos
+Look at;Katso
+Light;Kevyt
+Adjust Brightness;Säädä kirkkautta
+Select <col=ff981f>Controls;Valitse <col=ff981f>Säätimet
+Board;hallitus
+Grapple;Koura
+Toggle skull prevention;Toggle kallon esto
+Restore Default Zoom;Palauta oletuszoomaus
+Select <col=ff981f>Interfaces;Valitse <col=ff981f>Liitännät
+Buy-X;Osta-X
+Potions;juomat
+Buy-5;Osta - 5
+Buy-1;Osta-1
+Buy-All;Osta-kaikki
+Show worn items;Näytä kuluneet tuotteet
+Bottom-floor;Alakerta
+Locate;Paikantaa
+Disable Adventure Paths;Poista seikkailupolut käytöstä
+Repair;Korjaus
+Show<col=ff9040> Task information;Näytä<col=ff9040> ​​Tehtävän tiedot
+Expand;Laajentaa
+Show task: <col=ff9040>Getting started with Mining;Näytä tehtävä: <col=ff9040>kaivostoiminnan aloittaminen
+More info;Lisätietoja
+Check reward;Tarkista palkinto
+Show<col=ff9040> Paths;Näytä<col=ff9040> ​​polut
+Claim-trophies;Väitöspalkintoja
+Set<col=ff9040> Focus;Aseta <col=ff9040> ​​Tarkennus
+Show task: <col=ff9040>Getting started with Fishing;Näytä tehtävä: <col=ff9040>Kalastuksen aloittaminen
+Select <col=ff9040>Gatherer path;Valitse <col=ff9040>keräyspolku
+Show task: <col=ff9040>Getting started with Woodcutting;Näytä tehtävä: <col=ff9040>Puunleikkauksen käytön aloittaminen
+Pick-from;Poiminta
+Drop<col=ff9040> Focus;Pudota<col=ff9040> ​​Tarkenna
+Suck;Imeä
+Close dropdown;Sulje pudotusvalikko
+Select <col=ff9040>Combat path;Valitse <col=ff9040>Taistelupolku
+Armour;Panssari
+Show<col=ff9040> Settings;Näytä<col=ff9040> ​​asetukset
+Show <col=ff9040>path reward;Näytä <col=ff9040>polkupalkkio
+View House Options;Katso talovaihtoehdot
+Open Bond Pouch;Avaa Bond-pussi
+Empty containers;Tyhjät säiliöt
+Enable <col=ff9040>Notes;Ota <col=ff9040>muistiinpanot käyttöön
+Enable <col=ff9040>Insert;Ota <col=ff9040>Insert käyttöön
+Age;Ikä
+Enable;Ota käyttöön
+Open Adventure Paths;Avaa Seikkailupolut
+Show task: <col=ff9040>Sharpshooter;Näytä tehtävä: <col=ff9040>Sharpshooter
+Claim;Väite
+Show task: <col=ff9040>Getting started with Magic;Näytä tehtävä: <col=ff9040>Magicin käytön aloittaminen
+Show task: <col=ff9040>Getting a grip on it;Näytä tehtävä: <col=ff9040>Otteen saaminen
+Show task: <col=ff9040>Body builder;Näytä tehtävä: <col=ff9040>Kehonrakentaja
+Show task: <col=ff9040>Getting started with Attack;Näytä tehtävä: <col=ff9040>Attackin käytön aloittaminen
+Show task: <col=ff9040>Striking a pose;Näytä tehtävä: <col=ff9040>Aseman lyöminen
+Show task: <col=ff9040>Honing my aim;Esitystehtävä: <col=ff9040>Tarkoitukseni hiominen
+Show task: <col=ff9040>Bringer of chaos;Näytä tehtävä: <col=ff9040>Kaaoksen tuoja
+Show task: <col=ff9040>Building muscle;Näytä tehtävä: <col=ff9040>Lihaksen rakentaminen
+Show task: <col=ff9040>Mithril defence;Näytä tehtävä: <col=ff9040>Mithrilin puolustus
+Show task: <col=ff9040>Getting started with Defence;Näytä tehtävä: <col=ff9040>puolustuksen käytön aloittaminen
+Show task: <col=ff9040>Getting started with Strength;Näytä tehtävä: <col=ff9040>Voiman käytön aloittaminen
+Show task: <col=ff9040>Sticks and stones;Näytä tehtävä: <col=ff9040>Kepit ja kivet
+Show task: <col=ff9040>Weapons master;Näytä tehtävä: <col=ff9040>Asemestari
+Show task: <col=ff9040>Getting started with Ranged;Näytä tehtävä: <col=ff9040>Rangedin käytön aloittaminen
+Talk-To;Talk-To
+Shut;Kiinni
+Pay-toll(10gp);Maksullinen tietulli (10gp)
+Revert;Palauta
+Deactivate;Poista käytöstä
+Ironman Group;Ironman ryhmä
+Predict;Ennustaa
+Leave;Lähde
+Copy-outfit;Kopio-asu
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Ryhmä:</col> Tyhjennä historia
+Jump;Hypätä
+Challenge;Haaste
+Reanimate;Herättää uudelleen henkiin
+Quick Pass;Pikapassi
+Pass;Syöttö
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Ryhmä:</col> Näytä ystävät
+<col=ffff00>Group:</col> Show all;<col=ffff00>Ryhmä:</col> Näytä kaikki
+<col=ffff00>Group:</col> Show none;<col=ffff00>Ryhmä:</col> ei näytä yhtään
+Quench;Sammuttaa
+Withdraw-18;Nosto-18
+Inside;Sisällä
+Home;Kotiin
+Group;ryhmä
+Deposit-18;Talletus-18
+Build mode;Rakennustila
+Resurrect;Herätä henkiin
+Friend's house;Ystävän talo
+Break;Tauko
