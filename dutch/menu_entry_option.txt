@@ -477,3 +477,121 @@ Build mode;Bouwmodus
 Resurrect;Herrijzen
 Friend's house;Het huis van een vriend
 Break;Pauze
+Rest (private);Rust (privé)
+Equipment;Apparatuur
+Check Charges;Controleer kosten
+Sort;Soort
+Catch;Vangst
+Pick-lots;Pick-lots
+A Dark Disposition;Een donkere instelling
+Jewellery of Jubilation;Sieraden van gejubel
+Store-X;Winkel-X
+Touch;Aanraken
+Lunch by the Lancalliums;Lunch bij de Lancalliums
+Store;Winkel
+Reminisce;Nagenieten
+Shared;Gedeeld
+Dig;Graven
+Store-5;Winkel-5
+Take Seed Dibber;Neem Seed Dibber
+Withdraw all;Alles intrekken
+Upgrade;Upgraden
+Withdraw;Terugtrekken
+The Fisher's Flute;De Vissersfluit
+Store-All;Winkel-Alles
+Take Spade;Neem Spade
+Take Rake;Neem Rake
+Deposit all;Stort alles
+Quick-pass;Snelle pass
+History and Hearsay;Geschiedenis en geruchten
+Store-10;Winkel-10
+Private;Privé
+Spin;Draai
+Churn;Karn
+Shear;Scheer
+Close Activity Adviser;Sluit activiteitenadviseur
+Chart;Grafiek
+Last-destination (AIP);Laatste bestemming (AIP)
+Zoom out;Uitzoomen
+Zanaris;Zanaris
+Buy 50;Koop 50
+Value;Waarde
+Buy 10;Koop 10
+Buy 1;Koop 1
+Buy-50;Koop-50
+Buy 5;Koop 5
+Climb-over;Klim eroverheen
+Milk;Melk
+Take-axe;Neem-bijl
+Steal-cowbell;Steel-koebel
+View Newspost;Bekijk Nieuwsbericht
+View History;Geschiedenis bekijken
+New tab;Nieuw tabblad
+Collapse;Instorten
+New tag tab;Nieuw tagtabblad
+Import tag tab;Tabblad Importtag
+View tag tabs;Bekijk tagtabbladen
+View journal <col=ff981f>The Restless Ghost</col>;Bekijk dagboek <col=ff981f>De rusteloze geest</col>
+View all items;Bekijk alle artikelen
+Rotate-clockwise;Draai met de klok mee
+Pick-up;Ophalen
+Rotate-anticlockwise;Draaien tegen de klok in
+Release-bees;Vrijlating-bijen
+Dig-up;Opgraven
+Change;Wijziging
+Remove board advert;Bordadvertentie verwijderen
+Teleport Menu;Teleport-menu
+Attach;Bijvoegen
+Lock;Slot
+Sit-on;Zitten
+Metamorphosis;Metamorfose
+Fossil Island;Fossiel eiland
+Configuration;Configuratie
+Teleport menu;Teleport-menu
+Great Kourend;Grote Kourend
+Fill;Vullen
+Chop;Karbonade
+View journal <col=ff981f>X Marks the Spot</col>;Bekijk dagboek <col=ff981f>X Marks the Spot</col>
+Sell 50<col=ff9040>;Verkoop 50<col=ff9040>
+Sell 10<col=ff9040>;Verkoop 10<col=ff9040>
+Sell 1<col=ff9040>;Verkoop 1<col=ff9040>
+Buy-10;Koop-10
+Value<col=ff9040>;Waarde<col=ff9040>
+Feel;Gevoel
+Sell 5<col=ff9040>;Verkoop 5<col=ff9040>
+Steal from;Steel van
+Herblore;Herblore
+Strength;Kracht
+Woodcutting;Houtsnijden
+Farming;Landbouw
+Crafting;Knutselen
+Hitpoints;Hitpunten
+View journal <col=ff981f>Cook's Assistant</col>;Bekijk dagboek <col=ff981f>Kokassistent</col>
+Fishing;Vissen
+Construction;Bouw
+Climb-into;Klim erin
+Mining;Mijnbouw
+Ranged;Bereikt
+Slayer;Moordenaar
+Agility;Wendbaarheid
+Fletching;Fletching
+Sailing;Zeilen
+Operate;Bedienen
+View journal <col=ff981f>Romeo & Juliet</col>;Bekijk dagboek <col=ff981f>Romeo & Julia</col>
+Take-flyer;Neem-flyer
++100;+100
++10;+10
+-1;-1
+Back;Rug
++1K;+1K
+Choose item;Kies artikel
+Flash icons;Flitspictogrammen
+Sacrifice;Offer
+Take-All;Neem alles
+Jump-in;Spring erin
+View journal <col=ff981f>Rune Mysteries</col>;Bekijk dagboek <col=ff981f>Rune Mysteries</col>
+Coffer;Koffer
+Picklock;Inbreker
+Switch world;Wissel van wereld
+Pass-Through;Doorgang
+Small Net;Klein Net

@@ -477,3 +477,121 @@ Build mode;Byggläge
 Resurrect;Återuppväcka
 Friend's house;Vännens hus
 Break;Bryta
+Rest (private);Vila (privat)
+Equipment;Utrustning
+Check Charges;Kontrollera avgifter
+Sort;Sortera
+Catch;Fånga
+Pick-lots;Plockpartier
+A Dark Disposition;En mörk disposition
+Jewellery of Jubilation;Jubelsmycken
+Store-X;Store-X
+Touch;Röra
+Lunch by the Lancalliums;Lunch vid Lancalliums
+Store;Lagra
+Reminisce;Minnas
+Shared;Delad
+Dig;Gräva
+Store-5;Butik-5
+Take Seed Dibber;Ta Seed Dibber
+Withdraw all;Dra tillbaka alla
+Upgrade;Uppgradera
+Withdraw;Dra tillbaka
+The Fisher's Flute;Fiskarflöjten
+Store-All;Store-Alla
+Take Spade;Ta Spade
+Take Rake;Ta Rake
+Deposit all;Sätt in allt
+Quick-pass;Snabbpass
+History and Hearsay;Historia och hörsägen
+Store-10;Butik-10
+Private;Privat
+Spin;Snurra
+Churn;Churn
+Shear;Klippa
+Close Activity Adviser;Stäng aktivitetsrådgivare
+Chart;Diagram
+Last-destination (AIP);Sista destination (AIP)
+Zoom out;Zooma ut
+Zanaris;Zanaris
+Buy 50;Köp 50
+Value;Värde
+Buy 10;Köp 10
+Buy 1;Köp 1
+Buy-50;Köp-50
+Buy 5;Köp 5
+Climb-over;Klättra över
+Milk;Mjölk
+Take-axe;Ta yxa
+Steal-cowbell;Stjäla-koklocka
+View Newspost;Se nyhetsinlägg
+View History;Visa historik
+New tab;Ny flik
+Collapse;Kollapsa
+New tag tab;Ny taggflik
+Import tag tab;Fliken Importera tagg
+View tag tabs;Visa taggflikar
+View journal <col=ff981f>The Restless Ghost</col>;Visa journalen <col=ff981f>The Restless Ghost</col>
+View all items;Visa alla objekt
+Rotate-clockwise;Vrid medurs
+Pick-up;Upphämtning
+Rotate-anticlockwise;Vrid moturs
+Release-bees;Släpp-bin
+Dig-up;Gräva upp
+Change;Ändra
+Remove board advert;Ta bort brädannonsen
+Teleport Menu;Teleportera meny
+Attach;Bifoga
+Lock;Låsa
+Sit-on;Sitt på
+Metamorphosis;Metamorfos
+Fossil Island;Fossil Island
+Configuration;Konfiguration
+Teleport menu;Teleportera meny
+Great Kourend;Bra Kourend
+Fill;Fylla
+Chop;Hugga
+View journal <col=ff981f>X Marks the Spot</col>;Visa journal <col=ff981f>X Marks the Spot</col>
+Sell 50<col=ff9040>;Sälj 50<col=ff9040>
+Sell 10<col=ff9040>;Sälj 10<col=ff9040>
+Sell 1<col=ff9040>;Sälj 1<col=ff9040>
+Buy-10;Köp-10
+Value<col=ff9040>;Värde<col=ff9040>
+Feel;Känsla
+Sell 5<col=ff9040>;Sälj 5<col=ff9040>
+Steal from;Stjäla från
+Herblore;Herblore
+Strength;Styrka
+Woodcutting;Trähuggning
+Farming;Jordbruk
+Crafting;Hantverk
+Hitpoints;Träffpunkter
+View journal <col=ff981f>Cook's Assistant</col>;Visa journal <col=ff981f>Kockassistent</col>
+Fishing;Fiske
+Construction;Konstruktion
+Climb-into;Klättra in i
+Mining;Brytning
+Ranged;Avstånd
+Slayer;Baneman
+Agility;Rörlighet
+Fletching;Fletching
+Sailing;Segling
+Operate;Fungera
+View journal <col=ff981f>Romeo & Juliet</col>;Se tidskriften <col=ff981f>Romeo & Julia</col>
+Take-flyer;Take-flyer
++100;+100
++10;+10
+-1;-1
+Back;Tillbaka
++1K;+1K
+Choose item;Välj objekt
+Flash icons;Flash ikoner
+Sacrifice;Offra
+Take-All;Take-All
+Jump-in;Hoppa in
+View journal <col=ff981f>Rune Mysteries</col>;Visa journalen <col=ff981f>Rune Mysteries</col>
+Coffer;Kista
+Picklock;Picklock
+Switch world;Byt värld
+Pass-Through;Pass-Through
+Small Net;Litet nät

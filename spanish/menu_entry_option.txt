@@ -477,3 +477,121 @@ Build mode;Modo de construcción
 Resurrect;Resucitar
 Friend's house;casa de un amigo
 Break;Romper
+Rest (private);Descanso (privado)
+Equipment;Equipo
+Check Charges;Consultar cargos
+Sort;Clasificar
+Catch;Atrapar
+Pick-lots;lotes de recogida
+A Dark Disposition;Una disposición oscura
+Jewellery of Jubilation;Joyas de júbilo
+Store-X;Tienda-X
+Touch;Tocar
+Lunch by the Lancalliums;Almuerzo junto a los Lancallium
+Store;Almacenar
+Reminisce;Recordar viejas historias
+Shared;Compartido
+Dig;Excavar
+Store-5;Tienda-5
+Take Seed Dibber;Tome el excavador de semillas
+Withdraw all;Retirar todo
+Upgrade;Mejora
+Withdraw;Retirar
+The Fisher's Flute;La flauta del pescador
+Store-All;Tienda-Todo
+Take Spade;tomar pala
+Take Rake;tomar rastrillo
+Deposit all;Depositar todo
+Quick-pass;pase rápido
+History and Hearsay;Historia y rumores
+Store-10;Tienda-10
+Private;Privado
+Spin;Girar
+Churn;Batir
+Shear;Cortar
+Close Activity Adviser;Cerrar Asesor de actividad
+Chart;Cuadro
+Last-destination (AIP);Último destino (AIP)
+Zoom out;alejar
+Zanaris;Zanaris
+Buy 50;comprar 50
+Value;Valor
+Buy 10;Compra 10
+Buy 1;Compra 1
+Buy-50;Compra-50
+Buy 5;Compra 5
+Climb-over;trepar
+Milk;Leche
+Take-axe;hacha
+Steal-cowbell;robar cencerro
+View Newspost;Ver publicación de noticias
+View History;Ver historial
+New tab;Nueva pestaña
+Collapse;Colapsar
+New tag tab;Nueva pestaña de etiqueta
+Import tag tab;Importar pestaña de etiqueta
+View tag tabs;Ver pestañas de etiquetas
+View journal <col=ff981f>The Restless Ghost</col>;Ver diario <col=ff981f>El fantasma inquieto</col>
+View all items;Ver todos los artículos
+Rotate-clockwise;Girar en el sentido de las agujas del reloj
+Pick-up;Levantar
+Rotate-anticlockwise;Girar en sentido antihorario
+Release-bees;abejas liberadoras
+Dig-up;desenterrar
+Change;Cambiar
+Remove board advert;Quitar anuncio del foro
+Teleport Menu;Menú de teletransporte
+Attach;Adjuntar
+Lock;Cerrar
+Sit-on;sentarse
+Metamorphosis;Metamorfosis
+Fossil Island;isla fósil
+Configuration;Configuración
+Teleport menu;Menú de teletransporte
+Great Kourend;Gran Kurend
+Fill;Llenar
+Chop;Cortar
+View journal <col=ff981f>X Marks the Spot</col>;Ver diario <col=ff981f>La X marca el lugar</col>
+Sell 50<col=ff9040>;Vender 50<col=ff9040>
+Sell 10<col=ff9040>;Vender 10<col=ff9040>
+Sell 1<col=ff9040>;Vender 1<col=ff9040>
+Buy-10;Compra-10
+Value<col=ff9040>;Valor<col=ff9040>
+Feel;Sentir
+Sell 5<col=ff9040>;Vender 5<col=ff9040>
+Steal from;robar de
+Herblore;herblore
+Strength;Fortaleza
+Woodcutting;tala de madera
+Farming;Agricultura
+Crafting;Elaboración
+Hitpoints;Puntos de vida
+View journal <col=ff981f>Cook's Assistant</col>;Ver diario <col=ff981f>Asistente de cocinero</col>
+Fishing;Pesca
+Construction;Construcción
+Climb-into;Subir a
+Mining;Minería
+Ranged;a distancia
+Slayer;Asesino
+Agility;Agilidad
+Fletching;Flechando
+Sailing;Navegación
+Operate;Funcionar
+View journal <col=ff981f>Romeo & Juliet</col>;Ver diario <col=ff981f>Romeo y Julieta</col>
+Take-flyer;Tomar folleto
++100;+100
++10;+10
+-1;-1
+Back;Atrás
++1K;+1K
+Choose item;Elige artículo
+Flash icons;Iconos flash
+Sacrifice;Sacrificio
+Take-All;Toma todo
+Jump-in;Saltar
+View journal <col=ff981f>Rune Mysteries</col>;Ver diario <col=ff981f>Rune Mysteries</col>
+Coffer;Cofre
+Picklock;Ganzúa
+Switch world;Cambiar mundo
+Pass-Through;Transferencia
+Small Net;Red pequeña

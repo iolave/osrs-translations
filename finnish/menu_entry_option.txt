@@ -477,3 +477,121 @@ Build mode;Rakennustila
 Resurrect;Herätä henkiin
 Friend's house;Ystävän talo
 Break;Tauko
+Rest (private);Lepo (yksityinen)
+Equipment;Laitteet
+Check Charges;Tarkista maksut
+Sort;Järjestellä
+Catch;Saalis
+Pick-lots;Poimintaerät
+A Dark Disposition;Tumma asenne
+Jewellery of Jubilation;Riemutuksen korut
+Store-X;Kauppa-X
+Touch;Kosketa
+Lunch by the Lancalliums;Lounas Lancalliumsissa
+Store;Store
+Reminisce;Muistele
+Shared;Jaettu
+Dig;Kaivaa
+Store-5;Kauppa-5
+Take Seed Dibber;Ota Seed Dibber
+Withdraw all;Poista kaikki
+Upgrade;Päivitä
+Withdraw;Peruuttaa
+The Fisher's Flute;Kalastajan huilu
+Store-All;Store-Kaikki
+Take Spade;Ota Spade
+Take Rake;Ota Rake
+Deposit all;Talleta kaikki
+Quick-pass;Pikapassi
+History and Hearsay;Historiaa ja kuulopuheita
+Store-10;Kauppa-10
+Private;Yksityinen
+Spin;Pyöritä
+Churn;Churn
+Shear;Leikkaus
+Close Activity Adviser;Sulje Activity Adviser
+Chart;Kartoittaa
+Last-destination (AIP);Viimeinen kohde (AIP)
+Zoom out;Loitonna
+Zanaris;Zanaris
+Buy 50;Osta 50
+Value;Arvo
+Buy 10;Osta 10
+Buy 1;Osta 1
+Buy-50;Osta - 50
+Buy 5;Osta 5
+Climb-over;Kiipeä yli
+Milk;Maito
+Take-axe;Ota kirves
+Steal-cowbell;Varasta-lehmänkello
+View Newspost;Katso Newspost
+View History;Näytä historia
+New tab;Uusi välilehti
+Collapse;Romahdus
+New tag tab;Uusi tagi-välilehti
+Import tag tab;Tuo tagi -välilehti
+View tag tabs;Näytä tunnistevälilehdet
+View journal <col=ff981f>The Restless Ghost</col>;Näytä päiväkirja <col=ff981f>The Restless Ghost</col>
+View all items;Näytä kaikki kohteet
+Rotate-clockwise;Kierrä myötäpäivään
+Pick-up;Nouto
+Rotate-anticlockwise;Kierrä vastapäivään
+Release-bees;Vapautus-mehiläiset
+Dig-up;Kaivaminen ylös
+Change;Muuttaa
+Remove board advert;Poista tauluilmoitus
+Teleport Menu;Teleport valikko
+Attach;Liittää
+Lock;Lukko
+Sit-on;Istua
+Metamorphosis;Metamorfoosi
+Fossil Island;Fossiilinen saari
+Configuration;Kokoonpano
+Teleport menu;Teleport-valikko
+Great Kourend;Hieno Kourend
+Fill;Täyttää
+Chop;Pilko
+View journal <col=ff981f>X Marks the Spot</col>;Näytä päiväkirja <col=ff981f>X Marks the Spot</col>
+Sell 50<col=ff9040>;Myy 50<col=ff9040>
+Sell 10<col=ff9040>;Myy 10<col=ff9040>
+Sell 1<col=ff9040>;Myy 1<col=ff9040>
+Buy-10;Osta - 10
+Value<col=ff9040>;Arvo<col=ff9040>
+Feel;Tunne
+Sell 5<col=ff9040>;Myy 5<col=ff9040>
+Steal from;Varasta
+Herblore;Herblore
+Strength;Vahvuus
+Woodcutting;Puunleikkaus
+Farming;Maatalous
+Crafting;Käsityö
+Hitpoints;Hit-pisteet
+View journal <col=ff981f>Cook's Assistant</col>;Näytä päiväkirja <col=ff981f>Kokin assistentti</col>
+Fishing;Kalastus
+Construction;Rakentaminen
+Climb-into;Kiipeä sisään
+Mining;Kaivostoiminta
+Ranged;Etäisyys
+Slayer;Slayer
+Agility;Ketteryys
+Fletching;Fletching
+Sailing;Purjehdus
+Operate;Toimi
+View journal <col=ff981f>Romeo & Juliet</col>;Näytä päiväkirja <col=ff981f>Romeo & Julia</col>
+Take-flyer;Take flyer
++100;+100
++10;+10
+-1;-1
+Back;Takaisin
++1K;+1K
+Choose item;Valitse kohde
+Flash icons;Flash-kuvakkeet
+Sacrifice;Uhrata
+Take-All;Take-All
+Jump-in;Hyppää sisään
+View journal <col=ff981f>Rune Mysteries</col>;Näytä päiväkirja <col=ff981f>Riimumysteerit</col>
+Coffer;Kassa
+Picklock;Tiirikka
+Switch world;Vaihda maailmaa
+Pass-Through;Läpikulku
+Small Net;Pieni verkko

@@ -477,3 +477,121 @@ Build mode;Build-Modus
 Resurrect;Auferstehen
 Friend's house;Das Haus eines Freundes
 Break;Brechen
+Rest (private);Ruhe (privat)
+Equipment;Ausrüstung
+Check Charges;Überprüfen Sie die Gebühren
+Sort;Sortieren
+Catch;Fangen
+Pick-lots;Pick-Lots
+A Dark Disposition;Eine dunkle Veranlagung
+Jewellery of Jubilation;Schmuck des Jubels
+Store-X;Store-X
+Touch;Berühren
+Lunch by the Lancalliums;Mittagessen bei den Lancalliums
+Store;Speichern
+Reminisce;Erinnern Sie sich
+Shared;Geteilt
+Dig;Graben
+Store-5;Store-5
+Take Seed Dibber;Nehmen Sie Seed Dibber
+Withdraw all;Alle zurückziehen
+Upgrade;Upgrade
+Withdraw;Zurückziehen
+The Fisher's Flute;Die Fischerflöte
+Store-All;Store-All
+Take Spade;Nimm Spaten
+Take Rake;Nimm Rake
+Deposit all;Zahlen Sie alles ein
+Quick-pass;Schneller Pass
+History and Hearsay;Geschichte und Hörensagen
+Store-10;Store-10
+Private;Privat
+Spin;Drehen
+Churn;Abwanderung
+Shear;Scheren
+Close Activity Adviser;Aktivitätsberater schließen
+Chart;Diagramm
+Last-destination (AIP);Letztes Ziel (AIP)
+Zoom out;Herauszoomen
+Zanaris;Zanaris
+Buy 50;Kaufen Sie 50
+Value;Wert
+Buy 10;Kaufen Sie 10
+Buy 1;Kaufen Sie 1
+Buy-50;Kaufen-50
+Buy 5;Kaufen Sie 5
+Climb-over;Überklettern
+Milk;Milch
+Take-axe;Nehmen Sie die Axt
+Steal-cowbell;Kuhglocke stehlen
+View Newspost;Newsbeitrag anzeigen
+View History;Verlauf anzeigen
+New tab;Neuer Tab
+Collapse;Zusammenbruch
+New tag tab;Neuer Tag-Tab
+Import tag tab;Registerkarte „Tag importieren“.
+View tag tabs;Tag-Registerkarten anzeigen
+View journal <col=ff981f>The Restless Ghost</col>;Tagebuch <col=ff981f>The Restless Ghost</col> ansehen
+View all items;Alle Artikel anzeigen
+Rotate-clockwise;Im Uhrzeigersinn drehen
+Pick-up;Abholen
+Rotate-anticlockwise;Gegen den Uhrzeigersinn drehen
+Release-bees;Freilassungsbienen
+Dig-up;Ausgraben
+Change;Ändern
+Remove board advert;Board-Werbung entfernen
+Teleport Menu;Teleport-Menü
+Attach;Befestigen
+Lock;Sperren
+Sit-on;Sitzen
+Metamorphosis;Metamorphose
+Fossil Island;Fossile Insel
+Configuration;Konfiguration
+Teleport menu;Teleport-Menü
+Great Kourend;Großer Kourend
+Fill;Füllen
+Chop;Hacken
+View journal <col=ff981f>X Marks the Spot</col>;Tagebuch ansehen <col=ff981f>X Marks the Spot</col>
+Sell 50<col=ff9040>;Verkaufe 50<col=ff9040>
+Sell 10<col=ff9040>;Verkaufe 10<col=ff9040>
+Sell 1<col=ff9040>;Verkaufe 1<col=ff9040>
+Buy-10;Kaufen-10
+Value<col=ff9040>;Wert<col=ff9040>
+Feel;Fühlen
+Sell 5<col=ff9040>;Verkaufe 5<col=ff9040>
+Steal from;Stehlen von
+Herblore;Pflanzenkunde
+Strength;Stärke
+Woodcutting;Holzfällerei
+Farming;Landwirtschaft
+Crafting;Basteln
+Hitpoints;Trefferpunkte
+View journal <col=ff981f>Cook's Assistant</col>;Tagebuch <col=ff981f>Cook's Assistant</col> ansehen
+Fishing;Angeln
+Construction;Konstruktion
+Climb-into;Einsteigen
+Mining;Bergbau
+Ranged;Fernkampf
+Slayer;Jäger
+Agility;Beweglichkeit
+Fletching;Befiederung
+Sailing;Segeln
+Operate;Arbeiten
+View journal <col=ff981f>Romeo & Juliet</col>;Tagebuch <col=ff981f>Romeo und Julia</col> ansehen
+Take-flyer;Take-Flyer
++100;+100
++10;+10
+-1;-1
+Back;Zurück
++1K;+1K
+Choose item;Artikel auswählen
+Flash icons;Flash-Symbole
+Sacrifice;Opfern
+Take-All;Take-All
+Jump-in;Einspringen
+View journal <col=ff981f>Rune Mysteries</col>;Tagebuch <col=ff981f>Rune Mysteries</col> ansehen
+Coffer;Truhe
+Picklock;Dietrich
+Switch world;Welt wechseln
+Pass-Through;Durchgang
+Small Net;Kleines Netz
