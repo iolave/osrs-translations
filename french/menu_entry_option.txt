@@ -477,3 +477,121 @@ Build mode;Mode construction
 Resurrect;Ressusciter
 Friend's house;La maison d'un ami
 Break;Casser
+Rest (private);Repos (privé)
+Equipment;Équipement
+Check Charges;Vérifier les frais
+Sort;Trier
+Catch;Attraper
+Pick-lots;Lots à la tire
+A Dark Disposition;Un tempérament sombre
+Jewellery of Jubilation;Bijoux de jubilation
+Store-X;Magasin-X
+Touch;Touche
+Lunch by the Lancalliums;Déjeuner chez les Lancallium
+Store;Magasin
+Reminisce;Souvenir
+Shared;Commun
+Dig;Creuser
+Store-5;Magasin-5
+Take Seed Dibber;Prenez du semoir
+Withdraw all;Tout retirer
+Upgrade;Mise à niveau
+Withdraw;Retirer
+The Fisher's Flute;La flûte du pêcheur
+Store-All;Tout stocker
+Take Spade;Prends la pelle
+Take Rake;Prenez le râteau
+Deposit all;Déposez tout
+Quick-pass;Passe rapide
+History and Hearsay;Histoire et ouï-dire
+Store-10;Magasin-10
+Private;Privé
+Spin;Rotation
+Churn;Baratte
+Shear;Tondre
+Close Activity Adviser;Conseiller d'activité proche
+Chart;Graphique
+Last-destination (AIP);Dernière destination (AIP)
+Zoom out;Zoom arrière
+Zanaris;Zanaris
+Buy 50;Achetez-en 50
+Value;Valeur
+Buy 10;Achetez-en 10
+Buy 1;Achetez-en 1
+Buy-50;Acheter-50
+Buy 5;Achetez-en 5
+Climb-over;Grimper
+Milk;Lait
+Take-axe;Prendre une hache
+Steal-cowbell;Voler une cloche
+View Newspost;Voir le message
+View History;Afficher l'historique
+New tab;Nouvel onglet
+Collapse;Effondrement
+New tag tab;Nouvel onglet de balise
+Import tag tab;Onglet Importer la balise
+View tag tabs;Afficher les onglets de balises
+View journal <col=ff981f>The Restless Ghost</col>;Voir le journal <col=ff981f>Le fantôme agité</col>
+View all items;Afficher tous les articles
+Rotate-clockwise;Tourner dans le sens des aiguilles d'une montre
+Pick-up;Ramasser
+Rotate-anticlockwise;Rotation dans le sens inverse des aiguilles d'une montre
+Release-bees;Libération-abeilles
+Dig-up;Déterrer
+Change;Changement
+Remove board advert;Supprimer l'annonce du forum
+Teleport Menu;Menu de téléportation
+Attach;Attacher
+Lock;Verrouillage
+Sit-on;Assis
+Metamorphosis;Métamorphose
+Fossil Island;Île fossile
+Configuration;Configuration
+Teleport menu;Menu de téléportation
+Great Kourend;Grand Kourend
+Fill;Remplir
+Chop;Hacher
+View journal <col=ff981f>X Marks the Spot</col>;Afficher le journal <col=ff981f>X marque le point</col>
+Sell 50<col=ff9040>;Vendre 50<col=ff9040>
+Sell 10<col=ff9040>;Vendre 10<col=ff9040>
+Sell 1<col=ff9040>;Vendre 1<col=ff9040>
+Buy-10;Acheter-10
+Value<col=ff9040>;Valeur<col=ff9040>
+Feel;Sentir
+Sell 5<col=ff9040>;Vendre 5<col=ff9040>
+Steal from;Voler de
+Herblore;Herborerie
+Strength;Force
+Woodcutting;Coupe du bois
+Farming;Agriculture
+Crafting;Artisanat
+Hitpoints;Points de vie
+View journal <col=ff981f>Cook's Assistant</col>;Afficher le journal <col=ff981f>Assistant du cuisinier</col>
+Fishing;Pêche
+Construction;Construction
+Climb-into;Montez dans
+Mining;Exploitation minière
+Ranged;À distance
+Slayer;Tueur
+Agility;Agilité
+Fletching;Empennage
+Sailing;Voile
+Operate;Fonctionner
+View journal <col=ff981f>Romeo & Juliet</col>;Voir le journal <col=ff981f>Roméo et Juliette</col>
+Take-flyer;Dépliant à emporter
++100;+100
++10;+10
+-1;-1
+Back;Dos
++1K;+1K
+Choose item;Choisir l'article
+Flash icons;Icônes Flash
+Sacrifice;Sacrifier
+Take-All;À emporter
+Jump-in;Participez
+View journal <col=ff981f>Rune Mysteries</col>;Afficher le journal <col=ff981f>Rune Mysteries</col>
+Coffer;Coffre
+Picklock;Crochet
+Switch world;Changer de monde
+Pass-Through;Passage
+Small Net;Petit filet
