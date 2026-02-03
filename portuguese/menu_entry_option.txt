@@ -595,3 +595,32 @@ Picklock;Gazua
 Switch world;Mudar de mundo
 Pass-Through;Passagem
 Small Net;Rede pequena
+Okay;OK
+Perform <col=ff9040>Relic unlock</col>;Execute o <col=ff9040>desbloqueio de relíquia</col>
+Comercio;Comércio
+Carterista;carterista
+Examinar;Exame
+Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Aberto
+Tronchar;Tronchar
+Hablar con;Conversar com
+Take-Coffin;Pegue-caixão
+Pay;Pagar
+Other quantity;Outra quantidade
+5;5 
+Make;Fazer
+Move;Mover
+Jump-up;Saltar para cima
+Scatter;Dispersão
+Check Name;Verifique o nome
+Balance;Equilíbrio
+Contents;Conteúdo
+Talk to;Falar com
+Zoom in;Ampliar
+Useful Links;Links úteis
+Burn;Queimar
+10;10 
+Stornieren;Stornieren

@@ -53898,3 +53898,144 @@ Hello, chum, fancy buyin' some designer jewellery? They've come all the way from
 I'm Nigel. It is my job to tell you about Deadman Mode.;Eu sou Nigel. É meu trabalho contar a vocês sobre o Modo Deadman.
 Hey, who said you could use that?;Ei, quem disse que você poderia usar isso?
 You're still hunting greater demons in the Wilderness; you have 78 to go. Come back when you're finished.;Você ainda está caçando demônios maiores na Terra Selvagem; você tem 78 para ir. Volte quando terminar.
+Conte-me sobre os Homens de Ferro.;Conte-me sobre os Homens de Ferro.
+Tenho uma pergunta sobre meu DiÃ¡rio de Conquistas;Tenho uma pergunta sobre meu Diário de Conquistas
+Eu estou bem, obrigado.;Eu estou bem, obrigado.
+Tchau!;Tchau!
+I really want to stop being an Ironman.;Eu realmente quero parar de ser um Ironman.
+I'd like to stay as an Ironman.;Eu gostaria de continuar como Ironman.
+You're due to stop being an Ironman in 7 days. Are you sure you want that? Wouldn't you rather stay as an Ironman?;Você deixará de ser um Ironman em 7 dias. Tem certeza que quer isso? Você não preferiria continuar como Ironman?
+Gostaria de revisar meu modo Ironman.;Gostaria de revisar meu modo Ironman.
+Bom dia.;Bom dia.
+Hail, Ironman! What can I do for you?;Salve, Homem de Ferro! O que posso fazer para você?
+VocÃª tem alguma armadura para mim, por favor?;Você tem alguma armadura para mim, por favor?
+Quem Ã© vocÃª?;Quem é você?
+OlÃ¡, AdÃ£o.;Olá, Adão.
+Stop checking my combat level - I can take anything!;Pare de verificar meu nível de combate - posso aguentar qualquer coisa!
+The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard.;Os Slayer Masters levarão em consideração o seu nível de combate ao escolher as tarefas para você, então você não deve fazer nada muito difícil.
+That's fine - I don't want anything too tough.;Tudo bem - não quero nada muito difícil.
+Okay, we'll keep checking your combat level.;Ok, continuaremos verificando seu nível de combate.
+Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level.;Ok, de agora em diante, todos os Slayer Masters atribuirão a você qualquer coisa de suas listas, independentemente do seu nível de combate.
+Bem-vindo Ã  igreja do santo Saradomin.;Bem-vindo à igreja do santo Saradomin.
+Belo lugar que vocÃª tem aqui.;Belo lugar que você tem aqui.
+Estou procurando uma missÃ£o!;Estou procurando uma missão!
+Quem Ã© Saradomin?;Quem é Saradomin?
+Estou procurando uma missÃ£o.;Estou procurando uma missão.
+Que sorte, preciso que alguÃ©m faÃ§a uma missÃ£o para mim.;Que sorte, preciso que alguém faça uma missão para mim.
+Onde estou?;Onde estou?
+<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>;<col=000000>Há alguma missão que eu possa fazer aqui?</col>
+HÃ¡ alguma missÃ£o que eu possa fazer aqui?;Há alguma missão que eu possa fazer aqui?
+O cadarÃ§o do seu sapato estÃ¡ desamarrado.;O cadastro do seu sapato está desamarrado.
+<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>;<col=000000>O cadastro do seu sapato está desamarrado.</col>
+<col=000000></col>;<col=000000></col>
+Como vocÃª estÃ¡ hoje?;Como você está hoje?
+<col=000000>Hello there, can I help you?</col>;<col=000000>Olá, posso ajudar você?</col>
+<col=000000>Onde estou?</col>;<col=000000>Onde estou?</col>
+<col=000000>Selecione uma opÃ§Ã£o</col>;<col=000000>Selecione uma opção</col>
+<col=000000>Como vocÃª estÃ¡ hoje?</col>;<col=000000>Como você está hoje?</col>
+OlÃ¡, posso ajudÃ¡-lo?;Olá, posso ajudá-lo?
+Vim recuperar sua casa.;Vim recuperar sua casa.
+Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problemas ele se meteu desta vez?;Acho que é melhor falar com você então. Em que problemas ele se meteu desta vez?
+Iniciar a missÃ£o The Restless Ghost?;Iniciar a missão The Restless Ghost?
+Quer dizer que ele se mete em muitos problemas?;Quer dizer que ele se mete em muitos problemas?
+A propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.;A propósito, meu nome é Padre Aereck. Prazer em saber.
+NÃ£o.;Não.
+Obrigado. O problema Ã© que hÃ¡ um fantasma no cemitÃ©rio da igreja. Eu gostaria que vocÃª se livrasse disso.;Obrigado. O problema é que há um fantasma no cemitério da igreja. Eu gostaria que você se livrasse disso.
+VÃ¡ embora! Estou meditando!;Vá embora! Estou meditando!
+Sim.;Sim.
+Bem, isso Ã© amigÃ¡vel.;Bem, isso é amigável.
+Oh, o idiota bobo.;Oh, idiota, bobo.
+Ele tem um fantasma assombrando seu cemitÃ©rio.;Ele tem um fantasma assombrando seu cemitério.
+Ok, deixe-me ajudar entÃ£o.;Ok, deixe-me ajudar.
+Padre Aereck me enviou para falar com vocÃª.;Padre Aereck me inveja para falar com você.
+Qual Ã© o problema entÃ£o?;Qual é o problema então?
+Oh! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.;Oh! É o seu amuleto que está fazendo isso! Eu me quero. Suponho que você não pode me ajudar? Eu não gosto de ser um fantasma.
+It is so dull being a ghost...;É tão chato ser um fantasma...
+Na verdade nÃ£o Ã© muito bom.;Na verdade não é muito bom.
+NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.;Não, parece que você está falando bobagem comigo.
+Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?;Sim, tudo bem. Você sabe por que você é um fantasma?
+OlÃ¡ fantasma, como vocÃª estÃ¡?;Olá fantasma, como você está?
+NÃ£o, vocÃª Ã© assustador!;Não, você está assustador!
+Uau, esse amuleto funciona!;Uau, esse amuleto funciona!
+VocÃª entendeu o que eu disse???;Você entendeu o que eu disse???
+Sim, agora me diga qual Ã© o problema.;Sim, agora me diga qual é o problema.
+Viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!;Viva! Agora posso deixar de ser um fantasma! Você só precisa colocá-lo no meu caixão e estarei livre!
+Liberar! Obrigado estranho..;Liberal! Obrigado estranho..
+Desculpe, estou ocupado.;Desculpe, estou ocupado.
+Bem, existem quatro anÃ©is de explorador diferentes, que combinam com os quatro nÃ­veis de dificuldade. Cada um tem as mesmas recompensas do nÃ­vel anterior e alguns benefÃ­cios adicionais tambÃ©m... qual nÃ­vel de recompensas vocÃª gostaria de obter;Bem, existem quatro anos de explorador diferentes, que combinam com os quatro anos de dificuldade. Cada um tem as mesmas recompensas do nível anterior e alguns benefícios adicionais também... qual número de recompensas você gostaria de obter
+O que Ã© o DiÃ¡rio de Conquistas?;O que é o Diário de Conquistas?
+Tenho uma pergunta sobre meu diÃ¡rio de conquistas.;Tenho uma pergunta sobre meu diário de conquistas.
+Quais sÃ£o as recompensas?;Quais são as recompensas?
+I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone.;Preciso que você pegue o caixão de cada sepultura, veja quem está dentro dele e enterre-o na sepultura com a lápide correta.
+Wonderful! That's taken care of them. I'll take you back, and give you your reward.;Maravilhoso! Isso é cuidado com eles. Vou levá-lo de volta e lhe dar sua recompensa.
+Okay, I'll help with your graves.;Ok, vou ajudar com seus túmulos.
+Can you come and help me, [PLAYER_NAME]? I've got a problem with some graves.;Você pode vir me ajudar, [PLAYER_NAME]? Tenho um problema com algumas sepulturas.
+know more about?;saber mais sobre?
+I think I've finished!;Acho que terminei!
+Remind me what I'm supposed to do.;Lembre-me do que devo fazer.
+Como posso reivindicar as recompensas?;Como posso reivindicar as recompensas?
+You have to help me, [PLAYER_NAME]! I've put the wrong coffins into these graves.;Você tem que me ajudar, [PLAYER_NAME]! Coloquei os caixões errados nestas sepulturas.
+I want to leave now.;Eu quero ir embora agora.
+O que vocÃª gostaria de dizer?;O que você gostaria de dizer?
+Eu gostaria de uma espada e um escudo de treinamento.;Eu gostaria de uma espada e um escudo de treinamento.
+Conte-me sobre os diferentes tipos de armas que posso usar.;Conte-me sobre os diferentes tipos de armas que posso usar.
+Adeus.;Adeus.
+Conte-me sobre capas de habilidades.;Conte-me sobre habilidades de habilidades.
+Conte-me sobre o combate corpo a corpo.;Conte-me sobre o combate corpo a corpo.
+SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?;Saudações, aventureiros, sou o tutor de combate corpo a corpo. Há algo que eu possa fazer por você?
+Que tal leite?;Que tal leite?
+Belo chapÃ©u!;Belo chapéu!
+Iniciar a missÃ£o Assistente do cozinheiro?;Iniciar a missão Assistente do Cozinheiro?
+Eu tiraria o resto do dia de folga se fosse vocÃª.;Eu tiraria o resto do dia de folga se você fosse.
+Sorry, I'm trying to get a herb from someone else, but he seems to be ignoring me.;Desculpe, estou tentando conseguir uma erva de outra pessoa, mas ele parece estar me ignorando.
+E ovos? Onde eles sÃ£o encontrados?;E ovos? Onde eles são encontrados?
+Na verdade, eu sei onde encontrar essas coisas.;Na verdade, eu sei onde encontrar essas coisas.
+VocÃª nÃ£o parece muito feliz.;Você não parece muito feliz.
+EntÃ£o, onde encontro esses ingredientes?;Então, onde encontro esses ingredientes?
+VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?;Você é cozinheiro, por que não faz um bolo para mim?
+Sim, eu vou te ajudar.;Sim, eu vou te ajudar.
+O que devo fazer?;O que devo fazer?
+Onde encontro um pouco de farinha?;Onde encontro um pouco de farinha?
+O que estÃ¡ errado?;O que está errado?
+Combat experience.;Experiência de combate.
+Disable combat experience gains?;Desativar ganhos de experiência de combate?
+Hitpoints experience.;Experiência em pontos de vida.
+You will no longer gain combat experience. Talk to me again if you change your mind.;Você não ganhará mais experiência de combate. Fale comigo novamente se mudar de ideia.
+Yes, I can help with that.;Sim, posso ajudar com isso.
+The store is not available in this version of Deadman.;A loja não está disponível nesta versão do Deadman.
+Would you like to adjust earning combat experience or hitpoints experience?;Você gostaria de ajustar o ganho de experiência de combate ou de pontos de vida?
+Aqui estÃ¡ um balde de leite.;Aqui está um balde de leite.
+NÃ£o, obrigado.;Não, obrigado.
+Sorry, I only had the one quest.;Desculpe, eu só tinha uma missão.
+Thank you for getting rid of that awful ghost for me! May Saradomin always smile upon you!;Obrigado por se livrar daquele fantasma horrível por mim! Que Saradomin sempre sorria para você!
+I'm looking for a new quest.;Estou procurando uma nova missão.
+Como posso treinar minha oraÃ§Ã£o?;Como posso treinar minha oração?
+Bom dia, irmÃ£.;Bom dia, irmã.
+Para que serve a oraÃ§Ã£o?;Para que servir uma oração?
+SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudÃ¡-lo com alguma coisa hoje?;Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?
+They made a pact you see! Strength in life for servitude in death.;Eles fizeram um pacto, você vê! Força na vida para a servidão na morte.
+Can you tell me more about the brothers?;Você pode me contar mais sobre os irmãos?
+The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!;Os irmãos? Seus servos fiéis! O livro conta mais para você! Pegue! Eu nem quero isso!
+Slow! No slow! Only fast! Fast dig! Dig, dig, dig!;Lento! Não devagar! Apenas rápido! Escavação rápida! Cave, cave, cave!
+Bem-vindo ao Mercado Geral. VocÃª gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo ao Mercado Geral. Você gostaria de negociar agora ou trocar conjuntos de itens?
+Gostaria de fazer ofertas comerciais, por favor.;Gostaria de fazer ofertas comerciais, por favor.
+OlÃ¡. O que vocÃª estÃ¡ fazendo aqui?;OlÃ¡. O que você está fazendo aqui?
+Can you tell me how long I've been here?;Você pode me dizer há quanto tempo estou aqui?
+Como faÃ§o para usar o Mercado Geral?;Como fazer para usar o Mercado Geral?
+I have come to kill everyone in this castle!;Eu vim para matar todos neste castelo!
+I'm looking for whoever is in charge of this place.;Estou procurando quem está no comando deste lugar.
+VocÃª pode me ajudar com conjuntos de itens?;Você pode me ajudar com conjuntos de itens?
+I don't know. I'm lost. Where am I?;Não sei. Estou perdido. Onde estou?
+Hello there. Do you have any questions about Leagues?;Olá. Você tem alguma dúvida sobre Ligas?
+NÃ£o quero lembretes de cobranÃ§a do Exchange no login.;Não quero lembretes de cobrança do Exchange no login.
+Nada.;Nada.
+Sure, I like exploring mazes.;Claro, gosto de explorar labirintos.
+Hey, [PLAYER_NAME], would you like to come and solve a maze for me?;Ei, [PLAYER_NAME], gostaria de vir resolver um labirinto para mim?
+Reach the maze centre as fast as possible. The faster you are, the better your reward.;Alcance o centro do labirinto o mais rápido possível. Quanto mais rápido você for, melhor será sua recompensa.
+Let's see what you have...;Vamos ver o que você tem...
+You're a bit short of empty vessels or cash. Empty vials cost 5 coins each and cups cost 7 coins each.;Você está com falta de recipientes vazios ou dinheiro. Os frascos vazios custam 5 moedas cada e os copos custam 7 moedas cada.
+You've come to the right place, well done!;Você veio ao lugar certo, muito bem!
+Get ho is offering to give you a bond.;Get ho está se oferecendo para lhe dar uma fiança.
+Accept it.;Aceite isso.
+Decline it.;Recuse.
+... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;...kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.

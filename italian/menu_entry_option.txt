@@ -595,3 +595,32 @@ Picklock;Grimaldello
 Switch world;Cambia mondo
 Pass-Through;Passaggio
 Small Net;Piccola Rete
+Okay;Va bene
+Perform <col=ff9040>Relic unlock</col>;Esegui <col=ff9040>Sblocco della reliquia</col>
+Comercio;Commercio
+Carterista;Carterista
+Examinar;Esaminare
+Caminar aqui;Caminar qui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscare
+Abierto;Aperto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Prendi-Bara
+Pay;Paga
+Other quantity;Altra quantità
+5;5 
+Make;Fare
+Move;Mossa
+Jump-up;Salta su
+Scatter;Dispersione
+Check Name;Controlla il nome
+Balance;Bilancia
+Contents;Contenuto
+Talk to;Parla con
+Zoom in;Ingrandisci
+Useful Links;Collegamenti utili
+Burn;Bruciare
+10;10 
+Stornieren;Stornieren

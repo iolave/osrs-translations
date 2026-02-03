@@ -595,3 +595,32 @@ Picklock;Picklock
 Switch world;Byt värld
 Pass-Through;Pass-Through
 Small Net;Litet nät
+Okay;Okej
+Perform <col=ff9040>Relic unlock</col>;Utför <col=ff9040>Relikupplåsning</col>
+Comercio;Comercio
+Carterista;Carterista
+Examinar;Examinator
+Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Ta-kista
+Pay;Betala
+Other quantity;Annan mängd
+5;5 
+Make;Göra
+Move;Flytta
+Jump-up;Hoppa upp
+Scatter;Sprida ut
+Check Name;Kontrollera Namn
+Balance;Balans
+Contents;Innehåll
+Talk to;Tala med
+Zoom in;Zooma in
+Useful Links;Användbara länkar
+Burn;Bränna
+10;10 
+Stornieren;Stornieren

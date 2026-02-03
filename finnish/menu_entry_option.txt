@@ -595,3 +595,32 @@ Picklock;Tiirikka
 Switch world;Vaihda maailmaa
 Pass-Through;Läpikulku
 Small Net;Pieni verkko
+Okay;Kunnossa
+Perform <col=ff9040>Relic unlock</col>;Suorita <col=ff9040>Relic Unlock</col>
+Comercio;Comercio
+Carterista;Carterista
+Examinar;Examinar
+Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Take-Arkku
+Pay;Maksaa
+Other quantity;Muu määrä
+5;5 
+Make;Tehdä
+Move;Liikkua
+Jump-up;Hyppy ylös
+Scatter;Scatter
+Check Name;Tarkista nimi
+Balance;Saldo
+Contents;Sisällys
+Talk to;Puhu
+Zoom in;Lähennä
+Useful Links;Hyödyllisiä linkkejä
+Burn;Polttaa
+10;10 
+Stornieren;Stornieren

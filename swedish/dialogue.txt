@@ -53898,3 +53898,144 @@ Hello, chum, fancy buyin' some designer jewellery? They've come all the way from
 I'm Nigel. It is my job to tell you about Deadman Mode.;Jag är Nigel. Det är mitt jobb att berätta om Deadman Mode.
 Hey, who said you could use that?;Hej, vem sa att du kunde använda det?
 You're still hunting greater demons in the Wilderness; you have 78 to go. Come back when you're finished.;Du jagar fortfarande större demoner i vildmarken; du har 78 kvar. Kom tillbaka när du är klar.
+Conte-me sobre os Homens de Ferro.;Conte-me sobre os Homens de Ferro.
+Tenho uma pergunta sobre meu DiÃ¡rio de Conquistas;Tenho uma pergunta sobre meu Diário de Conquistas
+Eu estou bem, obrigado.;Eu estou bem, obrigado.
+Tchau!;Tchau!
+I really want to stop being an Ironman.;Jag vill verkligen sluta vara en Ironman.
+I'd like to stay as an Ironman.;Jag skulle vilja stanna som Ironman.
+You're due to stop being an Ironman in 7 days. Are you sure you want that? Wouldn't you rather stay as an Ironman?;Du ska sluta vara en Ironman om 7 dagar. Är du säker på att du vill det? Skulle du inte hellre stanna som Ironman?
+Gostaria de revisar meu modo Ironman.;Gostaria de revisar meu modo Ironman.
+Bom dia.;Bom dia.
+Hail, Ironman! What can I do for you?;Hej Ironman! Vad kan jag göra för dig?
+VocÃª tem alguma armadura para mim, por favor?;VocÃª tem alguma armadura para mim, por favor?
+Quem Ã© vocÃª?;Quem Ã© vocÃª?
+OlÃ¡, AdÃ£o.;Olá, AdÃ£o.
+Stop checking my combat level - I can take anything!;Sluta kolla min stridsnivå - jag kan ta vad som helst!
+The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard.;Slayer Masters kommer att ta hänsyn till din stridsnivå när de väljer uppgifter åt dig, så du bör inte få något för hårt.
+That's fine - I don't want anything too tough.;Det är bra - jag vill inte ha något för tufft.
+Okay, we'll keep checking your combat level.;Okej, vi fortsätter att kontrollera din stridsnivå.
+Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level.;Okej, från och med nu kommer alla Slayer Masters att tilldela dig vad som helst från sina listor, oavsett din stridsnivå.
+Bem-vindo Ã  igreja do santo Saradomin.;Bem-vindo Ã igreja do santo Saradomin.
+Belo lugar que vocÃª tem aqui.;Belo lugar que vocÃª tem aqui.
+Estou procurando uma missÃ£o!;Estou procurando uma missÃ£o!
+Quem Ã© Saradomin?;Quem Ã© Saradomin?
+Estou procurando uma missÃ£o.;Estou procurando uma missÃ£o.
+Que sorte, preciso que alguÃ©m faÃ§a uma missÃ£o para mim.;Que sorte, preciso que alguém faÃ§a uma missÃ£o para mim.
+Onde estou?;Onde estou?
+<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>;<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>
+HÃ¡ alguma missÃ£o que eu possa fazer aqui?;HÃ¡ alguma missÃ£o que eu possa fazer aqui?
+O cadarÃ§o do seu sapato estÃ¡ desamarrado.;O cadarÃ§o do seu sapato estÃ¡ desamarrado.
+<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>;<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>
+<col=000000></col>;<col=000000></col>
+Como vocÃª estÃ¡ hoje?;Como vocÃª estÃ¡ hoje?
+<col=000000>Hello there, can I help you?</col>;<col=000000>Hej, kan jag hjälpa dig?</col>
+<col=000000>Onde estou?</col>;<col=000000>Onde estou?</col>
+<col=000000>Selecione uma opÃ§Ã£o</col>;<col=000000>Selection uma opÃ§Ã£o</col>
+<col=000000>Como vocÃª estÃ¡ hoje?</col>;<col=000000>Como vocÃª estÃ¡ hoje?</col>
+OlÃ¡, posso ajudÃ¡-lo?;Olá, posso ajudá-lo?
+Vim recuperar sua casa.;Vim recuperar sua casa.
+Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problemas ele se meteu desta vez?;Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problemas ele se meteu desta vez?
+Iniciar a missÃ£o The Restless Ghost?;Har du missat The Restless Ghost?
+Quer dizer que ele se mete em muitos problemas?;Quer dizer que ele se mete em muitos problemas?
+A propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.;En propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.
+NÃ£o.;Nej.
+Obrigado. O problema Ã© que hÃ¡ um fantasma no cemitÃ©rio da igreja. Eu gostaria que vocÃª se livrasse disso.;Obrigado. O problema Ã© que hÃ¡ um fantasma no cemitÃ©rio da igreja. Eu gostaria que vocÃª se livrasse disso.
+VÃ¡ embora! Estou meditando!;VÃ¡ embora! Estou meditando!
+Sim.;Sim.
+Bem, isso Ã© amigÃ¡vel.;Bem, isso Ã© amigÃ¡vel.
+Oh, o idiota bobo.;Åh, idiot bobo.
+Ele tem um fantasma assombrando seu cemitÃ©rio.;Ele tem um fantasma assombrando seu cemitério.
+Ok, deixe-me ajudar entÃ£o.;Ok, deixe-me ajudar entÃ£o.
+Padre Aereck me enviou para falar com vocÃª.;Padre Aereck me enviou para falar com vocÃª.
+Qual Ã© o problema entÃ£o?;Vilket är ett problem?
+Oh! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.;åh! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.
+It is so dull being a ghost...;Det är så tråkigt att vara ett spöke...
+Na verdade nÃ£o Ã© muito bom.;Na verdade nÃ£o Ã© muito bom.
+NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.;NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.
+Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?;Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?
+OlÃ¡ fantasma, como vocÃª estÃ¡?;Olá fantasma, como vocÃª está?
+NÃ£o, vocÃª Ã© assustador!;Nej, vocÃª Ã© assustador!
+Uau, esse amuleto funciona!;Uau, esse amuleto funciona!
+VocÃª entendeu o que eu disse???;VocÃª entendeu o que eu disse???
+Sim, agora me diga qual Ã© o problema.;Sim, agora me diga qual Ã© o problema.
+Viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!;viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!
+Liberar! Obrigado estranho..;Liberar! Obrigado estranho..
+Desculpe, estou ocupado.;Desculpe, estou occupado.
+Bem, existem quatro anÃ©is de explorador diferentes, que combinam com os quatro nÃ­veis de dificuldade. Cada um tem as mesmas recompensas do nÃ­vel anterior e alguns benefÃ­cios adicionais tambÃ©m... qual nÃ­vel de recompensas vocÃª gostaria de obter;Bem, existem quatro anéis de explorador diferentes, que combinam com os quatro nÃeis de dificuldade. Cada um tem as mesmas recompensas do nÃvel anterior e alguns benefÃcios adicionais tambÃ©m... qual nÃvel de recompensas vocÃª gostaria de obter
+O que Ã© o DiÃ¡rio de Conquistas?;O que Ã© o DiÃ¡rio de Conquistas?
+Tenho uma pergunta sobre meu diÃ¡rio de conquistas.;Tenho uma pergunta sobre meu diário de conquistas.
+Quais sÃ£o as recompensas?;Quais sÃ£o som recompensas?
+I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone.;Jag behöver att du plockar upp kistan från varje grav, ser vem som finns i den och begraver den i graven med rätt gravsten.
+Wonderful! That's taken care of them. I'll take you back, and give you your reward.;Underbar! Det har tagit hand om dem. Jag tar dig tillbaka och ger dig din belöning.
+Okay, I'll help with your graves.;Okej, jag hjälper till med dina gravar.
+Can you come and help me, [PLAYER_NAME]? I've got a problem with some graves.;Kan du komma och hjälpa mig, [PLAYER_NAME]? Jag har problem med några gravar.
+know more about?;vet mer om?
+I think I've finished!;Jag tror att jag är klar!
+Remind me what I'm supposed to do.;Påminn mig om vad jag ska göra.
+Como posso reivindicar as recompensas?;Como posso reivindicar as recompensas?
+You have to help me, [PLAYER_NAME]! I've put the wrong coffins into these graves.;Du måste hjälpa mig, [PLAYER_NAME]! Jag har lagt fel kistor i dessa gravar.
+I want to leave now.;Jag vill lämna nu.
+O que vocÃª gostaria de dizer?;O que vocÃª gostaria de dizer?
+Eu gostaria de uma espada e um escudo de treinamento.;Eu gostaria de uma espada e um escudo de treinamento.
+Conte-me sobre os diferentes tipos de armas que posso usar.;Conte-me sobre os diferentes tipos de armas que posso usar.
+Adeus.;Adeus.
+Conte-me sobre capas de habilidades.;Conte-me sobre capas de habilidades.
+Conte-me sobre o combate corpo a corpo.;Conte-me sobre o combate corpo a corpo.
+SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?;SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?
+Que tal leite?;Que tal leite?
+Belo chapÃ©u!;Belo chapéu!
+Iniciar a missÃ£o Assistente do cozinheiro?;Iniciar a missÃ£o Assistente do cozinheiro?
+Eu tiraria o resto do dia de folga se fosse vocÃª.;Eu tiraria o resto do dia de folga se fosse vocÃª.
+Sorry, I'm trying to get a herb from someone else, but he seems to be ignoring me.;Förlåt, jag försöker få en ört från någon annan, men han verkar ignorera mig.
+E ovos? Onde eles sÃ£o encontrados?;E ovos? Vad är det annars för encontrados?
+Na verdade, eu sei onde encontrar essas coisas.;Na verdade, eu sei onde encontrar essas coisas.
+VocÃª nÃ£o parece muito feliz.;VocÃª nÃ£o parece muito feliz.
+EntÃ£o, onde encontro esses ingredientes?;EntÃ£o, onde encontro esses ingredienser?
+VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?;VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?
+Sim, eu vou te ajudar.;Sim, eu vou te ajudar.
+O que devo fazer?;O que devo fazer?
+Onde encontro um pouco de farinha?;Onde encontro um pouco de farinha?
+O que estÃ¡ errado?;O que está errado?
+Combat experience.;Stridsupplevelse.
+Disable combat experience gains?;Inaktivera vinster av stridserfarenhet?
+Hitpoints experience.;Hitpoints erfarenhet.
+You will no longer gain combat experience. Talk to me again if you change your mind.;Du kommer inte längre att få stridserfarenhet. Prata med mig igen om du ändrar dig.
+Yes, I can help with that.;Ja, jag kan hjälpa till med det.
+The store is not available in this version of Deadman.;Butiken är inte tillgänglig i den här versionen av Deadman.
+Would you like to adjust earning combat experience or hitpoints experience?;Vill du justera hur du tjänar stridsupplevelse eller hitpoints?
+Aqui estÃ¡ um balde de leite.;Aqui está um balde de leite.
+NÃ£o, obrigado.;Nej, obrigado.
+Sorry, I only had the one quest.;Förlåt, jag hade bara ett uppdrag.
+Thank you for getting rid of that awful ghost for me! May Saradomin always smile upon you!;Tack för att du blev av med det där hemska spöket för mig! Må Saradomin alltid le mot dig!
+I'm looking for a new quest.;Jag letar efter ett nytt uppdrag.
+Como posso treinar minha oraÃ§Ã£o?;Como posso treinar minha oraÃ§Ã£o?
+Bom dia, irmÃ£.;Bom dia, irmÃ£.
+Para que serve a oraÃ§Ã£o?;Para que servera en oraÃ§Ã£o?
+SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudÃ¡-lo com alguma coisa hoje?;SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?
+They made a pact you see! Strength in life for servitude in death.;De slöt en pakt ser du! Styrka i livet för träldom i döden.
+Can you tell me more about the brothers?;Kan du berätta mer om bröderna?
+The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!;Bröderna? Hans trogna tjänare! Boken berätta mer! Ta det! Jag vill inte ens ha det!
+Slow! No slow! Only fast! Fast dig! Dig, dig, dig!;Långsam! Nej långsamt! Bara snabbt! Snabb grävning! Gräv, gräv, gräv!
+Bem-vindo ao Mercado Geral. VocÃª gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo ao Mercado Geral. VocÃª gostaria de negociar agora eller trocar conjuntos de itens?
+Gostaria de fazer ofertas comerciais, por favor.;Gostaria de fazer ofertas comerciais, por favor.
+OlÃ¡. O que vocÃª estÃ¡ fazendo aqui?;Olá. O que vocÃª estÃ¡ fazendo aqui?
+Can you tell me how long I've been here?;Kan du berätta hur länge jag har varit här?
+Como faÃ§o para usar o Mercado Geral?;Hur är det för att använda Mercado Geral?
+I have come to kill everyone in this castle!;Jag har kommit för att döda alla i det här slottet!
+I'm looking for whoever is in charge of this place.;Jag letar efter den som är ansvarig för det här stället.
+VocÃª pode me ajudar com conjuntos de itens?;VocÃª pode me ajudar com conjuntos de itens?
+I don't know. I'm lost. Where am I?;jag vet inte. Jag är vilsen. Var är jag?
+Hello there. Do you have any questions about Leagues?;Hej där. Har du några frågor om Ligor?
+NÃ£o quero lembretes de cobranÃ§a do Exchange no login.;NÃ£o quero lembretes de cobranÃ§a do Exchange ingen inloggning.
+Nada.;Nada.
+Sure, I like exploring mazes.;Visst, jag gillar att utforska labyrinter.
+Hey, [PLAYER_NAME], would you like to come and solve a maze for me?;Hej, [PLAYER_NAME], vill du komma och lösa en labyrint åt mig?
+Reach the maze centre as fast as possible. The faster you are, the better your reward.;Nå labyrinten så snabbt som möjligt. Ju snabbare du är, desto bättre blir din belöning.
+Let's see what you have...;Låt oss se vad du har...
+You're a bit short of empty vessels or cash. Empty vials cost 5 coins each and cups cost 7 coins each.;Du har lite ont om tomma kärl eller kontanter. Tomma flaskor kostar 5 mynt styck och koppar kostar 7 mynt styck.
+You've come to the right place, well done!;Du har kommit till rätt ställe, bra jobbat!
+Get ho is offering to give you a bond.;Get ho erbjuder sig att ge dig en obligation.
+Accept it.;Acceptera det.
+Decline it.;Avböja det.
+... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.
