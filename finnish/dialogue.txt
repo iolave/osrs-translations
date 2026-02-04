@@ -53898,3 +53898,144 @@ Hello, chum, fancy buyin' some designer jewellery? They've come all the way from
 I'm Nigel. It is my job to tell you about Deadman Mode.;Olen Nigel. Minun tehtäväni on kertoa sinulle Deadman Modesta.
 Hey, who said you could use that?;Hei, kuka sanoi, että voisit käyttää sitä?
 You're still hunting greater demons in the Wilderness; you have 78 to go. Come back when you're finished.;Metsästät yhä suurempia demoneita erämaassa; sinulla on 78 jäljellä. Tule takaisin, kun olet valmis.
+Conte-me sobre os Homens de Ferro.;Conte-me sobre os Homens de Ferro.
+Tenho uma pergunta sobre meu DiÃ¡rio de Conquistas;Tenho uma pergunta sobre meu DiÃ¡rio de Conquistas
+Eu estou bem, obrigado.;Eu estou bem, obrigado.
+Tchau!;Tchau!
+I really want to stop being an Ironman.;Haluan todella lopettaa olemasta Ironman.
+I'd like to stay as an Ironman.;Haluaisin pysyä Ironmanina.
+You're due to stop being an Ironman in 7 days. Are you sure you want that? Wouldn't you rather stay as an Ironman?;Sinun on määrä lakata olemasta Ironman 7 päivän kuluttua. Oletko varma, että haluat sen? Etkö pysy mieluummin Ironmanina?
+Gostaria de revisar meu modo Ironman.;Gostaria de revisar meu modo Ironman.
+Bom dia.;Bom dia.
+Hail, Ironman! What can I do for you?;Terve, Ironman! Voinko auttaa?
+VocÃª tem alguma armadura para mim, por favor?;VocÃª tem alguma armadura para mim, por favor?
+Quem Ã© vocÃª?;Quem Ã© vocÃª?
+OlÃ¡, AdÃ£o.;OlÃ¡, AdÃ£o.
+Stop checking my combat level - I can take anything!;Lopeta taistelutasoni tarkistaminen - voin kestää mitä tahansa!
+The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard.;Slayer Masters ottaa taistelutasosi huomioon valitessaan tehtäviä sinulle, joten sinun ei pitäisi saada mitään liian vaikeaa.
+That's fine - I don't want anything too tough.;Se on hyvä - en halua mitään liian kovaa.
+Okay, we'll keep checking your combat level.;Okei, tarkistamme taistelutasosi.
+Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level.;Okei, tästä lähtien kaikki Slayer Masters antavat sinulle mitä tahansa luetteloistaan ​​taistelutasostasi riippumatta.
+Bem-vindo Ã  igreja do santo Saradomin.;Bem-vindo Ã igreja do santo Saradomin.
+Belo lugar que vocÃª tem aqui.;Belo lugar que vocÃª tem aqui.
+Estou procurando uma missÃ£o!;Estou procurando uma missÃ£o!
+Quem Ã© Saradomin?;Quem é Saradomin?
+Estou procurando uma missÃ£o.;Estou procurando uma missÃ£o.
+Que sorte, preciso que alguÃ©m faÃ§a uma missÃ£o para mim.;Que sorte, preciso que alguÃ©m faÃ§a uma missÃ£o para mim.
+Onde estou?;Onde estou?
+<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>;<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>
+HÃ¡ alguma missÃ£o que eu possa fazer aqui?;HÃ¡ alguma missÃ£o que eu possa fazer aqui?
+O cadarÃ§o do seu sapato estÃ¡ desamarrado.;O cadarÃ§o do seu sapato estÃ¡ desamarrado.
+<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>;<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>
+<col=000000></col>;<col=000000></col>
+Como vocÃª estÃ¡ hoje?;Como vocÃª estÃ¡ hoje?
+<col=000000>Hello there, can I help you?</col>;<col=000000>Hei, voinko auttaa?</col>
+<col=000000>Onde estou?</col>;<col=000000>Onde estou?</col>
+<col=000000>Selecione uma opÃ§Ã£o</col>;<col=000000>Valitse opÃ§Ã£o</col>
+<col=000000>Como vocÃª estÃ¡ hoje?</col>;<col=000000>Como vocÃª estÃ¡ hoje?</col>
+OlÃ¡, posso ajudÃ¡-lo?;OlÃ¡, posso ajudÃ¡-lo?
+Vim recuperar sua casa.;Vim recuperar sua casa.
+Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problemas ele se meteu desta vez?;Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problems ele se meteu desta vez?
+Iniciar a missÃ£o The Restless Ghost?;Oletko saanut MissÃ£o The Restless Ghost?
+Quer dizer que ele se mete em muitos problemas?;Quer dizer que ele se mete em muitas ongelmia?
+A propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.;A propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.
+NÃ£o.;Ei.
+Obrigado. O problema Ã© que hÃ¡ um fantasma no cemitÃ©rio da igreja. Eu gostaria que vocÃª se livrasse disso.;Obrigado. O problem Ã© que hÃ¡ um fantasma no cemitèrio da igreja. Eu gostaria que vocÃª se livrasse disso.
+VÃ¡ embora! Estou meditando!;VÃ¡ embora! Estou meditando!
+Sim.;Sim.
+Bem, isso Ã© amigÃ¡vel.;Bem, isso Ã© amigÃ¡vel.
+Oh, o idiota bobo.;Voi idiootti bobo.
+Ele tem um fantasma assombrando seu cemitÃ©rio.;Ele tem um fantasma assombrando seu cemitério.
+Ok, deixe-me ajudar entÃ£o.;Ok, deixe-me ajudar entÃ£o.
+Padre Aereck me enviou para falar com vocÃª.;Padre Aereck kadehdin minua puheestani.
+Qual Ã© o problema entÃ£o?;Laatu o ongelma ento?
+Oh! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.;Voi! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.
+It is so dull being a ghost...;On niin tylsää olla aave...
+Na verdade nÃ£o Ã© muito bom.;Na verdade nÃ£o Ã© muito bom.
+NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.;NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.
+Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?;Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?
+OlÃ¡ fantasma, como vocÃª estÃ¡?;OlÃ¡ fantasma, como vocÃª estÃ¡?
+NÃ£o, vocÃª Ã© assustador!;NÃ£o, vocÃª Ã© assustador!
+Uau, esse amuleto funciona!;Uau, esse amuleto funciona!
+VocÃª entendeu o que eu disse???;VocÃª entendeu o que eu disse???
+Sim, agora me diga qual Ã© o problema.;Sim, agora me diga qual Ã© o ongelma.
+Viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!;Viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!
+Liberar! Obrigado estranho..;Liberar! Obrigado estranho..
+Desculpe, estou ocupado.;Desculpe, estou ocupado.
+Bem, existem quatro anÃ©is de explorador diferentes, que combinam com os quatro nÃ­veis de dificuldade. Cada um tem as mesmas recompensas do nÃ­vel anterior e alguns benefÃ­cios adicionais tambÃ©m... qual nÃ­vel de recompensas vocÃª gostaria de obter;Bem, existem quatro anéis de explorador diferentes, que combinam com os quatro nÃveis de didiculdade. Cada um tem as mesmas recompensas do nÃvel anterior e alguns benefÃcios adicionais tambÃ©m... qual nÃvel de recompensas vocÃª gostaria de obter
+O que Ã© o DiÃ¡rio de Conquistas?;O que Ã© o DiÃ¡rio de Conquistas?
+Tenho uma pergunta sobre meu diÃ¡rio de conquistas.;Tenho uma pergunta sobre meu diÃ¡rio de conquistas.
+Quais sÃ£o as recompensas?;Quais sÃ£o as recompensas?
+I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone.;Sinun on nostettava arkku jokaisesta haudasta, katsottava kuka sen sisällä on ja haudattava se hautaan oikean hautakiven kanssa.
+Wonderful! That's taken care of them. I'll take you back, and give you your reward.;Ihana! Niistä on huolehdittu. Otan sinut takaisin ja annan sinulle palkintosi.
+Okay, I'll help with your graves.;Okei, autan haudoissasi.
+Can you come and help me, [PLAYER_NAME]? I've got a problem with some graves.;Voitko tulla auttamaan minua, [PLAYER_NAME]? Minulla on ongelma joidenkin haudojen kanssa.
+know more about?;tietää enemmän?
+I think I've finished!;Luulen, että olen lopettanut!
+Remind me what I'm supposed to do.;Muistuta minua, mitä minun pitäisi tehdä.
+Como posso reivindicar as recompensas?;Como posso reivindicar as recompensas?
+You have to help me, [PLAYER_NAME]! I've put the wrong coffins into these graves.;Sinun täytyy auttaa minua, [PLAYER_NAME]! Olen laittanut vääriä arkkuja näihin haudoihin.
+I want to leave now.;Haluan lähteä nyt.
+O que vocÃª gostaria de dizer?;O que vocÃª gostaria de dizer?
+Eu gostaria de uma espada e um escudo de treinamento.;Eu gostaria de uma espada e um escudo de treinamento.
+Conte-me sobre os diferentes tipos de armas que posso usar.;Conte-me sobre os diferentes tipos de armas que posso usar.
+Adeus.;Adeus.
+Conte-me sobre capas de habilidades.;Conte-me sobre capas de habilidades.
+Conte-me sobre o combate corpo a corpo.;Conte-me sobre tai combate corpo a corpo.
+SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?;SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?
+Que tal leite?;Que tal leite?
+Belo chapÃ©u!;Belo chapéu!
+Iniciar a missÃ£o Assistente do cozinheiro?;Oletko aloittanut missÃ£o Assistente do cozinheiro?
+Eu tiraria o resto do dia de folga se fosse vocÃª.;Eu tiraria o resto do dia de folga se fosse vocÃª.
+Sorry, I'm trying to get a herb from someone else, but he seems to be ignoring me.;Anteeksi, yritän saada yrttiä joltain toiselta, mutta hän näyttää jättävän minut huomiotta.
+E ovos? Onde eles sÃ£o encontrados?;E ovos? Onde eles sÃ£o encontrados?
+Na verdade, eu sei onde encontrar essas coisas.;Na verdade, eu sei onde encontrar essas coisas.
+VocÃª nÃ£o parece muito feliz.;VocÃª nÃ£o parece muito feliz.
+EntÃ£o, onde encontro esses ingredientes?;EntÃ£o, onde encontro esses ainesosat?
+VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?;VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?
+Sim, eu vou te ajudar.;Sim, eu vou te ajudar.
+O que devo fazer?;O que devo fazer?
+Onde encontro um pouco de farinha?;Onde encontro um pouco de farinha?
+O que estÃ¡ errado?;O que estÃ¡ errado?
+Combat experience.;Taistelukokemus.
+Disable combat experience gains?;Poistetaanko taistelukokemusten saaminen käytöstä?
+Hitpoints experience.;Kokemus hittipisteistä.
+You will no longer gain combat experience. Talk to me again if you change your mind.;Et saa enää taistelukokemusta. Puhu minulle uudelleen, jos muutat mieltäsi.
+Yes, I can help with that.;Kyllä, voin auttaa siinä.
+The store is not available in this version of Deadman.;Kauppa ei ole saatavilla tässä Deadman-versiossa.
+Would you like to adjust earning combat experience or hitpoints experience?;Haluatko muokata ansaitsevaa taistelukokemusta tai osumapistekokemusta?
+Aqui estÃ¡ um balde de leite.;Aqui estÃ¡ um balde de leite.
+NÃ£o, obrigado.;Ei, obrigado.
+Sorry, I only had the one quest.;Anteeksi, minulla oli vain yksi tehtävä.
+Thank you for getting rid of that awful ghost for me! May Saradomin always smile upon you!;Kiitos, että pääsit eroon tuosta kauheasta haamusta puolestani! Hymyillen sinulle aina Saradomin!
+I'm looking for a new quest.;Etsin uutta tehtävää.
+Como posso treinar minha oraÃ§Ã£o?;Como posso treinar minha oraÃ§Ã£o?
+Bom dia, irmÃ£.;Bom dia, irmÃ£.
+Para que serve a oraÃ§Ã£o?;Para que palvella oraÃ§Ã£o?
+SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudÃ¡-lo com alguma coisa hoje?;SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudÃ¡-lo com alguma coisa hoje?
+They made a pact you see! Strength in life for servitude in death.;He tekivät sopimuksen, näettehän! Voimia elämässä orjuuteen kuolemassa.
+Can you tell me more about the brothers?;Voitko kertoa lisää veljistä?
+The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!;Veljekset? Hänen uskolliset palvelijansa! Kirja kerro lisää! Ota se! En edes halua sitä!
+Slow! No slow! Only fast! Fast dig! Dig, dig, dig!;Hidas! Ei hidasta! Vain nopeasti! Nopea kaivaus! Kaivaa, kaivaa, kaivaa!
+Bem-vindo ao Mercado Geral. VocÃª gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo tai Mercado Geral. VocÃª gostaria de negociar agora ou trocar conjuntos de itens?
+Gostaria de fazer ofertas comerciais, por favor.;Gostaria de fazer ofertas comerciais, por favor.
+OlÃ¡. O que vocÃª estÃ¡ fazendo aqui?;OlÃ¡. O que vocÃª estÃ¡ fazendo aqui?
+Can you tell me how long I've been here?;Voitko kertoa kuinka kauan olen ollut täällä?
+Como faÃ§o para usar o Mercado Geral?;Como faÃ§o para usar tai Mercado Geral?
+I have come to kill everyone in this castle!;Olen tullut tappamaan kaikki tässä linnassa!
+I'm looking for whoever is in charge of this place.;Etsin ketään, joka on vastuussa tästä paikasta.
+VocÃª pode me ajudar com conjuntos de itens?;VocÃª pode me ajudar com conjuntos de itens?
+I don't know. I'm lost. Where am I?;En tiedä. Olen hukassa. Missä minä olen?
+Hello there. Do you have any questions about Leagues?;Tervehdys. Onko sinulla kysyttävää liigasta?
+NÃ£o quero lembretes de cobranÃ§a do Exchange no login.;NÃ£o quero lembretes de cobranÃ§a do Exchange ei kirjaudu sisään.
+Nada.;Nada.
+Sure, I like exploring mazes.;Toki pidän sokkeloiden tutkimisesta.
+Hey, [PLAYER_NAME], would you like to come and solve a maze for me?;Hei [PLAYER_NAME], haluaisitko tulla ratkaisemaan minulle sokkelon?
+Reach the maze centre as fast as possible. The faster you are, the better your reward.;Saavuta sokkelokeskus mahdollisimman nopeasti. Mitä nopeampi olet, sitä parempi palkkio.
+Let's see what you have...;Katsotaan mitä sinulla on...
+You're a bit short of empty vessels or cash. Empty vials cost 5 coins each and cups cost 7 coins each.;Sinulla on vähän pulaa tyhjistä aluksista tai käteisestä. Tyhjät pullot maksavat 5 kolikkoa ja kupit 7 kolikkoa.
+You've come to the right place, well done!;Tulit oikeaan paikkaan, hyvin tehty!
+Get ho is offering to give you a bond.;Get ho tarjoaa sinulle velkakirjan.
+Accept it.;Hyväksy se.
+Decline it.;Hylkää se.
+... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.

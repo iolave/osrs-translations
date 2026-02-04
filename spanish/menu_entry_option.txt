@@ -595,3 +595,32 @@ Picklock;Ganzúa
 Switch world;Cambiar mundo
 Pass-Through;Transferencia
 Small Net;Red pequeña
+Okay;Bueno
+Perform <col=ff9040>Relic unlock</col>;Realiza <col=ff9040>Desbloqueo de reliquias</col>
+Comercio;Comercio
+Carterista;carterista
+Examinar;examinador
+Caminar aqui;Caminar aquí
+Ataque;ataque
+Cerca;cerca
+Buscar;Buscar
+Abierto;abierto
+Tronchar;tronchar
+Hablar con;Hablar con
+Take-Coffin;Tomar ataúd
+Pay;Pagar
+Other quantity;Otra cantidad
+5;5 
+Make;Hacer
+Move;Mover
+Jump-up;saltar
+Scatter;Dispersión
+Check Name;Comprobar nombre
+Balance;Balance
+Contents;Contenido
+Talk to;Hablar a
+Zoom in;Dar un golpe de zoom
+Useful Links;Enlaces útiles
+Burn;Quemar
+10;10 
+Stornieren;Stornieren

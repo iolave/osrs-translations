@@ -595,3 +595,32 @@ Picklock;Crochet
 Switch world;Changer de monde
 Pass-Through;Passage
 Small Net;Petit filet
+Okay;D'accord
+Perform <col=ff9040>Relic unlock</col>;Effectuer le <col=ff9040>déverrouillage de la relique</col>
+Comercio;Commerce
+Carterista;Carteriste
+Examinar;Examiner
+Caminar aqui;Caminar ici
+Ataque;Attaque
+Cerca;Cerca
+Buscar;Rechercher
+Abierto;Ouvert
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Prendre-Cercueil
+Pay;Payer
+Other quantity;Autre quantité
+5;5 
+Make;Faire
+Move;Se déplacer
+Jump-up;Sauter
+Scatter;Dispersion
+Check Name;Vérifier le nom
+Balance;Équilibre
+Contents;Contenu
+Talk to;Parlez à
+Zoom in;Zoomer
+Useful Links;Liens utiles
+Burn;Brûler
+10;10 
+Stornieren;Stornieren

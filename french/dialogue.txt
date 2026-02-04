@@ -53898,3 +53898,144 @@ Hello, chum, fancy buyin' some designer jewellery? They've come all the way from
 I'm Nigel. It is my job to tell you about Deadman Mode.;Je m'appelle Nigel. C'est mon travail de vous parler du mode Deadman.
 Hey, who said you could use that?;Hé, qui a dit que tu pouvais utiliser ça ?
 You're still hunting greater demons in the Wilderness; you have 78 to go. Come back when you're finished.;Vous chassez toujours de plus grands démons dans le désert ; il vous en reste 78. Revenez quand vous aurez fini.
+Conte-me sobre os Homens de Ferro.;Conte-moi sur les Homens de Ferro.
+Tenho uma pergunta sobre meu DiÃ¡rio de Conquistas;Tenho uma pergunta sobre mon Diário de Conquistas
+Eu estou bem, obrigado.;Tu es là, obligé.
+Tchau!;Tchau !
+I really want to stop being an Ironman.;Je veux vraiment arrêter d'être un Ironman.
+I'd like to stay as an Ironman.;J'aimerais rester Ironman.
+You're due to stop being an Ironman in 7 days. Are you sure you want that? Wouldn't you rather stay as an Ironman?;Vous devez arrêter d'être un Ironman dans 7 jours. Es-tu sûr de vouloir ça ? Ne préféreriez-vous pas rester un Ironman ?
+Gostaria de revisar meu modo Ironman.;Je vais réviser mon modèle Ironman.
+Bom dia.;Bom dia.
+Hail, Ironman! What can I do for you?;Salut, Ironman ! Que puis-je faire pour vous ?
+VocÃª tem alguma armadura para mim, por favor?;Vous avez une arme pour moi, par faveur ?
+Quem Ã© vocÃª?;Quem você?
+OlÃ¡, AdÃ£o.;Olá, Adão.
+Stop checking my combat level - I can take anything!;Arrêtez de vérifier mon niveau de combat – je peux tout prendre !
+The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard.;Les Slayer Masters tiendront compte de votre niveau de combat lors du choix des tâches à vous confier, vous ne devriez donc rien avoir de trop difficile.
+That's fine - I don't want anything too tough.;C'est bien, je ne veux rien de trop dur.
+Okay, we'll keep checking your combat level.;D'accord, nous continuerons à vérifier votre niveau de combat.
+Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level.;D'accord, à partir de maintenant, tous les Slayer Masters vous attribueront n'importe quoi de leur liste, quel que soit votre niveau de combat.
+Bem-vindo Ã  igreja do santo Saradomin.;Bem-vindo à l'église de Santo Saradomin.
+Belo lugar que vocÃª tem aqui.;Belo lugar que você tem aqui.
+Estou procurando uma missÃ£o!;Estou procurando uma missão!
+Quem Ã© Saradomin?;Quem Ã© Saradomin ?
+Estou procurando uma missÃ£o.;Estou procurando uma missão.
+Que sorte, preciso que alguÃ©m faÃ§a uma missÃ£o para mim.;Que sorte, précisément, quelque chose fait une mission pour moi.
+Onde estou?;Où est-ce ?
+<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>;<col=000000>Qu'avez-vous besoin de pouvoir faire ici ?</col>
+HÃ¡ alguma missÃ£o que eu possa fazer aqui?;Avez-vous quelque chose à manquer que vous puissiez faire ici ?
+O cadarÃ§o do seu sapato estÃ¡ desamarrado.;Le cadavre de votre sapato est desamarrado.
+<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>;<col=000000>Le cadavre de votre sapato est desamarrado.</col>
+<col=000000></col>;<col=000000></col>
+Como vocÃª estÃ¡ hoje?;Comment êtes-vous aujourd'hui ?
+<col=000000>Hello there, can I help you?</col>;<col=000000>Bonjour, puis-je vous aider ?</col>
+<col=000000>Onde estou?</col>;<col=000000>Onde estou ?</col>
+<col=000000>Selecione uma opÃ§Ã£o</col>;<col=000000>Sélectionner une option</col>
+<col=000000>Como vocÃª estÃ¡ hoje?</col>;<col=000000>Como voça está hoje ?</col>
+OlÃ¡, posso ajudÃ¡-lo?;Olá, peut-être ajudá-lo ?
+Vim recuperar sua casa.;Vim récupérer votre maison.
+Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problemas ele se meteu desta vez?;Acho qui est meilleur falar com você então. Avez-vous des problèmes à ce moment-là?
+Iniciar a missÃ£o The Restless Ghost?;Lancer une mission The Restless Ghost ?
+Quer dizer que ele se mete em muitos problemas?;Qu'est-ce qui vous pose de nombreux problèmes ?
+A propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.;À propos, mon nom est Padre Aereck. Prazer em conhecê-lo.
+NÃ£o.;Néo.
+Obrigado. O problema Ã© que hÃ¡ um fantasma no cemitÃ©rio da igreja. Eu gostaria que vocÃª se livrasse disso.;Obrigado. Le problème est que j'ai un fantasme dans le cimetière de l'église. Eu gostaria que voça se livrasse disso.
+VÃ¡ embora! Estou meditando!;Vá embra! Est-ce que tu médites!
+Sim.;Sim.
+Bem, isso Ã© amigÃ¡vel.;Eh bien, c'est aussi un amigável.
+Oh, o idiota bobo.;Oh, ô idiot de Bobo.
+Ele tem um fantasma assombrando seu cemitÃ©rio.;Ils ont un fantasme assombrando dans leur cimetière.
+Ok, deixe-me ajudar entÃ£o.;Ok, deixe-me ajudar então.
+Padre Aereck me enviou para falar com vocÃª.;Padre Aereck m'envie de falar com você.
+Qual Ã© o problema entÃ£o?;Qu'est-ce qu'il y a un problème là-bas ?
+Oh! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.;Oh! C'est votre amulette qui est là! Euh, je suis perguntei. Supposons que vous ne puissiez pas me décider ? Je n'ai pas envie d'être un fantasme.
+It is so dull being a ghost...;C'est tellement ennuyeux d'être un fantôme...
+Na verdade nÃ£o Ã© muito bom.;Na verdade néo est muito bom.
+NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.;Non, tu vois que tu es falando bobagem comigo.
+Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?;Sim, tout à fait. Vous savez pourquoi vous êtes un fantasme ?
+OlÃ¡ fantasma, como vocÃª estÃ¡?;Olá fantasma, como voça está?
+NÃ£o, vocÃª Ã© assustador!;Néo, tu es assustador!
+Uau, esse amuleto funciona!;Ouais, cette amuleto funciona!
+VocÃª entendeu o que eu disse???;Vous entendez ce que vous dites???
+Sim, agora me diga qual Ã© o problema.;Oui, je m'inquiète de ce qu'il y a de problème.
+Viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!;Vive ! Je peux maintenant avoir un fantasme ! Vous êtes précisément colocá-lo no meu caixão e estarei livre !
+Liberar! Obrigado estranho..;Libérez! Obrigado estranho..
+Desculpe, estou ocupado.;Desculpe, tu es occupé.
+Bem, existem quatro anÃ©is de explorador diferentes, que combinam com os quatro nÃ­veis de dificuldade. Cada um tem as mesmas recompensas do nÃ­vel anterior e alguns benefÃ­cios adicionais tambÃ©m... qual nÃ­vel de recompensas vocÃª gostaria de obter;Eh bien, il existe quatre années d'explorateur différents, qui se combinent avec quatre connaissances de difficulté. Cada um tem as mesmas recompensas do nível anterior e alguns benefícios adicionais também... qual nível de recompensas você gostaria de obter
+O que Ã© o DiÃ¡rio de Conquistas?;Qu'est-ce que le Diário de Conquistas ?
+Tenho uma pergunta sobre meu diÃ¡rio de conquistas.;J'ai une question sur mon journal de conquêtes.
+Quais sÃ£o as recompensas?;Qu'est-ce que c'est que des récompenses ?
+I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone.;J'ai besoin que vous récupériez le cercueil de chaque tombe, que vous voyiez qui se trouve à l'intérieur et que vous l'enterriez dans la tombe avec la bonne pierre tombale.
+Wonderful! That's taken care of them. I'll take you back, and give you your reward.;Merveilleux! C'est pris soin d'eux. Je vous ramènerai et vous donnerai votre récompense.
+Okay, I'll help with your graves.;D'accord, je vais vous aider avec vos tombes.
+Can you come and help me, [PLAYER_NAME]? I've got a problem with some graves.;Pouvez-vous venir m'aider, [PLAYER_NAME] ? J'ai un problème avec certaines tombes.
+know more about?;en savoir plus ?
+I think I've finished!;Je pense que j'ai fini !
+Remind me what I'm supposed to do.;Rappelle-moi ce que je suis censé faire.
+Como posso reivindicar as recompensas?;Comment pouvez-vous recevoir des indications en guise de récompense ?
+You have to help me, [PLAYER_NAME]! I've put the wrong coffins into these graves.;Vous devez m'aider, [PLAYER_NAME] ! J'ai mis les mauvais cercueils dans ces tombes.
+I want to leave now.;Je veux partir maintenant.
+O que vocÃª gostaria de dizer?;O que você gostaria de dizer?
+Eu gostaria de uma espada e um escudo de treinamento.;Vous avez une espada et une escudo de formation.
+Conte-me sobre os diferentes tipos de armas que posso usar.;Contez-moi les différents types d'armes que vous pouvez utiliser.
+Adeus.;Adéus.
+Conte-me sobre capas de habilidades.;Conte-moi sur mes capacités.
+Conte-me sobre o combate corpo a corpo.;Conte-moi sur le combat corps à corps.
+SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?;Saudaçoes, aventurier, sou o tutor de combate corpo a corpo. Y a-t-il quelque chose que vous pourriez faire pour vous ?
+Que tal leite?;Que tal leite?
+Belo chapÃ©u!;Belo chapéu !
+Iniciar a missÃ£o Assistente do cozinheiro?;Lancer une mission Assistente do cozinheiro ?
+Eu tiraria o resto do dia de folga se fosse vocÃª.;Eu tiraria o resto do dia de folga se fosse você.
+Sorry, I'm trying to get a herb from someone else, but he seems to be ignoring me.;Désolé, j'essaie d'obtenir une herbe de quelqu'un d'autre, mais il semble m'ignorer.
+E ovos? Onde eles sÃ£o encontrados?;Et des œufs ? Où les avez-vous trouvés ?
+Na verdade, eu sei onde encontrar essas coisas.;En réalité, vous vous trouverez face à ces coisas.
+VocÃª nÃ£o parece muito feliz.;Vocal não parece muito feliz.
+EntÃ£o, onde encontro esses ingredientes?;Alors, où est-ce que tu trouves ces ingrédients ?
+VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?;Tu es cozinheiro, pourquoi ne fais-tu pas un bol pour moi ?
+Sim, eu vou te ajudar.;Sim, tu vas t'aider.
+O que devo fazer?;O que devo fazer?
+Onde encontro um pouco de farinha?;Où avez-vous trouvé un pouco de farinha?
+O que estÃ¡ errado?;Qu'est-ce qui est errado ?
+Combat experience.;Expérience de combat.
+Disable combat experience gains?;Désactiver les gains d'expérience de combat ?
+Hitpoints experience.;Expérience des points de vie.
+You will no longer gain combat experience. Talk to me again if you change your mind.;Vous n'acquérirez plus d'expérience de combat. Reparlez-moi si vous changez d'avis.
+Yes, I can help with that.;Oui, je peux vous aider.
+The store is not available in this version of Deadman.;La boutique n'est pas disponible dans cette version de Deadman.
+Would you like to adjust earning combat experience or hitpoints experience?;Souhaitez-vous ajuster l’obtention d’expérience de combat ou de points de vie ?
+Aqui estÃ¡ um balde de leite.;Ici, c'est une chauve-souris.
+NÃ£o, obrigado.;Néo, obligé.
+Sorry, I only had the one quest.;Désolé, je n'avais qu'une seule quête.
+Thank you for getting rid of that awful ghost for me! May Saradomin always smile upon you!;Merci de m'avoir débarrassé de cet horrible fantôme ! Que Saradomin vous sourie toujours !
+I'm looking for a new quest.;Je recherche une nouvelle quête.
+Como posso treinar minha oraÃ§Ã£o?;Comment puis-je apprendre à minha oraço?
+Bom dia, irmÃ£.;Bom dia, irmé.
+Para que serve a oraÃ§Ã£o?;Pour que servir un oraison ?
+SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudÃ¡-lo com alguma coisa hoje?;Saudaçoes, [PLAYER_NAME]. Pouvez-vous vous aider avec quelque chose de chaud aujourd'hui ?
+They made a pact you see! Strength in life for servitude in death.;Ils ont fait un pacte, voyez-vous ! Force dans la vie pour servitude dans la mort.
+Can you tell me more about the brothers?;Pouvez-vous m'en dire plus sur les frères ?
+The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!;Les frères ? Ses fidèles serviteurs ! Livre vous en dit plus ! Prends-le ! Je n'en veux même pas !
+Slow! No slow! Only fast! Fast dig! Dig, dig, dig!;Lent! Pas de lenteur ! Seulement vite ! Fouille vite ! Creuse, creuse, creuse !
+Bem-vindo ao Mercado Geral. VocÃª gostaria de negociar agora ou trocar conjuntos de itens?;Je l'ai acheté au Mercado Geral. Vous voulez négocier maintenant ou troquer des articles ensemble ?
+Gostaria de fazer ofertas comerciais, por favor.;Gostaria de fazer ofertas comerciais, por favor.
+OlÃ¡. O que vocÃª estÃ¡ fazendo aqui?;Olá. Est-ce que tu es en train de faire ça ?
+Can you tell me how long I've been here?;Pouvez-vous me dire depuis combien de temps je suis ici ?
+Como faÃ§o para usar o Mercado Geral?;Comment faire pour utiliser le Mercado Geral?
+I have come to kill everyone in this castle!;Je suis venu tuer tout le monde dans ce château !
+I'm looking for whoever is in charge of this place.;Je recherche le responsable de cet endroit.
+VocÃª pode me ajudar com conjuntos de itens?;Voulez-vous me aider avec des éléments?
+I don't know. I'm lost. Where am I?;Je ne sais pas. Je suis perdu. Où suis-je ?
+Hello there. Do you have any questions about Leagues?;Bonjour. Avez-vous des questions sur les ligues ?
+NÃ£o quero lembretes de cobranÃ§a do Exchange no login.;Pas de membres de cobrança do Exchange sans connexion.
+Nada.;Nada.
+Sure, I like exploring mazes.;Bien sûr, j'aime explorer les labyrinthes.
+Hey, [PLAYER_NAME], would you like to come and solve a maze for me?;Hé, [PLAYER_NAME], voudriez-vous venir résoudre un labyrinthe pour moi ?
+Reach the maze centre as fast as possible. The faster you are, the better your reward.;Atteignez le centre du labyrinthe le plus rapidement possible. Plus vous êtes rapide, meilleure est votre récompense.
+Let's see what you have...;Voyons ce que vous avez...
+You're a bit short of empty vessels or cash. Empty vials cost 5 coins each and cups cost 7 coins each.;Vous manquez un peu de bateaux vides ou d'argent liquide. Les flacons vides coûtent 5 pièces chacun et les gobelets coûtent 7 pièces chacun.
+You've come to the right place, well done!;Vous êtes au bon endroit, bravo !
+Get ho is offering to give you a bond.;Get ho propose de vous donner une caution.
+Accept it.;Acceptez-le.
+Decline it.;Refusez-le.
+... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun Flocon de neige et mon bras asuvat onnellisina yhdessä Weississä.

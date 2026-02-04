@@ -53898,3 +53898,144 @@ Hello, chum, fancy buyin' some designer jewellery? They've come all the way from
 I'm Nigel. It is my job to tell you about Deadman Mode.;Ik ben Nigel. Het is mijn taak om je over Deadman Mode te vertellen.
 Hey, who said you could use that?;Hé, wie zei dat je dat kon gebruiken?
 You're still hunting greater demons in the Wilderness; you have 78 to go. Come back when you're finished.;Je jaagt nog steeds op grotere demonen in de wildernis; je hebt er nog 78 te gaan. Kom terug als je klaar bent.
+Conte-me sobre os Homens de Ferro.;Conte-me sobre os Homens de Ferro.
+Tenho uma pergunta sobre meu DiÃ¡rio de Conquistas;Er is een kans dat ik de Diario de Conquistas heb
+Eu estou bem, obrigado.;Eu estou bem, obrigado.
+Tchau!;Tchau!
+I really want to stop being an Ironman.;Ik wil echt stoppen een Ironman te zijn.
+I'd like to stay as an Ironman.;Ik wil graag Ironman blijven.
+You're due to stop being an Ironman in 7 days. Are you sure you want that? Wouldn't you rather stay as an Ironman?;Over zeven dagen stop je met Ironman zijn. Weet je zeker dat je dat wilt? Zou je niet liever als Ironman blijven?
+Gostaria de revisar meu modo Ironman.;Ga naar de herziening van mijn model Ironman.
+Bom dia.;Bom dia.
+Hail, Ironman! What can I do for you?;Heil, Ironman! Wat kan ik voor je doen?
+VocÃª tem alguma armadura para mim, por favor?;VocÃª tem alguma armadura para mim, por gunst?
+Quem Ã© vocÃª?;Quem Ã© vocÃª?
+OlÃ¡, AdÃ£o.;OlÃ¡, AdÃ£o.
+Stop checking my combat level - I can take anything!;Stop met het controleren van mijn gevechtsniveau - ik kan alles aan!
+The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard.;De Slayer Masters houden rekening met je gevechtsniveau bij het kiezen van taken voor je, dus je moet niets te moeilijk krijgen.
+That's fine - I don't want anything too tough.;Dat is prima, ik wil niets te zwaar.
+Okay, we'll keep checking your combat level.;Oké, we blijven je gevechtsniveau controleren.
+Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level.;Oké, vanaf nu zullen alle Slayer Masters je alles uit hun lijsten toewijzen, ongeacht je gevechtsniveau.
+Bem-vindo Ã  igreja do santo Saradomin.;Bem-vindo is een voorbeeld van Santo Saradomin.
+Belo lugar que vocÃª tem aqui.;Het is belangrijk dat u dit weet.
+Estou procurando uma missÃ£o!;Estou procurando uma missão!
+Quem Ã© Saradomin?;Quem é Saradomin?
+Estou procurando uma missÃ£o.;U krijgt een missão.
+Que sorte, preciso que alguÃ©m faÃ§a uma missÃ£o para mim.;Als je precies weet dat je een misser bent voor mij.
+Onde estou?;Wat is dit?
+<col=000000>HÃ¡ alguma missÃ£o que eu possa fazer aqui?</col>;<col=000000>Heeft u al een missão gevonden die u misschien heeft gehoord?</col>
+HÃ¡ alguma missÃ£o que eu possa fazer aqui?;Heeft u al eens iets gelezen?
+O cadarÃ§o do seu sapato estÃ¡ desamarrado.;O cadarÃ§o do seu sapato estÃ¡ desamarrado.
+<col=000000>O cadarÃ§o do seu sapato estÃ¡ desamarrado.</col>;<col=000000>Ook als het sapato is, is het desamarrado.</col>
+<col=000000></col>;<col=000000></col>
+Como vocÃª estÃ¡ hoje?;Como vocÃª estÃ¡ hoje?
+<col=000000>Hello there, can I help you?</col>;<col=000000>Hallo daar, kan ik je helpen?</col>
+<col=000000>Onde estou?</col>;<col=000000>Wat is dit?</col>
+<col=000000>Selecione uma opÃ§Ã£o</col>;<col=000000>Selecteer een optie</col>
+<col=000000>Como vocÃª estÃ¡ hoje?</col>;<col=000000>Como vocÃª estÃ¡ hoje?</col>
+OlÃ¡, posso ajudÃ¡-lo?;Olá, posso ajudá-lo?
+Vim recuperar sua casa.;Ik zal mijn huis recupereren.
+Acho que Ã© melhor falar com vocÃª entÃ£o. Em que problemas ele se meteu desta vez?;Acho que mélhor falar com vocÃª entÃ£o. Wat zijn de problemen die u tegenkomt?
+Iniciar a missÃ£o The Restless Ghost?;Een missÃ£o The Restless Ghost initiëren?
+Quer dizer que ele se mete em muitos problemas?;Vraagt ​​u zich af of dit veel problemen oplevert?
+A propÃ³sito, meu nome Ã© Padre Aereck. Prazer em conhecÃª-lo.;Een propÃ³sito, meu nome é Padre Aereck. Prazer em conhecÃª-lo.
+NÃ£o.;NÃ£o.
+Obrigado. O problema Ã© que hÃ¡ um fantasma no cemitÃ©rio da igreja. Eu gostaria que vocÃª se livrasse disso.;Verplicht. Het probleem is dat er een fantasie is op de begraafplaats. Eu gostaria que vocÃª se livrasse disso.
+VÃ¡ embora! Estou meditando!;VÃ¡ embora! Meditaan!
+Sim.;Sim.
+Bem, isso Ã© amigÃ¡vel.;Bem, isso Ã© amigÃ¡vel.
+Oh, o idiota bobo.;O, idiote bobo.
+Ele tem um fantasma assombrando seu cemitÃ©rio.;Het is een fantastische assombrando op zijn begraafplaats.
+Ok, deixe-me ajudar entÃ£o.;Oké, deixe-me ajudar entÃ£o.
+Padre Aereck me enviou para falar com vocÃª.;Pater Aereck, ik ben jaloers om te falen als vocÃª.
+Qual Ã© o problema entÃ£o?;Wat is het probleem?
+Oh! Ã‰ o seu amuleto que estÃ¡ fazendo isso! Eu me perguntei. Suponho que vocÃª nÃ£o possa me ajudar? Eu nÃ£o gosto de ser um fantasma.;Oh! Ã‰ o zijn amulet is zo leuk! Eu mij perguntei. Weet u zeker dat u mij niet kunt overtuigen? Eu nÃ£o gosto de ser um fantasma.
+It is so dull being a ghost...;Het is zo saai om een ​​geest te zijn...
+Na verdade nÃ£o Ã© muito bom.;Na verdade nÃ£o é muito bom.
+NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.;NÃ£o, parece que vocÃª estÃ¡ falando bobagem comigo.
+Sim, tudo bem. VocÃª sabe por que vocÃª Ã© um fantasma?;Sim, tudo bem. VocÃª sabe por que vocÃª é um fantasma?
+OlÃ¡ fantasma, como vocÃª estÃ¡?;OlÃ¡ fantasma, zoals vocÃª estÃ¡?
+NÃ£o, vocÃª Ã© assustador!;NÃ£o, vocÃª Ã© assustador!
+Uau, esse amuleto funciona!;Uau, deze amuleto functioneert!
+VocÃª entendeu o que eu disse???;Waarom zou u dit willen doen???
+Sim, agora me diga qual Ã© o problema.;Sim, ik denk dat dit een probleem is.
+Viva! Agora posso deixar de ser um fantasma! VocÃª sÃ³ precisa colocÃ¡-lo no meu caixÃ£o e estarei livre!;Viva! Het kan zijn dat je een fantasie hebt! VocÃª sÃ³ precisa colocÃ¡-lo meu caixÃ£o e estarei livre!
+Liberar! Obrigado estranho..;Liberaal! Obrigado etranho..
+Desculpe, estou ocupado.;Desculpe, het is bezet.
+Bem, existem quatro anÃ©is de explorador diferentes, que combinam com os quatro nÃ­veis de dificuldade. Cada um tem as mesmas recompensas do nÃ­vel anterior e alguns benefÃ­cios adicionais tambÃ©m... qual nÃ­vel de recompensas vocÃª gostaria de obter;Bem, er bestaat quatro een onderzoek naar verschillende soorten, die combineren als quatro moeilijk is. Er zijn een aantal van de beste beloningen voor de vorige eeuw en al deze voordelen zijn ook... die niet de enige beloning zijn die u kunt krijgen
+O que Ã© o DiÃ¡rio de Conquistas?;Wat is de Diério de Conquistas?
+Tenho uma pergunta sobre meu diÃ¡rio de conquistas.;Je kunt een verhaal over veroveringen vertellen.
+Quais sÃ£o as recompensas?;Wat zijn de beloningen?
+I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone.;Ik wil dat je de kist van elk graf ophaalt, kijkt wie erin zit, en hem in het graf begraaft met de juiste grafsteen.
+Wonderful! That's taken care of them. I'll take you back, and give you your reward.;Prachtig! Daar is voor hen gezorgd. Ik breng je terug en geef je je beloning.
+Okay, I'll help with your graves.;Oké, ik zal helpen met je graven.
+Can you come and help me, [PLAYER_NAME]? I've got a problem with some graves.;Kun je mij komen helpen, [PLAYER_NAME]? Ik heb een probleem met sommige graven.
+know more about?;meer weten over?
+I think I've finished!;Ik denk dat ik klaar ben!
+Remind me what I'm supposed to do.;Herinner me eraan wat ik moet doen.
+Como posso reivindicar as recompensas?;Como posso reivindicar als beloning?
+You have to help me, [PLAYER_NAME]! I've put the wrong coffins into these graves.;Je moet me helpen, [PLAYER_NAME]! Ik heb de verkeerde doodskisten in deze graven gelegd.
+I want to leave now.;Ik wil nu weggaan.
+O que vocÃª gostaria de dizer?;Wat is de gostaria de dizer?
+Eu gostaria de uma espada e um escudo de treinamento.;U kunt een e-mail sturen en een treinreis maken.
+Conte-me sobre os diferentes tipos de armas que posso usar.;Houd rekening met de verschillende soorten wapens die u kunt gebruiken.
+Adeus.;Adeus.
+Conte-me sobre capas de habilidades.;Conte-me sobre capas de habilidades.
+Conte-me sobre o combate corpo a corpo.;Conte-me sobre o fighte corpo a corpo.
+SaudaÃ§Ãµes, aventureiro, sou o tutor de combate corpo a corpo. HÃ¡ algo que eu possa fazer por vocÃª?;SaudaÃ§Ãµes, aventureiro, zijn een leraar van de strijd tegen een lichaam. Heeft u ooit een kans gehad om te spreken?
+Que tal leite?;Wat is het leite?
+Belo chapÃ©u!;Belo chapéu!
+Iniciar a missÃ£o Assistente do cozinheiro?;Een missão Assistente do cozinheiro aanvragen?
+Eu tiraria o resto do dia de folga se fosse vocÃª.;Eu tiraria o resto do dia de folga se fosse vocÃª.
+Sorry, I'm trying to get a herb from someone else, but he seems to be ignoring me.;Sorry, ik probeer een kruid van iemand anders te bemachtigen, maar hij lijkt mij te negeren.
+E ovos? Onde eles sÃ£o encontrados?;E ovo's? Is dit iets wat u tegenkomt?
+Na verdade, eu sei onde encontrar essas coisas.;Als het goed is, komt u steeds meer tegen.
+VocÃª nÃ£o parece muito feliz.;VocÃª nÃ£o parece muito feliz.
+EntÃ£o, onde encontro esses ingredientes?;EntÃ£o, wat zijn de ingrediënten?
+VocÃª Ã© cozinheiro, por que nÃ£o faz um bolo para mim?;Wilt u weten of u een bolo para mim wilt zijn?
+Sim, eu vou te ajudar.;Sim, je bent klaar.
+O que devo fazer?;Wat is dit?
+Onde encontro um pouco de farinha?;Wil je een beetje farinha controleren?
+O que estÃ¡ errado?;Wat is errado?
+Combat experience.;Gevechtservaring.
+Disable combat experience gains?;Gevechtservaringwinsten uitschakelen?
+Hitpoints experience.;Hitpoints-ervaring.
+You will no longer gain combat experience. Talk to me again if you change your mind.;Je krijgt geen gevechtservaring meer. Praat nog eens met me als je van gedachten verandert.
+Yes, I can help with that.;Ja, ik kan daarbij helpen.
+The store is not available in this version of Deadman.;De winkel is niet beschikbaar in deze versie van Deadman.
+Would you like to adjust earning combat experience or hitpoints experience?;Wil je de verdiende gevechtservaring of hitpoint-ervaring aanpassen?
+Aqui estÃ¡ um balde de leite.;Dit is een balde de leite.
+NÃ£o, obrigado.;NÃ£o, obrigado.
+Sorry, I only had the one quest.;Sorry, ik had maar één zoektocht.
+Thank you for getting rid of that awful ghost for me! May Saradomin always smile upon you!;Bedankt dat je voor mij van die vreselijke geest verlost bent! Moge Saradomin je altijd toelachen!
+I'm looking for a new quest.;Ik ben op zoek naar een nieuwe zoektocht.
+Como posso treinar minha oraÃ§Ã£o?;Como posso treinar minha oraÃ§Ã£o?
+Bom dia, irmÃ£.;Bom dia, irmÃ£.
+Para que serve a oraÃ§Ã£o?;Para que serveer een oraÃ§Ã£o?
+SaudaÃ§Ãµes, [PLAYER_NAME]. Posso ajudÃ¡-lo com alguma coisa hoje?;SaudaÃ§Ãµes, [PLAYER_NAME]. Is het mogelijk dat u alguma coisa hoje hebt?
+They made a pact you see! Strength in life for servitude in death.;Ze hebben een pact gesloten, zie je! Kracht in het leven voor dienstbaarheid in de dood.
+Can you tell me more about the brothers?;Kun je mij meer vertellen over de broers?
+The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!;De broers? Zijn trouwe dienaren! Boek vertel je meer! Neem het! Ik wil het niet eens!
+Slow! No slow! Only fast! Fast dig! Dig, dig, dig!;Langzaam! Nee langzaam! Alleen snel! Snel graven! Graaf, graaf, graaf!
+Bem-vindo ao Mercado Geral. VocÃª gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo en Mercado Geral. Wilt u goed onderhandelen of andere combinaties gebruiken?
+Gostaria de fazer ofertas comerciais, por favor.;Gostaria de fazer biedt commerciële aanbiedingen, uit gunst.
+OlÃ¡. O que vocÃª estÃ¡ fazendo aqui?;OlÃ¡. Wat is uw fazendo aqui?
+Can you tell me how long I've been here?;Kunt u mij vertellen hoe lang ik hier al ben?
+Como faÃ§o para usar o Mercado Geral?;Wil je de Mercado Geral gebruiken?
+I have come to kill everyone in this castle!;Ik ben gekomen om iedereen in dit kasteel te vermoorden!
+I'm looking for whoever is in charge of this place.;Ik ben op zoek naar degene die de leiding heeft over deze plek.
+VocÃª pode me ajudar com conjuntos de itens?;Kunt u mij een oordeel geven over de conjuntos de itens?
+I don't know. I'm lost. Where am I?;Ik weet het niet. Ik ben verdwaald. Waar ben ik?
+Hello there. Do you have any questions about Leagues?;Hallo daar. Heeft u vragen over Liga's?
+NÃ£o quero lembretes de cobranÃ§a do Exchange no login.;NÃ£o lembretes de cobranÃ§a do Exchange geen login.
+Nada.;Nada.
+Sure, I like exploring mazes.;Natuurlijk, ik hou ervan om doolhoven te verkennen.
+Hey, [PLAYER_NAME], would you like to come and solve a maze for me?;Hé, [PLAYER_NAME], wil je een doolhof voor mij komen oplossen?
+Reach the maze centre as fast as possible. The faster you are, the better your reward.;Bereik het doolhofcentrum zo snel mogelijk. Hoe sneller je bent, hoe beter je beloning.
+Let's see what you have...;Laten we eens kijken wat je hebt...
+You're a bit short of empty vessels or cash. Empty vials cost 5 coins each and cups cost 7 coins each.;Je hebt een beetje te weinig lege vaten of contant geld. Lege flesjes kosten elk 5 munten en kopjes kosten elk 7 munten.
+You've come to the right place, well done!;Je bent hier aan het juiste adres, goed gedaan!
+Get ho is offering to give you a bond.;Get ho biedt je een band aan.
+Accept it.;Accepteer het.
+Decline it.;Weiger het.
+... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun je Snowflake en My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.

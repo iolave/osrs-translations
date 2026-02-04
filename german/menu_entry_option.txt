@@ -595,3 +595,32 @@ Picklock;Dietrich
 Switch world;Welt wechseln
 Pass-Through;Durchgang
 Small Net;Kleines Netz
+Okay;Okay
+Perform <col=ff9040>Relic unlock</col>;Führen Sie <col=ff9040>Reliktfreischaltung</col> durch
+Comercio;Comercio
+Carterista;Carterista
+Examinar;Prüfer
+Caminar aqui;Kam hierher
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Take-Sarg
+Pay;Zahlen
+Other quantity;Andere Menge
+5;5 
+Make;Machen
+Move;Bewegen
+Jump-up;Aufspringen
+Scatter;Streuen
+Check Name;Überprüfen Sie den Namen
+Balance;Gleichgewicht
+Contents;Inhalt
+Talk to;Reden Sie mit
+Zoom in;Vergrößern
+Useful Links;Nützliche Links
+Burn;Brennen
+10;10 
+Stornieren;Stornieren

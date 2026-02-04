@@ -595,3 +595,32 @@ Picklock;Inbreker
 Switch world;Wissel van wereld
 Pass-Through;Doorgang
 Small Net;Klein Net
+Okay;Oké
+Perform <col=ff9040>Relic unlock</col>;Voer <col=ff9040>Relikwieontgrendeling</col> uit
+Comercio;Comercio
+Carterista;Carterista
+Examinar;Examinator
+Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Take-kist
+Pay;Betalen
+Other quantity;Andere hoeveelheid
+5;5 
+Make;Maken
+Move;Beweging
+Jump-up;Spring omhoog
+Scatter;Verstrooien
+Check Name;Controleer Naam
+Balance;Evenwicht
+Contents;Inhoud
+Talk to;Praat met
+Zoom in;Zoom in
+Useful Links;Nuttige koppelingen
+Burn;Brandwond
+10;10 
+Stornieren;Stornieren
