@@ -54039,3 +54039,775 @@ Get ho is offering to give you a bond.;Get ho tarjoaa sinulle velkakirjan.
 Accept it.;Hyväksy se.
 Decline it.;Hylkää se.
 ... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.
+Until then, back to whence you came!;Siihen asti, takaisin sinne, mistä tulit!
+How? What do you have to offer?;Miten? Mitä sinulla on tarjottavana?
+Hmm... I see. That makes this slightly more complex, but no matter. You can still help us.;Hmm... näen. Se tekee tästä hieman monimutkaisemman, mutta ei väliä. Voit silti auttaa meitä.
+What? Then how do you get there.;Mitä? Miten sinne sitten pääsee.
+Ah, you again. The Wilderness is hardly the appropriate place for a conversation now, is it? What was it you wanted?;Ah, sinä taas. Erämaa tuskin on nyt sopiva paikka keskustelulle, vai mitä? Mitä sinä halusit?
+So why did you approach me?;Joten miksi lähestyit minua?
+Until recently, our runecrafting secrets allowed us to produce runes at a far superior rate compared to the inept Order of Wizards, but something has changed.;Viime aikoihin asti riimutyön salaisuudet antoivat meille mahdollisuuden tuottaa riimuja paljon nopeammin kuin taitamaton velhojen järjestys, mutta jokin on muuttunut.
+Err... I didn't really want anything.;Err... En halunnut oikeastaan ​​mitään.
+I was conducting business.;Tein bisnestä.
+I can't imagine they like you crafting runes much. Do they not try and stop you?;En voi kuvitella, että he pitävät sinusta paljon riimujen tekemisestä. Eivätkö he yritä pysäyttää sinua?
+I'll give you a scrying orb with a standard cypher spell cast upon it. The orb will absorb mystical energies that it is exposed to.;Annan sinulle huutavan pallon, jossa on tavallinen salaloitsu. Orb imee mystisiä energioita, joille se altistuu.
+What business?;Mikä bisnes?
+Ha! I'm sure they'd love to, but we have methods of runecrafting that they can only dream of!;Ha! Olen varma, että he haluaisivat, mutta meillä on riimutaidemenetelmiä, joista he voivat vain haaveilla!
+Good. Now, all I need from you is the spell that will teleport me to the Rune Essence Mine.;Hyvä. Nyt tarvitsen sinulta vain loitsun, joka teleportoi minut Rune Essence -kaivokselle.
+I was just wondering what you were doing.;Mietin vain, mitä sinä teet.
+Maybe I could make it worth your while?;Ehkä voin tehdä siitä vaivan arvoisen?
+In the Wilderness? Why?;Erämaassa? Miksi?
+My associates and I. Despite the best attempts of the Saradominists, there's still more of us around than they'd like.;Työtoverini ja minä. Saradoministien parhaista yrityksistä huolimatta meitä on yhä enemmän kuin he haluaisivat.
+If you teleport to the Rune Essence Mine from three different locations, the orb will absorb the energies of the spell and allow us to reverse-engineer the magic behind it.;Jos teleportaat Rune Essence Mine -kaivokselle kolmesta eri paikasta, pallo imee loitsun energiat ja antaa meille mahdollisuuden kääntää sen takana olevan taikuuden.
+Well what is it you want?;No mitä sinä haluat?
+Err... I don't actually know the spell.;Err... En oikeastaan ​​tiedä loitsua.
+Why would I? You are not a member of our institute. How do I know you won't just go and share all of our secrets with those Saradominist fools in the Order of Wizards.;Miksi tekisin? Et ole instituuttimme jäsen. Mistä tiedän, ettet vain lähde jakamaan kaikkia salaisuuksiamme noiden saradominististen hölmöjen kanssa velhojen ritarikuntaan.
+If you want to talk, this isn't the place for it. Meet me in Varrock's Chaos Temple, by the rune shop. Unless you're here to buy something?;Jos haluat puhua, tämä ei ole oikea paikka. Tavataan Varrockin Chaos-temppelissä, riimukaupan vieressä. Ellet ole täällä ostamassa jotain?
+Well I can't go doing it in the middle of Varrock, can I? In case you hadn't noticed, I'm a servant of Zamorak. The Saradominists have made sure that people like me are not welcome in these parts.;En voi mennä tekemään sitä keskellä Varrockia, enhän? Jos et olisi huomannut, olen Zamorakin palvelija. Saradoministit ovat varmistaneet, etteivät minun kaltaiset ihmiset ole tervetulleita näille alueille.
+Alright, I'll go.;Selvä, minä menen.
+You did? Perhaps I underestimated you.;Teitkö? Ehkä aliarvioin sinua.
+I sell runes.;Myyn riimuja.
+Ah, well I know all about that. I was actually the one to help them do it!;Ah, tiedän sen kaiken. Olin itse asiassa se, joka auttoi heitä tekemään sen!
+Where do you get your runes from?;Mistä hankit riimujasi?
+Well if not, I'm sure one of those fools in the Order of Wizards can tell you. Now, here's the orb.;No jos ei, olen varma, että joku noista velhojen ritarikunnan typeristä voi kertoa sinulle. Tässä on nyt pallo.
+Care to share?;Haluatko jakaa?
+You did what? You helped the Order of Wizards?;Teit mitä? Auttoitko velhojen ritarikuntaa?
+Deal.;Deal.
+Well we craft them of course.;No, me teemme ne tietysti.
+From what we can gather, they've somehow rediscovered how to access the lost Rune Essence Mine.;Sen perusteella, mitä voimme kerätä, he ovat jotenkin löytäneet uudelleen, kuinka päästään kadonneeseen Rune Essence Mine -kaivokseen.
+Alright, if you help us access the Rune Essence Mine, we will share our runecrafting secrets with you in return.;Selvä, jos autat meitä pääsemään Rune Essence Mineen, jaamme runecrafting-salaisuuksia kanssasi vastineeksi.
+I did it so that I could then steal their secrets.;Tein sen, jotta voisin sitten varastaa heidän salaisuutensa.
+Oh, well the people who do know the spell just teleport me there directly.;Voi, ihmiset, jotka tietävät loitsun, vain teleporttavat minut sinne suoraan.
+The reason we are able to craft so many runes is because we do not visit the runic altars in the traditional way. Instead, we have found a way to teleport to them directly.;Syy, miksi pystymme valmistamaan niin monia riimuja, on se, että emme vieraile riimualttareilla perinteisellä tavalla. Sen sijaan olemme löytäneet tavan teleportoida heille suoraan.
+Anyway, you may also have this pouch as well. I'm sure you will find it useful. Now, we're done here.;Joka tapauksessa sinulla voi olla myös tämä pussi. Olen varma, että löydät sen hyödylliseksi. Nyt ollaan täällä.
+So can I use the Abyss?;Voinko siis käyttää Abyssia?
+Yes. Visit me in the Wilderness whenever you wish to be teleported there. Just be careful, for it is a dangerous place. Still, I'm sure you'll agree that the risk is worth the reward.;Kyllä. Vieraile erämaassa aina, kun haluat tulla teleportoituneeksi sinne. Ole vain varovainen, sillä se on vaarallinen paikka. Olen kuitenkin varma, että olet samaa mieltä siitä, että riski on palkkion arvoinen.
+How is it dangerous?;Miten se on vaarallista?
+You again. Have you managed to use that scrying orb to obtain the information I need?;Sinä taas. Oletko onnistunut käyttämään sitä huutavaa palloa saadakseni tarvitsemani tiedot?
+Right, let's take a look at this orb...;Niin, katsotaanpa tätä palloa...
+Via another plane known as the Abyss. It is a complex place that cannot be easily explained, but I will share our research notes with you so you may better understand it.;Toisen koneen kautta, joka tunnetaan nimellä Abyss. Se on monimutkainen paikka, jota ei voida selittää helposti, mutta jaan tutkimusmuistiinpanomme kanssasi, jotta ymmärrät sen paremmin.
+Just don't expect to be using any prayers in there.;Älä vain odota käyttäväsi mitään rukouksia siellä.
+Yes, this will do nicely. Once again, the Zamorak Magical Institute has overcome the Order of Wizards!;Kyllä tämä kelpaa. Zamorak Magical Institute on jälleen kerran voittanut velhojen ritarikunnan!
+There are creatures there that will hunt and attack any visitors on sight. The magic we use for teleporting there can also be a bit... unstable.;Siellä on olentoja, jotka metsästävät ja hyökkäävät kaikkien näkyvien vierailijoiden kimppuun. Taika, jota käytämme teleportaamiseen, voi myös olla hieman... epävakaa.
+Sure, here you go...;Toki, tässä...
+Certainly, guv. That'll be 50 coins, please.;Varmasti, guv. Se on 50 kolikkoa, kiitos.
+<col=000080>Try not to think about it.;<col=000080>Yritä olla ajattelematta sitä.
+<col=000080>Can you hear me?;<col=000080>Kuuletteko minua?
+<col=000080>I'm no ghost! I'm a spirit, I'm injecting my thoughts <col=000080>into your head.;<col=000080>En ole aave! Olen henki, pistän ajatuksiani <col=000080>päähäsi.
+Oh, that's... interesting. Also rather disturbing...;Se on... mielenkiintoista. Myös melko ärsyttävää...
+... I can, but I'm not wearing an amulet of ghostspeak... A-am I dead?;... voin, mutta minulla ei ole haamupuheen amulettia... A- olenko kuollut?
+This armour is a symbol of your exploration of Varrock. You now have a 10% chance of mining two ores at once up to coal and a 10% chance of smelting 2 bars at once up to steel, when using the Edgeville;Tämä haarniska on symboli Varrockin tutkimisesta. Edgevilleä käytettäessä sinulla on nyt 10 % todennäköisyys louhia kaksi malmia kerralla jopa hiileksi ja 10 % mahdollisuus sulattaa 2 tankoa kerralla teräkseksi
+furnace. Zaff will stock 15 Battlestaves per day.;uuniin. Zaff varastoi 15 Battlestavea päivässä.
+If you ever lose your armour, come back to me to reclaim it.;Jos kadotat panssarisi, tule takaisin luokseni hakemaan se takaisin.
+I've completed all of the easy tasks in my Varrock Achievement Diary!;Olen suorittanut kaikki helpot tehtävät Varrockin saavutuspäiväkirjassani!
+You've spent 2 days, 8 hours, 24 minutes in the world since you arrived 755 days ago.;Olet viettänyt maailmassa 2 päivää, 8 tuntia, 24 minuuttia saapumisestasi 755 päivää sitten.
+I've completed all of the easy tasks in my Lumbridge & Draynor Achievement Diary!;Olen suorittanut kaikki helpot tehtävät Lumbridge & Draynor Achievement Diary -kirjassani!
+This ring is a symbol of your exploration of Lumbridge and Draynor. It can recharge half of your run energy twice per day and cast low level alchemy without runes 30 times per day.;Tämä sormus on symboli Lumbridgen ja Draynorin tutkimisesta. Se voi ladata puolet juoksuenergiastasi kahdesti päivässä ja heittää alkemiaa ilman riimuja 30 kertaa päivässä.
+If you ever lose your ring, come back to me to reclaim it.;Jos kadotat sormuksen, tule takaisin luokseni hakemaan se takaisin.
+Anteeksi, minulla on kiire.;Anteeksi, on nopea.
+Okei, autan fasaanien kanssa.;Okei, autan fasaanien kanssa.
+Hey, [PLAYER_NAME], can you come and help me with some pheasants?;Hei [PLAYER_NAME], voitko tulla auttamaan minua fasaanien kanssa?
+MitÃ¤ haluaisit sanoa?;MitÃ¤ sano sanoa?
+Saat lampun avustasi, kiitos paljon!;Saat lampun avustasi, kiitos paljon!
+Hey there, [PLAYER_NAME]. I need you to kill a pheasant that has 3 tails. Bring me the raw pheasant when you're done.;Hei [PLAYER_NAME]. Tarvitsen sinun tappavan fasaanin, jolla on 3 häntää. Tuo minulle raaka fasaani, kun olet valmis.
+Thanks, [PLAYER_NAME], you may use the portal to leave the area now.;Kiitos, [PLAYER_NAME], voit poistua alueelta nyt portaalin avulla.
+Welcome! Would you like to go into the Dig Site archaeology cleaning area?;Tervetuloa! Haluatko mennä kaivauspaikan arkeologiselle siivousalueelle?
+Greetings! Have you come to give us a hand?;Tervehdys! Oletko tullut auttamaan meitä?
+Oh? Let's take a look...;Voi? Katsotaanpa...
+Sounds like you never had it!;Kuulostaa siltä, ​​että sinulla ei ole koskaan ollut sitä!
+I found something interesting.;Löysin jotain mielenkiintoista.
+Err... I seem to have lost it. Sorry.;Err... Näyttää siltä, ​​että olen hukannut sen. Anteeksi.
+Take cleaning kit?;Otatko puhdistussarjan?
+Zarosians before Saradominists.;Zarosilaiset ennen saradoministeja.
+Interesting...yes...yes...hmmm.... It looks like it's enchanted.;Mielenkiintoista...kyllä...kyllä...hmmm.... Näyttää siltä, ​​että se on lumoutunut.
+Hmm...all the indications are that it's somewhere to the east of us, but I'm not sure how far. Perhaps it was a teleport back to Saranthium. Let me just take a closer look.;Hmm...kaikki merkit viittaavat siihen, että se on jossain meistä itään, mutta en ole varma kuinka kaukana. Ehkä se oli teleportti takaisin Saranthiumiin. Katsonpa vain tarkemmin.
+Case 22 it is!;Tapaus 22 se on!
+Oh, I think it's just a benign teleportation spell. I tinker in magic when I'm not doing archaeology. I can teach you how to make more necklaces like this. Amazing that they had this kind of knowledge back then.;Luulen, että se on vain hyvänlaatuinen teleportaatioloitsu. Harrastan taikuutta, kun en tee arkeologiaa. Voin opettaa sinua tekemään lisää tämän kaltaisia ​​kaulakoruja. Hämmästyttävää, että heillä oli tällainen tieto silloin.
+I found this piece of pottery - is it of any use?;Löysin tämän keramiikkapalan - onko siitä mitään hyötyä?
+Ahh... Oh! Hmm...yes...made by Zaros worshippers, by the looks of it. Beautifully-shaped. It looks as if this would go nicely in display case 22. This piece reinforces our evidence that the city was occupied by;Ahh... Voi! Hmm...kyllä...Zaros-palvojien tekemiä, ulkonäön perusteella. Kauniisti muotoiltu. Näyttää siltä, ​​että tämä sopisi hienosti vitriiniin 22. Tämä teos vahvistaa todisteemme siitä, että kaupungin miehittivät
+So I just make a ruby necklace and use five fire runes and one cosmic rune to enchant it.;Joten teen vain rubiinikaulakorun ja käytän viittä tuliriimua ja yhtä kosmista riimua sen lumoamiseen.
+Yes, indeed. Well done, youngster, thanks for helping us.;Kyllä, todellakin. Hienoa, nuori, kiitos, että autat meitä.
+That would be good. Where is the teleport to?;Se olisi hyvä. Minne teleportti on?
+I found this pretty necklace.;Löysin tämän kauniin kaulakorun.
+Welcome to the Guild of Master Craftsmen.;Tervetuloa käsityöläisten kiltaan.
+Err ... Ook?;Err... Okei?
+Let's put you back in your cage where you belong...;Laitetaan sinut takaisin häkkiisi, jonne kuulut...
+Ook Ook!;Ook ok!
+No, I only have space for one.;Ei, minulla on tilaa vain yhdelle.
+Ook!;Okei!
+That's nice. Are you ready to go?;Se on mukavaa. Oletko valmis lähtemään?
+Yes. Actually, can I bring some of my friends?;Kyllä. Oikeastaan, voinko tuoda joitain ystäviäni?
+Pretty pleeeeease?;Aika pliis?
+I must be imagining things ... monkeys can't talk.;Kuvittelen varmaan asioita... apinat eivät osaa puhua.
+Hello there, little monkey.;Hei pikku apina.
+Where will you be taking me?;Minne viet minut?
+What??;Mitä??
+That's convenient. When would you like to leave?;Se on kätevää. Milloin haluaisit lähteä?
+How would you like to get out of here?;Miten haluaisit päästä pois täältä?
+Erm ... to the happy, sunny jungle of Karamja...;Erm ... iloiseen, aurinkoiseen Karamjan viidakkoon...
+Escape!? It's all I ever think about!;Paeta!? Se on kaikki mitä koskaan ajattelen!
+Pleeeeease?;Ole hyvä?
+Why do you monkeys keep trying to escape? Good thing I've caught you before you got away, you little scoundrel.;Miksi te apinat yritätte paeta? Hyvä, että sain sinut kiinni ennen kuin pääsit karkuun, sinä pikku roisto.
+Wowee! I was born there you know!;Vau! Olen syntynyt siellä, tiedäthän!
+Look, I already said no. If you want to come then jump into my backpack.;Katsos, sanoin jo ei. Jos haluat tulla, hyppää reppuuni.
+Well, don't worry. We'll have you out of there shortly.;No, älä huoli. Haemme sinut sieltä pian.
+I'm hungry!;Olen nälkäinen!
+I ... er ... I don't know! One minute I was asleep, and the next minute I was here surrounded by monkeys!;Minä... öö... en tiedä! Yhden minuutin nukuin, ja seuraavan minuutin olin täällä apinoiden ympäröimänä!
+My word - what are you doing in there?;Sanani - mitä sinä siellä teet?
+Yeah I'm fearless!;Kyllä, olen peloton!
+No way, that looks scary!;Ei mitenkään, se näyttää pelottavalta!
+DesÃ§a as escadas.;DesÃ§a kuten escadas.
+Suba as escadas.;Suba kuin escadas.
+Subir ou descer escadas?;Subir ou descer escadas?
+O que vocÃª estÃ¡ fazendo na minha terra?;O que vocÃª estÃ¡ fazendo na minha terra?
+Preciso conversar com vocÃª sobre a tosquia dessas ovelhas!;Preciso conversar com vocÃª sobre a tosquia dessas ovelhas!
+Would you like to spend 45 slayer points to select any non-boss specific slayer task?;Haluatko käyttää 45 slayer-pistettä valitaksesi minkä tahansa muun kuin pomokohtaisen slayer-tehtävän?
+OlÃ¡.;OlÃ¡.
+Como posso treinar minha ferraria?;Como posso treinar minha ferraria?
+Bem conhecido! VocÃª estÃ¡ interessado em ouvir sobre a arte da ferraria?;Bem conhecido! VocÃª estÃ¡ interessado em ouvir sobre a arte da ferraria?
+Agora nÃ£o, obrigado.;Agora nÃ£o, ​​obrigado.
+Que tipo de coisas posso forjar?;Que tipo de coisas posso forjar?
+Parece fÃ¡cil para mim.;Parece fÃ¡cil para mim.
+Preciso que vocÃª vÃ¡ atÃ© a porta ao lado e use a garra para pegar minha irmÃ£.;Preciso que vocÃª vÃ¡ atÃ© a porta ao lado e käytä garra para pegar minha irmÃ£.
+One more thing to make your life difficult; the magic powering the claw is running low so you'll only have two attempts to catch her.;Vielä yksi asia, joka tekee elämästäsi vaikeaa; kynsiä käyttävä taika on vähissä, joten sinulla on vain kaksi yritystä saada hänet kiinni.
+Come next door and talk to me.;Tule naapuriin ja puhu minulle.
+Diga a ela para se empanturrar.;Diga a ela para se empanturrar.
+Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!;Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!
+FantÃ¡stico! For so many years I've had to put up with her and now she's locked up for good.;Fantastico! Olen joutunut sietämään häntä niin monta vuotta, ja nyt hän on suljettuna lopullisesti.
+I lured my sister into the room so I could imprison her in the cage by using the claw. The problem is my sister managed to herd some innocent civilians in there with her.;Houkutin siskoni huoneeseen, jotta voisin vangita hänet häkkiin käyttämällä kynsiä. Ongelmana on, että siskoni onnistui paimentamaan viattomia siviilejä mukanaan.
+Ok, quando vocÃª ligar a mÃ¡quina vocÃª verÃ¡ a marca brilhante no chÃ£o onde a garra estÃ¡ apontando, e vocÃª verÃ¡ uma alavanca e um botÃ£o no lado direito da tela.;Ok, quando vocÃª ligar a mÃ¡quina vocÃª verÃ¡ a marca brilhante no chÃ£o onde a garra estÃ¡ apontando, e vocÃª verÃ¡ uma alavanca e um botÃ£o no lado direito da tela.
+EntÃ£o, o que vocÃª precisa que eu faÃ§a?;EntÃ£o, o que vocÃª precisa que eu faÃ§a?
+Que bom que vocÃª perguntou!;Que bom que vocÃª perguntou!
+Thank you for all your help.  Take this as a reward.;Kiitos kaikesta avustasi.  Ota tämä palkintona.
+Obrigado por ter vindo!;Obrigado por ter vindo!
+Sim, por favor. Quer dizer, Ã© sempre melhor estar preparado, certo?;Sim, kiitos. Quer dizer, Ã© semper melhor estar preparado, certo?
+Do be careful and make sure that there is someone on the mark, and not just walking past it.;Ole varovainen ja varmista, että merkin päällä on joku, äläkä vain kävele sen ohi.
+To move the claw's current location, click on the direction you want it to move in, as indicated on the right hand panel.;Siirtääksesi kynnen nykyistä sijaintia, napsauta oikeanpuoleisessa paneelissa osoitettua suuntaa, johon haluat sen liikkuvan.
+Does that help?;Auttaako se?
+When you see someone on top of the glowing mark, then hit the button on the right hand panel, as this will send the claw down to pick them up.;Kun näet jonkun hehkuvan merkin päällä, paina oikeanpuoleisessa paneelissa olevaa painiketta, koska se lähettää kynnen alas poimimaan hänet.
+Oh, and make sure that the person is my sister, so you don't end up catching a random civilian.;Ja varmista, että kyseinen henkilö on siskoni, jotta et joudu kiinni satunnaiseen siviiliin.
+You'll know which way the claw will go as the lever will point that way to show you.;Tiedät, mihin suuntaan kynsi kulkee, koska vipu osoittaa siihen suuntaan näyttääkseen sinulle.
+Eu quero ir embora.;Eu quero ir embora.
+Ã‰ minha irmÃ£ gÃªmea malvada! Ela estÃ¡ tagarelando em torno de Guilenor cometendo crimes e agora estou levando a culpa!;Ã‰ minha irmÃ£ gÃªmea malvada! Ela estÃ¡ tagarelando em torno de Guilenor cometendo crimes e agora estou levando a culpa!
+Once she's in prison, she won't be causing me anymore bother!;Kun hän on vankilassa, hän ei enää häiritse minua!
+Sim, por favor.;Sim, kiitos.
+Boa sorte!;Boa lajittelua!
+A propÃ³sito, vocÃª gostaria que eu verificasse os controles para vocÃª, ou vocÃª acha que conseguirÃ¡?;A propÃ³sito, vocÃª gostaria que eu verificasse os controles para vocÃª, ou vocÃª acha que conseguirÃ¡?
+Hello [PLAYER_NAME]. I've got a message for you from Molly. She needs your help urgently. Will you assist her now?;Hei [PLAYER_NAME]. Minulla on sinulle viesti Mollylta. Hän tarvitsee apuasi kiireesti. Autatko häntä nyt?
+Through that door is a room with a cage and a control panel that operates a giant mechanical claw.;Tuon oven läpi on huone, jossa on häkki ja ohjauspaneeli, joka käyttää jättimäistä mekaanista kynsiä.
+Bem, consegui colocÃ¡-la na jaula.;Bem, consegui colocÃ¡-la na jaula.
+Claro, qualquer coisa por Molly.;Claro, Mollyn qualquer coisa.
+Fabuloso! Agora dÃª uma boa olhada em mim porque a porta estarÃ¡ trancada atrÃ¡s de vocÃª.  My twin looks exactly like me, even her clothes!;Loistavaa! Agora dÃª uma boa olhada em mim porque a porta estarÃ¡ trancada atrÃ¡s de vocÃª.  Kaksoseni näyttää täsmälleen minulta, jopa hänen vaatteensa!
+Sim, isso cobre tudo. Obrigado!;Sim, isso cobre tudo. Obrigado!
+Farei o meu melhor entÃ£o!;Farei o meu melhor entÃ£o!
+Bem, o que tudo isso tem a ver comigo entÃ£o?;Bem, o que tudo isso tem a ver comigo entÃ£o?
+O que vocÃª faz aqui?;O que vocÃª faz aqui?
+OlÃ¡ viajante, o que o traz Ã  minha humilde ferraria?;OlÃ¡ viajante, o que o traz Ã minha humilde ferraria?
+Nurmof tem uma loja na Mina dos AnÃµes. VocÃª pode encontrar a entrada ao lado da Ice Mountain, a leste daqui.;Nurmof tem uma loja na Mina dos Anèes. VocÃª pode encontrar a entrada ao lado da Ice Mountain, a leste daqui.
+Eu queria usar suas bigornas.;Eu queria usar suas bigornas.
+Desculpe, mas tenho uma ordem de execuÃ§Ã£o com Nurmof.;Desculpe, mas tenho uma ordem de execuÃ§Ã£o com Nurmof.
+Ah, Ã© justo.;Ah, justo.
+Eu faÃ§o picaretas. Sou o melhor fabricante de picaretas de toda Guilenor.;Eu faÃ§o picaretas. Sou o melhor fabricante de picaretas de toda Guilenor.
+Eu estava apenas verificando a paisagem.;Eu estava apenas verificando a paisagem.
+Quem Ã© Nurmof?;Quem é Nurmof?
+Quero usar sua pedra de amolar.;Quero usar sua pedra de amolar.
+Cuide da sua vida, baixinho!;Cuide da sua vida, baixinho!
+O que vocÃª quer dizer?;O que vocÃª quer dizer?
+Normalmente consigo colocar 28 coisas na minha mochila e num mundo cheio de possibilidades literalmente ilimitadas, ocorreu uma coincidÃªncia completa!;Normalmente consigo colocar 28 coisas na minha mochila e num mundo cheio de possibilidades literalmente ilimitadas, ocorreu uma coincidÃªncia completa!
+Iniciar a missÃ£o de Doric?;Oletko aloittanut neiti Doricin?
+Clay Ã© o que eu uso mais do que tudo, para fazer moldes. VocÃª poderia me trazer 6 argilas, 4 minÃ©rios de cobre e 2 minÃ©rios de ferro, por favor? Eu poderia pagar um pouco e deixar vocÃª usar minhas bigornas. Leve esta picareta com vocÃª caso precise.;Clay Ã© o que eu uso mais do que tudo, para fazer moldes. VocÃª poderia me trazer 6 argilas, 4 minÃ©rios de cobre e 2 minÃ©rios de ferro, por favor? Eu poderia pagar um pouco e deixar vocÃª usar minhas bigornas. Leve esta picareta com vocÃª caso tarkka.
+Bem, por pura coincidÃªncia, apesar de definitivamente nÃ£o saber o que vocÃª estava prestes a pedir, aconteceu de eu ter carregado exatamente esses itens!;Bem, por pura coincidÃªncia, apesar de definitivamente nÃ£o saber o que vocÃª estava prestes a pedir, aconteceu de eu ter carregado exatamente esses itens!
+Que bom conhecer alguÃ©m com maneiras tÃ£o agradÃ¡veis. Volte novamente quando precisar gritar com alguÃ©m menor que vocÃª!;Que bom conhecer alguÃ©m com maneiras tÃ£o agradÃ¡veis. Volte novamente quando precisar gritar com alguÃ©m menor que vocÃª!
+Na verdade, nas quantidades exatas tambÃ©m!;Na verdade, nas quantidades exatas também!
+NÃ£o entendo muito bem o que vocÃª estÃ¡ dizendo?;NÃ£o entendo muito bem o que vocÃª estÃ¡ dizendo?
+Sim, vou pegar os materiais para vocÃª.;Sim, vou pegar os materiais para vocÃª.
+VocÃª tem algum para vender?;VocÃª tem algum para vender?
+Minhas bigornas dÃ£o trabalho suficiente para meu prÃ³prio uso. Eu faÃ§o picaretas e isso exige muito trabalho. Se vocÃª pudesse me conseguir mais alguns materiais, eu poderia deixar vocÃª usÃ¡-los.;Minhas bigornas dÃ£o trabalho suficiente para meu prÃ³prio uso. Eu faÃ§o picaretas e isso exige muito trabalho. Se vocÃª pudesse me conseguir mais alguns materiais, eu poderia deixar vocÃª usÃ¡-los.
+Nossa, isso Ã© uma coincidÃªncia! Passe-os aqui, por favor. Posso lhe poupar algumas moedas pelo seu trabalho e, por favor, use minhas bigornas sempre que quiser.;Nossa, isso Ã© uma coincidÃªncia! Passe-os aqui, por favor. Posso lhe poupar algumas moedas pelo seu trabalho e, por favor, käytä minhas bigornas semper que quiser.
+VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!;VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!
+Meu colega e eu podemos permitir que vocÃª configure ofertas comerciais. VocÃª pode se oferecer para vender itens ou comprar itens.;Meu colega eu podemos salliir que vocÃª configure ofertas comerciais. VocÃª pode se oferecer para vender itens tai comprar itens.
+We'll look for someone who wants to buy those items at your price, and we'll perform the trade. You can then collect the cash here, or at any bank.;Etsimme jonkun, joka haluaa ostaa kyseiset tuotteet sinun hintaan, ja me hoidamme kaupan. Voit sitten noutaa käteisen täältä tai mistä tahansa pankista.
+When you want to sell something, you give us the items and tell us how much money you want for them.;Kun haluat myydä jotain, anna tuotteet meille ja kerro kuinka paljon haluat niistä rahaa.
+Sometimes it takes a while to find a matching trade offer. If you change your mind, we'll let you cancel your trade offer, and we'll return your unused items and cash.;Joskus kestää jonkin aikaa löytää sopiva kauppatarjous. Jos muutat mieltäsi, annamme sinun peruuttaa kauppatarjouksesi ja palautamme käyttämättömät tuotteet ja käteisen.
+We'll look for someone who's selling those items at your price, and we'll perform the trade. You can then collect the items here, or at any bank, along with any left-over cash.;Etsimme jonkun, joka myy näitä tavaroita sinun hinnallasi, ja teemme kaupan. Voit sitten noutaa tavarat täältä tai mistä tahansa pankista, sekä jäljellä olevan käteisen.
+That's all the essential information you need to get started. Would you like to trade now, or exchange item sets?;Siinä on kaikki olennaiset tiedot, joita tarvitset aloittaaksesi. Haluatko käydä kauppaa nyt vai vaihtaa tavarasarjoja?
+When you want to buy something, you tell us what you want, and give us the cash you're willing to spend on it.;Kun haluat ostaa jotain, kerro meille, mitä haluat, ja anna meille rahat, jotka olet valmis käyttämään siihen.
+Gostaria de acessar minha conta bancÃ¡ria, por favor.;Gostaria de acessar minha conta bancÃ¡ria, por favor.
+O que Ã© esse lugar?;O que é esse lugar?
+Bom dia, em que posso ajudÃ¡-lo?;Bom dia, em que posso ajudÃ¡-lo?
+Gostaria de verificar minhas configuraÃ§Ãµes de PIN.;Gostaria de verificar minhas configuraÃ§Ãµes de PIN.
+Eu gostaria de coletar itens.;Eu gostaria de coletar itens.
+Eu gostaria de comprar mais slots bancÃ¡rios.;Eu gostaria de comprar mais slots bancÃ¡rios.
+VocÃª deixarÃ¡ de ser um Ironman em 7 dias. Tem certeza que quer isso? VocÃª nÃ£o preferiria continuar como Ironman?;VocÃª deixarÃ¡ de ser um Ironman em 7 dias. Tem certeza que quer isso? VocÃª nÃ£o preferiria continuar continuar como Ironman?
+AÃ­ estÃ¡. Use-o com orgulho.;AÃ estÃ¡. Käytä-o com orgulho.
+Okay, it's your call. Now, how can I help you?;Okei, se on sinun puhelusi. Miten voin auttaa sinua?
+Eu gostaria de continuar como Ironman.;Eu gostaria de continuar como Ironman.
+Eu realmente quero parar de ser um Ironman.;Eu realmente quero parar de ser um Ironman.
+Ã‰ por isso que estou esperando aqui!;Ã‰ por isso que estou esperando aqui!
+Mas e se eu quiser ver os avisos novamente?;Mas e se eu quiser ver os avisos novamente?
+Recompensas difÃ­ceis.;Recompensas diféis.
+De nada!;De nada!
+Obrigado!;Obrigado!
+CrianÃ§as.;CrianÃ§as.
+saber mais sobre?;saber mais sobre?
+Recompensas fÃ¡ceis.;Recompensas fÃ¡ceis.
+Obrigado, lembrarei disso se vir alguma mensagem de aviso.;Obrigado, lembrarei disso se vir alguma mensagem de aviso.
+Se vocÃª completar todas as tarefas fÃ¡ceis em Lumbridge e Draynor, seu anel poderÃ¡ recarregar metade de sua energia de corrida duas vezes por dia e lanÃ§ar alquimia de baixo nÃ­vel sem runas 30 vezes por dia.;Se vocÃª completar todas as tarefas fÃ¡ceis em Lumbridge e Draynor, seu anel poderÃ¡ recarregar metade de sua energia de corrida duas vezes por dia e lanÃ§ar alquimia de baixo nÃvel sem runas 30 vezes por dia.
+Sim! Ando pelo mundo sentindo o perigo.;Sim! Ando pelo mundo sentindo o perigo.
+Recompensas Elite.;Recompensas Elite.
+Recompensas mÃ©dias.;Recompensas médias.
+Tutor de perigo?;Perigon opettaja?
+Conte-me mais sobre as recompensas fÃ¡ceis, por favor!;Conte-me mais sobre as recompensas fÃ¡ceis, por favor!
+If I find a dangerous area, then I put up warning signs that will tell you what is so dangerous about that area.;Jos löydän vaarallisen alueen, laitan varoituskylttejä, jotka kertovat, mikä sillä alueella on niin vaarallista.
+If you see the signs often enough, then you can turn them off; by that time you likely know what the area has in store for you.;Jos näet merkkejä riittävän usein, voit sammuttaa ne; siihen mennessä tiedät todennäköisesti, mitä alue tarjoaa sinulle.
+If you want to see the warning messages again, I can turn them back on for you.;Jos haluat nähdä varoitusviestit uudelleen, voin ottaa ne takaisin käyttöön puolestasi.
+You have not proved yourself worthy to enter here yet.;Et ole vielä osoittanut olevasi kelvollinen osallistumaan tänne.
+Oh, ai de mim por nÃ£o conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?;Oh, ai de mim por nÃ£o conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?
+Na verdade, esqueÃ§a...;Na verdade, esqueÃ§a...
+Julieta, Julieta, por que vocÃª Ã© Julieta? VocÃª viu minha Julieta?;Julieta, Julieta, por que vocÃª Ã© Julieta? Vocé viu minha Julieta?
+Perhaps I can help find her for you? Como ela Ã©?;Ehkä voin auttaa löytämään hänet sinulle? Como ela Ã©?
+A raposa...vocÃª poderia dizer a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;A raposa...vocÃª poderia dizer a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?
+Iniciar a missÃ£o Romeu e Julieta?;Oletko aloittanut neiti Romeun ja Julietan?
+Cabelo... confere..;Cabelo... konferenssi..
+Ah, sim... o que vocÃª disse... diga isso a ela, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!;Ah, sim... o que vocÃª disse... diga isso a ela, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!
+Aposto que ela Ã©!  Uauuuu!;Aposto que ela Ã©!  Uuuuu!
+Ah, vocÃª faria? Isso seria Ã³timo! Ela tem esse tipo de cabelo...;Ah, vocé faria? Isso seria Ã³timo! Ela tem esse tipo de cabelo...
+Sorry Romeo, I've got better things to do right now. Maybe later?;Anteeksi Romeo, minulla on parempaa tekemistä juuri nyt. Ehkä myöhemmin?
+O que?  Certamente vocÃª quer dizer que 'ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?';O que?  Certamente vocÃª quer dizer que 'ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?'
+Oh, okay, well, I guess my Juliet and I can spend some time apart.  And as the old saying goes, 'Absinthe makes the heart glow longer'.;Voi, okei, luulen, että Julietin ja minä voimme viettää aikaa erillään.  Ja kuten vanha sanonta kuuluu, "Absintti saa sydämen hehkumaan pidempään".
+Sim, tudo bem. Eu vou avisÃ¡-la.;Sim, tudo bem. Eu vou avisÃ¡-la.
+Ok, obrigado.;Ok, obrigado.
+NÃ£o, desculpe, eu nÃ£o a vi.;NÃ£o, desculpe, eu nÃ£o a vi.
+Bem, acho que ela poderia ser considerada atraente...;Bem, acho que ela poderia ser regardada atraente...
+Desculpe, todo aquele jÃºbilo me fez esquecer do que estÃ¡vamos conversando.;Desculpe, todo aquele jÃºbilo me fez esquecer do que estÃ¡vamos conversando.
+Sim, eu a vi, na verdade!;Sim, eu a vi, na verdade!
+VocÃª estava me perguntando sobre Julieta? VocÃª parecia conhecÃª-la?;VocÃªestava me perguntando sobre Julieta? VocÃª parecia conhecÃª-la?
+LÃ¡bios... certo.;LÃ¡bios... varma.
+HÃ¡ mais alguma coisa que vocÃª possa me contar sobre Juliet?;HÃ¡ mais alguma coisa que vocÃª possa me contar sobre Juliet?
+O que?  Certamente vocÃª quer dizer que ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?;O que?  Certamente vocÃª quer dizer que ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?
+Pelo menos acho que foi ela... Loira? Um pouco estressado?;Pelo menos acho que foi ela... Loira? Um pouco estressado?
+Caramba... sim, sim... vocÃª a faz parecer muito interessante!;Caramba... sim, sim... vocÃª a faz parecer muito interessante!
+VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...;VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...
+Vejo que escolhi um verdadeiro profissional...!;Vejo que escolhi um verdadeiro profissional...!
+...e ela esses...lÃ¡bios lindos...;...e ela esses...lÃ¡bios lindos...
+Quer dizer que vocÃª quer dar um beijo nela!;Quer dizer que vocÃª quer dar um beijo nela!
+Ah, vocÃª Ã© bom... vocÃª Ã© bom!;Ah, vocÃª Ã© bom... vocÃª Ã© bom!
+Ah, e ela tem esses ombros lindos tambÃ©m.;Ah, e ela tem esses ombros lindos tambÃ©m.
+Ah sim, Julieta Ã© muito diferente... por favor diga a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;Ah sim, Julieta Ã© muito diferente... por favor diga a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?
+Onde posso encontrar Julieta?;Onde posso encontrar Julieta?
+Ah, Ã³timo! E diga a ela que quero beijÃ¡-la.;Ah, Ã³timo! E diga a ela que quero beijÃ¡-la.
+Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios e ombros... isso deve diminuir um pouco.;Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios e ombros... isso deve diminuir um pouco.
+OK!;OK!
+Talvez eu possa ajudar a encontrÃ¡-la para vocÃª?;Talvez eu possa ajudar a encontrÃ¡-la para vocÃª?
+É melhor eu ir.;É melhor eu ir.
+Olá, jovem coisinha.;Olá, jovem coisinha.
+How dare you? Of course I'm a wizard. Now don't be so cheeky or I'll turn you into a frog.;Kuinka kehtaat? Tietysti olen velho. Älä nyt ole niin röyhkeä tai teen sinusta sammakon.
+Teach me to be a mighty and powerful wizard.;Opeta minut olemaan mahtava ja voimakas velho.
+Oh I'd better stop talking to you then.;Voi, minun on parempi lopettaa puhuminen sinulle silloin.
+What's a thingummywut?;Mikä on asia?
+Selecione uma opção;Selectione uma opção
+Wizard eh? You don't want any truck with that sort. They're not to be trusted. That's what I've heard anyways.;Velho vai? Et halua sellaista kuorma-autoa. Heihin ei kannata luottaa. Näin olen joka tapauksessa kuullut.
+So aren't you a wizard?;Etkö siis ole velho?
+Olá, posso ajudá-lo?;Olá, posso ajudá-lo?
+I'm sorry, but I can't do that right now.;Olen pahoillani, mutta en voi tehdä sitä juuri nyt.
+Me dê uma missão, o quê?;Me dê uma missão, o quê?
+Not now, I'm trying to concentrate on a very difficult spell!;Ei nyt, yritän keskittyä erittäin vaikeaan loitsuun!
+Me dê uma missão, por favor.;Me dê uma missão, por favor.
+O que você faz aqui?;O que você faz aqui?
+Apenas pare de brincar e me dê uma missão!;Apenas pare de brincar e me dê uma missão!
+Dê-me uma missão!;Dê-me uma missão!
+Dê-me uma missão ou então!;Dê-me uma missão ou então!
+Can you make me some armour please?;Voitko tehdä minulle panssarin?
+Olá.;Olá.
+Não, obrigado.;Ei, obrigado.
+What's that you're wearing?;Mitä sinulla on päälläsi?
+Certainly, what would you like me to make?;Varmasti, mitä haluaisit minun tekevän?
+O que você está fazendo aqui?;O que você está fazendo aqui?
+Which places can the Members object teleport me out of?;Mistä paikoista jäsenet voivat vastustaa teleportointia?
+Can I buy a Members object?;Voinko ostaa jäsenobjektin?
+Quem é você?;Quem é você?
+Liberal! Obrigado estranho..;Liberaali! Obrigado estranho..
+Get away! I do not speak to outlanders.;Mene pois! En puhu ulkomaalaisten kanssa.
+You've done it!;Olet tehnyt sen!
+Desça as escadas.;Desça kuten escadas.
+Bom dia, em que posso ajudá-lo?;Bom dia, em que posso ajudá-lo?
+Posso ajudá-lo?;Posso ajudá-lo?
+Como posso treinar minha oração?;Como posso treinar minha oração?
+Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?;Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?
+Para que serve a oração?;Para que palvella oração?
+Bom dia, irmã.;Bom dia, irmã.
+So you invented the 'Log Canoe' by falling into a river hugging a tree?;Keksit siis "tukikanootin" putoamalla jokeen halaten puuta?
+Yeash! Me and my cousins were having a great party by the river when we decided to have a game of 'Smack The Tree';Kyllä! Minä ja serkkuni vietimme mahtavia juhlia joen rannalla, kun päätimme pelata Smack The Tree -peliä.
+It's a game were you take it in turnsh shmacking a tree. First one to uproot the tree winsh!;Se on peli, jos otat sen vuorotellen ja hakkaat puuta. Ensimmäinen, joka katkaisi puun, voittaa!
+Log Canoe?;Hirsikanootti?
+You could make a Dugout canoe with your woodcutting skill, but I don't see why you would want to.;Voisit tehdä Dugout-kanootin puunleikkaustaidollasi, mutta en ymmärrä miksi haluaisit.
+I'm Sigurd the Great and Brainy.;Olen Sigurd Suuri ja Brainy.
+Sim;Sim
+Can you teach me about Canoeing?;Voitko opettaa minulle melontaa?
+Anyway, I won the game with a flying tackle. The tree came loose and down the river bank I went, still holding the tree.;Joka tapauksessa voitin pelin lentävällä takilla. Puu irtosi ja menin alas joen rantaa pitäen edelleen puuta kiinni.
+I cut all the branches off to make it more comfortable. I could tell you how to if you like?;Leikkasin kaikki oksat irti, jotta se olisi mukavampaa. Voisin kertoa kuinka tehdä, jos haluat?
+Well I refined the design from the original you know!;No, hienostin suunnittelua alkuperäisestä, tiedäthän!
+It's really quite simple. Just walk down to that tree on the bank and chop it down.;Se on todella yksinkertaista. Kävele vain sen puun luokse rantaan ja kaada se.
+Then take your axe to it and shape it how you like!;Ota sitten kirvesi siihen ja muotoile se haluamallasi tavalla!
+Why do they call you the Great and Brainy?;Miksi he kutsuvat sinua suureksi ja älykkääksi?
+Smack the Tree?;Lyö puuta?
+Could you teach me about canoes?;Voisitko opettaa minulle kanootteja?
+NÃ£o;Ei
+Ha Ha! Hello!;Ha Ha! Hei!
+Because I invented the Log Canoe!;Koska minä keksin Log Kanootin!
+I woke up a few hours later and found myself several miles down river. And thatsh how I invented the log canoe!;Heräsin muutaman tunnin kuluttua ja huomasin olevani useita maileja joen alapuolella. Ja niin minä keksin hirsikanootin!
+Do you want a lit candle for 1000 gold?;Haluatko sytytetyn kynttilän 1000 kullalla?
+No thanks, I'd rather curse the darkness.;Ei kiitos, kiroan mieluummin pimeyttä.
+One thousand gold?!;Tuhat kultaa?!
+Subir ou descer a escada?;Subir ou descer a escada?
+DesÃ§a.;Desa.
+Suba.;Suba.
+Fair enough. Here, have a spare potion, and thanks for your time.;Ihan reilua. Tässä, ota ylimääräinen juoma, ja kiitos ajastasi.
+Have you got any guam leaf? I've fixed my Hyde problem, so it's not urgent, but I could do with a guam leaf.;Onko sinulla guamin lehtiä? Olen korjannut Hyde-ongelmani, joten se ei ole kiireellinen, mutta voisin tehdä guamin lehden kanssa.
+I don't have any.;Minulla ei ole yhtään.
+VÃ¡ para sua casa (modo construÃ§Ã£o);VÃ¡ para sua casa (modo construÃ§Ã£o)
+Cancelar;Peruuta
+<str=7f0000>VÃ¡ para a casa de um amigo</str>;<str=7f0000>VÃ¡ para a casa de um amigo</str>
+VÃ¡ para sua casa;VÃ¡ para sua casa
+I'm here to talk about Combat Achievements.;Olen täällä puhumassa Combat Achievementsista.
+Posso ajudar?;Posso ajudar?
+O que vocÃª estÃ¡ fazendo aqui?;O que vocÃª estÃ¡ fazendo aqui?
+No, I'm alright thanks.;Ei, olen kunnossa kiitos.
+In fact, unless me nose be mistaken, you've got some in yer pack.;Itse asiassa, ellei nenäni erehdy, sinulla on niitä pakkauksessasi.
+Five days ago we pulled in a huge catch. As well as fish we caught small slug like creatures, hundreds of them.;Viisi päivää sitten saimme valtavan saaliin. Kalojen lisäksi saimme pieniä etanoita, joita oli satoja.
+I'll reward you for your time. It'll give me peace of mind to know Kennith and my husband, Kent, are safe.;Palkitsen sinut ajastasi. Minulle tulee mielenrauhaa, kun tiedän, että Kennith ja mieheni Kent ovat turvassa.
+I would like a ride on your boat to the fishing platform.;Haluaisin kyydin veneelläsi kalastustasolle.
+Aye, that be perfect.;Joo, se olisi täydellinen.
+Of course m'hearty. If that's what you want.;Tietenkin olen sydämellinen. Jos sitä haluat.
+Maybe the post was lost!;Ehkä viesti on kadonnut!
+Start the Sea Slug quest?;Aloitetaanko Sea Slug -tehtävä?
+Hello Holgart.;Hei Holgart.
+Swamp paste?;Suopasta?
+Yuck! Thanks Kent.;Tsemppiä! Kiitos Kent.
+I doubt the fishermen will come near you if you can get this torch lit.;Epäilen, että kalastajat tulevat lähellesi, jos saat tämän soihdun sytytettyä.
+They usually write to me regularly, but I've heard nothing all week. It's very strange.;Yleensä he kirjoittavat minulle säännöllisesti, mutta en ole kuullut mitään koko viikon. Se on hyvin outoa.
+I figured as much.;Luulin niin paljon.
+It's my husband, he works on a fishing platform. Once a month he takes our son, Kennith, out with him.;Se on mieheni, hän työskentelee kalastusalustalla. Kerran kuukaudessa hän vie poikamme Kennithin mukaansa.
+The sea slugs are scared of heat, I figured that out when I tried to cook them.;Merietanat pelkäävät lämpöä, tajusin sen kun yritin keittää niitä.
+No, I want my daddy!;Ei, minä haluan isäni!
+I need to get Kennith off this platform, but I can't get past the fishermen.;Minun täytyy saada Kennith pois tältä laiturilta, mutta en pääse kalastajien ohi.
+Where is your father?;Missä isäsi on?
+Is there any chance you could visit the platform and find out what's going on?;Onko sinulla mahdollisuutta käydä alustalla ja selvittää, mitä tapahtuu?
+We'd better get back to the platform so we can see what's going on.;Meidän on parempi palata alustalle, jotta voimme nähdä, mitä tapahtuu.
+It was the sea slugs, they attach themselves to your body and somehow take over the mind of the carrier.;Se oli merietanoita, jotka kiinnittyvät kehoosi ja valtaavat jollakin tavalla kantajan mielen.
+The nasty fishermen tried to throw me and daddy into the sea. So he told me to hide here.;Ikävät kalastajat yrittivät heittää minut ja isän mereen. Joten hän käski minun piiloutua tänne.
+That's when the fishermen began to act strange.;Silloin kalastajat alkoivat käyttäytyä oudosti.
+O que estÃ¡ acontecendo aqui?;O que estÃ¡ acontecendo aqui?
+Hello again land lover. There's some strange goings on, on that platform, I tell you.;Hei taas maan ystävä. Kerron teille, että tuolla alustalla tapahtuu outoja asioita.
+A few more minutes and that thing would have full control of your body.;Muutama minuutti vielä ja se saa täyden hallinnan kehostasi.
+Here.;Tässä.
+Hello m'hearty.;Hei sydämellinen.
+I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste.;Pelkään, että se ei ole meren arvoinen, se on täynnä reikiä. Tarvitsen suopastaa reikien täyttämiseen.
+Will you take me there?;Vietkö minut sinne?
+Oh yes, I forgot about that stuff. Can you use it?;Ai niin, unohdin tuon jutun. Voitko käyttää sitä?
+You're telling me, none of the sailors seem to remember who I am.;Kerrot minulle, ettei kukaan merimiehistä näytä muistavan kuka olen.
+The only problem is all the wood and flint are damp... I can't light a thing!;Ainoa ongelma on, että kaikki puu ja piikivi ovat kosteita... En voi sytyttää mitään!
+Ok, I'll go and see if they're ok.;Ok, menen katsomaan, ovatko he kunnossa.
+Please go back and get my boy, you can send help for me later.;Mene takaisin hakemaan poikani, voit lähettää minulle apua myöhemmin.
+Is there any chance you could help me?;Onko sinulla mahdollisuutta auttaa minua?
+They're all being controlled by the sea slugs.;Merietanat hallitsevat heitä kaikkia.
+Your wife sent me out to find you and your boy. Kennith's fine by the way, he's on the platform.;Vaimosi lähetti minut etsimään sinua ja poikaasi. Kennith on muuten kunnossa, hän on laiturilla.
+Are you okay young one?;Oletko kunnossa nuori?
+He went to get help days ago.;Hän meni hakemaan apua päiviä sitten.
+You're right. It all sounds pretty creepy.;Olet oikeassa. Kaikki kuulostaa aika pelottavalta.
+Yes, swamp tar mixed with flour and heated over a fire.;Kyllä, suoterva sekoitetaan jauhojen kanssa ja kuumennetaan tulella.
+I'm keeping away from there.;Pysyn kaukana sieltä.
+I told Kennith to hide until I returned but I was washed up here.;Käskin Kennithin piiloutua, kunnes palaan, mutta minut pestyin tänne.
+Apparently Kennith's father left for help a couple of days ago.;Ilmeisesti Kennithin isä lähti hakemaan apua pari päivää sitten.
+That's very good of you [PLAYER_NAME]. My friend Holgart will take you there.;Se on erittäin hyvä sinusta [PLAYER_NAME]. Ystäväni Holgart vie sinut sinne.
+Oh thank Saradomin! I thought I'd be left out here forever.;Voi kiitos Saradomin! Luulin, että minut jätetään pois täältä ikuisesti.
+That's good advice, you stay here and I'll go try and find your father.;Se on hyvä neuvo, jää tänne, niin minä yritän löytää isäsi.
+Holgart, something strange is going on here.;Holgart, jotain outoa täällä tapahtuu.
+[PLAYER_NAME] wait!;[PLAYER_NAME] odota!
+[1] Will you take me there?;[1] Vietkö minut sinne?
+Maybe, but no-one's heard from the other fishermen on the platform. Their families are becoming quite concerned.;Ehkä, mutta kukaan ei ole kuullut muista laiturilla olevista kalastajista. Heidän perheensä ovat hyvin huolissaan.
+I suppose so, how do I get there?;Oletan niin, miten pääsen sinne?
+That's a worry, no-one's heard from him on shore. Come on, we'd better go look for him.;Se on huoli, kukaan ei ole kuullut hänestä rannalla. Tule, meidän on parasta mennä etsimään häntä.
+Oh, thank the gods it's you. They've all gone mad I tell you, one of the fishermen tried to throw me into the sea!;Voi luojan kiitos se olet sinä. He ovat kaikki tulleet hulluiksi, sanon teille, yksi kalastajista yritti heittää minut mereen!
+I knew the row boat wasn't sea worthy. I couldn't risk bringing him along but you must get him off that platform.;Tiesin, että soutuvene ei ollut meren arvoinen. En voinut ottaa riskiä tuoda häntä mukaan, mutta sinun on saatava hänet pois alustalta.
+NÃ£o!;Ei!
+Hello Kennith, are you okay?;Hei Kennith, oletko kunnossa?
+Looking forward to it.;Odotan sitä innolla.
+Kennith told me about the strange goings-on at the platform. I had no idea it was so serious.;Kennith kertoi minulle oudoista tapahtumista laiturilla. En tiennytkään, että se on niin vakavaa.
+I'm scared of those nasty sea slugs. I won't go near them.;Pelkään niitä ilkeitä merietanoita. En mene heidän lähelle.
+You'll be able to see him soon. First we need to get you back to land, come with me to the boat.;Voit nähdä hänet pian. Ensin meidän täytyy saada sinut takaisin maihin, tule mukaani veneeseen.
+Okay, you wait here and I'll go figure another way to get you out.;Okei, odota täällä, niin minä keksin toisen tavan saada sinut ulos.
+No, I want my daddy.;Ei, minä haluan isäni.
+Ok, when you have I'll come out.;Ok, kun saat, tulen ulos.
+Thank you. Take care of yourself [PLAYER_NAME].;Kiitos. Pidä huolta itsestäsi [PLAYER_NAME].
+We found Kent stranded on an island.;Löysimme Kentin jääneen saarelle.
+I'll figure that out in a moment.;Selvitän sen hetken kuluttua.
+How will I get downstairs?;Miten pääsen alakertaan?
+Kennith, I've made an opening in the wall. You can come out through there.;Kennith, tein aukon seinään. Voit tulla sieltä ulos.
+Yes, he's safe and sound with his parents. Your turn to return to land now adventurer.;Kyllä, hän on turvassa vanhempiensa luona. Sinun vuorosi palata maahan nyt seikkailija.
+What, why not?;Mitä, miksi ei?
+I could have lost my son and my husband if it wasn't for you.;Olisin voinut menettää poikani ja mieheni, jos et olisi ollut sinua.
+Yes, Holgart told me and sent a rescue party out. Kent's back home now, resting with Kennith. I don't think he'll be doing any fishing for a while.;Kyllä, Holgart kertoi minulle ja lähetti pelastusjoukot ulos. Kent on nyt palannut kotiin lepäämään Kennithin kanssa. En usko, että hän kalastaa vähään aikaan.
+Brave [PLAYER_NAME], you've returned!;Rohkea [PLAYER_NAME], olet palannut!
+Not one.;Ei yhtäkään.
+Did you get the kid back to shore?;Saitko lapsen takaisin rantaan?
+Here, take these Oyster pearls as a reward. They're worth quite a bit and can be used to make lethal crossbow bolts.;Ota nämä Oyster-helmet palkinnoksi. Ne ovat melko arvokkaita ja niistä voidaan tehdä tappavia varsijousipultteja.
+Are there any sea slugs on the other side?;Onko toisella puolella merietanoita?
+Okay then. I'll wait here for you.;Okei sitten. Odotan sinua täällä.
+I'll come back later.;Palaan myöhemmin.
+Ok, vamos lÃ¡.;Ok, vamos lÃ¡.
+Hello again Holgart.;Hei taas Holgart.
+Fancy going out to sea?;Haluatko lähteä merelle?
+Well hello again m'hearty. Your land loving legs getting bored? Fancy some cold wet underfoot?;No hei taas sydämellinen. Kyllästyvätkö maata rakastavat jalkasi? Kaipaatko kylmää märkää jalkojen alle?
+PerdÃ£o?;PerdÃ£o?
+Comencemos enseñándote a empuñar un arma.;Comencemos enseñándote a empuñar un arma.
+You should check out the combat interface.;Kannattaa tutustua taistelukäyttöliittymään.
+Un mundo es en lo que juegas. La mayoría de los mundos pueden albergar hasta 2000 jugadores. Se divide en dos tipos principales: mundos libres y mundos de miembros. Puedes intercambiar mundos con World Switcher en el menú Cerrar sesión.;Un mundo es en lo que juegas. La mayoría de los mundos pueden albergar hasta 2000 jugadores. Se divide en dos tipos Principles: mundos libres y mundos de miembros. Puedes intercambiar mundos con World Switcher ja valikko Cerrar sesion.
+Hay varias cosas que puedes hacer con tu cuenta y es donde entra en juego el menú Administración de cuentas. Echemos un vistazo ahora.;Hay varias cosas que puedes hacer con tu cuenta y es donde entra en juego el menú Administración de cuentas. Echemos un vistazo ahora.
+¡Hola! Mi nombre es [PLAYER_NAME].;¡Hola! Minun nimi on [PLAYER_NAME].
+Muy bien, pero ese pequeño cuchillo de mantequilla no te protegerá mucho. Vamos a conseguir algo un poco mejor. Una vez que estés adecuadamente equipado, podremos pasar al combate real.;Muy bien, pero ese pequeño cuchillo de mantequilla no te protegerá mucho. Vamos a conseguir algo un poco mejor. Una vez que estés adecuadamente equipado, podremos pasar al combate real.
+Soy Vannaka, el mejor espadachín del mundo y estoy aquí para enseñarte los conceptos básicos del combate.;Soy Vannaka, el mejor espadachín del mundo y estoy aquí para enseñarte los conceptos básicos del combate.
+El siguiente paso es el combate a distancia. Con esto puedes matar enemigos a distancia. Con rango, podrás atacar a las ratas sin entrar al pozo, lo que significa que no podrán defenderse.;El siguiente paso es el combate a distancia. Con esto puedes matar enemigos a distancia. Con rango, podrás atacar a las ratas sin entrar al pozo, lo que significa que no podrán defense.
+Buenos días, recién llegado. Mi nombre es Terrova. Estoy aquí para contarles sobre Magia. Comenzamos abriendo su interfaz mágica.;Buenos días, recién llegado. Mi nombre es Terrova. Estoy aquí para contarles sobre Magia. Comenzamos abriendo su interfaz magica.
+Las oraciones activas agotarán tus puntos de oración, que puedes recargar buscando un altar u otro lugar sagrado y orando allí.;Las oraciones activas agotarán tus puntos de oración, que puedes recargar buscando un altar u otro lugar sagrado y orando allí.
+Si crees que tienes lo necesario, puedes optar por convertirte en un <col=b10000>Ironman incondicional</col>.;Si crees que tienes lo necesario, puedes optar por convertirte en <col=b10000>Ironman incondicional</col>.
+Como habrás notado, la mayoría de los enemigos dejarán caer huesos cuando sean derrotados. Al enterrar huesos, al hacer clic en ellos en tu inventario, obtendrás experiencia de oración.;Como habrás notado, la mayoría de los enemigos dejarán caer huesos cuando sean derrotados. Al enterrar huesos, al hacer clic en ellos en tu inventario, obtendrás experiencia de oración.
+Mientras estás en Tutorial Island, puedes alternar libremente entre ser un <col=7f0000>Ironman estándar</col>, un <col=00007f>Ultimate <col=00007f>Ironman</col>, un <col=b10000>Ironman intenso</col>, un <col=7f0000>Ironman grupal</col>, un <col=b10000>Hardcore Group Ironman</col> o un personaje normal.;Mientras estás en Tutorial Island, puedes alternar libremente entre ser un <col=7f0000>Ironman estándar</col>, <col=00007f>Ultimate <col=00007f>Ironman</col>, <col=b10000>Ironman intens0070>7f0000> ryhmäl</col>, <col=b10000>Hardcore Group Ironman</col> tai normaali persoona.
+Eso es todo lo que tengo que enseñarte por ahora. Si necesita un recordatorio sobre sus oraciones, hábleme nuevamente.;Eso es todo lo que tengo que enseñarte por ahora. Si necesita un recordatorio sobre sus oraciones, hábleme nuevamente.
+Como <col=b10000>Ironman</col>, eliges que te impongan estas restricciones para que todos sepan que lo estás haciendo correctamente.;Como <col=b10000>Ironman</col>, eliges que te impongan estas restricciones para que todos sepan que lo estás haciendo correctamente.
+Además de las restricciones estándar, los <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>una vida</col>. En caso de una muerte peligrosa, tu estado de <col=b10000>Ironman incondicional</col> se reducirá al de un <col=7f0000>Ironman estándar</col>, y tu;Además de las restricciones estándar, los <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>una vida</col>. En caso de una muerte peligrosa, tu estado de <col=b10000>Ironman incondicional</col> se reducirá al de un <col=7f0000>Ironman estándar</col>, y tu
+Además de las restricciones estándar, los <col=00007f>Ultimate <col=00007f>Ironmen</col> no pueden usar el banco y sueltan todos sus objetos cuando mueren.;Además de las restricciones estándar, los <col=00007f>Ultimate <col=00007f>Ironmen</col> no pueden usar el banco y sueltan todos sus objetos cuando mueren.
+Si tienes algunos amigos, podrías estar solo... Juntos, como <col=7f0000>Grupo Ironmen</col>. Los Ironmen grupales tienen las mismas restricciones que los Ironmen normales, excepto que podéis intercambiar objetos entre vosotros.;Si tienes algunos amigos, podrías estar soolo... Juntos, como <col=7f0000>Grupo Ironmen</col>. Los Ironmen ryhmäles tienen las mismas restricciones que los Ironmen normales, paitsio que podéis intercambiar objetos entre vosotros.
+Así que permitirá que <col=b10000>Hardcore Ironmen</col> o <col=00007f>Ultimate Ironmen</col> bajen de categoría a <col=7f0000>Ironmen estándar</col>, y permitirá que todos los tipos de <col=7f0000>Ironman</col> en solitario se conviertan en personajes regulares.;Kuten <col=b10000>Hardcore Ironmen</col> tai <col=00007f>Ultimate Ironmen</col> bajen de categoría <col=7f0000>Ironmen estándar</col>, sallii que todos los ronfly0</col=7 sementoinf0</col> conviertan en personajes regulares.
+Hola, [PLAYER_NAME]. Soy Paul, el tutor de Ironman. ¿Qué puedo hacer por ti?;Hei [PLAYER_NAME]. Soy Paul, Ironmanin opettaja. ¿Qué puedo hacer por ti?
+Las estadísticas se congelarán en los resultados del <col=b10000>Hardcore Ironman</col>.;Las estadísticas se congelarán los los resultados del <col=b10000>Hardcore Ironman</col>.
+Si sois un grupo atrevido, incluso podéis probar <col=b10000>Hardcore Group Ironmen</col>. Con Hardcore Group Ironmen tienes un número determinado de vidas, cuando lleguen a cero, te convertirás en <col=7f0000>Group Ironmen</col> normal.;Si sois un grupo atrevido, inclluso podéis probar <col=b10000>Hardcore Group Ironmen</col>. Con Hardcore Group Ironmen tienes un número determinado de vidas, cuando lleguen a cero, te convertirás en <col=7f0000>Group Ironmen</col> normaali.
+Para el desafío definitivo, puedes elegir convertirte en un <col=00007f>Ultimate Ironman</col>, un modo de juego inspirado en el jugador <col=00007f>IronNoBank</col>.;Para el desafío definitivo, puedes elegir convertirte en <col=00007f>Ultimate Ironman</col>, unmo de juego inspirado ja jugador <col=00007f>IronNoBank</col>.
+Si alguna vez decides invitar a jugadores experimentados a tu grupo, te convertirás en <col=7f0000>grupo sin clasificar <col=7f0000>hombres de hierro</col>, que ya no se muestran en los resultados de Ironman del grupo.;Si alguna vez päättää kutsua jugadores experimentados a tu grupon, te convertirás en <col=7f0000>grupo sin clasificar <col=7f0000>hombres de hierro</col>, que ya no se muestran en los resultados de Ironman del grupo.
+Una vez que hayas abandonado esta isla, podrás encontrar a mi colega Adam en Lumbridge, pero él solo te permitirá cambiar tus restricciones hacia abajo, no hacia arriba.;Una vez que hayas abandonado esta isla, podrás encontrar a mi colega Adam en Lumbridge, pero él solo te permitirá cambiar tus restricciones hacia abajo, no hacia arriba.
+What would you do if I said 'yes'?;Mitä tekisit jos sanoisin "kyllä"?
+Halt! Are you here to sabotage the Motherlode Mine?;Pysäyttää! Oletko täällä sabotoimassa Motherloden kaivosta?
+No, I'm not.;Ei, en ole.
+What's the Motherlode Mine?;Mikä on Motherloden kaivos?
+Hey there, [PLAYER_NAME]. I need you to kill the pheasant that has four tails. Bring me the raw pheasant when you're done.;Hei [PLAYER_NAME]. Sinun täytyy tappaa se fasaani, jolla on neljä häntä. Tuo minulle raaka fasaani, kun olet valmis.
+Ok, vou ajudar com seus faisões.;Ok, vou ajudar com seus faisões.
+O que você gostaria de dizer?;O que você gostaria de dizer?
+Agora traga-me o faisão cru.;Agora traga-me o faisão cru.
+You get lederhosen legs for your help, many thanks!;Saat lederhosen-jalat avustasi, kiitos paljon!
+Há algo em que eu possa ajudá-lo?;Há algo em que eu possa ajudá-lo?
+Saudações! Sou Hassan, Chanceler do Emir de Al Kharid.;Saudações! Sou Hassan, Emir de Al Kharidin kansleri.
+Não, obrigado, vou dar uma volta.;Não, obrigado, vou dar uma volta.
+Tudo bem, vou lá.;Tudo bem, vou lá.
+Posso passar por este portão?;Posso passar por este portão?
+Claro.;Claro.
+Está muito quente aqui. Como você aguenta isso?;Está muito quente aqui. Como você aguenta isso?
+Você se importa se eu matar seus guerreiros?;Você se importa se eu matar seus guerreiros?
+Bem... atualmente temos um problema muito urgente que precisamos resolver, e suponho que você parece alguém que sabe como fazer um trabalho. Você está definitivamente interessado em ajudar?;Bem... atualmente temos um problem muito urgente que precisamos solver, e suponho que você parece alguém que sabe como fazer um trabalho. Você está definitivamente interessado em ajudar?
+Iniciar a missão Resgate do Príncipe Ali?;Aloititko Missão Resgate do Príncipe Ali?
+Você encontrará nosso Spymaster, Osman, do lado de fora do palácio. Vá até ele e diga que eu enviei você. Ele irá informá-lo sobre os detalhes do nosso problema.;Você encontrará nosso Spymaster, Osman, do lado de fora do palacio. Vá até ele e diga que eu enviei você. Ele irá informá-lo sobre os detalhes do nosso problem.
+Você deve pagar um pedágio de dez moedas de ouro para passar.;Você deve pagar um pedágio de dez moedas de ouro para passar.
+É melhor eu ir embora.;É melhor eu ir embora.
+Justo. Então, qual é esse problema?;Justo. Então, qual é esse ongelma?
+Er... eu só perguntei se ele precisava de ajuda e ele disse que sim.;Er... eu só perguntei se ele precisava de ajuda e ele disse que sim.
+De fato. Você tem mais alguma dúvida antes de ir?;De fato. Você tem mais alguma dúvida antes de ir?
+Você sabe por que eles levaram o Príncipe?;Você sabe por que eles levaram o Príncipe?
+Osman? O Chanceler me disse para vir falar com você. Aparentemente você tem um problema com o qual posso ajudar.;Osman? O Chanceller me disse para vir falar com você. Aparentemente você tem um problem com o qual posso ajudar.
+Você fez uma afirmação justa. Você sabe como é a Keli?;Você fez uma afirmação justa. Você sabe como é a Keli?
+Não. Acho que sei tudo o que preciso.;Ei. Acho que sei tudo o que preciso.
+Segundo nossas informações, Keli é a única capaz de circular livremente pela área. Para tirar o Príncipe de lá, você precisará disfarçá-lo como ela. É claro que ela precisará ser tratada primeiro.;Segundo nossas informações, Keli é a única capaz de circular livremente pela area. Para tirar o Príncipe de lá, você precisará disfarçá-lo como ela. É claro que ela precisará ser tratada primeiro.
+Bem, tenho certeza que consigo fazer isso. Como faço para resgatá-lo?;Bem, tenho certeza que consigo fazer isso. Como faço para resgatá-lo?
+Claro, você precisará encontrar uma maneira de fazer com que Keli lhe mostre a chave sem causar suspeitas. Tenho certeza que Leela pode ajudá-lo com isso.;Claro, você precisará encontrar uma maneira de fazer com que Keli lhe mostre a chave sem causar suspeitas. Tenho certeza que Leela pode ajudá-lo com isso.
+O Príncipe foi levado por um grupo de bandidos liderados pela autoproclamada 'Lady' Keli. Eles o estão mantendo na prisão abandonada a leste da Vila Draynor.;O Príncipe foi levado por um grupo de bandidos liderados pela autoproclamada 'Lady' Keli. Eles o estão mantendo na prisão abandonada a leste da Vila Draynor.
+Antes de ir, há mais uma coisa. Você precisará de uma chave para tirar o Príncipe de sua cela. Keli tem o único. Você poderia roubá-lo, mas parece um risco que devemos evitar.;Antes de ir, há mais uma coisa. Você precisará de uma chave para tirar o Príncipe de sua cela. Keli tem o único. Você poderia roubá-lo, mas parece um risco que devemos evitar.
+Parece que eu deveria ir até Draynor Village e ver Leela então.;Parece que eu deveria on até Draynor Village ja Leela então.
+E colocar em risco a vida do Príncipe no processo? Não. Não haverá riscos desnecessários. Precisamos fazer isso com o mínimo de derramamento de sangue possível.;E colocar em risco ja vida do Príncipe no processo? Ei. Não haverá riscos desnecessários. Precisamos fazer isso com o mínimo de derramamento de sangue possível.
+Mas se ela tem a única cópia e eu não posso simplesmente roubá-la, como consigo a chave?;Mas se ela tem a única cópia eu não posso simplesmente roubá-la, como consigo a chave?
+Ela tem cabelos loiros e usa roupas rosa. Minha filha, Leela, uma das minhas espiãs, está atualmente na Vila Draynor de olho na prisão. Tenho certeza que ela pode ajudá-lo com os detalhes.;Ela tem cabelos loiros e usa roupas rosa. Minha filha, Leela, uma das minhas espiãs, está atualmente na Vila Draynor de olho na prisão. Tenho certeza que ela pode ajudá-lo com os detalhes.
+Se você me trouxer uma impressão da chave junto com uma barra de bronze, posso lhe mostrar como fazer uma cópia. Você deverá conseguir fazer uma impressão da chave usando um pouco de argila macia.;Se você me trouxer uma impressão da chave junto com uma barra de bronze, posso lhe mostrar como fazer uma cópia. Você deverá conseguir fazer uma impressão da chave usando um pouco de argila macia.
+Esse homem é demasiado confiante numa altura em que devemos tomar cuidado extra. No entanto, se ele tomou a sua decisão, não a questionarei. Ainda assim, você deve saber que estarei de olho em você.;Esse homem é demasiado confiante numa altura em que devemos tomar cuidado extra. No entanto, se ele tomou a sua decisão, não a questionarei. Ainda assim, você deve saber que estarei de olho em você.
+Por que não posso simplesmente entrar e matar ela e seus bandidos?;Por que não posso simplesmente entrar e matar ela e seus bandidos?
+Essa seria uma descrição adequada. No entanto, considero você uma escolha interessante do Chanceler. Por que ele escolheu confiar essa tarefa a você em vez de uma das nossas?;Essa seria uma descrição adequada. No entanto, regardo você uma escolha interessante do Chanceler. Por que ele escolheu confiar essa tarefa a você em vez de uma das nossas?
+O Príncipe Ali, herdeiro do Emir de Al Kharid, foi levado. Meus espiões já descobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.;O Príncipe Ali, herdeiro do Emir de Al Kharid, foi levado. Meus espiões já descobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.
+Onde está Leela em Draynor?;Onko Leela em Draynor?
+Então você deveria ir.;Então você deveria ir.
+Sim, eu gostaria de um pouco de corda.;Sim, eu gostaria de um pouco de corda.
+Why, hello there, lad. Me friends call me Ned. I was a man of the sea, but it's past me now. Could I be making or selling you some rope?;Miksi, hei, poika. Ystäväni kutsuvat minua Nediksi. Olin meren mies, mutta se on nyt ohi. Voinko tehdä tai myydä sinulle köyden?
+Que tal algum tipo de peruca?;Que tal algum tipo de peruca?
+Você faz corda de lã?;Você faz corda de lã?
+Tenho certeza que posso. O que você está pensando?;Tenho certeza que posso. O que você está pensando?
+Não, obrigado, Ned. Eu não preciso de nenhum.;Ei, obrigado, Ned. Eu não preciso de nenhum.
+Bem, posso te vender uma corda por 15 moedas. Ou posso fazer alguns para você se você me der quatro novelos de lã. Eu os une, sim, os torna fortes.;Bem, posso te vender uma corda por 15 moedas. Ou posso fazer alguns para você se você me der quatro novelos de lã. Eu os une, sim, os torna fortes.
+Você poderia fazer outras coisas além da corda?;Você poderia fazer outras coisas além da corda?
+Claro que você pode!;Claro que você pode!
+Você poderia tricotar um suéter para mim?;Você poderia tricotar um suéter para mim?
+Hello again, lad. Something I can help you with? Want to buy some rope perhaps?;Hei taas, poika. Voinko auttaa sinua jossain? Haluatko ehkä ostaa köyden?
+Você poderia consertar os buracos das flechas nas costas da minha camisa?;Você poderia consertar os buracos das flechas nas costas da minha camisa?
+Na verdade, não preciso de nada.;Na verdade, não preciso de nada.
+O que você poderia fazer por mim?;O que você poderia fazer por mim?
+Isso é um pouco mais do que quero pagar.;Isso é um pouco mais do que quero pagar.
+Bem, querido, você precisa de uma base para a pasta. Isso é uma mistura de cinza, farinha e água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me esses quatro itens e eu farei alguns para você.;Bem, querido, você precisa de uma base para a pasta. Isso é uma mistura de cinza, farinha e água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me esses quatro itens eu farei alguns para você.
+Sua velha bruxa maluca, você não pode me ajudar.;Sua velha bruxa maluca, você não pode me ajudar.
+Vou pegar um pouco de lã.;Vou pegar um pouco de lã.
+Em que posso ajudá-lo?;Em que posso ajudá-lo?
+Ora, é uma das minhas poções mais populares! Muitas pessoas por aqui gostam de embelezar um pouco o rosto. Posso fazer isso para você se você me conseguir o que for necessário.;Ora, é uma das minhas poções mais populares! Muitas pessoas por aqui gostam de embelezar um pouco o rosto. Posso fazer isso para você se você me conseguir o que for necessário.
+Você quer um pouco de corda ou não?;Você quer um pouco de corda ou não?
+Aí está, a melhor corda de Guilenor.;Aí está, melhor corda de Guilenor.
+O que você precisa?;O que você precisa?
+Você pode fazer pasta de pele?;Você pode fazer pasta de pele?
+Legal, você transforma pessoas em sapos?;Legal, você transforma pessoas em sapos?
+Ok, por favor me venda um pouco de corda.;Ok, suosi mua venda um pouco de cordaa.
+Estou bem, obrigado.;Estou bem, obrigado.
+Gostaria de acessar minha conta bancária, por favor.;Gostaria de acessar minha conta bancária, por favor.
+Gostaria de verificar minhas configurações de PIN.;Gostaria de verificar minhas configurações de PIN.
+Eu gostaria de comprar mais slots bancários.;Eu gostaria de comprar mais slot bancários.
+O que é esse lugar?;O que é esse lugar?
+Howdy there partner! You came at just the right time! I've got something for ya!;Terve kumppani! Tulit juuri oikeaan aikaan! Minulla on sinulle jotain!
+Bem-vindo ao Mercado Geral. Você gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo tai Mercado Geral. Você gostaria de negociar agora ou trocar conjuntos de itens?
+Sim, por favor. Misture-me um pouco de pasta de pele.;Sim, kiitos. Misture-me um pouco de pasta de pele.
+Eu não deveria incomodar alguém tão durão quanto você.;Eu não deveria incomodar alguém tão durão quanto você.
+Ouvi rumores de que você mata pessoas.;Ouvi huhut de que você mata pessoas.
+Você deve ter treinado muito para esse trabalho.;Você deve ter treinado muito para esse trabalho.
+Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.;Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.
+Sim, estou muito ocupado. Adeus.;Sim, estou muito ocupado. Adeus.
+É muita gentileza sua dizer isso. Reputações não são conquistadas facilmente. Consegui ter sucesso onde muitos falham.;É muita gentileza sua dizer isso. Reputações não são conquistadas facilmente. Consegui ter sucesso onde muitos falham.
+Você é a famosa Lady Keli? Líder da gangue de bandidos mais difícil do mundo?;Laulatko kuuluisaa Lady Keliä? Líder da gangue de bandidos mais difícil do mundo?
+Não, obrigado. Não preciso de nenhuma pasta de pele agora.;Ei, obrigado. Não preciso de nenhuma pasta de pele agora.
+Já ouviu falar de você? You're famous in Gielinor!;Já ouviu falar de você? Olet kuuluisa Gielinorissa!
+Qual é o seu plano mais recente então?;Qual é o seu plano mais lateste então?
+Aí está, querido. Isso fará com que você fique bem nas danças de Varrock.;Aí está, querido. Isso fará com que você fique bem nas danças de Varrock.
+Oh, você gosta de xingar uma bruxa, não é?;Voi, você gosta de xingar uma bruxa, não é?
+Isso é uma multa por insultar uma bruxa. Você deveria aprender um pouco de respeito.;Isso é uma multa por insultar uma bruxa. Você deveria aprender um pouco de respeito.
+Sim, eu sou Keli. Você já ouviu falar de mim então?;Sim, eu sou Keli. Você já ouviu falar de mim então?
+Não, nunca ouvi falar de você.;Não, nunca ouvi falar de você.
+Yes, I can. I see you already have the ingredients - the water, flour, ashes and redberries. Would you like me to mix some for you now?;Kyllä, voin. Näen, että sinulla on jo ainekset - vesi, jauhot, tuhkat ja punamarjat. Haluatko, että sekoitan sinulle nyt?
+Isso deveria ser simples. Entregue as coisas para Aggie então.;Isso deveria ser simples. Entregue coisas para Aggie então.
+Por que você quer saber?;Por que você quer sapeli?
+Obrigado. É melhor eu ir agora.;Obrigado. É melhor eu ir agora.
+Bem... só por um momento então.;Bem... só por um momento então.
+Posso tocar na tecla por um momento, por favor?;Posso tocar na tecla por um momento, por favor?
+É claro que você precisará provar seu valor antes de permitirmos que você se junte a nós. Contudo, o que posso dizer é que atualmente temos um prisioneiro muito valioso. Se tudo correr bem, ele nos tornará muito ricos.;É claro que você precisará provar seu valor antes de atļaujirmos que você se junte a nós. Contudo, o que posso dizer é que atualmente temos um prisioneiro muito valioso. Se tudo correr bem, ele nos tornará muito ricos.
+Não existe outra chave como esta no mundo.;Ei ole olemassa outra chave como esta no mundo.
+Bem, suponho que não há mal nenhum em deixar você ver isso. Afinal, você não tem esperança de roubá-lo.;Bem, suponho que não há mal nenhum em deixar você ver isso. Afinal, você não tem esperança de roubá-lo.
+Será algo que poderei contar aos meus netos, quando vocês forem ainda mais famosos do que são agora.;Será algo que poderei contar aos meus netos, quando vocês forem ainda mais famosos do que são agora.
+Como você sabe que alguém não tentará libertá-lo?;Como você sabe que alguém não tentará libertá-lo?
+Para pegá-lo? Oh sim. Tivemos que agarrá-lo sem que seus guarda-costas percebessem. Foi um golpe de gênio. Principalmente obra minha, é claro.;Para pegá-lo? Voi sim. Tivemos que agarrá-lo sem que seus guarda-costas perebessem. Foi um golpe de gênio. Principalmente obra minha, é claro.
+Muito obrigado! Você é muito gentil.;Muito obrigado! Você é muito gentil.
+De nada, mas vá embora agora. I will need some time to consider your request to join us.;De nada, mas vá embora agora. Tarvitsen jonkin aikaa harkitakseni liittymispyyntöäsi.
+Ah, entendo. You must have been very skillful.;Ah, entendo. Olet varmasti ollut erittäin taitava.
+Bem, eu vou embora. Boa sorte.;Bem, eu vou embora. Boa lajittelu.
+Bem, na verdade eu esperava me juntar ao seu grupo.;Bem, na verdade eu esperava me juntar ao seu grupo.
+Posso ver a chave, por favor?;Posso ver a chave, kiitos?
+Essa é uma boa maneira de guardar segredos.;Essa é uma boa maneira de guardar segredos.
+Sempre há alguém pronto para espalhar boatos. Eu ouço todo tipo de coisas ridículas hoje em dia.;Semper há alguém pronto para espalhar boatos. Eu ouço todo tipo de coisas ridículas hoje em dia.
+Não há como libertá-lo. A única chave da cela dele está numa corrente em volta do meu pescoço, e o serralheiro que a fez morreu repentinamente.;Não há como libertá-lo. A única chave da cela dele está numa corrente em volta do meu pescoço, e o serralheiro que a fez morreu repentinamente.
+Por que?;Por que?
+Bem, boa sorte com isso.;Bem, boa sorte com isso.
+Junte-se a nós? Interessante... suponho que você tenha essa aparência.;Junte-se a nos? Interessante... suponho que você tenha essa aparência.
+Não;Ei
+Usarei isso para fazer uma cópia de backup da chave. Darei para Leela caso você perca o seu.;Usarei isso para fazer uma cópia de backup da chave. Darei para Leela caso você perca o seu.
+Eu vou indo.;Eu vou indo.
+Tenho uma impressão da chave.;Tenho uma impressão da chave.
+Agora, você tem mais alguma dúvida?;Agora, você tem mais alguma dúvida?
+Bom, você vai levar isso e sua barra de bronze para uma fornalha. Derreta o bronze, despeje na impressão e deixe esfriar. Isso lhe dará uma cópia da chave.;Bom, você vai levar isso e sua barra de bronze para uma fornalha. Derreta tai pronssi, despeje na impressão e deixe esfriar. Isso lhe dará uma cópia da chave.
+Você tem mais alguma dúvida?;Você tem mais alguma dúvida?
+Não, mas temos as nossas teorias.;Não, mas temos kuin nossas teorias.
+Quer compartilhá-los?;Quer compartilhá-los?
+Ela estará em algum lugar perto da prisão abandonada que os bandidos estão usando. It's just east of the village.;Ela estará em algum lugar perto da prisão abandonada que os bandidos estão usando. Se on kylän itäpuolella.
+Isso danificará a impressão?;Isso danificará a impressão?
+Você de novo. Como vão as coisas em Draynor?;Você de novo. Como vão as coisas em Draynor?
+Não. Você ainda não provou seu valor o suficiente para receber essa informação.;Ei. Você ainda não provou seu valor o suficiente para receber essa informação.
+É possível... Deixe-me dar uma olhada brevemente.;É possível... Deixe-me dar uma olhada brevemente.
+Ainda estou trabalhando para reunir todos os itens que preciso.;Ainda estou trabalhando para reunir todos os itens que preciso.
+Create a key using the key print?;Luodaanko avain käyttämällä avaintulostusta?
+Bem, se precisar de ajuda, é só falar com Leela.;Bem, se precisar de ajuda, é só falar com Leela.
+Preciso obter uma cópia da chave da cela do Príncipe, criar um disfarce para ele que o faça parecer com Keli e depois tirá-lo da prisão.;Preciso obter uma cópia da chave da cela do Príncipe, criar um disfarce para ele que o faça parecer com Keli e depois tirá-lo da prisão.
+Eu diria que é um bom resumo. Agora, você tem alguma pergunta para mim sobre alguma parte do plano?;Eu diria que é um bom resumo. Agora, você tem alguma pergunta para mim sobre alguma parte do plano?
+Você deve ser Leela. Your father sent me to help rescue Prince Ali.;Você deve ser Leela. Isäsi lähetti minut pelastamaan prinssi Alin.
+Could I buy a beer please?;Voinko ostaa olutta kiitos?
+Alguma ideia para o disfarce?;Alguma idea para o disfarce?
+Why are you called Longbow Ben?;Miksi sinua kutsutaan Longbow Beniksi?
+Have you got any quests I could do?;Onko sinulla tehtäviä, joita voisin tehdä?
+Sure, that will be 2 gold coins please.;Toki, se on 2 kultakolikkoa, kiitos.
+Você ouviu algum boato aqui?;Você ouviu algum boato aqui?
+Sim, ele avisou que você viria. Você está ciente do plano?;Sim, ele avisou que você viria. Você está ciente do plano?
+Estou procurando pelo Frank Barba Ruiva.;Estou procurando pelo Frank Barba Ruiva.
+Ok, aqui está.;Ok, aqui está.
+Você está de volta. Você já tem tudo o que precisa?;Você está de volta. Você já tem tudo o que precisa?
+Não pense assim. Eu irei e me prepararei.;Ei pense assim. Eu irei e me prepararei.
+Arrr, amigo!;Arrr, amigo!
+Alguma idéia para a chave?;Alguma idéia para a chave?
+Bom trabalho. Agora, antes de libertar o Príncipe, você precisará encontrar uma maneira de lidar com sua guarda pessoal. Ele é falador, então tente encontrar um ponto fraco. Lembre-se, não queremos violência desnecessária.;Bom trabalho. Agora, antes de libertar o Príncipe, você precisará encontrar uma maneira de lidar com sua guarda pessoal. Ele é falador, então tente encontrar um ponto fraco. Lembre-se, não queremos violência desnecessária.
+Tudo bem. Vou conversar com esse guarda.;Tudo bem. Vou conversar com esse Guara.
+Eu tenho um pouco de cerveja aqui. Gosta de um?;Eu tenho um pouco de cerveja aqui. Gosta de um?
+O que?;O que?
+Aqui, guarde isso para mais tarde. Detesto ver um guarda sedento.;Aqui, guarde isso para mais tarde. Detesto ver um guarda sedento.
+Hello! I'm here to tie you up!;Hei! Olen täällä sitomassa sinut!
+O que você queria ser quando era menino?;O que você queria ser quando era menino?
+Você gostaria de outra cerveja, meu amigo?;Você gostaria de outra cerveja, meu amigo?
+O que você quer?;O que você quer?
+Na verdade, não preciso de um agora.;Na verdade, não preciso de um agora.
+Eu realmente quero.;Eu realmente quero.
+Isso foi perfeito! Não posso agradecer o suficiente.;Isso foi perfeito! Não posso agradecer o suficiente.
+Aqui você vai. Que tal um esforço rápido? Nada mal, eu acho!;Aqui você vai. Que tal um esforço rápido? Nada mal, eu acho!
+Ah, isso seria adorável. Só um, só para molhar a garganta.;Ah, isso seria adorável. Só um, só para molhar a garganta.
+Francamente! Essa lavagem é exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.;Francamente! Essa lavagem é exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.
+Bem... esse é um pensamento interessante. Sim, acho que poderia fazer alguma coisa. Dê-me três novelos de lã e talvez eu consiga fazer isso.;Bem... esse é um pensamento interessante. Sim, acho que poderia fazer alguma coisa. Dê-me três novelos de lã e talvez eu consiga fazer isso.
+Ok, vou tentar.;Ok, vou tentar.
+Ainda não. Eu irei e me prepararei.;Ainda ei. Eu irei e me prepararei.
+Eu os tenho aqui. Por favor, faça-me uma peruca.;Eu os tenho aqui. Por favor, faça-me uma peruca.
+Conte-me sobre a vida de um guarda.;Conte-me sobre a vida de um guarda.
+Obrigado Ned. Há mais em você do que aparenta.;Obrigado Ned. Há mais em você do que aparenta.
+Claro. Deve ser difícil estar aqui sem beber.;Claro. Deve ser difícil estar aqui sem beber.
+É melhor não. Não quero ficar bêbado em serviço.;É melhor não. Não quero ficar bêbado em serviço.
+Thank you, my friend. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.;Kiitos, ystäväni. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.
+O príncipe Ali está em casa em segurança. Você tem a eterna gratidão do Emir por resgatar seu filho. Por favor, aceite este pagamento como um agradecimento.;O principe Ali está em casa em segurança. Você tem a eterna gratidão do Emir por resgatar seu filho. Por favor, aceite este pagamento como um agradecimento.
+Pegue esse disfarce. Você pode usá-lo para passar pelos guardas do lado de fora.;Pegue esse disfarce. Você pode usá-lo para pasar pelos guardas do lado de fora.
+Ah, graças a Deus! Qual é o seu plano?;Ah, kiitos Deusille! Qual é o seu plano?
+Príncipe Ali? Estou aqui para resgatar você.;Principe Ali? Estou aqui para resgatar você.
+Bem, eu não descreveria isso como uma missão, mas há algo em que preciso de ajuda.;Bem, eu não descreveria isso como uma missão, mas há algo em que preciso de ajuda.
+Saudações. Welcome to my castle.;Saudações. Tervetuloa linnaani.
+A Ordem dos Magos da Torre dos Magos tem estado em busca de artefatos mágicos recentemente. Eu me pergunto se isso pode ser exatamente o tipo de coisa que eles procuram.;A Ordem dos Magos da Torre dos Magos tem estado em busca de artefatos mágicos latestemente. Eu me pergunto se isso pode ser exatamente o tipo de coisa que eles procuram.
+Muito obrigado. Você encontrará a Torre dos Feiticeiros a sudoeste daqui, do outro lado da ponte da Vila Draynor. Ao chegar, procure por Sedridor. Ele é o Arquimago dos magos de lá.;Muito obrigado. Você encontrará a Torre dos Feiticeiros a sudoeste daqui, do outro lado da ponte da Vila Draynor. Ao chegar, hanki Sedridorilta. Ele é o Arquimago dos magos de lá.
+Você estaria disposto a levá-los para mim?;Você estaria disposto a levá-los para mim?
+Claro, não há problema.;Claro, ei ole ongelmaa.
+Iniciar a missão Mistérios Rúnicos?;Oletko aloittanut missão Mistérios Rúnicosin?
+Você tem alguma missão para mim?;Você tem alguma missão para mim?
+O que é?;O que é?
+Onde posso encontrar dinheiro?;Onde posso encontrar dinheiro?
+Recentemente, estávamos vasculhando algumas coisas armazenadas no porão e encontramos este antigo talismã.;Recentemente, estávamos vasculhando algumas coisas armazenadas no porão e encontramos este antigo talismã.
+Primeira torre? Esqueceu minha essência? Do que você está falando?;Primeira torre? Esqueceu minha essência? Do que você está falando?
+Foi incendiado por membros traidores da nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.;Foi incendiado por membros traidores da nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.
+Bem-vindo, aventureiro, à mundialmente famosa Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Somos o grupo de bruxos mais antigo e prestigiado do mundo. Agora, como posso ajudá-lo?;Bem-vindo, aventureiro, mundialmente famosa Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Somos o grupo de bruxos mais antigo e prestigiado do mundo. Agora, como posso ajudá-lo?
+O processo de imbuir runas é chamado de criação de runas. Diz a lenda que esta já foi uma arte comum, mas os segredos de como fazê-la foram perdidos até pouco menos de duzentos anos atrás.;O processo de imbuir runas é chamado de criação de runas. Diz a lenda que esta já foi uma arte comum, mas os segredos de como fazê-la foram perdidos até pouco menos de duzentos anos atrás.
+Sedridor? O que você quer com ele?;Sedridor? O que você quer com ele?
+O Duque de Lumbridge enviou-me para procurá-lo. Eu tenho esse talismã que ele encontrou. Ele disse que Sedridor estaria interessado nisso.;Oi Duque de Lumbridge kadehdi minua. Eu tenho esse talismã que ele encontrou. Ele disse que Sedridor estaria interessado nisso.
+Quando a torre pegou fogo, muita coisa foi perdida, incluindo um importante encantamento. Um feitiço que poderia ser usado para se teletransportar para uma mina de essência oculta.;Quando a torre pegou fogo, muita coisa foi perdida, incluindo um importante encantamento. Um feitiço que poderia ser usado para se teletransportar para uma mina de essência oculta.
+Quebra-cabeça?;Quebra-cabeça?
+De fato! O legado perdido da primeira torre. Este talismã pode de fato ser a chave para encontrar a minha essência esquecida!;De fato! O legado perdido da primeira torre. Este talismã pode de fato ser a chave para encontrar a minha essência esquecida!
+Vá em frente.;Vá em frente.
+Ok, aqui está você.;Ok, aqui está você.
+Desde que o encantamento foi perdido, temos lutado para manter nossos estoques de essência rúnica.;Desde que o encantamento foi perdido, temos lutado para manter nossos estoques de essência rúnica.
+Ah, minhas desculpas, aventureiro. Permita-me informá-lo.;Ah, minhas desculpas, aventureiro. Permita-me informá-lo.
+Precisamente. A essência rúnica é o material usado para fazer runas, mas é incrivelmente raro. Essa essência minha era o único lugar que nossa ordem conhecia.;Precisamente. A essência rúnica é o material usado para fazer runas, mas é incrivelmente raro. Essa essência minha era o único lugar que nossa ordem conhecia.
+Essas runas são criadas a partir de um material altamente exclusivo e depois imbuídas de poder mágico de vários altares rúnicos. Altares diferentes criam runas diferentes com efeitos mágicos diferentes.;Essas runas são criadas a partir de um material altamente exclusivo e depois imbuídas de poder mágico de vários altares rúnicos. Altares diferentes criam runas diferentes com efeitos mágicos diferentes.
+Na verdade, não estou interessado.;Na verdade, não estou interessado.
+A essência minha que você mencionou anteriormente, presumo?;A essência minha que você mencionou anteriormente, presumo?
+Ele fez isso agora? Bem, entregue-o então e veremos o motivo de toda essa confusão.;Ele fez isso agora? Bem, entregue-o então e veremos o motivo de toda essa confusão.
+Não, só darei ao Sedridor.;Ei, niin darei tai Sedridor.
+Hmm... Não parece ser nada muito especial. Apenas um talismã de ar normal pela aparência das coisas. Ainda assim, as aparências enganam. Deixe-me dar uma olhada mais de perto...;Hmm... Não parece ser nada muito especial. Apenas um talismã de ar normal pela aparência das coisas. Ainda assim, aparências enganam. Deixe-me dar uma olhada mais de perto...
+A redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também resultou no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.;A redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também resultou no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.
+Se foi a primeira torre, suponho que não exista mais? O que aconteceu?;Se foi a primeira torre, suponho que não exista mais? O que aconteceu?
+Como você provavelmente sabe, quando lançamos feitiços, o fazemos usando o poder das runas.;Como você provavelmente sabe, quando lançamos feitiços, o fazemos usando o poder das runas.
+Você é Sedridor?;Você é Sedridor?
+Que interessante... Parece que falei cedo demais. Há mais neste talismã do que aparenta. Na verdade, pode muito bem ser a última peça do quebra-cabeça.;Que interessante... Parece que falei cedo demais. Há mais neste talismã do que aparenta. Na verdade, pode muito bem ser a última peça do quebra-cabeça.
+Sério agora? Eu sou o Arquimago que você conhece.;Sério agora? Eu sou o Arquimago que você conhece.
+Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.;Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.
+É fundamental que eu compartilhe esta descoberta com meu associado, Aubury, o mais rápido possível. Ele não é um grande mago, mas é um especialista em criação de runas e sua visão será essencial.;É fundamental que eu compartilhe esta descoberta com meu associado, Aubury, o mais rápido possível. Ele não é um grande mago, mas é um especialista em criação de runas e sua visão será essencial.
+Sim, certamente.;Sim, varma.
+Então o que acontece agora?;Então o que acontece agora?
+Teria sido levado muitas vezes à mina de essência, e as energias mágicas de lá terão deixado uma marca nele. E pensar que esteve escondido em Lumbridge todo esse tempo!;Teria sido levado muitas vezes à mina de essência, e as energias mágicas de lá terão deixado uma marca nele. E pensar que esteve escondido em Lumbridge todo esse tempo!
+Não me lembro de ter dito meu nome... Como você sabe disso?;Não me lembro de ter dito meu nome... Como você sabe disso?
+Estou começando a entender por que isso é tão importante. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?;Estou começando a entender por que isso é tão tärkeäe. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?
+Aparentemente, há aqueles por aí que ainda sabem onde encontrar alguma, mas embora estivessem dispostos a vender-nos a essência, recusaram-se a partilhar conhecimentos sobre como encontrá-la nós próprios.;Aparentemente, há aqueles por aí que ainda sabem onde encontrar alguma, mas embora estivessem dispostos a vender-nos a essência, recusaram-se a partilhar conhecimentos sobre como encontrá-la nós próprios.
+Eu faço! Toda magia deixa rastros e, pelo que sei, esse talismã foi muito usado na época da primeira torre.;Eu faço! Toda magia deixa rastros e, pelo que sei, esse talismã foi muito usado na época da primeira torre.
+Não, estou ocupado.;No, estou ocupado.
+Boa sorte, [PLAYER_NAME].;Boa sort, [PLAYER_NAME].
+Ele dirige uma loja de runas no sudeste de Varrock. Por favor, leve este pacote de notas de pesquisa para ele. Se tudo correr bem, os segredos da minha essência poderão em breve ser nossos novamente!;Ele dirige uma loja de runas no sudeste de Varrock. Por favor, leve este pacote de notas de pesquisa para ele. Se tudo correr bem, os segredos da minha essência poderão em breve ser nossos novamente!
+Você quer dizer o encantamento?;Você quer dizer o encantamento?
+Isso... isso é incrível.;Isso... isso é incrível.
+Eu adoraria uma xícara de chá.;Eu adoraria uma xícara de cha.
+Você quer comprar algumas runas?;Você quer comprar algumas runas?
+De Sedridor na Torre dos Feiticeiros.;De Sedridor na Torre dos Feiticeiros.
+Sim, por favor!;Sim, kiitos!
+Fui enviado aqui com um pacote para você.;Fui enviado aqui com um pacote para você.
+Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que poderíamos...;Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que poderíamos...
+Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graças a você, acho que finalmente conseguimos.;Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graças a você, acho que finalmente conseguimos.
+Antes de sair, por que não tomar uma xícara de chá?;Antes de sair, por que não tomar uma xícara de chá?
+Não, não, estou me adiantando. The signs are promising, but let's not jump to any conclusions just yet.;Ei, ei, pidä minua adiantando. Merkit ovat lupaavia, mutta älkäämme tehkö vielä hätiköityjä johtopäätöksiä.
+Aqui, leve essas anotações para Sedridor. Esperançosamente, eles deveriam dar a ele tudo o que ele precisa.;Aqui, leve essas anotações para Sedridor. Esperançosamente, eles deveriam dar a ele tudo o que ele precisa.
+Agora, vamos dar uma olhada...;Agora, vamos dar uma olhada...
+Oh, é uma loja de runas. Não, obrigado, então.;Oh, é uma loja de runas. Ei, obrigado, então.
+De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para ele ter enviado um estranho.;De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para ele ter enviado um estranho.
+Um pacote? De quem?;Öö pacote? De quem?
+Você pode me teletransportar para a Mina de Essência Rúnica?;Você pode me teletransportar Mina de Essência Rúnicaan?
+Este é o seu livro de feitiços, contém todos os feitiços que você pode lançar. Para lançar um feitiço, você precisará ter o nível de magia necessário e a quantidade certa de runas usadas para lançar o feitiço.;Este é o seu livro de feitiços, contém todos os feitiços que você pode lançar. Para lançar um feitiço, você precisará ter o nível de magia necessário e a quantidade certa de runas usadas para lançar o feitiço.
+O prazer é meu!;O prazer é meu!
+When you have a combat spell available, click on it once, then select your target. A good target would be a monster that is below your combat level.;Kun taisteluloitsu on käytettävissä, napsauta sitä kerran ja valitse sitten kohde. Hyvä kohde olisi taistelutasosi alapuolella oleva hirviö.
+Conte-me sobre o combate mágico, por favor.;Conte-me sobre o combate magico, por favor.
+Também compartilharei o encantamento com outras pessoas, incluindo Aubury. Quando eu fizer isso, avisarei que você terá acesso ilimitado à mina.;Também compartilharei o encantamento com outras pessoas, mukaan lukien Aubury. Quando eu fizer isso, avisarei que você terá acesso ilimitado à mina.
+Olá aventureiro, sou o tutor de combate mágico. Você gostaria de aprender sobre combate mágico ou talvez como fazer runas?;Olá aventureiro, sou o tutor de combate magico. Você gostaria de aprender sobre combate mágico ou talvez como fazer runas?
+Há algumas coisas que você precisará para fazer runas, essência rúnica e um talismã para entrar nas ruínas do templo.;Há algumas coisas que você precisará para fazer runas, essência rúnica e um talismã para entrar nas ruínas do templo.
+Se você quiser acessar a minha essência por conta própria, é só me avisar. É o mínimo que posso fazer.;Se você quiser acessar a minha essência por conta própria, é só me avisar. É o mínimo que posso fazer.
+Caso você não saiba, o talismã pode ser usado para criar runas aéreas. Basta levá-lo para o Altar Aéreo ao sul de Falador junto com um pouco de essência rúnica.;Caso você não saiba, o talismã pode ser usado para criar runas aéreas. Basta levá-lo para o Altar Aéreo ao sul de Falador junto com um pouco de essência rúnica.
+Então você poderá acessar essa minha essência agora?;Então você poderá acessar essa minha essência agora?
+Vamos discutir como minhas runas agem quando eu as pego.;Vamos discutir como minhas runas agem quando eu nimellä pego.
+If you want to save yourself an inventory space, you could always try binding the talisman to a tiara.;Jos haluat säästää varastotilaa, voit aina yrittää sitoa talismanin tiaaraan.
+Como faço runas?;Como faço runas?
+When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes.;Kun löydät tuhoutuneen alttarin, käytä siinä olevaa talismania ja kuljeta se temppeliin, jossa voit valmistaa riimujasi.
+Nemarti, the Ranged Combat tutor and I both give out items every 30 minutes, however you must choose whether you want runes or ranged equipment.;Nemarti, Ranged Combat -tutori ja minä jaamme molemmat esineitä 30 minuutin välein, mutta sinun on valittava haluatko riimut vai etäisyysvarusteet.
+Sim, eu tenho. Ele me deu algumas notas para entregar a você.;Sim, eu tenho. Ele me deu algumas notas para entregar a você.
+Quem mais conhece o teletransporte para a Mina de Essência Rúnica?;Quem mais conhece o teletransporte para Mina de Essência Rúnica?
+Try rats in the castle or, if you're feeling brave, the goblins to the west have been causing a nuisance of themselves.;Kokeile rottia linnassa tai, jos tunnet olosi rohkeaksi, lännen pedot ovat aiheuttaneet itselleen haittaa.
+Clicking on the temple's altar will imbue your rune essence with the altar's magical property.;Temppelin alttarin napsauttaminen täyttää riimuesanssisi alttarin maagisella ominaisuudella.
+To make one, take a tiara and talisman to the ruins and use the tiara on the temple altar. This will bind the talisman to your tiara.;Tee sellainen viemällä tiara ja talisman raunioihin ja käyttämällä tiaraa temppelin alttarilla. Tämä sitoo talismanin tiaaraasi.
+You will need a talisman for the rune you would like to create. You can right-click on it and select the Locate option. This will tell you the rough location of the altar.;Tarvitset talismanin riimulle, jonka haluat luoda. Voit napsauttaa sitä hiiren kakkospainikkeella ja valita Paikanna-vaihtoehdon. Tämä kertoo sinulle alttarin karkean sijainnin.
+To claim runes, right-click on me and choose Claim, to claim ranged equipment right-click on the Ranged Combat tutor and select Claim.;Voit lunastaa riimut napsauttamalla minua hiiren kakkospainikkeella ja valitsemalla Lunasta, lunastaaksesi kantaman varusteet napsauta hiiren kakkospainikkeella Ranged Combat -opettajaa ja valitse Claim.
+Não se preocupe se não conseguir encontrar o altar. O talismã pode guiá-lo até lá. Você também pode encontrar talismãs para outros altares enquanto se aventura. Eles permitirão que você crie outros tipos de runas.;Não se preocupe se não conseguir encontrar o alttar. O talismã pode guiá-lo até lá. Você também pode encontrar talismãs para outros altares enquanto se aventura. Eles lubairão que você crie outros tipos de runas.
+Ah, [PLAYER_NAME]. How goes your quest? Have you delivered my research to Aubury yet?;Ah, [PLAYER_NAME]. Miten etsintäsi sujuu? Oletko jo toimittanut tutkimukseni Auburyyn?
+Maravilhoso! Vamos dar uma olhada então.;Maravilhoso! Vamos dar uma olhada então.
+Ótimo! Obrigado!;Ótimo! Obrigado!
+Isso mesmo! Por sua causa, nossa ordem finalmente tem uma fonte adequada de essência rúnica novamente! Obrigado, amigo.;Isso mesmo! Por sua causa, nossa ordem finalmente tem uma fonte adequada de essência rúnica novamente! Obrigado, amigo.
+Sim, é isso! O encantamento perdido!;Sim, é isso! Oi encantamento perdido!
+As you're fairly new to runecrafting you should start with air runes and mind runes.;Koska olet melko uusi runecraftingissa, sinun kannattaa aloittaa ilma- ja mieliriimuilla.
+Há mais alguma coisa que você gostaria de saber?;Há mais alguma coisa que você gostaria de saber?
+Não posso ajudá-lo com isso no momento, desculpe.;Não posso ajudá-lo com isso no momento, desculpe.
+If you have the right amount of runes and the magic level the spell will light up, meaning you will be able to cast it.;Jos sinulla on oikea määrä riimuja ja taikataso, loitsu syttyy, mikä tarkoittaa, että voit heittää sen.
+To check the level and runes required to cast a spell, hover your mouse cursor over the spell.;Voit tarkistaa loitsun suorittamiseen tarvittavan tason ja riimut viemällä hiiren osoitinta loitsun päälle.
+Você poderia me contar sobre a antiga Torre dos Feiticeiros?;Você poderia me contar sobre a antiga Torre dos Feiticeiros?
+To get rune essence you will need to gather them somehow. You should talk to the Duke of Lumbridge, he may be able to help you with that. Alternatively, other players may sell you the essence.;Saadaksesi riimuesanssia, sinun on kerättävä ne jotenkin. Sinun pitäisi puhua Lumbridgen herttualle, hän voi auttaa sinua siinä. Vaihtoehtoisesti muut pelaajat voivat myydä sinulle olemuksen.
+Ah, e você também pode ter esse talismã aéreo de volta. Não preciso mais dele e tenho certeza de que será útil para você.;Ah, e você também pode ter esse talismã aéreo de volta. Não preciso mais dele e tenho certeza de que será útil para você.
+Tudo bem, vamos ver o que Aubury tem para nós...;Tudo bem, vamos ver o que Aubury tem para nós...
+Eu vou tentar.;Eu vou tentar.
+O mago Grayzag da casa ao lado decidiu que não gostava de mim, então alistou um exército de centenas de diabinhos.;O mago Grayzag da casa ao lado decidiu que não gostava de mim, então alistou um exército de centenas de diabinhos.
+Esses diabinhos roubaram todo tipo de coisas minhas. A maioria dessas coisas eu realmente não me importo, apenas ovos e bolas de barbante e coisas assim.;Esses diabinhos roubaram todo tipo de coisas minhas. A maioria dessas coisas eu realmente não me importo, apenas ovos e bolas de barbante e coisas assim.
+Isso é ótimo, obrigado.;Isso é ótimo, obrigado.
+Iniciar a missão Imp Catcher?;Oletko aloittanut missão Imp Catcherin?
+Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minhas contas de volta para mim?;Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minha contas de volta para mim?
+Bem, visto que você pediu com educação... preciso de ajuda.;Bem, visto que você pediu com educação... preciso de ajuda.
+Mas eles roubaram minhas quatro contas mágicas. Havia um vermelho, um amarelo, um preto e um branco.;Mas eles roubaram minhas quatro contas magicas. Havia um vermelho, um amarelo, um preto e um branco.
+Ah, so you are there, Master [PLAYER_NAME]. I'm so glad you summoned me. Please take this lamp and make your wish.;Ah, olet siellä, mestari [PLAYER_NAME]. Olen niin iloinen, että kutsuit minut. Ota tämä lamppu ja tee toiveesi.
+T-hee! Você nunca ordenhou uma vaca antes, não é?;Sinua! Você nunca ordenhou uma vaca antes, não é?
+Como faço para usar o banco?;Como faço para usar o banco?
+Greetings friend. I am a manufacturer of leather.;Tervehdys ystävä. Olen nahan valmistaja.
+I see you have brought me some hides. Would you like me to tan them for you?;Näen, että olet tuonut minulle piiloja. Haluatko, että rusketan ne sinulle?
+Onde e o que devo pescar?;Onde e o que devo pescar?
+Ahoy, to fish, you click on the shrimp fishin' spot while ye'r carrying a net.;Ahoi, kalastaaksesi napsautat katkarapujen kalastuspaikkaa, kun kannat verkkoa.
+Você pode me ensinar o básico da pesca, por favor?;Você pode me ensinar o básico da pesca, por favor?
+Conte-me sobre diferentes peixes.;Conte-me sobre diferentes peixes.
+I see... is that it?;Näen... onko se siinä?
+Ah, you've lost your net have you? Have another!;Ah, oletko menettänyt verkkosi? Ota toinen!
+About Will and Anne...;Willistä ja Annesta...
+Shiver me timbers! I'm afraid not. Old Grog said he might try and track them down. Perhaps he has an idea of where to find them.;Puista minua puut! Pelkään ettei. Vanha Grog sanoi, että hän voisi yrittää jäljittää heidät. Ehkä hänellä on idea, mistä ne löytää.
+OlÃ¡!;OlÃ¡!
+I'm looking for an adventure! This place is meant to be the perfect place to find one for a budding pirate like me!;Etsin seikkailua! Tämän paikan on tarkoitus olla täydellinen paikka löytää sellainen orastavalle merirosvolle, kuten minä!
+What exactly is this one rule you keep mentioning?;Mikä tämä yksi sääntö tarkalleen ottaen on, jota mainitset?
+What are you waiting here for?;Mitä sinä odotat täällä?
+[2] About Will and Anne...;[2] Willistä ja Annesta...
+Ada! Nice to meet you!;Ada! Hauska tavata!
+Will and Anne threw me overboard and I washed up here. I did mention this earlier...;Will ja Anne heittivät minut yli laidan, ja minä peseytyin täällä. Mainitsin tästä aiemmin...
+Nada, obrigado.;Nada, obrigado.
+But I don't have a vessel...;Mutta minulla ei ole alusta...
+Those plundering seadogs! Did you speak to Ribs about them?;Ne ryöstävät merikoiraat! Puhuitko niistä Ribsille?
+I did. He seems to think they might have unleashed some sort of curse.;tein. Hän näyttää ajattelevan, että he saattoivat päästää jonkinlaisen kirouksen valloilleen.
+And where would I find Old Grog?;Ja mistä löytäisin Old Grogin?
+Blistering barnacles! Well, you won't be getting far without a boat of your own. You should head to the docks and speak with Junior Jim, our local shipwright. He'll get you sorted out.;Rakkuloitavia naarmuja! No, et pääse pitkälle ilman omaa venettäsi. Sinun pitäisi suunnata telakoihin ja puhua paikallisen laivantekijämme Junior Jimin kanssa. Hän saa sinut kuntoon.
+Jolly Roger!;Iloinen Roger!
+Alright, I'll go and see him.;Selvä, menen katsomaan häntä.
+Ah, the curse of Barnacle Barnaby! It's one of Ribs' favourite tales. Just a myth of course, but the old dog does love his stories.;Ah, Barnacle Barnabyn kirous! Se on yksi Ribsin suosikkitarinoista. Tietenkin vain myytti, mutta vanha koira rakastaa tarinoitaan.
+What? But then how did you get here?;Mitä? Mutta miten sinä sitten päädyit tänne?
+OlÃ¡. Quem Ã© vocÃª?;OlÃ¡. Quem Ã© vocÃª?
+Vamos ver o que vocÃª tem.;Vamos ver o que vocÃª tem.
+Yo ho ho! A mighty good decision! It's a generous bounty indeed. You don't go breaking the one rule of the Pandemonium and expect to get away with it!;Yo ho ho! Todella hyvä päätös! Se on todella antelias palkkio. Et riko Pandemoniumin yhtä sääntöä ja odota pääseväsi siitä eroon!
+Well, myths aside, Ribs mentioned you'd put a bounty out for Will and Anne. I'd be quite keen to track them down myself.;No, myytit syrjään, Ribs mainitsi, että antaisit palkkion Willille ja Annelle. Haluaisin itsekin löytää ne.
+Ah, the old scallywag left not that long ago, but he'll be back here before long. He enjoys a drink far too much! In the meantime, you should hoist the sails and ready your vessel!;Ah, vanha räpylä lähti ei niin kauan sitten, mutta hän tulee takaisin tänne ennen pitkää. Hän nauttii juomasta aivan liikaa! Sillä välin sinun kannattaa nostaa purjeet ja valmistaa alus!
+Yarr! What will it be?;Yarr! Mitä se tulee olemaan?
+Do you have any idea where Will and Anne might have gone?;Onko sinulla aavistustakaan minne Will ja Anne saattoivat mennä?

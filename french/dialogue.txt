@@ -54039,3 +54039,775 @@ Get ho is offering to give you a bond.;Get ho propose de vous donner une caution
 Accept it.;Acceptez-le.
 Decline it.;Refusez-le.
 ... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun Flocon de neige et mon bras asuvat onnellisina yhdessä Weississä.
+Until then, back to whence you came!;En attendant, retourne d’où tu viens !
+How? What do you have to offer?;Comment? Qu'avez-vous à offrir ?
+Hmm... I see. That makes this slightly more complex, but no matter. You can still help us.;Hmm... je vois. Cela rend les choses un peu plus complexes, mais peu importe. Vous pouvez toujours nous aider.
+What? Then how do you get there.;Quoi? Alors comment y arriver.
+Ah, you again. The Wilderness is hardly the appropriate place for a conversation now, is it? What was it you wanted?;Ah, encore toi. Le Wilderness n’est plus vraiment l’endroit approprié pour une conversation, n’est-ce pas ? Qu'est-ce que tu voulais ?
+So why did you approach me?;Alors pourquoi m'as-tu contacté ?
+Until recently, our runecrafting secrets allowed us to produce runes at a far superior rate compared to the inept Order of Wizards, but something has changed.;Jusqu'à récemment, nos secrets de création de runes nous permettaient de produire des runes à un rythme bien supérieur à celui de l'inepte Ordre des Sorciers, mais quelque chose a changé.
+Err... I didn't really want anything.;Euh... je ne voulais vraiment rien.
+I was conducting business.;Je faisais des affaires.
+I can't imagine they like you crafting runes much. Do they not try and stop you?;Je ne peux pas imaginer qu'ils aiment beaucoup que vous fabriquiez des runes. N'essaient-ils pas de vous arrêter ?
+I'll give you a scrying orb with a standard cypher spell cast upon it. The orb will absorb mystical energies that it is exposed to.;Je vais vous donner un orbe de divination sur lequel est lancé un sort de chiffrement standard. L'orbe absorbera les énergies mystiques auxquelles il est exposé.
+What business?;Quelle affaire ?
+Ha! I'm sure they'd love to, but we have methods of runecrafting that they can only dream of!;Ha! Je suis sûr qu'ils adoreraient le faire, mais nous avons des méthodes de création de runes dont ils ne peuvent que rêver !
+Good. Now, all I need from you is the spell that will teleport me to the Rune Essence Mine.;Bien. Maintenant, tout ce dont j'ai besoin de votre part, c'est du sort qui me téléportera à la mine d'essence runique.
+I was just wondering what you were doing.;Je me demandais juste ce que tu faisais.
+Maybe I could make it worth your while?;Peut-être que je pourrais faire en sorte que cela en vaille la peine ?
+In the Wilderness? Why?;Dans le désert ? Pourquoi?
+My associates and I. Despite the best attempts of the Saradominists, there's still more of us around than they'd like.;Mes associés et moi. Malgré les meilleures tentatives des Saradoministes, nous sommes toujours plus nombreux qu'ils ne le souhaiteraient.
+If you teleport to the Rune Essence Mine from three different locations, the orb will absorb the energies of the spell and allow us to reverse-engineer the magic behind it.;Si vous vous téléportez à la mine d'essence runique depuis trois endroits différents, l'orbe absorbera les énergies du sort et nous permettra de procéder à une ingénierie inverse de la magie qui se cache derrière lui.
+Well what is it you want?;Eh bien, qu'est-ce que tu veux ?
+Err... I don't actually know the spell.;Euh... Je ne connais pas vraiment le sort.
+Why would I? You are not a member of our institute. How do I know you won't just go and share all of our secrets with those Saradominist fools in the Order of Wizards.;Pourquoi le ferais-je ? Vous n'êtes pas membre de notre institut. Comment puis-je être sûr que vous n'irez pas partager tous nos secrets avec ces imbéciles saradoministes de l'Ordre des Sorciers.
+If you want to talk, this isn't the place for it. Meet me in Varrock's Chaos Temple, by the rune shop. Unless you're here to buy something?;Si tu veux parler, ce n'est pas le lieu pour ça. Retrouvez-moi au Temple du Chaos de Varrock, près du magasin de runes. A moins que tu sois là pour acheter quelque chose ?
+Well I can't go doing it in the middle of Varrock, can I? In case you hadn't noticed, I'm a servant of Zamorak. The Saradominists have made sure that people like me are not welcome in these parts.;Eh bien, je ne peux pas aller le faire au milieu de Varrock, n'est-ce pas ? Au cas où vous ne l'auriez pas remarqué, je suis un serviteur de Zamorak. Les Saradoministes ont fait en sorte que les gens comme moi ne soient pas les bienvenus dans ces régions.
+Alright, I'll go.;Très bien, j'y vais.
+You did? Perhaps I underestimated you.;Vous l'avez fait ? Peut-être que je t'ai sous-estimé.
+I sell runes.;Je vends des runes.
+Ah, well I know all about that. I was actually the one to help them do it!;Ah, eh bien, je sais tout à ce sujet. En fait, c’est moi qui les ai aidés à le faire !
+Where do you get your runes from?;D'où tirez-vous vos runes ?
+Well if not, I'm sure one of those fools in the Order of Wizards can tell you. Now, here's the orb.;Sinon, je suis sûr qu'un de ces imbéciles de l'Ordre des Sorciers pourra vous le dire. Maintenant, voici l'orbe.
+Care to share?;Envie de partager ?
+You did what? You helped the Order of Wizards?;Tu as fait quoi ? Vous avez aidé l'Ordre des Sorciers ?
+Deal.;Accord.
+Well we craft them of course.;Eh bien, nous les fabriquons bien sûr.
+From what we can gather, they've somehow rediscovered how to access the lost Rune Essence Mine.;D'après ce que nous pouvons comprendre, ils ont en quelque sorte redécouvert comment accéder à la mine d'essence runique perdue.
+Alright, if you help us access the Rune Essence Mine, we will share our runecrafting secrets with you in return.;D'accord, si vous nous aidez à accéder à la mine d'essence runique, nous partagerons avec vous nos secrets de création de runes en retour.
+I did it so that I could then steal their secrets.;Je l'ai fait pour pouvoir ensuite voler leurs secrets.
+Oh, well the people who do know the spell just teleport me there directly.;Oh, eh bien, les gens qui connaissent le sort me téléportent directement là-bas.
+The reason we are able to craft so many runes is because we do not visit the runic altars in the traditional way. Instead, we have found a way to teleport to them directly.;La raison pour laquelle nous sommes capables de fabriquer autant de runes est que nous ne visitons pas les autels runiques de la manière traditionnelle. Au lieu de cela, nous avons trouvé un moyen de nous téléporter directement vers eux.
+Anyway, you may also have this pouch as well. I'm sure you will find it useful. Now, we're done here.;Quoi qu'il en soit, vous pouvez également avoir cette pochette. Je suis sûr que vous le trouverez utile. Maintenant, nous avons terminé ici.
+So can I use the Abyss?;Alors, puis-je utiliser l'Abyss ?
+Yes. Visit me in the Wilderness whenever you wish to be teleported there. Just be careful, for it is a dangerous place. Still, I'm sure you'll agree that the risk is worth the reward.;Oui. Rendez-moi visite dans le désert chaque fois que vous souhaitez y être téléporté. Soyez juste prudent, car c'est un endroit dangereux. Néanmoins, je suis sûr que vous conviendrez que le risque en vaut la peine.
+How is it dangerous?;En quoi est-ce dangereux ?
+You again. Have you managed to use that scrying orb to obtain the information I need?;Encore toi. Avez-vous réussi à utiliser cet orbe de divination pour obtenir les informations dont j'avais besoin ?
+Right, let's take a look at this orb...;Bien, jetons un coup d'oeil à cet orbe...
+Via another plane known as the Abyss. It is a complex place that cannot be easily explained, but I will share our research notes with you so you may better understand it.;Via un autre plan connu sous le nom d'Abyss. C'est un endroit complexe qui ne peut pas être facilement expliqué, mais je partagerai avec vous nos notes de recherche afin que vous puissiez mieux le comprendre.
+Just don't expect to be using any prayers in there.;Ne vous attendez pas à utiliser des prières là-dedans.
+Yes, this will do nicely. Once again, the Zamorak Magical Institute has overcome the Order of Wizards!;Oui, cela fera l'affaire. Une fois de plus, l'Institut Magique de Zamorak a vaincu l'Ordre des Sorciers !
+There are creatures there that will hunt and attack any visitors on sight. The magic we use for teleporting there can also be a bit... unstable.;Il y a des créatures qui chasseront et attaqueront tous les visiteurs à vue. La magie que nous utilisons pour nous téléporter là-bas peut aussi être un peu... instable.
+Sure, here you go...;Bien sûr, voilà...
+Certainly, guv. That'll be 50 coins, please.;Certainement, chef. Cela fera 50 pièces, s'il vous plaît.
+<col=000080>Try not to think about it.;<col=000080>Essayez de ne pas y penser.
+<col=000080>Can you hear me?;<col=000080>Pouvez-vous m'entendre ?
+<col=000080>I'm no ghost! I'm a spirit, I'm injecting my thoughts <col=000080>into your head.;<col=000080>Je ne suis pas un fantôme ! Je suis un esprit, j'injecte mes pensées <col=000080>dans ta tête.
+Oh, that's... interesting. Also rather disturbing...;Oh, c'est... intéressant. Et plutôt inquiétant...
+... I can, but I'm not wearing an amulet of ghostspeak... A-am I dead?;... Je peux, mais je ne porte pas d'amulette de langage fantôme... A-suis-je mort ?
+This armour is a symbol of your exploration of Varrock. You now have a 10% chance of mining two ores at once up to coal and a 10% chance of smelting 2 bars at once up to steel, when using the Edgeville;Cette armure est un symbole de votre exploration de Varrock. Vous avez désormais 10 % de chances d'extraire deux minerais à la fois jusqu'au charbon et 10 % de chances de fondre 2 barres à la fois jusqu'à l'acier, lorsque vous utilisez Edgeville.
+furnace. Zaff will stock 15 Battlestaves per day.;four. Zaff stockera 15 Battlestaves par jour.
+If you ever lose your armour, come back to me to reclaim it.;Si jamais vous perdez votre armure, revenez me voir pour la récupérer.
+I've completed all of the easy tasks in my Varrock Achievement Diary!;J'ai accompli toutes les tâches faciles de mon journal de réussite de Varrock !
+You've spent 2 days, 8 hours, 24 minutes in the world since you arrived 755 days ago.;Vous avez passé 2 jours, 8 heures et 24 minutes dans le monde depuis votre arrivée il y a 755 jours.
+I've completed all of the easy tasks in my Lumbridge & Draynor Achievement Diary!;J'ai accompli toutes les tâches faciles de mon journal de réussite de Lumbridge & Draynor !
+This ring is a symbol of your exploration of Lumbridge and Draynor. It can recharge half of your run energy twice per day and cast low level alchemy without runes 30 times per day.;Cette bague est un symbole de votre exploration de Lumbridge et Draynor. Il peut recharger la moitié de votre énergie de course deux fois par jour et lancer une alchimie de bas niveau sans runes 30 fois par jour.
+If you ever lose your ring, come back to me to reclaim it.;Si jamais vous perdez votre bague, revenez me voir pour la récupérer.
+Anteeksi, minulla on kiire.;Anteeksi, minulla sur kiire.
+Okei, autan fasaanien kanssa.;Okei, autan fasaanien kanssa.
+Hey, [PLAYER_NAME], can you come and help me with some pheasants?;Hé, [PLAYER_NAME], peux-tu venir m'aider avec des faisans ?
+MitÃ¤ haluaisit sanoa?;Mitä haluaisit sanoa?
+Saat lampun avustasi, kiitos paljon!;Saat lampun avustasi, kiitos paljon!
+Hey there, [PLAYER_NAME]. I need you to kill a pheasant that has 3 tails. Bring me the raw pheasant when you're done.;Salut, [PLAYER_NAME]. J'ai besoin que tu tues un faisan qui a 3 queues. Apportez-moi le faisan cru quand vous aurez fini.
+Thanks, [PLAYER_NAME], you may use the portal to leave the area now.;Merci, [PLAYER_NAME], vous pouvez utiliser le portail pour quitter la zone maintenant.
+Welcome! Would you like to go into the Dig Site archaeology cleaning area?;Accueillir! Souhaitez-vous entrer dans la zone de nettoyage archéologique du site de fouilles ?
+Greetings! Have you come to give us a hand?;Salutations! Êtes-vous venu nous donner un coup de main ?
+Oh? Let's take a look...;Oh? Jetons un coup d'oeil...
+Sounds like you never had it!;On dirait que vous ne l'avez jamais eu !
+I found something interesting.;J'ai trouvé quelque chose d'intéressant.
+Err... I seem to have lost it. Sorry.;Euh... il me semble que je l'ai perdu. Désolé.
+Take cleaning kit?;Prendre un kit de nettoyage ?
+Zarosians before Saradominists.;Les Zarosiens avant les Saradoministes.
+Interesting...yes...yes...hmmm.... It looks like it's enchanted.;Intéressant...oui...oui...hmmm.... On dirait que c'est enchanté.
+Hmm...all the indications are that it's somewhere to the east of us, but I'm not sure how far. Perhaps it was a teleport back to Saranthium. Let me just take a closer look.;Hmm... tout indique que c'est quelque part à l'est de nous, mais je ne sais pas jusqu'où. Peut-être s'agissait-il d'une téléportation vers Saranthium. Laissez-moi juste regarder de plus près.
+Case 22 it is!;C'est le cas 22 !
+Oh, I think it's just a benign teleportation spell. I tinker in magic when I'm not doing archaeology. I can teach you how to make more necklaces like this. Amazing that they had this kind of knowledge back then.;Oh, je pense que c'est juste un sort de téléportation inoffensif. Je bricole en magie quand je ne fais pas d'archéologie. Je peux vous apprendre à fabriquer d'autres colliers comme celui-ci. C’est incroyable qu’ils aient eu ce genre de connaissances à l’époque.
+I found this piece of pottery - is it of any use?;J'ai trouvé ce morceau de poterie. Est-il utile ?
+Ahh... Oh! Hmm...yes...made by Zaros worshippers, by the looks of it. Beautifully-shaped. It looks as if this would go nicely in display case 22. This piece reinforces our evidence that the city was occupied by;Ahh... Oh ! Hmm... oui... fabriqué par des fidèles de Zaros, à en juger par son apparence. Magnifiquement formé. Il semble que cela irait bien dans la vitrine 22. Cette pièce renforce notre preuve que la ville était occupée par
+So I just make a ruby necklace and use five fire runes and one cosmic rune to enchant it.;Je fabrique donc simplement un collier de rubis et j'utilise cinq runes de feu et une rune cosmique pour l'enchanter.
+Yes, indeed. Well done, youngster, thanks for helping us.;Oui en effet. Bravo, mon jeune, merci de nous aider.
+That would be good. Where is the teleport to?;Ce serait bien. Où est la téléportation ?
+I found this pretty necklace.;J'ai trouvé ce joli collier.
+Welcome to the Guild of Master Craftsmen.;Bienvenue dans la Guilde des Maîtres Artisans.
+Err ... Ook?;Euh... Ok ?
+Let's put you back in your cage where you belong...;Remettons-nous dans votre cage à laquelle vous appartenez...
+Ook Ook!;Ook Ook !
+No, I only have space for one.;Non, je n'ai de la place que pour un.
+Ook!;Ouais !
+That's nice. Are you ready to go?;C'est bien. Êtes-vous prêt à partir ?
+Yes. Actually, can I bring some of my friends?;Oui. En fait, puis-je amener certains de mes amis ?
+Pretty pleeeeease?;Plutôt s'il vous plaît ?
+I must be imagining things ... monkeys can't talk.;Je dois imaginer des choses... les singes ne peuvent pas parler.
+Hello there, little monkey.;Bonjour, petit singe.
+Where will you be taking me?;Où vas-tu m'emmener ?
+What??;Quoi??
+That's convenient. When would you like to leave?;C'est pratique. Quand souhaiteriez-vous partir ?
+How would you like to get out of here?;Comment aimerais-tu sortir d'ici ?
+Erm ... to the happy, sunny jungle of Karamja...;Euh... dans la jungle joyeuse et ensoleillée de Karamja...
+Escape!? It's all I ever think about!;S'échapper!? C'est tout ce à quoi je pense !
+Pleeeeease?;S'il vous plait ?
+Why do you monkeys keep trying to escape? Good thing I've caught you before you got away, you little scoundrel.;Pourquoi les singes continuent-ils à essayer de s'échapper ? Heureusement que je t'ai attrapé avant que tu ne t'enfuies, petite canaille.
+Wowee! I was born there you know!;Waouh ! Je suis né là-bas, tu sais !
+Look, I already said no. If you want to come then jump into my backpack.;Écoute, j'ai déjà dit non. Si tu veux venir, saute dans mon sac à dos.
+Well, don't worry. We'll have you out of there shortly.;Eh bien, ne vous inquiétez pas. Nous vous sortirons de là sous peu.
+I'm hungry!;J'ai faim !
+I ... er ... I don't know! One minute I was asleep, and the next minute I was here surrounded by monkeys!;Je... euh... je ne sais pas ! Une minute, je dormais, et la minute suivante, j'étais ici, entouré de singes !
+My word - what are you doing in there?;Ma parole, qu'est-ce que tu fais là-dedans ?
+Yeah I'm fearless!;Ouais, je n'ai pas peur !
+No way, that looks scary!;Pas question, ça a l'air effrayant !
+DesÃ§a as escadas.;Desça comme escadas.
+Suba as escadas.;Suba comme escadas.
+Subir ou descer escadas?;Subir ou descendre des escadas ?
+O que vocÃª estÃ¡ fazendo na minha terra?;O que voça está fazendo na minha terra?
+Preciso conversar com vocÃª sobre a tosquia dessas ovelhas!;Conversar précisément avec votre voix sur tosquia dessas ovelhas !
+Would you like to spend 45 slayer points to select any non-boss specific slayer task?;Souhaitez-vous dépenser 45 points de tueur pour sélectionner une tâche de tueur non spécifique au boss ?
+OlÃ¡.;Olá.
+Como posso treinar minha ferraria?;Comment puis-je apprendre à Minha Ferrari?
+Bem conhecido! VocÃª estÃ¡ interessado em ouvir sobre a arte da ferraria?;Soyez conscient! Êtes-vous intéressé à ouvir par l'art de la Ferrari?
+Agora nÃ£o, obrigado.;Agora não, obrigado.
+Que tipo de coisas posso forjar?;Quel type de coisas pouvons-nous forjar ?
+Parece fÃ¡cil para mim.;Parece fácil para mim.
+Preciso que vocÃª vÃ¡ atÃ© a porta ao lado e use a garra para pegar minha irmÃ£.;Précisément, vous devez aller au porta ao lado et utiliser un garra para pegar minha irmá£.
+One more thing to make your life difficult; the magic powering the claw is running low so you'll only have two attempts to catch her.;Encore une chose qui vous rend la vie difficile ; la magie qui alimente la griffe est faible, vous n'aurez donc que deux tentatives pour l'attraper.
+Come next door and talk to me.;Viens à côté et parle-moi.
+Diga a ela para se empanturrar.;Diga a ela para se empanturrar.
+Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!;Bon travail ! VocÃª conseguiu pegar minha irmÃ£!
+FantÃ¡stico! For so many years I've had to put up with her and now she's locked up for good.;Fantastique ! J'ai dû la supporter pendant tant d'années et maintenant elle est enfermée pour de bon.
+I lured my sister into the room so I could imprison her in the cage by using the claw. The problem is my sister managed to herd some innocent civilians in there with her.;J'ai attiré ma sœur dans la pièce pour pouvoir l'emprisonner dans la cage en utilisant la griffe. Le problème est que ma sœur a réussi à rassembler des civils innocents avec elle.
+Ok, quando vocÃª ligar a mÃ¡quina vocÃª verÃ¡ a marca brilhante no chÃ£o onde a garra estÃ¡ apontando, e vocÃª verÃ¡ uma alavanca e um botÃ£o no lado direito da tela.;Ok, quand vous allumez une machine, vous voyez une marque brillante sans que votre onde de garra soit posée, et vous voyez une marche et un bouton pas directement à partir du tissu.
+EntÃ£o, o que vocÃª precisa que eu faÃ§a?;Alors, où es-tu précis que tu as fait?
+Que bom que vocÃª perguntou!;Que bom que você perguntou!
+Thank you for all your help.  Take this as a reward.;Merci pour toute votre aide.  Prenez cela comme une récompense.
+Obrigado por ter vindo!;Obrigado por ter vindo!
+Sim, por favor. Quer dizer, Ã© sempre melhor estar preparado, certo?;Sim, s'il te plaît. Qu'est-ce qui se passe, est-ce que le meilleur est déjà préparé, bien sûr ?
+Do be careful and make sure that there is someone on the mark, and not just walking past it.;Soyez prudent et assurez-vous qu'il y a quelqu'un sur la marque, et pas seulement devant.
+To move the claw's current location, click on the direction you want it to move in, as indicated on the right hand panel.;Pour déplacer l'emplacement actuel de la griffe, cliquez sur la direction dans laquelle vous souhaitez qu'elle se déplace, comme indiqué sur le panneau de droite.
+Does that help?;Est-ce que ça aide ?
+When you see someone on top of the glowing mark, then hit the button on the right hand panel, as this will send the claw down to pick them up.;Lorsque vous voyez quelqu'un au-dessus de la marque lumineuse, appuyez sur le bouton sur le panneau de droite, car cela enverra la griffe vers le bas pour le ramasser.
+Oh, and make sure that the person is my sister, so you don't end up catching a random civilian.;Oh, et assurez-vous que cette personne est ma sœur, pour ne pas finir par attraper un civil au hasard.
+You'll know which way the claw will go as the lever will point that way to show you.;Vous saurez dans quelle direction ira la griffe puisque le levier pointera dans cette direction pour vous le montrer.
+Eu quero ir embora.;Je vais t'embrasser.
+Ã‰ minha irmÃ£ gÃªmea malvada! Ela estÃ¡ tagarelando em torno de Guilenor cometendo crimes e agora estou levando a culpa!;É minha irmé gêmea malvada ! Elle est arrivée dans le tournoi de Guilenor qui comportait des crimes et il y a peu, vous êtes devenu coupable !
+Once she's in prison, she won't be causing me anymore bother!;Une fois en prison, elle ne me dérangera plus !
+Sim, por favor.;Sim, s'il te plaît.
+Boa sorte!;Boa, sortez !
+A propÃ³sito, vocÃª gostaria que eu verificasse os controles para vocÃª, ou vocÃª acha que conseguirÃ¡?;Alors, vous avez besoin de vérifier vos contrôles pour vous, ou vous avez ce qui suit ?
+Hello [PLAYER_NAME]. I've got a message for you from Molly. She needs your help urgently. Will you assist her now?;Bonjour [PLAYER_NAME]. J'ai un message pour toi de Molly. Elle a besoin de votre aide de toute urgence. Allez-vous l'aider maintenant ?
+Through that door is a room with a cage and a control panel that operates a giant mechanical claw.;À travers cette porte se trouve une pièce avec une cage et un panneau de commande qui actionne une griffe mécanique géante.
+Bem, consegui colocÃ¡-la na jaula.;Bien, donc je colocá-la na jaula.
+Claro, qualquer coisa por Molly.;Claro, qu'importe ce que coisa por Molly.
+Fabuloso! Agora dÃª uma boa olhada em mim porque a porta estarÃ¡ trancada atrÃ¡s de vocÃª.  My twin looks exactly like me, even her clothes!;Fabuleux ! Agora dú uma boa olhada em mim parce que a porta estará trancada atrás de você.  Ma jumelle me ressemble exactement, même ses vêtements !
+Sim, isso cobre tudo. Obrigado!;Sim, c'est ça cobre tout. Obrigado!
+Farei o meu melhor entÃ£o!;Farei o meu então!
+Bem, o que tudo isso tem a ver comigo entÃ£o?;Alors, que tout est-il à voir comme ça?
+O que vocÃª faz aqui?;O que tu fais ici?
+OlÃ¡ viajante, o que o traz Ã  minha humilde ferraria?;Olá viajante, où est le travail de minha humilde ferraria ?
+Nurmof tem uma loja na Mina dos AnÃµes. VocÃª pode encontrar a entrada ao lado da Ice Mountain, a leste daqui.;Nurmof tem uma loja na Mina dos Anúes. Vous pouvez trouver l'entrée à côté de Ice Mountain, à cet endroit.
+Eu queria usar suas bigornas.;Je veux que tu utilises tes bigornes.
+Desculpe, mas tenho uma ordem de execuÃ§Ã£o com Nurmof.;Desculpe, mais j'ai un ordre d'exécution avec Nurmof.
+Ah, Ã© justo.;Ah, c'est juste.
+Eu faÃ§o picaretas. Sou o melhor fabricante de picaretas de toda Guilenor.;Eu faço picaretas. Je suis le meilleur fabricant de picaretas de Guilenor.
+Eu estava apenas verificando a paisagem.;Je suis en train de vérifier un paysage.
+Quem Ã© Nurmof?;Quem é Nurmof ?
+Quero usar sua pedra de amolar.;Quero usar sua pedra de amolar.
+Cuide da sua vida, baixinho!;Cuide da sua vida, baixinho!
+O que vocÃª quer dizer?;O que tu veux dire?
+Normalmente consigo colocar 28 coisas na minha mochila e num mundo cheio de possibilidades literalmente ilimitadas, ocorreu uma coincidÃªncia completa!;Normalement, je prends 28 pièces dans ma mochila et dans le monde des possibilités littéralement illimitées, j'obtiens une coïncidence complète!
+Iniciar a missÃ£o de Doric?;Lancer une missão de Doric ?
+Clay Ã© o que eu uso mais do que tudo, para fazer moldes. VocÃª poderia me trazer 6 argilas, 4 minÃ©rios de cobre e 2 minÃ©rios de ferro, por favor? Eu poderia pagar um pouco e deixar vocÃª usar minhas bigornas. Leve esta picareta com vocÃª caso precise.;L'argile est là pour l'utiliser mais pour tout faire, pour façonner les moules. Vous pouvez me trazer 6 argiles, 4 minéraux de cuivre et 2 minéraux de fer, pour votre faveur ? Vous pouvez payer un pouco et avoir à utiliser Minhas Bigornas. Leve esta picareta com você caso précis.
+Bem, por pura coincidÃªncia, apesar de definitivamente nÃ£o saber o que vocÃª estava prestes a pedir, aconteceu de eu ter carregado exatamente esses itens!;Eh bien, par pure coïncidence, je n'ai définitivement rien compris à ce que tu es prêt à faire, j'ai reconnu que tu es complètement chargé de ces objets !
+Que bom conhecer alguÃ©m com maneiras tÃ£o agradÃ¡veis. Volte novamente quando precisar gritar com alguÃ©m menor que vocÃª!;Que bom conhecer alguem com maneiras tão agradáveis. Nouvellement, lorsque vous précisez écrire avec quelque chose de plus petit que vous le souhaitez !
+Na verdade, nas quantidades exatas tambÃ©m!;Na verdade, nas quantidades exatas aussi!
+NÃ£o entendo muito bem o que vocÃª estÃ¡ dizendo?;Vous n'entendez pas vraiment ce que vous êtes à dire ?
+Sim, vou pegar os materiais para vocÃª.;Oui, vous payez du matériel pour vous.
+VocÃª tem algum para vender?;Votez-vous quelque chose pour le vendeur ?
+Minhas bigornas dÃ£o trabalho suficiente para meu prÃ³prio uso. Eu faÃ§o picaretas e isso exige muito trabalho. Se vocÃª pudesse me conseguir mais alguns materiais, eu poderia deixar vocÃª usÃ¡-los.;Minhas bigornas dão trabalho suffisant pour mon propre usage. Vous avez donc des picaretas et cela exige beaucoup de travail. Si vous pouvez me faire profiter de plus d'un matériel, vous pouvez avoir de cela à utiliser.
+Nossa, isso Ã© uma coincidÃªncia! Passe-os aqui, por favor. Posso lhe poupar algumas moedas pelo seu trabalho e, por favor, use minhas bigornas sempre que quiser.;Notre, c'est une coïncidence ! Passe-os ici, por favor. Peut-être que vous pouvez utiliser quelque chose pour votre travail et, par préférence, utiliser les petits bigornes toujours que vous souhaitez.
+VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!;Vocal sabe, égraçado voça exigir exatamente essas coisas!
+Meu colega e eu podemos permitir que vocÃª configure ofertas comerciais. VocÃª pode se oferecer para vender itens ou comprar itens.;Mon collègue et nous pouvons vous permettre de configurer des offres commerciales. Vous pouvez vous proposer de vendre ou d'acheter des articles.
+We'll look for someone who wants to buy those items at your price, and we'll perform the trade. You can then collect the cash here, or at any bank.;Nous rechercherons quelqu'un qui souhaite acheter ces articles à votre prix et nous effectuerons l'échange. Vous pouvez ensuite récupérer l'argent ici ou dans n'importe quelle banque.
+When you want to sell something, you give us the items and tell us how much money you want for them.;Lorsque vous souhaitez vendre quelque chose, vous nous confiez les articles et nous dites combien d'argent vous souhaitez les acheter.
+Sometimes it takes a while to find a matching trade offer. If you change your mind, we'll let you cancel your trade offer, and we'll return your unused items and cash.;Il faut parfois un certain temps pour trouver une offre commerciale correspondante. Si vous changez d'avis, nous vous laisserons annuler votre offre d'échange et nous vous rendrons vos objets et votre argent inutilisés.
+We'll look for someone who's selling those items at your price, and we'll perform the trade. You can then collect the items here, or at any bank, along with any left-over cash.;Nous rechercherons quelqu'un qui vend ces articles à votre prix et nous effectuerons l'échange. Vous pouvez ensuite récupérer les objets ici ou dans n'importe quelle banque, ainsi que l'argent restant.
+That's all the essential information you need to get started. Would you like to trade now, or exchange item sets?;Ce sont toutes les informations essentielles dont vous avez besoin pour commencer. Souhaitez-vous échanger maintenant ou échanger des ensembles d'objets ?
+When you want to buy something, you tell us what you want, and give us the cash you're willing to spend on it.;Lorsque vous souhaitez acheter quelque chose, vous nous dites ce que vous voulez et nous donnez l'argent que vous êtes prêt à y consacrer.
+Gostaria de acessar minha conta bancÃ¡ria, por favor.;Gostaria de acessar minha conta bancária, por favor.
+O que Ã© esse lugar?;O qu'est-ce que c'est ?
+Bom dia, em que posso ajudÃ¡-lo?;Bom dia, em que posso ajudá-lo?
+Gostaria de verificar minhas configuraÃ§Ãµes de PIN.;Gostaria de verificar minhas configurés de PIN.
+Eu gostaria de coletar itens.;Je vais vous servir des articles.
+Eu gostaria de comprar mais slots bancÃ¡rios.;Vous pouvez acheter plus de machines à sous bancaires.
+VocÃª deixarÃ¡ de ser um Ironman em 7 dias. Tem certeza que quer isso? VocÃª nÃ£o preferiria continuar como Ironman?;Vous deviendrez un Ironman dans 7 jours. Vous êtes sûr que c'est ça ? Vous préférez continuer comme Ironman ?
+AÃ­ estÃ¡. Use-o com orgulho.;Aà está. Utiliser-o com orgulho.
+Okay, it's your call. Now, how can I help you?;OK, c'est à vous de décider. Maintenant, comment puis-je vous aider ?
+Eu gostaria de continuar como Ironman.;Vous allez continuer comme Ironman.
+Eu realmente quero parar de ser um Ironman.;C'est vraiment ce que je veux faire pour être un Ironman.
+Ã‰ por isso que estou esperando aqui!;C'est pourquoi tu espères ici !
+Mas e se eu quiser ver os avisos novamente?;Mais avez-vous besoin de consulter vos avis récemment ?
+Recompensas difÃ­ceis.;Recompensas difíceis.
+De nada!;De rien!
+Obrigado!;Obrigado!
+CrianÃ§as.;Crianas.
+saber mais sobre?;savoir plus sobre ?
+Recompensas fÃ¡ceis.;Recompensas fáceis.
+Obrigado, lembrarei disso se vir alguma mensagem de aviso.;Obrigado, lembrarei disso se vir alguma messagem de aviso.
+Se vocÃª completar todas as tarefas fÃ¡ceis em Lumbridge e Draynor, seu anel poderÃ¡ recarregar metade de sua energia de corrida duas vezes por dia e lanÃ§ar alquimia de baixo nÃ­vel sem runas 30 vezes por dia.;Si vous complétez toutes ces tâches à Lumbridge et Draynor, vous pourrez récupérer votre énergie de course deux fois par jour et lancer l'alcool dans le bas n'importe où sem 30 fois par jour.
+Sim! Ando pelo mundo sentindo o perigo.;Sim! Eto pelo mundo sentindo o perigo.
+Recompensas Elite.;Récompenses Elite.
+Recompensas mÃ©dias.;Recompensas médias.
+Tutor de perigo?;Tuteur de péril ?
+Conte-me mais sobre as recompensas fÃ¡ceis, por favor!;Conte-me plus sobre as recompensas fáceis, por favor!
+If I find a dangerous area, then I put up warning signs that will tell you what is so dangerous about that area.;Si je trouve une zone dangereuse, j'installe des panneaux d'avertissement qui vous indiqueront ce qui est si dangereux dans cette zone.
+If you see the signs often enough, then you can turn them off; by that time you likely know what the area has in store for you.;Si vous voyez les panneaux assez souvent, vous pouvez les désactiver ; à ce moment-là, vous savez probablement ce que la région vous réserve.
+If you want to see the warning messages again, I can turn them back on for you.;Si vous souhaitez revoir les messages d'avertissement, je peux les réactiver pour vous.
+You have not proved yourself worthy to enter here yet.;Vous n’avez pas encore prouvé que vous êtes digne d’entrer ici.
+Oh, ai de mim por nÃ£o conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?;Oh, ai de mim por não conseguir rencontrer minha Julieta! Você não viu Julieta, viu?
+Na verdade, esqueÃ§a...;Na verdade, esqueça...
+Julieta, Julieta, por que vocÃª Ã© Julieta? VocÃª viu minha Julieta?;Julieta, Julieta, pourquoi es-tu Julieta? Você viu minha Julieta?
+Perhaps I can help find her for you? Como ela Ã©?;Peut-être que je peux vous aider à la retrouver ? Comment ça s'est passé?
+A raposa...vocÃª poderia dizer a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;Et raposa... vous pouvez dire à elle qu'elle est l'amour de minha longa data et que vous êtes en vie pour être avec elle ?
+Iniciar a missÃ£o Romeu e Julieta?;Lancer une mission Romeu et Julieta ?
+Cabelo... confere..;Cabelo...conférer..
+Ah, sim... o que vocÃª disse... diga isso a ela, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!;Ah, sim... o que você disse... diga isso a ela, parece muito melhor !  Ah, tu es tão bom nisso !
+Aposto que ela Ã©!  Uauuuu!;Aposto que ela est!  Uauuuuu !
+Ah, vocÃª faria? Isso seria Ã³timo! Ela tem esse tipo de cabelo...;Ah, tu vois faria ? C'est si sérieux! C'est ce type de câble...
+Sorry Romeo, I've got better things to do right now. Maybe later?;Désolé Roméo, j'ai mieux à faire en ce moment. Peut-être plus tard ?
+O que?  Certamente vocÃª quer dizer que 'ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?';Ou quoi ?  Vous voulez certainement dire que «elle est l'amour de sa vie et que vous désirez être avec elle?»
+Oh, okay, well, I guess my Juliet and I can spend some time apart.  And as the old saying goes, 'Absinthe makes the heart glow longer'.;Oh, d'accord, eh bien, je suppose que ma Juliette et moi pouvons passer du temps séparément.  Et comme le dit le vieil adage : « L'absinthe fait briller le cœur plus longtemps ».
+Sim, tudo bem. Eu vou avisÃ¡-la.;Sim, tout à fait. Eu vous avez avisá-la.
+Ok, obrigado.;Ok, obligé.
+NÃ£o, desculpe, eu nÃ£o a vi.;Não, desculpe, eu não a vi.
+Bem, acho que ela poderia ser considerada atraente...;Bem, acho que ela pourrait être considéré comme attraente...
+Desculpe, todo aquele jÃºbilo me fez esquecer do que estÃ¡vamos conversando.;Desculpe, todo aquele júbilo me fez esquecer do que estávamos conversando.
+Sim, eu a vi, na verdade!;Sim, eu a vi, na verdade !
+VocÃª estava me perguntando sobre Julieta? VocÃª parecia conhecÃª-la?;Voulez-vous me demander ce qu'il en est de Julieta ? VocÃª parecia conhecÃª-la?
+LÃ¡bios... certo.;Lábios... bien sûr.
+HÃ¡ mais alguma coisa que vocÃª possa me contar sobre Juliet?;Y a-t-il quelque chose qui me permette de discuter de Juliette ?
+O que?  Certamente vocÃª quer dizer que ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?;Ou quoi ?  Vous voulez certainement dire qu'elle est l'amour de sa vie et que vous désirez être avec elle ?
+Pelo menos acho que foi ela... Loira? Um pouco estressado?;Pelo menos acho que foi ela... Loira? Un peu stressé ?
+Caramba... sim, sim... vocÃª a faz parecer muito interessante!;Caramba... sim, sim... vous avez une faz parecer très intéressante !
+VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...;VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...
+Vejo que escolhi um verdadeiro profissional...!;Je veux que tu es un professionnel chevronné... !
+...e ela esses...lÃ¡bios lindos...;...e ela esses...lábios lindos...
+Quer dizer que vocÃª quer dar um beijo nela!;Quer dizer que você quer dar um beijo nela!
+Ah, vocÃª Ã© bom... vocÃª Ã© bom!;Ah, tu es bom... tu es bom !
+Ah, e ela tem esses ombros lindos tambÃ©m.;Ah, c'est eux qui ont aussi des ombres lindos.
+Ah sim, Julieta Ã© muito diferente... por favor diga a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;Ah si, Julieta est très différente... pour qu'elle cherche à ce qu'elle soit l'amour de minha longa data et qu'elle soit vivante pour être avec elle ?
+Onde posso encontrar Julieta?;Où peut-on rencontrer Julieta ?
+Ah, Ã³timo! E diga a ela que quero beijÃ¡-la.;Ah, otimo ! Je cherche à ce quero beijá-la.
+Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios e ombros... isso deve diminuir um pouco.;Ombros... bien sûr, alors qu'ils sont cheveux, lèvres et ombres... c'est ce qui doit diminuer un pouco.
+OK!;D'ACCORD!
+Talvez eu possa ajudar a encontrÃ¡-la para vocÃª?;Avez-vous pu trouver une rencontre pour vous ?
+É melhor eu ir.;É melhor eu ir.
+Olá, jovem coisinha.;Olá, je suis coisinha.
+How dare you? Of course I'm a wizard. Now don't be so cheeky or I'll turn you into a frog.;Comment oses-tu ? Bien sûr, je suis un sorcier. Ne sois pas si effronté ou je te transforme en grenouille.
+Teach me to be a mighty and powerful wizard.;Apprends-moi à être un sorcier puissant et puissant.
+Oh I'd better stop talking to you then.;Oh, je ferais mieux d'arrêter de te parler alors.
+What's a thingummywut?;C'est quoi un truc de merde ?
+Selecione uma opção;Sélectionnez une option
+Wizard eh? You don't want any truck with that sort. They're not to be trusted. That's what I've heard anyways.;Sorcier, hein ? Vous ne voulez pas de camion de ce genre. On ne peut pas leur faire confiance. C'est ce que j'ai entendu en tout cas.
+So aren't you a wizard?;Alors tu n'es pas un sorcier ?
+Olá, posso ajudá-lo?;Olá, peut-être ajudá-lo ?
+I'm sorry, but I can't do that right now.;Je suis désolé, mais je ne peux pas faire ça pour le moment.
+Me dê uma missão, o quê?;J'ai une mission, ou quoi ?
+Not now, I'm trying to concentrate on a very difficult spell!;Pas maintenant, j'essaie de me concentrer sur un sort très difficile !
+Me dê uma missão, por favor.;J'ai une mission, par faveur.
+O que você faz aqui?;Qu'est-ce que tu fais ici ?
+Apenas pare de brincar e me dê uma missão!;Je n'ai rien à faire et je fais une mission !
+Dê-me uma missão!;Fais-moi une mission !
+Dê-me uma missão ou então!;Dê-moi une mission ou une então!
+Can you make me some armour please?;Pouvez-vous me fabriquer une armure s'il vous plaît ?
+Olá.;Olá.
+Não, obrigado.;Non, obligé.
+What's that you're wearing?;Qu'est-ce que tu portes ?
+Certainly, what would you like me to make?;Bien sûr, que voudriez-vous que je fasse ?
+O que você está fazendo aqui?;Est-ce que vous êtes en train de faire ça ?
+Which places can the Members object teleport me out of?;De quels endroits les membres peuvent-ils m'opposer à ma téléportation ?
+Can I buy a Members object?;Puis-je acheter un objet Membres ?
+Quem é você?;Quem é você?
+Liberal! Obrigado estranho..;Libéral! Obrigado estranho..
+Get away! I do not speak to outlanders.;Partir! Je ne parle pas aux étrangers.
+You've done it!;Vous l'avez fait !
+Desça as escadas.;Desça comme escadas.
+Bom dia, em que posso ajudá-lo?;Bom dia, em que posso ajudá-lo?
+Posso ajudá-lo?;Pouvez-vous l'aider?
+Como posso treinar minha oração?;Comment puis-je apprendre à minha oração?
+Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?;Saudações, [PLAYER_NAME]. Pouvez-vous vous aider avec quelque chose de chaud aujourd'hui ?
+Para que serve a oração?;Pour que ça serve une oraison ?
+Bom dia, irmã.;Bom dia, irma.
+So you invented the 'Log Canoe' by falling into a river hugging a tree?;Alors vous avez inventé le « Log Canoe » en tombant dans une rivière en serrant un arbre ?
+Yeash! Me and my cousins were having a great party by the river when we decided to have a game of 'Smack The Tree';Ouais ! Mes cousins ​​et moi étions en train de faire une grande fête au bord de la rivière lorsque nous avons décidé de faire une partie de "Smack The Tree".
+It's a game were you take it in turnsh shmacking a tree. First one to uproot the tree winsh!;C'est un jeu où vous le prenez à tour de rôle en frappant un arbre. Premier à déraciner l'arbre winsh !
+Log Canoe?;Canoë en rondins ?
+You could make a Dugout canoe with your woodcutting skill, but I don't see why you would want to.;Vous pourriez fabriquer une pirogue avec vos compétences en matière de coupe de bois, mais je ne vois pas pourquoi vous voudriez le faire.
+I'm Sigurd the Great and Brainy.;Je m'appelle Sigurd le Grand et l'Intelligent.
+Sim;Sim
+Can you teach me about Canoeing?;Pouvez-vous m'apprendre le canoë ?
+Anyway, I won the game with a flying tackle. The tree came loose and down the river bank I went, still holding the tree.;Quoi qu'il en soit, j'ai gagné la partie avec un tacle volant. L'arbre s'est détaché et j'ai descendu la rive de la rivière, tenant toujours l'arbre.
+I cut all the branches off to make it more comfortable. I could tell you how to if you like?;J'ai coupé toutes les branches pour que ce soit plus confortable. Je pourrais te dire comment faire si tu veux ?
+Well I refined the design from the original you know!;Eh bien, j'ai affiné le design de l'original, vous savez !
+It's really quite simple. Just walk down to that tree on the bank and chop it down.;C'est vraiment très simple. Descendez simplement jusqu’à cet arbre sur la berge et abattez-le.
+Then take your axe to it and shape it how you like!;Ensuite, prenez votre hache et façonnez-la comme vous le souhaitez !
+Why do they call you the Great and Brainy?;Pourquoi t'appellent-ils le Grand et l'Intelligent ?
+Smack the Tree?;Frapper l'arbre ?
+Could you teach me about canoes?;Pourriez-vous m'apprendre les canoës ?
+NÃ£o;Néo
+Ha Ha! Hello!;Ha Ha ! Bonjour!
+Because I invented the Log Canoe!;Parce que j'ai inventé le Log Canoe !
+I woke up a few hours later and found myself several miles down river. And thatsh how I invented the log canoe!;Je me suis réveillé quelques heures plus tard et je me suis retrouvé à plusieurs kilomètres en aval de la rivière. Et c’est comme ça que j’ai inventé le canoë en rondins !
+Do you want a lit candle for 1000 gold?;Voulez-vous une bougie allumée pour 1000 pièces d'or ?
+No thanks, I'd rather curse the darkness.;Non merci, je préfère maudire les ténèbres.
+One thousand gold?!;Mille pièces d'or ?!
+Subir ou descer a escada?;Subir ou descendre une escada ?
+DesÃ§a.;Desça.
+Suba.;Suba.
+Fair enough. Here, have a spare potion, and thanks for your time.;Assez juste. Tiens, ayez une potion de rechange et merci pour votre temps.
+Have you got any guam leaf? I've fixed my Hyde problem, so it's not urgent, but I could do with a guam leaf.;As-tu des feuilles de guam ? J'ai résolu mon problème à Hyde, donc ce n'est pas urgent, mais j'aurais bien besoin d'une feuille de guam.
+I don't have any.;Je n'en ai pas.
+VÃ¡ para sua casa (modo construÃ§Ã£o);Vá para sua casa (mode construction)
+Cancelar;Annuler
+<str=7f0000>VÃ¡ para a casa de um amigo</str>;<str=7f0000>Và para a casa de um amigo</str>
+VÃ¡ para sua casa;Vá para sua casa
+I'm here to talk about Combat Achievements.;Je suis ici pour parler des succès de combat.
+Posso ajudar?;Pouvons-nous le faire ?
+O que vocÃª estÃ¡ fazendo aqui?;Est-ce que tu es en train de faire ça ?
+No, I'm alright thanks.;Non, je vais bien, merci.
+In fact, unless me nose be mistaken, you've got some in yer pack.;En fait, à moins que je ne me trompe, vous en avez dans votre sac.
+Five days ago we pulled in a huge catch. As well as fish we caught small slug like creatures, hundreds of them.;Il y a cinq jours, nous avons fait une énorme prise. En plus des poissons, nous avons attrapé de petites créatures ressemblant à des limaces, des centaines.
+I'll reward you for your time. It'll give me peace of mind to know Kennith and my husband, Kent, are safe.;Je vous récompenserai pour votre temps. Cela me rassurera de savoir que Kennith et mon mari, Kent, sont en sécurité.
+I would like a ride on your boat to the fishing platform.;J'aimerais une promenade sur votre bateau jusqu'à la plateforme de pêche.
+Aye, that be perfect.;Oui, ce serait parfait.
+Of course m'hearty. If that's what you want.;Bien sûr, je suis chaleureux. Si c'est ce que tu veux.
+Maybe the post was lost!;Peut-être que le message a été perdu !
+Start the Sea Slug quest?;Commencer la quête Sea Slug ?
+Hello Holgart.;Bonjour Holgart.
+Swamp paste?;Pâte de marais ?
+Yuck! Thanks Kent.;Beurk ! Merci Kent.
+I doubt the fishermen will come near you if you can get this torch lit.;Je doute que les pêcheurs s'approchent de vous si vous parvenez à allumer cette torche.
+They usually write to me regularly, but I've heard nothing all week. It's very strange.;D'habitude, ils m'écrivent régulièrement, mais je n'ai rien entendu de la semaine. C'est très étrange.
+I figured as much.;C'est ce que je pensais.
+It's my husband, he works on a fishing platform. Once a month he takes our son, Kennith, out with him.;C'est mon mari, il travaille sur une plateforme de pêche. Une fois par mois, il emmène notre fils, Kennith, avec lui.
+The sea slugs are scared of heat, I figured that out when I tried to cook them.;Les limaces de mer ont peur de la chaleur, je m'en suis rendu compte en essayant de les cuisiner.
+No, I want my daddy!;Non, je veux mon papa !
+I need to get Kennith off this platform, but I can't get past the fishermen.;Je dois faire sortir Kennith de cette plateforme, mais je ne peux pas passer outre les pêcheurs.
+Where is your father?;Où est ton père ?
+Is there any chance you could visit the platform and find out what's going on?;Y a-t-il une chance que vous puissiez visiter la plateforme et découvrir ce qui se passe ?
+We'd better get back to the platform so we can see what's going on.;Nous ferions mieux de retourner à la plateforme pour voir ce qui se passe.
+It was the sea slugs, they attach themselves to your body and somehow take over the mind of the carrier.;C'étaient les limaces de mer, elles s'attachent à votre corps et envahissent en quelque sorte l'esprit du porteur.
+The nasty fishermen tried to throw me and daddy into the sea. So he told me to hide here.;Les méchants pêcheurs ont essayé de nous jeter à la mer, moi et papa. Alors il m'a dit de me cacher ici.
+That's when the fishermen began to act strange.;C'est à ce moment-là que les pêcheurs ont commencé à se comporter de façon étrange.
+O que estÃ¡ acontecendo aqui?;O que está acontecendo ici?
+Hello again land lover. There's some strange goings on, on that platform, I tell you.;Re-bonjour amoureux de la terre. Il se passe des choses étranges sur cette plateforme, je vous le dis.
+A few more minutes and that thing would have full control of your body.;Encore quelques minutes et cette chose aurait le contrôle total de votre corps.
+Here.;Ici.
+Hello m'hearty.;Bonjour mon cœur.
+I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste.;J'ai bien peur que ce ne soit pas digne de la mer, c'est plein de trous. Pour combler les trous, j'aurai besoin de pâte de marais.
+Will you take me there?;Veux-tu m'y emmener ?
+Oh yes, I forgot about that stuff. Can you use it?;Oh oui, j'avais oublié ce truc. Pouvez-vous l'utiliser ?
+You're telling me, none of the sailors seem to remember who I am.;Vous me dites qu'aucun des marins ne semble se souvenir de qui je suis.
+The only problem is all the wood and flint are damp... I can't light a thing!;Le seul problème c'est que tout le bois et les silex sont humides... Je n'arrive pas à allumer quoi que ce soit !
+Ok, I'll go and see if they're ok.;Ok, je vais aller voir s'ils vont bien.
+Please go back and get my boy, you can send help for me later.;S'il vous plaît, retournez chercher mon garçon, vous pourrez m'envoyer de l'aide plus tard.
+Is there any chance you could help me?;Y a-t-il une chance que vous puissiez m'aider ?
+They're all being controlled by the sea slugs.;Ils sont tous contrôlés par les limaces de mer.
+Your wife sent me out to find you and your boy. Kennith's fine by the way, he's on the platform.;Votre femme m'a envoyé vous chercher, vous et votre garçon. Au fait, Kennith va bien, il est sur le quai.
+Are you okay young one?;Est-ce que tu vas bien, mon jeune ?
+He went to get help days ago.;Il est allé chercher de l'aide il y a quelques jours.
+You're right. It all sounds pretty creepy.;Tu as raison. Tout cela semble assez effrayant.
+Yes, swamp tar mixed with flour and heated over a fire.;Oui, du goudron des marais mélangé à de la farine et chauffé au feu.
+I'm keeping away from there.;Je m'éloigne de là.
+I told Kennith to hide until I returned but I was washed up here.;J'ai dit à Kennith de se cacher jusqu'à mon retour, mais j'ai été échoué ici.
+Apparently Kennith's father left for help a couple of days ago.;Apparemment, le père de Kennith est parti chercher de l'aide il y a quelques jours.
+That's very good of you [PLAYER_NAME]. My friend Holgart will take you there.;C'est très gentil de votre part [PLAYER_NAME]. Mon ami Holgart vous y emmènera.
+Oh thank Saradomin! I thought I'd be left out here forever.;Oh merci Saradomin ! Je pensais que je serais laissé ici pour toujours.
+That's good advice, you stay here and I'll go try and find your father.;C'est un bon conseil, tu restes ici et je vais essayer de retrouver ton père.
+Holgart, something strange is going on here.;Holgart, il se passe quelque chose d'étrange ici.
+[PLAYER_NAME] wait!;[PLAYER_NAME] attendez !
+[1] Will you take me there?;[1] Veux-tu m'y emmener ?
+Maybe, but no-one's heard from the other fishermen on the platform. Their families are becoming quite concerned.;Peut-être, mais personne n'a eu de nouvelles des autres pêcheurs présents sur la plateforme. Leurs familles deviennent très inquiètes.
+I suppose so, how do I get there?;Je suppose que oui, comment puis-je y arriver ?
+That's a worry, no-one's heard from him on shore. Come on, we'd better go look for him.;C'est inquiétant, personne n'a de nouvelles de lui à terre. Allez, on ferait mieux d'aller le chercher.
+Oh, thank the gods it's you. They've all gone mad I tell you, one of the fishermen tried to throw me into the sea!;Oh, Dieu merci, c'est toi. Ils sont tous devenus fous je vous le dis, un des pêcheurs a essayé de me jeter à la mer !
+I knew the row boat wasn't sea worthy. I couldn't risk bringing him along but you must get him off that platform.;Je savais que la barque n'était pas digne de la mer. Je ne pouvais pas prendre le risque de l'emmener avec moi, mais vous devez le faire sortir de cette plateforme.
+NÃ£o!;Néo!
+Hello Kennith, are you okay?;Bonjour Kennith, ça va ?
+Looking forward to it.;J'ai hâte d'y être.
+Kennith told me about the strange goings-on at the platform. I had no idea it was so serious.;Kennith m'a parlé des événements étranges qui se passaient sur le quai. Je ne savais pas que c'était si grave.
+I'm scared of those nasty sea slugs. I won't go near them.;J'ai peur de ces vilaines limaces de mer. Je ne m'approcherai pas d'eux.
+You'll be able to see him soon. First we need to get you back to land, come with me to the boat.;Vous pourrez bientôt le voir. Nous devons d'abord te ramener à terre, viens avec moi au bateau.
+Okay, you wait here and I'll go figure another way to get you out.;OK, attendez ici et je trouverai un autre moyen de vous faire sortir.
+No, I want my daddy.;Non, je veux mon papa.
+Ok, when you have I'll come out.;Ok, quand tu l'auras, je sortirai.
+Thank you. Take care of yourself [PLAYER_NAME].;Merci. Prenez soin de vous [PLAYER_NAME].
+We found Kent stranded on an island.;Nous avons trouvé Kent échoué sur une île.
+I'll figure that out in a moment.;Je vais comprendre cela dans un instant.
+How will I get downstairs?;Comment vais-je descendre ?
+Kennith, I've made an opening in the wall. You can come out through there.;Kennith, j'ai fait une ouverture dans le mur. Vous pouvez sortir par là.
+Yes, he's safe and sound with his parents. Your turn to return to land now adventurer.;Oui, il est sain et sauf avec ses parents. A votre tour de retourner sur terre maintenant aventurier.
+What, why not?;Quoi, pourquoi pas ?
+I could have lost my son and my husband if it wasn't for you.;J'aurais pu perdre mon fils et mon mari sans toi.
+Yes, Holgart told me and sent a rescue party out. Kent's back home now, resting with Kennith. I don't think he'll be doing any fishing for a while.;Oui, Holgart me l'a dit et a envoyé une équipe de secours. Kent est de retour chez lui maintenant, se reposant avec Kennith. Je ne pense pas qu'il va pêcher avant un moment.
+Brave [PLAYER_NAME], you've returned!;Courageux [PLAYER_NAME], vous êtes de retour !
+Not one.;Pas un.
+Did you get the kid back to shore?;Avez-vous ramené l'enfant à terre ?
+Here, take these Oyster pearls as a reward. They're worth quite a bit and can be used to make lethal crossbow bolts.;Tiens, prends ces perles d'huîtres en récompense. Ils valent pas mal et peuvent être utilisés pour fabriquer des carreaux d'arbalète mortels.
+Are there any sea slugs on the other side?;Y a-t-il des limaces de mer de l’autre côté ?
+Okay then. I'll wait here for you.;D'accord alors. Je t'attendrai ici.
+I'll come back later.;Je reviendrai plus tard.
+Ok, vamos lÃ¡.;Ok, vamos là.
+Hello again Holgart.;Re-bonjour Holgart.
+Fancy going out to sea?;Envie de sortir en mer ?
+Well hello again m'hearty. Your land loving legs getting bored? Fancy some cold wet underfoot?;Eh bien, bonjour, mon cœur. Vos jambes terriennes commencent à s'ennuyer ? Envie d'un peu de froid et d'humidité sous les pieds ?
+PerdÃ£o?;Perdéo ?
+Comencemos enseñándote a empuñar un arma.;Nous commencerons à comprendre comment prendre une arme.
+You should check out the combat interface.;Vous devriez vérifier l'interface de combat.
+Un mundo es en lo que juegas. La mayoría de los mundos pueden albergar hasta 2000 jugadores. Se divide en dos tipos principales: mundos libres y mundos de miembros. Puedes intercambiar mundos con World Switcher en el menú Cerrar sesión.;Un monde est en là que les jeux. La majorité des mondes peut accueillir jusqu'à 2000 joueurs. Se diviser en deux types principaux : mondes libres et mondes de membres. Vous pouvez échanger des mondes avec World Switcher dans le menu Cerrar session.
+Hay varias cosas que puedes hacer con tu cuenta y es donde entra en juego el menú Administración de cuentas. Echemos un vistazo ahora.;Il existe différentes raisons pour lesquelles vous pouvez accéder à votre compte et vous y rendre dans le menu Administration des comptes. Nous avons une vue maintenant.
+¡Hola! Mi nombre es [PLAYER_NAME].;¡Hola ! Mon nom est [PLAYER_NAME].
+Muy bien, pero ese pequeño cuchillo de mantequilla no te protegerá mucho. Vamos a conseguir algo un poco mejor. Una vez que estés adecuadamente equipado, podremos pasar al combate real.;Bien, mais ce petit couteau de manteau ne vous protégera pas beaucoup. Nous allons vous faire profiter d'un peu mieux. Une fois que vous êtes correctement équipé, nous pouvons passer au combat réel.
+Soy Vannaka, el mejor espadachín del mundo y estoy aquí para enseñarte los conceptos básicos del combate.;Soy Vannaka, le meilleur espadachín du monde et estoy ici pour enseigner les concepts de base du combat.
+El siguiente paso es el combate a distancia. Con esto puedes matar enemigos a distancia. Con rango, podrás atacar a las ratas sin entrar al pozo, lo que significa que no podrán defenderse.;Le pas suivant est le combat à distance. Avec cela, vous pouvez mater les ennemis à distance. Avec rango, vous pourriez attaquer les rats sans entrer dans la zone, ce qui signifie que vous ne pouvez pas les défendre.
+Buenos días, recién llegado. Mi nombre es Terrova. Estoy aquí para contarles sobre Magia. Comenzamos abriendo su interfaz mágica.;Buenos días, reçu llegado. Mon nom est Terrova. Je suis ici pour connaître la magie. Nous allons ouvrir votre interface magique.
+Las oraciones activas agotarán tus puntos de oración, que puedes recargar buscando un altar u otro lugar sagrado y orando allí.;Les oraisons activées ont récemment eu vos points d'oraison, qui peuvent charger un autel dans un autre endroit sacré et un orando partout.
+Si crees que tienes lo necesario, puedes optar por convertirte en un <col=b10000>Ironman incondicional</col>.;Si vous pensez que vous en avez besoin, vous pouvez opter pour une conversion en <col=b10000>Ironman inconditionnel</col>.
+Como habrás notado, la mayoría de los enemigos dejarán caer huesos cuando sean derrotados. Al enterrar huesos, al hacer clic en ellos en tu inventario, obtendrás experiencia de oración.;Comme nous l'avons noté, la majorité des ennemis ont perdu des couleurs lorsque Sean a été déraciné. En pénétrant dans des couleurs, en cliquant sur eux dans votre inventaire, vous obtiendrez une expérience d'oration.
+Mientras estás en Tutorial Island, puedes alternar libremente entre ser un <col=7f0000>Ironman estándar</col>, un <col=00007f>Ultimate <col=00007f>Ironman</col>, un <col=b10000>Ironman intenso</col>, un <col=7f0000>Ironman grupal</col>, un <col=b10000>Hardcore Group Ironman</col> o un personaje normal.;Alors que vous êtes sur Tutorial Island, vous pouvez alterner librement entre un <col=7f0000>Ironman standard</col>, un <col=00007f>Ultimate <col=00007f>Ironman</col>, un <col=b10000>Ironman intense</col>, un <col=7f0000>Ironman groupe</col>, un <col=b10000>Hardcore Group Ironman</col> ou un personnage normal.
+Eso es todo lo que tengo que enseñarte por ahora. Si necesita un recordatorio sobre sus oraciones, hábleme nuevamente.;C'est tout ce que j'ai à apprendre maintenant. Si vous avez besoin d'un enregistrement de vos paroles, vous devrez le faire à nouveau.
+Como <col=b10000>Ironman</col>, eliges que te impongan estas restricciones para que todos sepan que lo estás haciendo correctamente.;Comme <col=b10000>Ironman</col>, vous devez imposer ces restrictions pour que tous se déroulent correctement.
+Además de las restricciones estándar, los <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>una vida</col>. En caso de una muerte peligrosa, tu estado de <col=b10000>Ironman incondicional</col> se reducirá al de un <col=7f0000>Ironman estándar</col>, y tu;Outre les restrictions, les <col=b10000>incondicionales <col=b10000>Ironmen</col> n'ont <col=b10000>une vie</col>. En cas d'une mort dangereuse, votre état de <col=b10000>Ironman inconditionnel</col> se réduira au <col=7f0000>Stándar Ironman</col>, et vous
+Además de las restricciones estándar, los <col=00007f>Ultimate <col=00007f>Ironmen</col> no pueden usar el banco y sueltan todos sus objetos cuando mueren.;Outre les restrictions actuelles, les <col=00007f>Ultimate <col=00007f>Ironmen</col> ne peuvent pas utiliser le banc et sueltan tous leurs objets lorsqu'ils sont morts.
+Si tienes algunos amigos, podrías estar solo... Juntos, como <col=7f0000>Grupo Ironmen</col>. Los Ironmen grupales tienen las mismas restricciones que los Ironmen normales, excepto que podéis intercambiar objetos entre vosotros.;Si vous avez quelques amis, vous pouvez être seuls... Ensemble, comme le <col=7f0000>Grupo Ironmen</col>. Les groupes Ironmen ont les mêmes restrictions que les Ironmen normales, sauf que vous pouvez interchanger des objets entre vous.
+Así que permitirá que <col=b10000>Hardcore Ironmen</col> o <col=00007f>Ultimate Ironmen</col> bajen de categoría a <col=7f0000>Ironmen estándar</col>, y permitirá que todos los tipos de <col=7f0000>Ironman</col> en solitario se conviertan en personajes regulares.;Ainsi, les <col=b10000>Hardcore Ironmen</col> ou les <col=00007f>Ultimate Ironmen</col> bajen de catégorie a <col=7f0000>Ironmen standard</col>, et permettent que tous les types de <col=7f0000>Ironman</col> en solitaire se transforment en personnages réguliers.
+Hola, [PLAYER_NAME]. Soy Paul, el tutor de Ironman. ¿Qué puedo hacer por ti?;Salut, [PLAYER_NAME]. Soy Paul, le tuteur d'Ironman. Qu'est-ce que tu peux faire pour toi ?
+Las estadísticas se congelarán en los resultados del <col=b10000>Hardcore Ironman</col>.;Les statistiques se figent dans les résultats du <col=b10000>Hardcore Ironman</col>.
+Si sois un grupo atrevido, incluso podéis probar <col=b10000>Hardcore Group Ironmen</col>. Con Hardcore Group Ironmen tienes un número determinado de vidas, cuando lleguen a cero, te convertirás en <col=7f0000>Group Ironmen</col> normal.;Si vous êtes un groupe atrevido, vous pouvez également essayer <col=b10000>Hardcore Group Ironmen</col>. Avec Hardcore Group Ironmen, vous avez un nombre déterminé de vies, quand vous arrivez à zéro, vous convertissez en <col=7f0000>Group Ironmen</col> normal.
+Para el desafío definitivo, puedes elegir convertirte en un <col=00007f>Ultimate Ironman</col>, un modo de juego inspirado en el jugador <col=00007f>IronNoBank</col>.;Pour le défi définitif, vous pouvez choisir de devenir un <col=00007f>Ultimate Ironman</col>, un mode de jeu inspiré du joueur <col=00007f>IronNoBank</col>.
+Si alguna vez decides invitar a jugadores experimentados a tu grupo, te convertirás en <col=7f0000>grupo sin clasificar <col=7f0000>hombres de hierro</col>, que ya no se muestran en los resultados de Ironman del grupo.;Si quelqu'un décide d'inviter des joueurs expérimentés dans votre groupe, ils se transformeront en <col=7f0000>groupe sans classification <col=7f0000>hommes de hier</col>, qui ne pourront pas se voir dans les résultats de l'Ironman du groupe.
+Una vez que hayas abandonado esta isla, podrás encontrar a mi colega Adam en Lumbridge, pero él solo te permitirá cambiar tus restricciones hacia abajo, no hacia arriba.;Une fois que vous avez abandonné cette île, vous pouvez rencontrer mon collègue Adam à Lumbridge, mais il vous permet seulement de modifier vos restrictions là-bas, pas là-bas.
+What would you do if I said 'yes'?;Que feriez-vous si je disais « oui » ?
+Halt! Are you here to sabotage the Motherlode Mine?;Arrêt! Êtes-vous ici pour saboter la mine Motherlode ?
+No, I'm not.;Non, je ne le suis pas.
+What's the Motherlode Mine?;Qu'est-ce que la mine Motherlode ?
+Hey there, [PLAYER_NAME]. I need you to kill the pheasant that has four tails. Bring me the raw pheasant when you're done.;Salut, [PLAYER_NAME]. J'ai besoin que tu tues le faisan à quatre queues. Apportez-moi le faisan cru quand vous aurez fini.
+Ok, vou ajudar com seus faisões.;Ok, vous décidez avec vos faisões.
+O que você gostaria de dizer?;O que vêvos gostaria de dizer?
+Agora traga-me o faisão cru.;Agora traga-me o faisão cru.
+You get lederhosen legs for your help, many thanks!;Vous recevez des jambes en lederhosen pour votre aide, merci beaucoup !
+Há algo em que eu possa ajudá-lo?;Y a-t-il quelque chose qui nous permette de l'aider ?
+Saudações! Sou Hassan, Chanceler do Emir de Al Kharid.;Saudações! Sou Hassan, chancelier de l'émir d'Al Kharid.
+Não, obrigado, vou dar uma volta.;Non, obligé, vous avez une journée.
+Tudo bem, vou lá.;Tudo bem, tu lá.
+Posso passar por este portão?;Pouvez-vous passer par ce port?
+Claro.;Claro.
+Está muito quente aqui. Como você aguenta isso?;C'est très bien ici. Comment tu parles de ça ?
+Você se importa se eu matar seus guerreiros?;Você se importe-t-il de vous mater avec vos guerriers ?
+Bem... atualmente temos um problema muito urgente que precisamos resolver, e suponho que você parece alguém que sabe como fazer um trabalho. Você está definitivamente interessado em ajudar?;Il s'agit en fait d'un problème très urgent à résoudre précisément, et je suppose que vous pensez que vous savez comment faire un travail. Êtes-vous définitivement intéressé à décider?
+Iniciar a missão Resgate do Príncipe Ali?;Lancer une mission Resgate du Prince Ali?
+Você encontrará nosso Spymaster, Osman, do lado de fora do palácio. Vá até ele e diga que eu enviei você. Ele irá informá-lo sobre os detalhes do nosso problema.;Vous rencontrerez notre maître espion, Osman, à la place des forums du palais. Vá até ele e diga que eu enviei você. Vous recevrez des informations sur les détails de notre problème.
+Você deve pagar um pedágio de dez moedas de ouro para passar.;Vous devez payer un pédagogue de vos moedas de ouro pour passer.
+É melhor eu ir embora.;C'est mieux que tu sois embrassée.
+Justo. Então, qual é esse problema?;Juste. Alors, qu'est-ce que c'est un problème?
+Er... eu só perguntei se ele precisava de ajuda e ele disse que sim.;Euh... nous sommes sûrs d'avoir été précis à ce sujet et d'avoir dit cela.
+De fato. Você tem mais alguma dúvida antes de ir?;De fato. Vous avez plus d'une chose à faire avant votre arrivée ?
+Você sabe por que eles levaram o Príncipe?;Vous savez pourquoi ils élèvent le Prince ?
+Osman? O Chanceler me disse para vir falar com você. Aparentemente você tem um problema com o qual posso ajudar.;Osman ? O Chanceler me disse para vir falar com você. Apparemment, vous avez un problème avec ce que vous pouvez résoudre.
+Você fez uma afirmação justa. Você sabe como é a Keli?;Vous avez juste une confirmation. Tu sais comment tu es Keli ?
+Não. Acho que sei tudo o que preciso.;Non. Acho que sei touto o que preciso.
+Segundo nossas informações, Keli é a única capaz de circular livremente pela área. Para tirar o Príncipe de lá, você precisará disfarçá-lo como ela. É claro que ela precisará ser tratada primeiro.;Selon nos informations, Keli est une capacité unique de livre circulaire dans la zone. Pour tirer le Prince de là, vous serez précisément disfarçá-lo comme elle. Il est clair que cela sera précisément traité en premier.
+Bem, tenho certeza que consigo fazer isso. Como faço para resgatá-lo?;Je suis sûr que je vais le faire. Comment faire pour resgatá-lo?
+Claro, você precisará encontrar uma maneira de fazer com que Keli lhe mostre a chave sem causar suspeitas. Tenho certeza que Leela pode ajudá-lo com isso.;Bien sûr, vous rencontrerez précisément une manière de faire en sorte que Keli le montre pour avoir causé des soupçons. Je suis sûr que Leela peut l'aider avec cela.
+O Príncipe foi levado por um grupo de bandidos liderados pela autoproclamada 'Lady' Keli. Eles o estão mantendo na prisão abandonada a leste da Vila Draynor.;O Príncipe a été levé par un groupe de bandits dirigés par la « Lady » Keli autoproclamée. Ils sont restés dans la prison abandonnée à l'est de Vila Draynor.
+Antes de ir, há mais uma coisa. Você precisará de uma chave para tirar o Príncipe de sua cela. Keli tem o único. Você poderia roubá-lo, mas parece um risco que devemos evitar.;Avant de l'ir, j'ai plus d'une chose. Vous aurez précisément une chose à faire pour tirer le Prince de votre cela. Keli tem o único. Vous pouvez le faire, mais il y a un risque que nous devions éviter.
+Parece que eu deveria ir até Draynor Village e ver Leela então.;Il semble que vous deviez aller au Draynor Village et voir Leela alors.
+E colocar em risco a vida do Príncipe no processo? Não. Não haverá riscos desnecessários. Precisamos fazer isso com o mínimo de derramamento de sangue possível.;Et prendre le risque de vivre la vie du Prince sans processus ? Non. Vous n’aurez pas de risques inutiles. Nous sommes précis à faire en sorte que le minimum de derramamento de sange soit possible.
+Mas se ela tem a única cópia e eu não posso simplesmente roubá-la, como consigo a chave?;Mais est-ce qu'il s'agit d'une copie unique et vous ne pouvez pas simplement la rouler, comme vous le souhaitez ?
+Ela tem cabelos loiros e usa roupas rosa. Minha filha, Leela, uma das minhas espiãs, está atualmente na Vila Draynor de olho na prisão. Tenho certeza que ela pode ajudá-lo com os detalhes.;Elle tem cabelos loiros e usa roupas rosa. Minha filha, Leela, une de ces minhas espionnes, est actuellement à Vila Draynor de vieille prison. Je suis sûr que cela peut vous aider avec les détails.
+Se você me trouxer uma impressão da chave junto com uma barra de bronze, posso lhe mostrar como fazer uma cópia. Você deverá conseguir fazer uma impressão da chave usando um pouco de argila macia.;Si vous me trouvez une impression d'un homme avec une barre de bronze, vous pouvez le montrer comme une copie. Vous devrez faire une impression de chave en utilisant un sachet d'argile expansée.
+Esse homem é demasiado confiante numa altura em que devemos tomar cuidado extra. No entanto, se ele tomou a sua decisão, não a questionarei. Ainda assim, você deve saber que estarei de olho em você.;Esse homem est demasiado confiante numa altura em que devemos tomar cuidado extra. Cependant, si vous avez pris votre décision, vous n'avez pas à vous poser de questions. Et maintenant, vous devez savoir que vous êtes un vieil homme à vous.
+Por que não posso simplesmente entrar e matar ela e seus bandidos?;Pourquoi ne pouvez-vous pas simplement entrer et mater ses bandits ?
+Essa seria uma descrição adequada. No entanto, considero você uma escolha interessante do Chanceler. Por que ele escolheu confiar essa tarefa a você em vez de uma das nossas?;Il s'agit d'une description adéquate. Non, considérez que vous avez une école intéressante de Chanceler. Pourquoi un élève vous a-t-il confié cette tarefa à vous en face d'une de nos personnes ?
+O Príncipe Ali, herdeiro do Emir de Al Kharid, foi levado. Meus espiões já descobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.;Le prince Ali, berger de l'émir d'Al Kharid, a été levé. Meus espiões já decobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.
+Onde está Leela em Draynor?;Où est Leela dans Draynor ?
+Então você deveria ir.;Alors vous allez l'avoir.
+Sim, eu gostaria de um pouco de corda.;Oui, j'ai gostaria d'un pouco de corda.
+Why, hello there, lad. Me friends call me Ned. I was a man of the sea, but it's past me now. Could I be making or selling you some rope?;Eh bien, bonjour, mon garçon. Mes amis m'appellent Ned. J'étais un homme de la mer, mais cela ne me concerne plus maintenant. Pourrais-je te fabriquer ou te vendre de la corde ?
+Que tal algum tipo de peruca?;Que tal algum tipo de peruca?
+Você faz corda de lã?;Vous avez une corde à linge pour vous ?
+Tenho certeza que posso. O que você está pensando?;Je suis sûr que je peux. Ou que tu es en train de penser ?
+Não, obrigado, Ned. Eu não preciso de nenhum.;Non, obligé, Ned. Il n'y a pas de précision sur le nenhum.
+Bem, posso te vender uma corda por 15 moedas. Ou posso fazer alguns para você se você me der quatro novelos de lã. Eu os une, sim, os torna fortes.;Je peux te vendre une corde pour 15 mois. Vous pouvez faire quelque chose pour que vous me donniez les quatre romans de là. Eu os une, sim, os torna fortes.
+Você poderia fazer outras coisas além da corda?;Voulez-vous pouvoir faire d'autres choses ensemble avec la corde ?
+Claro que você pode!;Claro que tu peux!
+Você poderia tricotar um suéter para mim?;Voulez-vous tricoter un suéter pour moi?
+Hello again, lad. Something I can help you with? Want to buy some rope perhaps?;Re-bonjour, mon garçon. Quelque chose pour lequel je peux vous aider ? Tu veux peut-être acheter de la corde ?
+Você poderia consertar os buracos das flechas nas costas da minha camisa?;Voulez-vous conserver les buracos des flèches sur les côtes de ma chemise?
+Na verdade, não preciso de nada.;En réalité, ce n'est pas précis.
+O que você poderia fazer por mim?;O que você você poderia fazer por mim?
+Isso é um pouco mais do que quero pagar.;C'est un peu plus pour que je paie.
+Bem, querido, você precisa de uma base para a pasta. Isso é uma mistura de cinza, farinha e água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me esses quatro itens e eu farei alguns para você.;Bien sûr, vous avez une base précise pour les pâtes. C'est une brume de cire, de farine et d'eau. Alors vous avez des amours précises pour colorer comme vous le souhaitez. Traga-me esses quatre éléments et eu farei alguns para você.
+Sua velha bruxa maluca, você não pode me ajudar.;Si tu es grande bruxa maluca, tu ne peux pas me aider.
+Vou pegar um pouco de lã.;Vous prenez un pouco de lã.
+Em que posso ajudá-lo?;Est-ce que je peux l'aider?
+Ora, é uma das minhas poções mais populares! Muitas pessoas por aqui gostam de embelezar um pouco o rosto. Posso fazer isso para você se você me conseguir o que for necessário.;Ora, c'est l'une des choses les plus populaires ! Plusieurs personnes pour ici gostam de embellir un pouco ou un rosto. Vous pouvez le faire pour que vous me consécuriez ce qui est nécessaire.
+Você quer um pouco de corda ou não?;Voulez-vous un cordon de serrage ou pas ?
+Aí está, a melhor corda de Guilenor.;Oui, c'est la meilleure corde de Guilenor.
+O que você precisa?;Que es-tu précis ?
+Você pode fazer pasta de pele?;Vous pouvez faire des pâtes à base de peau ?
+Legal, você transforma pessoas em sapos?;Juridique, vous transformez des personnes en sapos ?
+Ok, por favor me venda um pouco de corda.;Ok, favorisez-moi la vente d'un pouco de corda.
+Estou bem, obrigado.;Estou bem, obligé.
+Gostaria de acessar minha conta bancária, por favor.;Gostaria de acessar minha conta bancária, por favor.
+Gostaria de verificar minhas configurações de PIN.;Vous devez vérifier vos configurations de code PIN.
+Eu gostaria de comprar mais slots bancários.;Vous pouvez acheter plus de machines à sous bancaires.
+O que é esse lugar?;O qu'est-ce que c'est ?
+Howdy there partner! You came at just the right time! I've got something for ya!;Salut, partenaire ! Vous êtes arrivé juste au bon moment ! J'ai quelque chose pour toi !
+Bem-vindo ao Mercado Geral. Você gostaria de negociar agora ou trocar conjuntos de itens?;Je l'ai acheté au Mercado Geral. Voulez-vous négocier maintenant ou échanger des articles ?
+Sim, por favor. Misture-me um pouco de pasta de pele.;Sim, s'il te plaît. Mélange-moi un pouco de pâtes de peau.
+Eu não deveria incomodar alguém tão durão quanto você.;Vous ne deviendrez pas quelqu'un qui dura autant que vous.
+Ouvi rumores de que você mata pessoas.;Ouvi rumeurs de que vous mata pessoas.
+Você deve ter treinado muito para esse trabalho.;Vous devez être très entraîné pour votre travail.
+Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.;Torniquete, Fenderbaum, Tottenham, Guimauve, Marblearch.
+Sim, estou muito ocupado. Adeus.;Sim, estou muito occupé. Adéus.
+É muita gentileza sua dizer isso. Reputações não são conquistadas facilmente. Consegui ter sucesso onde muitos falham.;É muita gentileza sua dizer isso. La réputation n’est pas facilement conquise. Consegui ter successo onde muitos falham.
+Você é a famosa Lady Keli? Líder da gangue de bandidos mais difícil do mundo?;Vous êtes la célèbre Lady Keli ? Le chef de la bande de bandits est-il le plus difficile au monde ?
+Não, obrigado. Não preciso de nenhuma pasta de pele agora.;Non, obligé. Il n'y a pas de précision sur les pâtes nenhuma de pele agora.
+Já ouviu falar de você? You're famous in Gielinor!;Já ouviu falar de você? Vous êtes célèbre à Giélinor !
+Qual é o seu plano mais recente então?;Quel est votre plan le plus récent?
+Aí está, querido. Isso fará com que você fique bem nas danças de Varrock.;Oui, c'est ce que je cherchais. C'est pour cela que vous êtes dans les danses de Varrock.
+Oh, você gosta de xingar uma bruxa, não é?;Oh, tu as envie de manger une bruxa, n'est-ce pas ?
+Isso é uma multa por insultar uma bruxa. Você deveria aprender um pouco de respeito.;C'est une multa pour insulter une bruxa. Vous devriez apprendre un peu de respect.
+Sim, eu sou Keli. Você já ouviu falar de mim então?;Sim, tu es avec Keli. Vous avez déjà essayé de mim então?
+Não, nunca ouvi falar de você.;Non, nunca ouvi falar de você.
+Yes, I can. I see you already have the ingredients - the water, flour, ashes and redberries. Would you like me to mix some for you now?;Oui, je peux. Je vois que vous avez déjà les ingrédients : l'eau, la farine, les cendres et les baies rouges. Voudriez-vous que je vous en prépare un peu maintenant ?
+Isso deveria ser simples. Entregue as coisas para Aggie então.;Cela devrait être simple. Entregue as coisas para Aggie alors.
+Por que você quer saber?;Pourquoi tu veux savoir?
+Obrigado. É melhor eu ir agora.;Obrigado. C'est meilleur pour toi.
+Bem... só por um momento então.;Bem... só por um momento então.
+Posso tocar na tecla por um momento, por favor?;Pouvez-vous toucher une touche pour un moment, par faveur ?
+É claro que você precisará provar seu valor antes de permitirmos que você se junte a nós. Contudo, o que posso dizer é que atualmente temos um prisioneiro muito valioso. Se tudo correr bem, ele nos tornará muito ricos.;Il est clair que vous devrez prouver avec précision votre valeur avant de nous permettre de vous joindre à nous. Cependant, ce qui peut être dit est que nous sommes actuellement un prisonnier très vaillant. Si tout va bien, nous nous retournerons avec beaucoup de richesses.
+Não existe outra chave como esta no mundo.;Não existe outra chave como esta no mundo.
+Bem, suponho que não há mal nenhum em deixar você ver isso. Afinal, você não tem esperança de roubá-lo.;Je suppose que je n'ai aucun mal à le faire. Afinal, vous n’avez pas d’espoir de roubá-lo.
+Será algo que poderei contar aos meus netos, quando vocês forem ainda mais famosos do que são agora.;Il y aura quelque chose qui pourra me contacter, quand vous serez parmi les plus célèbres de ce moment-là.
+Como você sabe que alguém não tentará libertá-lo?;Comment savez-vous que quelque chose ne tente pas de liberté?
+Para pegá-lo? Oh sim. Tivemos que agarrá-lo sem que seus guarda-costas percebessem. Foi um golpe de gênio. Principalmente obra minha, é claro.;Pour cela ? Oh si. Tivemos que agarrá-lo sem que seus guarda-costas percebessem. C'est un coup de génie. Principalement, c'est mon travail, c'est clair.
+Muito obrigado! Você é muito gentil.;Très obligé! Vous êtes très gentil.
+De nada, mas vá embora agora. I will need some time to consider your request to join us.;De rien, mais tu es encore là. Il me faudra un peu de temps pour étudier votre demande de nous rejoindre.
+Ah, entendo. You must have been very skillful.;Ah, entendo. Vous avez dû être très habile.
+Bem, eu vou embora. Boa sorte.;Bem, tu emboras. Boa en quelque sorte.
+Bem, na verdade eu esperava me juntar ao seu grupo.;Bien sûr, vous m'attendez avec votre groupe.
+Posso ver a chave, por favor?;Posso ver a chave, por favor?
+Essa é uma boa maneira de guardar segredos.;C'est une bonne façon de garder les secrets.
+Sempre há alguém pronto para espalhar boatos. Eu ouço todo tipo de coisas ridículas hoje em dia.;Il y a toujours un moment pour espalhar boatos. C'est ous tout le type de coisas ridicules aujourd'hui dans la journée.
+Não há como libertá-lo. A única chave da cela dele está numa corrente em volta do meu pescoço, e o serralheiro que a fez morreu repentinamente.;Il n'y a pas de liberté. Une seule chose pour cela, c'est qu'il n'y a rien de plus actuel que mon corps, et le serralheiro que vous vous repentirez demain.
+Por que?;Pourquoi ?
+Bem, boa sorte com isso.;Bem, boa sorte com isso.
+Junte-se a nós? Interessante... suponho que você tenha essa aparência.;Que pensez-vous de nous ? Intéressant... je suppose que vous avez cette aparência.
+Não;Non
+Usarei isso para fazer uma cópia de backup da chave. Darei para Leela caso você perca o seu.;Utilisez-le pour faire une copie de sauvegarde de la clé. Darei para Leela caso vous cherchez votre.
+Eu vou indo.;Eu tu indo.
+Tenho uma impressão da chave.;J'ai une impression de chave.
+Agora, você tem mais alguma dúvida?;Maintenant, tu es encore quelque chose de dur ?
+Bom, você vai levar isso e sua barra de bronze para uma fornalha. Derreta o bronze, despeje na impressão e deixe esfriar. Isso lhe dará uma cópia da chave.;Bon sang, tu vas lever cette barre et ta barre de bronze pour une cérémonie. Derreta o bronze, despeje na impressionnador et deixe esfriar. C'est ainsi qu'il faut faire une copie du chave.
+Você tem mais alguma dúvida?;Vous avez plus quelque chose de dur ?
+Não, mas temos as nossas teorias.;Non, mais nous sommes aussi nos théories.
+Quer compartilhá-los?;Qu'est-ce que vous partagez?
+Ela estará em algum lugar perto da prisão abandonada que os bandidos estão usando. It's just east of the village.;Elle se trouve dans un endroit où se trouve la prison abandonnée que les bandits utilisent. C'est juste à l'est du village.
+Isso danificará a impressão?;Est-ce qu'on peut impressionner ?
+Você de novo. Como vão as coisas em Draynor?;Vous êtes de novo. Comment va-t-on aimer Draynor?
+Não. Você ainda não provou seu valor o suficiente para receber essa informação.;Non. Vous n’avez donc pas prouvé votre valeur ou votre suffisance pour recevoir ces informations.
+É possível... Deixe-me dar uma olhada brevemente.;C'est possible... Deixe-me dar uma olhada brevemente.
+Ainda estou trabalhando para reunir todos os itens que preciso.;Ainda estou trabalhando para réunir todos os itens que preciso.
+Create a key using the key print?;Créer une clé en utilisant l'empreinte de clé ?
+Bem, se precisar de ajuda, é só falar com Leela.;Eh bien, si vous précisez cela, c'est comme ça que Leela.
+Preciso obter uma cópia da chave da cela do Príncipe, criar um disfarce para ele que o faça parecer com Keli e depois tirá-lo da prisão.;Précisément, en obtenant une copie du chave de cela du Prince, en criant une distance pour celui qui a la face de Keli et après l'avoir tiré en prison.
+Eu diria que é um bom resumo. Agora, você tem alguma pergunta para mim sobre alguma parte do plano?;Je t'ai dit que c'était un bon résumé. Maintenant, avez-vous une question à me poser sur une partie du plan ?
+Você deve ser Leela. Your father sent me to help rescue Prince Ali.;Vous devez être Leela. Votre père m'a envoyé pour aider à sauver le prince Ali.
+Could I buy a beer please?;Puis-je acheter une bière s'il vous plaît ?
+Alguma ideia para o disfarce?;Une idée pour la distance?
+Why are you called Longbow Ben?;Pourquoi t'appelles-tu Longbow Ben ?
+Have you got any quests I could do?;Avez-vous des quêtes que je pourrais faire ?
+Sure, that will be 2 gold coins please.;Bien sûr, ce sera 2 pièces d’or s’il vous plaît.
+Você ouviu algum boato aqui?;Vous avez déjà vu un bateau ici ?
+Sim, ele avisou que você viria. Você está ciente do plano?;Oui, ele avisou que tu es viria. Êtes-vous un expert du plan ?
+Estou procurando pelo Frank Barba Ruiva.;Vous avez acheté Frank Barba Ruiva.
+Ok, aqui está.;Ok, voilà.
+Você está de volta. Você já tem tudo o que precisa?;Vous êtes en ligne. Vous avez tout ce qui est précis ?
+Não pense assim. Eu irei e me prepararei.;Je ne pense pas que ce soit le cas. Je vais me préparer.
+Arrr, amigo!;Arrr, mon ami !
+Alguma idéia para a chave?;Une idée pour un chave?
+Bom trabalho. Agora, antes de libertar o Príncipe, você precisará encontrar uma maneira de lidar com sua guarda pessoal. Ele é falador, então tente encontrar um ponto fraco. Lembre-se, não queremos violência desnecessária.;Bon travail. Aujourd'hui, avant de libérer le Prince, vous rencontrerez précisément une méthode de lidar avec votre garde personnelle. Il est faux, alors il tente de rencontrer un pont brisé. Lembre-se, nous n’avons pas besoin de violence.
+Tudo bem. Vou conversar com esse guarda.;Tout à fait. Vous conversez avec cela.
+Eu tenho um pouco de cerveja aqui. Gosta de um?;J'ai eu un sachet de bière ici. Gosta de euh?
+O que?;Ou quoi ?
+Aqui, guarde isso para mais tarde. Detesto ver um guarda sedento.;Ici, garde-le pour plus tard. Detesto ver um guarda sedento.
+Hello! I'm here to tie you up!;Bonjour! Je suis là pour t'attacher !
+O que você queria ser quando era menino?;Où est-ce que tu te demandes quand il s'agit du nouveau jour ?
+Você gostaria de outra cerveja, meu amigo?;Você gostaria de outra cerveja, mon ami?
+O que você quer?;O que tu cherches?
+Na verdade, não preciso de um agora.;En vérité, ce n'est pas précis sur une heure.
+Eu realmente quero.;Je suis vraiment quero.
+Isso foi perfeito! Não posso agradecer o suficiente.;C'est parfait! Il n’est pas possible d’améliorer ou de suffire.
+Aqui você vai. Que tal um esforço rápido? Nada mal, eu acho!;Ici tu vas. Qu'est-ce qu'un effort rapide? Nada mal, eu acho!
+Ah, isso seria adorável. Só um, só para molhar a garganta.;Ah, c'est si seria adorável. Alors euh, c'est pour molhar a garganta.
+Francamente! Essa lavagem é exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.;Franchement! Essa lavagem est exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.
+Bem... esse é um pensamento interessante. Sim, acho que poderia fazer alguma coisa. Dê-me três novelos de lã e talvez eu consiga fazer isso.;Bem... esse é um pensamento intéressant. Sim, je peux dire que je peux faire quelque chose de coisa. Dê-me trois romans de lã e talvez eu consiga fazer isso.
+Ok, vou tentar.;Ok, tu tentes.
+Ainda não. Eu irei e me prepararei.;Ainda non. Je vais me préparer.
+Eu os tenho aqui. Por favor, faça-me uma peruca.;Tu es là pour toi. Por favor, faça-me uma peruca.
+Conte-me sobre a vida de um guarda.;Conte-moi sur la vie d'une garde.
+Obrigado Ned. Há mais em você do que aparenta.;Obrigado Ned. Il y a plus à dire que ce soit apparent.
+Claro. Deve ser difícil estar aqui sem beber.;Claro. Il sera difficile d'être ici, comme si c'était bon.
+É melhor não. Não quero ficar bêbado em serviço.;C'est mieux non. Não quero ficar bêbado em serviço.
+Thank you, my friend. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.;Merci, mon ami. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.
+O príncipe Ali está em casa em segurança. Você tem a eterna gratidão do Emir por resgatar seu filho. Por favor, aceite este pagamento como um agradecimento.;Le prince Ali est à la maison en toute sécurité. Je vous souhaite une éternelle gratitude à l'émir pour sauver votre fils. Par faveur, cet argent est un paiement comme un agrément.
+Pegue esse disfarce. Você pode usá-lo para passar pelos guardas do lado de fora.;Pegue esse disfarce. Vous pouvez l'utiliser pour passer les gardes du côté des forums.
+Ah, graças a Deus! Qual é o seu plano?;Ah, merci à Deus ! Quel est votre plan?
+Príncipe Ali? Estou aqui para resgatar você.;Prince Ali? Vous êtes ici pour répondre à vos questions.
+Bem, eu não descreveria isso como uma missão, mas há algo em que preciso de ajuda.;Cependant, nous ne décrivons rien comme une mission, mais il y a quelque chose qui est précis à dire.
+Saudações. Welcome to my castle.;Saudações. Bienvenue dans mon château.
+A Ordem dos Magos da Torre dos Magos tem estado em busca de artefatos mágicos recentemente. Eu me pergunto se isso pode ser exatamente o tipo de coisa que eles procuram.;L'Ordre des Mages de la Tour des Mages est récemment entré dans la recherche d'objets magiques. Je pense que cela peut être exactement le type de coisa que vous procurez.
+Muito obrigado. Você encontrará a Torre dos Feiticeiros a sudoeste daqui, do outro lado da ponte da Vila Draynor. Ao chegar, procure por Sedridor. Ele é o Arquimago dos magos de lá.;Très obrigado. Vous rencontrerez la Torre dos Feiticeiros au sud-est d'ici, à l'extérieur du pont de Vila Draynor. Ao chegar, procure-toi par Sedridor. C'est l'Arquimago des mages de là.
+Você estaria disposto a levá-los para mim?;Você estaria disposto a levá-los para mim?
+Claro, não há problema.;Bien sûr, il n'y a pas de problème.
+Iniciar a missão Mistérios Rúnicos?;Lancer une mission Mistérios Rúnicos?
+Você tem alguma missão para mim?;Vous avez une mission pour moi ?
+O que é?;O qu'é?
+Onde posso encontrar dinheiro?;Où peut-on rencontrer un dîner ?
+Recentemente, estávamos vasculhando algumas coisas armazenadas no porão e encontramos este antigo talismã.;Récemment, nous sommes allés chercher quelques-uns de nos armazenadas et nous avons rencontré cet ancien talent.
+Primeira torre? Esqueceu minha essência? Do que você está falando?;Primeira Torre? Esqueceu minha essence? Est-ce que vous êtes à Falando ?
+Foi incendiado por membros traidores da nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.;J'ai été incendié par des membres traidores de notre propre ordre. Ils suivent le mal du chaos, Zamorak, et désirent rendre nos découvertes magiques à leur nom.
+Bem-vindo, aventureiro, à mundialmente famosa Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Somos o grupo de bruxos mais antigo e prestigiado do mundo. Agora, como posso ajudá-lo?;Bem-vindo, aventurier, à la renommée mondiale Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Nous sommes le groupe de Bruxelles le plus ancien et prestigieux du monde. Maintenant, comment puis-je l'aider?
+O processo de imbuir runas é chamado de criação de runas. Diz a lenda que esta já foi uma arte comum, mas os segredos de como fazê-la foram perdidos até pouco menos de duzentos anos atrás.;Le processus d'impression de runes est la création de runes. Cela dit, c'est que j'ai été dans un art commun, mais les gens se sont séparés de la façon dont ils ont perdu jusqu'à moins de deux ans.
+Sedridor? O que você quer com ele?;Sédridor ? Que voulez-vous de lui?
+O Duque de Lumbridge enviou-me para procurá-lo. Eu tenho esse talismã que ele encontrou. Ele disse que Sedridor estaria interessado nisso.;O Duque de Lumbridge m'envie de me procurer. Je t'ai trouvé un talisman que tu as rencontré. Il a dit que Sedridor était tout aussi intéressé.
+Quando a torre pegou fogo, muita coisa foi perdida, incluindo um importante encantamento. Um feitiço que poderia ser usado para se teletransportar para uma mina de essência oculta.;Quand la Torre Pegou Fogo, beaucoup de choses ont été perdues, y compris un enchantement important. Une feitiço qui pourrait être utilisée pour se télétransporter pour une mine d'essence occulte.
+Quebra-cabeça?;Quebra-cabeça ?
+De fato! O legado perdido da primeira torre. Este talismã pode de fato ser a chave para encontrar a minha essência esquecida!;De fato! Le legs perdu de la première tour. Ce talisman peut être un cadeau pour rencontrer une minha essência esquecida !
+Vá em frente.;Vá em frente.
+Ok, aqui está você.;Ok, c'est ici.
+Desde que o encantamento foi perdido, temos lutado para manter nossos estoques de essência rúnica.;Depuis que l’enchantement a été perdu, nous nous sommes battus pour conserver nos estoques d’essence runique.
+Ah, minhas desculpas, aventureiro. Permita-me informá-lo.;Ah, minhas desculpas, aventureiro. Permettez-moi de vous informer.
+Precisamente. A essência rúnica é o material usado para fazer runas, mas é incrivelmente raro. Essa essência minha era o único lugar que nossa ordem conhecia.;Précisément. L'essence runique est le matériau utilisé pour fabriquer des runes, mais c'est incroyablement rare. Cette essence était l'endroit unique que nous ordonnions de comprendre.
+Essas runas são criadas a partir de um material altamente exclusivo e depois imbuídas de poder mágico de vários altares rúnicos. Altares diferentes criam runas diferentes com efeitos mágicos diferentes.;Ces œuvres sont créées à partir d'un matériau hautement exclusif et après avoir été imprégnées de la puissance magique de divers autels runiques. Des autels différents criam runas différents avec des effets magiques différents.
+Na verdade, não estou interessado.;En réalité, vous n’êtes pas intéressé.
+A essência minha que você mencionou anteriormente, presumo?;L'essence de ce que vous avez mentionné antérieurement, vraisemblablement ?
+Ele fez isso agora? Bem, entregue-o então e veremos o motivo de toda essa confusão.;Ele fez est-ce maintenant? Alors, entregue-o então et veremos o motivation de toda essa confusão.
+Não, só darei ao Sedridor.;Non, j'oserais aller à Sedridor.
+Hmm... Não parece ser nada muito especial. Apenas um talismã de ar normal pela aparência das coisas. Ainda assim, as aparências enganam. Deixe-me dar uma olhada mais de perto...;Hmm... Il n'y a rien de vraiment spécial. Il s'agit simplement d'un talisman de l'apparence normale des coisas. Ainda assim, comme aparências enganam. Deixe-me dar uma olhada mais de perto...
+A redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também resultou no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.;La redécoration de la création de runes a eu un impact aussi grand sur le monde que Marco ou le début de Quinta Era. Cela n'a également pas abouti à la naissance de notre ordre et de la construction de la première Torre dos Feiticeiros.
+Se foi a primeira torre, suponho que não exista mais? O que aconteceu?;Si c'était la première tour, supposons qu'il n'existe pas plus ? O que aconteceu?
+Como você provavelmente sabe, quando lançamos feitiços, o fazemos usando o poder das runas.;Comme vous le savez, lorsque nous lançons des feitiços, nous pouvons utiliser la puissance des runes.
+Você é Sedridor?;Vous êtes Sedridor?
+Que interessante... Parece que falei cedo demais. Há mais neste talismã do que aparenta. Na verdade, pode muito bem ser a última peça do quebra-cabeça.;Que intéressant... Parece que falei cedo demais. Il y a plus de talisman que celui qui apparaît. En réalité, il peut très bien être la dernière pièce de quebra-cabeça.
+Sério agora? Eu sou o Arquimago que você conhece.;Sério agora? Vous sou o Arquimago que vous conhece.
+Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.;Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.
+É fundamental que eu compartilhe esta descoberta com meu associado, Aubury, o mais rápido possível. Ele não é um grande mago, mas é um especialista em criação de runas e sua visão será essencial.;Il est fondamental que nous puissions partager cette découverte avec mon associé, Aubury, le plus rapidement possible. Ce n’est pas un grand mago, mais c’est un spécialiste de la création de runes et sa vision sera essentielle.
+Sim, certamente.;Oui, certainement.
+Então o que acontece agora?;Alors ou que dois-je arriver maintenant?
+Teria sido levado muitas vezes à mina de essência, e as energias mágicas de lá terão deixado uma marca nele. E pensar que esteve escondido em Lumbridge todo esse tempo!;Il y a beaucoup d'énergie magique dans la vie d'une marque. Je pense que c'est à Lumbridge que tout ce tempo est arrivé !
+Não me lembro de ter dito meu nome... Como você sabe disso?;Não me lembro de ter dito mon nome... Como você sabe disso?
+Estou começando a entender por que isso é tão importante. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?;Estou começando a entender por que c'est si important. Alors, est-ce que vous savez que ce talent peut vous aider à redescendre cet enchantement ?
+Aparentemente, há aqueles por aí que ainda sabem onde encontrar alguma, mas embora estivessem dispostos a vender-nos a essência, recusaram-se a partilhar conhecimentos sobre como encontrá-la nós próprios.;Apparemment, il y a ceux qui ont déjà trouvé quelque chose, mais qui sont également des vendeurs d'essence, qui ont partagé leurs connaissances sur la façon dont ils ont découvert nos propres propriétés.
+Eu faço! Toda magia deixa rastros e, pelo que sei, esse talismã foi muito usado na época da primeira torre.;Euh oui! Toute la magie des rastros et, pour eux, ce talisman a été très utilisé à l'époque de la première tour.
+Não, estou ocupado.;Non, tu es occupé.
+Boa sorte, [PLAYER_NAME].;Bon sang, [PLAYER_NAME].
+Ele dirige uma loja de runas no sudeste de Varrock. Por favor, leve este pacote de notas de pesquisa para ele. Se tudo correr bem, os segredos da minha essência poderão em breve ser nossos novamente!;Il dirige une place de runas dans le sud-est de Varrock. Par faveur, laissez ce paquet de notes de pêche pour vous. Si tout va bien, les secrets de ma petite essence peuvent être brefs être nos nouveaux !
+Você quer dizer o encantamento?;Voulez-vous rêver ou enchanter?
+Isso... isso é incrível.;C'est... c'est incroyable.
+Eu adoraria uma xícara de chá.;Je t'adore une fois de plus.
+Você quer comprar algumas runas?;Voulez-vous acheter quelques runes?
+De Sedridor na Torre dos Feiticeiros.;De Sedridor à Torre dos Feiticeiros.
+Sim, por favor!;Sim, s'il te plaît !
+Fui enviado aqui com um pacote para você.;Je l'ai envoyé ici avec un paquet pour vous.
+Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que poderíamos...;Eh bien, quand nous combinons une minha propre enquête avec cette dernière découverte, nous pouvons le faire...
+Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graças a você, acho que finalmente conseguimos.;Je vous remercie de votre aventure pour moi de suivre ces notes de pêche. Merci à vous, nous vous le ferons finalement.
+Antes de sair, por que não tomar uma xícara de chá?;Avant de commencer, pourquoi ne pas faire un xícara de chá ?
+Não, não, estou me adiantando. The signs are promising, but let's not jump to any conclusions just yet.;Non, non, tu m'aimes. Les signes sont prometteurs, mais ne tirons pas de conclusions hâtives pour l’instant.
+Aqui, leve essas anotações para Sedridor. Esperançosamente, eles deveriam dar a ele tudo o que ele precisa.;Ici, laissez ces notes pour Sedridor. Espérons qu'ils devraient faire tout ce qu'ils ont de précis.
+Agora, vamos dar uma olhada...;Agora, vamos dar uma olhada...
+Oh, é uma loja de runas. Não, obrigado, então.;Oh, c'est une loja de runas. Non, obligé, alors.
+De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para ele ter enviado um estranho.;De Sédridor? Mais... certainement, est-ce que ça ne peut pas être le cas ? Por favor, deixe-me ficar com ele. Cela doit être extrêmement important pour que vous puissiez l'envoyer à un hôtel.
+Um pacote? De quem?;Euh, du pacote ? De quoi ?
+Você pode me teletransportar para a Mina de Essência Rúnica?;Pouvez-vous me télétransporter pour la mine d'essence runique ?
+Este é o seu livro de feitiços, contém todos os feitiços que você pode lançar. Para lançar um feitiço, você precisará ter o nível de magia necessário e a quantidade certa de runas usadas para lançar o feitiço.;C'est votre livre de feitiços, qui contient toutes les feitiços que vous pouvez publier. Pour lancer une feitiço, vous devrez préciser le niveau de magie nécessaire et la quantité certaine de runes utilisées pour lancer la feitiço.
+O prazer é meu!;O prazer é meu!
+When you have a combat spell available, click on it once, then select your target. A good target would be a monster that is below your combat level.;Lorsque vous disposez d'un sort de combat, cliquez une fois dessus, puis sélectionnez votre cible. Une bonne cible serait un monstre inférieur à votre niveau de combat.
+Conte-me sobre o combate mágico, por favor.;Conte-moi sur le combat magique, por favor.
+Também compartilharei o encantamento com outras pessoas, incluindo Aubury. Quando eu fizer isso, avisarei que você terá acesso ilimitado à mina.;Ils partagent également leur enchantement avec d'autres personnes, y compris Aubury. Quand vous l'aurez fait, avisez que vous aurez un accès illimité à moi.
+Olá aventureiro, sou o tutor de combate mágico. Você gostaria de aprender sobre combate mágico ou talvez como fazer runas?;Olá aventurier, je suis le tuteur de combat magique. Voulez-vous apprendre le combat magique ou apprendre à faire des runes ?
+Há algumas coisas que você precisará para fazer runas, essência rúnica e um talismã para entrar nas ruínas do templo.;Il y a certaines choses que vous avez précises pour faire des runes, une essence runique et un talisman pour entrer dans les ruines du temple.
+Se você quiser acessar a minha essência por conta própria, é só me avisar. É o mínimo que posso fazer.;Si vous souhaitez accéder à une petite chose par rapport à vous, c'est moi qui vous conseille. C'est le minimum que je peux faire.
+Caso você não saiba, o talismã pode ser usado para criar runas aéreas. Basta levá-lo para o Altar Aéreo ao sul de Falador junto com um pouco de essência rúnica.;Si vous ne savez pas, le talisman peut être utilisé pour crier des zones aériennes. Basta levá-lo para o Autel Aéreo ao sul de Falador junto avec un poco de essência runica.
+Então você poderá acessar essa minha essência agora?;Alors, pourriez-vous accéder à cette minute d'essence maintenant ?
+Vamos discutir como minhas runas agem quando eu as pego.;Vamos discuterir como minhas runas agem quando eu as pego.
+If you want to save yourself an inventory space, you could always try binding the talisman to a tiara.;Si vous souhaitez économiser de l'espace dans votre inventaire, vous pouvez toujours essayer de lier le talisman à un diadème.
+Como faço runas?;Comment faire des runes?
+When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes.;Lorsque vous trouvez l'autel en ruine, utilisez le talisman dessus pour être transporté vers un temple où vous pourrez fabriquer vos runes.
+Nemarti, the Ranged Combat tutor and I both give out items every 30 minutes, however you must choose whether you want runes or ranged equipment.;Nemarti, le tuteur du combat à distance et moi-même distribuons des objets toutes les 30 minutes, mais vous devez choisir si vous voulez des runes ou de l'équipement à distance.
+Sim, eu tenho. Ele me deu algumas notas para entregar a você.;Sim, je t'en prie. Ele me deu algumas notas para entregar a você.
+Quem mais conhece o teletransporte para a Mina de Essência Rúnica?;Que pouvez-vous mieux communiquer avec le télétransport pour la Mine d'Essence Runique ?
+Try rats in the castle or, if you're feeling brave, the goblins to the west have been causing a nuisance of themselves.;Essayez les rats dans le château ou, si vous vous sentez courageux, les gobelins à l'ouest se sont eux-mêmes causé des nuisances.
+Clicking on the temple's altar will imbue your rune essence with the altar's magical property.;En cliquant sur l'autel du temple, votre essence runique sera imprégnée de la propriété magique de l'autel.
+To make one, take a tiara and talisman to the ruins and use the tiara on the temple altar. This will bind the talisman to your tiara.;Pour en fabriquer un, apportez un diadème et un talisman dans les ruines et utilisez le diadème sur l'autel du temple. Cela liera le talisman à votre diadème.
+You will need a talisman for the rune you would like to create. You can right-click on it and select the Locate option. This will tell you the rough location of the altar.;Vous aurez besoin d'un talisman pour la rune que vous souhaitez créer. Vous pouvez cliquer dessus avec le bouton droit et sélectionner l’option Localiser. Cela vous indiquera l'emplacement approximatif de l'autel.
+To claim runes, right-click on me and choose Claim, to claim ranged equipment right-click on the Ranged Combat tutor and select Claim.;Pour réclamer des runes, faites un clic droit sur moi et choisissez Réclamer, pour réclamer un équipement à distance, faites un clic droit sur le tuteur Combat à distance et sélectionnez Réclamer.
+Não se preocupe se não conseguir encontrar o altar. O talismã pode guiá-lo até lá. Você também pode encontrar talismãs para outros altares enquanto se aventura. Eles permitirão que você crie outros tipos de runas.;Ne vous inquiétez pas de ne pas rencontrer l’autel. Le talisman peut vous aider à l'atteindre. Vous pouvez également rencontrer des talismes pour d'autres autels lors de votre aventure. Ils vous permettent de crier à d'autres types de runes.
+Ah, [PLAYER_NAME]. How goes your quest? Have you delivered my research to Aubury yet?;Ah, [PLAYER_NAME]. Comment se passe votre quête ? Avez-vous déjà livré mes recherches à Aubury ?
+Maravilhoso! Vamos dar uma olhada então.;Maravilhoso! Vamos dar uma olhada alors.
+Ótimo! Obrigado!;Ótimo! Obrigado!
+Isso mesmo! Por sua causa, nossa ordem finalmente tem uma fonte adequada de essência rúnica novamente! Obrigado, amigo.;C'est moi aussi ! Pour sa cause, nous avons finalement ordonné qu'ils aient une source d'essence runique adéquate nouvellement ! Obrigado, amigo.
+Sim, é isso! O encantamento perdido!;Sim, c'est pareil ! Ô enchantement perdu !
+As you're fairly new to runecrafting you should start with air runes and mind runes.;Comme vous êtes relativement nouveau dans la création de runes, vous devriez commencer par les runes aériennes et les runes mentales.
+Há mais alguma coisa que você gostaria de saber?;Avez-vous encore quelque chose que vous voulez savoir?
+Não posso ajudá-lo com isso no momento, desculpe.;Je ne peux pas l'aider à ce moment-là, desculpe.
+If you have the right amount of runes and the magic level the spell will light up, meaning you will be able to cast it.;Si vous disposez de la bonne quantité de runes et du niveau de magie, le sort s'allumera, ce qui signifie que vous pourrez le lancer.
+To check the level and runes required to cast a spell, hover your mouse cursor over the spell.;Pour vérifier le niveau et les runes nécessaires pour lancer un sort, passez le curseur de votre souris sur le sort.
+Você poderia me contar sobre a antiga Torre dos Feiticeiros?;Voulez-vous me contacter sur l'antique Torre dos Feiticeiros ?
+To get rune essence you will need to gather them somehow. You should talk to the Duke of Lumbridge, he may be able to help you with that. Alternatively, other players may sell you the essence.;Pour obtenir l’essence des runes, vous devrez les rassembler d’une manière ou d’une autre. Vous devriez parler au duc de Lumbridge, il pourra peut-être vous aider. Alternativement, d’autres joueurs peuvent vous vendre l’essence.
+Ah, e você também pode ter esse talismã aéreo de volta. Não preciso mais dele e tenho certeza de que será útil para você.;Ah, et vous pourriez aussi être un talisman aérien de vol. Je n’en suis pas plus précis et j’ai la certitude que cela vous sera utile.
+Tudo bem, vamos ver o que Aubury tem para nós...;Tudo bem, vamos ver o qu'Aubury tem para nous...
+Eu vou tentar.;Vous avez essayé.
+O mago Grayzag da casa ao lado decidiu que não gostava de mim, então alistou um exército de centenas de diabinhos.;Le mago Grayzag de la maison a décidé qu'il ne voulait pas de MIM, alors il a fait un exercice de centièmes de mois.
+Esses diabinhos roubaram todo tipo de coisas minhas. A maioria dessas coisas eu realmente não me importo, apenas ovos e bolas de barbante e coisas assim.;Esses diabinhos roubaram todo tipo de coisas minhas. La plupart des coisas ne m'importent vraiment pas, seulement des œufs et des bols de barbante et des coisas asim.
+Isso é ótimo, obrigado.;C'est là qu'on l'a demandé.
+Iniciar a missão Imp Catcher?;Démarrer une mission Imp Catcher ?
+Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minhas contas de volta para mim?;Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minhas contas de volta para mim?
+Bem, visto que você pediu com educação... preciso de ajuda.;Eh bien, visto que vous allez faire avec l'éducation... précise de ajuda.
+Mas eles roubaram minhas quatro contas mágicas. Havia um vermelho, um amarelo, um preto e um branco.;Mais ils roulent minhas quatre contes magiques. J'ai un vermelho, un amarelo, un preto et un blanc.
+Ah, so you are there, Master [PLAYER_NAME]. I'm so glad you summoned me. Please take this lamp and make your wish.;Ah, alors vous êtes là, Maître [PLAYER_NAME]. Je suis tellement contente que tu m'aies convoqué. S'il vous plaît, prenez cette lampe et faites votre vœu.
+T-hee! Você nunca ordenhou uma vaca antes, não é?;Te! Vous n'avez jamais ordonné une vacances avant, n'est-ce pas ?
+Como faço para usar o banco?;Comment utiliser le banc ?
+Greetings friend. I am a manufacturer of leather.;Salutations mon ami. Je suis un fabricant de cuir.
+I see you have brought me some hides. Would you like me to tan them for you?;Je vois que tu m'as apporté des peaux. Voudriez-vous que je les bronze pour vous ?
+Onde e o que devo pescar?;Onde e o que devo pescar?
+Ahoy, to fish, you click on the shrimp fishin' spot while ye'r carrying a net.;Ohé, pour pêcher, vous cliquez sur le spot de pêche aux crevettes pendant que vous portez un filet.
+Você pode me ensinar o básico da pesca, por favor?;Vous pouvez me faire comprendre les bases de la pêche, par faveur ?
+Conte-me sobre diferentes peixes.;Conte-moi sur différentes pièces.
+I see... is that it?;Je vois... c'est ça ?
+Ah, you've lost your net have you? Have another!;Ah, vous avez perdu votre filet, n'est-ce pas ? Ayez-en un autre !
+About Will and Anne...;À propos de Will et Anne...
+Shiver me timbers! I'm afraid not. Old Grog said he might try and track them down. Perhaps he has an idea of where to find them.;Faites frissonner mes bois ! J'ai bien peur que non. Le vieux Grog a dit qu'il pourrait essayer de les retrouver. Peut-être a-t-il une idée de l'endroit où les trouver.
+OlÃ¡!;Olá!
+I'm looking for an adventure! This place is meant to be the perfect place to find one for a budding pirate like me!;Je recherche une aventure ! Cet endroit est censé être l'endroit idéal pour en trouver un pour un pirate en herbe comme moi !
+What exactly is this one rule you keep mentioning?;Quelle est exactement cette règle que vous continuez à mentionner ?
+What are you waiting here for?;Qu'est-ce que tu attends ici ?
+[2] About Will and Anne...;[2] À propos de Will et Anne...
+Ada! Nice to meet you!;Ada ! Ravi de vous rencontrer!
+Will and Anne threw me overboard and I washed up here. I did mention this earlier...;Will et Anne m'ont jeté par-dessus bord et je me suis échoué ici. Je l'ai mentionné plus tôt...
+Nada, obrigado.;Nada, obligé.
+But I don't have a vessel...;Mais je n'ai pas de vaisseau...
+Those plundering seadogs! Did you speak to Ribs about them?;Ces loups de mer pilleurs ! En avez-vous parlé à Ribs ?
+I did. He seems to think they might have unleashed some sort of curse.;Je l'ai fait. Il semble penser qu’ils pourraient avoir déclenché une sorte de malédiction.
+And where would I find Old Grog?;Et où pourrais-je trouver Old Grog ?
+Blistering barnacles! Well, you won't be getting far without a boat of your own. You should head to the docks and speak with Junior Jim, our local shipwright. He'll get you sorted out.;Des balanes boursouflées ! Eh bien, vous n'irez pas loin sans votre propre bateau. Vous devriez vous diriger vers les quais et parler avec Junior Jim, notre charpentier naval local. Il va vous arranger.
+Jolly Roger!;Joyeux Roger !
+Alright, I'll go and see him.;Très bien, je vais aller le voir.
+Ah, the curse of Barnacle Barnaby! It's one of Ribs' favourite tales. Just a myth of course, but the old dog does love his stories.;Ah, la malédiction de Barnacle Barnaby ! C'est l'un des contes préférés de Ribs. Ce n’est qu’un mythe bien sûr, mais le vieux chien adore ses histoires.
+What? But then how did you get here?;Quoi? Mais alors comment es-tu arrivé ici ?
+OlÃ¡. Quem Ã© vocÃª?;Olá. Quem você?
+Vamos ver o que vocÃª tem.;Vamos ver o que você tem.
+Yo ho ho! A mighty good decision! It's a generous bounty indeed. You don't go breaking the one rule of the Pandemonium and expect to get away with it!;Yo ho ho ! Une très bonne décision ! C'est en effet une généreuse prime. Vous n’allez pas enfreindre la seule règle du Pandémonium en espérant vous en sortir !
+Well, myths aside, Ribs mentioned you'd put a bounty out for Will and Anne. I'd be quite keen to track them down myself.;Eh bien, mythes mis à part, Ribs a mentionné que vous mettriez une prime pour Will et Anne. J'aurais très envie de les retrouver moi-même.
+Ah, the old scallywag left not that long ago, but he'll be back here before long. He enjoys a drink far too much! In the meantime, you should hoist the sails and ready your vessel!;Ah, le vieux scallywag est parti il ​​n'y a pas si longtemps, mais il sera de retour ici d'ici peu. Il aime beaucoup trop boire un verre ! En attendant, hissez les voiles et préparez votre bateau !
+Yarr! What will it be?;Yarr! Qu'est-ce que ce sera ?
+Do you have any idea where Will and Anne might have gone?;Avez-vous une idée de l'endroit où Will et Anne auraient pu aller ?

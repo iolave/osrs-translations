@@ -624,3 +624,129 @@ Useful Links;Collegamenti utili
 Burn;Bruciare
 10;10 
 Stornieren;Stornieren
+Group: Choose;Gruppo: Scegli
+Group: Previous;Gruppo: Precedente
+Pray;Pregare
+Investigate;Investigare
+Jump-onto;Salta su
+Withdraw-500;Prelievo-500
+Move-left;Muoviti a sinistra
+Grab;Preda
+Move-down;Spostati verso il basso
+View Ignore List;Visualizza l'elenco da ignorare
+Move-right;Spostati a destra
+Move-up;Muoviti verso l'alto
+Look-inside;Guardati dentro
+Add-5<col=ff9040>;Aggiungi-5<col=ff9040>
+Remove-legs;Rimuovere le gambe
+Add-X<col=ff9040>;Aggiungi-X<col=ff9040>
+Add-10<col=ff9040>;Aggiungi-10<col=ff9040>
+Add-All<col=ff9040>;Aggiungi tutto<col=ff9040>
+Add<col=ff9040>;Aggiungi<col=ff9040>
+Deposit-500;Deposito-500
+Check charges;Controlla gli addebiti
+Default quantity: 500;Quantità predefinita: 500
+Filter;Filtro
+Load-outs;Caricamenti
+Done;Fatto
+Show tutorial;Mostra tutorial
+Scroll down;Scorrere verso il basso
+Hide menu;Nascondi menù
+Cancel downgrade;Annulla il downgrade
+View tab ;Visualizza scheda
+Scroll up;Scorri verso l'alto
+Show menu;Mostra menù
+Paddle Canoe;Canoa a remi
+Shape-Canoe;Forma-canoa
+Make<col=ff9040> Log canoe;Costruisci<col=ff9040> ​​una canoa di tronchi
+Paddle Log;Registro della pagaia
+Float Log;Registro mobile
+Travel to<col=ff9040> Champions Guild;Raggiungi <col=ff9040> ​​Gilda dei Campioni
+Make<col=ff9040> Dugout canoe;Costruisci<col=ff9040> ​​una piroga
+Jump-over;Saltare
+Quit;Esentato
+Grave info;Informazioni gravi
+Details;Dettagli
+Report for;Segnala per
+Fire;Fuoco
+Steal-From;Ruba da
+Redeem-code;Riscatta codice
+Holiday-items;Articoli per le vacanze
+Visit-Last;Visita-Ultima
+Add-House;Aggiungi-casa
+Add/Remove House;Aggiungi/Rimuovi casa
+Harpoon;Arpione
+4;4 
+View Archive;Visualizza archivio
+Enter House;Entra in Casa
+View Poll;Visualizza sondaggio
+Big Net;Grande Rete
+Walk-up;Camminare
+Claim-Tokens;Gettoni di rivendicazione
+Animate;Animare
+Fish-in;Pesca
+Take-from;Prendere da
+Look;Aspetto
+Rotate;Ruotare
+Pick-lock;Grimaldello
+Extinguish;Spegnere
+Rub-together;Strofinare insieme
+Unmute;Riattiva
+View DPS on OSRS Wiki;Visualizza DPS su OSRS Wiki
+Set Bonus;Imposta il bonus
+Hide worn items;Nascondi gli oggetti usurati
+Stat Bonus;Bonus sulle statistiche
+Tickets;Biglietti
+Ride;Passeggiata
+Squeeze-through;Spremere
+Kill;Uccisione
+No;NO
+Area;Zona
+Yes;SÌ
+View missing items ;Visualizza gli elementi mancanti
+Collect-note;Nota di raccolta
+Collect-item;Oggetto da collezionare
+Disable <col=ff9040>Notes;Disabilita <col=ff9040>Note
+Info;Informazioni
+Sell: 1 x Bronze med helm;Vendi: 1 x Elmo medico in bronzo
+Pick-Lock;Grimaldello
+Collect-items;Oggetti da collezione
+Collect-notes;Raccogli-note
+Release all placeholders (12);Rilascia tutti i segnaposto (12)
+Release them all;Liberateli tutti
+Prune-top;Prugna
+Prune;Fesso
+Prune-back;Potatura
+Prune-sides;Lati di prugna
+Tan <col=ff7000>X;Abbronzatura <col=ff7000>X
+Tan <col=ff7000>5;Abbronzatura <col=ff7000>5
+Tan <col=ff7000>1;Abbronzatura <col=ff7000>1
+Tan <col=ff7000>All;Abbronzatura <col=ff7000>Tutti
+Smithing;Forgiatura
+Remove-X;Rimuovi-X
+Remove-10;Rimuovi-10
+Remove-5;Rimuovi-5
+Remove-All;Rimuovi tutto
+Hunter;Cacciatore
+Firemaking;Fuoco
+Enable <col=ff9040>Swap;Abilita <col=ff9040>Scambia
+Add all;Aggiungi tutto
+Release all placeholders (1);Rilascia tutti i segnaposto (1)
+Buy: 160 x Cowhide;Acquista: 160 x Pelle bovina
+Set price;Imposta il prezzo
+Sell: 195 x Leather;Vendita: 195 x Pelle
+Sell: 175 x Leather;Vendita: 175 x Pelle
+Buy: 10 x Air tiara;Acquista: 10 tiara dell'aria
+Buy: 2 x Ring mould;Acquista: 2 stampi per anelli
+pic;foto
+Set quantity;Imposta la quantità
+Set wiki price;Imposta il prezzo della wiki
+Accept trade;Accetta scambi
+Accept;Accettare
+Buy: 1 x Mithril gold-trimmed set (lg);Acquista: 1 x set Mithril con finiture in oro (lg)
+Buy: 15 x Diamond;Acquista: 15 diamanti
+Sell: 55 x Emerald;Vendi: 55 x Smeraldo
+Buy: 55 x Emerald;Acquista: 55 x Smeraldo
+Buy: 1 x Poison;Acquista: 1 x Veleno
+Buy: 34 x Ruby necklace;Acquista: 34 x Collana di rubini
+Search for item;Cerca l'oggetto

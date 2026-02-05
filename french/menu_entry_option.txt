@@ -624,3 +624,129 @@ Useful Links;Liens utiles
 Burn;Brûler
 10;10 
 Stornieren;Stornieren
+Group: Choose;Groupe : Choisir
+Group: Previous;Groupe : Précédent
+Pray;Prier
+Investigate;Enquêter
+Jump-onto;Sautez sur
+Withdraw-500;Retrait-500
+Move-left;Déplacer vers la gauche
+Grab;Saisir
+Move-down;Descendre
+View Ignore List;Afficher la liste des éléments ignorés
+Move-right;Déplacer à droite
+Move-up;Monter
+Look-inside;Regardez à l'intérieur
+Add-5<col=ff9040>;Ajout-5<col=ff9040>
+Remove-legs;Supprimer les jambes
+Add-X<col=ff9040>;Add-X<col=ff9040>
+Add-10<col=ff9040>;Ajout-10<col=ff9040>
+Add-All<col=ff9040>;Ajouter tout<col=ff9040>
+Add<col=ff9040>;Ajouter<col=ff9040>
+Deposit-500;Dépôt-500
+Check charges;Vérifier les frais
+Default quantity: 500;Quantité par défaut : 500
+Filter;Filtre
+Load-outs;Chargements
+Done;Fait
+Show tutorial;Afficher le didacticiel
+Scroll down;Faites défiler vers le bas
+Hide menu;Masquer le menu
+Cancel downgrade;Annuler le déclassement
+View tab ;Onglet Afficher
+Scroll up;Faites défiler vers le haut
+Show menu;Afficher le menu
+Paddle Canoe;Canoë à aubes
+Shape-Canoe;Forme-Canoë
+Make<col=ff9040> Log canoe;Marque<col=ff9040> ​​Canoë en rondins
+Paddle Log;Journal de pagaie
+Float Log;Journal flottant
+Travel to<col=ff9040> Champions Guild;Voyagez vers la<col=ff9040> ​​Guilde des Champions
+Make<col=ff9040> Dugout canoe;Marque<col=ff9040> ​​Pirogue
+Jump-over;Franchir
+Quit;Quitter
+Grave info;Informations sur la tombe
+Details;Détails
+Report for;Rapport pour
+Fire;Feu
+Steal-From;Voler
+Redeem-code;Utiliser le code
+Holiday-items;Articles de vacances
+Visit-Last;Visite-Dernière
+Add-House;Ajouter une maison
+Add/Remove House;Ajouter/Supprimer une maison
+Harpoon;Harpon
+4;4 
+View Archive;Voir les archives
+Enter House;Entrez dans la maison
+View Poll;Voir le sondage
+Big Net;Grand filet
+Walk-up;Sans rendez-vous
+Claim-Tokens;Jetons de réclamation
+Animate;Animer
+Fish-in;Pêcher
+Take-from;À prendre de
+Look;Regarder
+Rotate;Tourner
+Pick-lock;Crochet
+Extinguish;Éteindre
+Rub-together;Frotter ensemble
+Unmute;Activer le son
+View DPS on OSRS Wiki;Afficher le DPS sur le wiki OSRS
+Set Bonus;Bonus d'ensemble
+Hide worn items;Masquer les articles usés
+Stat Bonus;Bonus de statistiques
+Tickets;Billets
+Ride;Monter
+Squeeze-through;Passage à travers
+Kill;Tuer
+No;Non
+Area;Zone
+Yes;Oui
+View missing items ;Afficher les éléments manquants
+Collect-note;Note à collectionner
+Collect-item;Objet de collection
+Disable <col=ff9040>Notes;Désactiver <col=ff9040>Notes
+Info;Informations
+Sell: 1 x Bronze med helm;Vendre : 1 x Casque médical en bronze
+Pick-Lock;Crochet
+Collect-items;Objets à collectionner
+Collect-notes;Notes de collecte
+Release all placeholders (12);Libérer tous les espaces réservés (12)
+Release them all;Libérez-les tous
+Prune-top;Taille-haut
+Prune;Élaguer
+Prune-back;Tailler
+Prune-sides;Côtés aux pruneaux
+Tan <col=ff7000>X;Tan <col=ff7000>X
+Tan <col=ff7000>5;Tan <col=ff7000>5
+Tan <col=ff7000>1;Tan <col=ff7000>1
+Tan <col=ff7000>All;Tan <col=ff7000>Tous
+Smithing;Forge
+Remove-X;Supprimer-X
+Remove-10;Supprimer-10
+Remove-5;Supprimer-5
+Remove-All;Supprimer tout
+Hunter;Chasseur
+Firemaking;Faire du feu
+Enable <col=ff9040>Swap;Activer <col=ff9040>Échange
+Add all;Ajouter tout
+Release all placeholders (1);Libérer tous les espaces réservés (1)
+Buy: 160 x Cowhide;Acheter: 160 x Peau de vache
+Set price;Fixer le prix
+Sell: 195 x Leather;Vendre : 195 x Cuir
+Sell: 175 x Leather;Vendre : 175 x Cuir
+Buy: 10 x Air tiara;Acheter: 10 x Diadème Air
+Buy: 2 x Ring mould;Acheter: 2 x Moule à anneaux
+pic;photo
+Set quantity;Définir la quantité
+Set wiki price;Fixer le prix du wiki
+Accept trade;Accepter le commerce
+Accept;Accepter
+Buy: 1 x Mithril gold-trimmed set (lg);Acheter: 1 x ensemble mithril orné d'or (lg)
+Buy: 15 x Diamond;Acheter : 15 x Diamant
+Sell: 55 x Emerald;Vendre : 55 x Émeraude
+Buy: 55 x Emerald;Acheter: 55 x Émeraude
+Buy: 1 x Poison;Acheter : 1 x Poison
+Buy: 34 x Ruby necklace;Acheter: 34 x Collier Rubis
+Search for item;Rechercher un article

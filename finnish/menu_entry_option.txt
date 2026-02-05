@@ -624,3 +624,129 @@ Useful Links;Hyödyllisiä linkkejä
 Burn;Polttaa
 10;10 
 Stornieren;Stornieren
+Group: Choose;Ryhmä: Valitse
+Group: Previous;Ryhmä: Edellinen
+Pray;Rukoilla
+Investigate;Tutkia
+Jump-onto;Hyppää päälle
+Withdraw-500;Nosto-500
+Move-left;Siirrä-vasemmalle
+Grab;Napata
+Move-down;Siirrä alas
+View Ignore List;Näytä ohituslista
+Move-right;Siirrä oikealle
+Move-up;Siirrä ylös
+Look-inside;Katso sisälle
+Add-5<col=ff9040>;Add-5<col=ff9040>
+Remove-legs;Poista-jalat
+Add-X<col=ff9040>;Lisää-X<col=ff9040>
+Add-10<col=ff9040>;Lisää-10<col=ff9040>
+Add-All<col=ff9040>;Add-All<col=ff9040>
+Add<col=ff9040>;Lisää<col=ff9040>
+Deposit-500;Talletus - 500
+Check charges;Tarkista maksut
+Default quantity: 500;Oletusmäärä: 500
+Filter;Suodattaa
+Load-outs;Loadouts
+Done;Tehty
+Show tutorial;Näytä opetusohjelma
+Scroll down;Vieritä alas
+Hide menu;Piilota valikko
+Cancel downgrade;Peruuta alempi versio
+View tab ;Näytä-välilehti
+Scroll up;Vieritä ylös
+Show menu;Näytä valikko
+Paddle Canoe;Mela kanootti
+Shape-Canoe;Muoto-kanootti
+Make<col=ff9040> Log canoe;Merkki<col=ff9040> ​​Hirsikanootti
+Paddle Log;Mela Log
+Float Log;Float Log
+Travel to<col=ff9040> Champions Guild;Matkusta<col=ff9040> ​​Champions Guildiin
+Make<col=ff9040> Dugout canoe;Merkki<col=ff9040> ​​Korsun kanootti
+Jump-over;Hyppy yli
+Quit;Lopettaa
+Grave info;Kovia tietoja
+Details;Yksityiskohdat
+Report for;Raportti for
+Fire;Palo
+Steal-From;Varasta-From
+Redeem-code;Lunasta-koodi
+Holiday-items;Loma-asuja
+Visit-Last;Vierailu-Viimeinen
+Add-House;Lisätalo
+Add/Remove House;Lisää/poista talo
+Harpoon;Harppuuna
+4;4 
+View Archive;Näytä arkisto
+Enter House;Sisään taloon
+View Poll;Näytä kysely
+Big Net;Iso verkko
+Walk-up;Walk-up
+Claim-Tokens;Claim-Tokens
+Animate;Animoi
+Fish-in;Kala sisään
+Take-from;Take-from
+Look;Katso
+Rotate;Kiertää
+Pick-lock;Tiirikka
+Extinguish;Sammuttaa
+Rub-together;Hiero yhteen
+Unmute;Poista mykistys
+View DPS on OSRS Wiki;Katso DPS OSRS Wikissä
+Set Bonus;Aseta bonus
+Hide worn items;Piilota kuluneet esineet
+Stat Bonus;Tilastobonus
+Tickets;Liput
+Ride;Ratsastaa
+Squeeze-through;Purista läpi
+Kill;Tappaa
+No;Ei
+Area;Alue
+Yes;Kyllä
+View missing items ;Katso puuttuvat kohteet
+Collect-note;Kerää-huomaa
+Collect-item;Kerää-esine
+Disable <col=ff9040>Notes;Poista <col=ff9040>muistiinpanot käytöstä
+Info;Tiedot
+Sell: 1 x Bronze med helm;Myydään: 1 x Bronze med ruori
+Pick-Lock;Tiirikka
+Collect-items;Kerää esineitä
+Collect-notes;Kerää muistiinpanoja
+Release all placeholders (12);Vapauta kaikki paikkamerkit (12)
+Release them all;Vapauta ne kaikki
+Prune-top;Luumu-top
+Prune;Karsia
+Prune-back;Leikkaa takaisin
+Prune-sides;Luumun sivut
+Tan <col=ff7000>X;Rusketus <col=ff7000>X
+Tan <col=ff7000>5;Rusketus <col=ff7000>5
+Tan <col=ff7000>1;Rusketus <col=ff7000>1
+Tan <col=ff7000>All;Rusketus <col=ff7000>Kaikki
+Smithing;Smithing
+Remove-X;Poista-X
+Remove-10;Poista-10
+Remove-5;Poista-5
+Remove-All;Poista-Kaikki
+Hunter;Metsästäjä
+Firemaking;Tulityöt
+Enable <col=ff9040>Swap;Ota <col=ff9040>vaihto käyttöön
+Add all;Lisää kaikki
+Release all placeholders (1);Vapauta kaikki paikkamerkit (1)
+Buy: 160 x Cowhide;Osta: 160 x lehmännahka
+Set price;Aseta hinta
+Sell: 195 x Leather;Myydään: 195 x nahkaa
+Sell: 175 x Leather;Myydään: 175 x nahkaa
+Buy: 10 x Air tiara;Osta: 10 x Air tiara
+Buy: 2 x Ring mould;Osta: 2 x rengasmuotti
+pic;kuva
+Set quantity;Aseta määrä
+Set wiki price;Aseta wikin hinta
+Accept trade;Hyväksy kauppa
+Accept;Hyväksyä
+Buy: 1 x Mithril gold-trimmed set (lg);Osta: 1 x Mithril kullalla koristeltu setti (lg)
+Buy: 15 x Diamond;Osta: 15 x Diamond
+Sell: 55 x Emerald;Myydään: 55 x Emerald
+Buy: 55 x Emerald;Osta: 55 x Emerald
+Buy: 1 x Poison;Osta: 1 x Poison
+Buy: 34 x Ruby necklace;Osta: 34 x Ruby kaulakoru
+Search for item;Etsi kohde

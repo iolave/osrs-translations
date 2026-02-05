@@ -54039,3 +54039,775 @@ Get ho is offering to give you a bond.;Get ho biedt je een band aan.
 Accept it.;Accepteer het.
 Decline it.;Weiger het.
 ... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun je Snowflake en My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.
+Until then, back to whence you came!;Tot dan, terug naar waar je vandaan kwam!
+How? What do you have to offer?;Hoe? Wat heb je te bieden?
+Hmm... I see. That makes this slightly more complex, but no matter. You can still help us.;Hm... ik begrijp het. Dat maakt het iets complexer, maar dat maakt niet uit. Je kunt ons nog steeds helpen.
+What? Then how do you get there.;Wat? Hoe kom je daar dan?
+Ah, you again. The Wilderness is hardly the appropriate place for a conversation now, is it? What was it you wanted?;Ah, jij weer. De wildernis is nu toch niet bepaald de geschikte plek voor een gesprek, nietwaar? Wat wilde je eigenlijk?
+So why did you approach me?;Dus waarom heb je mij benaderd?
+Until recently, our runecrafting secrets allowed us to produce runes at a far superior rate compared to the inept Order of Wizards, but something has changed.;Tot voor kort lieten onze runecrafting-geheimen ons toe om runen te produceren in een veel hoger tempo vergeleken met de onbekwame Order of Wizards, maar er is iets veranderd.
+Err... I didn't really want anything.;Err... Ik wilde eigenlijk niets.
+I was conducting business.;Ik was zaken aan het doen.
+I can't imagine they like you crafting runes much. Do they not try and stop you?;Ik kan me niet voorstellen dat ze het leuk vinden dat je runen maakt. Proberen ze je niet tegen te houden?
+I'll give you a scrying orb with a standard cypher spell cast upon it. The orb will absorb mystical energies that it is exposed to.;Ik geef je een scrying bol met een standaard coderingsspreuk erop. De bol absorbeert mystieke energieën waaraan hij wordt blootgesteld.
+What business?;Welke zaken?
+Ha! I'm sure they'd love to, but we have methods of runecrafting that they can only dream of!;Ha! Ik weet zeker dat ze dat graag zouden willen, maar we hebben methoden voor runecrafting waar ze alleen maar van kunnen dromen!
+Good. Now, all I need from you is the spell that will teleport me to the Rune Essence Mine.;Goed. Het enige dat ik van jou nodig heb, is de spreuk die mij naar de Rune Essence Mine zal teleporteren.
+I was just wondering what you were doing.;Ik vroeg me gewoon af wat je aan het doen was.
+Maybe I could make it worth your while?;Misschien kan ik het de moeite waard maken?
+In the Wilderness? Why?;In de wildernis? Waarom?
+My associates and I. Despite the best attempts of the Saradominists, there's still more of us around than they'd like.;Mijn medewerkers en ik. Ondanks de beste pogingen van de Saradoministen zijn er nog steeds meer van ons dan ze zouden willen.
+If you teleport to the Rune Essence Mine from three different locations, the orb will absorb the energies of the spell and allow us to reverse-engineer the magic behind it.;Als je vanuit drie verschillende locaties naar de Rune Essence Mine teleporteert, zal de bol de energieën van de spreuk absorberen en ons in staat stellen de magie erachter te reverse-engineeren.
+Well what is it you want?;Wat wil je dan?
+Err... I don't actually know the spell.;Err... Ik ken de spreuk eigenlijk niet.
+Why would I? You are not a member of our institute. How do I know you won't just go and share all of our secrets with those Saradominist fools in the Order of Wizards.;Waarom zou ik? U bent geen lid van ons instituut. Hoe weet ik dat je niet zomaar al onze geheimen gaat delen met die Saradoministische dwazen in de Orde van Tovenaars?
+If you want to talk, this isn't the place for it. Meet me in Varrock's Chaos Temple, by the rune shop. Unless you're here to buy something?;Als je wilt praten, is dit niet de plek ervoor. Ontmoet me in Varrock's Chaos Tempel, bij de runenwinkel. Tenzij je hier bent om iets te kopen?
+Well I can't go doing it in the middle of Varrock, can I? In case you hadn't noticed, I'm a servant of Zamorak. The Saradominists have made sure that people like me are not welcome in these parts.;Nou, ik kan het toch niet midden in Varrock gaan doen, toch? Voor het geval je het nog niet gemerkt had: ik ben een dienaar van Zamorak. De Saradoministen hebben ervoor gezorgd dat mensen zoals ik niet welkom zijn in deze streken.
+Alright, I'll go.;Oké, ik ga.
+You did? Perhaps I underestimated you.;Dat deed je? Misschien heb ik je onderschat.
+I sell runes.;Ik verkoop runen.
+Ah, well I know all about that. I was actually the one to help them do it!;Ach, daar weet ik alles van. Ik was eigenlijk degene die hen daarbij hielp!
+Where do you get your runes from?;Waar haal jij je runen vandaan?
+Well if not, I'm sure one of those fools in the Order of Wizards can tell you. Now, here's the orb.;Als dat niet het geval is, weet ik zeker dat een van die dwazen in de Orde van Tovenaars het je kan vertellen. Nu, hier is de bol.
+Care to share?;Wilt u delen?
+You did what? You helped the Order of Wizards?;Wat heb je gedaan? Heb jij de Orde van Tovenaars geholpen?
+Deal.;Overeenkomst.
+Well we craft them of course.;Nou, wij maken ze natuurlijk.
+From what we can gather, they've somehow rediscovered how to access the lost Rune Essence Mine.;Voor zover we kunnen opmaken, hebben ze op de een of andere manier herontdekt hoe ze toegang kunnen krijgen tot de verloren Rune Essence Mine.
+Alright, if you help us access the Rune Essence Mine, we will share our runecrafting secrets with you in return.;Oké, als je ons helpt toegang te krijgen tot de Rune Essence Mine, zullen we in ruil daarvoor onze runecrafting-geheimen met je delen.
+I did it so that I could then steal their secrets.;Ik deed het zodat ik hun geheimen kon stelen.
+Oh, well the people who do know the spell just teleport me there directly.;Oh, nou, de mensen die de spreuk wel kennen, teleporteren me er gewoon rechtstreeks naartoe.
+The reason we are able to craft so many runes is because we do not visit the runic altars in the traditional way. Instead, we have found a way to teleport to them directly.;De reden dat we zoveel runen kunnen maken, is omdat we de runenaltaren niet op de traditionele manier bezoeken. In plaats daarvan hebben we een manier gevonden om rechtstreeks naar hen te teleporteren.
+Anyway, you may also have this pouch as well. I'm sure you will find it useful. Now, we're done here.;Hoe dan ook, misschien heb jij dit zakje ook. Ik weet zeker dat je het nuttig zult vinden. Nu zijn we hier klaar.
+So can I use the Abyss?;Kan ik de Abyss gebruiken?
+Yes. Visit me in the Wilderness whenever you wish to be teleported there. Just be careful, for it is a dangerous place. Still, I'm sure you'll agree that the risk is worth the reward.;Ja. Bezoek mij in de Wildernis wanneer je daarheen geteleporteerd wilt worden. Wees voorzichtig, want het is een gevaarlijke plaats. Toch ben ik er zeker van dat u het ermee eens zult zijn dat het risico de beloning waard is.
+How is it dangerous?;Hoe is het gevaarlijk?
+You again. Have you managed to use that scrying orb to obtain the information I need?;Jij weer. Ben je erin geslaagd die scrying-bol te gebruiken om de informatie te verkrijgen die ik nodig heb?
+Right, let's take a look at this orb...;Oké, laten we eens naar deze bol kijken...
+Via another plane known as the Abyss. It is a complex place that cannot be easily explained, but I will share our research notes with you so you may better understand it.;Via een ander vlak dat bekend staat als de Abyss. Het is een complexe situatie die niet eenvoudig kan worden verklaard, maar ik zal onze onderzoeksnotities met u delen, zodat u deze beter kunt begrijpen.
+Just don't expect to be using any prayers in there.;Verwacht alleen niet dat je daarin gebeden zult gebruiken.
+Yes, this will do nicely. Once again, the Zamorak Magical Institute has overcome the Order of Wizards!;Ja, dit zal aardig lukken. Opnieuw heeft het Zamorak Magische Instituut de Orde van Tovenaars overwonnen!
+There are creatures there that will hunt and attack any visitors on sight. The magic we use for teleporting there can also be a bit... unstable.;Er zijn daar wezens die op bezoekers zullen jagen en aanvallen. De magie die we gebruiken om daarheen te teleporteren kan ook een beetje... onstabiel zijn.
+Sure, here you go...;Zeker, alsjeblieft...
+Certainly, guv. That'll be 50 coins, please.;Zeker, gouverneur. Dat zijn dan 50 munten, alstublieft.
+<col=000080>Try not to think about it.;<col=000080>Probeer er niet aan te denken.
+<col=000080>Can you hear me?;<col=000080>Kun je mij horen?
+<col=000080>I'm no ghost! I'm a spirit, I'm injecting my thoughts <col=000080>into your head.;<col=000080>Ik ben geen geest! Ik ben een geest, ik injecteer mijn gedachten <col=000080>in je hoofd.
+Oh, that's... interesting. Also rather disturbing...;O, dat is... interessant. Ook nogal verontrustend...
+... I can, but I'm not wearing an amulet of ghostspeak... A-am I dead?;... Dat kan ik, maar ik draag geen amulet van spookspraak... Ben ik dood?
+This armour is a symbol of your exploration of Varrock. You now have a 10% chance of mining two ores at once up to coal and a 10% chance of smelting 2 bars at once up to steel, when using the Edgeville;Dit pantser is een symbool van je verkenning van Varrock. Je hebt nu een kans van 10% om twee ertsen tegelijk te winnen tot steenkool en een kans van 10% om twee staven tegelijk te smelten tot staal, als je de Edgeville gebruikt
+furnace. Zaff will stock 15 Battlestaves per day.;oven. Zaff zal 15 Battlestaves per dag op voorraad hebben.
+If you ever lose your armour, come back to me to reclaim it.;Als je ooit je pantser kwijtraakt, kom dan bij mij terug om het terug te winnen.
+I've completed all of the easy tasks in my Varrock Achievement Diary!;Ik heb alle eenvoudige taken in mijn Varrock Achievement Diary voltooid!
+You've spent 2 days, 8 hours, 24 minutes in the world since you arrived 755 days ago.;Je hebt 2 dagen, 8 uur en 24 minuten in de wereld doorgebracht sinds je 755 dagen geleden arriveerde.
+I've completed all of the easy tasks in my Lumbridge & Draynor Achievement Diary!;Ik heb alle eenvoudige taken in mijn Lumbridge & Draynor Achievement Diary voltooid!
+This ring is a symbol of your exploration of Lumbridge and Draynor. It can recharge half of your run energy twice per day and cast low level alchemy without runes 30 times per day.;Deze ring is een symbool van jouw verkenning van Lumbridge en Draynor. Het kan twee keer per dag de helft van je hardloopenergie opladen en 30 keer per dag alchemie op laag niveau zonder runen uitbrengen.
+If you ever lose your ring, come back to me to reclaim it.;Als je ooit je ring kwijtraakt, kom dan bij mij terug om hem terug te vorderen.
+Anteeksi, minulla on kiire.;Anteeksi, minulla op kiire.
+Okei, autan fasaanien kanssa.;Okei, dit is een kans.
+Hey, [PLAYER_NAME], can you come and help me with some pheasants?;Hé, [PLAYER_NAME], kun je me komen helpen met wat fazanten?
+MitÃ¤ haluaisit sanoa?;MitÃ¤ haluaisit sanoa?
+Saat lampun avustasi, kiitos paljon!;Saat lampun avustasi, kiitos paljon!
+Hey there, [PLAYER_NAME]. I need you to kill a pheasant that has 3 tails. Bring me the raw pheasant when you're done.;Hallo daar, [PLAYER_NAME]. Ik wil dat je een fazant doodt die drie staarten heeft. Breng me de rauwe fazant als je klaar bent.
+Thanks, [PLAYER_NAME], you may use the portal to leave the area now.;Bedankt, [PLAYER_NAME], je kunt de portal gebruiken om het gebied nu te verlaten.
+Welcome! Would you like to go into the Dig Site archaeology cleaning area?;Welkom! Wilt u de archeologie-schoonmaakruimte van Dig Site betreden?
+Greetings! Have you come to give us a hand?;Groeten! Kom je ons een handje helpen?
+Oh? Let's take a look...;Oh? Laten we eens kijken...
+Sounds like you never had it!;Klinkt alsof je het nooit hebt gehad!
+I found something interesting.;Ik heb iets interessants gevonden.
+Err... I seem to have lost it. Sorry.;Err... Het lijkt erop dat ik het kwijt ben. Sorry.
+Take cleaning kit?;Reinigingsset meenemen?
+Zarosians before Saradominists.;Zarosianen vóór Saradoministen.
+Interesting...yes...yes...hmmm.... It looks like it's enchanted.;Interessant...ja...ja...hmmm... Het lijkt alsof het betoverd is.
+Hmm...all the indications are that it's somewhere to the east of us, but I'm not sure how far. Perhaps it was a teleport back to Saranthium. Let me just take a closer look.;Hmm... alles wijst erop dat het ergens ten oosten van ons ligt, maar ik weet niet zeker hoe ver. Misschien was het een teleport terug naar Saranthium. Laat ik het even nader bekijken.
+Case 22 it is!;Zaak 22 is het!
+Oh, I think it's just a benign teleportation spell. I tinker in magic when I'm not doing archaeology. I can teach you how to make more necklaces like this. Amazing that they had this kind of knowledge back then.;Oh, ik denk dat het gewoon een goedaardige teleportatiespreuk is. Ik sleutel aan magie als ik niet met archeologie bezig ben. Ik kan je leren hoe je meer van dit soort kettingen kunt maken. Verbazingwekkend dat ze destijds over dit soort kennis beschikten.
+I found this piece of pottery - is it of any use?;Ik heb dit stuk aardewerk gevonden. Heeft het enig nut?
+Ahh... Oh! Hmm...yes...made by Zaros worshippers, by the looks of it. Beautifully-shaped. It looks as if this would go nicely in display case 22. This piece reinforces our evidence that the city was occupied by;Ah... Oh! Hmm...ja...gemaakt door Zaros-aanbidders, zo te zien. Prachtig gevormd. Het lijkt erop dat dit mooi zou passen in vitrine 22. Dit stuk versterkt ons bewijs dat de stad bezet was
+So I just make a ruby necklace and use five fire runes and one cosmic rune to enchant it.;Dus ik maak gewoon een robijnrode ketting en gebruik vijf vuurrunen en één kosmische rune om hem te betoveren.
+Yes, indeed. Well done, youngster, thanks for helping us.;Ja, inderdaad. Goed gedaan, jongeman, bedankt dat je ons helpt.
+That would be good. Where is the teleport to?;Dat zou goed zijn. Waar is de teleport naartoe?
+I found this pretty necklace.;Ik heb deze mooie ketting gevonden.
+Welcome to the Guild of Master Craftsmen.;Welkom bij het Gilde van Meesterambachtslieden.
+Err ... Ook?;Err...Ook?
+Let's put you back in your cage where you belong...;Laten we je terug in je kooi stoppen, waar je thuishoort...
+Ook Ook!;Ook Ook!
+No, I only have space for one.;Nee, ik heb er maar ruimte voor.
+Ook!;Ook!
+That's nice. Are you ready to go?;Dat is leuk. Ben je klaar om te gaan?
+Yes. Actually, can I bring some of my friends?;Ja. Mag ik eigenlijk een paar van mijn vrienden meenemen?
+Pretty pleeeeease?;Erg leuk?
+I must be imagining things ... monkeys can't talk.;Ik verbeeld me vast dingen... apen kunnen niet praten.
+Hello there, little monkey.;Hallo daar, kleine aap.
+Where will you be taking me?;Waar ga je mij heen brengen?
+What??;Wat??
+That's convenient. When would you like to leave?;Dat is handig. Wanneer wil je vertrekken?
+How would you like to get out of here?;Hoe zou jij het vinden om hier weg te komen?
+Erm ... to the happy, sunny jungle of Karamja...;Eh... naar de vrolijke, zonnige jungle van Karamja...
+Escape!? It's all I ever think about!;Ontsnappen!? Het is het enige waar ik ooit aan denk!
+Pleeeeease?;Alsjeblieft?
+Why do you monkeys keep trying to escape? Good thing I've caught you before you got away, you little scoundrel.;Waarom proberen jullie apen steeds te ontsnappen? Het is maar goed dat ik je heb gepakt voordat je ontsnapte, kleine schurk.
+Wowee! I was born there you know!;Wauw! Ik ben daar geboren, weet je!
+Look, I already said no. If you want to come then jump into my backpack.;Kijk, ik heb al nee gezegd. Als je mee wilt, spring dan in mijn rugzak.
+Well, don't worry. We'll have you out of there shortly.;Maak je geen zorgen. We zullen je daar binnenkort weghalen.
+I'm hungry!;Ik heb honger!
+I ... er ... I don't know! One minute I was asleep, and the next minute I was here surrounded by monkeys!;Ik... eh... ik weet het niet! Het ene moment sliep ik, en het volgende moment was ik hier omringd door apen!
+My word - what are you doing in there?;Mijn woord: wat doe je daarbinnen?
+Yeah I'm fearless!;Ja, ik ben onbevreesd!
+No way, that looks scary!;Nee hoor, dat ziet er eng uit!
+DesÃ§a as escadas.;Desa als escadas.
+Suba as escadas.;Suba als escadas.
+Subir ou descer escadas?;Wilt u meer escada's volgen?
+O que vocÃª estÃ¡ fazendo na minha terra?;Wat is uw fazendo op minha terra?
+Preciso conversar com vocÃª sobre a tosquia dessas ovelhas!;Preciso conversar com vocÃª sobre a tosquia dessas ovelhas!
+Would you like to spend 45 slayer points to select any non-boss specific slayer task?;Wil je 45 slayer-punten uitgeven om een ​​niet-baas-specifieke slayer-taak te selecteren?
+OlÃ¡.;OlÃ¡.
+Como posso treinar minha ferraria?;Is het mogelijk om een ​​treinar minha ferraria te kopen?
+Bem conhecido! VocÃª estÃ¡ interessado em ouvir sobre a arte da ferraria?;Bem conhecido! Bent u geïnteresseerd in een kunst van ferraria?
+Agora nÃ£o, obrigado.;Agora nÃ£o, ​​obrigado.
+Que tipo de coisas posso forjar?;Wat is het mogelijke doel van dit probleem?
+Parece fÃ¡cil para mim.;Parece fÃ¡cil para mim.
+Preciso que vocÃª vÃ¡ atÃ© a porta ao lado e use a garra para pegar minha irmÃ£.;Preciso que vocÃª vÃ¡ até a porta ao lado en gebruik een garra para pegar minha irmÃ£.
+One more thing to make your life difficult; the magic powering the claw is running low so you'll only have two attempts to catch her.;Nog één ding om je leven moeilijk te maken; de magie die de klauw aandrijft is bijna op, dus je hebt nog maar twee pogingen om haar te vangen.
+Come next door and talk to me.;Kom hiernaast en praat met mij.
+Diga a ela para se empanturrar.;Dit is het enige wat u kunt doen.
+Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!;Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!
+FantÃ¡stico! For so many years I've had to put up with her and now she's locked up for good.;Fantastisch! Jarenlang heb ik haar moeten verdragen en nu zit ze voorgoed opgesloten.
+I lured my sister into the room so I could imprison her in the cage by using the claw. The problem is my sister managed to herd some innocent civilians in there with her.;Ik lokte mijn zus de kamer in, zodat ik haar met behulp van de klauw in de kooi kon opsluiten. Het probleem is dat mijn zus erin slaagde een aantal onschuldige burgers daarheen te drijven.
+Ok, quando vocÃª ligar a mÃ¡quina vocÃª verÃ¡ a marca brilhante no chÃ£o onde a garra estÃ¡ apontando, e vocÃª verÃ¡ uma alavanca e um botÃ£o no lado direito da tela.;Ok, als je een mÃ¡quina vocÃª verÃ¡ een merk briljante geen garra estÃ¡ apontando, en vocÃª verÃ¡ een alavanca en een bot is geen lado direito da tela.
+EntÃ£o, o que vocÃª precisa que eu faÃ§a?;EntÃ£o, wat is precies wat u wilt?
+Que bom que vocÃª perguntou!;Que bom que vocÃª perguntou!
+Thank you for all your help.  Take this as a reward.;Bedankt voor al je hulp.  Beschouw dit als een beloning.
+Obrigado por ter vindo!;Obrigado por ter vindo!
+Sim, por favor. Quer dizer, Ã© sempre melhor estar preparado, certo?;Sim, por gunst. Quer dizer, Ã© semper melhor estar preparado, certo?
+Do be careful and make sure that there is someone on the mark, and not just walking past it.;Wees wel voorzichtig en zorg ervoor dat er iemand op de markering staat en er niet zomaar langs loopt.
+To move the claw's current location, click on the direction you want it to move in, as indicated on the right hand panel.;Om de huidige locatie van de klauw te verplaatsen, klikt u op de richting waarin u deze wilt verplaatsen, zoals aangegeven op het rechterpaneel.
+Does that help?;Helpt dat?
+When you see someone on top of the glowing mark, then hit the button on the right hand panel, as this will send the claw down to pick them up.;Als je iemand bovenop het gloeiende merkteken ziet, druk dan op de knop op het rechterpaneel, omdat hierdoor de klauw naar beneden wordt gestuurd om hem op te pakken.
+Oh, and make sure that the person is my sister, so you don't end up catching a random civilian.;Oh, en zorg ervoor dat de persoon mijn zus is, zodat je niet een willekeurige burger betrapt.
+You'll know which way the claw will go as the lever will point that way to show you.;Je weet welke kant de klauw op gaat, aangezien de hendel die kant op wijst om je dat te laten zien.
+Eu quero ir embora.;Je hebt een embora.
+Ã‰ minha irmÃ£ gÃªmea malvada! Ela estÃ¡ tagarelando em torno de Guilenor cometendo crimes e agora estou levando a culpa!;Ã‰ minha irmÃ£ gÃªmea malvada! Het is een feit dat Guilenor misdaden veroorzaakt en dat het een schuldige is!
+Once she's in prison, she won't be causing me anymore bother!;Als ze eenmaal in de gevangenis zit, zal ze mij niet meer lastig vallen!
+Sim, por favor.;Sim, por gunst.
+Boa sorte!;Boa sorte!
+A propÃ³sito, vocÃª gostaria que eu verificasse os controles para vocÃª, ou vocÃª acha que conseguirÃ¡?;U zou kunnen zeggen dat u de controles voor uw beroep heeft geverifieerd, of dat u een raadsman bent?
+Hello [PLAYER_NAME]. I've got a message for you from Molly. She needs your help urgently. Will you assist her now?;Hallo [PLAYER_NAME]. Ik heb een bericht voor je van Molly. Ze heeft dringend jouw hulp nodig. Wil jij haar nu helpen?
+Through that door is a room with a cage and a control panel that operates a giant mechanical claw.;Door die deur is een kamer met een kooi en een bedieningspaneel dat een gigantische mechanische klauw bedient.
+Bem, consegui colocÃ¡-la na jaula.;Bem, consegui colocá-la na jaula.
+Claro, qualquer coisa por Molly.;Claro, denk aan Molly.
+Fabuloso! Agora dÃª uma boa olhada em mim porque a porta estarÃ¡ trancada atrÃ¡s de vocÃª.  My twin looks exactly like me, even her clothes!;Fantastisch! Er is een tijd geleden dat ik een oude vrouw naar de porta estara trancada atrÃ¡s de vocÃª heb gebracht.  Mijn tweelingbroer lijkt precies op mij, zelfs haar kleding!
+Sim, isso cobre tudo. Obrigado!;Sim, het is zo cobre tudo. Verplicht!
+Farei o meu melhor entÃ£o!;Farei o meu melhor ento!
+Bem, o que tudo isso tem a ver comigo entÃ£o?;Is het zo dat u zo ver komt?
+O que vocÃª faz aqui?;Wat is uw faz aqui?
+OlÃ¡ viajante, o que o traz Ã  minha humilde ferraria?;Wat dacht je van een bezoek aan een humilde ferraria?
+Nurmof tem uma loja na Mina dos AnÃµes. VocÃª pode encontrar a entrada ao lado da Ice Mountain, a leste daqui.;Nurmof tem een ​​loja na Mina dos AnÃµes. U kunt een toegang tot de Ice Mountain, een leste daqui, tegenkomen.
+Eu queria usar suas bigornas.;Je kunt je grote oren gebruiken.
+Desculpe, mas tenho uma ordem de execuÃ§Ã£o com Nurmof.;Desculpe, mas tenho een opdracht tot execuÃ§Ã£o met Nurmof.
+Ah, Ã© justo.;Ah, é justo.
+Eu faÃ§o picaretas. Sou o melhor fabricante de picaretas de toda Guilenor.;Eu faÃ§o picaretas. Zo ziet u de vervaardiging van afbeeldingen uit Guilenor.
+Eu estava apenas verificando a paisagem.;Dit is een verificatie van uw keuze.
+Quem Ã© Nurmof?;Quem é Nurmof?
+Quero usar sua pedra de amolar.;U gebruikt uw amolaire kinderen.
+Cuide da sua vida, baixinho!;Cuide da sua vida, baixinho!
+O que vocÃª quer dizer?;Wat is de vraag die je stelt?
+Normalmente consigo colocar 28 coisas na minha mochila e num mundo cheio de possibilidades literalmente ilimitadas, ocorreu uma coincidÃªncia completa!;Normaal gesproken zijn er 28 kleuren die in een mum van tijd letterlijk onbeperkte mogelijkheden hebben, maar het kan ook een compleet toeval zijn!
+Iniciar a missÃ£o de Doric?;Een missão de Doric initiëren?
+Clay Ã© o que eu uso mais do que tudo, para fazer moldes. VocÃª poderia me trazer 6 argilas, 4 minÃ©rios de cobre e 2 minÃ©rios de ferro, por favor? Eu poderia pagar um pouco e deixar vocÃª usar minhas bigornas. Leve esta picareta com vocÃª caso precise.;Klei is wat je meer gebruikt, voor meer schimmels. Vocé poderia me trazer 6 argilas, 4 minérios de cobre en 2 minérios de ferro, por favour? Eu zou een grote kans kunnen hebben om kleine bigorna's te gebruiken. Het is een picareta die precies is.
+Bem, por pura coincidÃªncia, apesar de definitivamente nÃ£o saber o que vocÃª estava prestes a pedir, aconteceu de eu ter carregado exatamente esses itens!;Omdat het toevallig is, is het definitief geworden dat u een kind presteert, een conteceu van uw exatamente carregado is itens!
+Que bom conhecer alguÃ©m com maneiras tÃ£o agradÃ¡veis. Volte novamente quando precisar gritar com alguÃ©m menor que vocÃª!;Je zou kunnen zeggen dat je met maneiras Ã£o agradÃ¡veis bezig bent. Volte nieuw als je nauwkeurig gritareert met de bedoeling dat je vocÃª!
+Na verdade, nas quantidades exatas tambÃ©m!;Na verdade, nas quantidades exatas também!
+NÃ£o entendo muito bem o que vocÃª estÃ¡ dizendo?;Is het niet zo dat u veel moeite heeft om dit te doen?
+Sim, vou pegar os materiais para vocÃª.;Sim, u gebruikt het materiaal dat u nodig heeft.
+VocÃª tem algum para vender?;Wilt u meer verkopen om te verkopen?
+Minhas bigornas dÃ£o trabalho suficiente para meu prÃ³prio uso. Eu faÃ§o picaretas e isso exige muito trabalho. Se vocÃª pudesse me conseguir mais alguns materiais, eu poderia deixar vocÃª usÃ¡-los.;Grote aantallen zijn voldoende voor mijn gebruik. Er zijn veel picaretas en er zijn veel trabalho. Als u mij wilt adviseren over al het materiaal, kunt u de VS gebruiken.
+Nossa, isso Ã© uma coincidÃªncia! Passe-os aqui, por favor. Posso lhe poupar algumas moedas pelo seu trabalho e, por favor, use minhas bigornas sempre que quiser.;Nossa, het is een toeval! Passe-os aqui, por gunst. Het kan zijn dat mensen de moed hebben om hun leven te leiden, maar gebruik de meeste grote mensen die dat willen.
+VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!;VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!
+Meu colega e eu podemos permitir que vocÃª configure ofertas comerciais. VocÃª pode se oferecer para vender itens ou comprar itens.;Veel mensen en mensen die het mogelijk maken dat ze commerciële aanbiedingen configureren. U kunt deze producten aanbieden of vergelijken.
+We'll look for someone who wants to buy those items at your price, and we'll perform the trade. You can then collect the cash here, or at any bank.;We zoeken iemand die deze artikelen voor uw prijs wil kopen, en we voeren de ruil uit. Vervolgens kunt u het geld hier of bij een willekeurige bank afhalen.
+When you want to sell something, you give us the items and tell us how much money you want for them.;Wanneer u iets wilt verkopen, geeft u ons de artikelen en vertelt u ons hoeveel geld u ervoor wilt hebben.
+Sometimes it takes a while to find a matching trade offer. If you change your mind, we'll let you cancel your trade offer, and we'll return your unused items and cash.;Soms duurt het even voordat je een passend handelsaanbod vindt. Als u van gedachten verandert, kunt u uw handelsaanbod annuleren en retourneren wij uw ongebruikte artikelen en contant geld.
+We'll look for someone who's selling those items at your price, and we'll perform the trade. You can then collect the items here, or at any bank, along with any left-over cash.;We zoeken iemand die deze artikelen tegen uw prijs verkoopt, en we voeren de ruil uit. Vervolgens kunt u de spullen hier of bij elke bank ophalen, samen met eventueel overgebleven contant geld.
+That's all the essential information you need to get started. Would you like to trade now, or exchange item sets?;Dat is alle essentiële informatie die u nodig heeft om aan de slag te gaan. Wil je nu ruilen of itemsets ruilen?
+When you want to buy something, you tell us what you want, and give us the cash you're willing to spend on it.;Als u iets wilt kopen, vertelt u ons wat u wilt en geeft u ons het geld dat u eraan wilt uitgeven.
+Gostaria de acessar minha conta bancÃ¡ria, por favor.;Gostaria de acessar minha conta bancaria, por gunst.
+O que Ã© esse lugar?;O wat is dit?
+Bom dia, em que posso ajudÃ¡-lo?;Bom dia, em que posso ajudá-lo?
+Gostaria de verificar minhas configuraÃ§Ãµes de PIN.;Controleer de minimale pincodeconfiguratie.
+Eu gostaria de coletar itens.;Eu gostaria de coletar itens.
+Eu gostaria de comprar mais slots bancÃ¡rios.;U kunt meer slotsbanken vergelijken.
+VocÃª deixarÃ¡ de ser um Ironman em 7 dias. Tem certeza que quer isso? VocÃª nÃ£o preferiria continuar como Ironman?;Vocé deixarÃ¡ ser um Ironman in 7 dias. Is het zeker wat dat is? Heeft u nog steeds de voorkeur als Ironman?
+AÃ­ estÃ¡. Use-o com orgulho.;AÃ estÃ¡. Gebruik het als orgel.
+Okay, it's your call. Now, how can I help you?;Oké, het is jouw beslissing. Hoe kan ik je helpen?
+Eu gostaria de continuar como Ironman.;We gaan verder met Ironman.
+Eu realmente quero parar de ser um Ironman.;Ik dacht echt dat ik Ironman was.
+Ã‰ por isso que estou esperando aqui!;Ã‰ por isso que estou esperando aqui!
+Mas e se eu quiser ver os avisos novamente?;Heeft u een nieuw advies gekregen?
+Recompensas difÃ­ceis.;Vergoedingen als verschil.
+De nada!;De nada!
+Obrigado!;Verplicht!
+CrianÃ§as.;Crianas.
+saber mais sobre?;sabel mais sobre?
+Recompensas fÃ¡ceis.;Vergoedingen fÃ¡ceis.
+Obrigado, lembrarei disso se vir alguma mensagem de aviso.;Let op, het is niet zo dat dit een adviesbericht is.
+Se vocÃª completar todas as tarefas fÃ¡ceis em Lumbridge e Draynor, seu anel poderÃ¡ recarregar metade de sua energia de corrida duas vezes por dia e lanÃ§ar alquimia de baixo nÃ­vel sem runas 30 vezes por dia.;Als u alle taken in Lumbridge en Draynor hebt voltooid, kunt u de metade van uw energie gedurende twee dagen opnieuw uitvoeren en uw levenslange ervaring 30 dagen per dag opnieuw uitvoeren.
+Sim! Ando pelo mundo sentindo o perigo.;Sim! Ando pelo mondo stuurde de tijd.
+Recompensas Elite.;Vergoedingen als Elite.
+Recompensas mÃ©dias.;Beloningen in de media.
+Tutor de perigo?;Perigo-leraar?
+Conte-me mais sobre as recompensas fÃ¡ceis, por favor!;Conte-me mais sobre as recompensas fáceis, por gunst!
+If I find a dangerous area, then I put up warning signs that will tell you what is so dangerous about that area.;Als ik een gevaarlijk gebied tegenkom, plaats ik waarschuwingsborden waarop staat wat er zo gevaarlijk is aan dat gebied.
+If you see the signs often enough, then you can turn them off; by that time you likely know what the area has in store for you.;Als je de signalen vaak genoeg ziet, kun je ze uitschakelen; tegen die tijd weet u waarschijnlijk wat de omgeving voor u in petto heeft.
+If you want to see the warning messages again, I can turn them back on for you.;Als u de waarschuwingsberichten opnieuw wilt zien, kan ik ze weer voor u inschakelen.
+You have not proved yourself worthy to enter here yet.;Je hebt nog niet bewezen dat je het waard bent hier binnen te komen.
+Oh, ai de mim por nÃ£o conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?;Oh, ai de mim por no conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?
+Na verdade, esqueÃ§a...;Na verdade, esqueÃ§a...
+Julieta, Julieta, por que vocÃª Ã© Julieta? VocÃª viu minha Julieta?;Julieta, Julieta, por que vocÃª Ã© Julieta? VocÃª viu minha Julieta?
+Perhaps I can help find her for you? Como ela Ã©?;Misschien kan ik je helpen haar te vinden? Como ela Ã©?
+A raposa...vocÃª poderia dizer a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;Een raposa...vocÃª zou kunnen zeggen dat het een lange tijd gegevens is die ons leven zal opleveren als het zo is?
+Iniciar a missÃ£o Romeu e Julieta?;Een missio Romeu e Julieta initiëren?
+Cabelo... confere..;Cabelo... conferentie..
+Ah, sim... o que vocÃª disse... diga isso a ela, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!;Ah, sim... o que vocÃª disse... dit is zo een, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!
+Aposto que ela Ã©!  Uauuuu!;Aposto que ela é!  Uauuuu!
+Ah, vocÃª faria? Isso seria Ã³timo! Ela tem esse tipo de cabelo...;Ah, vocÃª faria? Isso seria Ã³timo! Het is een tip van de kabel...
+Sorry Romeo, I've got better things to do right now. Maybe later?;Sorry Romeo, ik heb nu betere dingen te doen. Misschien later?
+O que?  Certamente vocÃª quer dizer que 'ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?';O wat?  Zeker, dat je weet dat 'ie verliefd is op je leven en dat je dit wilt doen?'
+Oh, okay, well, I guess my Juliet and I can spend some time apart.  And as the old saying goes, 'Absinthe makes the heart glow longer'.;Oh, oké, ik denk dat mijn Juliet en ik wel wat tijd apart kunnen doorbrengen.  En zoals het oude gezegde luidt: 'Absint laat het hart langer gloeien'.
+Sim, tudo bem. Eu vou avisÃ¡-la.;Sim, tudo bem. Eu vou avisÃ¡-la.
+Ok, obrigado.;Oké, obrigado.
+NÃ£o, desculpe, eu nÃ£o a vi.;NÃ£o, desculpe, eu nÃ£o a vi.
+Bem, acho que ela poderia ser considerada atraente...;Bem, maar que ela poderia ser considerada atraente...
+Desculpe, todo aquele jÃºbilo me fez esquecer do que estÃ¡vamos conversando.;Ontsnap, en doe wat je zegt als je een gesprek hebt.
+Sim, eu a vi, na verdade!;Sim, eu a vi, na verdade!
+VocÃª estava me perguntando sobre Julieta? VocÃª parecia conhecÃª-la?;Heeft u mij misschien geholpen met Julieta? VocÃª parecia conhecÃª-la?
+LÃ¡bios... certo.;LÃ¡bios... certo.
+HÃ¡ mais alguma coisa que vocÃª possa me contar sobre Juliet?;Heeft u ooit een vraag gesteld over hoe u Juliet kunt ontmoeten?
+O que?  Certamente vocÃª quer dizer que ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?;O wat?  Zeker, wat is het dat je van je leven houdt en wat je wilt doen als je dat doet?
+Pelo menos acho que foi ela... Loira? Um pouco estressado?;Menos acho que foi ela... Loira? Um pouco estressado?
+Caramba... sim, sim... vocÃª a faz parecer muito interessante!;Caramba... sim, sim... vocÃª een faz parecer muito interesse!
+VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...;VocÃª nÃ£o quer dizer que 'AusÃªncia faz com que...
+Vejo que escolhi um verdadeiro profissional...!;Vejo que escolhi um verdadeiro profissional...!
+...e ela esses...lÃ¡bios lindos...;...e ela esses...lÃ¡bios lindos...
+Quer dizer que vocÃª quer dar um beijo nela!;Quer dizer que vocÃª dar um beijo nela!
+Ah, vocÃª Ã© bom... vocÃª Ã© bom!;Ah, vocÃª é bom... vocÃª é bom!
+Ah, e ela tem esses ombros lindos tambÃ©m.;Ah, het is een tijd waarin de lindos também zijn.
+Ah sim, Julieta Ã© muito diferente... por favor diga a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;Ah sim, Julieta is een heel ander ding... om de voorkeur te geven aan het feit dat het een lange tijd gegevens bevat en dat je leven zo is?
+Onde posso encontrar Julieta?;Zou je Julieta kunnen tegenkomen?
+Ah, Ã³timo! E diga a ela que quero beijÃ¡-la.;Ah, Ã³timo! Het is een feit dat u beijá-la bent.
+Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios e ombros... isso deve diminuir um pouco.;Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios en ombros... iszo een kleine moeite waard.
+OK!;OK!
+Talvez eu possa ajudar a encontrÃ¡-la para vocÃª?;Kunt u zich misschien afvragen wat u wilt zeggen over uw stem?
+É melhor eu ir.;É melhor eu ir.
+Olá, jovem coisinha.;Olá, jovem coisinha.
+How dare you? Of course I'm a wizard. Now don't be so cheeky or I'll turn you into a frog.;Hoe durf je? Natuurlijk ben ik een tovenaar. Doe niet zo brutaal, anders verander ik je in een kikker.
+Teach me to be a mighty and powerful wizard.;Leer mij een machtige en krachtige tovenaar te zijn.
+Oh I'd better stop talking to you then.;Oh, dan kan ik beter stoppen met tegen je te praten.
+What's a thingummywut?;Wat is een dingetje?
+Selecione uma opção;Selecteer een optie
+Wizard eh? You don't want any truck with that sort. They're not to be trusted. That's what I've heard anyways.;Tovenaar hè? Je wilt geen vrachtwagen van dat soort. Ze zijn niet te vertrouwen. Dat is wat ik in ieder geval heb gehoord.
+So aren't you a wizard?;Dus jij bent geen tovenaar?
+Olá, posso ajudá-lo?;Olá, posso ajudá-lo?
+I'm sorry, but I can't do that right now.;Het spijt me, maar dat kan ik nu niet doen.
+Me dê uma missão, o quê?;Ik ben een misser, of wat?
+Not now, I'm trying to concentrate on a very difficult spell!;Niet nu, ik probeer me te concentreren op een heel moeilijke spreuk!
+Me dê uma missão, por favor.;Ik ben een misser, uit gunst.
+O que você faz aqui?;Wat is uw vraag?
+Apenas pare de brincar e me dê uma missão!;Apenas pare de brincar en mij is een missão!
+Dê-me uma missão!;Dê-me uma missão!
+Dê-me uma missão ou então!;Dê-me een missão ou então!
+Can you make me some armour please?;Kun je een pantser voor me maken, alsjeblieft?
+Olá.;Ola.
+Não, obrigado.;Nee, verplicht.
+What's that you're wearing?;Wat draag je?
+Certainly, what would you like me to make?;Zeker, wat wil je dat ik maak?
+O que você está fazendo aqui?;Wat is dit voor u?
+Which places can the Members object teleport me out of?;Uit welke plaatsen kunnen de leden mij eruit teleporteren?
+Can I buy a Members object?;Kan ik een Members-object kopen?
+Quem é você?;Wat is dat?
+Liberal! Obrigado estranho..;Liberaal! Obrigado etranho..
+Get away! I do not speak to outlanders.;Ga weg! Ik spreek niet met buitenlanders.
+You've done it!;Je hebt het gedaan!
+Desça as escadas.;Desça als escadas.
+Bom dia, em que posso ajudá-lo?;Wat dacht je ervan?
+Posso ajudá-lo?;Mogelijk een judá-lo?
+Como posso treinar minha oração?;Is het mogelijk om een ​​kleine oração te trainen?
+Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?;Saudações, [PLAYER_NAME]. Kan het zijn dat u een probleem heeft?
+Para que serve a oração?;Om een ​​oração te serveren?
+Bom dia, irmã.;Bom dia, irma.
+So you invented the 'Log Canoe' by falling into a river hugging a tree?;Dus je hebt de 'Log Canoe' uitgevonden door in een rivier te vallen terwijl je een boom omhelsde?
+Yeash! Me and my cousins were having a great party by the river when we decided to have a game of 'Smack The Tree';Ja! Mijn neven en ik hadden een geweldig feest aan de rivier toen we besloten een spelletje 'Smack The Tree' te spelen
+It's a game were you take it in turnsh shmacking a tree. First one to uproot the tree winsh!;Het is een spel waarbij je om de beurt tegen een boom slaat. De eerste die de boom winsh ontwortelt!
+Log Canoe?;Log kano?
+You could make a Dugout canoe with your woodcutting skill, but I don't see why you would want to.;Je zou met je houthakvaardigheid een boomstamkano kunnen maken, maar ik zie niet waarom je dat zou willen.
+I'm Sigurd the Great and Brainy.;Ik ben Sigurd de Grote en Slimme.
+Sim;Sim
+Can you teach me about Canoeing?;Kun je mij iets leren over kanoën?
+Anyway, I won the game with a flying tackle. The tree came loose and down the river bank I went, still holding the tree.;Hoe dan ook, ik won de wedstrijd met een vliegende tackle. De boom kwam los en ik ging de rivieroever af, de boom nog steeds vasthoudend.
+I cut all the branches off to make it more comfortable. I could tell you how to if you like?;Ik heb alle takken afgeknipt om het comfortabeler te maken. Ik kan je wel vertellen hoe, als je wilt?
+Well I refined the design from the original you know!;Nou, ik heb het ontwerp verfijnd van het origineel, weet je!
+It's really quite simple. Just walk down to that tree on the bank and chop it down.;Het is eigenlijk heel simpel. Loop gewoon naar de boom op de oever en hak hem om.
+Then take your axe to it and shape it how you like!;Pak er dan je bijl in en vorm hem zoals jij wilt!
+Why do they call you the Great and Brainy?;Waarom noemen ze jou de Grote en Slimme?
+Smack the Tree?;De boom slaan?
+Could you teach me about canoes?;Kunt u mij iets leren over kano's?
+NÃ£o;NÃ£o
+Ha Ha! Hello!;Haha! Hallo!
+Because I invented the Log Canoe!;Omdat ik de boomstamkano heb uitgevonden!
+I woke up a few hours later and found myself several miles down river. And thatsh how I invented the log canoe!;Ik werd een paar uur later wakker en bevond me enkele kilometers stroomafwaarts. En zo heb ik de boomstamkano uitgevonden!
+Do you want a lit candle for 1000 gold?;Wil je een aangestoken kaars voor 1000 goud?
+No thanks, I'd rather curse the darkness.;Nee bedankt, ik vervloek liever de duisternis.
+One thousand gold?!;Duizend goud?!
+Subir ou descer a escada?;Wilt u een escada volgen?
+DesÃ§a.;Desa.
+Suba.;Suba.
+Fair enough. Here, have a spare potion, and thanks for your time.;Redelijk. Hier, neem een ​​reservedrankje en bedankt voor je tijd.
+Have you got any guam leaf? I've fixed my Hyde problem, so it's not urgent, but I could do with a guam leaf.;Heb je guamblad? Ik heb mijn Hyde-probleem opgelost, dus het is niet dringend, maar ik zou wel een guamblad kunnen gebruiken.
+I don't have any.;Ik heb er geen.
+VÃ¡ para sua casa (modo construÃ§Ã£o);VÃ¡ para sua casa (modo construÃ§Ã£o)
+Cancelar;Annuleren
+<str=7f0000>VÃ¡ para a casa de um amigo</str>;<str=7f0000>VÃ¡ para a house of a amigo</str>
+VÃ¡ para sua casa;VÃ¡ para sua casa
+I'm here to talk about Combat Achievements.;Ik ben hier om over gevechtsprestaties te praten.
+Posso ajudar?;Misschien een goed idee?
+O que vocÃª estÃ¡ fazendo aqui?;Wat is uw fazendo aqui?
+No, I'm alright thanks.;Nee, het gaat goed, bedankt.
+In fact, unless me nose be mistaken, you've got some in yer pack.;Tenzij ik me vergis, heb je er zelfs een paar in je rugzak.
+Five days ago we pulled in a huge catch. As well as fish we caught small slug like creatures, hundreds of them.;Vijf dagen geleden hebben we een enorme vangst binnengehaald. Naast vissen vingen we ook kleine naaktslakachtige beestjes, honderden.
+I'll reward you for your time. It'll give me peace of mind to know Kennith and my husband, Kent, are safe.;Ik beloon je voor je tijd. Het geeft me gemoedsrust als ik weet dat Kenneth en mijn man, Kent, veilig zijn.
+I would like a ride on your boat to the fishing platform.;Ik wil graag een ritje met uw boot naar het visplatform.
+Aye, that be perfect.;Ja, dat zou perfect zijn.
+Of course m'hearty. If that's what you want.;Natuurlijk hartelijk. Als dat is wat je wilt.
+Maybe the post was lost!;Misschien is het bericht verloren gegaan!
+Start the Sea Slug quest?;De zoektocht naar de zeeslak starten?
+Hello Holgart.;Hallo Holgart.
+Swamp paste?;Moeraspasta?
+Yuck! Thanks Kent.;Bah! Bedankt Kent.
+I doubt the fishermen will come near you if you can get this torch lit.;Ik betwijfel of de vissers bij je in de buurt zullen komen als je deze fakkel aan kunt krijgen.
+They usually write to me regularly, but I've heard nothing all week. It's very strange.;Meestal schrijven ze me regelmatig, maar ik heb de hele week niets gehoord. Het is heel vreemd.
+I figured as much.;Dat dacht ik ook.
+It's my husband, he works on a fishing platform. Once a month he takes our son, Kennith, out with him.;Het is mijn man, hij werkt op een visplatform. Eén keer per maand neemt hij onze zoon Kenneth mee op pad.
+The sea slugs are scared of heat, I figured that out when I tried to cook them.;De zeeslakken zijn bang voor hitte, daar kwam ik achter toen ik ze probeerde te koken.
+No, I want my daddy!;Nee, ik wil mijn vader!
+I need to get Kennith off this platform, but I can't get past the fishermen.;Ik moet Kenneth van dit platform halen, maar ik kan niet langs de vissers komen.
+Where is your father?;Waar is je vader?
+Is there any chance you could visit the platform and find out what's going on?;Is er een mogelijkheid dat u het platform kunt bezoeken en erachter kunt komen wat er aan de hand is?
+We'd better get back to the platform so we can see what's going on.;We kunnen beter teruggaan naar het platform, zodat we kunnen zien wat er aan de hand is.
+It was the sea slugs, they attach themselves to your body and somehow take over the mind of the carrier.;Het waren de zeeslakken, ze hechten zich aan je lichaam en nemen op een of andere manier de geest van de vervoerder over.
+The nasty fishermen tried to throw me and daddy into the sea. So he told me to hide here.;De vervelende vissers probeerden mij en papa in zee te gooien. Dus zei hij dat ik me hier moest verstoppen.
+That's when the fishermen began to act strange.;Toen begonnen de vissers zich vreemd te gedragen.
+O que estÃ¡ acontecendo aqui?;Is dit een contecendo aqui?
+Hello again land lover. There's some strange goings on, on that platform, I tell you.;Hallo weer landliefhebber. Er gebeuren vreemde dingen op dat perron, dat zeg ik je.
+A few more minutes and that thing would have full control of your body.;Nog een paar minuten en dat ding zou de volledige controle over je lichaam hebben.
+Here.;Hier.
+Hello m'hearty.;Hallo hartige.
+I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste.;Ik ben bang dat het niet zeewaardig is, het zit vol gaten. Om de gaten te vullen heb ik wat moeraspasta nodig.
+Will you take me there?;Breng je mij daarheen?
+Oh yes, I forgot about that stuff. Can you use it?;Oh ja, ik was die dingen vergeten. Kun je het gebruiken?
+You're telling me, none of the sailors seem to remember who I am.;Je zegt me dat geen van de matrozen zich lijkt te herinneren wie ik ben.
+The only problem is all the wood and flint are damp... I can't light a thing!;Het enige probleem is dat al het hout en de vuursteen vochtig zijn... Ik kan niets aansteken!
+Ok, I'll go and see if they're ok.;Oké, ik ga kijken of alles in orde is.
+Please go back and get my boy, you can send help for me later.;Ga alsjeblieft terug en haal mijn jongen. Je kunt later hulp voor mij sturen.
+Is there any chance you could help me?;Is er een kans dat u mij kunt helpen?
+They're all being controlled by the sea slugs.;Ze worden allemaal gecontroleerd door de zeeslakken.
+Your wife sent me out to find you and your boy. Kennith's fine by the way, he's on the platform.;Je vrouw heeft me erop uit gestuurd om jou en je zoon te zoeken. Met Kennith gaat het trouwens prima, hij staat op het perron.
+Are you okay young one?;Gaat het goed met je, jonge?
+He went to get help days ago.;Hij ging dagen geleden hulp halen.
+You're right. It all sounds pretty creepy.;Je hebt gelijk. Het klinkt allemaal behoorlijk griezelig.
+Yes, swamp tar mixed with flour and heated over a fire.;Ja, moerasteer vermengd met bloem en verwarmd boven een vuur.
+I'm keeping away from there.;Ik blijf daar weg.
+I told Kennith to hide until I returned but I was washed up here.;Ik zei tegen Kenneth dat hij zich moest verstoppen tot ik terugkwam, maar ik was hier aangespoeld.
+Apparently Kennith's father left for help a couple of days ago.;Blijkbaar is Kennith's vader een paar dagen geleden om hulp vertrokken.
+That's very good of you [PLAYER_NAME]. My friend Holgart will take you there.;Dat is heel goed van jou [PLAYER_NAME]. Mijn vriend Holgart zal je erheen brengen.
+Oh thank Saradomin! I thought I'd be left out here forever.;Oh dankje Saradomin! Ik dacht dat ik hier voor altijd buiten zou blijven.
+That's good advice, you stay here and I'll go try and find your father.;Dat is een goed advies. Blijf hier en ik ga proberen je vader te vinden.
+Holgart, something strange is going on here.;Holgart, er is hier iets vreemds aan de hand.
+[PLAYER_NAME] wait!;[PLAYER_NAME] wacht!
+[1] Will you take me there?;[1] Wil je mij daarheen brengen?
+Maybe, but no-one's heard from the other fishermen on the platform. Their families are becoming quite concerned.;Misschien, maar niemand heeft iets gehoord van de andere vissers op het platform. Hun families beginnen zich behoorlijk zorgen te maken.
+I suppose so, how do I get there?;Ik denk het wel, hoe kom ik daar?
+That's a worry, no-one's heard from him on shore. Come on, we'd better go look for him.;Dat is een zorg, niemand heeft iets van hem gehoord aan de wal. Kom op, we kunnen hem beter gaan zoeken.
+Oh, thank the gods it's you. They've all gone mad I tell you, one of the fishermen tried to throw me into the sea!;Oh, godzijdank ben jij het. Ze zijn allemaal gek geworden, zeg ik je, een van de vissers probeerde me in zee te gooien!
+I knew the row boat wasn't sea worthy. I couldn't risk bringing him along but you must get him off that platform.;Ik wist dat de roeiboot niet zeewaardig was. Ik kon het risico niet nemen hem mee te nemen, maar je moet hem van dat perron halen.
+NÃ£o!;Nee!
+Hello Kennith, are you okay?;Hallo Kennith, alles goed met je?
+Looking forward to it.;Ik kijk er naar uit.
+Kennith told me about the strange goings-on at the platform. I had no idea it was so serious.;Kenneth vertelde me over de vreemde gebeurtenissen op het perron. Ik had geen idee dat het zo ernstig was.
+I'm scared of those nasty sea slugs. I won't go near them.;Ik ben bang voor die vervelende zeeslakken. Ik zal niet bij hen in de buurt komen.
+You'll be able to see him soon. First we need to get you back to land, come with me to the boat.;Binnenkort kun je hem zien. Eerst moeten we je weer aan land brengen. Kom met mij mee naar de boot.
+Okay, you wait here and I'll go figure another way to get you out.;Oké, wacht hier, dan ga ik een andere manier bedenken om je eruit te krijgen.
+No, I want my daddy.;Nee, ik wil mijn vader.
+Ok, when you have I'll come out.;Oké, als je dat gedaan hebt, kom ik naar buiten.
+Thank you. Take care of yourself [PLAYER_NAME].;Bedankt. Zorg goed voor jezelf [PLAYER_NAME].
+We found Kent stranded on an island.;We vonden Kent gestrand op een eiland.
+I'll figure that out in a moment.;Ik zal dat even uitzoeken.
+How will I get downstairs?;Hoe kom ik naar beneden?
+Kennith, I've made an opening in the wall. You can come out through there.;Kenneth, ik heb een opening in de muur gemaakt. Je kunt daar doorheen komen.
+Yes, he's safe and sound with his parents. Your turn to return to land now adventurer.;Ja, hij is veilig bij zijn ouders. Jouw beurt om terug te keren naar het land, nu avonturier.
+What, why not?;Wat, waarom niet?
+I could have lost my son and my husband if it wasn't for you.;Ik had mijn zoon en mijn man kunnen verliezen als jij er niet was geweest.
+Yes, Holgart told me and sent a rescue party out. Kent's back home now, resting with Kennith. I don't think he'll be doing any fishing for a while.;Ja, vertelde Holgart mij en stuurde een reddingsploeg. Kent is nu weer thuis en rust uit bij Kenneth. Ik denk niet dat hij een tijdje zal vissen.
+Brave [PLAYER_NAME], you've returned!;Dappere [PLAYER_NAME], je bent terug!
+Not one.;Niet één.
+Did you get the kid back to shore?;Heb je het kind terug naar de kust gebracht?
+Here, take these Oyster pearls as a reward. They're worth quite a bit and can be used to make lethal crossbow bolts.;Neem hier deze oesterparels als beloning. Ze zijn behoorlijk wat waard en kunnen worden gebruikt om dodelijke kruisboogpijlen te maken.
+Are there any sea slugs on the other side?;Zijn er zeeslakken aan de andere kant?
+Okay then. I'll wait here for you.;Oké dan. Ik wacht hier op je.
+I'll come back later.;Ik kom later terug.
+Ok, vamos lÃ¡.;Oké, vamos lÃ¡.
+Hello again Holgart.;Hallo weer Holgart.
+Fancy going out to sea?;Zin om de zee op te gaan?
+Well hello again m'hearty. Your land loving legs getting bored? Fancy some cold wet underfoot?;Hallo nogmaals, m'hearty. Je landminnende benen vervelen zich? Zin in wat koud nat onder de voeten?
+PerdÃ£o?;PerdÃ£o?
+Comencemos enseñándote a empuñar un arma.;Comencemos enseñándote a empuñar un arma.
+You should check out the combat interface.;Je zou de gevechtsinterface eens moeten bekijken.
+Un mundo es en lo que juegas. La mayoría de los mundos pueden albergar hasta 2000 jugadores. Se divide en dos tipos principales: mundos libres y mundos de miembros. Puedes intercambiar mundos con World Switcher en el menú Cerrar sesión.;Een wereld is een kwestie van spelen. De burgemeester van de wereld heeft al 2000 jugadores gehad. We verdelen onze belangrijkste principes: vrije werelden en kleine werelden. Je kunt werelden met World Switcher in de eerste sessie bekijken.
+Hay varias cosas que puedes hacer con tu cuenta y es donde entra en juego el menú Administración de cuentas. Echemos un vistazo ahora.;Er zijn verschillende dingen die kunnen gebeuren met uw cuenta en het komt terecht in het menu van de administratie van de cuentas. Echemos un vistazo ahora.
+¡Hola! Mi nombre es [PLAYER_NAME].;¡Hola! Mijn naam is [PLAYER_NAME].
+Muy bien, pero ese pequeño cuchillo de mantequilla no te protegerá mucho. Vamos a conseguir algo un poco mejor. Una vez que estés adecuadamente equipado, podremos pasar al combate real.;Het is misschien zo dat deze mantequilla niet veel beschermt. We zullen een grotere raad krijgen. Als u een adequate uitrusting heeft, kunt u de echte strijd aangaan.
+Soy Vannaka, el mejor espadachín del mundo y estoy aquí para enseñarte los conceptos básicos del combate.;Soy Vannaka, het grootste deel van de wereld en het lijkt erop dat de basisconcepten van de strijd een rol spelen.
+El siguiente paso es el combate a distancia. Con esto puedes matar enemigos a distancia. Con rango, podrás atacar a las ratas sin entrar al pozo, lo que significa que no podrán defenderse.;De volgende stap is de strijd op afstand. Het kan zijn dat er vijanden op afstand zijn. Als je eenmaal de snelheid hebt bereikt, is het belangrijk dat er geen verdedigers zijn.
+Buenos días, recién llegado. Mi nombre es Terrova. Estoy aquí para contarles sobre Magia. Comenzamos abriendo su interfaz mágica.;Buenos dias, ontvangen llegado. Mijn naam is Terrova. Dit is wat je kunt zeggen over Magia. Komen ze over hun magische intermediair heen.
+Las oraciones activas agotarán tus puntos de oración, que puedes recargar buscando un altar u otro lugar sagrado y orando allí.;De oraciones worden actief op onze orale punten, die u kunt gebruiken om een ​​altaar op te roepen of andere sagrado en orando allí.
+Si crees que tienes lo necesario, puedes optar por convertirte en un <col=b10000>Ironman incondicional</col>.;Als je denkt dat het nodig is, kun je kiezen voor een <col=b10000>Ironman-incondicional</col>.
+Como habrás notado, la mayoría de los enemigos dejarán caer huesos cuando sean derrotados. Al enterrar huesos, al hacer clic en ellos en tu inventario, obtendrás experiencia de oración.;Als het goed is, wordt de burgemeester van de vijanden uitgedaagd door de rotado's. Bij het ontdekken van kleuren, als je op een van je uitvindingen klikt, krijg je een orale ervaring.
+Mientras estás en Tutorial Island, puedes alternar libremente entre ser un <col=7f0000>Ironman estándar</col>, un <col=00007f>Ultimate <col=00007f>Ironman</col>, un <col=b10000>Ironman intenso</col>, un <col=7f0000>Ironman grupal</col>, un <col=b10000>Hardcore Group Ironman</col> o un personaje normal.;Op Tutorial Island kun je als alternatief een <col=7f0000>Ironman-standaard</col> gebruiken, een <col=00007f>Ultieme <col=00007f>Ironman</col>, een <col=b10000>Ironman intenso</col>, een <col=7f0000>Ironman groep</col>, een <col=b10000>Hardcore Group Ironman</col> of een normaal personage.
+Eso es todo lo que tengo que enseñarte por ahora. Si necesita un recordatorio sobre sus oraciones, hábleme nuevamente.;Het is dus de moeite waard om te beginnen met ahora. Als u een opname van uw oraciones nodig heeft, kunt u deze opnieuw gebruiken.
+Como <col=b10000>Ironman</col>, eliges que te impongan estas restricciones para que todos sepan que lo estás haciendo correctamente.;Als <col=b10000>Ironman</col> worden er beperkingen opgelegd aan alle mensen die op dit moment correct zijn.
+Además de las restricciones estándar, los <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>una vida</col>. En caso de una muerte peligrosa, tu estado de <col=b10000>Ironman incondicional</col> se reducirá al de un <col=7f0000>Ironman estándar</col>, y tu;Als de restricties worden overschreden, zijn de <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>een vida</col>. In het geval van een grote peligrosa, wordt de <col=b10000>Ironman incondicioneel</col> een <col=7f0000>Ironman-standaard</col> verminderd, en je
+Además de las restricciones estándar, los <col=00007f>Ultimate <col=00007f>Ironmen</col> no pueden usar el banco y sueltan todos sus objetos cuando mueren.;Als de beperkingen zijn geëist, kunnen de <col=00007f>Ultieme <col=00007f>Ironmen</col> de bank niet gebruiken en hun geld verdienen met geld.
+Si tienes algunos amigos, podrías estar solo... Juntos, como <col=7f0000>Grupo Ironmen</col>. Los Ironmen grupales tienen las mismas restricciones que los Ironmen normales, excepto que podéis intercambiar objetos entre vosotros.;Als al onze vrienden samenkomen, kunnen ze solo... Juntos, als <col=7f0000>Grupo Ironmen</col>. De Ironmen-groepen hebben de meeste beperkingen die de normale Ironmen hebben, behalve dat ze intercombiar-objecten tussen hen kunnen gebruiken.
+Así que permitirá que <col=b10000>Hardcore Ironmen</col> o <col=00007f>Ultimate Ironmen</col> bajen de categoría a <col=7f0000>Ironmen estándar</col>, y permitirá que todos los tipos de <col=7f0000>Ironman</col> en solitario se conviertan en personajes regulares.;Als <col=b10000>Hardcore Ironmen</col> of <col=00007f>Ultimate Ironmen</col> in de categorie <col=7f0000>Ironmen</col> staan, en je kunt alle tips van <col=7f0000>Ironman</col> eenzaam met je persoonlijkheid delen stamgasten.
+Hola, [PLAYER_NAME]. Soy Paul, el tutor de Ironman. ¿Qué puedo hacer por ti?;Hallo, [PLAYER_NAME]. Soy Paul, de Ironman-leraar. Wat kan je doen?
+Las estadísticas se congelarán en los resultados del <col=b10000>Hardcore Ironman</col>.;De ontwikkelingen gaan door in de resultaten van <col=b10000>Hardcore Ironman</col>.
+Si sois un grupo atrevido, incluso podéis probar <col=b10000>Hardcore Group Ironmen</col>. Con Hardcore Group Ironmen tienes un número determinado de vidas, cuando lleguen a cero, te convertirás en <col=7f0000>Group Ironmen</col> normal.;Als een groep actief is, inclusief de <col=b10000>Hardcore Group Ironmen</col>. Met Hardcore Group Ironmen is een aantal vastgestelde video's, terwijl je een cero converteert naar <col=7f0000>Group Ironmen</col> normaal.
+Para el desafío definitivo, puedes elegir convertirte en un <col=00007f>Ultimate Ironman</col>, un modo de juego inspirado en el jugador <col=00007f>IronNoBank</col>.;Om definitief te beslissen, kunt u een <col=00007f>Ultimate Ironman</col> converteren, een modus van juego-inspiratie in de jugador <col=00007f>IronNoBank</col>.
+Si alguna vez decides invitar a jugadores experimentados a tu grupo, te convertirás en <col=7f0000>grupo sin clasificar <col=7f0000>hombres de hierro</col>, que ya no se muestran en los resultados de Ironman del grupo.;Als je besluit om jonge mensen uit te nodigen om met je groep te experimenteren, verander dan een <col=7f0000>groep in een classificatie <col=7f0000>hombres de hierro</col>, wat je niet hoeft te doen in de resultaten van de Ironman van de groep.
+Una vez que hayas abandonado esta isla, podrás encontrar a mi colega Adam en Lumbridge, pero él solo te permitirá cambiar tus restricciones hacia abajo, no hacia arriba.;Nadat we dit eiland hebben verlaten, kunnen we onze collega Adam en Lumbridge tegenkomen, maar alleen om onze beperkingen toe te staan, zonder dat we er aankomen.
+What would you do if I said 'yes'?;Wat zou jij doen als ik ‘ja’ zei?
+Halt! Are you here to sabotage the Motherlode Mine?;Halt! Ben je hier om de Motherlode-mijn te saboteren?
+No, I'm not.;Nee, dat ben ik niet.
+What's the Motherlode Mine?;Wat is de Motherlode-mijn?
+Hey there, [PLAYER_NAME]. I need you to kill the pheasant that has four tails. Bring me the raw pheasant when you're done.;Hallo daar, [PLAYER_NAME]. Ik wil dat je de fazant doodt die vier staarten heeft. Breng me de rauwe fazant als je klaar bent.
+Ok, vou ajudar com seus faisões.;Oké, je zult het met je eens zijn.
+O que você gostaria de dizer?;Wat is de beste manier om te dizeren?
+Agora traga-me o faisão cru.;Voordat u het probleem oplost.
+You get lederhosen legs for your help, many thanks!;Je krijgt lederhosen benen voor je hulp, hartelijk dank!
+Há algo em que eu possa ajudá-lo?;Heeft u ooit een kans gehad?
+Saudações! Sou Hassan, Chanceler do Emir de Al Kharid.;Saudações! Sou Hassan, kanselier van emir de Al Kharid.
+Não, obrigado, vou dar uma volta.;Nee, je moet het doen, je bent een volta.
+Tudo bem, vou lá.;Tudo bem, u lá.
+Posso passar por este portão?;Kunt u deze porto doorgeven?
+Claro.;Claro.
+Está muito quente aqui. Como você aguenta isso?;Het is veel te veel. Wat is dit?
+Você se importa se eu matar seus guerreiros?;Wilt u uw strijders importeren?
+Bem... atualmente temos um problema muito urgente que precisamos resolver, e suponho que você parece alguém que sabe como fazer um trabalho. Você está definitivamente interessado em ajudar?;Er zijn veel problemen met een zeer urgent probleem dat precies is opgelost, en het lijkt erop dat u misschien een probleem hebt. Is het definitief interessant voor u?
+Iniciar a missão Resgate do Príncipe Ali?;Begin een missie Resgate do Príncipe Ali?
+Você encontrará nosso Spymaster, Osman, do lado de fora do palácio. Vá até ele e diga que eu enviei você. Ele irá informá-lo sobre os detalhes do nosso problema.;Als je Spymaster, Osman, tegenkomt, doe dan de fora in het paleis. Er is iets dat u jaloers maakt. Het is informatie over de details van geen enkel probleem.
+Você deve pagar um pedágio de dez moedas de ouro para passar.;U kunt een kind van onze moed krijgen om door te gaan.
+É melhor eu ir embora.;Het is beter dan het is.
+Justo. Então, qual é esse problema?;Justo. Is dit een probleem?
+Er... eu só perguntei se ele precisava de ajuda e ele disse que sim.;Er... het is zo dat u de precisie van het oordeel en dit soort dingen kunt zien.
+De fato. Você tem mais alguma dúvida antes de ir?;De fato. Is het mogelijk dat u meer tijd hebt om te beginnen?
+Você sabe por que eles levaram o Príncipe?;Wilt u weten of u in Principe kunt leven?
+Osman? O Chanceler me disse para vir falar com você. Aparentemente você tem um problema com o qual posso ajudar.;Osman? O kanselier, ik zeg dit om te falen met uw stem. Het lijkt erop dat er een probleem is met de mogelijke gevolgen.
+Você fez uma afirmação justa. Você sabe como é a Keli?;U kunt gewoon een bevestiging krijgen. Wilt u weten of dit een Keli is?
+Não. Acho que sei tudo o que preciso.;Nee. Als u dat precies doet, of precies.
+Segundo nossas informações, Keli é a única capaz de circular livremente pela área. Para tirar o Príncipe de lá, você precisará disfarçá-lo como ela. É claro que ela precisará ser tratada primeiro.;Op verschillende informatieniveaus is Keli een unieke mogelijkheid om rond te leven in het hele gebied. Om de Príncipe de lá te zien, moet u precies weten wat dit is. Het is duidelijk dat de precieze eerste stap is gezet.
+Bem, tenho certeza que consigo fazer isso. Como faço para resgatá-lo?;Bem, weet zeker dat dit zo is. Is het mogelijk om te resgateren?
+Claro, você precisará encontrar uma maneira de fazer com que Keli lhe mostre a chave sem causar suspeitas. Tenho certeza que Leela pode ajudá-lo com isso.;Claro, hij heeft precies een manier gevonden waarop Keli het meest twijfelde. Het is zeker dat Leela dit kan doen.
+O Príncipe foi levado por um grupo de bandidos liderados pela autoproclamada 'Lady' Keli. Eles o estão mantendo na prisão abandonada a leste da Vila Draynor.;Het Principe wordt bewoond door een groep bandleden die 'Lady' Keli autoproclameert. Het is de bedoeling dat u de prijs verlaat voor Vila Draynor.
+Antes de ir, há mais uma coisa. Você precisará de uma chave para tirar o Príncipe de sua cela. Keli tem o único. Você poderia roubá-lo, mas parece um risco que devemos evitar.;Voordat het zover is, is het meer een coisa. U kunt precies weten wat u moet doen om het Principe van uw cel te betreden. Het is één ding. Als u roubá-lo ziet, is er een risico dat het onvermijdelijk is.
+Parece que eu deveria ir até Draynor Village e ver Leela então.;Toen ik Draynor Village en Leela hoorde, was het zover.
+E colocar em risco a vida do Príncipe no processo? Não. Não haverá riscos desnecessários. Precisamos fazer isso com o mínimo de derramamento de sangue possível.;Is het risico dat u zonder proces naar Principe gaat? Nee. Er zijn geen onnodige risico's. De nauwkeurigheid is zo klein dat er zo weinig mogelijk bloedverlies is.
+Mas se ela tem a única cópia e eu não posso simplesmente roubá-la, como consigo a chave?;Als het een uniek exemplaar is en het is niet zo eenvoudig om te roubá-la, als je het leuk vindt?
+Ela tem cabelos loiros e usa roupas rosa. Minha filha, Leela, uma das minhas espiãs, está atualmente na Vila Draynor de olho na prisão. Tenho certeza que ela pode ajudá-lo com os detalhes.;Het is een kwestie van kabeljauw en rosa uit de VS. Mina Filha, Leela, een van de weinige spionnen, is uiteindelijk op Vila Draynor terechtgekomen op de prijs. Het is zeker dat u deze details kunt bekijken.
+Se você me trouxer uma impressão da chave junto com uma barra de bronze, posso lhe mostrar como fazer uma cópia. Você deverá conseguir fazer uma impressão da chave usando um pouco de argila macia.;Als ik een indruk krijg van een bronsbron, is het mogelijk dat hij het meest een kopie maakt. U kunt een indruk krijgen van het gebruik van een soort appeltaart.
+Esse homem é demasiado confiante numa altura em que devemos tomar cuidado extra. No entanto, se ele tomou a sua decisão, não a questionarei. Ainda assim, você deve saber que estarei de olho em você.;Deze thuis is een vertrouwde vertrouwenspersoon die meer geld wil verdienen. Als u geen twijfel heeft, als u een beslissing neemt, hoeft u geen vragen te stellen. Enda Assim, je hebt ontdekt dat je een stem in je stem hebt.
+Por que não posso simplesmente entrar e matar ela e seus bandidos?;Waarom is het niet eenvoudig om uw band met uw band te betreden?
+Essa seria uma descrição adequada. No entanto, considero você uma escolha interessante do Chanceler. Por que ele escolheu confiar essa tarefa a você em vez de uma das nossas?;Dit is een adequate beschrijving. Als je er niet over nadenkt, denk dan aan een interessante interessantheid van Chanceler. Waarom vertrouwt deze essa een beroep op een van zijn nossas?
+O Príncipe Ali, herdeiro do Emir de Al Kharid, foi levado. Meus espiões já descobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.;O Principe Ali, herdeiro van emir de Al Kharid, voor levado. Als u eenmaal ontdekt dat dit een probleem is, zijn de nauwkeurigheid van de keuze om terug te gaan of opnieuw in te stellen.
+Onde está Leela em Draynor?;Is het Leela in Draynor?
+Então você deveria ir.;Então você deveria ir.
+Sim, eu gostaria de um pouco de corda.;Sim, je hebt een paar corda's gevonden.
+Why, hello there, lad. Me friends call me Ned. I was a man of the sea, but it's past me now. Could I be making or selling you some rope?;Wel, hallo daar, jongen. Mijn vrienden noemen mij Ned. Ik was een man van de zee, maar het is nu voorbij mij. Zou ik je wat touw kunnen maken of verkopen?
+Que tal algum tipo de peruca?;Is dit een tip van Peru?
+Você faz corda de lã?;Is dit een goed idee?
+Tenho certeza que posso. O que você está pensando?;Tenho is zeker dat het mogelijk is. Wat is uw pensando?
+Não, obrigado, Ned. Eu não preciso de nenhum.;Não, obrigado, Ned. Het is niet nauwkeurig.
+Bem, posso te vender uma corda por 15 moedas. Ou posso fazer alguns para você se você me der quatro novelos de lã. Eu os une, sim, os torna fortes.;Het is mogelijk dat u een corda van 15 moeda's kunt verkopen. Het kan zijn dat u meer wilt weten over uw vier romans. Het is een, sim, of torna fortes.
+Você poderia fazer outras coisas além da corda?;Hoe kan het zijn dat u een corda-probleem heeft?
+Claro que você pode!;Claro que você pode!
+Você poderia tricotar um suéter para mim?;Is het tricotar een suéter para mim?
+Hello again, lad. Something I can help you with? Want to buy some rope perhaps?;Nogmaals hallo, jongen. Iets waarmee ik je kan helpen? Misschien touw kopen?
+Você poderia consertar os buracos das flechas nas costas da minha camisa?;Wilt u uw kantoor aan de kust van uw camisa houden?
+Na verdade, não preciso de nada.;Als het goed is, is er niets nauwkeurigs aan de hand.
+O que você poderia fazer por mim?;Wat zou u kunnen doen om mij te helpen?
+Isso é um pouco mais do que quero pagar.;Het is een beetje meer wat je kunt doen.
+Bem, querido, você precisa de uma base para a pasta. Isso é uma mistura de cinza, farinha e água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me esses quatro itens e eu farei alguns para você.;Bem, querido, você precisa de uma basis para a pasta. Het is een mist van cinza, farinha en água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me wordt quatro-duurzaam en het gaat allemaal goed met ons.
+Sua velha bruxa maluca, você não pode me ajudar.;Als je een bruxa maluca hebt, kun je me niet helpen.
+Vou pegar um pouco de lã.;Je kunt een pouco de la zijn.
+Em que posso ajudá-lo?;Wat is mogelijk?
+Ora, é uma das minhas poções mais populares! Muitas pessoas por aqui gostam de embelezar um pouco o rosto. Posso fazer isso para você se você me conseguir o que for necessário.;Ja, het is een van de meest populaire dingen! Er kunnen veel mensen zijn die een groot deel van de tijd willen verbouwen. Het kan zijn dat u mij voor de noodzaak moet raadplegen.
+Você quer um pouco de corda ou não?;Wilt u een koord of niets vinden?
+Aí está, a melhor corda de Guilenor.;Aí está, a melhor corda de Guilenor.
+O que você precisa?;Wat is precies?
+Você pode fazer pasta de pele?;Você pode fazer pasta de pele?
+Legal, você transforma pessoas em sapos?;Juridisch, kunt u dit veranderen?
+Ok, por favor me venda um pouco de corda.;Oké, geef mij de voorkeur aan een pouco de corda.
+Estou bem, obrigado.;Estou bem, obrigado.
+Gostaria de acessar minha conta bancária, por favor.;Ga naar de toegang tot uw bank, uit gunst.
+Gostaria de verificar minhas configurações de PIN.;Controleer de pincode-configuratie minimaal.
+Eu gostaria de comprar mais slots bancários.;U kunt meer gokautomaten vergelijken.
+O que é esse lugar?;Wat is dit?
+Howdy there partner! You came at just the right time! I've got something for ya!;Hallo daar partner! Je kwam precies op het juiste moment! Ik heb iets voor je!
+Bem-vindo ao Mercado Geral. Você gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo en Mercado Geral. Wilt u goed onderhandelen of andere combinaties gebruiken?
+Sim, por favor. Misture-me um pouco de pasta de pele.;Sim, por gunst. Misture-me um pouco de pasta de pele.
+Eu não deveria incomodar alguém tão durão quanto você.;Er is niet veel gebeurd dat het zo lang duurt.
+Ouvi rumores de que você mata pessoas.;Er gaan geruchten dat er veel mensen zijn.
+Você deve ter treinado muito para esse trabalho.;Je kunt veel meer treinverkeer doen om dit te bereiken.
+Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.;Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.
+Sim, estou muito ocupado. Adeus.;Sim, het is veel bezig. Adeus.
+É muita gentileza sua dizer isso. Reputações não são conquistadas facilmente. Consegui ter sucesso onde muitos falham.;Het is een groot deel van uw leven. De reputatie is niet zo eenvoudig als de verovering. Raad het succes van een groot aantal fouten aan.
+Você é a famosa Lady Keli? Líder da gangue de bandidos mais difícil do mundo?;Bent u een bekende Lady Keli? Is het gangpad van de band het moeilijkst in de wereld?
+Não, obrigado. Não preciso de nenhuma pasta de pele agora.;Nee, verplicht. Geen precieze nenhuma-pasta op de agora.
+Já ouviu falar de você? You're famous in Gielinor!;Heeft u een probleem met uw stem? Je bent beroemd in Gielinor!
+Qual é o seu plano mais recente então?;Wat is uw recente plan?
+Aí está, querido. Isso fará com que você fique bem nas danças de Varrock.;Dit is de vraag. Het is zo ver dat je de dans van Varrock kunt noemen.
+Oh, você gosta de xingar uma bruxa, não é?;Oh, je wilt een bruxa, niet eens?
+Isso é uma multa por insultar uma bruxa. Você deveria aprender um pouco de respeito.;Het is een veelheid om een ​​bruxa te beledigen. U kunt een pauze inlassen.
+Sim, eu sou Keli. Você já ouviu falar de mim então?;Sim, eu sou Keli. Is het mogelijk dat u mijn doel bereikt?
+Não, nunca ouvi falar de você.;Nee, nunca ouvi falar de você.
+Yes, I can. I see you already have the ingredients - the water, flour, ashes and redberries. Would you like me to mix some for you now?;Ja, dat kan ik. Ik zie dat je de ingrediënten al hebt: het water, de bloem, de as en de rode bessen. Wil je dat ik er nu wat voor je mix?
+Isso deveria ser simples. Entregue as coisas para Aggie então.;Isso deveria ser simples. Entregue as coisas para Aggie então.
+Por que você quer saber?;Por que você quer sabel?
+Obrigado. É melhor eu ir agora.;Verplicht. Het is beter dan vroeger.
+Bem... só por um momento então.;Bem... so por um momento então.
+Posso tocar na tecla por um momento, por favor?;Kan het gebeuren dat u op een bepaald moment, uit gunst gaat?
+É claro que você precisará provar seu valor antes de permitirmos que você se junte a nós. Contudo, o que posso dizer é que atualmente temos um prisioneiro muito valioso. Se tudo correr bem, ele nos tornará muito ricos.;Het is duidelijk dat u precies uw waarde kunt bewijzen voordat u de kans krijgt dat uw stem nog maar net is. Als u echter weet dat u waarschijnlijk een veel grotere beloning krijgt. Als het goed is, is er een hoop tornará.
+Não existe outra chave como esta no mundo.;Er bestaat geen andere wereld dan deze.
+Bem, suponho que não há mal nenhum em deixar você ver isso. Afinal, você não tem esperança de roubá-lo.;Ik denk dat het niet zo erg is om dit te doen. Eindelijk, je zult niet meer in het roubá-lo denken.
+Será algo que poderei contar aos meus netos, quando vocês forem ainda mais famosos do que são agora.;Als je ooit met meer mensen kunt omgaan, terwijl je nog steeds meer bekende mensen bent die je geleden hebt.
+Como você sabe que alguém não tentará libertá-lo?;Wilt u weten of u geen vrijheid heeft?
+Para pegá-lo? Oh sim. Tivemos que agarrá-lo sem que seus guarda-costas percebessem. Foi um golpe de gênio. Principalmente obra minha, é claro.;Voor pega-lo? O sim. Het is mogelijk dat de agarrá-lo sem zijn bewaking van de kosten waarneemt. Er is een golpe de genio. De belangrijkste persoon is duidelijk.
+Muito obrigado! Você é muito gentil.;Veel obrigado! Você is veel gentil.
+De nada, mas vá embora agora. I will need some time to consider your request to join us.;Nu, het is een tijdje geleden. Ik zal enige tijd nodig hebben om uw verzoek om bij ons te komen overwegen.
+Ah, entendo. You must have been very skillful.;Ah, entendo. Je moet zeer bekwaam zijn geweest.
+Bem, eu vou embora. Boa sorte.;Bem, je bent embora. Erg leuk.
+Bem, na verdade eu esperava me juntar ao seu grupo.;Als u een idee heeft, denk dan aan uw groep.
+Posso ver a chave, por favor?;Posso ver a chave, por gunst?
+Essa é uma boa maneira de guardar segredos.;Het is een veilige manier van bewaken.
+Sempre há alguém pronto para espalhar boatos. Eu ouço todo tipo de coisas ridículas hoje em dia.;Sempre is waarschijnlijk bedoeld voor het varen met boten. Er zijn veel dingen die belachelijk zijn in de dia.
+Não há como libertá-lo. A única chave da cela dele está numa corrente em volta do meu pescoço, e o serralheiro que a fez morreu repentinamente.;Er is geen vrijheid. Een van de dingen die nu gebeurt is in mijn pesco-tijd, en de serralheiro die een fez meer repentinamente.
+Por que?;Waarom?
+Bem, boa sorte com isso.;Bem, dit is wat het is.
+Junte-se a nós? Interessante... suponho que você tenha essa aparência.;Is dit een nós? Interessant... denk dat je dit apparaat kunt gebruiken.
+Não;Nee
+Usarei isso para fazer uma cópia de backup da chave. Darei para Leela caso você perca o seu.;U kunt dit gebruiken om een ​​back-upkopie te maken. Durf om Leela dit te laten doen.
+Eu vou indo.;Eu je indo.
+Tenho uma impressão da chave.;Er is een indruk gemaakt van het verhaal.
+Agora, você tem mais alguma dúvida?;Waarom zou u meer dingen doen?
+Bom, você vai levar isso e sua barra de bronze para uma fornalha. Derreta o bronze, despeje na impressão e deixe esfriar. Isso lhe dará uma cópia da chave.;Waar je ook bent, het is een bronsbron voor een fornalha. Als u brons gebruikt, maakt u indruk en komt u er uit. Het is een kwestie van een kopie van het geheugen.
+Você tem mais alguma dúvida?;Heeft u nog meer problemen?
+Não, mas temos as nossas teorias.;Não, mas temos as nossas teorias.
+Quer compartilhá-los?;Wat is vergelijkbaar?
+Ela estará em algum lugar perto da prisão abandonada que os bandidos estão usando. It's just east of the village.;Het kan zijn dat u de prijs moet opgeven die de bandleden gebruiken. Het ligt net ten oosten van het dorp.
+Isso danificará a impressão?;Is dit een indruk?
+Você de novo. Como vão as coisas em Draynor?;Voce de novo. Wat dacht je van de liefde van Draynor?
+Não. Você ainda não provou seu valor o suficiente para receber essa informação.;Nee. U kunt niet genoeg vertrouwen hebben in het ontvangen van deze informatie.
+É possível... Deixe-me dar uma olhada brevemente.;Het is mogelijk... Probeer eens een korte pauze te nemen.
+Ainda estou trabalhando para reunir todos os itens que preciso.;Ze is bezig met het samenbrengen van alles wat precies is.
+Create a key using the key print?;Een sleutel aanmaken met behulp van de sleutelafdruk?
+Bem, se precisar de ajuda, é só falar com Leela.;Als je precies weet hoe het met Leela gaat, is dat zo.
+Preciso obter uma cópia da chave da cela do Príncipe, criar um disfarce para ele que o faça parecer com Keli e depois tirá-lo da prisão.;Als u precies een kopie van de cel van Principe wilt kopen, kunt u een verschil maken voor het feit dat u met Keli te maken krijgt en de prijs krijgt.
+Eu diria que é um bom resumo. Agora, você tem alguma pergunta para mim sobre alguma parte do plano?;Je weet dat het een bomvolle samenvatting is. Is het misschien een goed idee om een ​​deel van het plan te doen?
+Você deve ser Leela. Your father sent me to help rescue Prince Ali.;U hebt Leela ontmoet. Je vader heeft mij gestuurd om prins Ali te helpen redden.
+Could I buy a beer please?;Mag ik alsjeblieft een biertje kopen?
+Alguma ideia para o disfarce?;Wat is een idee voor een disfarce?
+Why are you called Longbow Ben?;Waarom heet jij Langboog Ben?
+Have you got any quests I could do?;Heb jij nog speurtochten die ik kan doen?
+Sure, that will be 2 gold coins please.;Natuurlijk, dat zijn twee gouden munten, alstublieft.
+Você ouviu algum boato aqui?;Heeft u ooit een boot gevonden?
+Sim, ele avisou que você viria. Você está ciente do plano?;Sim, u zult zien dat u viria bent. Is dit een plan?
+Estou procurando pelo Frank Barba Ruiva.;Het is de taak van Frank Barba Ruiva.
+Ok, aqui está.;Oké, het is zover.
+Você está de volta. Você já tem tudo o que precisa?;Het is een voltreffer. Bent u precies wat u zoekt?
+Não pense assim. Eu irei e me prepararei.;Geen pense assim. Eu irei e me prepararei.
+Arrr, amigo!;Arrr, amigo!
+Alguma idéia para a chave?;Alguma idee voor een chave?
+Bom trabalho. Agora, antes de libertar o Príncipe, você precisará encontrar uma maneira de lidar com sua guarda pessoal. Ele é falador, então tente encontrar um ponto fraco. Lembre-se, não queremos violência desnecessária.;Bom trabalho. Vroeger, vóór de vrijheid van Principe, zou je precies een manier van leven tegenkomen met je eigen bewaking. Het is een fout, en je komt een tegenvaller tegen. Er is geen onnodig geweld nodig.
+Tudo bem. Vou conversar com esse guarda.;Tudo bem. U converseert als bewaker.
+Eu tenho um pouco de cerveja aqui. Gosta de um?;Er is een kleine hoeveelheid water aanwezig. Gosta de ehm?
+O que?;O wat?
+Aqui, guarde isso para mais tarde. Detesto ver um guarda sedento.;Aqui, bewaking isso para mais tarde. Detesto ver um guarda sedento.
+Hello! I'm here to tie you up!;Hallo! Ik ben hier om je vast te binden!
+O que você queria ser quando era menino?;Wat is de vraag in dit tijdperk?
+Você gostaria de outra cerveja, meu amigo?;Wilt u meer weten over uw vriendschap, mijn vriend?
+O que você quer?;Wat is dat?
+Na verdade, não preciso de um agora.;Het is niet zo nauwkeurig als een geleden.
+Eu realmente quero.;Het is echt een vraag.
+Isso foi perfeito! Não posso agradecer o suficiente.;Isso foi perfeito! Het kan niet voldoende zijn.
+Aqui você vai. Que tal um esforço rápido? Nada mal, eu acho!;Dat is waar. Hoe snel gaat het? Nada mal, eu acho!
+Ah, isso seria adorável. Só um, só para molhar a garganta.;Ah, het is zo seria adorável. Zo eh, zo is het een garganta.
+Francamente! Essa lavagem é exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.;Frankeren! Deze lavage is extreem of nauwkeurig om te bewaken. Chega de cerveja, het is niet zo dat het goed gaat.
+Bem... esse é um pensamento interessante. Sim, acho que poderia fazer alguma coisa. Dê-me três novelos de lã e talvez eu consiga fazer isso.;Bem... deze is een interessante interessante. Sim, als je alguma coisa hebt. Er zijn veel nieuwe verhalen en verhalen over dit onderwerp.
+Ok, vou tentar.;Oké, oké.
+Ainda não. Eu irei e me prepararei.;En dat is niet zo. Eu irei e me prepararei.
+Eu os tenho aqui. Por favor, faça-me uma peruca.;Dat is waar. Por gunst, faça-me een peruca.
+Conte-me sobre a vida de um guarda.;Conte-me sobre a vida de um guarda.
+Obrigado Ned. Há mais em você do que aparenta.;Obrigado Ned. Het is meer wat u doet.
+Claro. Deve ser difícil estar aqui sem beber.;Claro. Het is moeilijk om dit te doen.
+É melhor não. Não quero ficar bêbado em serviço.;Het is leuk. U hoeft geen service te verlenen.
+Thank you, my friend. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.;Dank je, mijn vriend. Als ik eenmaal geleden heb, kan het zijn dat ik de pagina zo heb gemaakt.
+O príncipe Ali está em casa em segurança. Você tem a eterna gratidão do Emir por resgatar seu filho. Por favor, aceite este pagamento como um agradecimento.;De principes van Ali zijn thuis in de sector. U krijgt een eeuwige dankbaarheid voor de emir om zijn familie te redden. Als het goed is, is dit een verandering als een agradecimento.
+Pegue esse disfarce. Você pode usá-lo para passar pelos guardas do lado de fora.;Pegue esse disfarce. U kunt ons helpen om mensen op het forum te beschermen.
+Ah, graças a Deus! Qual é o seu plano?;Ah, graças a Deus! Wat is uw plan?
+Príncipe Ali? Estou aqui para resgatar você.;Principe Ali? Dit is wat u wilt weten.
+Bem, eu não descreveria isso como uma missão, mas há algo em que preciso de ajuda.;Omdat er geen beschrijving is van een misser, is het ook zo dat het nauwkeurig is.
+Saudações. Welcome to my castle.;Saudações. Welkom in mijn kasteel.
+A Ordem dos Magos da Torre dos Magos tem estado em busca de artefatos mágicos recentemente. Eu me pergunto se isso pode ser exatamente o tipo de coisa que eles procuram.;De Magische Orde van de Magische Toren is een recente magische kunstgeschiedenis geworden. Ik zou kunnen zeggen dat dit een exatamente of een soort probleem kan zijn dat u kunt krijgen.
+Muito obrigado. Você encontrará a Torre dos Feiticeiros a sudoeste daqui, do outro lado da ponte da Vila Draynor. Ao chegar, procure por Sedridor. Ele é o Arquimago dos magos de lá.;Veel obrigado. Als u de Torre dos Feiticeiros op een sudoeste manier tegenkomt, doe dan de ponte van Vila Draynor. Ao chegar, koop voor Sedridor. Ele o Arquimago dos magos de lá.
+Você estaria disposto a levá-los para mim?;Is het een goed idee om naar huis te gaan?
+Claro, não há problema.;Claro, er is geen probleem.
+Iniciar a missão Mistérios Rúnicos?;Wilt u Mistérios Rúnicos missen?
+Você tem alguma missão para mim?;Is dit een misser voor mij?
+O que é?;O wat?
+Onde posso encontrar dinheiro?;Is het mogelijk om uw mening te geven?
+Recentemente, estávamos vasculhando algumas coisas armazenadas no porão e encontramos este antigo talismã.;De laatste tijd zijn er steeds meer mensen die wapens gebruiken, maar die zijn anti-talisme.
+Primeira torre? Esqueceu minha essência? Do que você está falando?;Primeira Torre? Esqueceu minha essencia? Wat is het falando?
+Foi incendiado por membros traidores da nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.;Er is sprake van opruiing door leden van de traditie van onze eigen orde. Het is een kwaadaardige zaak, Zamorak, en het blijkt dat er ooit magische magie op zijn naam is verschenen.
+Bem-vindo, aventureiro, à mundialmente famosa Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Somos o grupo de bruxos mais antigo e prestigiado do mundo. Agora, como posso ajudá-lo?;Bem-vindo, aventureiro, een wereldbekende Torre dos Feiticeiros, is de volgorde van Feiticeiros. Sommige bruxosgroepen hebben meer antigoe en prestigiado in de wereld. Agora, como posso ajudá-lo?
+O processo de imbuir runas é chamado de criação de runas. Diz a lenda que esta já foi uma arte comum, mas os segredos de como fazê-la foram perdidos até pouco menos de duzentos anos atrás.;Het proces van het inademen van runa's is het huilen van runa's. Als u een lening aangaat die een kunstgezamenlijke kunst is, kunnen de mensen die dit doen, ook andere mensen tegenkomen.
+Sedridor? O que você quer com ele?;Sedridor? Wat is dat?
+O Duque de Lumbridge enviou-me para procurá-lo. Eu tenho esse talismã que ele encontrou. Ele disse que Sedridor estaria interessado nisso.;O Duque de Lumbridge benijdt mij om te kopen. Het is een talisme dat je onder controle hebt. Dit is wat Sedridor interessant vindt.
+Quando a torre pegou fogo, muita coisa foi perdida, incluindo um importante encantamento. Um feitiço que poderia ser usado para se teletransportar para uma mina de essência oculta.;Als de torre pegou mist, zal dit veel meer betekenen, inclusief een belangrijke encantamento. Het is een feit dat u gebruik kunt maken van teletransport naar een mina van essentiële occulte zaken.
+Quebra-cabeça?;Quebra-cabeça?
+De fato! O legado perdido da primeira torre. Este talismã pode de fato ser a chave para encontrar a minha essência esquecida!;De fato! O legado perdido da primeira torre. Dit talisme kan een ding zijn om een ​​kleine essentie te ontdekken!
+Vá em frente.;Ik ben van mening.
+Ok, aqui está você.;Oké, dit is wat je zegt.
+Desde que o encantamento foi perdido, temos lutado para manter nossos estoques de essência rúnica.;Omdat het een leuke bezigheid is, wordt het leuk om onze essentiële runica-estoques te gebruiken.
+Ah, minhas desculpas, aventureiro. Permita-me informá-lo.;Ah, minhas desculpas, aventureiro. Laat mij informeren.
+Precisamente. A essência rúnica é o material usado para fazer runas, mas é incrivelmente raro. Essa essência minha era o único lugar que nossa ordem conhecia.;Nauwkeurig. De essentie van het runnen is materiaal dat wordt gebruikt voor veel runas, maar het is zeer zeldzaam. Het is essentieel dat er een tijdperk is waarin we niet meer conhecia hebben.
+Essas runas são criadas a partir de um material altamente exclusivo e depois imbuídas de poder mágico de vários altares rúnicos. Altares diferentes criam runas diferentes com efeitos mágicos diferentes.;Deze runas zijn een stuk van een ander exclusief materiaal en bevatten de magische kracht van verschillende alternatieve runen. Er zijn verschillende soorten die verschillende soorten magie kunnen hebben.
+Na verdade, não estou interessado.;Er is geen belangstelling voor.
+A essência minha que você mencionou anteriormente, presumo?;Is het in essentie dat u vroeger dacht, vermoedelijk?
+Ele fez isso agora? Bem, entregue-o então e veremos o motivo de toda essa confusão.;Ele fez isso agora? Het is echter zo dat er een heleboel verwarring ontstaat.
+Não, só darei ao Sedridor.;Nee, zo durft Sedridor.
+Hmm... Não parece ser nada muito especial. Apenas um talismã de ar normal pela aparência das coisas. Ainda assim, as aparências enganam. Deixe-me dar uma olhada mais de perto...;Hmm... Het is niet bijzonder. Er is een normaal verschijnsel dat de coisas uitschakelt. Ainda assim, als aparências enganam. Deixe-me uma olhada mais de perto...
+A redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também resultou no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.;Een herdefinitie van de runas-crisis heeft een grote impact gehad op de wereld die het begin van het Quinta-tijdperk markeerde. Het resultaat is dat er geen nieuwe bestelling is geplaatst en de eerste Torre dos Feiticeiros is gebouwd.
+Se foi a primeira torre, suponho que não exista mais? O que aconteceu?;Is het de eerste keer dat u denkt dat er niet meer bestaat? Wat is de conteceu?
+Como você provavelmente sabe, quando lançamos feitiços, o fazemos usando o poder das runas.;Als u de waarheid wilt zeggen, kunt u de werkelijkheid gebruiken of uw runas gebruiken.
+Você é Sedridor?;Você é Sedridor?
+Que interessante... Parece que falei cedo demais. Há mais neste talismã do que aparenta. Na verdade, pode muito bem ser a última peça do quebra-cabeça.;Wat interessant is... Parece que falei cedo demais. Er zijn meer talisma die je ziet. Als het goed is, kan het heel goed zijn dat u de laatste tijd in de keuken zit.
+Sério agora? Eu sou o Arquimago que você conhece.;Serieus geleden? Eu sou o Arquimago que você conhece.
+Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.;Heeft u een bezoek gebracht aan mij? In deze periode is de ontwikkeling van een groot aantal talisma's.
+É fundamental que eu compartilhe esta descoberta com meu associado, Aubury, o mais rápido possível. Ele não é um grande mago, mas é um especialista em criação de runas e sua visão será essencial.;Het is fundamenteel dat u met mijn associatie, Aubury, een snellere vergelijking kunt maken. Hij is geen groot magiër, maar een specialist op het gebied van runas en zijn visie is essentieel.
+Sim, certamente.;Sim, zeker.
+Então o que acontece agora?;Wat is de agora?
+Teria sido levado muitas vezes à mina de essência, e as energias mágicas de lá terão deixado uma marca nele. E pensar que esteve escondido em Lumbridge todo esse tempo!;Het kan veel van de essentie afleiden, en de magische energie van het leven wordt een beetje groter. Ik denk dat dit in Lumbridge het juiste tempo is!
+Não me lembro de ter dito meu nome... Como você sabe disso?;Não me lembro de ter dito meu nome... Como você sabe disso?
+Estou começando a entender por que isso é tão importante. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?;Het is een idee dat dit zo belangrijk is. Wil je weten of dit talisme een herdecobrir kan zijn die je kunt betoveren?
+Aparentemente, há aqueles por aí que ainda sabem onde encontrar alguma, mas embora estivessem dispostos a vender-nos a essência, recusaram-se a partilhar conhecimentos sobre como encontrá-la nós próprios.;Blijkbaar zijn er mensen die op zoek zijn naar een uitdaging, maar het bedrijf heeft een essentiele verkoper gevonden, die een deel van de conhecimenten als een van zijn eigen eigendommen terugkrijgt.
+Eu faço! Toda magia deixa rastros e, pelo que sei, esse talismã foi muito usado na época da primeira torre.;Eu faço! Terwijl de magie zich uitbreidt, is het een talrijk fenomeen dat veel gebruikt wordt in de eerste periode van de torre.
+Não, estou ocupado.;Nee, het is bezet.
+Boa sorte, [PLAYER_NAME].;Zoek bijvoorbeeld naar [PLAYER_NAME].
+Ele dirige uma loja de runas no sudeste de Varrock. Por favor, leve este pacote de notas de pesquisa para ele. Se tudo correr bem, os segredos da minha essência poderão em breve ser nossos novamente!;Hij is een van de meest geliefde runnen van Varrock. Als het goed is, is het de moeite waard om nota's van pesquisa te nemen. Als u het goed vindt, is de scheiding van de essentie in korte tijd nieuw!
+Você quer dizer o encantamento?;Wilt u meer betoveren?
+Isso... isso é incrível.;Isso... het is verschrikkelijk.
+Eu adoraria uma xícara de chá.;Eu adoraria een xícara de chá.
+Você quer comprar algumas runas?;Wilt u algumas runas vergelijken?
+De Sedridor na Torre dos Feiticeiros.;De Sedridor op Torre dos Feiticeiros.
+Sim, por favor!;Sim, por gunst!
+Fui enviado aqui com um pacote para você.;Je vraagt ​​je af hoe het met je gaat.
+Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que poderíamos...;Ik denk dat er veel combinaties zijn van een onderzoek met de allerlaatste ontdekking, maar dat kan...
+Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graças a você, acho que finalmente conseguimos.;Ik ben blij met mijn avontuur door mijn nota's van pesquisa. Als je het zegt, moet je uiteindelijk conseguimos hebben.
+Antes de sair, por que não tomar uma xícara de chá?;Voordat u begint, is het niet de bedoeling dat u een xicara van dit jaar wordt?
+Não, não, estou me adiantando. The signs are promising, but let's not jump to any conclusions just yet.;Nee, nee, ik ben er klaar voor. De tekenen zijn veelbelovend, maar laten we nog geen conclusies trekken.
+Aqui, leve essas anotações para Sedridor. Esperançosamente, eles deveriam dar a ele tudo o que ele precisa.;Er zijn nog meer anotaçes voor Sedridor. In het bijzonder, het is een feit of het is precies wat het is.
+Agora, vamos dar uma olhada...;Agora, vamos dar uma olhada...
+Oh, é uma loja de runas. Não, obrigado, então.;Oh, je bent een runas-loper. Niet, obrigado, então.
+De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para ele ter enviado um estranho.;De Sedridor? Mas... certamente, ele não pode ter? Por gunst, deixe-me ficar com ele. Het is extreem belangrijk om een ​​ander te bereiken.
+Um pacote? De quem?;Ehm Pacote? Wat?
+Você pode me teletransportar para a Mina de Essência Rúnica?;Kunt u mij teletransporteren naar de Mina van de Rúnica-essentie?
+Este é o seu livro de feitiços, contém todos os feitiços que você pode lançar. Para lançar um feitiço, você precisará ter o nível de magia necessário e a quantidade certa de runas usadas para lançar o feitiço.;Het is een feit dat u alle feiten kunt begrijpen die u kunt bereiken. Voor een feit is het nauwkeuriger wat de magie nodig heeft en een bepaald aantal gebruiksgegevens voor het gebruik van feiten.
+O prazer é meu!;O prazeré meu!
+When you have a combat spell available, click on it once, then select your target. A good target would be a monster that is below your combat level.;Als je een gevechtsspreuk tot je beschikking hebt, klik je er één keer op en selecteer je doelwit. Een goed doelwit zou een monster zijn dat zich onder jouw gevechtsniveau bevindt.
+Conte-me sobre o combate mágico, por favor.;Conte-me sobre o fighte mágico, por gunst.
+Também compartilharei o encantamento com outras pessoas, incluindo Aubury. Quando eu fizer isso, avisarei que você terá acesso ilimitado à mina.;Je kunt een deel van de magie delen met andere mensen, inclusief Aubury. Wanneer u dit doet, kunt u verwachten dat u onbeperkt toegang krijgt.
+Olá aventureiro, sou o tutor de combate mágico. Você gostaria de aprender sobre combate mágico ou talvez como fazer runas?;Onze avonturier is jouw leraar in de strijd tegen magie. Wilt u een magische strijd aangaan of als andere runa's praten?
+Há algumas coisas que você precisará para fazer runas, essência rúnica e um talismã para entrar nas ruínas do templo.;Er zijn altijd mensen die nauwkeurig zijn voor de meeste runa's, essentiële runa en een talisme om de ruïnes van de tijd binnen te komen.
+Se você quiser acessar a minha essência por conta própria, é só me avisar. É o mínimo que posso fazer.;Als u meer wilt weten over de essentie van uw eigendom, dan is dit mijn adviseur. Het is maar een klein beetje dat het kan gebeuren.
+Caso você não saiba, o talismã pode ser usado para criar runas aéreas. Basta levá-lo para o Altar Aéreo ao sul de Falador junto com um pouco de essência rúnica.;Het is niet zo dat een talisme kan worden gebruikt om de lucht te laten draaien. Basta leve-lo para o Altar Aéreo en de Falador-junto met een pouco de essentie runnica.
+Então você poderá acessar essa minha essência agora?;Is het mogelijk dat u deze essentiële agora kunt gebruiken?
+Vamos discutir como minhas runas agem quando eu as pego.;U kunt dit bespreken als u ouder wordt dan u als pego.
+If you want to save yourself an inventory space, you could always try binding the talisman to a tiara.;Als je een inventarisruimte wilt besparen, kun je altijd proberen de talisman aan een tiara te binden.
+Como faço runas?;Is dit een runa?
+When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes.;Wanneer je het verwoeste altaar vindt, gebruik je de talisman erop om naar een tempel te worden getransporteerd waar je je runen kunt maken.
+Nemarti, the Ranged Combat tutor and I both give out items every 30 minutes, however you must choose whether you want runes or ranged equipment.;Nemarti, de Ranged Combat-leraar en ik delen allebei elke 30 minuten items uit, maar je moet kiezen of je runen of afstandsuitrusting wilt.
+Sim, eu tenho. Ele me deu algumas notas para entregar a você.;Sim, eu tenho. Ik denk dat u niet weet wat u wilt doen.
+Quem mais conhece o teletransporte para a Mina de Essência Rúnica?;Wilt u meer teletransport naar de Mina de Essência Rúnica?
+Try rats in the castle or, if you're feeling brave, the goblins to the west have been causing a nuisance of themselves.;Probeer ratten in het kasteel of, als je moedig bent, de goblins in het westen hebben zichzelf overlast veroorzaakt.
+Clicking on the temple's altar will imbue your rune essence with the altar's magical property.;Als je op het altaar van de tempel klikt, wordt je runenessence doordrenkt met de magische eigenschap van het altaar.
+To make one, take a tiara and talisman to the ruins and use the tiara on the temple altar. This will bind the talisman to your tiara.;Om er een te maken, neem je een tiara en een talisman mee naar de ruïnes en gebruik je de tiara op het tempelaltaar. Hierdoor wordt de talisman aan je tiara gebonden.
+You will need a talisman for the rune you would like to create. You can right-click on it and select the Locate option. This will tell you the rough location of the altar.;Je hebt een talisman nodig voor de rune die je wilt maken. U kunt er met de rechtermuisknop op klikken en de optie Lokaliseren selecteren. Dit zal je de ruwe locatie van het altaar vertellen.
+To claim runes, right-click on me and choose Claim, to claim ranged equipment right-click on the Ranged Combat tutor and select Claim.;Om runen te claimen, klikt u met de rechtermuisknop op mij en kiest u Claim. Om afstandsuitrusting te claimen klikt u met de rechtermuisknop op de Ranged Combat-leraar en selecteert u Claim.
+Não se preocupe se não conseguir encontrar o altar. O talismã pode guiá-lo até lá. Você também pode encontrar talismãs para outros altares enquanto se aventura. Eles permitirão que você crie outros tipos de runas.;U hoeft zich niet bezig te houden met het zoeken naar een altaar. O talismå pode guiá-lo até lá. U kunt tal van talisma's tegenkomen om andere avonturen te beleven. Het is mogelijk dat u uw runas-tip wilt uitroepen.
+Ah, [PLAYER_NAME]. How goes your quest? Have you delivered my research to Aubury yet?;Ah, [PLAYER_NAME]. Hoe gaat jouw zoektocht? Heb je mijn onderzoek al aan Aubury afgeleverd?
+Maravilhoso! Vamos dar uma olhada então.;Maravilhoso! Er is een heleboel dingen gebeurd.
+Ótimo! Obrigado!;Ótimo! Verplicht!
+Isso mesmo! Por sua causa, nossa ordem finalmente tem uma fonte adequada de essência rúnica novamente! Obrigado, amigo.;Isso mesmo! Omdat het zo is, moet u uiteindelijk een passende bron van essentiële vernieuwing vinden! Obrigado, amigo.
+Sim, é isso! O encantamento perdido!;Sim, dat is zo! O encantamento perdido!
+As you're fairly new to runecrafting you should start with air runes and mind runes.;Omdat je vrij nieuw bent met runecrafting, zou je moeten beginnen met air runes en mind runes.
+Há mais alguma coisa que você gostaria de saber?;Is het meer waar dat u de sabel wilt gebruiken?
+Não posso ajudá-lo com isso no momento, desculpe.;Het kan niet zo zijn dat u desculpe.
+If you have the right amount of runes and the magic level the spell will light up, meaning you will be able to cast it.;Als je de juiste hoeveelheid runen en het magische niveau hebt, zal de spreuk oplichten, wat betekent dat je hem kunt uitspreken.
+To check the level and runes required to cast a spell, hover your mouse cursor over the spell.;Om het niveau en de runen te controleren die nodig zijn om een ​​spreuk uit te spreken, beweegt u uw muiscursor over de spreuk.
+Você poderia me contar sobre a antiga Torre dos Feiticeiros?;Kunt u mij vertellen over de Torre dos Feiticeiros?
+To get rune essence you will need to gather them somehow. You should talk to the Duke of Lumbridge, he may be able to help you with that. Alternatively, other players may sell you the essence.;Om rune-essence te krijgen, moet je ze op de een of andere manier verzamelen. U moet met de hertog van Lumbridge praten, hij kan u daar misschien mee helpen. Als alternatief kunnen andere spelers je de essentie verkopen.
+Ah, e você também pode ter esse talismã aéreo de volta. Não preciso mais dele e tenho certeza de que será útil para você.;Ah, je zou kunnen zeggen dat het een voltaisme is. Het is niet nauwkeuriger en zekerer dat het nuttig is om te spreken.
+Tudo bem, vamos ver o que Aubury tem para nós...;Het is duidelijk dat Aubury te maken heeft met...
+Eu vou tentar.;Eu je tentar.
+O mago Grayzag da casa ao lado decidiu que não gostava de mim, então alistou um exército de centenas de diabinhos.;O mago Grayzag van huis heeft besloten dat hij niet meer wil gaan leven, en hij zal een inspanning van honderd jaar diabinisme gaan doen.
+Esses diabinhos roubaram todo tipo de coisas minhas. A maioria dessas coisas eu realmente não me importo, apenas ovos e bolas de barbante e coisas assim.;Esses diabinhos robaram todo tipo de coisas minhas. Een groot deel van de zaken die ik echt niet belangrijk vind, is dat er steeds meer geld en geld in zit.
+Isso é ótimo, obrigado.;Het is zo, obrigado.
+Iniciar a missão Imp Catcher?;Een missie Imp Catcher starten?
+Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minhas contas de volta para mim?;Deze diabinhos kunnen zich richten op de dingen die ze doen. Zou u uw mening kunnen geven over de volta voor mij?
+Bem, visto que você pediu com educação... preciso de ajuda.;Bem, visto que você pediu com educação... precieze de ajuda.
+Mas eles roubaram minhas quatro contas mágicas. Havia um vermelho, um amarelo, um preto e um branco.;Deze robaram is quatro met magie. Je hebt een vermelho, een amarelo, een preto en een branco.
+Ah, so you are there, Master [PLAYER_NAME]. I'm so glad you summoned me. Please take this lamp and make your wish.;Ah, u bent er dus, meester [PLAYER_NAME]. Ik ben zo blij dat je mij hebt opgeroepen. Neem alsjeblieft deze lamp en doe je wens.
+T-hee! Você nunca ordenhou uma vaca antes, não é?;U! Als u een vakantie wilt doorbrengen, is dat niet zo?
+Como faço para usar o banco?;Wil je een bank gebruiken?
+Greetings friend. I am a manufacturer of leather.;Gegroet vriend. Ik ben een fabrikant van leer.
+I see you have brought me some hides. Would you like me to tan them for you?;Ik zie dat je wat huiden voor me hebt meegebracht. Wil je dat ik ze voor je bruin?
+Onde e o que devo pescar?;Wat is de vraag waar u mee te maken krijgt?
+Ahoy, to fish, you click on the shrimp fishin' spot while ye'r carrying a net.;Ahoy, om te vissen klik je op de garnalenvisplek terwijl je een net bij je hebt.
+Você pode me ensinar o básico da pesca, por favor?;Kunt u mij de basis van het pesca geven, ten gunste van mij?
+Conte-me sobre diferentes peixes.;Conte-me sobre verschillende peixes.
+I see... is that it?;Ik zie het... is dat het?
+Ah, you've lost your net have you? Have another!;Ah, je bent je net kwijt, hè? Neem er nog een!
+About Will and Anne...;Over Will en Anne...
+Shiver me timbers! I'm afraid not. Old Grog said he might try and track them down. Perhaps he has an idea of where to find them.;Huiver mij hout! Ik ben bang van niet. Old Grog zei dat hij misschien zou proberen ze op te sporen. Misschien heeft hij een idee waar hij ze kan vinden.
+OlÃ¡!;OlÃ¡!
+I'm looking for an adventure! This place is meant to be the perfect place to find one for a budding pirate like me!;Ik ben op zoek naar een avontuur! Deze plek is bedoeld als de perfecte plek om er een te vinden voor een beginnende piraat zoals ik!
+What exactly is this one rule you keep mentioning?;Wat is precies die ene regel die je steeds noemt?
+What are you waiting here for?;Waar wacht je hier op?
+[2] About Will and Anne...;[2] Over Will en Anne...
+Ada! Nice to meet you!;Ada! Aangenaam!
+Will and Anne threw me overboard and I washed up here. I did mention this earlier...;Will en Anne gooiden mij overboord en ik spoelde hier aan. Ik heb dit al eerder vermeld...
+Nada, obrigado.;Nada, obrigado.
+But I don't have a vessel...;Maar ik heb geen schip...
+Those plundering seadogs! Did you speak to Ribs about them?;Die plunderende zeehonden! Heb je er met Ribs over gesproken?
+I did. He seems to think they might have unleashed some sort of curse.;Dat deed ik. Hij lijkt te denken dat ze misschien een soort vloek hebben losgelaten.
+And where would I find Old Grog?;En waar zou ik Old Grog kunnen vinden?
+Blistering barnacles! Well, you won't be getting far without a boat of your own. You should head to the docks and speak with Junior Jim, our local shipwright. He'll get you sorted out.;Blazende zeepokken! Nou, zonder eigen boot kom je niet ver. Ga naar de haven en spreek met Junior Jim, onze plaatselijke scheepsbouwer. Hij regelt het voor je.
+Jolly Roger!;Heel Rogier!
+Alright, I'll go and see him.;Oké, ik ga naar hem toe.
+Ah, the curse of Barnacle Barnaby! It's one of Ribs' favourite tales. Just a myth of course, but the old dog does love his stories.;Ah, de vloek van Barnacle Barnaby! Het is een van Ribs' favoriete verhalen. Gewoon een mythe natuurlijk, maar de oude hond houdt wel van zijn verhalen.
+What? But then how did you get here?;Wat? Maar hoe ben je hier terecht gekomen?
+OlÃ¡. Quem Ã© vocÃª?;OlÃ¡. Quem Ã© vocÃª?
+Vamos ver o que vocÃª tem.;Vamos ver o que vocÃª tem.
+Yo ho ho! A mighty good decision! It's a generous bounty indeed. You don't go breaking the one rule of the Pandemonium and expect to get away with it!;Yo ho ho! Een geweldig goede beslissing! Het is inderdaad een royale premie. Je overtreedt niet de enige regel van het Pandemonium en verwacht ermee weg te komen!
+Well, myths aside, Ribs mentioned you'd put a bounty out for Will and Anne. I'd be quite keen to track them down myself.;Afgezien van de mythes zei Ribs dat je een premie uitdeelde voor Will en Anne. Ik zou ze heel graag zelf willen opsporen.
+Ah, the old scallywag left not that long ago, but he'll be back here before long. He enjoys a drink far too much! In the meantime, you should hoist the sails and ready your vessel!;Ah, de oude rakker is nog niet zo lang geleden vertrokken, maar hij zal binnenkort weer hier zijn. Hij houdt veel te veel van een drankje! Ondertussen moet u de zeilen hijsen en uw schip gereed maken!
+Yarr! What will it be?;Yarr! Wat zal het zijn?
+Do you have any idea where Will and Anne might have gone?;Heb je enig idee waar Will en Anne naartoe zijn gegaan?
