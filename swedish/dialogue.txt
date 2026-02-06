@@ -54039,3 +54039,775 @@ Get ho is offering to give you a bond.;Get ho erbjuder sig att ge dig en obligat
 Accept it.;Acceptera det.
 Decline it.;Avböja det.
 ... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.;... kun Snowflake ja My Arm asuvat onnellisina yhdessÃ¤ WeississÃ¤.
+Until then, back to whence you came!;Tills dess, tillbaka till där du kom!
+How? What do you have to offer?;Hur? Vad har du att erbjuda?
+Hmm... I see. That makes this slightly more complex, but no matter. You can still help us.;Hmm... jag förstår. Det gör det här lite mer komplicerat, men oavsett. Du kan fortfarande hjälpa oss.
+What? Then how do you get there.;Vad? Hur kommer du dit då.
+Ah, you again. The Wilderness is hardly the appropriate place for a conversation now, is it? What was it you wanted?;Ah, du igen. Vildmarken är väl knappast den lämpliga platsen för ett samtal nu? Vad var det du ville ha?
+So why did you approach me?;Så varför närmade du mig?
+Until recently, our runecrafting secrets allowed us to produce runes at a far superior rate compared to the inept Order of Wizards, but something has changed.;Tills nyligen tillät våra runecrafting-hemligheter oss att producera runor i en vida överlägsen hastighet jämfört med den odugliga Order of Wizards, men något har förändrats.
+Err... I didn't really want anything.;Err... Jag ville egentligen ingenting.
+I was conducting business.;Jag drev affärer.
+I can't imagine they like you crafting runes much. Do they not try and stop you?;Jag kan inte föreställa mig att de gillar att du skapar runor. Försöker de inte stoppa dig?
+I'll give you a scrying orb with a standard cypher spell cast upon it. The orb will absorb mystical energies that it is exposed to.;Jag ska ge dig en skriande klot med en vanlig cypher-trollformel på den. Orben kommer att absorbera mystiska energier som den utsätts för.
+What business?;Vilken verksamhet?
+Ha! I'm sure they'd love to, but we have methods of runecrafting that they can only dream of!;ha! Jag är säker på att de skulle älska det, men vi har metoder för runecrafting som de bara kan drömma om!
+Good. Now, all I need from you is the spell that will teleport me to the Rune Essence Mine.;Bra. Nu, allt jag behöver från dig är besvärjelsen som kommer att teleportera mig till Rune Essence Mine.
+I was just wondering what you were doing.;Jag undrade bara vad du gjorde.
+Maybe I could make it worth your while?;Kanske kan jag göra det värt mödan?
+In the Wilderness? Why?;I vildmarken? Varför?
+My associates and I. Despite the best attempts of the Saradominists, there's still more of us around than they'd like.;Mina medarbetare och jag. Trots Saradoministernas bästa försök är vi fortfarande fler än de skulle vilja.
+If you teleport to the Rune Essence Mine from three different locations, the orb will absorb the energies of the spell and allow us to reverse-engineer the magic behind it.;Om du teleporterar till Rune Essence Mine från tre olika platser, kommer klotet att absorbera besvärjelsens energier och tillåta oss att bakåtkonstruera magin bakom den.
+Well what is it you want?;Vad är det du vill?
+Err... I don't actually know the spell.;Err... Jag kan faktiskt inte besvärjelsen.
+Why would I? You are not a member of our institute. How do I know you won't just go and share all of our secrets with those Saradominist fools in the Order of Wizards.;Varför skulle jag? Du är inte medlem i vårt institut. Hur vet jag att du inte bara kommer att gå och dela alla våra hemligheter med de där saradoministiska dårarna i Trollkarlarnas Orden.
+If you want to talk, this isn't the place for it. Meet me in Varrock's Chaos Temple, by the rune shop. Unless you're here to buy something?;Om du vill prata är det inte här platsen för det. Möt mig i Varrocks Chaos Temple, vid runbutiken. Om du inte är här för att köpa något?
+Well I can't go doing it in the middle of Varrock, can I? In case you hadn't noticed, I'm a servant of Zamorak. The Saradominists have made sure that people like me are not welcome in these parts.;Jag kan väl inte göra det mitt i Varrock? Om du inte hade märkt det, jag är Zamoraks tjänare. Saradoministerna har sett till att sådana som jag inte är välkomna i dessa delar.
+Alright, I'll go.;Okej, jag går.
+You did? Perhaps I underestimated you.;Gjorde du det? Jag kanske underskattade dig.
+I sell runes.;Jag säljer runor.
+Ah, well I know all about that. I was actually the one to help them do it!;Ah, jag vet allt om det. Det var faktiskt jag som hjälpte dem att göra det!
+Where do you get your runes from?;Var får du dina runor ifrån?
+Well if not, I'm sure one of those fools in the Order of Wizards can tell you. Now, here's the orb.;Om inte, är jag säker på att en av de dåren i Trollkarlsorden kan berätta för dig. Nu, här är klotet.
+Care to share?;Vill du dela?
+You did what? You helped the Order of Wizards?;Vad gjorde du? Hjälpte du Trollkarlsorden?
+Deal.;Handla.
+Well we craft them of course.;Jo, vi tillverkar dem såklart.
+From what we can gather, they've somehow rediscovered how to access the lost Rune Essence Mine.;Vad vi kan ta reda på har de på något sätt återupptäckt hur man kommer åt den förlorade Rune Essence Mine.
+Alright, if you help us access the Rune Essence Mine, we will share our runecrafting secrets with you in return.;Okej, om du hjälper oss att komma åt Rune Essence Mine kommer vi att dela våra runecrafting-hemligheter med dig i gengäld.
+I did it so that I could then steal their secrets.;Jag gjorde det så att jag sedan kunde stjäla deras hemligheter.
+Oh, well the people who do know the spell just teleport me there directly.;Åh, de som kan besvärjelsen teleporterar mig bara dit direkt.
+The reason we are able to craft so many runes is because we do not visit the runic altars in the traditional way. Instead, we have found a way to teleport to them directly.;Anledningen till att vi kan tillverka så många runor är för att vi inte besöker runaltaren på traditionellt sätt. Istället har vi hittat ett sätt att teleportera till dem direkt.
+Anyway, you may also have this pouch as well. I'm sure you will find it useful. Now, we're done here.;Hur som helst, du kanske också har den här påsen. Jag är säker på att du kommer att ha nytta av det. Nu är vi klara här.
+So can I use the Abyss?;Så kan jag använda Abyss?
+Yes. Visit me in the Wilderness whenever you wish to be teleported there. Just be careful, for it is a dangerous place. Still, I'm sure you'll agree that the risk is worth the reward.;Ja. Besök mig i vildmarken närhelst du vill bli teleporterad dit. Var bara försiktig, för det är en farlig plats. Ändå är jag säker på att du håller med om att risken är värd belöningen.
+How is it dangerous?;Hur är det farligt?
+You again. Have you managed to use that scrying orb to obtain the information I need?;Du igen. Har du lyckats använda den där skriande kulan för att få den information jag behöver?
+Right, let's take a look at this orb...;Okej, låt oss ta en titt på den här kulan...
+Via another plane known as the Abyss. It is a complex place that cannot be easily explained, but I will share our research notes with you so you may better understand it.;Via ett annat plan känt som Abyss. Det är en komplex plats som inte lätt kan förklaras, men jag kommer att dela våra forskningsanteckningar med dig så att du kan förstå det bättre.
+Just don't expect to be using any prayers in there.;Räkna bara inte med att använda några böner där inne.
+Yes, this will do nicely. Once again, the Zamorak Magical Institute has overcome the Order of Wizards!;Ja, det här kommer att gå bra. Återigen har Zamoraks magiska institut övervunnit trollkarlarnas orden!
+There are creatures there that will hunt and attack any visitors on sight. The magic we use for teleporting there can also be a bit... unstable.;Det finns varelser där som kommer att jaga och attackera alla besökare som syns. Magin vi använder för att teleportera där kan också vara lite... instabil.
+Sure, here you go...;Visst, varsågod...
+Certainly, guv. That'll be 50 coins, please.;Visst, guv. Det blir 50 mynt, tack.
+<col=000080>Try not to think about it.;<col=000080>Försök att inte tänka på det.
+<col=000080>Can you hear me?;<col=000080>Hör du mig?
+<col=000080>I'm no ghost! I'm a spirit, I'm injecting my thoughts <col=000080>into your head.;<col=000080>Jag är inget spöke! Jag är en ande, jag sprutar in mina tankar <col=000080>i ditt huvud.
+Oh, that's... interesting. Also rather disturbing...;Åh, det är... intressant. Också ganska störande...
+... I can, but I'm not wearing an amulet of ghostspeak... A-am I dead?;... Jag kan, men jag har inte på mig en amulett av spöktal... A-är jag död?
+This armour is a symbol of your exploration of Varrock. You now have a 10% chance of mining two ores at once up to coal and a 10% chance of smelting 2 bars at once up to steel, when using the Edgeville;Denna rustning är en symbol för din utforskning av Varrock. Du har nu 10 % chans att bryta två malmer samtidigt upp till kol och 10 % chans att smälta 2 stång samtidigt upp till stål när du använder Edgeville
+furnace. Zaff will stock 15 Battlestaves per day.;ugn. Zaff kommer att lagra 15 Battlestaves per dag.
+If you ever lose your armour, come back to me to reclaim it.;Om du någonsin förlorar din rustning, kom tillbaka till mig för att återta den.
+I've completed all of the easy tasks in my Varrock Achievement Diary!;Jag har slutfört alla enkla uppgifter i min Varrock Achievement Diary!
+You've spent 2 days, 8 hours, 24 minutes in the world since you arrived 755 days ago.;Du har tillbringat 2 dagar, 8 timmar och 24 minuter i världen sedan du anlände för 755 dagar sedan.
+I've completed all of the easy tasks in my Lumbridge & Draynor Achievement Diary!;Jag har slutfört alla enkla uppgifter i min Lumbridge & Draynor Achievement Diary!
+This ring is a symbol of your exploration of Lumbridge and Draynor. It can recharge half of your run energy twice per day and cast low level alchemy without runes 30 times per day.;Den här ringen är en symbol för din utforskning av Lumbridge och Draynor. Den kan ladda hälften av din löpenergi två gånger per dag och kasta lågnivåalkemi utan runor 30 gånger per dag.
+If you ever lose your ring, come back to me to reclaim it.;Om du någon gång förlorar din ring, kom tillbaka till mig för att ta tillbaka den.
+Anteeksi, minulla on kiire.;Anteeksi, minulla på kiire.
+Okei, autan fasaanien kanssa.;Okei, autan fasaanien kanssa.
+Hey, [PLAYER_NAME], can you come and help me with some pheasants?;Hej, [PLAYER_NAME], kan du komma och hjälpa mig med några fasaner?
+MitÃ¤ haluaisit sanoa?;Mitä haluaisit sanoa?
+Saat lampun avustasi, kiitos paljon!;Saat lampun avustasi, kiitos paljon!
+Hey there, [PLAYER_NAME]. I need you to kill a pheasant that has 3 tails. Bring me the raw pheasant when you're done.;Hej där, [PLAYER_NAME]. Jag vill att du dödar en fasan som har tre svansar. Ge mig den råa fasanen när du är klar.
+Thanks, [PLAYER_NAME], you may use the portal to leave the area now.;Tack, [PLAYER_NAME], du kan använda portalen för att lämna området nu.
+Welcome! Would you like to go into the Dig Site archaeology cleaning area?;Välkomna! Vill du gå in på gravplatsens arkeologiska städområde?
+Greetings! Have you come to give us a hand?;Hälsningar! Har du kommit för att ge oss en hand?
+Oh? Let's take a look...;Åh? Låt oss ta en titt...
+Sounds like you never had it!;Låter som att du aldrig haft det!
+I found something interesting.;Jag hittade något intressant.
+Err... I seem to have lost it. Sorry.;Err... Jag verkar ha tappat det. Ledsen.
+Take cleaning kit?;Ta städsats?
+Zarosians before Saradominists.;Zarosianer före Saradominister.
+Interesting...yes...yes...hmmm.... It looks like it's enchanted.;Intressant...ja...ja...hmmm.... Det ser ut som att det är förtrollat.
+Hmm...all the indications are that it's somewhere to the east of us, but I'm not sure how far. Perhaps it was a teleport back to Saranthium. Let me just take a closer look.;Hmm...allt tyder på att det är någonstans öster om oss, men jag är inte säker på hur långt. Kanske var det en teleport tillbaka till Saranthium. Låt mig ta en närmare titt.
+Case 22 it is!;Fall 22 är det!
+Oh, I think it's just a benign teleportation spell. I tinker in magic when I'm not doing archaeology. I can teach you how to make more necklaces like this. Amazing that they had this kind of knowledge back then.;Åh, jag tror att det bara är en godartad teleporteringstrollformel. Jag pysslar med magi när jag inte håller på med arkeologi. Jag kan lära dig hur man gör fler sådana här halsband. Fantastiskt att de hade den här typen av kunskap då.
+I found this piece of pottery - is it of any use?;Jag hittade den här keramikbiten - är den till någon nytta?
+Ahh... Oh! Hmm...yes...made by Zaros worshippers, by the looks of it. Beautifully-shaped. It looks as if this would go nicely in display case 22. This piece reinforces our evidence that the city was occupied by;Ahh... Åh! Hmm...ja...gjord av Zaros-dyrkare, av utseendet. Vackert formad. Det ser ut som om detta skulle gå bra i monter 22. Denna pjäs förstärker våra bevis på att staden var ockuperad av
+So I just make a ruby necklace and use five fire runes and one cosmic rune to enchant it.;Så jag gör bara ett rubinhalsband och använder fem eldrunor och en kosmisk runa för att förtrolla det.
+Yes, indeed. Well done, youngster, thanks for helping us.;Ja, verkligen. Bra jobbat, unge, tack för att du hjälpte oss.
+That would be good. Where is the teleport to?;Det skulle vara bra. Var går teleporten till?
+I found this pretty necklace.;Jag hittade det här fina halsbandet.
+Welcome to the Guild of Master Craftsmen.;Välkommen till Guild of Craftsmen.
+Err ... Ook?;Err ... Också?
+Let's put you back in your cage where you belong...;Låt oss sätta dig tillbaka i din bur där du hör hemma...
+Ook Ook!;Och och!
+No, I only have space for one.;Nej, jag har bara plats för en.
+Ook!;Och!
+That's nice. Are you ready to go?;Det är trevligt. Är du redo att gå?
+Yes. Actually, can I bring some of my friends?;Ja. Kan jag faktiskt ta med några av mina vänner?
+Pretty pleeeeease?;Ganska pleeeeease?
+I must be imagining things ... monkeys can't talk.;Jag måste inbilla mig saker... apor kan inte prata.
+Hello there, little monkey.;Hej där, lilla apa.
+Where will you be taking me?;Vart tar du mig?
+What??;Vad??
+That's convenient. When would you like to leave?;Det är bekvämt. När skulle du vilja lämna?
+How would you like to get out of here?;Hur skulle du vilja komma härifrån?
+Erm ... to the happy, sunny jungle of Karamja...;Ehm... till Karamjas glada, soliga djungel...
+Escape!? It's all I ever think about!;Fly!? Det är allt jag någonsin tänker på!
+Pleeeeease?;Snälla?
+Why do you monkeys keep trying to escape? Good thing I've caught you before you got away, you little scoundrel.;Varför försöker ni apor att fly? Tur att jag har fångat dig innan du kom iväg, din lilla skurk.
+Wowee! I was born there you know!;Wowee! Jag föddes där vet du!
+Look, I already said no. If you want to come then jump into my backpack.;Jag har redan sagt nej. Om du vill komma så hoppa i min ryggsäck.
+Well, don't worry. We'll have you out of there shortly.;Tja, oroa dig inte. Vi tar dig därifrån inom kort.
+I'm hungry!;Jag är hungrig!
+I ... er ... I don't know! One minute I was asleep, and the next minute I was here surrounded by monkeys!;Jag ... eh ... jag vet inte! Ena minuten låg jag och sov, och nästa minut var jag här omgiven av apor!
+My word - what are you doing in there?;Mitt ord - vad gör du där inne?
+Yeah I'm fearless!;Ja, jag är orädd!
+No way, that looks scary!;Nej, det ser läskigt ut!
+DesÃ§a as escadas.;DesÃ§a as escadas.
+Suba as escadas.;Suba som escadas.
+Subir ou descer escadas?;Subir eller descer escadas?
+O que vocÃª estÃ¡ fazendo na minha terra?;O que vocÃª estÃ¡ fazendo na minha terra?
+Preciso conversar com vocÃª sobre a tosquia dessas ovelhas!;Preciso conversar com vocÃª sobre a tosquia theses ovelhas!
+Would you like to spend 45 slayer points to select any non-boss specific slayer task?;Skulle du vilja spendera 45 slayer-poäng för att välja en icke-chefsspecifik slayer-uppgift?
+OlÃ¡.;Olá.
+Como posso treinar minha ferraria?;Como posso treinar minha ferraria?
+Bem conhecido! VocÃª estÃ¡ interessado em ouvir sobre a arte da ferraria?;Bem conhecido! Är du intresserad av att se en arte da ferraria?
+Agora nÃ£o, obrigado.;Agora nÃ£o, ​​obrigado.
+Que tipo de coisas posso forjar?;Que tipo de coisas posso forjar?
+Parece fÃ¡cil para mim.;Parece fÃ¡cil para mim.
+Preciso que vocÃª vÃ¡ atÃ© a porta ao lado e use a garra para pegar minha irmÃ£.;Preciso que vocÃª vÃ¡ atÃ© a porta ao lado e use a garra para pegar minha irmÃ£.
+One more thing to make your life difficult; the magic powering the claw is running low so you'll only have two attempts to catch her.;En sak till för att göra ditt liv svårt; magin som driver klon börjar ta slut så du har bara två försök att fånga henne.
+Come next door and talk to me.;Kom bredvid och prata med mig.
+Diga a ela para se empanturrar.;Diga a ela para se empanturrar.
+Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!;Bom trabalho! VocÃª conseguiu pegar minha irmÃ£!
+FantÃ¡stico! For so many years I've had to put up with her and now she's locked up for good.;Fantastiskt! I så många år har jag fått stå ut med henne och nu är hon inlåst för gott.
+I lured my sister into the room so I could imprison her in the cage by using the claw. The problem is my sister managed to herd some innocent civilians in there with her.;Jag lockade in min syster i rummet så att jag kunde fängsla henne i buren genom att använda klon. Problemet är att min syster lyckades valla några oskyldiga civila där med henne.
+Ok, quando vocÃª ligar a mÃ¡quina vocÃª verÃ¡ a marca brilhante no chÃ£o onde a garra estÃ¡ apontando, e vocÃª verÃ¡ uma alavanca e um botÃ£o no lado direito da tela.;Ok, quando vocÃª ligar a mÃ¡quina vocÃª verÃ¡ a marca brilhante no chÃ£o onde a garra estÃ¡ apontando, e vocÃª verÃ¡ uma alavanca e um botÃ£o no lado direito da tela.
+EntÃ£o, o que vocÃª precisa que eu faÃ§a?;EntÃ£o, o que vocÃª precisa que eu faÃ§a?
+Que bom que vocÃª perguntou!;Que bom que vocÃª perguntou!
+Thank you for all your help.  Take this as a reward.;Tack för all hjälp.  Ta detta som en belöning.
+Obrigado por ter vindo!;Obrigado por ter vindo!
+Sim, por favor. Quer dizer, Ã© sempre melhor estar preparado, certo?;Sim, tack. Quer dizer, Ã© semper melhor estar preparado, certo?
+Do be careful and make sure that there is someone on the mark, and not just walking past it.;Var försiktig och se till att det finns någon på märket, och inte bara gå förbi den.
+To move the claw's current location, click on the direction you want it to move in, as indicated on the right hand panel.;För att flytta klornas aktuella plats, klicka på den riktning du vill att den ska röra sig i, som visas på den högra panelen.
+Does that help?;Hjälper det?
+When you see someone on top of the glowing mark, then hit the button on the right hand panel, as this will send the claw down to pick them up.;När du ser någon på toppen av det glödande märket, tryck sedan på knappen på den högra panelen, eftersom detta kommer att skicka ner klon för att plocka upp dem.
+Oh, and make sure that the person is my sister, so you don't end up catching a random civilian.;Åh, och se till att personen är min syster, så att du inte får tag på en slumpmässig civilist.
+You'll know which way the claw will go as the lever will point that way to show you.;Du kommer att veta vilken väg klon kommer att gå eftersom spaken pekar åt det hållet för att visa dig.
+Eu quero ir embora.;Eu quero ir embora.
+Ã‰ minha irmÃ£ gÃªmea malvada! Ela estÃ¡ tagarelando em torno de Guilenor cometendo crimes e agora estou levando a culpa!;Ã‰ minha irmÃ£ gÃªmea malvada! Ela está tagarelando em Torno de Guilenor cometendo crimes e agora estou levando a culpa!
+Once she's in prison, she won't be causing me anymore bother!;När hon väl sitter i fängelse kommer hon inte att göra mig besvär längre!
+Sim, por favor.;Sim, tack.
+Boa sorte!;Boa sorte!
+A propÃ³sito, vocÃª gostaria que eu verificasse os controles para vocÃª, ou vocÃª acha que conseguirÃ¡?;A propÃ³sito, vocÃª gostaria que eu verificasse os controls para vocÃª, ou vocÃª acha que conseguirá?
+Hello [PLAYER_NAME]. I've got a message for you from Molly. She needs your help urgently. Will you assist her now?;Hej [PLAYER_NAME]. Jag har ett meddelande till dig från Molly. Hon behöver din hjälp omgående. Kommer du att hjälpa henne nu?
+Through that door is a room with a cage and a control panel that operates a giant mechanical claw.;Genom den dörren finns ett rum med en bur och en kontrollpanel som driver en gigantisk mekanisk klo.
+Bem, consegui colocÃ¡-la na jaula.;Bem, consegui colocá-la na jaula.
+Claro, qualquer coisa por Molly.;Claro, qualquer coisa por Molly.
+Fabuloso! Agora dÃª uma boa olhada em mim porque a porta estarÃ¡ trancada atrÃ¡s de vocÃª.  My twin looks exactly like me, even her clothes!;Fabuloso! Agora dÃª uma boa olhada em mim porque a porta estarÃ¡ trancada atrÃ¡s de vocÃª.  Min tvilling ser precis ut som jag, till och med hennes kläder!
+Sim, isso cobre tudo. Obrigado!;Sim, isso cobre tudo. Obrigado!
+Farei o meu melhor entÃ£o!;Farei o meu melhor entÃ£o!
+Bem, o que tudo isso tem a ver comigo entÃ£o?;Bem, o que tudo isso tem a ver comigo entÃ£o?
+O que vocÃª faz aqui?;O que vocÃª faz aqui?
+OlÃ¡ viajante, o que o traz Ã  minha humilde ferraria?;Olá viajante, o que o traz i minha humilde ferraria?
+Nurmof tem uma loja na Mina dos AnÃµes. VocÃª pode encontrar a entrada ao lado da Ice Mountain, a leste daqui.;Nurmof tem uma loja na Mina dos AnÃµes. VocÃª pode encontrar a entrada ao lado da Ice Mountain, a leste daqui.
+Eu queria usar suas bigornas.;Eu queria usar suas bigornas.
+Desculpe, mas tenho uma ordem de execuÃ§Ã£o com Nurmof.;Desculpe, mas tenho uma ordem de execuÃ§Ã£o com Nurmof.
+Ah, Ã© justo.;Ah, Ã© justo.
+Eu faÃ§o picaretas. Sou o melhor fabricante de picaretas de toda Guilenor.;Eu faÃ§o picaretas. Sou o melhor fabricante de picaretas de toda Guilenor.
+Eu estava apenas verificando a paisagem.;Eu estava apenas verificando a paisagem.
+Quem Ã© Nurmof?;Quem Ã© Nurmof?
+Quero usar sua pedra de amolar.;Quero usar sua pedra de amolar.
+Cuide da sua vida, baixinho!;Cuide da sua vida, baixinho!
+O que vocÃª quer dizer?;O que vocÃª quer dizer?
+Normalmente consigo colocar 28 coisas na minha mochila e num mundo cheio de possibilidades literalmente ilimitadas, ocorreu uma coincidÃªncia completa!;Normalmente consigo colocar 28 coisas na minha mochila e num mundo cheio de possibilidades literalmente imlimitadas, ocorreu uma coincidÃªncia completa!
+Iniciar a missÃ£o de Doric?;Iniciar a missÃ£o de Doric?
+Clay Ã© o que eu uso mais do que tudo, para fazer moldes. VocÃª poderia me trazer 6 argilas, 4 minÃ©rios de cobre e 2 minÃ©rios de ferro, por favor? Eu poderia pagar um pouco e deixar vocÃª usar minhas bigornas. Leve esta picareta com vocÃª caso precise.;Clay Ã© o que eu uso mais do que tudo, para fazer moldes. VocÃª poderia me trazer 6 argilas, 4 minérios de cobre e 2 minérios de ferro, por favor? Eu poderia pagar um pouco e deixar vocÃª usar minhas bigornas. Leve esta picareta com vocÃª caso precise.
+Bem, por pura coincidÃªncia, apesar de definitivamente nÃ£o saber o que vocÃª estava prestes a pedir, aconteceu de eu ter carregado exatamente esses itens!;Bem, por pura coincidÃªncia, apesar de definitivamente nÃ£o sabre o que vocÃª estava prestes a pedir, aconteceu de eu ter carregado exatamente esses itens!
+Que bom conhecer alguÃ©m com maneiras tÃ£o agradÃ¡veis. Volte novamente quando precisar gritar com alguÃ©m menor que vocÃª!;Que bom conhecer alguém com maneiras tÃ£o agradÃ¡veis. Volte novamente quando precisar gritar com alguém menor que vocÃª!
+Na verdade, nas quantidades exatas tambÃ©m!;Na verdade, nas quantidades exatas também!
+NÃ£o entendo muito bem o que vocÃª estÃ¡ dizendo?;NÃ£o entendo muito bem o que vocÃª estÃ¡ dizendo?
+Sim, vou pegar os materiais para vocÃª.;Sim, vou pegar os materiais para vocÃª.
+VocÃª tem algum para vender?;VocÃª tem algum para säljare?
+Minhas bigornas dÃ£o trabalho suficiente para meu prÃ³prio uso. Eu faÃ§o picaretas e isso exige muito trabalho. Se vocÃª pudesse me conseguir mais alguns materiais, eu poderia deixar vocÃª usÃ¡-los.;Minhas bigornas dÃ£o trabalho suficiente para meu prÃ³prio uso. Eu faÃ§o picaretas e isso exige muito trabalho. Se vocÃª pudesse me conseguir mais alguns materiais, eu poderia deixar vocÃª usÃ¡-los.
+Nossa, isso Ã© uma coincidÃªncia! Passe-os aqui, por favor. Posso lhe poupar algumas moedas pelo seu trabalho e, por favor, use minhas bigornas sempre que quiser.;Nossa, isso Ã© uma coincidÃªncia! Passe-os aqui, por favor. Posso lhe poupar algumas moedas pelo seu trabalho e, por favor, använd minhas bigornas semper que quiser.
+VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!;VocÃª sabe, Ã© engraÃ§ado vocÃª exigir exatamente essas coisas!
+Meu colega e eu podemos permitir que vocÃª configure ofertas comerciais. VocÃª pode se oferecer para vender itens ou comprar itens.;Meu colega e eu podemos permitir que vocÃª configure ofertas comerciais. VocÃª pode se oferecer para säljare itens eller comprar itens.
+We'll look for someone who wants to buy those items at your price, and we'll perform the trade. You can then collect the cash here, or at any bank.;Vi letar efter någon som vill köpa dessa varor till ditt pris och vi utför affären. Du kan sedan hämta kontanterna här, eller på vilken bank som helst.
+When you want to sell something, you give us the items and tell us how much money you want for them.;När du vill sälja något ger du oss föremålen och berättar hur mycket pengar du vill ha för dem.
+Sometimes it takes a while to find a matching trade offer. If you change your mind, we'll let you cancel your trade offer, and we'll return your unused items and cash.;Ibland tar det ett tag att hitta ett matchande handelserbjudande. Om du ångrar dig låter vi dig avbryta ditt handelserbjudande och vi returnerar dina oanvända föremål och kontanter.
+We'll look for someone who's selling those items at your price, and we'll perform the trade. You can then collect the items here, or at any bank, along with any left-over cash.;Vi letar efter någon som säljer dessa varor till ditt pris och vi utför handeln. Du kan sedan hämta föremålen här, eller på vilken bank som helst, tillsammans med eventuella överblivna kontanter.
+That's all the essential information you need to get started. Would you like to trade now, or exchange item sets?;Det är all viktig information du behöver för att komma igång. Vill du handla nu, eller byta föremålsuppsättningar?
+When you want to buy something, you tell us what you want, and give us the cash you're willing to spend on it.;När du vill köpa något berättar du för oss vad du vill ha och ger oss pengarna du är villig att spendera på det.
+Gostaria de acessar minha conta bancÃ¡ria, por favor.;Gostaria de acessar minha conta bancária, por favor.
+O que Ã© esse lugar?;O que Ã© esse lugar?
+Bom dia, em que posso ajudÃ¡-lo?;Bom dia, em que posso ajudá-lo?
+Gostaria de verificar minhas configuraÃ§Ãµes de PIN.;Gostaria de verificar minhas configuraÃ§Ãµes de PIN.
+Eu gostaria de coletar itens.;Eu gostaria de coletar itens.
+Eu gostaria de comprar mais slots bancÃ¡rios.;Eu gostaria de comprar mais slots bancários.
+VocÃª deixarÃ¡ de ser um Ironman em 7 dias. Tem certeza que quer isso? VocÃª nÃ£o preferiria continuar como Ironman?;VocÃª deixarÃ¡ de ser um Ironman em 7 dias. Tem certeza que quer isso? VocÃª nÃ£o preferiria continuar como Ironman?
+AÃ­ estÃ¡. Use-o com orgulho.;AÃ estÃ¡. Använd-o com orgulho.
+Okay, it's your call. Now, how can I help you?;Okej, det är ditt samtal. Nu, hur kan jag hjälpa dig?
+Eu gostaria de continuar como Ironman.;Eu gostaria de continuar como Ironman.
+Eu realmente quero parar de ser um Ironman.;Eu realmente quero parar de ser um Ironman.
+Ã‰ por isso que estou esperando aqui!;Ã‰ por isso que estou esperando aqui!
+Mas e se eu quiser ver os avisos novamente?;Mas e se eu quiser ver os avisos novamente?
+Recompensas difÃ­ceis.;Recompensas difÃceis.
+De nada!;De nada!
+Obrigado!;Obrigado!
+CrianÃ§as.;Crianás.
+saber mais sobre?;sabre mais sobre?
+Recompensas fÃ¡ceis.;Recompensas fÃ¡ceis.
+Obrigado, lembrarei disso se vir alguma mensagem de aviso.;Obrigado, lembrarei disso se vir alguma mensagem de aviso.
+Se vocÃª completar todas as tarefas fÃ¡ceis em Lumbridge e Draynor, seu anel poderÃ¡ recarregar metade de sua energia de corrida duas vezes por dia e lanÃ§ar alquimia de baixo nÃ­vel sem runas 30 vezes por dia.;Se vocÃª completar todas as tarefas fÃ¡ceis em Lumbridge e Draynor, seu anel poderá recarregar metade de sua energia de corrida duas vezes por dia e lanÃ§ar alquimia de baixo nÃvel sem runas 30 vezes por dia.
+Sim! Ando pelo mundo sentindo o perigo.;Sim! Ando pelo mundo sentindo o perigo.
+Recompensas Elite.;Recompensas Elite.
+Recompensas mÃ©dias.;Recompensas médias.
+Tutor de perigo?;Tutor de perigo?
+Conte-me mais sobre as recompensas fÃ¡ceis, por favor!;Conte-me mais sobre as recompensas fÃ¡ceis, por favor!
+If I find a dangerous area, then I put up warning signs that will tell you what is so dangerous about that area.;Om jag hittar ett farligt område så sätter jag upp varningsskyltar som talar om vad som är så farligt med det området.
+If you see the signs often enough, then you can turn them off; by that time you likely know what the area has in store for you.;Om du ser skyltarna tillräckligt ofta kan du stänga av dem; vid den tiden vet du förmodligen vad området har i beredskap för dig.
+If you want to see the warning messages again, I can turn them back on for you.;Om du vill se varningsmeddelandena igen kan jag aktivera dem igen.
+You have not proved yourself worthy to enter here yet.;Du har inte visat dig värdig att komma in här ännu.
+Oh, ai de mim por nÃ£o conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?;Åh, ai de mim por nÃ£o conseguir encontrar minha Julieta! VocÃª nÃ£o viu Julieta, viu?
+Na verdade, esqueÃ§a...;Na verdade, esqueÃ§a...
+Julieta, Julieta, por que vocÃª Ã© Julieta? VocÃª viu minha Julieta?;Julieta, Julieta, por que vocÃª Ã© Julieta? VocÃª viu minha Julieta?
+Perhaps I can help find her for you? Como ela Ã©?;Jag kanske kan hjälpa dig att hitta henne? Como ela Ã©?
+A raposa...vocÃª poderia dizer a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;En raposa...vocÃª poderia dizer a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?
+Iniciar a missÃ£o Romeu e Julieta?;Har du missat Romeu och Julieta?
+Cabelo... confere..;Cabelo... konferera..
+Ah, sim... o que vocÃª disse... diga isso a ela, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!;Ah, sim... o que vocÃª dessa... diga isso a ela, parece muito melhor!  Ah, vocÃª Ã© tÃ£o bom nisso!
+Aposto que ela Ã©!  Uauuuu!;Aposto que ela Ã©!  Uauuuu!
+Ah, vocÃª faria? Isso seria Ã³timo! Ela tem esse tipo de cabelo...;Ah, vocÃª faria? Isso serie a³timo! Ela tem esse tipo de cabelo...
+Sorry Romeo, I've got better things to do right now. Maybe later?;Förlåt Romeo, jag har bättre saker att göra just nu. Kanske senare?
+O que?  Certamente vocÃª quer dizer que 'ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?';O vad?  Certamente vocÃª quer dizer que 'ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?'
+Oh, okay, well, I guess my Juliet and I can spend some time apart.  And as the old saying goes, 'Absinthe makes the heart glow longer'.;Åh, okej, jag antar att min Juliet och jag kan tillbringa lite tid ifrån varandra.  Och som det gamla ordspråket säger, 'Absint får hjärtat att glöda längre'.
+Sim, tudo bem. Eu vou avisÃ¡-la.;Sim, tudo bem. Eu vou avisá-la.
+Ok, obrigado.;Okej, obrigado.
+NÃ£o, desculpe, eu nÃ£o a vi.;NÃ£o, desculpe, eu nÃ£o a vi.
+Bem, acho que ela poderia ser considerada atraente...;Bem, acho que ela poderia ser considerada atraente...
+Desculpe, todo aquele jÃºbilo me fez esquecer do que estÃ¡vamos conversando.;Desculpe, todo aquele jÃºbilo me fez esquecer do que estávamos conversando.
+Sim, eu a vi, na verdade!;Sim, eu a vi, na verdade!
+VocÃª estava me perguntando sobre Julieta? VocÃª parecia conhecÃª-la?;VocÃª estava me perguntando sobre Julieta? VocÃª parecia conhecÃª-la?
+LÃ¡bios... certo.;LÃ¡bios... certo.
+HÃ¡ mais alguma coisa que vocÃª possa me contar sobre Juliet?;HÃ¡ mais alguma coisa que vocÃª possa me contar sobre Juliet?
+O que?  Certamente vocÃª quer dizer que ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?;O vad?  Certamente vocÃª quer dizer que ela Ã© o amor da sua vida e que vocÃª deseja estar com ela?
+Pelo menos acho que foi ela... Loira? Um pouco estressado?;Pelo menos acho que foi ela... Loira? Um pouco estressado?
+Caramba... sim, sim... vocÃª a faz parecer muito interessante!;Caramba... sim, sim... vocÃª en faz parecer muito intressant!
+VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...;VocÃª nÃ£o quer dizer que 'A ausÃªncia faz com que...
+Vejo que escolhi um verdadeiro profissional...!;Vejo que escolhi um verdadeiro profissional...!
+...e ela esses...lÃ¡bios lindos...;...e ela esses...lÃ¡bios lindos...
+Quer dizer que vocÃª quer dar um beijo nela!;Quer dizer que vocÃª quer dar um beijo nela!
+Ah, vocÃª Ã© bom... vocÃª Ã© bom!;Ah, vocÃª Ã© bom... vocÃª Ã© bom!
+Ah, e ela tem esses ombros lindos tambÃ©m.;Ah, e ela tem esses ombros lindos também.
+Ah sim, Julieta Ã© muito diferente... por favor diga a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?;Ah sim, Julieta Ã© muito diferente... por favor diga a ela que ela Ã© o amor da minha longa data e que eu vivo para estar com ela?
+Onde posso encontrar Julieta?;Kan du möta Julieta?
+Ah, Ã³timo! E diga a ela que quero beijÃ¡-la.;Ah, Ã³timo! E diga a ela que quero beijá-la.
+Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios e ombros... isso deve diminuir um pouco.;Ombros... certo, entÃ£o ela tem cabelo, lÃ¡bios e ombros... isso deve diminuir um pouco.
+OK!;ok!
+Talvez eu possa ajudar a encontrÃ¡-la para vocÃª?;Talvez eu possa ajudar a encontrÃ¡-la para vocÃª?
+É melhor eu ir.;É melhor eu ir.
+Olá, jovem coisinha.;Olá, jovem coisinha.
+How dare you? Of course I'm a wizard. Now don't be so cheeky or I'll turn you into a frog.;Hur vågar du? Självklart är jag en trollkarl. Var inte så fräck nu, annars förvandlar jag dig till en groda.
+Teach me to be a mighty and powerful wizard.;Lär mig att vara en mäktig och mäktig trollkarl.
+Oh I'd better stop talking to you then.;Åh, jag borde sluta prata med dig då.
+What's a thingummywut?;Vad är en thingummywut?
+Selecione uma opção;Välj oma opção
+Wizard eh? You don't want any truck with that sort. They're not to be trusted. That's what I've heard anyways.;Trollkarl va? Du vill inte ha någon lastbil med den sorten. De är inte att lita på. Det är vad jag har hört i alla fall.
+So aren't you a wizard?;Så är du inte en trollkarl?
+Olá, posso ajudá-lo?;Olá, posso ajudá-lo?
+I'm sorry, but I can't do that right now.;Jag är ledsen, men jag kan inte göra det just nu.
+Me dê uma missão, o quê?;Me dê uma missão, o quê?
+Not now, I'm trying to concentrate on a very difficult spell!;Inte nu, jag försöker koncentrera mig på en mycket svår besvärjelse!
+Me dê uma missão, por favor.;Me dê uma missão, por favor.
+O que você faz aqui?;O que você faz aqui?
+Apenas pare de brincar e me dê uma missão!;Apenas pare de brincar e me dê uma missão!
+Dê-me uma missão!;Dê-me uma missão!
+Dê-me uma missão ou então!;Dê-me uma missão ou então!
+Can you make me some armour please?;Kan du göra mig en rustning snälla?
+Olá.;Olá.
+Não, obrigado.;Não, obrigado.
+What's that you're wearing?;Vad är det du har på dig?
+Certainly, what would you like me to make?;Visst, vad vill du att jag ska göra?
+O que você está fazendo aqui?;O que você está fazendo aqui?
+Which places can the Members object teleport me out of?;Vilka platser kan medlemmarnas invändning teleportera mig från?
+Can I buy a Members object?;Kan jag köpa ett Members-objekt?
+Quem é você?;Quem é você?
+Liberal! Obrigado estranho..;Liberal! Obrigado estranho..
+Get away! I do not speak to outlanders.;Komma bort! Jag pratar inte med utlänningar.
+You've done it!;Du har gjort det!
+Desça as escadas.;Desça som escadas.
+Bom dia, em que posso ajudá-lo?;Bom dia, em que posso ajudá-lo?
+Posso ajudá-lo?;Posso ajudá-lo?
+Como posso treinar minha oração?;Como posso treinar minha oração?
+Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?;Saudações, [PLAYER_NAME]. Posso ajudá-lo com alguma coisa hoje?
+Para que serve a oração?;Para que servera en oração?
+Bom dia, irmã.;Bom dia, irmã.
+So you invented the 'Log Canoe' by falling into a river hugging a tree?;Så du uppfann "loggkanoten" genom att falla i en flod och krama ett träd?
+Yeash! Me and my cousins were having a great party by the river when we decided to have a game of 'Smack The Tree';Jaha! Jag och mina kusiner hade en fantastisk fest vid floden när vi bestämde oss för att spela "Smack The Tree"
+It's a game were you take it in turnsh shmacking a tree. First one to uproot the tree winsh!;Det är ett spel där du tar det i tur och ordning och slår ett träd. Den första som rycker upp trädet winsh!
+Log Canoe?;Logga kanot?
+You could make a Dugout canoe with your woodcutting skill, but I don't see why you would want to.;Du kan göra en Dugout-kanot med din trähuggningsskicklighet, men jag förstår inte varför du skulle vilja det.
+I'm Sigurd the Great and Brainy.;Jag är Sigurd den store och smart.
+Sim;Sim
+Can you teach me about Canoeing?;Kan du lära mig om kanotpaddling?
+Anyway, I won the game with a flying tackle. The tree came loose and down the river bank I went, still holding the tree.;Hur som helst, jag vann matchen med en flygande tackling. Trädet lossnade och nerför flodstranden gick jag, fortfarande med trädet.
+I cut all the branches off to make it more comfortable. I could tell you how to if you like?;Jag klippte av alla grenar för att göra det bekvämare. Jag kan berätta hur du gör om du vill?
+Well I refined the design from the original you know!;Jo jag förfinade designen från originalet du vet!
+It's really quite simple. Just walk down to that tree on the bank and chop it down.;Det är egentligen ganska enkelt. Gå bara ner till trädet på stranden och hugga ner det.
+Then take your axe to it and shape it how you like!;Ta sedan din yxa till den och forma den som du vill!
+Why do they call you the Great and Brainy?;Varför kallar de dig den Store och Brainy?
+Smack the Tree?;Smacka trädet?
+Could you teach me about canoes?;Kan du lära mig om kanoter?
+NÃ£o;Nej
+Ha Ha! Hello!;Ha Ha! Hej!
+Because I invented the Log Canoe!;För att jag uppfann timmerkanoten!
+I woke up a few hours later and found myself several miles down river. And thatsh how I invented the log canoe!;Jag vaknade några timmar senare och befann mig flera mil nerför floden. Och det var hur jag uppfann timmerkanoten!
+Do you want a lit candle for 1000 gold?;Vill du ha ett tänt ljus för 1000 guld?
+No thanks, I'd rather curse the darkness.;Nej tack, jag förbannar hellre mörkret.
+One thousand gold?!;Tusen guld?!
+Subir ou descer a escada?;Subir du descer a escada?
+DesÃ§a.;DesÃ§a.
+Suba.;Suba.
+Fair enough. Here, have a spare potion, and thanks for your time.;Fair nog. Här, ta en extra dryck, och tack för din tid.
+Have you got any guam leaf? I've fixed my Hyde problem, so it's not urgent, but I could do with a guam leaf.;Har du något guamblad? Jag har åtgärdat mitt Hyde-problem, så det är inte brådskande, men jag skulle kunna göra med ett guamblad.
+I don't have any.;Jag har inga.
+VÃ¡ para sua casa (modo construÃ§Ã£o);VÃ¡ para sua casa (modo construÃ§Ã£o)
+Cancelar;Avbryt
+<str=7f0000>VÃ¡ para a casa de um amigo</str>;<str=7f0000>Vá para a casa de um amigo</str>
+VÃ¡ para sua casa;VÃ¡ para sua casa
+I'm here to talk about Combat Achievements.;Jag är här för att prata om Combat Achievements.
+Posso ajudar?;Posso ajudar?
+O que vocÃª estÃ¡ fazendo aqui?;O que vocÃª está fazendo aqui?
+No, I'm alright thanks.;Nej, jag är okej tack.
+In fact, unless me nose be mistaken, you've got some in yer pack.;Faktum är att om jag inte tar fel, så har du några i packningen.
+Five days ago we pulled in a huge catch. As well as fish we caught small slug like creatures, hundreds of them.;För fem dagar sedan drog vi in ​​en enorm fångst. Förutom fisk fångade vi små snigelliknande varelser, hundratals av dem.
+I'll reward you for your time. It'll give me peace of mind to know Kennith and my husband, Kent, are safe.;Jag kommer att belöna dig för din tid. Det kommer att ge mig sinnesfrid att veta att Kennith och min man, Kent, är säkra.
+I would like a ride on your boat to the fishing platform.;Jag skulle vilja ha en tur med din båt till fiskeplattformen.
+Aye, that be perfect.;Ja, det är perfekt.
+Of course m'hearty. If that's what you want.;Självklart m'hearty. Om det är det du vill.
+Maybe the post was lost!;Kanske var inlägget förlorat!
+Start the Sea Slug quest?;Starta Sea Slug-uppdraget?
+Hello Holgart.;Hej Holgart.
+Swamp paste?;Träskpasta?
+Yuck! Thanks Kent.;Yuck! Tack Kent.
+I doubt the fishermen will come near you if you can get this torch lit.;Jag tvivlar på att fiskarna kommer nära dig om du kan få den här facklan tänd.
+They usually write to me regularly, but I've heard nothing all week. It's very strange.;De brukar skriva till mig regelbundet, men jag har inte hört något på hela veckan. Det är väldigt konstigt.
+I figured as much.;Jag tänkte lika mycket.
+It's my husband, he works on a fishing platform. Once a month he takes our son, Kennith, out with him.;Det är min man, han jobbar på en fiskeplattform. En gång i månaden tar han med sig vår son, Kennith, ut.
+The sea slugs are scared of heat, I figured that out when I tried to cook them.;Havsnivlarna är värmerädda, det kom jag på när jag försökte tillaga dem.
+No, I want my daddy!;Nej, jag vill ha min pappa!
+I need to get Kennith off this platform, but I can't get past the fishermen.;Jag måste få Kennith från den här plattformen, men jag kan inte ta mig förbi fiskarna.
+Where is your father?;Var är din far?
+Is there any chance you could visit the platform and find out what's going on?;Finns det någon chans att du kan besöka plattformen och ta reda på vad som händer?
+We'd better get back to the platform so we can see what's going on.;Vi borde gå tillbaka till plattformen så att vi kan se vad som händer.
+It was the sea slugs, they attach themselves to your body and somehow take over the mind of the carrier.;Det var havssnilarna, de fäster sig vid din kropp och tar på något sätt över bärarens sinne.
+The nasty fishermen tried to throw me and daddy into the sea. So he told me to hide here.;De otäcka fiskarna försökte kasta mig och pappa i havet. Så han sa åt mig att gömma mig här.
+That's when the fishermen began to act strange.;Det var då fiskarna började bete sig konstigt.
+O que estÃ¡ acontecendo aqui?;O que está acontecendo aqui?
+Hello again land lover. There's some strange goings on, on that platform, I tell you.;Hej igen landälskare. Det händer en del konstiga på den plattformen, säger jag er.
+A few more minutes and that thing would have full control of your body.;Några minuter till och den där saken skulle ha full kontroll över din kropp.
+Here.;Här.
+Hello m'hearty.;Hej min hjärta.
+I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste.;Jag är rädd att den inte är sjövärdig, den är full av hål. För att fylla hålen behöver jag lite träskpasta.
+Will you take me there?;Tar du mig dit?
+Oh yes, I forgot about that stuff. Can you use it?;Åh ja, jag glömde det där. Kan du använda den?
+You're telling me, none of the sailors seem to remember who I am.;Du säger mig att ingen av sjömännen kommer ihåg vem jag är.
+The only problem is all the wood and flint are damp... I can't light a thing!;Det enda problemet är att allt trä och flinta är fuktigt... Jag kan inte tända en sak!
+Ok, I'll go and see if they're ok.;Ok, jag ska gå och se om de är okej.
+Please go back and get my boy, you can send help for me later.;Gå tillbaka och hämta min pojke, du kan skicka hjälp åt mig senare.
+Is there any chance you could help me?;Finns det någon chans att du kan hjälpa mig?
+They're all being controlled by the sea slugs.;De kontrolleras alla av havssnilarna.
+Your wife sent me out to find you and your boy. Kennith's fine by the way, he's on the platform.;Din fru skickade ut mig för att hitta dig och din pojke. Kennith mår bra förresten, han är på perrongen.
+Are you okay young one?;Är du okej ung?
+He went to get help days ago.;Han gick för att få hjälp för flera dagar sedan.
+You're right. It all sounds pretty creepy.;Du har rätt. Det hela låter ganska läskigt.
+Yes, swamp tar mixed with flour and heated over a fire.;Ja, träsktjära blandat med mjöl och värmt över eld.
+I'm keeping away from there.;Jag håller mig borta därifrån.
+I told Kennith to hide until I returned but I was washed up here.;Jag sa åt Kennith att gömma mig tills jag kom tillbaka men jag spolades upp här.
+Apparently Kennith's father left for help a couple of days ago.;Tydligen lämnade Kenniths pappa för att få hjälp för ett par dagar sedan.
+That's very good of you [PLAYER_NAME]. My friend Holgart will take you there.;Det är väldigt bra av dig [PLAYER_NAME]. Min vän Holgart tar dig dit.
+Oh thank Saradomin! I thought I'd be left out here forever.;Åh tack Saradomin! Jag trodde att jag skulle vara utelämnad här för alltid.
+That's good advice, you stay here and I'll go try and find your father.;Det är ett bra råd, stanna här så ska jag försöka hitta din far.
+Holgart, something strange is going on here.;Holgart, något konstigt pågår här.
+[PLAYER_NAME] wait!;[PLAYER_NAME] vänta!
+[1] Will you take me there?;[1] Vill du ta mig dit?
+Maybe, but no-one's heard from the other fishermen on the platform. Their families are becoming quite concerned.;Kanske, men ingen har hört från de andra fiskarna på perrongen. Deras familjer börjar bli ganska oroliga.
+I suppose so, how do I get there?;Jag antar det, hur tar jag mig dit?
+That's a worry, no-one's heard from him on shore. Come on, we'd better go look for him.;Det är ett bekymmer, ingen har hört från honom på land. Kom igen, vi borde gå och leta efter honom.
+Oh, thank the gods it's you. They've all gone mad I tell you, one of the fishermen tried to throw me into the sea!;Åh tack gudarna att det är du. De har alla blivit galna, säger jag er, en av fiskarna försökte kasta mig i havet!
+I knew the row boat wasn't sea worthy. I couldn't risk bringing him along but you must get him off that platform.;Jag visste att roddbåten inte var sjövärdig. Jag kunde inte riskera att ta med honom men du måste få honom från den plattformen.
+NÃ£o!;Nej!
+Hello Kennith, are you okay?;Hej Kennith, är du okej?
+Looking forward to it.;Ser fram emot det.
+Kennith told me about the strange goings-on at the platform. I had no idea it was so serious.;Kennith berättade för mig om det konstiga som händer på plattformen. Jag hade ingen aning om att det var så allvarligt.
+I'm scared of those nasty sea slugs. I won't go near them.;Jag är rädd för de där otäcka havssnilarna. Jag kommer inte i närheten av dem.
+You'll be able to see him soon. First we need to get you back to land, come with me to the boat.;Du kommer att kunna se honom snart. Först måste vi få dig tillbaka till land, följ med mig till båten.
+Okay, you wait here and I'll go figure another way to get you out.;Okej, vänta här så ska jag hitta ett annat sätt att få ut dig.
+No, I want my daddy.;Nej, jag vill ha min pappa.
+Ok, when you have I'll come out.;Ok, när du har kommer jag ut.
+Thank you. Take care of yourself [PLAYER_NAME].;Tack. Ta hand om dig själv [PLAYER_NAME].
+We found Kent stranded on an island.;Vi hittade Kent strandsatt på en ö.
+I'll figure that out in a moment.;Jag kommer att reda ut det om ett ögonblick.
+How will I get downstairs?;Hur tar jag mig ner?
+Kennith, I've made an opening in the wall. You can come out through there.;Kennith, jag har gjort en öppning i väggen. Du kan komma ut där.
+Yes, he's safe and sound with his parents. Your turn to return to land now adventurer.;Ja, han är i säkerhet med sina föräldrar. Din tur att återvända till land nu äventyrare.
+What, why not?;Vadå, varför inte?
+I could have lost my son and my husband if it wasn't for you.;Jag kunde ha förlorat min son och min man om det inte varit för dig.
+Yes, Holgart told me and sent a rescue party out. Kent's back home now, resting with Kennith. I don't think he'll be doing any fishing for a while.;Ja, berättade Holgart och skickade ut en räddningsgrupp. Kent är hemma nu och vilar med Kennith. Jag tror inte att han kommer att fiska på ett tag.
+Brave [PLAYER_NAME], you've returned!;Modig [PLAYER_NAME], du har kommit tillbaka!
+Not one.;Inte en enda.
+Did you get the kid back to shore?;Fick du tillbaka ungen till stranden?
+Here, take these Oyster pearls as a reward. They're worth quite a bit and can be used to make lethal crossbow bolts.;Här, ta dessa Oyster pärlor som en belöning. De är värda en hel del och kan användas för att göra dödliga armborstbultar.
+Are there any sea slugs on the other side?;Finns det några havssniglar på andra sidan?
+Okay then. I'll wait here for you.;Okej då. Jag väntar här på dig.
+I'll come back later.;Jag kommer tillbaka senare.
+Ok, vamos lÃ¡.;Okej, vamos lÃ¡.
+Hello again Holgart.;Hej igen Holgart.
+Fancy going out to sea?;Sugen på att åka ut till havet?
+Well hello again m'hearty. Your land loving legs getting bored? Fancy some cold wet underfoot?;Nåväl hej igen m'hearty. Blir dina landälskande ben uttråkade? Sugen på lite kallt blött under fötterna?
+PerdÃ£o?;PerdÃ£o?
+Comencemos enseñándote a empuñar un arma.;Comencemos enseñándote a empuñar un arma.
+You should check out the combat interface.;Du bör kolla in stridsgränssnittet.
+Un mundo es en lo que juegas. La mayoría de los mundos pueden albergar hasta 2000 jugadores. Se divide en dos tipos principales: mundos libres y mundos de miembros. Puedes intercambiar mundos con World Switcher en el menú Cerrar sesión.;Un mundo es en lo que juegas. La mayoría de los mundos pueden albergar hasta 2000 jugadores. Se divide en dos tipos principales: mundos libres y mundos de miembros. Puedes intercambiar mundos med World Switcher en el menú Cerrar sesión.
+Hay varias cosas que puedes hacer con tu cuenta y es donde entra en juego el menú Administración de cuentas. Echemos un vistazo ahora.;Hay varias cosas que puedes hacer con tu cuenta y es donde entra en juego el menú Administración de cuentas. Echemos un vistazo ahora.
+¡Hola! Mi nombre es [PLAYER_NAME].;¡Hej! Mitt namn är [PLAYER_NAME].
+Muy bien, pero ese pequeño cuchillo de mantequilla no te protegerá mucho. Vamos a conseguir algo un poco mejor. Una vez que estés adecuadamente equipado, podremos pasar al combate real.;Muy bien, men ese pequeño cuchillo de mantequilla no te protegerá mucho. Vamos a conseguir algo un poco mejor. Una vez que estés adecuadamente equipado, podremos pasar al combate real.
+Soy Vannaka, el mejor espadachín del mundo y estoy aquí para enseñarte los conceptos básicos del combate.;Soy Vannaka, el mejor espadachín del mundo y estoy aquí para enseñarte los conceptos básicos del combate.
+El siguiente paso es el combate a distancia. Con esto puedes matar enemigos a distancia. Con rango, podrás atacar a las ratas sin entrar al pozo, lo que significa que no podrán defenderse.;El suuiente paso es el combate a distancia. Con esto puedes matar enemigos a distancia. Con rango, podrás atacar a las ratas sin entrar al pozo, lo que significa que no podrán defenderse.
+Buenos días, recién llegado. Mi nombre es Terrova. Estoy aquí para contarles sobre Magia. Comenzamos abriendo su interfaz mágica.;Buenos días, recién llegado. Mi nombre es Terrova. Estoy aquí para contarles sobre Magia. Comenzamos abriendo su interfaz mágica.
+Las oraciones activas agotarán tus puntos de oración, que puedes recargar buscando un altar u otro lugar sagrado y orando allí.;Las oraciones aktiverar agotarán tus puntos de oración, que puedes recargar buscando un altar u otro lugar sagrado y orando allí.
+Si crees que tienes lo necesario, puedes optar por convertirte en un <col=b10000>Ironman incondicional</col>.;Si crees que tienes lo necesario, puedes optar por convertirte en un <col=b10000>Ironman incondicional</col>.
+Como habrás notado, la mayoría de los enemigos dejarán caer huesos cuando sean derrotados. Al enterrar huesos, al hacer clic en ellos en tu inventario, obtendrás experiencia de oración.;Como habrás notado, la mayoría de los enemigos dejarán caer huesos cuando sean derrotados. Al enterrar huesos, al hacer clic en ellos en tu inventario, obtendrás experiencia de oración.
+Mientras estás en Tutorial Island, puedes alternar libremente entre ser un <col=7f0000>Ironman estándar</col>, un <col=00007f>Ultimate <col=00007f>Ironman</col>, un <col=b10000>Ironman intenso</col>, un <col=7f0000>Ironman grupal</col>, un <col=b10000>Hardcore Group Ironman</col> o un personaje normal.;Mientras estás en Tutorial Island, puedes alternar libremente entre ser un <col=7f0000>Ironman estándar</col>, un <col=00007f>Ultimate <col=00007f>Ironman</col>, un <col=b10000>Ironman <0colf>, unintenso grupp</col>, en <col=b10000>Hardcore Group Ironman</col> eller en normal person.
+Eso es todo lo que tengo que enseñarte por ahora. Si necesita un recordatorio sobre sus oraciones, hábleme nuevamente.;Eso es todo lo que tengo que enseñarte por ahora. Si necesita un recordatorio sobre sus oraciones, hábleme nuevamente.
+Como <col=b10000>Ironman</col>, eliges que te impongan estas restricciones para que todos sepan que lo estás haciendo correctamente.;Como <col=b10000>Ironman</col>, eliges que te impongan estas restricciones para que todos sepan que lo estás haciendo correctamente.
+Además de las restricciones estándar, los <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>una vida</col>. En caso de una muerte peligrosa, tu estado de <col=b10000>Ironman incondicional</col> se reducirá al de un <col=7f0000>Ironman estándar</col>, y tu;Además de las restricciones estándar, los <col=b10000>incondicionales <col=b10000>Ironmen</col> solo tienen <col=b10000>una vida</col>. En caso de una muerte peligrosa, tu estado de <col=b10000>Ironman incondicional</col> se reducirá al de un <col=7f0000>Ironman estándar</col>, y tu
+Además de las restricciones estándar, los <col=00007f>Ultimate <col=00007f>Ironmen</col> no pueden usar el banco y sueltan todos sus objetos cuando mueren.;Además de las restricciones estándar, los <col=00007f>Ultimate <col=00007f>Ironmen</col> no pueden usar el banco y sueltan todos sus objetos cuando mueren.
+Si tienes algunos amigos, podrías estar solo... Juntos, como <col=7f0000>Grupo Ironmen</col>. Los Ironmen grupales tienen las mismas restricciones que los Ironmen normales, excepto que podéis intercambiar objetos entre vosotros.;Si tienes algunos amigos, podrias estar solo... Juntos, como <col=7f0000>Grupo Ironmen</col>. Los Ironmen grupales tienen las mismas restricciones que los Ironmen normales, excepto que podéis intercambiar objetos entre vosotros.
+Así que permitirá que <col=b10000>Hardcore Ironmen</col> o <col=00007f>Ultimate Ironmen</col> bajen de categoría a <col=7f0000>Ironmen estándar</col>, y permitirá que todos los tipos de <col=7f0000>Ironman</col> en solitario se conviertan en personajes regulares.;Así que permitirá que <col=b10000>Hardcore Ironmen</col> o <col=00007f>Ultimate Ironmen</col> bajen de categoría a <col=7f0000>Ironmen estándar</col>, y permitirá que todos los tipos de <0col=7f sovier en</0>7f sovier personajes regulares.
+Hola, [PLAYER_NAME]. Soy Paul, el tutor de Ironman. ¿Qué puedo hacer por ti?;Hej, [PLAYER_NAME]. Soy Paul, lärare i Ironman. ¿Qué puedo hacer por ti?
+Las estadísticas se congelarán en los resultados del <col=b10000>Hardcore Ironman</col>.;Las estadísticas se congelarán en los resultados del <col=b10000>Hardcore Ironman</col>.
+Si sois un grupo atrevido, incluso podéis probar <col=b10000>Hardcore Group Ironmen</col>. Con Hardcore Group Ironmen tienes un número determinado de vidas, cuando lleguen a cero, te convertirás en <col=7f0000>Group Ironmen</col> normal.;Om du är en grupp attrevido, inkluderar du troligen <col=b10000>Hardcore Group Ironmen</col>. Med Hardcore Group Ironmen har ett nummer som bestämts, vilket gör det enkelt, omvandlas till <col=7f0000>Group Ironmen</col> normalt.
+Para el desafío definitivo, puedes elegir convertirte en un <col=00007f>Ultimate Ironman</col>, un modo de juego inspirado en el jugador <col=00007f>IronNoBank</col>.;Para el desafío definitivo, puedes elegir convertirte en un <col=00007f>Ultimate Ironman</col>, un modo de juego inspirado en el jugador <col=00007f>IronNoBank</col>.
+Si alguna vez decides invitar a jugadores experimentados a tu grupo, te convertirás en <col=7f0000>grupo sin clasificar <col=7f0000>hombres de hierro</col>, que ya no se muestran en los resultados de Ironman del grupo.;Si alguna vez beslutar invitar a jugadores experimentados a tu grupo, te convertirás en <col=7f0000>grupo sin clasificar <col=7f0000>hombres de hierro</col>, que ya no se muestran en los resultados de Ironman del grupo.
+Una vez que hayas abandonado esta isla, podrás encontrar a mi colega Adam en Lumbridge, pero él solo te permitirá cambiar tus restricciones hacia abajo, no hacia arriba.;Una vez que hayas abandonado esta isla, podrás encontrar a mi colega Adam en Lumbridge, men él solo te permitirá cambiar tus restricciones hacia abajo, no hacia arriba.
+What would you do if I said 'yes'?;Vad skulle du göra om jag sa "ja"?
+Halt! Are you here to sabotage the Motherlode Mine?;Stanna! Är du här för att sabotera Motherlode-gruvan?
+No, I'm not.;Nej, det är jag inte.
+What's the Motherlode Mine?;Vad är Motherlode-gruvan?
+Hey there, [PLAYER_NAME]. I need you to kill the pheasant that has four tails. Bring me the raw pheasant when you're done.;Hej där, [PLAYER_NAME]. Jag behöver att du dödar fasanen som har fyra svansar. Ge mig den råa fasanen när du är klar.
+Ok, vou ajudar com seus faisões.;Ok, vou ajudar com seus faisões.
+O que você gostaria de dizer?;O que você gostaria de dizer?
+Agora traga-me o faisão cru.;Agora traga-me o faisão cru.
+You get lederhosen legs for your help, many thanks!;Du får lederhosen ben för din hjälp, stort tack!
+Há algo em que eu possa ajudá-lo?;Há algo em que eu possa ajudá-lo?
+Saudações! Sou Hassan, Chanceler do Emir de Al Kharid.;Saudações! Sou Hassan, kansler för Emir de Al Kharid.
+Não, obrigado, vou dar uma volta.;Não, obrigado, vou dar uma volta.
+Tudo bem, vou lá.;Tudo bem, vou lá.
+Posso passar por este portão?;Posso passar por este portão?
+Claro.;Claro.
+Está muito quente aqui. Como você aguenta isso?;Está muito quente aqui. Como você aguenta isso?
+Você se importa se eu matar seus guerreiros?;Você se importa se eu matar seus guerreiros?
+Bem... atualmente temos um problema muito urgente que precisamos resolver, e suponho que você parece alguém que sabe como fazer um trabalho. Você está definitivamente interessado em ajudar?;Bem... atualmente temos um problema muito brådskande que precisamos resolver, e suponho que você parece alguém que sabe como fazer um trabalho. Vill du vara definitivt intresserad?
+Iniciar a missão Resgate do Príncipe Ali?;Vill du missa Resgate do Príncipe Ali?
+Você encontrará nosso Spymaster, Osman, do lado de fora do palácio. Vá até ele e diga que eu enviei você. Ele irá informá-lo sobre os detalhes do nosso problema.;Você encontrará nosso Spymaster, Osman, do lado de fora do palácio. Vá até ele e diga que eu enviei você. Ele irá informá-lo sobre os detalhes do nosso problema.
+Você deve pagar um pedágio de dez moedas de ouro para passar.;Você deve pagar um pedágio de dez moedas de ouro para passar.
+É melhor eu ir embora.;É melhor eu ir embora.
+Justo. Então, qual é esse problema?;Justo. Então, qual é esse problema?
+Er... eu só perguntei se ele precisava de ajuda e ele disse que sim.;Er... eu só perguntei se ele precisava de ajuda e ele disse que sim.
+De fato. Você tem mais alguma dúvida antes de ir?;De fato. Você tem mais alguma dúvida antes de ir?
+Você sabe por que eles levaram o Príncipe?;Você sabe por que eles levaram o Príncipe?
+Osman? O Chanceler me disse para vir falar com você. Aparentemente você tem um problema com o qual posso ajudar.;Osman? O Chanceler me disse para vir falar com você. Aparentemente você tem um problema com o qual posso ajudar.
+Você fez uma afirmação justa. Você sabe como é a Keli?;Você fez uma afirmação justa. Você sabe como é a Keli?
+Não. Acho que sei tudo o que preciso.;Não. Acho que sei tudo o que preciso.
+Segundo nossas informações, Keli é a única capaz de circular livremente pela área. Para tirar o Príncipe de lá, você precisará disfarçá-lo como ela. É claro que ela precisará ser tratada primeiro.;Segundo nossas informações, Keli é a única capaz de circular livremente pela área. Para tirar o Príncipe de lá, você precisará disfarçá-lo como ela. É claro que ela precisará ser tratada primeiro.
+Bem, tenho certeza que consigo fazer isso. Como faço para resgatá-lo?;Bem, tenho certeza que consigo fazer isso. Como faço para resgatá-lo?
+Claro, você precisará encontrar uma maneira de fazer com que Keli lhe mostre a chave sem causar suspeitas. Tenho certeza que Leela pode ajudá-lo com isso.;Claro, você precisará encontrar uma maneira de fazer com que Keli lhe mostre a chave sem causar suspeitas. Tenho certeza que Leela pode ajudá-lo com isso.
+O Príncipe foi levado por um grupo de bandidos liderados pela autoproclamada 'Lady' Keli. Eles o estão mantendo na prisão abandonada a leste da Vila Draynor.;O Príncipe foi levado por um grupo de bandidos liderados pela autoproclamada 'Lady' Keli. Eles o estão mantendo na prisão abandonada a leste da Vila Draynor.
+Antes de ir, há mais uma coisa. Você precisará de uma chave para tirar o Príncipe de sua cela. Keli tem o único. Você poderia roubá-lo, mas parece um risco que devemos evitar.;Antes de ir, há mais uma coisa. Você precisará de uma chave para tirar o Príncipe de sua cela. Keli tem o único. Você poderia roubá-lo, mas parece um risco que devemos evitar.
+Parece que eu deveria ir até Draynor Village e ver Leela então.;Parece que eu deveria ir até Draynor Village e ver Leela então.
+E colocar em risco a vida do Príncipe no processo? Não. Não haverá riscos desnecessários. Precisamos fazer isso com o mínimo de derramamento de sangue possível.;E colocar em risco a vida do Príncipe no processo? Não. Não haverá riscos desnecessários. Precisamos fazer isso com o minimo de derramamento de sangue possível.
+Mas se ela tem a única cópia e eu não posso simplesmente roubá-la, como consigo a chave?;Mas se ela tem a única cópia e eu não posso simplesmente roubá-la, como consigo a chave?
+Ela tem cabelos loiros e usa roupas rosa. Minha filha, Leela, uma das minhas espiãs, está atualmente na Vila Draynor de olho na prisão. Tenho certeza que ela pode ajudá-lo com os detalhes.;Ela tem cabelos loiros e usa roupas rosa. Minha filha, Leela, uma das minhas espiãs, está atualmente na Vila Draynor de olho na prisão. Tenho certeza que ela pode ajudá-lo com os detalhes.
+Se você me trouxer uma impressão da chave junto com uma barra de bronze, posso lhe mostrar como fazer uma cópia. Você deverá conseguir fazer uma impressão da chave usando um pouco de argila macia.;Se você me trouxer uma impressão da chave junto com uma barra de bronze, posso lhe mostrar como fazer uma cópia. Você deverá conseguir fazer uma impressão da chave usando um pouco de argila macia.
+Esse homem é demasiado confiante numa altura em que devemos tomar cuidado extra. No entanto, se ele tomou a sua decisão, não a questionarei. Ainda assim, você deve saber que estarei de olho em você.;Esse homem é demasiado confiante numa altura em que devemos tomar cuidado extra. No entanto, se ele tomou a sua decisão, não a questionarei. Ainda assim, você deve sabre que estarei de olho em você.
+Por que não posso simplesmente entrar e matar ela e seus bandidos?;Por que não posso simplesmente entrar e matar ela e seus bandidos?
+Essa seria uma descrição adequada. No entanto, considero você uma escolha interessante do Chanceler. Por que ele escolheu confiar essa tarefa a você em vez de uma das nossas?;Essa seria uma descrição adequada. No entanto, considero você uma escolha interessante do Chanceler. Por que ele escolheu confiar essa tarefa a você em vez de uma das nossas?
+O Príncipe Ali, herdeiro do Emir de Al Kharid, foi levado. Meus espiões já descobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.;O Príncipe Ali, herdeiro do Emir de Al Kharid, foi levado. Meus espiões já descobriram onde ele está preso, mas precisamos de alguém para fazer o resgate.
+Onde está Leela em Draynor?;Är du Leela em Draynor?
+Então você deveria ir.;Então você deveria ir.
+Sim, eu gostaria de um pouco de corda.;Sim, eu gostaria de um pouco de corda.
+Why, hello there, lad. Me friends call me Ned. I was a man of the sea, but it's past me now. Could I be making or selling you some rope?;Hej då, pojke. Mina vänner kallar mig Ned. Jag var en man av havet, men det är förbi mig nu. Kan jag göra eller sälja något rep till dig?
+Que tal algum tipo de peruca?;Que tal algum tipo de peruca?
+Você faz corda de lã?;Você faz corda de lã?
+Tenho certeza que posso. O que você está pensando?;Tenho certeza que posso. O que você está pensando?
+Não, obrigado, Ned. Eu não preciso de nenhum.;Não, obrigado, Ned. Eu não preciso de nenhum.
+Bem, posso te vender uma corda por 15 moedas. Ou posso fazer alguns para você se você me der quatro novelos de lã. Eu os une, sim, os torna fortes.;Bem, posso te vender uma corda por 15 moedas. Ou posso fazer alguns para você se você me der quatro novelos de lã. Eu os une, sim, os torna fortes.
+Você poderia fazer outras coisas além da corda?;Você poderia fazer outras coisas além da corda?
+Claro que você pode!;Claro que você pode!
+Você poderia tricotar um suéter para mim?;Você poderia tricotar um suéter para mim?
+Hello again, lad. Something I can help you with? Want to buy some rope perhaps?;Hej igen, pojke. Något jag kan hjälpa dig med? Vill du köpa rep kanske?
+Você poderia consertar os buracos das flechas nas costas da minha camisa?;Você poderia consertar os buracos das flechas nas costas da minha camisa?
+Na verdade, não preciso de nada.;Na verdade, não preciso de nada.
+O que você poderia fazer por mim?;O que você poderia fazer por mim?
+Isso é um pouco mais do que quero pagar.;Isso é um pouco mais do que quero pagar.
+Bem, querido, você precisa de uma base para a pasta. Isso é uma mistura de cinza, farinha e água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me esses quatro itens e eu farei alguns para você.;Bem, querido, você precisa de uma base para a pasta. Isso é uma mistura de cinza, farinha e água. Então você precisa de amoras vermelhas para colorir como quiser. Traga-me esses quatro itens e eu farei alguns para você.
+Sua velha bruxa maluca, você não pode me ajudar.;Sua velha bruxa maluca, você não pode me ajudar.
+Vou pegar um pouco de lã.;Vou pegar um pouco de lã.
+Em que posso ajudá-lo?;Em que posso ajudá-lo?
+Ora, é uma das minhas poções mais populares! Muitas pessoas por aqui gostam de embelezar um pouco o rosto. Posso fazer isso para você se você me conseguir o que for necessário.;Ora, é uma das minhas poções mais populares! Muitas pessoas por aqui gostam de embelezar um pouco o rosto. Posso fazer isso para você se você me conseguir o que for necessário.
+Você quer um pouco de corda ou não?;Você quer um pouco de corda ou não?
+Aí está, a melhor corda de Guilenor.;Aí está, en melhor corda de Guilenor.
+O que você precisa?;O que você precisa?
+Você pode fazer pasta de pele?;Você pode fazer pasta de pele?
+Legal, você transforma pessoas em sapos?;Juridisk, você transforma pessoas em sapos?
+Ok, por favor me venda um pouco de corda.;Okej, för att jag vill ha det.
+Estou bem, obrigado.;Estou bem, obrigado.
+Gostaria de acessar minha conta bancária, por favor.;Gostaria de acessar minha conta bancária, por favor.
+Gostaria de verificar minhas configurações de PIN.;Gostaria de verificar minhas configurações de PIN.
+Eu gostaria de comprar mais slots bancários.;Eu gostaria de comprar mais slots bancários.
+O que é esse lugar?;O que é esse lugar?
+Howdy there partner! You came at just the right time! I've got something for ya!;Hej där partner! Du kom precis i rätt tid! Jag har något för dig!
+Bem-vindo ao Mercado Geral. Você gostaria de negociar agora ou trocar conjuntos de itens?;Bem-vindo ao Mercado Geral. Você gostaria de negociar agora eller trocar conjuntos de itens?
+Sim, por favor. Misture-me um pouco de pasta de pele.;Sim, tack. Misture-me um pouco de pasta de pele.
+Eu não deveria incomodar alguém tão durão quanto você.;Eu não deveria incomodar alguém tão durão quanto você.
+Ouvi rumores de que você mata pessoas.;Ouvi rykten de que você mata pessoas.
+Você deve ter treinado muito para esse trabalho.;Você deve ter treinado muito para esse trabalho.
+Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.;Torniquete, Fenderbaum, Tottenham, Marshmallow, Marblearch.
+Sim, estou muito ocupado. Adeus.;Sim, estou muito occupado. Adeus.
+É muita gentileza sua dizer isso. Reputações não são conquistadas facilmente. Consegui ter sucesso onde muitos falham.;É muita gentileza sua dizer isso. Reputações não são conquistadas facilmente. Consegui ter sucesso onde muitos falham.
+Você é a famosa Lady Keli? Líder da gangue de bandidos mais difícil do mundo?;Você é a famosa Lady Keli? Líder da gangue de bandidos mais difícil do mundo?
+Não, obrigado. Não preciso de nenhuma pasta de pele agora.;Não, obrigado. Não preciso de nenhuma pasta de pele agora.
+Já ouviu falar de você? You're famous in Gielinor!;Ja ouviu falar de você? Du är känd i Gielinor!
+Qual é o seu plano mais recente então?;Vad är det för en ny månad?
+Aí está, querido. Isso fará com que você fique bem nas danças de Varrock.;Aí está, querido. Isso fará com que você fique bem nas danças de Varrock.
+Oh, você gosta de xingar uma bruxa, não é?;Åh, você gosta de xingar uma bruxa, não é?
+Isso é uma multa por insultar uma bruxa. Você deveria aprender um pouco de respeito.;Isso é uma multa por insultar uma bruxa. Você deveria aprender um pouco de respeito.
+Sim, eu sou Keli. Você já ouviu falar de mim então?;Sim, eu sou Keli. Você já ouviu falar de mim então?
+Não, nunca ouvi falar de você.;Não, nunca ouvi falar de você.
+Yes, I can. I see you already have the ingredients - the water, flour, ashes and redberries. Would you like me to mix some for you now?;Ja, det kan jag. Jag ser att du redan har ingredienserna - vattnet, mjölet, askan och rödbären. Vill du att jag ska blanda lite åt dig nu?
+Isso deveria ser simples. Entregue as coisas para Aggie então.;Isso deveria ser enkla. Entregue as coisas para Aggie então.
+Por que você quer saber?;Por que você quer saber?
+Obrigado. É melhor eu ir agora.;Obrigado. É melhor eu ir agora.
+Bem... só por um momento então.;Bem... só por um momento então.
+Posso tocar na tecla por um momento, por favor?;Posso tocar na tecla por um momento, por favor?
+É claro que você precisará provar seu valor antes de permitirmos que você se junte a nós. Contudo, o que posso dizer é que atualmente temos um prisioneiro muito valioso. Se tudo correr bem, ele nos tornará muito ricos.;É claro que você precisará provar seu valor antes de permitirmos que você se junte a nós. Contudo, o que posso dizer é que atualmente temos um prisioneiro muito valioso. Se tudo correr bem, ele nos tornará muito ricos.
+Não existe outra chave como esta no mundo.;Não existe outra chave como esta no mundo.
+Bem, suponho que não há mal nenhum em deixar você ver isso. Afinal, você não tem esperança de roubá-lo.;Bem, suponho que não há mal nenhum em deixar você ver isso. Afinal, você não tem esperança de roubá-lo.
+Será algo que poderei contar aos meus netos, quando vocês forem ainda mais famosos do que são agora.;Será algo que poderei contar aos meus netos, quando vocês forem ainda mais famosos do que são agora.
+Como você sabe que alguém não tentará libertá-lo?;Como você sabe que alguém não tentará libertá-lo?
+Para pegá-lo? Oh sim. Tivemos que agarrá-lo sem que seus guarda-costas percebessem. Foi um golpe de gênio. Principalmente obra minha, é claro.;För pegá-lo? Åh sim. Tivemos que agarrá-lo sem que seus guarda-costas percebessem. Foi um golpe de gênio. Principalmente obra minha, é claro.
+Muito obrigado! Você é muito gentil.;Muito obrigado! Você é muito gentil.
+De nada, mas vá embora agora. I will need some time to consider your request to join us.;De nada, mas vá embora agora. Jag kommer att behöva lite tid för att överväga din begäran om att få gå med oss.
+Ah, entendo. You must have been very skillful.;Ah, entendo. Du måste ha varit väldigt skicklig.
+Bem, eu vou embora. Boa sorte.;Bem, eu vou embora. Boa sorte.
+Bem, na verdade eu esperava me juntar ao seu grupo.;Bem, na verdade eu esperava me juntar ao seu grupo.
+Posso ver a chave, por favor?;Posso ver a chave, por favor?
+Essa é uma boa maneira de guardar segredos.;Essa é uma boa maneira de guardar segredos.
+Sempre há alguém pronto para espalhar boatos. Eu ouço todo tipo de coisas ridículas hoje em dia.;Semper há alguém pronto para espalhar boatos. Eu ouço todo tipo de coisas ridículas hoje em dia.
+Não há como libertá-lo. A única chave da cela dele está numa corrente em volta do meu pescoço, e o serralheiro que a fez morreu repentinamente.;Não há como libertá-lo. En única chave da cela dele está numa corrente em volta do meu pescoço, e o serralheiro que a fez morreu repentinamente.
+Por que?;Vadå?
+Bem, boa sorte com isso.;Bem, boa sorte com isso.
+Junte-se a nós? Interessante... suponho que você tenha essa aparência.;Junte-se a nos? Interessante... suponho que você tenha essa aparência.
+Não;Não
+Usarei isso para fazer uma cópia de backup da chave. Darei para Leela caso você perca o seu.;Usarei isso para fazer uma cópia de backup da chave. Darei para Leela caso você perca o seu.
+Eu vou indo.;Eu vou indo.
+Tenho uma impressão da chave.;Tenho uma impressão da chave.
+Agora, você tem mais alguma dúvida?;Agora, você tem mais alguma dúvida?
+Bom, você vai levar isso e sua barra de bronze para uma fornalha. Derreta o bronze, despeje na impressão e deixe esfriar. Isso lhe dará uma cópia da chave.;Bom, você vai levar isso e sua barra de bronze para uma fornalha. Derreta o brons, despeje na impressão e deixe esfriar. Isso lhe dará uma cópia da chave.
+Você tem mais alguma dúvida?;Você tem mais alguma dúvida?
+Não, mas temos as nossas teorias.;Não, mas temos as nossas teorias.
+Quer compartilhá-los?;Quer compartilhá-los?
+Ela estará em algum lugar perto da prisão abandonada que os bandidos estão usando. It's just east of the village.;Ela estará em algum lugar perto da prisão abandonada que os bandidos estão usando. Det är strax öster om byn.
+Isso danificará a impressão?;Är så danificará ett intryck?
+Você de novo. Como vão as coisas em Draynor?;Você de novo. Como vão som coisas em Draynor?
+Não. Você ainda não provou seu valor o suficiente para receber essa informação.;Não. Você ainda não provou seu valor o suficiente para receber essa informação.
+É possível... Deixe-me dar uma olhada brevemente.;É possível... Deixe-me dar uma olhada brevemente.
+Ainda estou trabalhando para reunir todos os itens que preciso.;Ainda estou trabalhando para reunir todos os itens que preciso.
+Create a key using the key print?;Skapa en nyckel med nyckelutskriften?
+Bem, se precisar de ajuda, é só falar com Leela.;Bem, se precisar de ajuda, é so falar com Leela.
+Preciso obter uma cópia da chave da cela do Príncipe, criar um disfarce para ele que o faça parecer com Keli e depois tirá-lo da prisão.;Preciso obter uma cópia da chave da cela do Príncipe, criar um disfarce para ele que o faça parecer com Keli e depois tirá-lo da prisão.
+Eu diria que é um bom resumo. Agora, você tem alguma pergunta para mim sobre alguma parte do plano?;Eu diria que é um bom resumo. Agora, você tem alguma pergunta para mim sobre alguma parte do plano?
+Você deve ser Leela. Your father sent me to help rescue Prince Ali.;Você deve ser Leela. Din far skickade mig för att hjälpa till att rädda prins Ali.
+Could I buy a beer please?;Kan jag köpa en öl snälla?
+Alguma ideia para o disfarce?;Alguma idéa para o disfarce?
+Why are you called Longbow Ben?;Varför heter du Longbow Ben?
+Have you got any quests I could do?;Har du några uppdrag jag kan göra?
+Sure, that will be 2 gold coins please.;Visst, det blir 2 guldmynt tack.
+Você ouviu algum boato aqui?;Você ouviu algum boato aqui?
+Sim, ele avisou que você viria. Você está ciente do plano?;Sim, ele avisou que você viria. Você está ciente do plano?
+Estou procurando pelo Frank Barba Ruiva.;Estou procurando pelo Frank Barba Ruiva.
+Ok, aqui está.;Ok, aqui está.
+Você está de volta. Você já tem tudo o que precisa?;Você está de volta. Você já tem tudo o que precisa?
+Não pense assim. Eu irei e me prepararei.;Não pense assim. Eu irei e me prepararei.
+Arrr, amigo!;Arrr, amigo!
+Alguma idéia para a chave?;Alguma idéa para a chave?
+Bom trabalho. Agora, antes de libertar o Príncipe, você precisará encontrar uma maneira de lidar com sua guarda pessoal. Ele é falador, então tente encontrar um ponto fraco. Lembre-se, não queremos violência desnecessária.;Bom trabalho. Agora, antes de libertar o Príncipe, você precisará encontrar uma maneira de lidar com sua guarda pessoal. Ele é falador, então tente encontrar um ponto fraco. Lembre-se, não queremos violência desnecessária.
+Tudo bem. Vou conversar com esse guarda.;Tudo bem. Du kan prata med dig.
+Eu tenho um pouco de cerveja aqui. Gosta de um?;Eu tenho um pouco de cerveja aqui. Gosta de um?
+O que?;O vad?
+Aqui, guarde isso para mais tarde. Detesto ver um guarda sedento.;Aqui, guarde isso para mais tarde. Detesto ver um guarda sedento.
+Hello! I'm here to tie you up!;Hej! Jag är här för att binda dig!
+O que você queria ser quando era menino?;O que você queria ser quando era menino?
+Você gostaria de outra cerveja, meu amigo?;Você gostaria de outra cerveja, meu amigo?
+O que você quer?;O que você quer?
+Na verdade, não preciso de um agora.;Na verdade, não preciso de um agora.
+Eu realmente quero.;Eu realmente quero.
+Isso foi perfeito! Não posso agradecer o suficiente.;Isso foi perfeito! Não posso agradecer o suficiente.
+Aqui você vai. Que tal um esforço rápido? Nada mal, eu acho!;Aqui você vai. Que tal um esforço rápido? Nada mal, eu acho!
+Ah, isso seria adorável. Só um, só para molhar a garganta.;Ah, isso seria adorável. Só um, só para molhar a garganta.
+Francamente! Essa lavagem é exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.;Francamente! Essa lavagem é exatamente o que preciso para ficar em guarda. Chega de cerveja, não quero ficar bêbado.
+Bem... esse é um pensamento interessante. Sim, acho que poderia fazer alguma coisa. Dê-me três novelos de lã e talvez eu consiga fazer isso.;Bem... esse é um pensamento interessante. Sim, acho que poderia fazer alguma coisa. Dê-me três novelos de lã e talvez eu consiga fazer isso.
+Ok, vou tentar.;Okej, du tävlar.
+Ainda não. Eu irei e me prepararei.;Ainda não. Eu irei e me prepararei.
+Eu os tenho aqui. Por favor, faça-me uma peruca.;Eu os tenho aqui. Por favor, faça-me uma peruca.
+Conte-me sobre a vida de um guarda.;Bekräfta mig om att skydda mig.
+Obrigado Ned. Há mais em você do que aparenta.;Obrigado Ned. Há mais em você do que aparenta.
+Claro. Deve ser difícil estar aqui sem beber.;Claro. Deve ser difícil estar aqui sem beber.
+É melhor não. Não quero ficar bêbado em serviço.;É melhor não. Não quero ficar bêbado em serviço.
+Thank you, my friend. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.;Tack, min vän. Devo deixá-lo agora, mas meu pai lhe pagará bem por isso.
+O príncipe Ali está em casa em segurança. Você tem a eterna gratidão do Emir por resgatar seu filho. Por favor, aceite este pagamento como um agradecimento.;O principe Ali está em casa em segurança. Você tem a eterna gratidão do Emir por resgatar seu filho. Por favor, aceite este pagamento como um agradecimento.
+Pegue esse disfarce. Você pode usá-lo para passar pelos guardas do lado de fora.;Pegue esse disfarce. Você pode usá-lo para passar pelos guardas do lado de fora.
+Ah, graças a Deus! Qual é o seu plano?;Åh, tack en Deus! Vad är det för plan?
+Príncipe Ali? Estou aqui para resgatar você.;Princip Ali? Estou aqui para resgatar você.
+Bem, eu não descreveria isso como uma missão, mas há algo em que preciso de ajuda.;Bem, eu não descreveria isso como uma missão, mas há algo em que preciso de ajuda.
+Saudações. Welcome to my castle.;Saudações. Välkommen till mitt slott.
+A Ordem dos Magos da Torre dos Magos tem estado em busca de artefatos mágicos recentemente. Eu me pergunto se isso pode ser exatamente o tipo de coisa que eles procuram.;En Ordem dos Magos da Torre dos Magos estado em busca de artefatos mágicos recentemente. Eu me pergunto se isso pode ser exatamente o tipo de coisa que eles procuram.
+Muito obrigado. Você encontrará a Torre dos Feiticeiros a sudoeste daqui, do outro lado da ponte da Vila Draynor. Ao chegar, procure por Sedridor. Ele é o Arquimago dos magos de lá.;Muito obrigado. Você encontrará a Torre dos Feiticeiros a sudoeste daqui, do outro lado da ponte da Vila Draynor. Ao chegar, skaffa av Sedridor. Ele é o Arquimago dos magos de lá.
+Você estaria disposto a levá-los para mim?;Você estaria disposto a levá-los para mim?
+Claro, não há problema.;Claro, não högt problem.
+Iniciar a missão Mistérios Rúnicos?;Vill du ha missat Mistérios Rúnicos?
+Você tem alguma missão para mim?;Você tem alguma missão para mim?
+O que é?;O que é?
+Onde posso encontrar dinheiro?;Om du har något att göra med?
+Recentemente, estávamos vasculhando algumas coisas armazenadas no porão e encontramos este antigo talismã.;Recentemente, estávamos vasculhando algumas coisas armazenadas no porão e encontramos este antigo talismã.
+Primeira torre? Esqueceu minha essência? Do que você está falando?;Primeira torre? Esqueceu minha essência? Do que você está falando?
+Foi incendiado por membros traidores da nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.;Foi incendiado por membros traidores da nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.
+Bem-vindo, aventureiro, à mundialmente famosa Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Somos o grupo de bruxos mais antigo e prestigiado do mundo. Agora, como posso ajudá-lo?;Bem-vindo, aventureiro, à mundialmente famosa Torre dos Feiticeiros, sede da Ordem dos Feiticeiros. Somos o grupo de bruxos mais antigo e prestigiado do mundo. Agora, como posso ajudá-lo?
+O processo de imbuir runas é chamado de criação de runas. Diz a lenda que esta já foi uma arte comum, mas os segredos de como fazê-la foram perdidos até pouco menos de duzentos anos atrás.;O processo de imbuir runas é chamado de criação de runas. Diz a lenda que esta já foi uma arte comum, mas os segredos de como fazê-la foram perdidos até pouco menos de duzentos anos atrás.
+Sedridor? O que você quer com ele?;Sedridor? O que você quer com ele?
+O Duque de Lumbridge enviou-me para procurá-lo. Eu tenho esse talismã que ele encontrou. Ele disse que Sedridor estaria interessado nisso.;O Duque de Lumbridge enviou-me para procurá-lo. Eu tenho esse talismã que ele encontrou. Ele disse que Sedridor estaria interessado nisso.
+Quando a torre pegou fogo, muita coisa foi perdida, incluindo um importante encantamento. Um feitiço que poderia ser usado para se teletransportar para uma mina de essência oculta.;Quando a torre pegou fogo, muita coisa foi perdida, incluindo um importante encantamento. Um feitiço que poderia ser usado para se teletransportar para uma mina de essência oculta.
+Quebra-cabeça?;Quebra-cabeça?
+De fato! O legado perdido da primeira torre. Este talismã pode de fato ser a chave para encontrar a minha essência esquecida!;De fato! O legado perdido da primeira torre. Este talismã pode de fato ser a chave para encontrar a minha essência esquecida!
+Vá em frente.;Vá em frente.
+Ok, aqui está você.;Ok, aqui está você.
+Desde que o encantamento foi perdido, temos lutado para manter nossos estoques de essência rúnica.;Desde que o encantamento foi perdido, temos lutado para manter nossos estoques de essência rúnica.
+Ah, minhas desculpas, aventureiro. Permita-me informá-lo.;Ah, minhas desculpas, aventureiro. Permita-me informá-lo.
+Precisamente. A essência rúnica é o material usado para fazer runas, mas é incrivelmente raro. Essa essência minha era o único lugar que nossa ordem conhecia.;Precisamente. En essência rúnica é o material usado para fazer runas, mas é incrivelmente raro. Essa essência minha era o único lugar que nossa ordem conhecia.
+Essas runas são criadas a partir de um material altamente exclusivo e depois imbuídas de poder mágico de vários altares rúnicos. Altares diferentes criam runas diferentes com efeitos mágicos diferentes.;Essas runas são criadas a partir de um material altamente exclusivo e depois imbuídas de poder mágico de vários altares rúnicos. Altares diferentes criam runas diferentes com efeitos mágicos diferentes.
+Na verdade, não estou interessado.;Na verdade, não estou interessado.
+A essência minha que você mencionou anteriormente, presumo?;En essência minha que você mencionou anteriormente, presumo?
+Ele fez isso agora? Bem, entregue-o então e veremos o motivo de toda essa confusão.;Ele fez isso agora? Bem, entregue-o então e veremos o motivo de toda essa confusão.
+Não, só darei ao Sedridor.;Não, só darei ao Sedridor.
+Hmm... Não parece ser nada muito especial. Apenas um talismã de ar normal pela aparência das coisas. Ainda assim, as aparências enganam. Deixe-me dar uma olhada mais de perto...;Hmm... Não parece ser nada muito especial. Apenas um talismã de ar normal pela aparência das coisas. Ainda assim, som aparências enganam. Deixe-me dar uma olhada mais de perto...
+A redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também resultou no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.;En redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também resultou no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.
+Se foi a primeira torre, suponho que não exista mais? O que aconteceu?;Se foi a primeira torre, suponho que não exista mais? O que aconteceu?
+Como você provavelmente sabe, quando lançamos feitiços, o fazemos usando o poder das runas.;Como você provavelmente sabe, quando lançamos feitiços, o fazemos usando o poder das runas.
+Você é Sedridor?;Você é Sedridor?
+Que interessante... Parece que falei cedo demais. Há mais neste talismã do que aparenta. Na verdade, pode muito bem ser a última peça do quebra-cabeça.;Que interessant... Parece que falei cedo demais. Há mais neste talismã do que aparenta. Na verdade, pode muito bem ser a última peça do quebra-cabeça.
+Sério agora? Eu sou o Arquimago que você conhece.;Sério agora? Eu sou o Arquimago que você conhece.
+Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.;Você estaria disposto a visitá-lo por mim? Eu mesmo iria, mas gostaria de estudar um pouco mais esse talismã.
+É fundamental que eu compartilhe esta descoberta com meu associado, Aubury, o mais rápido possível. Ele não é um grande mago, mas é um especialista em criação de runas e sua visão será essencial.;É fundamental que eu compartilhe esta descoberta com meu associado, Aubury, o mais rápido possível. Ele não é um grande mago, mas é um especialista em criação de runas e sua visão será essencial.
+Sim, certamente.;Sim, certamente.
+Então o que acontece agora?;Então o que acontece agora?
+Teria sido levado muitas vezes à mina de essência, e as energias mágicas de lá terão deixado uma marca nele. E pensar que esteve escondido em Lumbridge todo esse tempo!;Teria sido levado muitas vezes à mina de essência, e as energias mágicas de lá terão deixado uma marca nele. E pensar que esteve escondido em Lumbridge todo esse tempo!
+Não me lembro de ter dito meu nome... Como você sabe disso?;Não me lembro de ter dito meu nome... Como você sabe disso?
+Estou começando a entender por que isso é tão importante. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?;Estou começando a entender por que isso é tão importante. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?
+Aparentemente, há aqueles por aí que ainda sabem onde encontrar alguma, mas embora estivessem dispostos a vender-nos a essência, recusaram-se a partilhar conhecimentos sobre como encontrá-la nós próprios.;Aparentemente, há aqueles por aí que ainda sabem onde encontrar alguma, mas embora estivessem dispostos a vender-nos a essência, recusaram-se a partilhar conhecimentos sobre como encontrá-la nós próprios.
+Eu faço! Toda magia deixa rastros e, pelo que sei, esse talismã foi muito usado na época da primeira torre.;Eu faço! Toda magia deixa rastros e, pelo que sei, esse talismã foi muito usado na época da primeira torre.
+Não, estou ocupado.;Não, estou occupado.
+Boa sorte, [PLAYER_NAME].;Boa sorte, [PLAYER_NAME].
+Ele dirige uma loja de runas no sudeste de Varrock. Por favor, leve este pacote de notas de pesquisa para ele. Se tudo correr bem, os segredos da minha essência poderão em breve ser nossos novamente!;Ele dirige uma loja de runas no sudeste de Varrock. Por favor, leve este pacote de notas de pesquisa para ele. Se tudo correr bem, os segredos da minha essência poderão em breve ser nossos novamente!
+Você quer dizer o encantamento?;Você quer dizer o encantamento?
+Isso... isso é incrível.;Isso... isso é incrível.
+Eu adoraria uma xícara de chá.;Eu adoraria uma xícara de chá.
+Você quer comprar algumas runas?;Você quer comprar algumas runas?
+De Sedridor na Torre dos Feiticeiros.;De Sedridor na Torre dos Feiticeiros.
+Sim, por favor!;Sim, tack!
+Fui enviado aqui com um pacote para você.;Fui enviado aqui com um pacote para você.
+Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que poderíamos...;Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que poderíamos...
+Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graças a você, acho que finalmente conseguimos.;Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graças a você, acho que finalmente conseguimos.
+Antes de sair, por que não tomar uma xícara de chá?;Antes de sair, por que não tomar uma xícara de chá?
+Não, não, estou me adiantando. The signs are promising, but let's not jump to any conclusions just yet.;Não, não, estou me adiantando. Tecknen är lovande, men låt oss inte dra några slutsatser ännu.
+Aqui, leve essas anotações para Sedridor. Esperançosamente, eles deveriam dar a ele tudo o que ele precisa.;Aqui, leve essas anotações para Sedridor. Esperançosamente, eles deveriam dar a ele tudo o que ele precisa.
+Agora, vamos dar uma olhada...;Agora, vamos dar uma olhada...
+Oh, é uma loja de runas. Não, obrigado, então.;Åh, é uma loja de runas. Não, obrigado, então.
+De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para ele ter enviado um estranho.;De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para ele ter enviado um estranho.
+Um pacote? De quem?;Um pacote? De quem?
+Você pode me teletransportar para a Mina de Essência Rúnica?;Você pode me teletransportar para a Mina de Essência Rúnica?
+Este é o seu livro de feitiços, contém todos os feitiços que você pode lançar. Para lançar um feitiço, você precisará ter o nível de magia necessário e a quantidade certa de runas usadas para lançar o feitiço.;Este é o seu livro de feitiços, contém todos os feitiços que você pode lançar. Para lançar um feitiço, você precisará ter o nível de magia necessário e a quantidade certa de runas usadas para lançar o feitiço.
+O prazer é meu!;O prazer é meu!
+When you have a combat spell available, click on it once, then select your target. A good target would be a monster that is below your combat level.;När du har en stridsbesvärjelse tillgänglig, klicka på den en gång och välj sedan ditt mål. Ett bra mål skulle vara ett monster som är under din stridsnivå.
+Conte-me sobre o combate mágico, por favor.;Conte-me sobre o combate mágico, por favor.
+Também compartilharei o encantamento com outras pessoas, incluindo Aubury. Quando eu fizer isso, avisarei que você terá acesso ilimitado à mina.;Também compartilharei o encantamento com outras pessoas, incluindo Aubury. Quando eu fizer isso, avisarei que você terá acesso ilimitado à mina.
+Olá aventureiro, sou o tutor de combate mágico. Você gostaria de aprender sobre combate mágico ou talvez como fazer runas?;Olá aventureiro, sou o tutor de combate mágico. Você gostaria de aprender sobre combate mágico eller talvez como fazer runas?
+Há algumas coisas que você precisará para fazer runas, essência rúnica e um talismã para entrar nas ruínas do templo.;Há algumas coisas que você precisará para fazer runas, essência rúnica e um talismã para entrar nas ruínas do templo.
+Se você quiser acessar a minha essência por conta própria, é só me avisar. É o mínimo que posso fazer.;Se você quiser acessar a minha essência por conta própria, é só me avisar. É o mínimo que posso fazer.
+Caso você não saiba, o talismã pode ser usado para criar runas aéreas. Basta levá-lo para o Altar Aéreo ao sul de Falador junto com um pouco de essência rúnica.;Caso você não saiba, o talismã pode ser usado para criar runas aéreas. Basta levá-lo para o Altar Aéreo ao sul de Falador junto com um pouco de essência rúnica.
+Então você poderá acessar essa minha essência agora?;Então você poderá acessar essa minha essência agora?
+Vamos discutir como minhas runas agem quando eu as pego.;Vamos discutir como minhas runas agem quando eu as pego.
+If you want to save yourself an inventory space, you could always try binding the talisman to a tiara.;Om du vill spara dig själv ett inventeringsutrymme kan du alltid försöka binda talismanen till ett diadem.
+Como faço runas?;Como faço runas?
+When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes.;När du hittar det förstörda altaret, använd talismanen på det för att transporteras till ett tempel där du kan skapa dina runor.
+Nemarti, the Ranged Combat tutor and I both give out items every 30 minutes, however you must choose whether you want runes or ranged equipment.;Nemarti, Ranged Combat-läraren och jag delar båda ut föremål var 30:e minut, men du måste välja om du vill ha runor eller avståndsutrustning.
+Sim, eu tenho. Ele me deu algumas notas para entregar a você.;Sim, eu tenho. Ele me deu algumas notas para entregar a você.
+Quem mais conhece o teletransporte para a Mina de Essência Rúnica?;Vill du ha en teletransport för Mina de Essência Rúnica?
+Try rats in the castle or, if you're feeling brave, the goblins to the west have been causing a nuisance of themselves.;Prova råttor i slottet eller, om du känner dig modig, har trollerna i väster orsakat en olägenhet för sig själva.
+Clicking on the temple's altar will imbue your rune essence with the altar's magical property.;Att klicka på templets altare kommer att genomsyra din runessens med altarets magiska egenskap.
+To make one, take a tiara and talisman to the ruins and use the tiara on the temple altar. This will bind the talisman to your tiara.;För att göra en, ta en diadem och en talisman till ruinerna och använd diadem på tempelaltaret. Detta kommer att binda talismanen till din diadem.
+You will need a talisman for the rune you would like to create. You can right-click on it and select the Locate option. This will tell you the rough location of the altar.;Du behöver en talisman för runan du vill skapa. Du kan högerklicka på den och välja alternativet Hitta. Detta kommer att berätta för dig den grova placeringen av altaret.
+To claim runes, right-click on me and choose Claim, to claim ranged equipment right-click on the Ranged Combat tutor and select Claim.;För att göra anspråk på runor, högerklicka på mig och välj Anspråk, för att göra anspråk på avståndsutrustning högerklicka på Ranged Combat-handledaren och välj Anspråk.
+Não se preocupe se não conseguir encontrar o altar. O talismã pode guiá-lo até lá. Você também pode encontrar talismãs para outros altares enquanto se aventura. Eles permitirão que você crie outros tipos de runas.;Não se preocupe se não conseguir encontrar o altare. O talismã pode guiá-lo até lá. Você também pode encontrar talismãs para outros altares enquanto se aventura. Eles permitirão que você crie outros tipos de runas.
+Ah, [PLAYER_NAME]. How goes your quest? Have you delivered my research to Aubury yet?;Ah, [PLAYER_NAME]. Hur går ditt uppdrag? Har du levererat min forskning till Aubury än?
+Maravilhoso! Vamos dar uma olhada então.;Maravilhoso! Vamos dar uma olhada então.
+Ótimo! Obrigado!;Ótimo! Obrigado!
+Isso mesmo! Por sua causa, nossa ordem finalmente tem uma fonte adequada de essência rúnica novamente! Obrigado, amigo.;Isso mesmo! Por sua causa, nossa ordem finalmente tem uma fonte adequada de essência rúnica novamente! Obrigado, amigo.
+Sim, é isso! O encantamento perdido!;Sim, jag är så! O encantamento perdido!
+As you're fairly new to runecrafting you should start with air runes and mind runes.;Eftersom du är ganska ny på runecrafting bör du börja med luftrunor och tankerunor.
+Há mais alguma coisa que você gostaria de saber?;Há mais alguma coisa que você gostaria de sabre?
+Não posso ajudá-lo com isso no momento, desculpe.;Não posso ajudá-lo com isso no momento, desculpe.
+If you have the right amount of runes and the magic level the spell will light up, meaning you will be able to cast it.;Om du har rätt mängd runor och den magiska nivån kommer besvärjelsen att lysa upp, vilket betyder att du kommer att kunna kasta den.
+To check the level and runes required to cast a spell, hover your mouse cursor over the spell.;För att kontrollera nivån och runorna som krävs för att kasta en besvärjelse, för muspekaren över besvärjelsen.
+Você poderia me contar sobre a antiga Torre dos Feiticeiros?;Você poderia me contar sobre a antiga Torre dos Feiticeiros?
+To get rune essence you will need to gather them somehow. You should talk to the Duke of Lumbridge, he may be able to help you with that. Alternatively, other players may sell you the essence.;För att få runessens måste du samla dem på något sätt. Du borde prata med hertigen av Lumbridge, han kanske kan hjälpa dig med det. Alternativt kan andra spelare sälja essensen till dig.
+Ah, e você também pode ter esse talismã aéreo de volta. Não preciso mais dele e tenho certeza de que será útil para você.;Ah, e você também pode ter esse talismã aéreo de volta. Não preciso mais dele e tenho certeza de que será util para você.
+Tudo bem, vamos ver o que Aubury tem para nós...;Tudo bem, vamos ver o que Aubury tem para nós...
+Eu vou tentar.;Eu vou tentar.
+O mago Grayzag da casa ao lado decidiu que não gostava de mim, então alistou um exército de centenas de diabinhos.;O mago Grayzag da casa ao lado decidiu que não gostava de mim, então alistou um exército de centenas de diabinhos.
+Esses diabinhos roubaram todo tipo de coisas minhas. A maioria dessas coisas eu realmente não me importo, apenas ovos e bolas de barbante e coisas assim.;Esses diabinhos roubaram todo tipo de coisas minhas. A maioria dessas coisas eu realmente não me importo, apenas ovos e bolas de barbante e coisas assim.
+Isso é ótimo, obrigado.;Isso é ótimo, obrigado.
+Iniciar a missão Imp Catcher?;Har du missat Imp Catcher?
+Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minhas contas de volta para mim?;Esses diabinhos agora se espalharam por todo o reino. Você poderia pegar minhas contas de volta para mim?
+Bem, visto que você pediu com educação... preciso de ajuda.;Bem, visto que você pediu com educação... preciso de ajuda.
+Mas eles roubaram minhas quatro contas mágicas. Havia um vermelho, um amarelo, um preto e um branco.;Mas eles roubaram minhas quatro contas mágicas. Havia um vermelho, um amarelo, um preto e um branco.
+Ah, so you are there, Master [PLAYER_NAME]. I'm so glad you summoned me. Please take this lamp and make your wish.;Ah, så du är där, Mästare [PLAYER_NAME]. Jag är så glad att du kallade mig. Vänligen ta denna lampa och gör din önskan.
+T-hee! Você nunca ordenhou uma vaca antes, não é?;Dig! Você nunca ordenhou uma vaca antes, não é?
+Como faço para usar o banco?;Hur är det för oss?
+Greetings friend. I am a manufacturer of leather.;Hälsningar vän. Jag är en tillverkare av läder.
+I see you have brought me some hides. Would you like me to tan them for you?;Jag ser att du har tagit med några hudar till mig. Vill du att jag ska garva dem åt dig?
+Onde e o que devo pescar?;Om du vill devo pescar?
+Ahoy, to fish, you click on the shrimp fishin' spot while ye'r carrying a net.;Ojoj, för att fiska klickar du på räkfiskeplatsen medan du bär ett nät.
+Você pode me ensinar o básico da pesca, por favor?;Você pode me ensinar o básico da pesca, por favor?
+Conte-me sobre diferentes peixes.;Conte-me sobre diferentes peixes.
+I see... is that it?;Jag förstår... är det det?
+Ah, you've lost your net have you? Have another!;Ah, du har tappat ditt nät eller hur? Ha en till!
+About Will and Anne...;Om Will och Anne...
+Shiver me timbers! I'm afraid not. Old Grog said he might try and track them down. Perhaps he has an idea of where to find them.;Ryser mig timmer! Jag är rädd att inte. Gamle Grog sa att han kanske skulle försöka spåra upp dem. Kanske har han en idé om var man kan hitta dem.
+OlÃ¡!;Olá!
+I'm looking for an adventure! This place is meant to be the perfect place to find one for a budding pirate like me!;Jag letar efter ett äventyr! Det här stället är tänkt att vara det perfekta stället att hitta en för en blivande pirat som jag!
+What exactly is this one rule you keep mentioning?;Vad är det egentligen för en regel du nämner hela tiden?
+What are you waiting here for?;Vad väntar du på här?
+[2] About Will and Anne...;[2] Om Will och Anne...
+Ada! Nice to meet you!;Ada! Trevligt att träffas!
+Will and Anne threw me overboard and I washed up here. I did mention this earlier...;Will och Anne kastade mig överbord och jag diskade upp här. Jag nämnde detta tidigare...
+Nada, obrigado.;Nada, obrigado.
+But I don't have a vessel...;Men jag har inget kärl...
+Those plundering seadogs! Did you speak to Ribs about them?;De där plundrande sjöhundarna! Pratade du med Ribs om dem?
+I did. He seems to think they might have unleashed some sort of curse.;Det gjorde jag. Han verkar tro att de kan ha släppt lös någon form av förbannelse.
+And where would I find Old Grog?;Och var skulle jag hitta Old Grog?
+Blistering barnacles! Well, you won't be getting far without a boat of your own. You should head to the docks and speak with Junior Jim, our local shipwright. He'll get you sorted out.;Blåsande havstulpaner! Tja, du kommer inte långt utan en egen båt. Du borde bege dig till hamnen och prata med Junior Jim, vår lokala skeppsbyggare. Han fixar dig.
+Jolly Roger!;Rolig Roger!
+Alright, I'll go and see him.;Okej, jag ska gå och träffa honom.
+Ah, the curse of Barnacle Barnaby! It's one of Ribs' favourite tales. Just a myth of course, but the old dog does love his stories.;Ah, Barnacle Barnabys förbannelse! Det är en av Ribs favoritsagor. Bara en myt förstås, men den gamla hunden älskar sina berättelser.
+What? But then how did you get here?;Vad? Men hur kom du hit då?
+OlÃ¡. Quem Ã© vocÃª?;Olá. Quem Ã© vocÃª?
+Vamos ver o que vocÃª tem.;Vamos ver o que vocÃª tem.
+Yo ho ho! A mighty good decision! It's a generous bounty indeed. You don't go breaking the one rule of the Pandemonium and expect to get away with it!;Yo ho ho! Ett grymt bra beslut! Det är verkligen en generös belöning. Du bryter inte mot den enda regeln för Pandemonium och förväntar dig att komma undan med det!
+Well, myths aside, Ribs mentioned you'd put a bounty out for Will and Anne. I'd be quite keen to track them down myself.;Tja, myter åsido, Ribs nämnde att du skulle sätta ut en belöning för Will och Anne. Jag skulle vara väldigt sugen på att spåra dem själv.
+Ah, the old scallywag left not that long ago, but he'll be back here before long. He enjoys a drink far too much! In the meantime, you should hoist the sails and ready your vessel!;Ah, den gamla fjällen lämnade för inte så länge sedan, men han kommer snart tillbaka hit. Han njuter av en drink alldeles för mycket! Under tiden bör du hissa seglen och förbereda ditt fartyg!
+Yarr! What will it be?;Yarr! Vad blir det?
+Do you have any idea where Will and Anne might have gone?;Har du någon aning om var Will och Anne kan ha tagit vägen?

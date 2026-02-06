@@ -624,3 +624,129 @@ Useful Links;Links úteis
 Burn;Queimar
 10;10 
 Stornieren;Stornieren
+Group: Choose;Grupo: Escolha
+Group: Previous;Grupo: Anterior
+Pray;Rezar
+Investigate;Investigar
+Jump-onto;Pule para
+Withdraw-500;Retirar-500
+Move-left;Mover para a esquerda
+Grab;Pegar
+Move-down;Mover para baixo
+View Ignore List;Ver lista de ignorados
+Move-right;Mover para a direita
+Move-up;Subir
+Look-inside;Olhe para dentro
+Add-5<col=ff9040>;Adicionar-5<col=ff9040>
+Remove-legs;Remover pernas
+Add-X<col=ff9040>;Adicionar-X<col=ff9040>
+Add-10<col=ff9040>;Adicionar-10<col=ff9040>
+Add-All<col=ff9040>;Adicionar tudo<col=ff9040>
+Add<col=ff9040>;Adicionar<col=ff9040>
+Deposit-500;Depósito-500
+Check charges;Verifique as cobranças
+Default quantity: 500;Quantidade padrão: 500
+Filter;Filtro
+Load-outs;Carregamentos
+Done;Feito
+Show tutorial;Mostrar tutorial
+Scroll down;Role para baixo
+Hide menu;Ocultar menu
+Cancel downgrade;Cancelar downgrade
+View tab ;Guia Exibir
+Scroll up;Role para cima
+Show menu;Mostrar menu
+Paddle Canoe;Canoa a remo
+Shape-Canoe;Forma-Canoa
+Make<col=ff9040> Log canoe;Faça<col=ff9040> ​​canoa de toras
+Paddle Log;Registro de remo
+Float Log;Registro flutuante
+Travel to<col=ff9040> Champions Guild;Viaje para<col=ff9040> ​​Guilda dos Campeões
+Make<col=ff9040> Dugout canoe;Faça <col=ff9040> ​​canoa
+Jump-over;Pular sobre
+Quit;Desistir
+Grave info;Informações do túmulo
+Details;Detalhes
+Report for;Relatório para
+Fire;Fogo
+Steal-From;Roubar de
+Redeem-code;Código de resgate
+Holiday-items;Itens de férias
+Visit-Last;Última visita
+Add-House;Adicionar casa
+Add/Remove House;Adicionar/Remover Casa
+Harpoon;Arpão
+4;4 
+View Archive;Ver arquivo
+Enter House;Entre na casa
+View Poll;Ver enquete
+Big Net;Grande rede
+Walk-up;Prédio sem elevador
+Claim-Tokens;Tokens de reivindicação
+Animate;Animar
+Fish-in;Peixe
+Take-from;Retirada
+Look;Olhar
+Rotate;Girar
+Pick-lock;Gazua
+Extinguish;Extinguir
+Rub-together;Esfregar juntos
+Unmute;Ativar som
+View DPS on OSRS Wiki;Ver DPS no OSRS Wiki
+Set Bonus;Definir bônus
+Hide worn items;Ocultar itens usados
+Stat Bonus;Bônus de estatísticas
+Tickets;Ingressos
+Ride;Andar de
+Squeeze-through;Espremer
+Kill;Matar
+No;Não
+Area;Área
+Yes;Sim
+View missing items ;Ver itens faltantes
+Collect-note;Nota de coleta
+Collect-item;Item de coleta
+Disable <col=ff9040>Notes;Desativar <col=ff9040>Notas
+Info;Informações
+Sell: 1 x Bronze med helm;Venda: 1 x Elmo Med Bronze
+Pick-Lock;Gazua
+Collect-items;Itens de coleção
+Collect-notes;Notas de coleta
+Release all placeholders (12);Liberar todos os espaços reservados (12)
+Release them all;Solte todos eles
+Prune-top;Topo de ameixa
+Prune;Ameixa seca
+Prune-back;Podar
+Prune-sides;Lados de ameixa
+Tan <col=ff7000>X;Bronzeado <col=ff7000>X
+Tan <col=ff7000>5;Bronzeado <col=ff7000>5
+Tan <col=ff7000>1;Bronzeado <col=ff7000>1
+Tan <col=ff7000>All;Bronzeado <col=ff7000>Todos
+Smithing;Metalurgia
+Remove-X;Remover-X
+Remove-10;Remover-10
+Remove-5;Remover-5
+Remove-All;Remover tudo
+Hunter;Caçador
+Firemaking;Arte do Fogo
+Enable <col=ff9040>Swap;Ativar <col=ff9040>Troca
+Add all;Adicionar tudo
+Release all placeholders (1);Liberar todos os espaços reservados (1)
+Buy: 160 x Cowhide;Comprar: 160 x Couro
+Set price;Definir preço
+Sell: 195 x Leather;Venda: 195 x Couro
+Sell: 175 x Leather;Venda: 175 x Couro
+Buy: 10 x Air tiara;Comprar: 10 x tiara de ar
+Buy: 2 x Ring mould;Comprar: 2 x molde de anel
+pic;foto
+Set quantity;Definir quantidade
+Set wiki price;Definir preço da wiki
+Accept trade;Aceitar negociação
+Accept;Aceitar
+Buy: 1 x Mithril gold-trimmed set (lg);Comprar: 1 x conjunto Mithril com detalhes em ouro (lg)
+Buy: 15 x Diamond;Comprar: 15 x Diamante
+Sell: 55 x Emerald;Venda: 55 x Esmeralda
+Buy: 55 x Emerald;Comprar: 55 x Esmeralda
+Buy: 1 x Poison;Comprar: 1 x Veneno
+Buy: 34 x Ruby necklace;Comprar: 34 x colar Rubi
+Search for item;Pesquisar item
