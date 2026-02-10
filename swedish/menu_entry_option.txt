@@ -1,285 +1,285 @@
 Follow;Följa
+Bank;Bank
+Examine;Undersöka
+Cancel;Avboka
+Collect;Samla
+Trade with;Handla med
 Sets;Uppsättningar
 Exchange;Utbyta
 History;Historia
-Trade with;Handla med
-Walk here;Gå hit
-Examine;Undersöka
-Talk-to;Prata med
-Bank;Bank
-Lookup;Uppslag
-Cancel;Avboka
 Report;Rapportera
-Collect;Samla
+Talk-to;Prata med
+Lookup;Uppslag
+Walk here;Gå hit
 Prices;Priser
 Drop;Släppa
 Decant;Dekantera
 Use;Använda
-View guide prices;Se vägledande priser
+View <col=ff981f>Ranged</col> guide;Visa guiden <col=ff981f>Ranged</col>
 View <col=ff981f>Farming</col> guide;Se guiden <col=ff981f>Jordbruk</col>
-Wiki;Wiki
-Add to canvas;Lägg till på duk
-View <col=ff981f>Agility</col> guide;Se guiden <col=ff981f>Agility</col>
-View equipment stats;Se utrustningsstatistik
-View <col=ff981f>Herblore</col> guide;Se guiden <col=ff981f>Herblore</col>
-Remove;Ta bort
-View <col=ff981f>Magic</col> guide;Se guiden <col=ff981f>Magic</col>
 View <col=ff981f>Sailing</col> guide;Se guiden <col=ff981f>Segling</col>
 Call follower;Ring följare
-View <col=ff981f>Thieving</col> guide;Se guiden <col=ff981f>Thieving</col>
-View <col=ff981f>Woodcutting</col> guide;Se guiden <col=ff981f>Träskärning</col>
 View <col=ff981f>Construction</col> guide;Se guiden <col=ff981f>Bygg</col>
-View <col=ff981f>Ranged</col> guide;Visa guiden <col=ff981f>Ranged</col>
-View items kept on death;Visa föremål som förvaras vid döden
+Add to canvas;Lägg till på duk
+Remove;Ta bort
 View <col=ff981f>Runecraft</col> guide;Se guiden <col=ff981f>Runecraft</col>
+View <col=ff981f>Magic</col> guide;Se guiden <col=ff981f>Magic</col>
+View <col=ff981f>Thieving</col> guide;Se guiden <col=ff981f>Thieving</col>
+View <col=ff981f>Agility</col> guide;Se guiden <col=ff981f>Agility</col>
+View <col=ff981f>Woodcutting</col> guide;Se guiden <col=ff981f>Träskärning</col>
+View guide prices;Se vägledande priser
 View <col=ff981f>Cooking</col> guide;Se guiden <col=ff981f>Matlagning</col>
-View <col=ff981f>Crafting</col> guide;Se guiden <col=ff981f>Carfting</col>
+View equipment stats;Se utrustningsstatistik
 View <col=ff981f>Prayer</col> guide;Se guiden <col=ff981f>Bön</col>
+View <col=ff981f>Herblore</col> guide;Se guiden <col=ff981f>Herblore</col>
+View items kept on death;Visa föremål som förvaras vid döden
+Wiki;Wiki
+View <col=ff981f>Crafting</col> guide;Se guiden <col=ff981f>Carfting</col>
 Play;Spela
-Rewards;Belöningar
 Skull;Skalle
-View <col=ff981f>Strength</col> guide;Se guiden <col=ff981f>Styrka</col>
-View <col=ff981f>Defence</col> guide;Se guiden <col=ff981f>Försvar</col>
-View <col=ff981f>Slayer</col> guide;Se guiden <col=ff981f>Slayer</col>
-View <col=ff981f>Hunter</col> guide;Se guiden <col=ff981f>Jägare</col>
-View <col=ff981f>Hitpoints</col> guide;Se guiden <col=ff981f>Träffpunkter</col>
-View <col=ff981f>Fletching</col> guide;Se guiden <col=ff981f>Fletching</col>
+Rewards;Belöningar
 View <col=ff981f>Mining</col> guide;Se guiden <col=ff981f>Gruv</col>
-View <col=ff981f>Attack</col> guide;Se guiden <col=ff981f>Attack</col>
+View <col=ff981f>Hunter</col> guide;Se guiden <col=ff981f>Jägare</col>
+View <col=ff981f>Slayer</col> guide;Se guiden <col=ff981f>Slayer</col>
+View <col=ff981f>Strength</col> guide;Se guiden <col=ff981f>Styrka</col>
+View <col=ff981f>Hitpoints</col> guide;Se guiden <col=ff981f>Träffpunkter</col>
 View <col=ff981f>Smithing</col> guide;Se guiden <col=ff981f>Smithing</col>
-View <col=ff981f>Firemaking</col> guide;Se guiden <col=ff981f>Firemaking</col>
+View <col=ff981f>Defence</col> guide;Se guiden <col=ff981f>Försvar</col>
+View <col=ff981f>Fletching</col> guide;Se guiden <col=ff981f>Fletching</col>
+View <col=ff981f>Attack</col> guide;Se guiden <col=ff981f>Attack</col>
+Open <col=ff9040>Ardougne Journal</col>;Öppna <col=ff9040>Ardougne Journal</col>
 Read journal:;Läs dagbok:
-Open wiki guide:;Öppna wikiguide:
-Start Helper;Starta Helper
-Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
 Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Desert Journal</col>
+View <col=ff981f>Firemaking</col> guide;Se guiden <col=ff981f>Firemaking</col>
+Open <col=ff9040>Desert Journal</col>;Öppna <col=ff9040>Desert Journal</col>
 Show on map:;Visa på kartan:
 Start Quest Helper;Starta Quest Helper
+Start Helper;Starta Helper
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Open wiki guide:;Öppna wikiguide:
 Open wiki quick guide:;Öppna wiki snabbguide:
-Open <col=ff9040>Desert Journal</col>;Öppna <col=ff9040>Desert Journal</col>
-Open <col=ff9040>Ardougne Journal</col>;Öppna <col=ff9040>Ardougne Journal</col>
 Collection Overview;Samlingsöversikt
 Tasks;Uppgifter
 Achievement Diaries;Prestationsdagböcker
-Bosses;Chefer
 Overview;Översikt
-Collection Log;Insamlingslogg
 Reveal;Avslöja
+Bosses;Chefer
+Collection Log;Insamlingslogg
 Activate;Aktivera
 View;Se
 Cast;Kasta
-Setup;Inställning
-Join;Ansluta sig till
+Your Clan;Din klan
 Grouping;Gruppering
+Setup;Inställning
+Grand Exchange;Grand Exchange
 View another clan;Se en annan klan
 Configure;Konfigurera
-Grand Exchange;Grand Exchange
-Your Clan;Din klan
-Random;Slumpmässig
-Toggle;Växla
-Manual;Manuell
-Auto retaliate;Automatisk vedergällning
-Block;Blockera
-Settings;Inställningar
+Join;Ansluta sig till
 Punch;Stansa
-Kick;Sparka
+Toggle;Växla
+Auto retaliate;Automatisk vedergällning
+Settings;Inställningar
+Random;Slumpmässig
 Unlock hint;Lås upp tips
+Block;Blockera
+Kick;Sparka
+Manual;Manuell
+Select;Välja
 I don't know it.;Jag vet det inte.
 Exit;Utgång
-Select;Välja
 View Inbox;Visa inkorg
 Skills;Färdigheter
 View <col=ff981f>Fishing</col> guide;Se guiden <col=ff981f>Fiske</col>
+Worn Equipment;Sliten utrustning
+Enable spell reordering;Aktivera omordning av stavning
 Combat Options;Stridsalternativ
 Enable spell filtering;Aktivera stavningsfiltrering
 Disable prayer filtering;Inaktivera bönefiltrering
-Worn Equipment;Sliten utrustning
-Character Summary;Karaktärssammanfattning
-Enable spell reordering;Aktivera omordning av stavning
-Enable prayer reordering;Aktivera omordning av bön
 Quest List;Uppdragslista
+Character Summary;Karaktärssammanfattning
 Magic;Magi
 Prayer;Bön
+Enable prayer reordering;Aktivera omordning av bön
 Show;Visa
-Open Store;Öppna butik
 Deposit;Deposition
+Open Store;Öppna butik
 Loot;Plundra
 Destroy;Förstöra
 Music Player;Musikspelare
-Chop down;Hacka ner
 Inventory;Lager
-Useful links;Användbara länkar
+Chop down;Hacka ner
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Klan:</col> Visa ingen
+Report abuse;Anmäl missbruk
+World Switcher;World Switcher
 <col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Visa inga
+Display;Visa
+Useful links;Användbara länkar
 <col=ffff00>Trade:</col> Show friends;<col=ffff00>Handel:</col> Visa vänner
 Community;Gemenskap
-<col=ffff00>Clan:</col> Show none;<col=ffff00>Klan:</col> Visa ingen
-<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanal:</col> Visa ingen
-Display;Visa
-<col=ffff00>Private:</col> Show friends;<col=ffff00>Privat:</col> Visa vänner
 Audio;Audio
-<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Ställ in chattläge:</col> Klan (/@c)
-Switch tab;Byt flik
-Report game bug;Rapportera spelfel
-<col=ffff00>Private:</col> Clear history;<col=ffff00>Privat:</col> Rensa historik
-<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanal:</col> Visa alla
-Configure filter;Konfigurera filter
-Emotes;Känslor
-Account;Konto
-<col=ffff00>Public:</col> Show autochat;<col=ffff00>Offentlig:</col> Visa autochatt
-<col=ffff00>Clan:</col> Clear history;<col=ffff00>Klan:</col> Rensa historik
-Report abuse;Anmäl missbruk
-<col=ffff00>Public:</col> Show none;<col=ffff00>Offentlig:</col> Visa inga
-Ignore List;Ignorera listan
-<col=00ff00>Filter public chat</col>;<col=00ff00>Filtrera offentlig chatt</col>
-<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filtrera
-<col=00afff>Setup your autochat</col>;<col=00afff>Ställ in din autochatt</col>
-Take;Ta
-<col=ffff00>Private:</col> Show none;<col=ffff00>Privat:</col> Visa inga
-<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Visa alla
-<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klan:</col> Visa vänner
-Account Management;Kontohantering
-Chat-channel;Chatt-kanal
-<col=ffff00>Public:</col> Clear history;<col=ffff00>Offentlig:</col> Rensa historik
 <col=ffff00>Clan:</col> Show all;<col=ffff00>Klan:</col> Visa alla
-<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanal:</col> Visa vänner
 <col=ffff00>Private:</col> Show all;<col=ffff00>Privat:</col> Visa alla
-Logout;Utloggning
 <col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Ställ in chattläge:</col> Gästklan (/@gc)
 <col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanal:</col> Rensa historik
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privat:</col> Rensa historik
+Account;Konto
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klan:</col> Visa vänner
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanal:</col> Visa ingen
+Switch tab;Byt flik
+<col=ffff00>Public:</col> Show none;<col=ffff00>Offentlig:</col> Visa inga
 Friends List;Vänner lista
-World Switcher;World Switcher
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Offentlig:</col> Visa vänner
+Logout;Utloggning
 <col=ffff00>Public:</col> Show standard;<col=ffff00>Offentlig:</col> Visa standard
-<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Ställ in chattläge:</col> Kanal (/@f)
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanal:</col> Visa alla
+Emotes;Känslor
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Offentlig:</col> Visa autochatt
 <col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Ställ in chattläge:</col> Offentlig (/@p)
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Klan:</col> Rensa historik
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privat:</col> Visa inga
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Visa alla
+Account Management;Kontohantering
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Ställ in chattläge:</col> Klan (/@c)
+Report game bug;Rapportera spelfel
+Ignore List;Ignorera listan
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filtrera
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Offentlig:</col> Rensa historik
+Configure filter;Konfigurera filter
+<col=00ff00>Filter public chat</col>;<col=00ff00>Filtrera offentlig chatt</col>
+Take;Ta
 Controls;Kontroller
 <col=ffff00>Public:</col> Hide;<col=ffff00>Offentlig:</col> Dölj
-<col=ffff00>Public:</col> Show friends;<col=ffff00>Offentlig:</col> Visa vänner
-Close;Nära
+<col=00afff>Setup your autochat</col>;<col=00afff>Ställ in din autochatt</col>
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanal:</col> Visa vänner
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Ställ in chattläge:</col> Kanal (/@f)
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privat:</col> Visa vänner
+Chat-channel;Chatt-kanal
 Show on Map;Visa på kartan
+Close;Nära
 Outside;Utanför
-Yanille;Yanille
 Warnings;Varningar
-Seers';seers
 Enable warning;Aktivera varning
+Seers';seers
+Yanille;Yanille
 Animation;Animation
-Open <col=ff9040>Fremennik Journal</col>;Öppna <col=ff9040>Fremennik Journal</col>
-Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
 Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Öppna <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Fremennik Journal</col>;Öppna <col=ff9040>Fremennik Journal</col>
 Open <col=ff9040>Karamja Journal</col>;Öppna <col=ff9040>Karamja Journal</col>
-Open <col=ff9040>Lumbridge & Draynor Journal</col>;Öppna <col=ff9040>Lumbridge & Draynor Journal</col>
-Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador Journal</col>
-Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
-Open <col=ff9040>Kandarin Journal</col>;Öppna <col=ff9040>Kandarin Journal</col>
 Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja Journal</col>
 Open <col=ff9040>Falador Journal</col>;Öppna <col=ff9040>Falador Journal</col>
-Open <col=ff9040>Kourend & Kebos Journal</col>;Öppna <col=ff9040>Kourend & Kebos Journal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
+Open <col=ff9040>Kandarin Journal</col>;Öppna <col=ff9040>Kandarin Journal</col>
 Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin Journal</col>
-Bond Pouch;Bondpåse
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Öppna <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador Journal</col>
+Learn More;Läs mer
 DPS;DPS
 Search;Söka
-Learn More;Läs mer
-Open;Öppna
+Bond Pouch;Bondpåse
 Pick;Plocka
+Open;Öppna
 Join Castle Wars;Gå med i Castle Wars
-Attack;Attack
 Climb-down;Klättra ner
-Travel;Resa
-Rest;Vila
-Build;Bygga
+Attack;Attack
 Check;Kontrollera
+Rest;Vila
 Tend-to;Ted-to
+Build;Bygga
+Travel;Resa
 Add friend;Lägg till vän
 Add ignore;Lägg till ignorera
-Enter-guest;Ange-gäst
+Items;Föremål
 Climb-up;Klättra upp
 Enter;Skriva in
+Enter-guest;Ange-gäst
 Enter-member;Enter-medlem
-Items;Föremål
 Knock-at;Knacka på
 Smith;Smed
+Continue;Fortsätta
 Pet;Sällskapsdjur
 Shoo-away;Shoo-away
-Continue;Fortsätta
 Trade;Handel
-Create <col=ff9040>Sell</col> offer;Skapa ett <col=ff9040>Sälj</col>-erbjudande
-Favourite;Favorit
-Switch;Växla
-2;2 
-Create <col=ff9040>Buy</col> offer;Skapa ett <col=ff9040>Köp</col>-erbjudande
 1;1 
+Switch;Växla
+Create <col=ff9040>Sell</col> offer;Skapa ett <col=ff9040>Sälj</col>-erbjudande
+Create <col=ff9040>Buy</col> offer;Skapa ett <col=ff9040>Köp</col>-erbjudande
+Favourite;Favorit
+2;2 
 Clear;Rensa
 -5%;-5 %
-Collect to inventory;Samla till inventering
-+5%;+5 %
-Modify offer;Ändra erbjudandet
-Confirm;Bekräfta
-Abort offer;Avbryt erbjudande
 View offer;Se erbjudandet
++5%;+5 %
+Collect to inventory;Samla till inventering
+Confirm;Bekräfta
 Collect to bank;Hämta till bank
+Abort offer;Avbryt erbjudande
+Modify offer;Ändra erbjudandet
 Enter price;Ange pris
 Customise;Anpassa
 Guide price;Vägledande pris
-All;Alla
-Enter quantity;Ange kvantitet
 +1;+1
+Enter quantity;Ange kvantitet
+All;Alla
 Offer;Erbjuda
 Buy: 1 x Nature rune;Köp: 1 x Naturruna
 Buy-offer;Köp-erbjudande
 Chop-down;Kapa ner
 Look North;Titta norrut
-Look South;Titta söderut
-Look East;Se österut
 Look West;Se västerut
+Look East;Se österut
+Look South;Titta söderut
 Hide;Dölja
 Cook;Laga mat
 Refresh;Uppdatera
 Message;Meddelande
+Delete Friend;Ta bort vän
 Delete;Radera
 Add Friend;Lägg till vän
-Delete Friend;Ta bort vän
 Find;Hitta
 Toggle Run;Växla Kör
 Open subsection;Öppna underavdelning
 Pickpocket;Ficktjuv
 Claim-staves;Anspråksstavar
-Rake;Räfsa
 3;3 
 Inspect;Inspektera
-Toggle unlock message;Växla upplåsningsmeddelande
-Select <col=ff981f>Chat;Välj <col=ff981f>Chatt
-Mute;Stum
-All Settings;Alla inställningar
+Rake;Räfsa
 Select <col=ff981f>Activities;Välj <col=ff981f>Aktiviteter
-Select <col=ff981f>Gameplay;Välj <col=ff981f>Spelspel
-Select <col=ff981f>Audio;Välj <col=ff981f>Ljud
-Select <col=ff981f>Display;Välj <col=ff981f>Visa
+Mute;Stum
+Toggle unlock message;Växla upplåsningsmeddelande
+All Settings;Alla inställningar
+Select <col=ff981f>Chat;Välj <col=ff981f>Chatt
 Select <col=ff981f>Warnings;Välj <col=ff981f>Varningar
+Select <col=ff981f>Display;Välj <col=ff981f>Visa
+Select <col=ff981f>Audio;Välj <col=ff981f>Ljud
+Select <col=ff981f>Gameplay;Välj <col=ff981f>Spelspel
 View-journal;Visa-journal
 Stats;Statistik
 Rummage;Letande
 Switch View;Byt vy
 Guide;Guide
-View tab;Visa fliken
-Collapse tab;Komprimera fliken
-Withdraw-X;Dra tillbaka-X
-Withdraw-10000;Uttag-10000
-Withdraw-10;Uttag-10
-Withdraw-All;Dra tillbaka-Alla
-Remove placeholders;Ta bort platshållare
-Withdraw-5;Uttag-5
-Withdraw-All-but-1;Dra tillbaka-Allt-utom-1
-Withdraw-1;Uttag-1
 Release;Släppa
-Default quantity: 10,000;Standardantal: 10 000
-Default quantity: 1;Standardkvantitet: 1
-Set custom quantity;Ställ in anpassad kvantitet
-View tag tab;Visa taggfliken
+View tab;Visa fliken
+Withdraw-10;Uttag-10
+Withdraw-All-but-1;Dra tillbaka-Allt-utom-1
+Withdraw-10000;Uttag-10000
+Withdraw-X;Dra tillbaka-X
+Withdraw-5;Uttag-5
+Collapse tab;Komprimera fliken
+Remove placeholders;Ta bort platshållare
+Withdraw-1;Uttag-1
+Withdraw-All;Dra tillbaka-Alla
 Rename tag tab;Byt namn på taggfliken
+Set custom quantity;Ställ in anpassad kvantitet
+Default quantity: 10,000;Standardantal: 10 000
 Delete tag tab;Ta bort taggfliken
 Default quantity: 10;Standard kvantitet: 10
-Enable layout;Aktivera layout
 Change icon;Ändra ikon
+View tag tab;Visa taggfliken
+Default quantity: 1;Standardkvantitet: 1
 Export tag tab;Fliken Exportera tagg
+Enable layout;Aktivera layout
 Makeover;Makeover
 Unlock;Låsa upp
 Read;Läsa
@@ -295,458 +295,587 @@ Item;Punkt
 Note;Notera
 Swap;Byta
 Insert;Infoga
-Default quantity: All;Standardkvantitet: Alla
-Deposit inventory;Depositionsinventering
-Deposit worn items;Deponera slitna föremål
 Disable;Inaktivera
-Default quantity: 5;Standard kvantitet: 5
+Deposit worn items;Deponera slitna föremål
+Deposit inventory;Depositionsinventering
+Default quantity: All;Standardkvantitet: Alla
 Withdraw-14;Uttag-14
-Pay (Fruit tree);Betala (fruktträd)
+Default quantity: 5;Standard kvantitet: 5
 Default quantity: 14;Standardantal: 14
+Pay (Fruit tree);Betala (fruktträd)
+Dismantle;Ta isär
 Wield;Svinga
 Wear;Bära
-Dismantle;Ta isär
+Fullscreen <col=ff9040>World Map</col>;Helskärmskarta <col=ff9040>Världskarta</col>
 Minimise <col=ff9040>Minimap</col>;Minimera <col=ff9040>Minimarta</col>
 Floating <col=ff9040>World Map</col>;Flytande <col=ff9040>världskarta</col>
-Fullscreen <col=ff9040>World Map</col>;Helskärmskarta <col=ff9040>Världskarta</col>
 Castle Wars;Castle Wars
-Collect-from;Hämta-från
-Tears of Guthix;Tears of Guthix
 Farm Teleport;Farm Teleport
-Pray-at;Be-kl
-Story;Berättelse
-Equip;Utrusta
 Wintertodt Camp;Wintertodt Camp
-Rub;Gnugga
-Corporeal Beast;Corporale odjuret
-Monastery Teleport;Klostret Teleport
-Fortis Colosseum;Fortis Colosseum
+Tears of Guthix;Tears of Guthix
+Open Activity Adviser;Öppna Aktivitetsrådgivare
+Collect-from;Hämta-från
+Story;Berättelse
 Ferox Enclave;Ferox enklav
 Barbarian Outpost;Barbarians utpost
-Emir's Arena;Emirs Arena
 Burthorpe;Burthorpe
+Corporeal Beast;Corporale odjuret
+Equip;Utrusta
+Emir's Arena;Emirs Arena
+Pray-at;Be-kl
 Drink;Dryck
-Open Activity Adviser;Öppna Aktivitetsrådgivare
-Mine;Mina
-Uncharge;Ladda ur
+Monastery Teleport;Klostret Teleport
+Rub;Gnugga
+Fortis Colosseum;Fortis Colosseum
 Xeric's Lookout;Xerics utkik
-Steal-from;Stjäla-från
-Xeric's Honour;Xerics ära
-Check steps;Kontrollera steg
 Teleport;Teleportera
-Enable prayer filtering;Aktivera bönefiltrering
-Trim;Trim
+Uncharge;Ladda ur
 Perform;Utföra
-Loop;Slinga
-Xeric's Glade;Xerics Glade
-Xeric's Heart;Xerics hjärta
 Remove default;Ta bort standard
 Xeric's Inferno;Xerics inferno
-Deposit-X;Insättning-X
-Deposit-All;Insättning-Alla
-Default quantity: <col=ff9040>5</col>;Standardkvantitet: <col=ff9040>5</col>
-Deposit Lock Settings;Inställningar för insättningslås
-Disable inventory locks;Inaktivera lagerlås
+Enable prayer filtering;Aktivera bönefiltrering
+Xeric's Honour;Xerics ära
+Steal-from;Stjäla-från
+Mine;Mina
+Check steps;Kontrollera steg
+Xeric's Glade;Xerics Glade
+Trim;Trim
+Xeric's Heart;Xerics hjärta
+Loop;Slinga
 Deposit-10;Insättning-10
-Deposit-1;Insättning-1
-Deposit-5;Insättning-5
+Deposit Lock Settings;Inställningar för insättningslås
+Deposit-X;Insättning-X
 Default quantity: <col=ff9040>1</col>;Standardkvantitet: <col=ff9040>1</col>
+Deposit-All;Insättning-Alla
+Deposit-1;Insättning-1
+Default quantity: <col=ff9040>5</col>;Standardkvantitet: <col=ff9040>5</col>
+Deposit-5;Insättning-5
+Disable inventory locks;Inaktivera lagerlås
 Shave;Rakning
 Haircut;Frisyr
 Net;Netto
 Toggle Accept Aid;Växla Acceptera hjälp
-Empty;Tömma
 Eat;Äta
-Adventure Paths;Äventyrsvägar
+Empty;Tömma
 Clean;Rena
+Adventure Paths;Äventyrsvägar
 Smith set;Smith set
-Stab;Hugg
-Lunge;Utfall
 Slash;Snedstreck
 Placeholder;Platshållare
+Stab;Hugg
+Lunge;Utfall
 Name Changer;Namnbytare
 Upgrade Now;Uppgradera nu
 Disable spell filtering;Inaktivera stavningsfiltrering
 Close <col=ff9040>Floating panel</col>;Stäng <col=ff9040>Flytande panel</col>
-Ultimate Ironman;Ultimate Ironman
-7 days;7 dagar
-Hardcore Group Ironman;Hardcore Group Ironman
+Ironman;Ironman
+90 days;90 dagar
 Unranked Group Ironman;Orankad Group Ironman
 None;Ingen
 Group Ironman;Grupp Ironman
-Ironman;Ironman
+Ultimate Ironman;Ultimate Ironman
 Hardcore Ironman;Hardcore Ironman
 Proceed;Fortsätta
-90 days;90 dagar
+7 days;7 dagar
+Hardcore Group Ironman;Hardcore Group Ironman
 Top-floor;Översta våningen
 Cross;Korsa
 Smelt;Smälta
-Bait;Bete
-Toggle warnings;Växla varningar
 Lure;Locka
+Toggle warnings;Växla varningar
+Bait;Bete
 Buy;Köpa
 Bury;Begrava
-Check Kudos;Kolla Kudos
-Look at;Titta på
 Light;Ljus
-Adjust Brightness;Justera ljusstyrkan
-Select <col=ff981f>Controls;Välj <col=ff981f>Kontroller
-Board;Styrelse
-Grapple;Brottas
-Toggle skull prevention;Växla skalleförebyggande
+Look at;Titta på
+Check Kudos;Kolla Kudos
 Restore Default Zoom;Återställ standardzoom
+Select <col=ff981f>Controls;Välj <col=ff981f>Kontroller
+Toggle skull prevention;Växla skalleförebyggande
 Select <col=ff981f>Interfaces;Välj <col=ff981f>Gränssnitt
+Board;Styrelse
+Adjust Brightness;Justera ljusstyrkan
+Grapple;Brottas
 Buy-X;Köp-X
 Potions;Potions
 Buy-5;Köp-5
-Buy-1;Köp-1
 Buy-All;Köp-alla
-Show worn items;Visa slitna föremål
-Bottom-floor;Nedre våningen
-Locate;Lokalisera
-Disable Adventure Paths;Inaktivera äventyrsvägar
-Repair;Reparera
+Buy-1;Köp-1
+Show task: <col=ff9040>Getting started with Mining;Visa uppgift: <col=ff9040>Komma igång med Mining
 Show<col=ff9040> Task information;Visa<col=ff9040> ​​uppgiftsinformation
 Expand;Expandera
-Show task: <col=ff9040>Getting started with Mining;Visa uppgift: <col=ff9040>Komma igång med Mining
-More info;Mer info
-Check reward;Kontrollera belöning
-Show<col=ff9040> Paths;Visa<col=ff9040> ​​sökvägar
 Claim-trophies;Anspråk-troféer
-Set<col=ff9040> Focus;Ställ in<col=ff9040> ​​Fokus
-Show task: <col=ff9040>Getting started with Fishing;Visa uppgift: <col=ff9040>Komma igång med fiske
-Select <col=ff9040>Gatherer path;Välj <col=ff9040>Gatherer-sökväg
 Show task: <col=ff9040>Getting started with Woodcutting;Visa uppgift: <col=ff9040>Komma igång med träskärning
+Set<col=ff9040> Focus;Ställ in<col=ff9040> ​​Fokus
+Select <col=ff9040>Gatherer path;Välj <col=ff9040>Gatherer-sökväg
+Locate;Lokalisera
+Show worn items;Visa slitna föremål
+Show task: <col=ff9040>Getting started with Fishing;Visa uppgift: <col=ff9040>Komma igång med fiske
+Disable Adventure Paths;Inaktivera äventyrsvägar
+Check reward;Kontrollera belöning
+More info;Mer info
+Bottom-floor;Nedre våningen
+Show<col=ff9040> Paths;Visa<col=ff9040> ​​sökvägar
+Repair;Reparera
 Pick-from;Välj från
-Drop<col=ff9040> Focus;Släpp<col=ff9040> ​​Fokus
 Suck;Suga
 Close dropdown;Stäng rullgardinsmenyn
 Select <col=ff9040>Combat path;Välj <col=ff9040>Stridsbana
+Drop<col=ff9040> Focus;Släpp<col=ff9040> ​​Fokus
 Armour;Rustning
-Show<col=ff9040> Settings;Visa<col=ff9040> ​​inställningar
 Show <col=ff9040>path reward;Visa <col=ff9040>sökvägsbelöning
-View House Options;Visa husalternativ
+Show<col=ff9040> Settings;Visa<col=ff9040> ​​inställningar
 Open Bond Pouch;Öppen Bond-påse
-Empty containers;Tomma behållare
-Enable <col=ff9040>Notes;Aktivera <col=ff9040>Anteckningar
+View House Options;Visa husalternativ
 Enable <col=ff9040>Insert;Aktivera <col=ff9040>Infoga
 Age;Åldras
+Empty containers;Tomma behållare
 Enable;Aktivera
-Open Adventure Paths;Öppna äventyrsvägar
-Show task: <col=ff9040>Sharpshooter;Visa uppgift: <col=ff9040>Sharpshooter
-Claim;Krav
-Show task: <col=ff9040>Getting started with Magic;Visa uppgift: <col=ff9040>Komma igång med Magic
+Enable <col=ff9040>Notes;Aktivera <col=ff9040>Anteckningar
+Show task: <col=ff9040>Getting started with Ranged;Visa uppgift: <col=ff9040>Komma igång med Ranged
 Show task: <col=ff9040>Getting a grip on it;Visa uppgift: <col=ff9040>Få ett grepp om det
 Show task: <col=ff9040>Body builder;Visa uppgift: <col=ff9040>Kroppsbyggare
-Show task: <col=ff9040>Getting started with Attack;Visa uppgift: <col=ff9040>Komma igång med Attack
-Show task: <col=ff9040>Striking a pose;Visa uppgift: <col=ff9040>Att slå en pose
-Show task: <col=ff9040>Honing my aim;Visa uppgift: <col=ff9040>Slipa mitt mål
-Show task: <col=ff9040>Bringer of chaos;Visa uppgift: <col=ff9040>Bringer of chaos
-Show task: <col=ff9040>Building muscle;Visa uppgift: <col=ff9040>Bygga muskler
-Show task: <col=ff9040>Mithril defence;Visa uppgift: <col=ff9040>Mithril försvar
 Show task: <col=ff9040>Getting started with Defence;Visa uppgift: <col=ff9040>Komma igång med försvar
+Show task: <col=ff9040>Sharpshooter;Visa uppgift: <col=ff9040>Sharpshooter
+Show task: <col=ff9040>Getting started with Magic;Visa uppgift: <col=ff9040>Komma igång med Magic
+Show task: <col=ff9040>Bringer of chaos;Visa uppgift: <col=ff9040>Bringer of chaos
 Show task: <col=ff9040>Getting started with Strength;Visa uppgift: <col=ff9040>Komma igång med Strength
+Claim;Krav
+Show task: <col=ff9040>Honing my aim;Visa uppgift: <col=ff9040>Slipa mitt mål
 Show task: <col=ff9040>Sticks and stones;Visa uppgift: <col=ff9040>Pinnar och stenar
+Show task: <col=ff9040>Striking a pose;Visa uppgift: <col=ff9040>Att slå en pose
 Show task: <col=ff9040>Weapons master;Visa uppgift: <col=ff9040>Vapenmästare
-Show task: <col=ff9040>Getting started with Ranged;Visa uppgift: <col=ff9040>Komma igång med Ranged
+Open Adventure Paths;Öppna äventyrsvägar
+Show task: <col=ff9040>Getting started with Attack;Visa uppgift: <col=ff9040>Komma igång med Attack
+Show task: <col=ff9040>Mithril defence;Visa uppgift: <col=ff9040>Mithril försvar
+Show task: <col=ff9040>Building muscle;Visa uppgift: <col=ff9040>Bygga muskler
 Talk-To;Talk-To
 Shut;Stänga
 Pay-toll(10gp);Betalavgift (10gp)
 Revert;Återgå
-Deactivate;Avaktivera
 Ironman Group;Ironman Group
-Predict;Förutspå
+Deactivate;Avaktivera
 Leave;Lämna
 Copy-outfit;Copy-outfit
-<col=ffff00>Group:</col> Clear history;<col=ffff00>Grupp:</col> Rensa historik
-Jump;Hoppa
-Challenge;Utmaning
+Predict;Förutspå
 Reanimate;Väcka till liv
-Quick Pass;Snabbpass
-Pass;Passera
+Challenge;Utmaning
 <col=ffff00>Group:</col> Show friends;<col=ffff00>Grupp:</col> Visa vänner
-<col=ffff00>Group:</col> Show all;<col=ffff00>Grupp:</col> Visa alla
+Pass;Passera
 <col=ffff00>Group:</col> Show none;<col=ffff00>Grupp:</col> Visa ingen
+Jump;Hoppa
+<col=ffff00>Group:</col> Show all;<col=ffff00>Grupp:</col> Visa alla
+Quick Pass;Snabbpass
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Grupp:</col> Rensa historik
 Quench;Släcka
-Withdraw-18;Uttag-18
-Inside;Inuti
-Home;Hem
 Group;Grupp
+Inside;Inuti
+Break;Bryta
+Withdraw-18;Uttag-18
+Home;Hem
 Deposit-18;Insättning-18
 Build mode;Byggläge
-Resurrect;Återuppväcka
 Friend's house;Vännens hus
-Break;Bryta
-Rest (private);Vila (privat)
+Resurrect;Återuppväcka
 Equipment;Utrustning
-Check Charges;Kontrollera avgifter
+Rest (private);Vila (privat)
 Sort;Sortera
+Check Charges;Kontrollera avgifter
 Catch;Fånga
 Pick-lots;Plockpartier
 A Dark Disposition;En mörk disposition
-Jewellery of Jubilation;Jubelsmycken
-Store-X;Store-X
-Touch;Röra
 Lunch by the Lancalliums;Lunch vid Lancalliums
+Take Spade;Ta Spade
+History and Hearsay;Historia och hörsägen
+Jewellery of Jubilation;Jubelsmycken
+Touch;Röra
 Store;Lagra
+Take Seed Dibber;Ta Seed Dibber
+Store-X;Store-X
+Private;Privat
+Store-5;Butik-5
+Upgrade;Uppgradera
 Reminisce;Minnas
+Take Rake;Ta Rake
+The Fisher's Flute;Fiskarflöjten
+Quick-pass;Snabbpass
+Store-10;Butik-10
+Withdraw;Dra tillbaka
+Withdraw all;Dra tillbaka alla
+Store-All;Store-Alla
+Deposit all;Sätt in allt
 Shared;Delad
 Dig;Gräva
-Store-5;Butik-5
-Take Seed Dibber;Ta Seed Dibber
-Withdraw all;Dra tillbaka alla
-Upgrade;Uppgradera
-Withdraw;Dra tillbaka
-The Fisher's Flute;Fiskarflöjten
-Store-All;Store-Alla
-Take Spade;Ta Spade
-Take Rake;Ta Rake
-Deposit all;Sätt in allt
-Quick-pass;Snabbpass
-History and Hearsay;Historia och hörsägen
-Store-10;Butik-10
-Private;Privat
 Spin;Snurra
 Churn;Churn
 Shear;Klippa
 Close Activity Adviser;Stäng aktivitetsrådgivare
 Chart;Diagram
 Last-destination (AIP);Sista destination (AIP)
-Zoom out;Zooma ut
 Zanaris;Zanaris
-Buy 50;Köp 50
-Value;Värde
+Zoom out;Zooma ut
 Buy 10;Köp 10
 Buy 1;Köp 1
-Buy-50;Köp-50
 Buy 5;Köp 5
-Climb-over;Klättra över
-Milk;Mjölk
+Buy-50;Köp-50
+Buy 50;Köp 50
+Value;Värde
 Take-axe;Ta yxa
+Climb-over;Klättra över
 Steal-cowbell;Stjäla-koklocka
+Milk;Mjölk
 View Newspost;Se nyhetsinlägg
 View History;Visa historik
 New tab;Ny flik
-Collapse;Kollapsa
 New tag tab;Ny taggflik
 Import tag tab;Fliken Importera tagg
-View tag tabs;Visa taggflikar
 View journal <col=ff981f>The Restless Ghost</col>;Visa journalen <col=ff981f>The Restless Ghost</col>
+Collapse;Kollapsa
+View tag tabs;Visa taggflikar
 View all items;Visa alla objekt
 Rotate-clockwise;Vrid medurs
+Change;Ändra
+Release-bees;Släpp-bin
 Pick-up;Upphämtning
 Rotate-anticlockwise;Vrid moturs
-Release-bees;Släpp-bin
 Dig-up;Gräva upp
-Change;Ändra
-Remove board advert;Ta bort brädannonsen
-Teleport Menu;Teleportera meny
 Attach;Bifoga
 Lock;Låsa
-Sit-on;Sitt på
 Metamorphosis;Metamorfos
-Fossil Island;Fossil Island
 Configuration;Konfiguration
-Teleport menu;Teleportera meny
-Great Kourend;Bra Kourend
+Sit-on;Sitt på
+Remove board advert;Ta bort brädannonsen
 Fill;Fylla
+Great Kourend;Bra Kourend
+Fossil Island;Fossil Island
+Teleport menu;Teleportera meny
+Teleport Menu;Teleportera meny
 Chop;Hugga
 View journal <col=ff981f>X Marks the Spot</col>;Visa journal <col=ff981f>X Marks the Spot</col>
-Sell 50<col=ff9040>;Sälj 50<col=ff9040>
-Sell 10<col=ff9040>;Sälj 10<col=ff9040>
-Sell 1<col=ff9040>;Sälj 1<col=ff9040>
-Buy-10;Köp-10
-Value<col=ff9040>;Värde<col=ff9040>
-Feel;Känsla
 Sell 5<col=ff9040>;Sälj 5<col=ff9040>
+Feel;Känsla
+Sell 50<col=ff9040>;Sälj 50<col=ff9040>
+Sell 1<col=ff9040>;Sälj 1<col=ff9040>
+Value<col=ff9040>;Värde<col=ff9040>
+Buy-10;Köp-10
+Sell 10<col=ff9040>;Sälj 10<col=ff9040>
+Hitpoints;Träffpunkter
+Crafting;Hantverk
+Fletching;Fletching
+Fishing;Fiske
+Slayer;Baneman
 Steal from;Stjäla från
 Herblore;Herblore
-Strength;Styrka
-Woodcutting;Trähuggning
 Farming;Jordbruk
-Crafting;Hantverk
-Hitpoints;Träffpunkter
-View journal <col=ff981f>Cook's Assistant</col>;Visa journal <col=ff981f>Kockassistent</col>
-Fishing;Fiske
 Construction;Konstruktion
+Agility;Rörlighet
+Woodcutting;Trähuggning
+Sailing;Segling
+View journal <col=ff981f>Cook's Assistant</col>;Visa journal <col=ff981f>Kockassistent</col>
 Climb-into;Klättra in i
 Mining;Brytning
+Strength;Styrka
 Ranged;Avstånd
-Slayer;Baneman
-Agility;Rörlighet
-Fletching;Fletching
-Sailing;Segling
 Operate;Fungera
 View journal <col=ff981f>Romeo & Juliet</col>;Se tidskriften <col=ff981f>Romeo & Julia</col>
 Take-flyer;Take-flyer
 +100;+100
+Choose item;Välj objekt
 +10;+10
 -1;-1
 Back;Tillbaka
 +1K;+1K
-Choose item;Välj objekt
 Flash icons;Flash ikoner
 Sacrifice;Offra
 Take-All;Take-All
 Jump-in;Hoppa in
 View journal <col=ff981f>Rune Mysteries</col>;Visa journalen <col=ff981f>Rune Mysteries</col>
+Pass-Through;Pass-Through
 Coffer;Kista
 Picklock;Picklock
 Switch world;Byt värld
-Pass-Through;Pass-Through
 Small Net;Litet nät
 Okay;Okej
 Perform <col=ff9040>Relic unlock</col>;Utför <col=ff9040>Relikupplåsning</col>
-Comercio;Comercio
-Carterista;Carterista
-Examinar;Examinator
-Caminar aqui;Caminar aqui
-Ataque;Ataque
-Cerca;Cerca
-Buscar;Buscar
 Abierto;Abierto
-Tronchar;Tronchar
+Comercio;Comercio
+Examinar;Examinator
+Cerca;Cerca
+Ataque;Ataque
+Buscar;Buscar
 Hablar con;Hablar con
+Carterista;Carterista
+Caminar aqui;Caminar aqui
+Tronchar;Tronchar
 Take-Coffin;Ta-kista
+Make;Göra
+5;5 
 Pay;Betala
 Other quantity;Annan mängd
-5;5 
-Make;Göra
-Move;Flytta
 Jump-up;Hoppa upp
-Scatter;Sprida ut
-Check Name;Kontrollera Namn
 Balance;Balans
+Check Name;Kontrollera Namn
+Scatter;Sprida ut
+Move;Flytta
 Contents;Innehåll
 Talk to;Tala med
 Zoom in;Zooma in
 Useful Links;Användbara länkar
-Burn;Bränna
 10;10 
+Burn;Bränna
 Stornieren;Stornieren
-Group: Choose;Grupp: Välj
-Group: Previous;Grupp: Föregående
 Pray;Be
+Group: Previous;Grupp: Föregående
+Group: Choose;Grupp: Välj
 Investigate;Undersöka
 Jump-onto;Hoppa på
 Withdraw-500;Uttag-500
-Move-left;Flytta till vänster
 Grab;Hugg
-Move-down;Flytta ner
-View Ignore List;Visa ignoreringslistan
 Move-right;Flytta höger
+View Ignore List;Visa ignoreringslistan
+Move-down;Flytta ner
+Move-left;Flytta till vänster
 Move-up;Flytta upp
-Look-inside;Titta inuti
-Add-5<col=ff9040>;Lägg till-5<col=ff9040>
+Add-All<col=ff9040>;Lägg till alla<col=ff9040>
 Remove-legs;Ta bort benen
+Add<col=ff9040>;Lägg till<col=ff9040>
+Add-5<col=ff9040>;Lägg till-5<col=ff9040>
+Look-inside;Titta inuti
 Add-X<col=ff9040>;Lägg till-X<col=ff9040>
 Add-10<col=ff9040>;Lägg till-10<col=ff9040>
-Add-All<col=ff9040>;Lägg till alla<col=ff9040>
-Add<col=ff9040>;Lägg till<col=ff9040>
 Deposit-500;Insättning-500
 Check charges;Kontrollera avgifter
 Default quantity: 500;Standardantal: 500
-Filter;Filtrera
 Load-outs;Belastningar
 Done;Gjort
-Show tutorial;Visa handledning
-Scroll down;Scrolla ner
+Filter;Filtrera
 Hide menu;Dölj menyn
+Scroll down;Scrolla ner
 Cancel downgrade;Avbryt nedgradering
 View tab ;Visa fliken
-Scroll up;Scrolla uppåt
+Show tutorial;Visa handledning
 Show menu;Visa meny
-Paddle Canoe;Paddla kanot
+Scroll up;Scrolla uppåt
+Make<col=ff9040> Dugout canoe;Gör<col=ff9040> ​​Dugout kanot
 Shape-Canoe;Shape-kanot
+Paddle Canoe;Paddla kanot
+Float Log;Flytlogg
 Make<col=ff9040> Log canoe;Gör<col=ff9040> ​​timmerkanot
 Paddle Log;Paddellogg
-Float Log;Flytlogg
 Travel to<col=ff9040> Champions Guild;Res till<col=ff9040> ​​Champions Guild
-Make<col=ff9040> Dugout canoe;Gör<col=ff9040> ​​Dugout kanot
-Jump-over;Hoppa över
 Quit;Sluta
 Grave info;Grav info
+Jump-over;Hoppa över
 Details;Detaljer
 Report for;Anmäl för
-Fire;Brand
 Steal-From;Stjäla-från
 Redeem-code;Lös in kod
+Fire;Brand
 Holiday-items;Semesterartiklar
 Visit-Last;Besök-Sista
 Add-House;Add-House
 Add/Remove House;Lägg till/ta bort hus
+Big Net;Stort nät
+Enter House;Gå in i huset
 Harpoon;Harpun
 4;4 
-View Archive;Visa arkiv
-Enter House;Gå in i huset
 View Poll;Visa omröstning
-Big Net;Stort nät
+View Archive;Visa arkiv
 Walk-up;Walk-up
 Claim-Tokens;Claim-tokens
 Animate;Animera
-Fish-in;Fish-in
 Take-from;Ta-från
-Look;Titt
+Fish-in;Fish-in
 Rotate;Rotera
+Look;Titt
+Rub-together;Gnid ihop
 Pick-lock;Pick-lock
 Extinguish;Släcka
-Rub-together;Gnid ihop
 Unmute;Slå på ljudet
-View DPS on OSRS Wiki;Se DPS på OSRS Wiki
-Set Bonus;Ställ in bonus
-Hide worn items;Göm slitna föremål
 Stat Bonus;Stat Bonus
-Tickets;Biljetter
-Ride;Rida
+Set Bonus;Ställ in bonus
+View DPS on OSRS Wiki;Se DPS på OSRS Wiki
+Hide worn items;Göm slitna föremål
 Squeeze-through;Kläm igenom
+Ride;Rida
+Tickets;Biljetter
 Kill;Döda
 No;Inga
 Area;Område
 Yes;Ja
-View missing items ;Visa saknade föremål
-Collect-note;Samla-lapp
 Collect-item;Samla föremål
 Disable <col=ff9040>Notes;Inaktivera <col=ff9040>Anteckningar
-Info;Info
+View missing items ;Visa saknade föremål
+Collect-note;Samla-lapp
 Sell: 1 x Bronze med helm;Sälj: 1 x Brons med rodret
+Info;Info
 Pick-Lock;Pick-Lock
 Collect-items;Samla-föremål
 Collect-notes;Samla-lappar
-Release all placeholders (12);Släpp alla platshållare (12)
 Release them all;Släpp dem alla
+Release all placeholders (12);Släpp alla platshållare (12)
+Prune-back;Beskär-rygg
 Prune-top;Prune-top
 Prune;Beskära
-Prune-back;Beskär-rygg
 Prune-sides;Beskär-sidor
-Tan <col=ff7000>X;Tan <col=ff7000>X
 Tan <col=ff7000>5;Tan <col=ff7000>5
-Tan <col=ff7000>1;Tan <col=ff7000>1
 Tan <col=ff7000>All;Tan <col=ff7000>Alla
+Tan <col=ff7000>1;Tan <col=ff7000>1
+Tan <col=ff7000>X;Tan <col=ff7000>X
 Smithing;Smithing
 Remove-X;Ta bort-X
-Remove-10;Ta bort-10
-Remove-5;Ta bort-5
 Remove-All;Ta bort-alla
+Remove-5;Ta bort-5
+Remove-10;Ta bort-10
 Hunter;Jägare
 Firemaking;Eldning
 Enable <col=ff9040>Swap;Aktivera <col=ff9040>Swap
 Add all;Lägg till alla
 Release all placeholders (1);Släpp alla platshållare (1)
 Buy: 160 x Cowhide;Köp: 160 x kohud
-Set price;Sätt pris
 Sell: 195 x Leather;Sälj: 195 x Läder
+Set price;Sätt pris
 Sell: 175 x Leather;Sälj: 175 x Läder
 Buy: 10 x Air tiara;Köp: 10 x Air tiara
 Buy: 2 x Ring mould;Köp: 2 x Ringform
-pic;bild
-Set quantity;Ställ in kvantitet
 Set wiki price;Ange wiki-pris
+Set quantity;Ställ in kvantitet
+pic;bild
 Accept trade;Acceptera handel
 Accept;Acceptera
 Buy: 1 x Mithril gold-trimmed set (lg);Köp: 1 x Mithril guldtrimmad set (lg)
 Buy: 15 x Diamond;Köp: 15 x Diamant
-Sell: 55 x Emerald;Sälj: 55 x Emerald
 Buy: 55 x Emerald;Köp: 55 x Emerald
-Buy: 1 x Poison;Köp: 1 x Poison
+Sell: 55 x Emerald;Sälj: 55 x Emerald
 Buy: 34 x Ruby necklace;Köp: 34 x Ruby halsband
+Buy: 1 x Poison;Köp: 1 x Poison
 Search for item;Sök efter objekt
+Sell: 124 x Tuna;Sälj: 124 x tonfisk
+Buy: 1 x Rune axe;Köp: 1 x Runyxa
+Sell: 83 x Energy potion(4);Sälj: 83 x energidryck(4)
+Check-Count;Check-Count
+Bash;Våldsamt slag
+Pound;Pund
+Earth Bolt;Jordbult
+Fire Strike;Brandslag
+Choose spell;Välj besvärjelse
+Fire Bolt;Eldbult
+Fire Blast;Eldsprängning
+Earth Blast;Earth Blast
+Earth Wave;Jordvåg
+Water Blast;Vattensprängning
+Push;Tryck
+Quantity:;Kvantitet:
+View Smithing on the Wiki;Se Smithing på Wiki
+Pull;Dra
+Buy: 129 x Limpwurt root;Köp: 129 x Limpwurtrot
+View <col=ff9040>Mining</col> guide;Se guiden <col=ff9040>Gruv</col>
+Buy: 600 x Hammer;Köp: 600 x Hammer
+Pick refreshment;Välj förfriskningar
+Focus;Fokus
+Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania Journal</col>
+Open <col=ff9040>Western Provinces Journal</col>;Öppna <col=ff9040>Western Provinces Journal</col>
+Open <col=ff9040>Morytania Journal</col>;Öppna <col=ff9040>Morytania Journal</col>
+Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Western Provinces Journal</col>
+Open <col=ff9040>Varrock Journal</col>;Öppna <col=ff9040>Varrock Journal</col>
+Wiki <col=ff9040>Varrock Journal</col>;Wiki <col=ff9040>Varrock Journal</col>
+Disturb;Störa
+Peek;Titt
+Examiner;Examinator
+Annuler;Annuler
+Marcher ici;Marcher ici
+Add-mulch;Lägg till kompost
+Reset;Återställa
+Top-Floor;Översta våningen
+Hit;Hit
+Warriors' Guild;Warriors' Guild
+Karamja;Karamja
+Commune;Kommun
+Monastery;Kloster
+Draynor Village;Draynor Village
+Champions' Guild;Champions' Guild
+Edgeville;Edgeville
+Al Kharid;Al Kharid
+Ranging Guild;Ranging Guild
+Lay;Lägga
+Land's End;Land's End
+Port Sarim;Port Sarim
+Craft;Hantverk
+Take-last-cargo;Ta sista lasten
+Port Piscarilius;Port Piscarilius
+Sort-salvage;Sortera-räddning
+Cancel-task;Avbryt-uppgift
+Take-any-cargo;Ta vilken last som helst
+Claim-rewards;Anspråk-belöningar
+Board-previous;Styrelse-föregående
+Take-cargo;Ta last
+Board-friend;Styrelse-vän
+Charter;Charter
+Dock;Docka
+Make sets:;Gör set:
+Smash;Smash
+Fur Clothing;Pälskläder
+WOM lookup;WOM-sökning
+Taverley;Taverley
+Contract;Kontrakt
+Rimmington;Rimmington
+Deposit-200000000;Insättning-200000000
+Prifddinas;Prifddinas
+Pollnivneach;Pollnivneach
+Tele to POH;Tele till POH
+Lock-slot;Lås-spår
+Default quantity: 200,000,000;Standardkvantitet: 200 000 000
+Take-all;Ta allt
+Check-health;Kontrollera hälsa
+Rellekka;Rellekka
+Unload;Lossa
+Brimhaven;Brimhaven
+Withdraw-200000000;Uttag-200000000
+Hosidius;Hosidius
+Aldarin;Aldarin
+Deposit-14;Insättning-14
+Purchase Amulet;Köp amulett
+Drink-from;Drick-från
+Float Canoe;Flytkanot
+Make<col=ff9040> Stable dugout canoe;Gör<col=ff9040> ​​Stabil nedgravd kanot
+Travel to<col=ff9040> Lumbridge;Res till<col=ff9040> ​​Lumbridge
+Walk-Down;Walk-Down
+Walk-Up;Walk-Up
+Thieving;Att tjuva
+Defence;Försvar
+Excavate;Gräva
+Take-knife;Ta-kniv
+Take-tinderbox;Take-tinderbox
+Play-a;Play-a
+Play-c;Spela-c
+Play-b;Spela-b
+Play-e;Spela-e
+Play-d;Spela-d
+Play-g;Lek-g
+Play-f;Spela-f
+Observe;Observera
+Switch-onyx;Switch-onyx
+Switch-diamond;Switch-diamant
+Switch-zenyte;Switch-zenyte
+Switch-ruby;Switch-ruby
+Switch-emerald;Switch-smaragd
+Switch-sapphire;Switch-safir
+Fight;Bekämpa
+Toggle K/D;Växla K/D
+Take-seed;Ta-frö
+Take-pickaxe;Ta-plocka
+Dyes;Färgämnen
+Informe;Informera
+Deposit-50000;Deposition-50000
+Anadir ignorar;Anadir ignorerande
+Withdraw-50000;Uttag-50000
+Anadir amigo;Anadir amigo
+activar;aktiverar
+Longrange;Lång räckvidd
+Accurate;Exakt
+Talk-into;Tala in
+Prod;Prod
+Glider;Segelflygplan
+Glider-to Ta Quir Priw;Segelflygplan till Ta Quir Priw
+Travel to<col=ff9040> Barbarian Village;Res till<col=ff9040> ​​Barbarian Village
+Travel to<col=ff9040> Edgeville;Res till<col=ff9040> ​​Edgeville
