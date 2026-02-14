@@ -1,3616 +1,3616 @@
-1337sp34kr;1337sp34kr 
-A Doubt;Un doute
-Aemad;Aémad
-Aivas;Aivas
-'Birds-Eye' Jack;Jack « à vol d'oiseau »
-Abyssal leech;Sangsue abyssale
-Acidic Bloodveld;Veld de sang acide
-Alexandra;Alexandra
-Ali Morrisane;Ali Morrisane
-'Transmute' The Alchemist;'Transmuter' L'Alchimiste
-Abbot Langley;Abbé Langley
-Abyssal demon;Démon abyssal
-Adamant dragon;Dragon inflexible
-Aggie;Aggie
-Ali the Farmer;Ali le fermier
-50% Luke;50% Luc
-Abyssal walker;Marcheur abyssal
-Agrith Naar;Agrith Naar
-Agrith-Na-Na (hard);Agrith-Na-Na (dur)
-Air elemental;Élémentaire de l'air
-Alec Kincade;Alec Kincade
-Alexis;Alexis
-Alfonse the waiter;Alphonse le serveur
-Ali the Leaflet Dropper;Ali le compte-gouttes de dépliants
-Aberrant spectre;Spectre aberrant
-Adventurer;Aventurier
-Aeonisig Raispher;Éonisig Raispher
-Ahab;Achab
-Ali the Camel;Ali le chameau
-Ali the Kebab seller;Ali le vendeur de Kebab
-Ali the Mayor;Ali le maire
+ Sneaky undead fowl;Poule morte-vivante sournoise
+'Beedy-eye' Jones;"Beedy-eye" Jones
 'Beefy' Burns;Des brûlures « costaudes »
+'Betty' B.Boppin;'Betty' B. Boppin
 'Bird's-Eye' Jack;Jack « à vol d'oiseau »
+'Birds-Eye' Jack;Jack « à vol d'oiseau »
+'Black-eye';'Œil au beurre noir'
+'Currency' The Alchemist;'Monnaie' L'Alchimiste
+'Eagle-eye' Shultz;Shultz « à l'œil d'aigle »
+'Gummy';'Gommeux'
+'Lecherous' Lee;Lee « lubrique »
+'No fingers';"Pas de doigts"
+'Picarron' Pete;Pete "Picarron"
 'Sticky' Sanders;Ponceuses « collantes »
+'The Guns';"Les armes"
+'Transmute' The Alchemist;'Transmuter' L'Alchimiste
+1337sp34kr;1337sp34kr 
+50% Luke;50% Luc
+? ? ? ?;? ? ? ?
+A Doubt;Un doute
 A pile of broken glass;Un tas de verre brisé
+A'abla;A'abla
+Abbot Langley;Abbé Langley
+Aberab;Abérab
+Aberrant spectre;Spectre aberrant
+Abhorrent spectre;Spectre odieux
+Abidor Crank;Manivelle Abador
+Abigaila;Abigaïla
+Abigale;Abigale
+Abomination;Abomination
+Abyssal Sire;Père abyssal
+Abyssal demon;Démon abyssal
+Abyssal guardian;Gardien abyssal
+Abyssal leech;Sangsue abyssale
+Abyssal orphan;Orphelin abyssal
+Abyssal walker;Marcheur abyssal
+Account Guide;Guide du compte
+Account security tutor;Tuteur en sécurité des comptes
+Achietties;Réalisations
+Acidic Bloodveld;Veld de sang acide
+Acorn;Gland
+Adamant dragon;Dragon inflexible
 Adamantite ore;Minerai d'adamantite
+Adventurer;Aventurier
 Adventurer (easy);Aventurier (facile)
 Adventurer Jon;L'aventurier Jon
-Aga;Aga
-Ak-Haranu;Ak-Haranu
-Alek Constantine;Alek Constantin
-Ali The barman;Ali le barman
-Ali the Carter;Ali le Carter
-'Eagle-eye' Shultz;Shultz « à l'œil d'aigle »
-'No fingers';"Pas de doigts"
-Abidor Crank;Manivelle Abador
-Abigale;Abigale
-Agnar;Agnar
-'The Guns';"Les armes"
-Account Guide;Guide du compte
-Agmundi;Agmundi
-Agrith-Na-Na;Agrith-Na-Na
-Ali the Guard;Ali le garde
-'Gummy';'Gommeux'
-Acorn;Gland
-Aisles;Allées
-Akthanakos;Akthanakos
-Al-Kharid warrior;Guerrier d'Al-Kharid
-Albino bat;Chauve-souris albinos
-Afrah;Afrah
-Agility Instructor;Instructeur d'agilité
-Agrith Naar (hard);Agrith Naar (dur)
- Sneaky undead fowl;Poule morte-vivante sournoise
-'Currency' The Alchemist;'Monnaie' L'Alchimiste
-'Lecherous' Lee;Lee « lubrique »
-A'abla;A'abla
-Afflicted(Ulsquire);Affligé(Ulsquire)
-'Beedy-eye' Jones;"Beedy-eye" Jones
-'Picarron' Pete;Pete "Picarron"
-Afflicted;Affligé
-Agility Trainer;Entraîneur d'agilité
-Ali the Hag;Ali la sorcière
-Aberab;Abérab
-Abyssal Sire;Père abyssal
-Account security tutor;Tuteur en sécurité des comptes
 Advisor Ghrim;Conseiller Ghrim
-Ajjat;Ajjat
-Alain;Alain
-Abomination;Abomination
+Aemad;Aémad
+Aeonisig Raispher;Éonisig Raispher
+Afflicted;Affligé
 Afflicted(Razmire);Affligé(Razmire)
-Al the Camel;Al le chameau
-Ali the Camel Man;Ali l'homme chameau
-'Black-eye';'Œil au beurre noir'
-Achietties;Réalisations
+Afflicted(Ulsquire);Affligé(Ulsquire)
+Afrah;Afrah
+Aga;Aga
+Aggie;Aggie
 Agility Boss;Patron d'agilité
+Agility Instructor;Instructeur d'agilité
+Agility Trainer;Entraîneur d'agilité
+Agmundi;Agmundi
+Agnar;Agnar
+Agrith Naar;Agrith Naar
+Agrith Naar (hard);Agrith Naar (dur)
+Agrith-Na-Na;Agrith-Na-Na
+Agrith-Na-Na (hard);Agrith-Na-Na (dur)
+Ahab;Achab
 Ahrim the Blighted;Ahrim le Dévasté
+Air elemental;Élémentaire de l'air
 Air wizard;Assistant aérien
+Aisles;Allées
+Aivas;Aivas
+Ajjat;Ajjat
+Ak-Haranu;Ak-Haranu
+Akthanakos;Akthanakos
 Al Shabim;Al-Shabim
+Al the Camel;Al le chameau
+Al-Kharid warrior;Guerrier d'Al-Kharid
+Alain;Alain
 Alan;Alain
+Albino bat;Chauve-souris albinos
 Alchemical Hydra;Hydre alchimique
-Alexander;Alexandre
-'Betty' B.Boppin;'Betty' B. Boppin
-? ? ? ?;? ? ? ?
-Abhorrent spectre;Spectre odieux
-Abigaila;Abigaïla
-Abyssal guardian;Gardien abyssal
-Abyssal orphan;Orphelin abyssal
 Alchemy Guardian;Gardien de l'alchimie
+Alec Kincade;Alec Kincade
 Aleck;Aleck
-Ambassador Ferrnook;Ambassadeur Ferrnook
-Ancient Ghost;Ancien fantôme
-Ancient monkey;Singe ancien
-Aneirin;Aneirine
-Animated Adamant Armour;Armure catégorique animée
-Apmeken;Apmeken
-Arianwyn;Arianewyn
+Alek Constantine;Alek Constantin
+Alexander;Alexandre
+Alexandra;Alexandra
+Alexis;Alexis
+Alfonse the waiter;Alphonse le serveur
+Ali Morrisane;Ali Morrisane
+Ali The barman;Ali le barman
+Ali the Camel;Ali le chameau
+Ali the Camel Man;Ali l'homme chameau
+Ali the Carter;Ali le Carter
+Ali the Farmer;Ali le fermier
+Ali the Guard;Ali le garde
+Ali the Hag;Ali la sorcière
+Ali the Kebab seller;Ali le vendeur de Kebab
+Ali the Leaflet Dropper;Ali le compte-gouttes de dépliants
+Ali the Mayor;Ali le maire
+Ali the Operator;Ali l'Opérateur
+Ali the Smith;Ali le Forgeron
+Ali the Snake Charmer;Ali le charmeur de serpents
 Ali the Tailor;Ali le tailleur
-Anaire;Anaire
-Ancient Zygomite;Zygomite ancienne
-Andiess Juip;Andiess Juip
-Angry bear;Ours en colère
-Angry giant rat;Rat géant en colère
-Anita;Anita
-Annoyed guardian mummy;Maman gardienne agacée
-Armourer (tier 5);Armurier (niveau 5)
-Archaeological expert;Expert en archéologie
-Armourer (tier 3);Armurier (niveau 3)
-Altarkiz;Altarkiz
-Andrea;Andréa
-Animated Bronze Armour;Armure de bronze animée
-Ankou;Ankou
-Anna;Anna
-Aranwe;Aranwe
-Arnold Lydspor;Arnold Lydspor
 Ali the dyer;Ali le teinturier
 Alice;Alice
-Ambassador Gimblewap;Ambassadeur Gimblewap
-Andras;Andras
-Animated Iron Armour;Armure de fer animée
-Animated Steel Armour;Armure d'acier animée
-Archer;Archer
-Arianwyn (hard);Arianwyn (dur)
-Almera;Almera
-Alwyn;Alwyn
-Ambassador Spanfipple;Ambassadeur Spanfipple
-Amrod;Amrod
-Angry goblin;Gobelin en colère
-Arhein;Arhéin
-Ambassador Alvijar;Ambassadeur Alvijar
-Anwen;Anwen
-Apprentice workman;Apprenti ouvrier
-Armourer (tier 4);Armurier (niveau 4)
-Alrena;Alréna
-Angelo;Angelo
-Animated Rune Armour;Armure runique animée
-Anton;Anton
-Armourer (tier 1);Armurier (niveau 1)
-Ali the Smith;Ali le Forgeron
-Ammonite Crab;Crabe ammonite
-Annette;Annette
-Apothecary;Apothicaire
-Anleif;Anleif
-Aretha;Aretha
-Ali the Snake Charmer;Ali le charmeur de serpents
-Angry barbarian spirit;Esprit barbare en colère
-Archaeologist;Archéologue
-An old Dwarf;Un vieux nain
-Aristarchus;Aristarque
-Armod;Armod
-Armour salesman;Vendeur d'armures
-Armourer (tier 2);Armurier (niveau 2)
-Arno;Arnon
+Alice the Camel;Alice le chameau
 Alice's husband;Le mari d'Alice
 Allanna;Allanna
+Almera;Almera
+Alomone;Alone
+Alrena;Alréna
 Alrik;Alrik
+Alry the Angler;Alry le pêcheur
 Altar;Autel
+Altarkiz;Altarkiz
+Aluft Gianne snr.;Aluft Gianne snr.
+Alviss;Alvis
+Alwyn;Alwyn
+Alyssa;Alyssa
+Ambassador Alvijar;Ambassadeur Alvijar
+Ambassador Ferrnook;Ambassadeur Ferrnook
+Ambassador Gimblewap;Ambassadeur Gimblewap
+Ambassador Spanfipple;Ambassadeur Spanfipple
+Amelia;Amélie
+Ammonite Crab;Crabe ammonite
+Amrod;Amrod
+Amy;Amy
+An old Dwarf;Un vieux nain
+Ana;Ana
+Anaire;Anaire
+Ancient Fungi;Champignons anciens
+Ancient Ghost;Ancien fantôme
 Ancient Guardian;Ancien Gardien
+Ancient Wizard;Ancien sorcier
+Ancient Wyvern;Wyverne ancienne
+Ancient Zygomite;Zygomite ancienne
+Ancient monkey;Singe ancien
+Andiess Juip;Andiess Juip
+Andras;Andras
+Andrea;Andréa
+Andros Mai;Andros Mai
+Aneirin;Aneirine
 Angel;Ange
+Angelo;Angelo
+Angry barbarian spirit;Esprit barbare en colère
+Angry bear;Ours en colère
+Angry giant rat;Rat géant en colère
+Angry goblin;Gobelin en colère
+Angry unicorn;Licorne en colère
+Animated Adamant Armour;Armure catégorique animée
 Animated Black Armour;Armure noire animée
+Animated Bronze Armour;Armure de bronze animée
+Animated Iron Armour;Armure de fer animée
+Animated Mithril Armour;Armure animée en mithril
+Animated Rune Armour;Armure runique animée
+Animated Steel Armour;Armure d'acier animée
 Animated spade;Pique animée
+Animated steel armour;Armure d'acier animée
+Anita;Anita
+Anja;Anja
+Ankou;Ankou
+Anleif;Anleif
+Anna;Anna
+Anna Jones;Anna Jones
+Anne Isaakson;Anne Isaacson
+Annette;Annette
+Annoyed guardian mummy;Maman gardienne agacée
+Anton;Anton
+Anwen;Anwen
+Apmeken;Apmeken
+Apothecary;Apothicaire
+Apprentice;Apprenti
+Apprentice (medium);Apprenti (moyen)
+Apprentice workman;Apprenti ouvrier
+Aranwe;Aranwe
+Archaeological expert;Expert en archéologie
+Archaeologist;Archéologue
+Archeio;Archéo
+Archer;Archer
+Archpriest of the Unicorn;Archiprêtre de la Licorne
 Arcis;Arcis
 Aredhel;Aredhel
+Aretha;Aretha
+Arhein;Arhéin
+Arianwyn;Arianewyn
+Arianwyn (hard);Arianwyn (dur)
+Aristarchus;Aristarque
 Armadylean guard;Garde armadylienne
-Ali the Operator;Ali l'Opérateur
-Andros Mai;Andros Mai
-Animated steel armour;Armure d'acier animée
-Anja;Anja
-Apprentice (medium);Apprenti (moyen)
-Archpriest of the Unicorn;Archiprêtre de la Licorne
-Alice the Camel;Alice le chameau
-Alomone;Alone
-Alviss;Alvis
-Alyssa;Alyssa
-Ana;Ana
-Ancient Wyvern;Wyverne ancienne
-Animated Mithril Armour;Armure animée en mithril
-Anna Jones;Anna Jones
-Apprentice;Apprenti
-Army Commander;Commandant de l'armée
-Alry the Angler;Alry le pêcheur
-Aluft Gianne snr.;Aluft Gianne snr.
-Amelia;Amélie
-Amy;Amy
-Ancient Fungi;Champignons anciens
-Ancient Wizard;Ancien sorcier
-Angry unicorn;Licorne en colère
-Anne Isaakson;Anne Isaacson
-Archeio;Archéo
+Armod;Armod
+Armour salesman;Vendeur d'armures
 Armoured Foe;Ennemi blindé
-Asyn shadow;Ombre asyn
-Azzanadra;Azzanadra
-Bakuna;Bakuna
-Balfrug Kreeyath;Balfrug Kreeyath
-Banknote Exchange Merchant;Marchand d'échange de billets de banque
-Barge guard;Garde de barge
-Barman;Barman
-Barnabus Hurma;Barnabus Hurma
-Assistant Brock;Assistant Brock
-Austri;Autriche
-Awusah the Mayor;Awusah le maire
-Baby Mole-rat;Bébé rat-taupe
-Baby tanglefoot;Bébé emmêlé
-Barricade;Barricade
-Arvel;Arvel
-Arzinian Being of Bordanzan;Être arzinien de Bordanzan
-Assassin;Assassin
-Asteros Arceuus;Asteros Arceuus
-Audmann;Audmann
-Autumn Elemental;Élémentaire d'automne
-Ava;Ava
-Barlak;Barlak
-Asyn Shadow;Asyn Ombre
-Baby red dragon;Bébé dragon rouge
-Banisoch;Banisoch
-Barbarian guard;Garde barbare
+Armourer (tier 1);Armurier (niveau 1)
+Armourer (tier 2);Armurier (niveau 2)
+Armourer (tier 3);Armurier (niveau 3)
+Armourer (tier 4);Armurier (niveau 4)
+Armourer (tier 5);Armurier (niveau 5)
+Army Commander;Commandant de l'armée
+Arno;Arnon
+Arnold Lydspor;Arnold Lydspor
 Arnor;Arnor
-Ashild;Ashild
-Assistant Stan;Assistant Stan
-Awowogei;Awowogei
-Ayesha;Aïcha
-Baby impling;Bébé impliquant
-Barker;Aboyeur
-Arthur the Clue Hunter;Arthur le chasseur d'indices
-Avatar of Creation;Avatar de la création
-Bank guard;Garde de banque
-Banker tutor;Tuteur banquier
-Barmaid;Barmaid
-Artimeus;Artimeus
-Askeladden;Askelaadden
-Asyff;Asyff
-Auctioneer;Commissaire-priseur
-Baby Chinchompa;Bébé Chinchompa
-Bandit shopkeeper;Commerçant bandit
-Bandosian guard;Garde bandosienne
-Banker;Banquier
-Arsen the Thief;Arsène le voleur
-Assistant Serf;Serf adjoint
-Aubury;Aubury
-Avatar of Destruction;Avatar de destruction
-Balloon Animal;Animal en ballon
-Bandit champion;Champion des bandits
 Arrg;Arrg
-Assistant Le Smith;Assistant Le Smith
-Awakened Altar;Autel éveillé
-Baby Roc;Bébé Roc
-Baby blue dragon;Bébé dragon bleu
-Barge workman;Ouvrier de barge
-Barrelchest (hard);Coffre en tonneau (dur)
-Bartak;Bartak
 Arrg (hard);Arrg (dur)
-Balloon Toad;Crapaud ballon
-Barb-tailed kebbit;Kebbit à queue barbelée
-Ash;Cendre
-Assistant;Assistant
-Asyn Shade;Ombre Asyn
-Avan;Avan
-Baraek;Baraek
-Barbarian Warlord;Seigneur de guerre barbare
-Barfy Bill;Bill Barfy
-Barrelchest;Coffre en tonneau
-Auguste;Auguste
-Aurel;Aurel
-Baby Mole;Bébé taupe
-Banshee;Banshee
-Barge foreman;Contremaître de barge
-Bark Blamish Snail;Écorce d'escargot blême
+Arsen the Thief;Arsène le voleur
+Art;Art
+Art Critic Jacques;Critique d'art Jacques
+Arthur;Arthur
+Arthur the Clue Hunter;Arthur le chasseur d'indices
+Artimeus;Artimeus
+Artur Hosidius;Arthur Hosidius
+Arvel;Arvel
+Arzinian Avatar of Magic;Avatar de magie arzinien
 Arzinian Avatar of Ranging;Avatar arzinien de télémétrie
 Arzinian Avatar of Strength;Avatar arzinien de force
-Baby green dragon;Bébé dragon vert
-Bald Headed Eagle;Pygargue à tête blanche
-Art Critic Jacques;Critique d'art Jacques
-Arzinian Avatar of Magic;Avatar de magie arzinien
-Assistant Marrow;Assistant Moelle
-Art;Art
-Arthur;Arthur
-Baker;Boulanger
-Bandit;Bandit
-Barbarian;Barbare
-Bardur;Bardur
-Artur Hosidius;Arthur Hosidius
+Arzinian Being of Bordanzan;Être arzinien de Bordanzan
+Ash;Cendre
+Ashild;Ashild
+Askeladden;Askelaadden
+Assassin;Assassin
+Assistant;Assistant
+Assistant Brock;Assistant Brock
+Assistant Le Smith;Assistant Le Smith
 Assistant Lori;Assistante Lori
+Assistant Marrow;Assistant Moelle
+Assistant Serf;Serf adjoint
+Assistant Stan;Assistant Stan
+Asteros Arceuus;Asteros Arceuus
+Asyff;Asyff
+Asyn Shade;Ombre Asyn
+Asyn Shadow;Asyn Ombre
+Asyn shadow;Ombre asyn
 Atlas;Atlas
+Aubury;Aubury
+Auctioneer;Commissaire-priseur
+Audmann;Audmann
+Auguste;Auguste
+Aurel;Aurel
+Austri;Autriche
+Autumn Elemental;Élémentaire d'automne
+Ava;Ava
+Avan;Avan
+Avatar of Creation;Avatar de la création
+Avatar of Destruction;Avatar de destruction
 Aviansie;Aviansie
+Awakened Altar;Autel éveillé
+Awowogei;Awowogei
+Awusah the Mayor;Awusah le maire
+Ayesha;Aïcha
+Azzanadra;Azzanadra
 Baba Yaga;Baba Yaga
+Baby Chinchompa;Bébé Chinchompa
+Baby Mole;Bébé taupe
+Baby Mole-rat;Bébé rat-taupe
+Baby Roc;Bébé Roc
 Baby black dragon;Bébé dragon noir
+Baby blue dragon;Bébé dragon bleu
+Baby green dragon;Bébé dragon vert
+Baby impling;Bébé impliquant
+Baby red dragon;Bébé dragon rouge
+Baby tanglefoot;Bébé emmêlé
 Badger;Blaireau
 Bailey;Bailey
+Baker;Boulanger
+Bakuna;Bakuna
+Bald Headed Eagle;Pygargue à tête blanche
+Balfrug Kreeyath;Balfrug Kreeyath
+Balloon Animal;Animal en ballon
+Balloon Toad;Crapaud ballon
+Bandit;Bandit
 Bandit Leader;Chef des bandits
+Bandit champion;Champion des bandits
+Bandit shopkeeper;Commerçant bandit
+Bandosian guard;Garde bandosienne
+Banisoch;Banisoch
+Bank guard;Garde de banque
+Banker;Banquier
+Banker tutor;Tuteur banquier
+Banknote Exchange Merchant;Marchand d'échange de billets de banque
+Banshee;Banshee
+Baraek;Baraek
+Barb-tailed kebbit;Kebbit à queue barbelée
 Barbara;Barbara
-Basilisk Sentinel;Sentinelle du basilic
-Big frog;Grosse grenouille
-Black Guard Berserker;Berserker de la Garde noire
-Black unicorn;Licorne noire
-Black unicorn Foal;Poulain licorne noire
-Bob Barter (herbs);Bob Barter (herbes)
-Basilisk Knight;Chevalier basilic
-Battle mage;Mage de bataille
-Bedabin Nomad Fighter;Combattant nomade Bedabin
-Beggar;Mendiant
-Billy;Gamelle
-Black Knight Titan;Titan Chevalier Noir
-Black golem;Golem noir
-Blessed spider;Araignée bénie
-Big Dave;Grand Dave
-Black bear;Ours noir
-Blue Opal Secretary;Secrétaire Opale Bleue
-Bob;Bob
-Bobbing fossil;Fossile flottant
+Barbarian;Barbare
+Barbarian Warlord;Seigneur de guerre barbare
+Barbarian guard;Garde barbare
+Bardur;Bardur
+Barfy Bill;Bill Barfy
+Barge foreman;Contremaître de barge
+Barge guard;Garde de barge
+Barge workman;Ouvrier de barge
+Bark Blamish Snail;Écorce d'escargot blême
+Barker;Aboyeur
+Barlak;Barlak
+Barmaid;Barmaid
+Barman;Barman
+Barnabus Hurma;Barnabus Hurma
+Barrelchest;Coffre en tonneau
+Barrelchest (hard);Coffre en tonneau (dur)
+Barricade;Barricade
+Bartak;Bartak
+Bartender;Barman
 Basilisk;Basilic
-Baxtorian;Baxtorien
-Benjamin;Benjoin
-Billy Rehnison;Billy Rehnison
-Blackjack seller;Vendeur de blackjack
-Bast;Raphia
-Bedread the bold;Lire le gras
-Benny;Benny
-Bentamir;Bentamir
-Bloodhound;Limier
-Blurberry;Blurberry
-Beaver;Castor
-Black Guard;Garde noire
-Black swan;Cygne noir
-Black warlock;Démoniste noir
-Blast Furnace Foreman;Contremaître de haut fourneau
-Bloated Toad;Crapaud gonflé
-Bloodveld;Veld de sang
-Black Heather;Bruyère noire
-Blood Blamish Snail;Escargot blâmé par le sang
-Bobawu;Bobawu
-Bolongo;Bolongo
-Big Wolf;Grand loup
-Bjorn;Björn
-Blasidar the sculptor;Blasidar le sculpteur
-Blood spawn;Apparition de sang
-Blue Opal Director;Réalisateur d'Opale Bleue
-Bear Cub;Ourson
-Black Cat;Chat noir
-Black dragon;Dragon noir
-Bob, another guard of Falador;Bob, un autre garde de Falador
+Basilisk Knight;Chevalier basilic
+Basilisk Sentinel;Sentinelle du basilic
 Basilisk Youngling;Jeune basilic
-Berry;Baie
-Black Knight Captain;Capitaine Chevalier Noir
-Black Knight Titan (hard);Chevalier Noir Titan (difficile)
-Black chinchompa;Chinchonpa noir
-Blaec;Blaec
-Blessed giant rat;Rat géant béni
+Bast;Raphia
+Bat;Batte
+Batt Mellamy;Batt Mellamy
+Battle mage;Mage de bataille
+Battle tortoise display;Exposition de tortues de combat
+Baxtorian;Baxtorien
+Bear Cub;Ourson
+Bearded gorilla;Gorille barbu
+Beaver;Castor
 Bed;Lit
 Bedabin Nomad;Bébabin Nomade
+Bedabin Nomad Fighter;Combattant nomade Bedabin
+Bedabin Nomad Guard;Garde nomade Bedabin
+Bedread the bold;Lire le gras
 Bee keeper;Apiculteur
-Berserk barbarian spirit;Esprit barbare berserk
-BigRedJapan;BigRedJapon
-Billy Goat;Bouc
-Black demon;Démon noir
-Blandebir;Blandebir
-Bloodworm;Ver de sang
-Boar;Verrat
+Bees!;Des abeilles !
+Beggar;Mendiant
+Beigarth;Beigart
 Beite;Béité
-Bert;Bert
-Big Snake;Grand serpent
-Bill Teach;Bill Enseigner
-Billy, a guard of Falador;Billy, un garde de Falador
-Blair;Blair
-Blue Monkey;Singe bleu
-Blue dragon;Dragon bleu
-Bartender;Barman
-Bat;Batte
-Biblia;Biblia
-Bird;Oiseau
-Black Knight;Chevalier noir
-Black knight;Chevalier noir
 Bellemorde;Bellemorde
 Belona;Belona
-Betty;Betty
-Body Golem;Corps Golem
-Bedabin Nomad Guard;Garde nomade Bedabin
 Bench;Banc
-Black demon (hard);Démon noir (dur)
-Black salamander;Salamandre noire
-Blue Sheep;Mouton bleu
-Bologa;Bologne
-Batt Mellamy;Batt Mellamy
-Battle tortoise display;Exposition de tortues de combat
-Bearded gorilla;Gorille barbu
-Bees!;Des abeilles !
-Beigarth;Beigart
+Benjamin;Benjoin
+Benny;Benny
+Bentamir;Bentamir
 Bernald;Bernard
+Berry;Baie
+Berserk barbarian spirit;Esprit barbare berserk
+Bert;Bert
+Betty;Betty
+Biblia;Biblia
+Big Dave;Grand Dave
+Big Snake;Grand serpent
+Big Wolf;Grand loup
+Big frog;Grosse grenouille
+BigRedJapan;BigRedJapon
+Bill Teach;Bill Enseigner
+Billy;Gamelle
+Billy Goat;Bouc
+Billy Rehnison;Billy Rehnison
+Billy, a guard of Falador;Billy, un garde de Falador
+Bird;Oiseau
+Bjorn;Björn
+Black Cat;Chat noir
+Black Guard;Garde noire
+Black Guard Berserker;Berserker de la Garde noire
+Black Heather;Bruyère noire
+Black Knight;Chevalier noir
+Black Knight Captain;Capitaine Chevalier Noir
+Black Knight Titan;Titan Chevalier Noir
+Black Knight Titan (hard);Chevalier Noir Titan (difficile)
+Black bear;Ours noir
+Black chinchompa;Chinchonpa noir
+Black demon;Démon noir
+Black demon (hard);Démon noir (dur)
+Black dragon;Dragon noir
+Black golem;Golem noir
+Black knight;Chevalier noir
+Black salamander;Salamandre noire
+Black swan;Cygne noir
+Black unicorn;Licorne noire
+Black unicorn Foal;Poulain licorne noire
+Black warlock;Démoniste noir
+Blackjack seller;Vendeur de blackjack
+Blaec;Blaec
+Blair;Blair
+Blandebir;Blandebir
 Blanin;Blanin
+Blasidar the sculptor;Blasidar le sculpteur
+Blast Furnace Foreman;Contremaître de haut fourneau
+Blessed giant rat;Rat géant béni
+Blessed spider;Araignée bénie
+Bloated Toad;Crapaud gonflé
+Blood Blamish Snail;Escargot blâmé par le sang
+Blood spawn;Apparition de sang
+Bloodhound;Limier
+Bloodveld;Veld de sang
+Bloodworm;Ver de sang
+Blue Monkey;Singe bleu
+Blue Opal Director;Réalisateur d'Opale Bleue
+Blue Opal Secretary;Secrétaire Opale Bleue
+Blue Sheep;Mouton bleu
+Blue dragon;Dragon bleu
+Blurberry;Blurberry
+Boar;Verrat
 Boat;Bateau
+Bob;Bob
+Bob Barter (herbs);Bob Barter (herbes)
+Bob, another guard of Falador;Bob, un autre garde de Falador
+Bobawu;Bobawu
+Bobbing fossil;Fossile flottant
+Body Golem;Corps Golem
 Bolkoy;Bolkoï
-Border Guard;Garde-frontière
-Butler Jones;Majordome Jones
-Boulder;Rocher
-Boy;Garçon
-Brendt;Brendt
-Brother Althric;Frère Althric
-Caninelle Draynar;Caninelle Draynar
-Captain Bentley;Capitaine Bentley
-Boris;Boris
-Bouquet Mac Hyacinth;Bouquet Mac Jacinthe
-Broken Handz;Main cassée
-Cabin Boy Colin;Garçon de cabine Colin
-Caden Azro;Caden Azro
-Capt' Arnav;Capitaine Arnav
-Camel display;Exposition de chameaux
+Bologa;Bologne
+Bolongo;Bolongo
+Bonafido;Bonafido
 Boneguard;Garde-os
-Bouncer (hard);Videur (dur)
-Bree;Brée
-Briget;Brigitte
-Brother Kojo;Frère Kojo
-Brutal blue dragon;Dragon bleu brutal
-Bunkdo;Bunkdo
-Burkor;Burkor
-Breoca;Bréoca
-Brewer;Brasseur
-Broodoo victim;Victime de Broodoo
-Butler Jarvis;Majordome Jarvis
-Butterfly;Papillon
-Caerwyn;Caerwyn
-Caleb;Caleb
-Borrokar;Borrokar
-Breive;Breive
-Brine rat;Rat de saumure
-Brother Maledict;Frère Malédict
-Brother Tranquility;Frère Tranquillité
-Callisto cub;Petit Callisto
-Cap'n Hand;Cap'n Hand
-Bork Sigmundson;Bork Sigmundson
-Buinn;Buinn
-Callisto;Callisto
-Camarst;Camarst
-Captain Barnaby;Capitaine Barnabé
 Bones;Os
-Brian;Brian
-Bryn;Bryn
-Bunny;Lapin
-Burntof;Brûlé
-Cage;Cage
-Candle seller;Vendeur de bougies
-Captain;Capitaine
+Bonzara;Bonzara
+Bonzo;Bonzo
+Boot;Botte
+Border Guard;Garde-frontière
+Boris;Boris
+Bork Sigmundson;Bork Sigmundson
+Borrokar;Borrokar
+Boulder;Rocher
+Bouncer;Videur
+Bouncer (hard);Videur (dur)
+Bouquet Mac Hyacinth;Bouquet Mac Jacinthe
 Bow and Arrow salesman;Vendeur d'arcs et de flèches
+Boy;Garçon
+Brambickle;Ronce
+Brana;Brana
+Branwen;Branwen
+Brassican Mage;Mage Brassicain
 Bravek;Bravek
 Brawler;Bagarreur
-Brother Cedric;Frère Cédric
-Brutal red dragon;Dragon rouge brutal
-Bryophyta;Bryophytes
-Cabin boy;Garçon de cabine
-Candle maker;Fabricant de bougies
-Captain Bleemadge;Capitaine Bleemadge
-Branwen;Branwen
+Bree;Brée
+Breive;Breive
+Brendt;Brendt
+Breoca;Bréoca
+Brewer;Brasseur
+Brian;Brian
 Brian O'Richard;Brian O'Richard
+Briget;Brigitte
+Brimstail;Brimqueue
+Brine rat;Rat de saumure
+Broddi;Broddi
+Broken Handz;Main cassée
+Broken clay golem;Golem d'argile brisé
+Bronze dragon;Dragon de bronze
+Broodoo victim;Victime de Broodoo
+Brother Aimeri;Frère Aiméri
+Brother Althric;Frère Althric
+Brother Brace;Frère Brace
+Brother Cedric;Frère Cédric
+Brother Jered;Frère Jered
+Brother Kojo;Frère Kojo
+Brother Maledict;Frère Malédict
+Brother Omad;Frère Omad
+Brother Tranquility;Frère Tranquillité
+Brown Engine Director;Directeur Moteur Brown
+Brown Engine Secretary;Secrétaire du moteur Brown
+Brugsen Bursen;Brugsen Bursen
 Bruise Blamish Snail;Escargot blême bleu
 Brundt the Chieftain;Brundt le chef
 Brutal black dragon;Dragon noir brutal
-Bullrush;Bouvreuil
-Cabin boy Jenkins;Garçon de cabine Jenkins
-Cap'n Izzy No-Beard;Cap'n Izzy sans barbe
-Brambickle;Ronce
-Brassican Mage;Mage Brassicain
-Bronze dragon;Dragon de bronze
-Brother Jered;Frère Jered
-Builder;Constructeur
-Camel;Chameau
-Camp dweller;Habitant du camp
-Boot;Botte
-Brother Omad;Frère Omad
-Brugsen Bursen;Brugsen Bursen
+Brutal blue dragon;Dragon bleu brutal
+Brutal green dragon;Dragon vert brutal
+Brutal red dragon;Dragon rouge brutal
+Bryn;Bryn
+Bryophyta;Bryophytes
 Bugs;Insectes
+Builder;Constructeur
+Buinn;Buinn
+Bullrush;Bouvreuil
+Bunkdo;Bunkdo
+Bunkwicket;Guichet superposé
+Bunny;Lapin
+Burkor;Burkor
+Burntmeat;Viande brûlée
+Burntof;Brûlé
 Bush snake;Serpent de brousse
 Butler;Majordome
-Cannoneer;Canonnier
-Bonzo;Bonzo
-Bouncer;Videur
-Brown Engine Director;Directeur Moteur Brown
-Burntmeat;Viande brûlée
+Butler Jarvis;Majordome Jarvis
+Butler Jones;Majordome Jones
+Butterfly;Papillon
+Cabin Boy Colin;Garçon de cabine Colin
 Cabin Boy Herbert;Garçon de cabine Herbert
-Cam the Camel;Cam le chameau
-Bonafido;Bonafido
-Brimstail;Brimqueue
-Broddi;Broddi
-Broken clay golem;Golem d'argile brisé
-Brother Aimeri;Frère Aiméri
-Brown Engine Secretary;Secrétaire du moteur Brown
-Brutal green dragon;Dragon vert brutal
-Bonzara;Bonzara
-Brana;Brana
-Brother Brace;Frère Brace
-Bunkwicket;Guichet superposé
+Cabin boy;Garçon de cabine
+Cabin boy Jenkins;Garçon de cabine Jenkins
+Caden Azro;Caden Azro
+Caerwyn;Caerwyn
+Cage;Cage
+Caleb;Caleb
 Calin;Calin
+Callisto;Callisto
+Callisto cub;Petit Callisto
+Cam the Camel;Cam le chameau
+Camarst;Camarst
+Camel;Chameau
+Camel display;Exposition de chameaux
 Camorra;Camorra
+Camp dweller;Habitant du camp
+Candle maker;Fabricant de bougies
+Candle seller;Vendeur de bougies
+Caninelle Draynar;Caninelle Draynar
+Cannoneer;Canonnier
+Cap'n Hand;Cap'n Hand
+Cap'n Izzy No-Beard;Cap'n Izzy sans barbe
+Capt' Arnav;Capitaine Arnav
+Captain;Capitaine
+Captain Barnaby;Capitaine Barnabé
+Captain Bentley;Capitaine Bentley
+Captain Bleemadge;Capitaine Bleemadge
 Captain Braindeath;Capitaine Mort cérébrale
-Caranthir;Caranthir
-Carnivus Belamorta;Carnivus Belamorta
-Cat;Chat
-Cave horror;Horreur des grottes
-Chaos druid warrior;Guerrier druide du chaos
-Carla;Carla
-Cassie;Cassie
-Cave goblin guard;Garde gobelin des cavernes
-Cavey Davey;Davey Cavey
-Cerberus;Cerbère
-Chancy;Hasardeux
-Chaos Elemental;Élémentaire du chaos
-Charlie Brown;Charlie Brun
-Charmed Warrior;Guerrier charmé
-Captain Cain;Capitaine Caïn
-Captain Lawgof;Capitaine Lawgof
-Captain Shanks;Capitaine Shanks
-Cart conductor;Conducteur de chariot
-Cave abomination;Abomination des grottes
-Cave slime;Boue des grottes
-Cave snake;Serpent des cavernes
-Celegorm;Célégorme
-Celyn;Célyn
-Cheerleader;Pom-pom girl
-Captain Janaway;Capitaine Janaway
-Cave goblin;Gobelin des cavernes
-Charles Charlington;Charles Charlington
-Captain Magoro;Capitaine Magoro
-Captain Rimor;Capitaine Rimor
-Carado;Carado
-Caroline;Caroline
-Cave monk;Moine des cavernes
-Centaur;Centaure
-Charlie the cook;Charlie le cuisinier
 Captain Bruce;Capitaine Bruce
-Captain Dudi;Capitaine Dudi
-Captain Pudi;Capitaine Pudi
-Captain Rachelle;Capitaine Rachelle
-Catalina;Catalina
-Cave Scenery;Paysage de grotte
-Chef Olivia;Chef Olivia
-Chemist;Chimiste
+Captain Cain;Capitaine Caïn
 Captain Cleive;Capitaine Cleive
 Captain Daerkin;Capitaine Daerkin
-Captain Tock;Capitaine Tock
-Carnivorous chinchompa;Chinchonpa carnivore
-Carpenter Kjallak;Charpentier Kjallak
-Cart Camel;Chariot chameau
-Cerulean twitch;Contraction céruléenne
-Checkal;Chèque
 Captain Dalbur;Capitaine Dalbur
-Cave lizard;Lézard des cavernes
-Ceolburg;Ceolbourg
-Chamber guardian;Gardien de chambre
-Chaos dwarf;Nain du chaos
-Captain Errdo;Capitaine Errdo
-Captain Ned;Capitaine Ned
-Captain Ninto;Capitaine Ninto
-Cave bug;Punaise de la grotte
-Cave goblin miner;Mineur gobelin des cavernes
-Cecilia;Cécilia
-Chicken;Poulet
-Captain Shoracks;Capitaine Shoracks
-Catablepon;Catablepon
-Cave bug larva;Larve de punaise des cavernes
-Celebrian;Célébrité
-Chadwell;Chadwell
-Chaos Golem;Golem du Chaos
-Cheryl;Cheryl
 Captain Donnie;Capitaine Donnie
-Charlie the Tramp;Charlie le Clochard
-Captain Siad;Capitaine Siad
-Carl;Carl
-Carol;Carole
-Chaos Elemental Jr.;Élémentaire du Chaos Jr.
-Charlie;Charlie
-Captain Khaled;Capitaine Khaled
-Carpenter;Menuisier
-Cave crawler;Robot des cavernes
-Cave goblin child;Enfant gobelin des cavernes
-Chaotic death spawn;Engeance de mort chaotique
-Charles;Charles
-Chaos Fanatic;Fanatique du Chaos
+Captain Dudi;Capitaine Dudi
+Captain Errdo;Capitaine Errdo
 Captain Ginea;Capitaine Ginéa
+Captain Janaway;Capitaine Janaway
+Captain Kalt;Capitaine Kalt
+Captain Khaled;Capitaine Khaled
 Captain Klemfoodle;Capitaine Klemfoodle
 Captain Lamdoo;Capitaine Lamdoo
+Captain Lawgof;Capitaine Lawgof
+Captain Magoro;Capitaine Magoro
+Captain Ned;Capitaine Ned
+Captain Ninto;Capitaine Ninto
+Captain Pudi;Capitaine Pudi
+Captain Rachelle;Capitaine Rachelle
+Captain Rimor;Capitaine Rimor
 Captain Rovin;Capitaine Rovin
 Captain Sdiar;Capitaine Sdiar
+Captain Shanks;Capitaine Shanks
+Captain Shoracks;Capitaine Shoracks
+Captain Siad;Capitaine Siad
 Captain Tobias;Capitaine Tobias
+Captain Tock;Capitaine Tock
 Captain Tom;Capitaine Tom
-Ceril Carnillean;Ceril Carnilléen
-Ceto;Céto
-Chaeldar;Chaeldar
-Captain Kalt;Capitaine Kalt
+Carado;Carado
+Caranthir;Caranthir
+Carl;Carl
+Carla;Carla
+Carnivorous chinchompa;Chinchonpa carnivore
+Carnivus Belamorta;Carnivus Belamorta
+Carol;Carole
+Caroline;Caroline
+Carpenter;Menuisier
+Carpenter Kjallak;Charpentier Kjallak
+Cart Camel;Chariot chameau
+Cart conductor;Conducteur de chariot
+Cassie;Cassie
+Cat;Chat
+Catablepon;Catablepon
+Catalina;Catalina
+Cave Scenery;Paysage de grotte
+Cave abomination;Abomination des grottes
+Cave bug;Punaise de la grotte
+Cave bug larva;Larve de punaise des cavernes
+Cave crawler;Robot des cavernes
+Cave goblin;Gobelin des cavernes
+Cave goblin child;Enfant gobelin des cavernes
+Cave goblin guard;Garde gobelin des cavernes
+Cave goblin miner;Mineur gobelin des cavernes
+Cave horror;Horreur des grottes
 Cave kraken;Kraken des cavernes
+Cave lizard;Lézard des cavernes
+Cave monk;Moine des cavernes
+Cave slime;Boue des grottes
+Cave snake;Serpent des cavernes
 Cavemouth;Bouche des cavernes
+Cavey Davey;Davey Cavey
+Cecilia;Cécilia
+Celebrian;Célébrité
+Celegorm;Célégorme
+Celyn;Célyn
+Centaur;Centaure
+Ceolburg;Ceolbourg
+Cerberus;Cerbère
+Ceril Carnillean;Ceril Carnilléen
+Cerulean twitch;Contraction céruléenne
+Ceto;Céto
+Chadwell;Chadwell
+Chaeldar;Chaeldar
+Chamber guardian;Gardien de chambre
+Chancy;Hasardeux
+Chaos Elemental;Élémentaire du chaos
+Chaos Elemental Jr.;Élémentaire du Chaos Jr.
+Chaos Fanatic;Fanatique du Chaos
+Chaos Golem;Golem du Chaos
 Chaos druid;Druide du Chaos
+Chaos druid warrior;Guerrier druide du chaos
+Chaos dwarf;Nain du chaos
+Chaotic death spawn;Engeance de mort chaotique
+Charles;Charles
+Charles Charlington;Charles Charlington
 Charley;Charly
+Charlie;Charlie
+Charlie Brown;Charlie Brun
+Charlie the Tramp;Charlie le Clochard
+Charlie the cook;Charlie le cuisinier
+Charmed Warrior;Guerrier charmé
 Chasm Crawler;Rameur de gouffre
-Chompy chick;Poussin Chompy
-Clerk;Greffier
-Copper ore;Minerai de cuivre
-Corrupted Bear;Ours corrompu
-Corrupted Scorpion;Scorpion corrompu
-Corrupted Spider;Araignée corrompue
-Chronozon;Chronozon
-Chuck;Mandrin
-Combat stone;Pierre de combat
-Commander Veldaban;Commandant Veldaban
-Confused barbarian;Barbare confus
-Corporeal Critter;Créature corporelle
-Councillor Halgrive;Conseiller Halgrive
-Crazy archaeologist;Archéologue fou
-Confusion beast;Bête de confusion
-Cow;Vache
-Cow calf;Veau de vache
-Crate;Caisse
-Crawling hand;Main rampante
-Chief servant;Serviteur en chef
-Choke devil;Diable étouffant
-Clerris;Clerris
-Commander Fullore;Commandant Fullore
-Cook;Cuisiner
-Corrupted Wolf;Loup corrompu
-Cow (hard);Vache (dur)
-Claus the chef;Claus le chef
-Combat Test (maxhit);Test de combat (maxhit)
-Commander Zilyana;Commandant Zilyana
-Conrad King;Conrad Roi
-Copper longtail;Longue queue en cuivre
-Corkat quo Sihar;Corkat quo Sihar
-Cormorant;Cormoran
-Cosmic Being;Être cosmique
-Count Check;Vérification du décompte
-Chronozon (hard);Chronozon (difficile)
-Cleddyf;Cléddyf
-Clothears;Vêtements
-Combat Test;Épreuve de combat
-Commissioner Anwar;Commissaire Anwar
-Chinchompa;Chinchonpa
-Coenus;Cœnus
-Corrupt Lizardman (hard);Homme-lézard corrompu (difficile)
-Councillor Unkar;Conseiller Unkar
+Checkal;Chèque
+Cheerleader;Pom-pom girl
+Chef Olivia;Chef Olivia
+Chemist;Chimiste
+Cheryl;Cheryl
+Chicken;Poulet
 Chief Farmer;Chef agriculteur
-City guard;Garde de la ville
-Corrupted Dragon;Dragon corrompu
-Corsair Traitor (hard);Traître Corsaire (difficile)
-Crawling Hand;Main rampante
-Civilian;Civil
-Cleaner;Nettoyeur
-Co-ordinator;Coordinateur
-Cockatrice;Basilic
-Commander Montai;Commandant Montaï
-Cornelius;Corneille
-Corrupted Hunllef;Hunllef corrompu
-Corrupted Unicorn;Licorne corrompue
-Clay golem;Golem d'argile
-Cockathrice;Cocathrice
-Colonel Grimsson;Colonel Grimsson
-Corporeal Beast;Bête corporelle
-Court judge;Juge du tribunal
-Crate goblin;Gobelin de caisse
-Creakyknees;Genoux grinçants
+Chief Tess;Chef Tess
+Chief servant;Serviteur en chef
+Child;Enfant
+Chinchompa;Chinchonpa
+Choke devil;Diable étouffant
 Chompy bird;Oiseau grignotant
-Colonel Radick;Colonel Radick
-Competition Judge;Juge de compétition
-Cool Mom227;Maman cool227
-Corpse;Cadavre
-Corsair Traitor;Traître corsaire
-Councillor Andrews;Conseiller Andrews
+Chompy chick;Poussin Chompy
+Chronozon;Chronozon
+Chronozon (hard);Chronozon (difficile)
+Chuck;Mandrin
+Cirdan;Cirdan
+City guard;Garde de la ville
+Civilian;Civil
 Clan Guard;Garde de clan
-Count Draynor;Comte Draynor
-Corrupted Bat;Chauve-souris corrompue
-Count Draynor (hard);Comte Draynor (dur)
-Cowardly Bandit;Bandit lâche
+Claude;Claude
+Claus the chef;Claus le chef
+Clay golem;Golem d'argile
+Cleaner;Nettoyeur
+Cleddyf;Cléddyf
+Clerk;Greffier
+Clerris;Clerris
 Clivet;Clive
 Clockwork cat;Chat mécanique
-Corrupted Dark Beast;Bête noire corrompue
-Corrupted Youngllef;Jeune fille corrompue
+Clothears;Vêtements
+Co-ordinator;Coordinateur
 Coal;Charbon
-Commander Connad;Commandant Connad
-Conwenna;Conwenna
-Corrupt Lizardman;Homme-lézard corrompu
-Corrupted scavenger;Charognard corrompu
-Cow31337Killer;Vache31337Tueur
-Chief Tess;Chef Tess
-Child;Enfant
-Cirdan;Cirdan
-Claude;Claude
 Cob;Épi
+Cockathrice;Cocathrice
+Cockatrice;Basilic
+Coenus;Cœnus
 Col. O'Niall;Colonel O'Niall
+Colonel Grimsson;Colonel Grimsson
+Colonel Radick;Colonel Radick
 Colossal Hydra;Hydre colossale
 Combat Instructor;Instructeur de combat
+Combat Test;Épreuve de combat
+Combat Test (maxhit);Test de combat (maxhit)
+Combat stone;Pierre de combat
+Commander Connad;Commandant Connad
+Commander Fullore;Commandant Fullore
+Commander Montai;Commandant Montaï
+Commander Veldaban;Commandant Veldaban
+Commander Zilyana;Commandant Zilyana
+Commissioner Anwar;Commissaire Anwar
+Competition Judge;Juge de compétition
+Confused barbarian;Barbare confus
+Confusion beast;Bête de confusion
+Conrad King;Conrad Roi
+Conwenna;Conwenna
+Cook;Cuisiner
 Cooking tutor;Professeur de cuisine
+Cool Mom227;Maman cool227
+Copper longtail;Longue queue en cuivre
+Copper ore;Minerai de cuivre
+Corkat quo Sihar;Corkat quo Sihar
+Cormorant;Cormoran
+Cornelius;Corneille
+Corporeal Beast;Bête corporelle
+Corporeal Critter;Créature corporelle
+Corpse;Cadavre
+Corrupt Lizardman;Homme-lézard corrompu
+Corrupt Lizardman (hard);Homme-lézard corrompu (difficile)
+Corrupted Bat;Chauve-souris corrompue
+Corrupted Bear;Ours corrompu
+Corrupted Dark Beast;Bête noire corrompue
+Corrupted Dragon;Dragon corrompu
+Corrupted Hunllef;Hunllef corrompu
 Corrupted Rat;Rat corrompu
+Corrupted Scorpion;Scorpion corrompu
+Corrupted Spider;Araignée corrompue
+Corrupted Unicorn;Licorne corrompue
+Corrupted Wolf;Loup corrompu
+Corrupted Youngllef;Jeune fille corrompue
+Corrupted scavenger;Charognard corrompu
+Corsair Traitor;Traître corsaire
+Corsair Traitor (hard);Traître Corsaire (difficile)
+Cosmic Being;Être cosmique
 Council workman;Ouvrier du Conseil
+Councillor Andrews;Conseiller Andrews
+Councillor Halgrive;Conseiller Halgrive
 Councillor Orson;Conseiller Orson
+Councillor Unkar;Conseiller Unkar
+Count Check;Vérification du décompte
+Count Draynor;Comte Draynor
+Count Draynor (hard);Comte Draynor (dur)
+Court judge;Juge du tribunal
+Cow;Vache
+Cow (hard);Vache (dur)
+Cow calf;Veau de vache
+Cow31337Killer;Vache31337Tueur
+Cowardly Bandit;Bandit lâche
 Crab;Crabe
 Crafting tutor;Professeur d'artisanat
+Crate;Caisse
+Crate goblin;Gobelin de caisse
+Crawling Hand;Main rampante
+Crawling hand;Main rampante
+Crazy archaeologist;Archéologue fou
+Creakyknees;Genoux grinçants
+Crefydd;Crefydd
+Crimson swift;Martinet cramoisi
+Crimsonette van Marr;Crimsonette van Marr
 Crocodile;Crocodile
-Dagannoth;Dagannoth
-Dagannoth Prime;Dagannoth Premier
-Dalcian Fang (easy);Croc Dalcien (facile)
-Dark energy core;Noyau d'énergie sombre
+Crondis;Crondis
+Crone;Vieille femme
+Crow;Corbeau
+Crunchy;Croquant
+Crusher;Broyeur
 Crushing hand;Main écrasante
-Cuffs;Menottes
-Davon;Davon
-Deathly ranger;Ranger mortel
+Crust of ice;Croûte de glace
 Crypt rat;Rat des cryptes
-Dagannoth Supreme Jr.;Dagannoth Suprême Jr.
-Dakh'thoulan Aegis;Égide de Dakh'thoulan
-Dark Core;Noyau sombre
-Dark mage;Mage noir
-Dark wizard;Sorcier noir
-Dartog;Dartog
-Dad (hard);Papa (dur)
-Dagannoth fledgeling;Dagannoth débutant
-Dalal;Dalal
-Death wing;Aile de la mort
+Crypt spider;Araignée de crypte
+Crystal impling;Cristal impliquant
+Crystalline Bat;Chauve-souris cristalline
+Crystalline Bear;Ours cristallin
 Crystalline Dark Beast;Bête sombre cristalline
 Crystalline Dragon;Dragon Cristallin
 Crystalline Hunllef;Cristalline Hunllef
-Crystalline Spider;Araignée cristalline
-Culinaromancer (hard);Culinaromancien (dur)
-Cyrisus;Cyrisus
-Daero;Daéro
-Dagannoth Supreme;Dagannoth Suprême
-Daryl;Daryl
-Debra;Débra
-Crystalline Wolf;Loup cristallin
-Damien Leucurte;Damien Leucurté
-Darcor quo Narga;Darcor quo Narga
-Crust of ice;Croûte de glace
-Crystalline Bat;Chauve-souris cristalline
-Cyclops;cyclope
-Daer Krand;Daer Krand
-Dagannoth mother (hard);Mère Dagannoth (dur)
-Dark Ankou;Ankou Sombre
-Crunchy;Croquant
-Crystalline Bear;Ours cristallin
-Dagannoth mother;Mère Dagannoth
-Damis;Damis
-Dark Squirrel;Écureuil sombre
-Crow;Corbeau
 Crystalline Rat;Rat cristallin
-Daga;Daga
-Damwin;Damwin
-Crondis;Crondis
-Culinaromancer;Culinaromancien
-Dad;Papa
-David;David
-Crypt spider;Araignée de crypte
-Curly;Bouclé
-Dagannoth Prime Jr.;Dagannoth Prime Jr.
-Damis (hard);Damis (dur)
-Curpile Fyod;Curpile Fiod
-Customer;Client
-Da Vinci;Da Vinci
-Damaged clay golem;Golem d'argile endommagé
-Dark beast;Bête sombre
-Dashing kebbit;Kebbit fringant
-Dead swamp snake;Serpent des marais mort
-Crone;Vieille femme
+Crystalline Scorpion;Scorpion cristallin
+Crystalline Spider;Araignée cristalline
 Crystalline Unicorn;Licorne cristalline
+Crystalline Wolf;Loup cristallin
+Cuffs;Menottes
+Culinaromancer;Culinaromancien
+Culinaromancer (hard);Culinaromancien (dur)
+Curator Haig Halen;Conservateur Haig Halen
+Curly;Bouclé
+Curpile Fyod;Curpile Fiod
+Curufin;Curufine
+Customer;Client
 Customs officer;Douanier
+Cute creature;Créature mignonne
+Cyclops;cyclope
+Cyreg Paddlehorn;Corne à pagaie Cyreg
+Cyrisus;Cyrisus
+Da Vinci;Da Vinci
+Dad;Papa
+Dad (hard);Papa (dur)
+Daer Krand;Daer Krand
+Daero;Daéro
+Daga;Daga
+Dagannoth;Dagannoth
+Dagannoth Prime;Dagannoth Premier
+Dagannoth Prime Jr.;Dagannoth Prime Jr.
+Dagannoth Rex;Dagannoth Rex
+Dagannoth Rex Jr.;Dagannoth Rex Jr.
+Dagannoth Supreme;Dagannoth Suprême
+Dagannoth Supreme Jr.;Dagannoth Suprême Jr.
+Dagannoth fledgeling;Dagannoth débutant
+Dagannoth mother;Mère Dagannoth
+Dagannoth mother (hard);Mère Dagannoth (dur)
 Dagannoth spawn;Apparition de Dagannoth
+Dakh'thoulan Aegis;Égide de Dakh'thoulan
+Dalal;Dalal
+Dalcian Fang (easy);Croc Dalcien (facile)
 Dalila;Dalila
+Dallas Jones;Dallas Jones
+Dalldav;Dalldav
+Damaged clay golem;Golem d'argile endommagé
+Damien Leucurte;Damien Leucurté
+Damis;Damis
+Damis (hard);Damis (dur)
+Dampe;Humide
+Damwin;Damwin
+Dantaera;Dantaera
+Darcor quo Narga;Darcor quo Narga
+Dark Ankou;Ankou Sombre
+Dark Core;Noyau sombre
 Dark Mage;Mage noir
+Dark Squirrel;Écureuil sombre
+Dark beast;Bête sombre
+Dark core;Noyau sombre
+Dark energy core;Noyau d'énergie sombre
 Dark kebbit;Kebbit noir
+Dark mage;Mage noir
+Dark warrior;Guerrier sombre
+Dark wizard;Sorcier noir
 Darkmeyer Slave;Esclave Darkmeyer
+Darren;Darren
+Dartog;Dartog
+Darve;Darve
+Daryl;Daryl
+Dashing kebbit;Kebbit fringant
+Dave;Dave
 Davey;Davey
+David;David
 David Andrews;David Andrews
+Davon;Davon
 Dawn;Aube
 Dead Monk;Moine mort
-Death;La mort
-Crefydd;Crefydd
-Crimson swift;Martinet cramoisi
-Crusher;Broyeur
-Crystalline Scorpion;Scorpion cristallin
-Curator Haig Halen;Conservateur Haig Halen
-Dagannoth Rex Jr.;Dagannoth Rex Jr.
-Dallas Jones;Dallas Jones
-Dampe;Humide
-Dark warrior;Guerrier sombre
+Dead swamp snake;Serpent des marais mort
 Deadly red spider;Araignée rouge mortelle
-Crimsonette van Marr;Crimsonette van Marr
-Crystal impling;Cristal impliquant
-Curufin;Curufine
-Dark core;Noyau sombre
-Darve;Darve
-Dave;Dave
-Cute creature;Créature mignonne
-Cyreg Paddlehorn;Corne à pagaie Cyreg
-Dagannoth Rex;Dagannoth Rex
-Dalldav;Dalldav
-Dantaera;Dantaera
-Darren;Darren
+Death;La mort
 Death spawn;Engeance de la mort
+Death wing;Aile de la mort
 Deathly mage;Mage mortel
-Demon butler;Majordome démon
-Diana;Diane
-Dire Wolf;Loup terrible
-Dromund's cat;Le chat de Dromund
-Denulth;Denulth
-Donny the lad;Donny le garçon
-Doric;dorique
-Doug Deeping;Doug Deeping
-Dragon impling;Dragon impliquant
-Dreven;Dreven
-Droalak;Droalak
-Demonic gorilla;Gorille démoniaque
-Dominic Onion;Dominique Oignon
-Donie;Donie
-Dr Fenkenstrain;Dr Fenkenstrain
-Dr Harlow;Dr Harlow
-Drake;Canard
-Draul Leptoc;Draul Leptoc
-Drunken soldier;Soldat ivre
+Deathly ranger;Ranger mortel
+Debra;Débra
 Defiler;Profanateur
-Deranged archaeologist;Archéologue dérangé
-Desert Spirit;Esprit du désert
-Desert eagle;Aigle du désert
-Diango;Diango
-Diphylla Bechstein;Diphylla Bechstein
-Door man;Homme de porte
-Door-support;Support de porte
-Dr Jekyll;Dr Jekyll
-Drew;Dessiné
-Drill Sergeant;Sergent instructeur
-Drunken Ali;Ali ivre
 Del-Monty;Del Monty
-Diol;Diol
-Drasdan Ranor;Drasdan Ranor
-Duckling;Caneton
-Desert snake;Serpent du désert
-Dessourt;Dessourt
-Dessous (hard);Dessous (dur)
-Double agent;Agent double
-Denath;Dénath
-Derrik;Derrick
-Desmodus Lasiurus;Desmodus Lasiurus
-Devan Rutter;Devan Rutter
-Dig Site workman;Ouvrier du chantier de fouille
-Donal;Donal
-Door;Porte
-Doyen;Doyen
-Dr Ford;Docteur Ford
-Druid;Druide
-Dryad;Dryade
-Dernu;Dernou
-Dodgy Squire;Écuyer douteux
-Donovan the Family Handyman;Donovan, le bricoleur de la famille
+Delrith;Delrith
 Demon;Démon
+Demon butler;Majordome démon
+Demonic gorilla;Gorille démoniaque
+Denadu;Dénadu
+Denath;Dénath
+Denulth;Denulth
+Deranged archaeologist;Archéologue dérangé
 Derni;Dernier
+Dernu;Dernou
+Derrik;Derrick
+Derse Venator;Derse Venator
+Derwen;Derwen
+Desert Lizard;Lézard du désert
+Desert Phoenix;Phénix du désert
+Desert Spirit;Esprit du désert
+Desert Wolf;Loup du désert
+Desert eagle;Aigle du désert
+Desert snake;Serpent du désert
+Desmodus Lasiurus;Desmodus Lasiurus
+Despoina Callidra;Despoina Callidra
+Dessourt;Dessourt
+Dessourt (hard);Dessourt (dur)
+Dessous;Dessous
+Dessous (hard);Dessous (dur)
+Devan Rutter;Devan Rutter
+Deviant spectre;Spectre déviant
+Devin Mendelberg;Devin Mendelberg
+Dharok the Wretched;Dharok le Misérable
+Diana;Diane
+Diango;Diango
+Dig Site workman;Ouvrier du chantier de fouille
+Digsite workman;Ouvrier de chantier
+Dimintheis;Diminthéis
+Diol;Diol
+Diphylla Bechstein;Diphylla Bechstein
+Dire Wolf;Loup terrible
+Disciple of Iban;Disciple d'Iban
+Disciple of Yama;Disciple de Yama
+Dobwinkle;Dobwinkle
+Dock worker;Docker
 Dockmaster;Maître des quais
 Doctor Orbon;Docteur Orbon
-Denadu;Dénadu
-Desert Phoenix;Phénix du désert
-Dessourt (hard);Dessourt (dur)
-Deviant spectre;Spectre déviant
-Dommik;Dommik
-Doomion;Doomion
-Dragon display;Affichage du dragon
-Driftwood;Bois flotté
-Dromund;Dromond
-Derse Venator;Derse Venator
-Devin Mendelberg;Devin Mendelberg
-Doll;Poupée
-Don't Know What;Je ne sais pas quoi
-Dron;Drone
-Dugopul;Dugopul
-Desert Wolf;Loup du désert
-Disciple of Iban;Disciple d'Iban
-Doomsayer;Diseur de malheur
-Doris;Doris
-Drain pipe;Tuyau de vidange
-Drezel;Drézel
-Drunken Dwarf's Leg;Jambe de nain ivre
-Despoina Callidra;Despoina Callidra
-Dharok the Wretched;Dharok le Misérable
-Don;Enfiler
-Draconis Sanguine;Draconis sanguin
-Drunken Dwarf;Nain ivre
-Dimintheis;Diminthéis
-Disciple of Yama;Disciple de Yama
-Dock worker;Docker
+Dodgy Squire;Écuyer douteux
 Dog;Chien
+Doll;Poupée
+Dominic Onion;Dominique Oignon
+Dommik;Dommik
+Don;Enfiler
+Don't Know What;Je ne sais pas quoi
+Donal;Donal
 Dondakan the Dwarf;Dondakan le Nain
+Donie;Donie
+Donny the lad;Donny le garçon
+Donovan the Family Handyman;Donovan, le bricoleur de la famille
+Doomion;Doomion
+Doomsayer;Diseur de malheur
+Door;Porte
+Door man;Homme de porte
+Door-support;Support de porte
+Doric;dorique
+Doris;Doris
+Double agent;Agent double
+Doug Deeping;Doug Deeping
+Doyen;Doyen
+Dr Fenkenstrain;Dr Fenkenstrain
+Dr Ford;Docteur Ford
+Dr Harlow;Dr Harlow
+Dr Jekyll;Dr Jekyll
+Draconis Sanguine;Draconis sanguin
+Dragon display;Affichage du dragon
+Dragon impling;Dragon impliquant
 Dragonkin;Draconien
-Drunken man;Homme ivre
-Delrith;Delrith
-Desert Lizard;Lézard du désert
-Dessous;Dessous
-Dobwinkle;Dobwinkle
-Duck;Canard
-Ducklings;Canetons
-Derwen;Derwen
-Digsite workman;Ouvrier de chantier
+Drain pipe;Tuyau de vidange
+Drake;Canard
+Drasdan Ranor;Drasdan Ranor
+Draul Leptoc;Draul Leptoc
+Dreven;Dreven
+Drew;Dessiné
+Drezel;Drézel
+Driftwood;Bois flotté
+Drill Sergeant;Sergent instructeur
+Droalak;Droalak
 Drogo dwarf;Nain Drogo
+Dromund;Dromond
+Dromund's cat;Le chat de Dromund
+Dron;Drone
+Druid;Druide
+Drunken Ali;Ali ivre
+Drunken Dwarf;Nain ivre
+Drunken Dwarf's Leg;Jambe de nain ivre
+Drunken man;Homme ivre
+Drunken soldier;Soldat ivre
+Dryad;Dryade
+Duck;Canard
+Duckling;Caneton
+Ducklings;Canetons
+Dugopul;Dugopul
 Duke;Duc
 Duke Horacio;Duc Horacio
-Duradel;Duradel
-Earth Warrior Champion;Champion des Guerriers de la Terre
-Ed;Éd
-Einar;Einar
-Eira;Eira
-Elf Archer;Archer elfe
-Elite Void Knight;Chevalier du Vide d'élite
-Dwarf gang member;Membre d'un gang nain
-Earwen;Earwen
-Edmond;Edmond
-Ektheme;Ekthème
-Elder Gnome child;Enfant Gnome aîné
-Elenwe;Elenwe
-Ellena;Hélène
-Embalmer;Embaumeur
-Emerald Benedict;Emeraude Benoît
-Enchantment Guardian;Gardien de l'enchantement
-Dung;Boussier
-Dusuri;Dusuri
-Echned Zekin;Echned Zekin
-Elemental rock;Roche élémentaire
-Elf Warrior;Guerrier Elfe
-Elise;Élise
-Energy focus (green);Focus énergie (vert)
-Dust devil;Diable de poussière
-Eebel;Ebel
-Elkoy;Elkoy
-Ellen;Hélène
-Energy focus (blue);Focus énergétique (bleu)
-Dwarven Engineer;Ingénieur nain
-Elf Hermit;Ermite elfe
-Elly the Camel;Elly le chameau
-Emblem Trader;Marchand d'emblèmes
-Dungeon rat;Rat de donjon
-Eek;Eek
-Efa;Efa
-Egg launcher;Lanceur d'oeufs
 Dummy;Factice
 Dumpy;Dumpy
-Dusty Aliv;Aliv poussiéreux
-Eblis;Éblis
-Elgan;Elgan
-Elizabeth;Élisabeth
 Dunce;Cancre
-Elisabeta;Elisabeth
-Eadburg;Eadburg
-Egg;Œuf
+Dung;Boussier
+Dungeon rat;Rat de donjon
 Dunstan;Dunstan
-Ek'ans Chan;Ek'ans Chan
-Enerdhil;Énerdhil
-Dwarven Ferryman;Passeur nain
-Earth warrior;Guerrier de la Terre
-Edrahil;Edrahil
-Elemental balance;Équilibre élémentaire
-Elven Scout;Éclaireur elfique
-Enel;Énel
-Earth wizard;Magicien de la Terre
-Edward;Édouard
-Elderly Elf;Elfe âgé
-Elstan;Elstan
-Enchanted Bucket;Seau enchanté
-Eclectic impling;Impliquant éclectique
-Eldalote;Eldalote
-Elder Guard;Garde aînée
-Elf Tracker;Traqueur d'elfe
-Elissa;Élissa
-Elvarg;Elvarg
-Emilia;Émilie
-Dwarven Boatman;Batelier nain
-Dwarven Miner;Mineur nain
-Eagle;Aigle
-Elena Hosidius;Elena Hosidius
-Elfinlocks;Elfinlocks
-Elijah;Élie
-Elladan;Elladan
-Ellis;Élise
-Elsie;Elsie
-Eluned;Éluné
-Enakhra;Enakhra
-Enchanted Broom;Balai enchanté
+Duradel;Duradel
 Durgok;Durgok
-Dwarf;Nain
-Eadgar;Eadgar
-Ed Wood;Ed Bois
-Eduard;Édouard
-Elder Chaos druid;Ancien Druide du Chaos
-Eldgrim;Eldgrim
-Elena;Hélène
-Elvarg (hard);Elvarg (dur)
-Emily;Émilie
-Enclave guard;Garde d'enclave
 Dusk;Crépuscule
+Dust devil;Diable de poussière
+Dusty Aliv;Aliv poussiéreux
+Dusuri;Dusuri
+Dwarf;Nain
+Dwarf gang member;Membre d'un gang nain
+Dwarven Boatman;Batelier nain
+Dwarven Engineer;Ingénieur nain
+Dwarven Ferryman;Passeur nain
+Dwarven Miner;Mineur nain
+Eadburg;Eadburg
+Eadgar;Eadgar
+Eagle;Aigle
+Earth Warrior Champion;Champion des Guerriers de la Terre
 Earth elemental;Élémentaire de Terre
 Earth impling;Terre impliquant
+Earth warrior;Guerrier de la Terre
+Earth wizard;Magicien de la Terre
+Earwen;Earwen
+Eblis;Éblis
+Echned Zekin;Echned Zekin
+Eclectic impling;Impliquant éclectique
+Ed;Éd
+Ed Wood;Ed Bois
+Edmond;Edmond
+Edrahil;Edrahil
+Eduard;Édouard
+Edward;Édouard
+Eebel;Ebel
+Eek;Eek
+Efa;Efa
 Effigy;Effigie
+Egg;Œuf
+Egg launcher;Lanceur d'oeufs
+Einar;Einar
+Eira;Eira
+Ek'ans Chan;Ek'ans Chan
+Ektheme;Ekthème
+Eldalote;Eldalote
+Elder Chaos druid;Ancien Druide du Chaos
+Elder Gnome child;Enfant Gnome aîné
+Elder Guard;Garde aînée
+Elderly Elf;Elfe âgé
+Eldgrim;Eldgrim
+Elemental balance;Équilibre élémentaire
+Elemental rock;Roche élémentaire
+Elena;Hélène
+Elena Hosidius;Elena Hosidius
+Elenwe;Elenwe
+Elf Archer;Archer elfe
+Elf Hermit;Ermite elfe
+Elf Tracker;Traqueur d'elfe
+Elf Warrior;Guerrier Elfe
+Elfinlocks;Elfinlocks
+Elgan;Elgan
+Elijah;Élie
+Elisabeta;Elisabeth
+Elise;Élise
+Elissa;Élissa
+Elite Void Knight;Chevalier du Vide d'élite
+Elizabeth;Élisabeth
+Elkoy;Elkoy
+Elladan;Elladan
+Ellen;Hélène
+Ellena;Hélène
 Ellie;Ellie
+Ellis;Élise
+Elly the Camel;Elly le chameau
 Elnock Inquisitor;Inquisiteur Elnock
+Elsie;Elsie
+Elstan;Elstan
+Eluned;Éluné
+Elvarg;Elvarg
+Elvarg (hard);Elvarg (dur)
+Elven Scout;Éclaireur elfique
+Embalmer;Embaumeur
+Emblem Trader;Marchand d'emblèmes
+Emerald Benedict;Emeraude Benoît
+Emilia;Émilie
+Emily;Émilie
+Enakhra;Enakhra
+Enchanted Broom;Balai enchanté
+Enchanted Bucket;Seau enchanté
+Enchantment Guardian;Gardien de l'enchantement
+Enclave guard;Garde d'enclave
+Enel;Énel
 Enelye;Enelye
-Enraged Tektiny;Tektiny enragé
-Entrana firebird;Entrée oiseau de feu
-Episcula Helsing;Épiscule Helsing
-Eric;Éric
-Ewesey;Ewesey
-Fanellaman;Fanellaman
-Farmer Fromund;Fermier Fromund
-Ernest;Ernest
-Ethereal Numerator;Numérateur éthéré
-Executioner;Bourreau
-Factory Worker;Ouvrier d'usine
-Fairy chef;Chef féerique
-Fake Man;Faux homme
-Fareed (hard);Fareed (dur)
-Fear reaper;Faucheur de peur
-Ent;Ent
-Eoin;Éoin
-Erestor;Erestor
-Ethereal Mimic;Mimique éthéré
-Evil Bob;Bob le mal
-Experiment;Expérience
-Fairy;Fée
-Fallen Man;Homme déchu
-Farid Morrisane (ores and bars);Farid Morrisane (minerais et barres)
-Father Aereck;Père Aereck
-Felkrash;Felkrash
-Energy sprite;Sprite d'énergie
-Enraged barbarian spirit;Esprit barbare enragé
-Estate agent;Agent immobilier
-Evil creature;Créature maléfique
-Farmer's wife;Femme de fermier
-Father Lawrence;Père Laurent
-Ferd;Ferd
-Enormous Tentacle;Énorme tentacule
-Essyllt;Essyllt
-Ethereal Expert;Expert éthéré
-Fat Rocco;Gros Rocco
-Father Jean;Père Jean
-Feanor;Féanor
-Fairy Very Wise;Fée très sage
-Fairy shop assistant;Vendeuse de fées
-Fayeth;Fayeth
+Enerdhil;Énerdhil
+Energy focus (blue);Focus énergétique (bleu)
+Energy focus (green);Focus énergie (vert)
 Energy focus (red);Focus énergétique (rouge)
-Eudav;Eudav
-Father Badden;Père Badden
-Female slave;Esclave
+Energy focus (white);Focus énergétique (blanc)
+Energy sprite;Sprite d'énergie
+Engineer;Ingénieur
 Engineering assistant;Assistante d'ingénierie
 Enilly;Enilly
-Ethereal Guide;Guide éthéré
-Farolt;Farolt
+Eniola;Éniola
 Enoch;Hénoc
-Essyllt (hard);Essyllt (dur)
-Esther;Esther
-Ethereal Lady;Dame éthérée
-Father Reen;Père Reen
-Femi;Fémi
-Feral Vampyre;Vampire sauvage
-Evil Dave;Le méchant Dave
-Fadli;Fadli
-Fairy Fixit;Fée Fixit
-Fenkenstrain's Monster;Le monstre de Fenkenstrain
+Enormous Tentacle;Énorme tentacule
+Enraged Tektiny;Tektiny enragé
+Enraged barbarian spirit;Esprit barbare enragé
+Ent;Ent
+Entomologist;Entomologiste
+Entrana firebird;Entrée oiseau de feu
+Entrance Guardian;Gardien d'entrée
 Eodan;Éodan
 Eohric;Éohrique
-Ermin;Ermine
-Fat Tony;Gros Tony
-Father Eysseric;Père Eysseric
-Father Urhney;Père Urhney
-Entrance Guardian;Gardien d'entrée
-Essence impling;Essence impliquant
-Evil Chicken (hard);Poulet maléfique (dur)
-Fairy Aeryka;Fée Aeryka
-Falo the Bard;Falo le barde
-Fancy Dan;Fantaisie Dan
-Farmer Brumty;Fermier Brumty
-Felfiz Yaryus;Felfiz Yaryus
-Eniola;Éniola
-Escaping slave;Esclave en fuite
-Evil spirit;Mauvais esprit
-Fairy Godfather;Fée Parrain
-Fareed;Tarif
-Farmer;Fermier
-Farmer Hayfield;Fermier Hayfield
-Engineer;Ingénieur
+Eoin;Éoin
+Episcula Helsing;Épiscule Helsing
 Erdan;Erdan
-Ethereal Fluke;Douve éthérée
-Ethereal Man;Homme éthéré
-Factory Manager;Directeur d'usine
-Farmer Gricoller;Agriculteur Gricoller
-Energy focus (white);Focus énergétique (blanc)
+Erestor;Erestor
+Eric;Éric
+Ermin;Ermine
+Ernest;Ernest
 Erodoeht;Erodoeht
+Escaping slave;Esclave en fuite
+Essence impling;Essence impliquant
+Essyllt;Essyllt
+Essyllt (hard);Essyllt (dur)
+Estate agent;Agent immobilier
+Esther;Esther
+Ethereal Expert;Expert éthéré
+Ethereal Fluke;Douve éthérée
+Ethereal Guide;Guide éthéré
+Ethereal Lady;Dame éthérée
+Ethereal Man;Homme éthéré
+Ethereal Mimic;Mimique éthéré
+Ethereal Numerator;Numérateur éthéré
 Ethereal Perceptive;Perceptif éthéré
+Eudav;Eudav
 Eve;Veille
+Evil Bob;Bob le mal
+Evil Chicken;Poulet maléfique
+Evil Chicken (hard);Poulet maléfique (dur)
+Evil Dave;Le méchant Dave
+Evil creature;Créature maléfique
+Evil spirit;Mauvais esprit
+Ewesey;Ewesey
 Examiner;Examinateur
+Executioner;Bourreau
+Experiment;Expérience
 Experiment No.2;Expérience n°2
 Ezekial Lovecraft;Ézéchiel Lovecraft
+Factory Manager;Directeur d'usine
+Factory Worker;Ouvrier d'usine
+Fadli;Fadli
+Fairy;Fée
+Fairy Aeryka;Fée Aeryka
+Fairy Fixit;Fée Fixit
+Fairy Godfather;Fée Parrain
 Fairy Nuff;Fée Nuff
 Fairy Queen;Reine des fées
+Fairy Very Wise;Fée très sage
+Fairy chef;Chef féerique
+Fairy shop assistant;Vendeuse de fées
 Fairy shop keeper;Fée commerçante
-Entomologist;Entomologiste
-Evil Chicken;Poulet maléfique
-First Mate Deri;Premier lieutenant Deri
-Flosi Dalksson;Flosi Dalksson
-Fremennik Warrior;Guerrier Fremennik
-Freygerd;Freygerd
-Flax keeper;Gardien de lin
-Flying Vespina;Vespine volante
-Froono;Froono
-Fishbowl;Bocal à poissons
-Fisherman Frodi;Pêcheur Frodi
-Flambeed;Flambé
-Flower;Fleur
+Fake Man;Faux homme
+Fallen Man;Homme déchu
+Falo the Bard;Falo le barde
+Fancy Dan;Fantaisie Dan
+Fanellaman;Fanellaman
+Fareed;Tarif
+Fareed (hard);Fareed (dur)
+Farid Morrisane (ores and bars);Farid Morrisane (minerais et barres)
+Farmer;Fermier
+Farmer Brumty;Fermier Brumty
+Farmer Fromund;Fermier Fromund
+Farmer Gricoller;Agriculteur Gricoller
+Farmer Hayfield;Fermier Hayfield
+Farmer's wife;Femme de fermier
+Farolt;Farolt
+Fat Rocco;Gros Rocco
+Fat Tony;Gros Tony
+Father Aereck;Père Aereck
+Father Badden;Père Badden
+Father Eysseric;Père Eysseric
+Father Jean;Père Jean
+Father Lawrence;Père Laurent
+Father Reen;Père Reen
+Father Urhney;Père Urhney
+Fayeth;Fayeth
+Feanor;Féanor
+Fear reaper;Faucheur de peur
+Felfiz Yaryus;Felfiz Yaryus
+Felkrash;Felkrash
+Female slave;Esclave
+Femi;Fémi
+Fenkenstrain's Monster;Le monstre de Fenkenstrain
+Feral Vampyre;Vampire sauvage
+Ferd;Ferd
+Fernahei;Fernaheï
+Ferocious barbarian spirit;Esprit barbare féroce
+Ferox;Ferox
+Ferret;Furet
+Ferryman Nathwood;Passeur Nathwood
+Ferryman Sathwood;Passeur Sathwood
+Fever spider;Araignée de fièvre
+Ffoni;Ffoni
+Fidelio;Fidélio
+Fightslave;Esclave de combat
+Filamina;Filamine
+Filliman Tarlock;Filliman Tarlock
 Financial Seer;Voyant financier
-Fishmonger;Poissonnier
-Flockleader Geerin;Chef de troupeau Geerin
-Frank;Franc
-Fridgeir;Réfrigérateur
-Frog princess;Princesse grenouille
 Financial Wizard;Assistant financier
 Finarfin;Finarfin
-Flambeed (hard);Flambé (dur)
-Flesh Crawler;Rameur de chair
-Flying Book;Livre volant
-Foreman;Contremaître
-Freaky Forester;Forestier bizarre
-Frog prince;Prince grenouille
-Fungi;Champignons
-Ferox;Ferox
-Fightslave;Esclave de combat
 Findis;Trouveris
-Fiyr Shade;Fiyr Ombre
-Flaygian Screwte;Viste Flaygian
-Forester;Forestier
-Forester (hard);Forestier (dur)
-Fortress Guard;Garde de forteresse
-Fragment of Seren;Fragment de Seren
-Francis;François
-Frincos;Frincos
-Fever spider;Araignée de fièvre
-Fionella;Fionella
-First mate 'Davey-boy';Premier lieutenant 'Davey-boy'
-Fishing tutor;Professeur de pêche
-Fortunato;Fortuné
-Frankie;Frankie
-Frog;Grenouille
-Fuggy;Qui sent le renfermé
-Fidelio;Fidélio
-Fingon;Fingon
-Fly trap;Piège à mouches
-Fridleif Shieldson;Fridleif Shieldson
+Finduilas;Finduilas
 Fingolfin;Fingolfin
+Fingon;Fingon
+Finn;Finlandais
+Fionella;Fionella
+Fior;Fior
 Fire Warrior of Lesarkus;Guerrier du Feu de Lesarkus
 Fire elemental;Élémentaire de feu
-Fossil Rock;Roche fossile
-Fior;Fior
-Florin;Florin
-Flynn;Flynn
-Fritz the Glassblower;Fritz le souffleur de verre
-Ferryman Sathwood;Passeur Sathwood
-Fishing spot;Lieu de pêche
-Flawed Golem;Golem défectueux
-Floki;Floki
-Fornek quo Maten;Fornek quo Maten
-Franklin Caranos;Franklin Caranos
-Frenita;Frenita
-Finn;Finlandais
-Fisherman;Pêcheur
-Flippa;Flippa
-Fox;Renard
-Frizzy Skernip;Skernip crépu
-Frogeel;Grenouille
-Ferryman Nathwood;Passeur Nathwood
-Freja;Fréja
-Ferocious barbarian spirit;Esprit barbare féroce
-Ffoni;Ffoni
-Filamina;Filamine
 Fire giant;Géant du feu
+Fire wizard;Assistant du feu
+First Mate Deri;Premier lieutenant Deri
+First Mate Peri;Premier lieutenant Peri
+First mate 'Davey-boy';Premier lieutenant 'Davey-boy'
 Fish;Poisson
 Fish monger;Poissonnier
-Flight Kilisa;Vol Kilisa
-Flower Girl;Fille de fleur
-Flying female vampire;Vampire femelle volante
-Forgotten Soul;Âme oubliée
-Fullangr;Fullangr
-Ferret;Furet
-Finduilas;Finduilas
-Fire wizard;Assistant du feu
-First Mate Peri;Premier lieutenant Peri
 Fish shoal;Banc de poissons
+Fishbowl;Bocal à poissons
+Fisherman;Pêcheur
+Fisherman Frodi;Pêcheur Frodi
+Fishing spot;Lieu de pêche
+Fishing tutor;Professeur de pêche
+Fishmonger;Poissonnier
+Fiyr Shade;Fiyr Ombre
 Fiyr Shadow;Fiyr Ombre
+Flambeed;Flambé
+Flambeed (hard);Flambé (dur)
 Flaming pyrelord;Seigneur du feu enflammé
-Francois;François
-Freidir;Fridir
-Fernahei;Fernaheï
-Filliman Tarlock;Filliman Tarlock
+Flawed Golem;Golem défectueux
+Flax keeper;Gardien de lin
+Flaygian Screwte;Viste Flaygian
+Flesh Crawler;Rameur de chair
 Flies;Mouches
+Flight Kilisa;Vol Kilisa
+Flippa;Flippa
+Flockleader Geerin;Chef de troupeau Geerin
+Floki;Floki
+Florin;Florin
+Flosi Dalksson;Flosi Dalksson
+Flower;Fleur
+Flower Girl;Fille de fleur
+Fly trap;Piège à mouches
+Flying Book;Livre volant
+Flying Vespina;Vespine volante
+Flying female vampire;Vampire femelle volante
+Flynn;Flynn
+Foreman;Contremaître
+Forester;Forestier
+Forester (hard);Forestier (dur)
+Forgotten Soul;Âme oubliée
 Former Vampyre;Ancien vampire
+Fornek quo Maten;Fornek quo Maten
+Fortress Guard;Garde de forteresse
+Fortunato;Fortuné
 Fossegrimen;Fossegrimen
 Fossil Collector;Collectionneur de fossiles
+Fossil Rock;Roche fossile
+Fox;Renard
+Fragment of Seren;Fragment de Seren
+Francis;François
+Francois;François
+Frank;Franc
+Frankie;Frankie
+Franklin Caranos;Franklin Caranos
+Freaky Forester;Forestier bizarre
 Freald;Fréald
 Fred the Farmer;Fred le fermier
+Freidir;Fridir
+Freja;Fréja
+Fremennik Warrior;Guerrier Fremennik
+Frenita;Frenita
+Freygerd;Freygerd
+Fridgeir;Réfrigérateur
+Fridleif Shieldson;Fridleif Shieldson
+Frincos;Frincos
+Fritz the Glassblower;Fritz le souffleur de verre
+Frizzy Skernip;Skernip crépu
+Frog;Grenouille
+Frog prince;Prince grenouille
+Frog princess;Princesse grenouille
+Frogeel;Grenouille
+Froono;Froono
+Fuggy;Qui sent le renfermé
+Fullangr;Fullangr
+Fungi;Champignons
 Fur trader;Marchand de fourrures
+Furnace grate;Grille de four
+Fycie;Ficie
 Fyiona Fray (easy);Fhyona Fray (facile)
-Garai;Garaï
-General Salara;Général Salara
-Giant Roc;Roc Géant
-Giant lobster;Homard géant
-Garden supplier;Fournisseur de jardin
-Gerald;Gérald
-Ghost guard;Garde fantôme
-Giant Lobster;Homard géant
+G.L.O. Caranock;G.L.O. Caranock
 GPDT employee;Employé GPDT
-Georgy;Gueorgui
-Ghost;Fantôme
+Gabooty;Gabooty
+Gabriela;Gabriela
+Gadderanks;Gadderanks
+Gadrin;Gadrin
+Gaius;Gaïus
+Galahad;Galahad
+Galana;Galane
+Galathil;Galathil
+Galina;Galine
+Gallow;Potence
 Galvek;Galvék
+Gamer;Joueur
+Gamfred;Gamfred
+Gang boss;Chef de gang
+Gangster;Gangster
+Garai;Garaï
+Garbek quo Maten;Garbek quo Maten
+Garden supplier;Fournisseur de jardin
+Gardener;Jardinier
 Gardener Ghost;Fantôme du jardinier
+Gardener Gunnhild;Jardinier Gunnhild
+Gardener Jay Jr.;Le jardinier Jay Jr.
+Gargh;Gargh
+Gargoyle;Gargouille
+Garkor;Garkor
+Garl;Ail
+Garth;Garth
+Garv;Garv
+Gate of War;Porte de la guerre
+Gatekeeper;Portier
+Gauss;Gauss
+Gee;Bon sang
+Gelatinnoth Mother;Mère gélatinnoth
+Gelatinnoth Mother (hard);Gelatinnoth Mère (dur)
+Gelin;Gélin
+Gelmir;Gelmir
+Gem;Gemme
 Gem merchant;Marchand de pierres précieuses
+Gem trader;Négociant en pierres précieuses
+Gene;Gène
+General Babacus;Général Babacus
+General Bentnoze;Général Bentnoze
+General Graardor;Général Graardor
+General Graardor Jr.;Général Graardor Jr.
+General Hining;Hining général
+General Khazard;Général Khazard
+General Kilian;Général Kilian
+General Salara;Général Salara
+General Vir;Général Vir
+General Wartface;Verrue générale
+Generic Diplomat;Diplomate générique
+Genie;Génie
+George Laxmeister;Georges Laxmeister
+Georgy;Gueorgui
+Gerald;Gérald
+Gerrant;Gerrant
+Gertrude;Gertrude
+Gertrude's cat;Le chat de Gertrude
+Gethin;Gethin
+Ghaslor the Elder;Ghaslor l'Ancien
+Ghast;Horrible
+Ghommal;Ghommal
+Ghost;Fantôme
+Ghost (?);Fantôme (?)
+Ghost banker;Banquier fantôme
 Ghost captain;Capitaine fantôme
+Ghost disciple;Disciple fantôme
+Ghost farmer;Fermier fantôme
+Ghost guard;Garde fantôme
+Ghost innkeeper;Aubergiste fantôme
 Ghost sailor;Marin fantôme
+Ghost shopkeeper;Commerçant fantôme
+Ghost villager;Villageois fantôme
 Ghoul;Goule
 Ghoul Champion;Champion des goules
 Gianne jnr.;Gianne jnr.
-Fycie;Ficie
-Gelatinnoth Mother (hard);Gelatinnoth Mère (dur)
-Galathil;Galathil
-Gallow;Potence
-Gang boss;Chef de gang
-Gangster;Gangster
-Gardener Gunnhild;Jardinier Gunnhild
-Gene;Gène
-Generic Diplomat;Diplomate générique
-Gerrant;Gerrant
-Gertrude;Gertrude
-Gethin;Gethin
-Ghost farmer;Fermier fantôme
-Giant Rock Crab;Crabe géant
-Gelmir;Gelmir
-General Hining;Hining général
-Galana;Galane
-Gamer;Joueur
-Garkor;Garkor
-Gate of War;Porte de la guerre
-General Bentnoze;Général Bentnoze
-Giant rockslug;Limace géante
-G.L.O. Caranock;G.L.O. Caranock
-Gamfred;Gamfred
-Gargh;Gargh
-Garv;Garv
-Gem trader;Négociant en pierres précieuses
-George Laxmeister;Georges Laxmeister
-Ghommal;Ghommal
-Ghost banker;Banquier fantôme
-Giant rat;Rat géant
-Gabooty;Gabooty
-Gadrin;Gadrin
-Galina;Galine
-Garbek quo Maten;Garbek quo Maten
-Garl;Ail
-Giant Champion;Champion géant
-Giant crypt rat;Rat géant des cryptes
-Giant mosquito;Moustique géant
-Gardener Jay Jr.;Le jardinier Jay Jr.
-Gelatinnoth Mother;Mère gélatinnoth
-Gem;Gemme
-General Kilian;Général Kilian
-Giant scarab;Scarabée géant
-Gauss;Gauss
-Gertrude's cat;Le chat de Gertrude
-Ghaslor the Elder;Ghaslor l'Ancien
-Ghast;Horrible
 Giant;Géant
-Giant Squirrel;Écureuil géant
-Gabriela;Gabriela
-Gardener;Jardinier
-General Babacus;Général Babacus
-General Wartface;Verrue générale
-Ghost shopkeeper;Commerçant fantôme
+Giant Champion;Champion géant
+Giant Lobster;Homard géant
+Giant Mole;Taupe géante
+Giant Roc;Roc Géant
+Giant Roc (hard);Roc géant (dur)
+Giant Rock Crab;Crabe géant
 Giant Sea Snake;Serpent de mer géant
-Gaius;Gaïus
-Garth;Garth
-Gelin;Gélin
-General Graardor;Général Graardor
+Giant Squirrel;Écureuil géant
 Giant bat;Chauve-souris géante
+Giant crypt rat;Rat géant des cryptes
 Giant crypt spider;Araignée géante des cryptes
 Giant frog;Grenouille géante
-Gadderanks;Gadderanks
-Galahad;Galahad
-Gargoyle;Gargouille
-Gee;Bon sang
-Genie;Génie
-Ghost (?);Fantôme (?)
-Ghost villager;Villageois fantôme
-Giant Mole;Taupe géante
-Furnace grate;Grille de four
-Gatekeeper;Portier
-General Graardor Jr.;Général Graardor Jr.
-General Khazard;Général Khazard
-General Vir;Général Vir
-Ghost disciple;Disciple fantôme
-Ghost innkeeper;Aubergiste fantôme
-Giant Roc (hard);Roc géant (dur)
-Gita Prymes;Gita Prymes
-Gnome traveller;Voyageur gnome
-Gnome winger;Ailier gnome
-Gnome woman;Femme gnome
-Greasycheeks;Joues grasses
-Greater Nechryael;Grand Nechryaël
-Greater skeletal thrall;Un plus grand esclavage squelettique
-Gnome trainer;Entraîneur de gnomes
-Greater zombified thrall;Grand esclave zombifié
-Grimgnash;Grimgnash
-Grinka Krast;Grinka Krast
-Gillie Groats;Gruaux Gillie
-Gnocci the Cook;Gnocci le cuisinier
-Gnome Driver;Pilote Gnome
-Gnome baller;Balleur de Gnome
-Goblin fish;Poisson gobelin
-Gourmet;Gourmet
-Green Gemstone Director;Directeur des pierres précieuses vertes
-Grigore;Grigore
+Giant lobster;Homard géant
+Giant mosquito;Moustique géant
+Giant rat;Rat géant
+Giant rockslug;Limace géante
+Giant scarab;Scarabée géant
 Giant scarab (hard);Scarabée géant (dur)
-Gnome child;Enfant gnome
-Gnome companion;Compagnon Gnome
-Gnome soldier;Soldat gnome
-Goblin guard;Garde gobelin
-Gorak;Gorak
-Gourmet impling;Implantation gourmande
-Grey golem;Golem gris
-Gnome Waiter;Serveur Gnome
-Gnome guard;Garde des gnomes
-Goblin;Lutin
-Grave scorpion;Scorpion funéraire
-Greater ghostly thrall;Un plus grand esclave fantomatique
-Giant snail;Escargot géant
-Glorfindel;Glorfindel
-Gnome shop keeper;Commerçant Gnome
-Gnosi;Gnosi
-Grand Exchange Clerk;Commis au Grand Bourse
-Grandpa Jack;Grand-père Jack
-Great blue heron;Grand héron bleu
-Greengrocer;Marchand de légumes
-Giant spider;Araignée géante
-Glough;Glough
-Goat Poo;Caca de chèvre
-Goblin Champion;Champion gobelin
-Golrie;Golrie
-Gorad;Gorad
-Gorilla;Gorille
-Green Gemstone Secretary;Secrétaire aux pierres précieuses vertes
-Gnome emissary;Émissaire gnome
-Gnome troop;Troupe de gnomes
-Gnormadium Avlafrim;Gnormadium Avlafrim
-Grace;Grâce
-Grave;Tombe
-Gravingas;Gravingas
-Greater abyssal demon;Grand démon abyssal
-Green dragon;Dragon vert
-Grigor Rasputin;Grigor Raspoutine
-Grimesquit;Grimesquit
 Giant skeleton;Squelette géant
-Gnome banker;Banquier gnome
-Golden sheep;Mouton d'or
-Great Olm (Left claw);Grand Olm (Griffe gauche)
-Gladiator;Gladiateur
-Glod;Gloire
-Graveyard Guardian;Gardien du cimetière
-Green fireflies;Lucioles vertes
-Gileth;Gileth
-Glenda;Glenda
-Golem;Golem
-Grave digger;Fossoyeur
-Greater demon;Grand démon
-Greldo;Greldo
-Grew;A grandi
-Grip;Poignée
-Giral bat;Chauve-souris Giral
-Gnome Mage;Mage Gnome
-Goblin Cook;Cuisinier gobelin
-Goblin scribe;Scribe gobelin
-Golova;Golova
-Gordon;Gordon
-Giles;Gilles
-Goat;Chèvre
-Gold ore;Minerai d'or
-Gossip;Potins
-Greater Skeleton Hellhound;Grand chien de l'enfer squelette
-Green Sheep;Mouton vert
+Giant snail;Escargot géant
+Giant spider;Araignée géante
 Gielinor Guide;Guide de Giélinor
+Giles;Gilles
+Gileth;Gileth
+Gillie Groats;Gruaux Gillie
+Giral bat;Chauve-souris Giral
+Gita Prymes;Gita Prymes
+Gladiator;Gladiateur
+Glenda;Glenda
+Glod;Gloire
 Glod (hard);Glod (dur)
-Gnome;Gnome
-Godric;Godric
-Grail Maiden;Fille du Graal
-Great Olm;Grand Olm
-Golden warbler;Paruline dorée
-Goreu;Goreu
+Glorfindel;Glorfindel
+Glough;Glough
 Glouphrie the Untrusted;Glouphrie la méfiante
+Gnocci the Cook;Gnocci le cuisinier
+Gnome;Gnome
 Gnome Archer;Archer gnome
 Gnome Coach;Entraîneur de gnomes
+Gnome Driver;Pilote Gnome
+Gnome Mage;Mage Gnome
+Gnome Waiter;Serveur Gnome
 Gnome ball referee;Arbitre de balle Gnome
+Gnome baller;Balleur de Gnome
+Gnome banker;Banquier gnome
+Gnome child;Enfant gnome
+Gnome companion;Compagnon Gnome
+Gnome emissary;Émissaire gnome
+Gnome guard;Garde des gnomes
+Gnome shop keeper;Commerçant Gnome
+Gnome soldier;Soldat gnome
+Gnome trainer;Entraîneur de gnomes
+Gnome traveller;Voyageur gnome
+Gnome troop;Troupe de gnomes
+Gnome winger;Ailier gnome
+Gnome woman;Femme gnome
+Gnormadium Avlafrim;Gnormadium Avlafrim
+Gnosi;Gnosi
+Goat;Chèvre
+Goat Poo;Caca de chèvre
+Goblin;Lutin
+Goblin Champion;Champion gobelin
+Goblin Cook;Cuisinier gobelin
+Goblin fish;Poisson gobelin
+Goblin guard;Garde gobelin
+Goblin scribe;Scribe gobelin
+Godric;Godric
+Gold ore;Minerai d'or
+Golden sheep;Mouton d'or
+Golden warbler;Paruline dorée
+Golem;Golem
+Golova;Golova
+Golrie;Golrie
+Gorad;Gorad
+Gorak;Gorak
+Gordon;Gordon
+Goreu;Goreu
 Gorhak quo Narga;Gorhak quo Narga
+Gorilla;Gorille
+Gossip;Potins
+Gourmet;Gourmet
+Gourmet impling;Implantation gourmande
+Grace;Grâce
+Grail Maiden;Fille du Graal
+Grand Exchange Clerk;Commis au Grand Bourse
+Grandpa Jack;Grand-père Jack
+Grave;Tombe
+Grave digger;Fossoyeur
+Grave scorpion;Scorpion funéraire
+Graveyard Guardian;Gardien du cimetière
+Gravingas;Gravingas
+Greasycheeks;Joues grasses
+Great Olm;Grand Olm
+Great Olm (Left claw);Grand Olm (Griffe gauche)
 Great Olm (Right claw);Grand Olm (Griffe droite)
+Great blue heron;Grand héron bleu
+Greater Nechryael;Grand Nechryaël
+Greater Skeleton Hellhound;Grand chien de l'enfer squelette
+Greater abyssal demon;Grand démon abyssal
+Greater demon;Grand démon
+Greater ghostly thrall;Un plus grand esclave fantomatique
+Greater skeletal thrall;Un plus grand esclavage squelettique
+Greater zombified thrall;Grand esclave zombifié
+Green Gemstone Director;Directeur des pierres précieuses vertes
+Green Gemstone Secretary;Secrétaire aux pierres précieuses vertes
+Green Sheep;Mouton vert
+Green dragon;Dragon vert
+Green fireflies;Lucioles vertes
+Greengrocer;Marchand de légumes
+Greldo;Greldo
+Grew;A grandi
+Grey golem;Golem gris
+Grigor Rasputin;Grigor Raspoutine
+Grigore;Grigore
+Grimesquit;Grimesquit
+Grimgnash;Grimgnash
+Grinka Krast;Grinka Krast
+Grip;Poignée
+Grish;Grish
+Grizzly bear;Grizzly
 Grizzly bear cub;Ourson grizzli
+Growler;Grogneur
+Growthling;Croissance
+Grubfoot;Pied de larve
+Grubor;Grubor
+Gruff McScruff;Gruff McScruff
+Grug;Grug
+Gruh;Gruh
+Grum;Grum
+Grundt;Grundt
+Grunsh;Grincheux
+Gruva Patrull;Gruva Patrull
+Guanic bat;Chauve-souris guanique
+Guard;Garde
+Guard Bandit;Bandit de garde
+Guard Captain;Capitaine de la garde
+Guard Recruiter;Recruteur de gardes
+Guard Vemmeldo;Garde Vemmeldo
+Guard dog;Chien de garde
+Guardian Drake;Drake gardien
+Guardian mummy;Maman gardienne
+Guardian of Armadyl;Gardien d'Armadyl
+Guidor;Guidor
+Guildmaster;Maître de guilde
+Guildmaster Jane;Maître de guilde Jane
+Guildmaster Lars;Maître de guilde Lars
+Guilin;Guilin
+Guinevere;Guenièvre
+Gujuo;Gujuo
+Gull;Mouette
+Gulldamar;Gulldamar
+Gulluck;Gulluck
+Gundai;Gundaï
+Gundik;Gundik
+Gunnar Holdstrom;Gunnar Holdstrom
+Gunnjorn;Gunnjörn
+Gunslik;Gunslik
+Gunthor the brave;Gunthor le courageux
+Guthan the Infested;Guthan l'Infesté
 Gwallter;Gwallter
 Gwerin Hapus;Gwerin Hapus
-Hafuba;Hafuba
-Head Mourner;Chef en deuil
-Gruva Patrull;Gruva Patrull
+Gwindor;Gwindor
+Gwyl;Gwyl
+Gwyn;Gwyn
+Gypsy;gitan
+Gypsy Aris;Gitan Aris
 Gyr Falcon;Faucon Gyr
-Haemas Lamescus;Hémas Lamescus
-Hallak;Hallak
-Harold Evans;Harold Evans
-Harry;Harry
-Head;Tête
-Guard Bandit;Bandit de garde
-Gunthor the brave;Gunthor le courageux
-Hamab;Hamab
-Hammerspike Stoutbeard;Barbe robuste à pique-marteau
-Growler;Grogneur
-Gruh;Gruh
-Hairdresser;Coiffeur
-Haldor quo Keran;Haldor quo Keran
-Head Thief;Voleur en chef
-Gruff McScruff;Gruff McScruff
-Gunnar Holdstrom;Gunnar Holdstrom
-Harrallak Menarous;Harrallak Ménarous
-Growthling;Croissance
+H.A.M. Archer;JAMBON. Archer
 H.A.M. Deacon;JAMBON. Diacre
-Half-Zombie;Demi-zombie
-Hameln the Jester;Hameln le bouffon
-Haming;Haming
-Harpert;Harper
-Haze;Brume
-Grug;Grug
-Gulldamar;Gulldamar
-Gundai;Gundaï
-Gunnjorn;Gunnjörn
 H.A.M. Guard;JAMBON. Garde
 H.A.M. Mage;JAMBON. Mage
 H.A.M. Member;JAMBON. Membre
+HAM member;Membre du HAM
+HRH Hrafn;SAR Hrafn
+Habibah;Habiba
+Hadley;Hadley
+Haemas Lamescus;Hémas Lamescus
+Haera;Haéra
+Hafuba;Hafuba
+Hairdresser;Coiffeur
+Hajedy;Hajedy
+Haldor quo Keran;Haldor quo Keran
+Half-Zombie;Demi-zombie
+Half-soulless;À moitié sans âme
+Halla;Halla
+Hallak;Hallak
+Hamab;Hamab
+Hamal the Chieftain;Hamal le chef
+Hameln the Jester;Hameln le bouffon
+Hamid;Hamid
+Haming;Haming
+Hammerspike Stoutbeard;Barbe robuste à pique-marteau
+Hanchen the Hound;Hanchen le chien
+Hangman game;Jeu du pendu
+Hans;Hans
+Hari;Hari
+Haris;Haris
+Harold;Harold
+Harold Evans;Harold Evans
+Harpert;Harper
+Harpie Bug Swarm;Essaim d'insectes harpies
+Harrallak Menarous;Harrallak Ménarous
+Harry;Harry
 Haskell;Haskell
+Hassan;Hassan
+Hatius Cosaintus;Hatius Cosaintus
+Haze;Brume
+Hazeel;Noisette
+Hazeel Cultist;Adepte d'Hazeel
+Hazelmere;Noisetier
+Head;Tête
+Head Guard;Garde-tête
+Head Mourner;Chef en deuil
+Head Thief;Voleur en chef
+Head chef;Chef de cuisine
 Headless Beast;Bête sans tête
 Headless Beast (hard);Bête sans tête (difficile)
-Grizzly bear;Grizzly
-Gwindor;Gwindor
-Halla;Halla
-Hazelmere;Noisetier
-Guard Recruiter;Recruteur de gardes
-Guildmaster Lars;Maître de guilde Lars
-Gujuo;Gujuo
-Haera;Haéra
-Hari;Hari
-Grubfoot;Pied de larve
-Guard Vemmeldo;Garde Vemmeldo
-Guardian mummy;Maman gardienne
-Guidor;Guidor
-Gypsy;gitan
-Hangman game;Jeu du pendu
-Hassan;Hassan
-Grubor;Grubor
-Guildmaster;Maître de guilde
-Gwyn;Gwyn
-H.A.M. Archer;JAMBON. Archer
-Harold;Harold
-Harpie Bug Swarm;Essaim d'insectes harpies
-Hazeel Cultist;Adepte d'Hazeel
-Grish;Grish
-Grum;Grum
-Guanic bat;Chauve-souris guanique
-Guardian Drake;Drake gardien
-Guildmaster Jane;Maître de guilde Jane
-Gulluck;Gulluck
-Gundik;Gundik
-Habibah;Habiba
-Hamal the Chieftain;Hamal le chef
-Hanchen the Hound;Hanchen le chien
-Grunsh;Grincheux
-Guilin;Guilin
-Guthan the Infested;Guthan l'Infesté
-HAM member;Membre du HAM
-Grundt;Grundt
-Gull;Mouette
-Gypsy Aris;Gitan Aris
-Hamid;Hamid
-Hans;Hans
-Guard;Garde
-Guard dog;Chien de garde
-Guinevere;Guenièvre
-Gunslik;Gunslik
-Gwyl;Gwyl
-HRH Hrafn;SAR Hrafn
-Hajedy;Hajedy
-Half-soulless;À moitié sans âme
-Hazeel;Noisette
-Head Guard;Garde-tête
-Head chef;Chef de cuisine
-Guard Captain;Capitaine de la garde
-Guardian of Armadyl;Gardien d'Armadyl
-Hadley;Hadley
-Haris;Haris
-Hatius Cosaintus;Hatius Cosaintus
 Healthorg and tortoise;Healthorg et tortue
-Hell-Rat;Rat de l'enfer
-Herbi;Herbi
-Hervi;Hervi
-High Priestess Zul-Harcinqa;Grande prêtresse Zul-Harcinqa
-Hobgoblin;Lutin
-Hudo;Hudo
-Hudon;Hudon
-Hygd;Hygiénique
-Ice block;Bloc de glace
-Ice spider;Araignée de glace
-Ice troll grunt;Grognement du troll des glaces
-Highwayman;Voleur de grands chemins
-Icefiend;Démon des glaces
-Hell-Rat Behemoth;Béhémoth du rat de l'enfer
-Hellpuppy;Chiot de l'Enfer
-Hero;Héros
-Hespori;Héspori
-Hill Giant;Géant des collines
-Hirko;Hirko
-Holgart;Holgart
-Hosa;Hosa
-Hugor;Hugor
-Hunting expert;Expert en chasse
+Heckel Funch;Heckel Funch
+Hegir;Hégir
 Helemos;Hélemos
-Hetty;Hetty
-Honour guard;Garde d'honneur
-Horvik;Horvik
-Hring Hring;Hring Hring
-Iban;Iban
-Ice demon;Démon de glace
-Hiylik Myna;Hiylik Myna
-Hoop Snake;Serpent cerceau
-Hopleez;Hoplez
-Ice troll;Troll des glaces
-Iestin;Iestin
 Helena;Hélène
-High Priest;Grand prêtre
-Hild;Hild
-Hobbes;Hobbes
+Helga;Helga
+Hell-Rat;Rat de l'enfer
+Hell-Rat Behemoth;Béhémoth du rat de l'enfer
 Hell-kitten;Chaton de l'enfer
-Herman Caranos;Herman Caranos
-Het;Il
-Horace;Horace
-Hydra;Hydre
-Ice warrior;Guerrier de glace
-Horphis;Horphis
-Ice troll female;Femelle troll des glaces
-Icthlarin;Icthlarine
-Idris;Idris
+Hellcat;Hellcat
+Hellhound;Chien de l'enfer
+Hellpuppy;Chiot de l'Enfer
 Hendor;Hendor
 Hengel;Hengel
-Holoy;Holi
-Hooknosed Jack;Jack au nez crochu
-Huge spider;Énorme araignée
-Hunding;Chasse
-Husk;Décortiquer
-Icicle;Stalactite
 Hengrad;Hengrad
-Henryeta Carnillean;Henryeta Carnilléen
-Holthion;Holthion
-Ice troll male;Mâle troll des glaces
-Ice wolf;Loup de glace
-Helga;Helga
-Hooded Figure;Figurine à capuche
-Horacio;Horace
-Hura;Hura
-Ian;Ian
-Heron;Héron
-Hieve;Hieve
-Ice Queen;Reine des glaces
-Heckel Funch;Heckel Funch
-Hellcat;Hellcat
-Hole in the wall;Trou dans le mur
-Homunculus;Homunculus
-Hopeless creature;Créature désespérée
-Hops;Houblon
-Ice troll runt;L'avorton du troll des glaces
-Icelord;Seigneur des glaces
-Hellhound;Chien de l'enfer
 Henja;Henja
+Henryeta Carnillean;Henryeta Carnilléen
+Herbi;Herbi
+Herbiboar;Herbibar
+Herman Caranos;Herman Caranos
+Hero;Héros
+Heron;Héron
+Herquin;Herquin
+Hervi;Hervi
+Heskel;Heskel
+Hespori;Héspori
+Het;Il
+Hetty;Hetty
+Hewey;Héwey
+Hickton;Hickton
+Hieve;Hieve
+High Priest;Grand prêtre
+High Priestess Zul-Harcinqa;Grande prêtresse Zul-Harcinqa
+Highwayman;Voleur de grands chemins
+Hild;Hild
+Hill Giant;Géant des collines
+Hirko;Hirko
+Historian Duffy;L'historien Duffy
 Historian Minas;L'historien Minas
+Hiylik Myna;Hiylik Myna
+Hobbes;Hobbes
+Hobgoblin;Lutin
+Hobgoblin Champion;Champion Hobgobelin
+Hofuthand (weapons and armour);Hofuthand (armes et armures)
+Hole in the wall;Trou dans le mur
+Holgart;Holgart
+Holoy;Holi
+Holthion;Holthion
+Homunculus;Homunculus
 Honest Jimmy;Honnête Jimmy
+Honour guard;Garde d'honneur
+Hooded Figure;Figurine à capuche
+Hooknosed Jack;Jack au nez crochu
+Hoop Snake;Serpent cerceau
+Hopeless beast;Bête désespérée
+Hopeless creature;Créature désespérée
+Hopleez;Hoplez
+Hops;Houblon
+Horace;Horace
+Horacio;Horace
+Horned graahk;Graahk à cornes
+Horphis;Horphis
+Horvik;Horvik
+Hosa;Hosa
+House;Maison
+Hring Hring;Hring Hring
+Hudo;Hudo
+Hudon;Hudon
+Huge spider;Énorme araignée
+Hugor;Hugor
+Hunding;Chasse
+Hunting expert;Expert en chasse
+Hura;Hura
+Husk;Décortiquer
+Hydra;Hydre
+Hygd;Hygiénique
+Ian;Ian
+Iban;Iban
+Ice Queen;Reine des glaces
 Ice Troll;Troll de glace
 Ice Troll King;Roi des trolls de glace
-Heskel;Heskel
-Hickton;Hickton
-Historian Duffy;L'historien Duffy
-Hofuthand (weapons and armour);Hofuthand (armes et armures)
-Horned graahk;Graahk à cornes
-House;Maison
 Ice Troll King (hard);Roi des Trolls de Glace (difficile)
+Ice block;Bloc de glace
+Ice demon;Démon de glace
 Ice giant;Géant de glace
+Ice spider;Araignée de glace
+Ice troll;Troll des glaces
+Ice troll female;Femelle troll des glaces
+Ice troll grunt;Grognement du troll des glaces
+Ice troll male;Mâle troll des glaces
+Ice troll runt;L'avorton du troll des glaces
+Ice warrior;Guerrier de glace
+Ice wolf;Loup de glace
 Iceberg;Iceberg
-Hegir;Hégir
-Herbiboar;Herbibar
-Herquin;Herquin
-Hewey;Héwey
-Hobgoblin Champion;Champion Hobgobelin
-Hopeless beast;Bête désespérée
+Icefiend;Démon des glaces
+Icelord;Seigneur des glaces
+Icicle;Stalactite
+Icthlarin;Icthlarine
 Idril;Idril
-Ima;Je suis
-Imre;Imré
-Iona;Iona
-Jackal;Chacal
-Jacky Jester;Jacky Jester
-Jal-ImKot;Jal-ImKot
-Jal-Nib;Jal-Nib
-Jethick;Jethick
-Information clerk;Commis à l'information
-Ingwion;Ingwion
-Iron Man tutor;Professeur d'Iron Man
-Jagbakoba;Jagbakoba
-Jake;Jacques
-Jal-MejRah;Jal-MejRah
-Ileana;Iléana
-Insatiable mutated Bloodveld;Bloodveld muté insatiable
-Irina;Irina
-JalTok-Jad;JalTok-Jad
-Inn Keeper;Gardien de l'auberge
-Invrigar the Necromancer;Invrigar le Nécromancien
-Iron ore;Minerai de fer
-Jack;Jack
-Jack Seagull;Jack Mouette
-Ignatius Vulcan;Ignace Vulcain
-Imerominia;Imérominie
-Irene;Irène
-Istoria;Istoria
-Jal-Ak;Jal-Ak
-Jamila;Jamila
-Jelly;Gelée
-Jess;Jesse
-Irvig Senay;Irvig Sénay
-Irwin Feaselbaum;Irwin Feaselbaum
-Jadid;Jadid
-Jenny Blade;Jenny Lame
-Jessie;Jessie
+Idris;Idris
+Iestin;Iestin
 Ifaba;Ifaba
+Iffie;Iffie
+Ignatius Vulcan;Ignace Vulcain
+Ignisia;Ignisie
 Ikkle Hydra;Hydra d'Ikkle
-Infernal Mage;Mage infernal
-Ingrid;Ingrid
-Ingrid Hradson;Ingrid Hradson
-Iron pickaxe;Pioche en fer
-Ishmael;Ismaël
-Jade;Jade
-Jal-Nib-Rek;Jal-Nib-Rek
-Jennifer;Jennifer
-Iron dragon;Dragon de fer
-Ivan Strom;Ivan Strom
-Jal-AkRek-Ket;Jal-AkRek-Ket
-Jal-Zek;Jal Zek
-Jarr;Jarre
-Jayene Kliyn (medium);Jayene Kliyn (moyenne)
-Jeb;Jeb
-Jewelled Crab;Crabe orné de bijoux
-Ivan;Ivan
-Jal-AkRek-Mej;Jal-AkRek-Mej
+Ileana;Iléana
+Ilfeen;Ilfeen
+Ima;Je suis
+Imerominia;Imérominie
+Imiago;Imago
 Imin;Imine
 Iminye;Iminye
-Imp defender;Défenseur diablotin
-Inga;Inga
-Iorwerth Archer;Archer d'Iorwerth
-JalRek-Jad;JalRek-Jad
-Jarvald;Jarvald
-Jeff;Jeff
-Jennella;Jennelle
-Iffie;Iffie
-Imp Champion;Champion diablotin
-Islwyn;Islwyn
-Jail guard;Gardien de prison
-Jal-Xil;Jal-Xil
-Jeremy Clerksin;Jeremy Clerksin
-Ish the Navigator;Ish le navigateur
-Ithoi the Navigator;Ithoi le Navigateur
-Jailer;Geôlier
-Jeed;Jeed
-Infernal pyrelord;Seigneur du feu infernal
-Ingwe;Ingwe
-Insatiable Bloodveld;Veld de sang insatiable
-Irena;Irène
-Iwan;Iwan
-Iwazaru;Iwazaru
-Jardric;Jardric
-Jatix;Jatix
-Ilfeen;Ilfeen
-Incapacitated Pyromancer;Pyromancien incapable
-Irksol;Irksol
-Jal-AkRek-Xil;Jal-AkRek-Xil
-Jal-MejJak;Jal-MejJak
-James;Jacques
-Jaraah;Jarah
-Jerico;Jérico
-Ignisia;Ignisie
-Imiago;Imago
 Immenizz;Imménizz
 Imp;Lutin
+Imp Champion;Champion diablotin
+Imp defender;Défenseur diablotin
+Imre;Imré
+Incapacitated Pyromancer;Pyromancien incapable
 Indis;Indiens
+Infernal Mage;Mage infernal
+Infernal pyrelord;Seigneur du feu infernal
+Information clerk;Commis à l'information
+Inga;Inga
+Ingrid;Ingrid
+Ingrid Hradson;Ingrid Hradson
+Ingwe;Ingwe
+Ingwion;Ingwion
+Inn Keeper;Gardien de l'auberge
 Innocent-looking key;Clé d'apparence innocente
+Insatiable Bloodveld;Veld de sang insatiable
+Insatiable mutated Bloodveld;Bloodveld muté insatiable
+Invrigar the Necromancer;Invrigar le Nécromancien
+Iona;Iona
+Iorwerth Archer;Archer d'Iorwerth
 Iorwerth Warrior;Guerrier d'Iorwerth
+Irena;Irène
+Irene;Irène
+Irina;Irina
+Irksol;Irksol
+Iron Man tutor;Professeur d'Iron Man
+Iron dragon;Dragon de fer
+Iron ore;Minerai de fer
+Iron pickaxe;Pioche en fer
+Irvig Senay;Irvig Sénay
+Irwin Feaselbaum;Irwin Feaselbaum
+Ish the Navigator;Ish le navigateur
+Ishmael;Ismaël
+Islwyn;Islwyn
+Istoria;Istoria
+Ithoi the Navigator;Ithoi le Navigateur
+Ivan;Ivan
+Ivan Strom;Ivan Strom
+Iwan;Iwan
+Iwazaru;Iwazaru
+Jack;Jack
 Jack Sails;Jack voiles
+Jack Seagull;Jack Mouette
+Jackal;Chacal
+Jacky Jester;Jacky Jester
+Jade;Jade
+Jadid;Jadid
+Jagbakoba;Jagbakoba
+Jail guard;Gardien de prison
+Jailer;Geôlier
+Jake;Jacques
+Jal-Ak;Jal-Ak
+Jal-AkRek-Ket;Jal-AkRek-Ket
+Jal-AkRek-Mej;Jal-AkRek-Mej
+Jal-AkRek-Xil;Jal-AkRek-Xil
+Jal-ImKot;Jal-ImKot
+Jal-MejJak;Jal-MejJak
+Jal-MejRah;Jal-MejRah
+Jal-Nib;Jal-Nib
+Jal-Nib-Rek;Jal-Nib-Rek
+Jal-Xil;Jal-Xil
+Jal-Zek;Jal Zek
+JalRek-Jad;JalRek-Jad
+JalTok-Jad;JalTok-Jad
+James;Jacques
+Jamila;Jamila
+Jaraah;Jarah
+Jardric;Jardric
 Jari;Jari
-Jewelled Crab (red);Crabe bijou (rouge)
-Jungle Demon (hard);Démon de la jungle (difficile)
-Kamfreena;Kamfréna
-Kaston;Kaston
-Jyn;Jyn
-K'klik;K'klik
-Kaleb Paramaya;Kaleb Paramaya
-Karil the Tainted;Karil le corrompu
-Jex;Jex
-Jiminua;Jiminua
-Jogre Champion;Champion Jogre
-Jungle Wolf;Loup de la jungle
-Jungle horror;Horreur de la jungle
-Kai;Kaï
-Jill;Jill
-Jorra;Jorra
-Kaal-Ket-Jor;Kaal-Ket-Jor
-Kalphite Larva;Larve de Kalphite
-Kelvin;Kelvin
-Jorzik;Jorzik
-Jubster;Jubster
-Jungle spider;Araignée de la jungle
-Kalphite Princess;Princesse Kalphite
-Jimmy Dazzler;Jimmy Dazzler
-Jon;Jon
-Kamil (hard);Kamil (dur)
-Kaylee;Kaylee
-Keef;Keef
+Jarr;Jarre
+Jarvald;Jarvald
+Jatix;Jatix
+Jayene Kliyn (medium);Jayene Kliyn (moyenne)
+Jeb;Jeb
+Jeed;Jeed
+Jeff;Jeff
+Jelly;Gelée
+Jennella;Jennelle
+Jennifer;Jennifer
+Jenny Blade;Jenny Lame
+Jeremy Clerksin;Jeremy Clerksin
+Jerico;Jérico
+Jess;Jesse
+Jessie;Jessie
+Jethick;Jethick
+Jewelled Crab;Crabe orné de bijoux
 Jewelled Crab (blue);Crabe bijou (bleu)
-Johnathon;Johnathon
-Jumaane;Joumane
-Kaht B'alam;Kaht Balam
-Kalphite Worker;Ouvrier kalphite
-Kennith;Kennith
-Jogre;Jogre
-Joshua;Josué
-Jossik;Josik
-Judge of Yama;Juge de Yama
-K'ril Tsutsaroth;K'ril Tsutsaroth
-Kamil;Kamil
-Kaqemeex;Kaqemeex
-Jorral;Jorral
-Juliet;Juliette
-Jungle eagle;Aigle de la jungle
-Jungle forester;Forestier de la jungle
-Justin Servil;Justin Servil
-Kamen;Kamen
-Kazgar;Kazgar
-Jonny the beard;Jonny la barbe
-Joseph;Joseph
-Junior Navigator;Navigateur junior
-K'ril Tsutsaroth Jr.;K'ril Tsutsaroth Jr.
-Kalphite Queen;Reine Kalphite
-Kebbit;Kebbit
 Jewelled Crab (green);Crabe bijou (vert)
-Jimmy;Jimmy
-Julie;Julie
-Kaal-Mej-San;Kaal-Mej-San
-Kalrag;Kalrag
-Kanel;Kanel
-Kangai Mau;Kangai Mau
-Karamel (hard);Karamel (dur)
-Karim;Karim
-Jokul;Jokul
-Jonathan;Jonathan
-Jubbly bird;Oiseau jubilatoire
-Jungle Demon;Démon de la jungle
-Justiciar Zachariah;Justicier Zacharie
-KGP Agent;Agent KGP
-Kalphite Soldier;Soldat kalphite
-Karam;Karam
-Keepa Kettilon;Keepa Kettilon
+Jewelled Crab (red);Crabe bijou (rouge)
+Jex;Jex
 Jig cart;Chariot à gabarit
-Johanhus Ulsbrecht;Johanhus Ulsbrecht
-KGP Guard;Garde KGP
-Kaal-Xil-Dar;Kaal-Xil-Dar
-Kael Forshaw;Kael Forshaw
-Kalron;Kalron
-Karaday;Karadaï
-Karamel;Caramel
-Kathy Corkat;Kathy Corkat
-Kelyn;Kélyn
+Jill;Jill
+Jiminua;Jiminua
+Jimmy;Jimmy
+Jimmy Dazzler;Jimmy Dazzler
+Jimmy the Chisel;Jimmy le ciseau
 Joe;Joe
 Jofridr Mordstatter;Jofridr Mordstätter
+Jogre;Jogre
+Jogre Champion;Champion Jogre
+Johanhus Ulsbrecht;Johanhus Ulsbrecht
+John;John
+Johnathon;Johnathon
+Jokul;Jokul
+Jon;Jon
+Jonathan;Jonathan
+Jonny the beard;Jonny la barbe
+Jorra;Jorra
+Jorral;Jorral
+Jorzik;Jorzik
+Joseph;Joseph
+Joshua;Josué
+Jossik;Josik
+Jubbly bird;Oiseau jubilatoire
+Jubster;Jubster
+Judge of Yama;Juge de Yama
 Jukat;Jukat
+Julie;Julie
+Juliet;Juliette
+Jumaane;Joumane
+Juna;Juna
+Jungle Demon;Démon de la jungle
+Jungle Demon (hard);Démon de la jungle (difficile)
+Jungle Wolf;Loup de la jungle
+Jungle eagle;Aigle de la jungle
+Jungle forester;Forestier de la jungle
+Jungle horror;Horreur de la jungle
+Jungle savage;Sauvage de la jungle
+Jungle spider;Araignée de la jungle
+Junior Navigator;Navigateur junior
 Jury;Jury
+Justiciar Zachariah;Justicier Zacharie
+Justin Servil;Justin Servil
 Justine;Justine
+Jyn;Jyn
+K'klik;K'klik
+K'ril Tsutsaroth;K'ril Tsutsaroth
+K'ril Tsutsaroth Jr.;K'ril Tsutsaroth Jr.
+KGP Agent;Agent KGP
+KGP Guard;Garde KGP
+Kaal-Ket-Jor;Kaal-Ket-Jor
+Kaal-Mej-San;Kaal-Mej-San
+Kaal-Xil-Dar;Kaal-Xil-Dar
+Kael Forshaw;Kael Forshaw
+Kaht B'alam;Kaht Balam
+Kai;Kaï
+Kaleb Paramaya;Kaleb Paramaya
+Kalphite Guardian;Gardien kalphite
+Kalphite Larva;Larve de Kalphite
+Kalphite Princess;Princesse Kalphite
+Kalphite Queen;Reine Kalphite
+Kalphite Soldier;Soldat kalphite
+Kalphite Worker;Ouvrier kalphite
+Kalrag;Kalrag
+Kalron;Kalron
+Kamen;Kamen
+Kamfreena;Kamfréna
+Kamil;Kamil
+Kamil (hard);Kamil (dur)
+Kanel;Kanel
+Kangai Mau;Kangai Mau
+Kaqemeex;Kaqemeex
+Karaday;Karadaï
+Karam;Karam
+Karamel;Caramel
+Karamel (hard);Karamel (dur)
 Karamthulhu;Karamthulhu
 Kardia;Kardia
+Karil the Tainted;Karil le corrompu
+Karim;Karim
 Karl;Karl
-Jimmy the Chisel;Jimmy le ciseau
-John;John
-Kalphite Guardian;Gardien kalphite
-Kazemde;Kazemdé
-Keith;Keith
-Kendall;Kendall
-Juna;Juna
-Jungle savage;Sauvage de la jungle
+Kaston;Kaston
+Kathy Corkat;Kathy Corkat
 Katrine;Catherine
+Kaylee;Kaylee
+Kazemde;Kazemdé
+Kazgar;Kazgar
+Kebbit;Kebbit
+Keef;Keef
+Keepa Kettilon;Keepa Kettilon
+Keith;Keith
+Kelvin;Kelvin
+Kelyn;Kélyn
+Kendall;Kendall
 Kenelme;Kenelme
-Key Master;Maître des clés
-Kilron;Kilron
-King Black Dragon;Roi Dragon Noir
-King Gjuki Sorvott IV;Roi Gjuki Sorvott IV
-Kree'arra;Kree'arra
-Kubec Unkar;Kubec Unkar
-Lady Kelyn Ithell;Dame Kelyn Ithell
-King Awowogei;Roi Awowogei
-King Percival;Roi Perceval
-King Thoros;Roi Thoros
-Knight of the Lion;Chevalier du Lion
-Knight of the Unicorn;Chevalier de la Licorne
-Kolodion;Kolodion
-Kragen;Krägen
-Kruk;Kruk
-Lady Vulcana Lovakengj;Dame Vulcana Lovakengj
-Ket-Zek;Ket Zek
-Killer;Tueur
-King Arthur;Le roi Arthur
-King Vargas;Roi Vargas
-Klank;Klank
-Kraka;Kraka
-Kylie Minnow;Kylie Minnow
-Lanzig;Lanzig
-Khazard Guard;Garde Khazard
-Killerwatt;Watt tueur
-Klenter;Klenter
-Lanthus;Lanthe
-Kineer;Kinéer
-King Artur Hosidius;Roi Arthur Hosidius
-Kjut;Kjut
-Knight of Saradomin;Chevalier de Saradomin
-Kroy;Kroy
-Kurt;Kurt
-Lady Table;Table de dame
-Kikazaru;Kikazaru
-King Kandur Hosidius;Roi Kandur Hosidius
-King Scorpion;Roi Scorpion
-Koschei the Deathless;Koschei l'Immortel
-Krato;Krato
-Lady Servil;Dame Servil
-Khazard Ogre;Ogre Khazard
-Khazard trooper;Soldat Khazard
-King Healthorg;Roi Healthorg
-King Narnode Shareen;Roi Narnode Shareen
-Kjedelig Uppsen;Kjedelig Uppsen
-Klarense;Klarense
-Konoo;Konoo
-Khazard Scorpion;Scorpion Khazard
-King Roald;Roi Roald
-King Sand Crab;Crabe royal des sables
-Kitten;Chaton
-Knight of the Owl;Chevalier du hibou
-Kryket bat;Chauve-souris Kryket
-Lady Ffion Meilyr;Dame Ffion Meilyr
-Lamb;Agneau
-Kharid Scorpion;Scorpion Kharid
-Knight;Chevalier
-Kob;Kob
-Kormar quo Maten;Kormar quo Maten
-Kualti;Kualti
-Knight of Ardougne;Chevalier d'Ardougne
+Kennith;Kennith
+Kent;Kent
 Ket'sal K'uk;Ket'sal K'uk
+Ket-Zek;Ket Zek
+Key Master;Maître des clés
+Kharid Scorpion;Scorpion Kharid
+Khazard Guard;Garde Khazard
+Khazard Ogre;Ogre Khazard
+Khazard Scorpion;Scorpion Khazard
+Khazard barman;Barman Khazard
+Khazard commander;Commandant Khazard
+Khazard trooper;Soldat Khazard
+Khazard warlord;Seigneur de guerre Khazard
+Khazard warlord (hard);Seigneur de guerre Khazard (difficile)
+Khorvak, a dwarven engineer;Khorvak, un ingénieur nain
+Kikazaru;Kikazaru
+Killer;Tueur
+Killerwatt;Watt tueur
+Kilron;Kilron
+Kineer;Kinéer
+King Arthur;Le roi Arthur
+King Artur Hosidius;Roi Arthur Hosidius
+King Awowogei;Roi Awowogei
+King Black Dragon;Roi Dragon Noir
+King Bolren;Roi Bolren
+King Gjuki Sorvott IV;Roi Gjuki Sorvott IV
+King Healthorg;Roi Healthorg
+King Kandur Hosidius;Roi Kandur Hosidius
+King Lathas;Roi Lathas
+King Narnode Shareen;Roi Narnode Shareen
+King Percival;Roi Perceval
+King Roald;Roi Roald
 King Roald (hard);Roi Roald (dur)
-Kraken;Kraken
-Ksenia;Ksénia
+King Sand Crab;Crabe royal des sables
+King Scorpion;Roi Scorpion
+King Thoros;Roi Thoros
+King Vargas;Roi Vargas
 King kurask;Roi Kourask
 King rat;Rat royal
-Koanee;Koanee
-Lady Carys Hefin;Dame Carys Hefin
-Khorvak, a dwarven engineer;Khorvak, un ingénieur nain
-King Bolren;Roi Bolren
 King's Messenger;Messager du roi
-Koftik;Koftik
-Krystilia;Krystilia
-Lady Keli;Dame Kéli
-Lalli;Lalli
-Khazard commander;Commandant Khazard
-King Lathas;Roi Lathas
-Konar quo Maten;Konar quo Maten
-Kortan;Cortan
-Koschei the deathless;Koschei l'Immortel
-Kree'arra Jr.;Kree'arra Jr.
-Lady Nadezhda Shadum;Dame Nadejda Shadum
-Lady Shauna Piscarilius;Dame Shauna Piscarilius
-Lahsram;Lahsram
-Lan the Butcher;Lan le boucher
-Large mosquito;Gros moustique
-Khazard warlord (hard);Seigneur de guerre Khazard (difficile)
+Kitten;Chaton
+Kjedelig Uppsen;Kjedelig Uppsen
+Kjut;Kjut
+Klank;Klank
+Klarense;Klarense
+Klenter;Klenter
+Knight;Chevalier
+Knight of Ardougne;Chevalier d'Ardougne
+Knight of Saradomin;Chevalier de Saradomin
 Knight of Varlamore;Chevalier de Varlamore
+Knight of the Lion;Chevalier du Lion
+Knight of the Owl;Chevalier du hibou
+Knight of the Unicorn;Chevalier de la Licorne
 Knight of the Wolf;Chevalier du loup
-Lacey;Lacey
-Lady Crombwick;Dame Crombwick
-Lady Tangwen Trahaearn;Dame Tangwen Trahaearn
-Lammy Langle;Lammy Langle
-Large zombie monkey;Grand singe zombie
-Kent;Kent
-Khazard barman;Barman Khazard
-Khazard warlord;Seigneur de guerre Khazard
+Koanee;Koanee
+Kob;Kob
+Koftik;Koftik
+Kolodion;Kolodion
+Konar quo Maten;Konar quo Maten
+Konoo;Konoo
+Kormar quo Maten;Kormar quo Maten
+Kortan;Cortan
+Koschei the Deathless;Koschei l'Immortel
+Koschei the deathless;Koschei l'Immortel
+Kragen;Krägen
+Kraka;Kraka
+Kraken;Kraken
+Krato;Krato
+Kree'arra;Kree'arra
+Kree'arra Jr.;Kree'arra Jr.
+Kroy;Kroy
+Kruk;Kruk
+Kryket bat;Chauve-souris Kryket
+Krystilia;Krystilia
+Ksenia;Ksénia
+Kualti;Kualti
+Kubec Unkar;Kubec Unkar
 Kurask;Kourask
-Li'l lamb;Petit agneau
-Lil' Zik;Petit Zik
-Lindir;Lindir
-Lisse Isaakson;Lisse Isaakson
-Litara;Litara
-Little Parasite;Petit parasite
-Lizardman shaman;Chaman homme-lézard
-Left head;Tête gauche
-Leo;Lion
-Lesser Demon Champion;Champion Démon Mineur
-Loading crane;Grue de chargement
-Logava;Logava
-Lokar Searunner;Coureur de mer Lokar
-Layleen;Layleen
-Leagues Tutor;Tuteur de ligues
-Leke quo Keran;Leke quo Keran
-Lev;Lév
-Lil' Creator;Petit Créateur
-Lil' Destructor;Petit Destructeur
-Lliann;Lliann
-Larry;Larry
-Launa;Launa
-Lesser zombified thrall;Petit esclave zombifié
-Lillia;Lilia
-Lathas;Lattes
-Lava dragon;Dragon de lave
-Leon;Léon
-Lesser Fanatic;Petit fanatique
-Lithil;Lithile
-Local;Locale
-Logosia;Logosie
-Latlink Fastbell;Latlink Fastbell
-Lenwe;Lenwe
-Lenyig Karna;Lenyig Karna
-Lieve McCracken;Lieve McCracken
-Lil' Maiden;Petite fille
-Liliya;Lilia
-Lizardman;Homme-lézard
-Lobstrosity;Homostosité
-Liam;Liam
-Lisa;Lisa
-Lizard;Lézard
-Loinur;Loinur
-Look-out;Attention
-Lava beast;Bête de lave
-Lazim;Lazim
-Lil' Bloat;Petit ballonnement
-Liliwen;Liliwen
-Llio;Llio
-Lokraa quo Sihar;Lokraa quo Sihar
-Le-sabrè;Le-sabré
-Leech display;Affichage des sangsues
-Leenz;Leenz
-Legends guard;Garde des légendes
-Lil' Xarp;Petit Xarp
-Longbow Ben;Ben arc long
-Lauretta;Laurette
-Lensa;Lensa
-Lesser demon;Petit démon
-Lidio;Lidio
-Lil' Nylo;P'tit Nylo
-Lilifang;Lilifang
-Lollk;Lollk
-Lazy cat;Chat paresseux
-Librarian;Bibliothécaire
-Little Nightmare;Petit cauchemar
-Lizardman brute;Brute homme-lézard
-Local Gnome;Gnome local
-Looming shadow;Ombre imminente
-Leagues Assistant;Assistante des Ligues
-Leela;Leela
-Leon d'Cour;Léon d'Cour
-Lesser ghostly thrall;Petit esclave fantomatique
-Lilly;Lily
-Lleidr Golau;Lleidr Golau
-Loar Shadow;Ombre de Loar
-Locust;Criquet
-Lofu;Lofu
-Lasenna Rasputin;Lasenna Raspoutine
-Lead Navigator;Navigateur principal
-Lector Gura;Lecteur Gura
-Lesser skeletal thrall;Moins d'emprise squelettique
-Linen worker;Ouvrière du linge
-Loar Shade;Ombre de Loar
-Logios;Logios
-Loki;Loki
+Kurt;Kurt
+Kylie Minnow;Kylie Minnow
+Lacey;Lacey
+Lady Carys Hefin;Dame Carys Hefin
+Lady Crombwick;Dame Crombwick
+Lady Ffion Meilyr;Dame Ffion Meilyr
+Lady Keli;Dame Kéli
+Lady Kelyn Ithell;Dame Kelyn Ithell
+Lady Nadezhda Shadum;Dame Nadejda Shadum
+Lady Servil;Dame Servil
+Lady Shauna Piscarilius;Dame Shauna Piscarilius
+Lady Table;Table de dame
+Lady Tangwen Trahaearn;Dame Tangwen Trahaearn
+Lady Vulcana Lovakengj;Dame Vulcana Lovakengj
+Lahsram;Lahsram
+Lalli;Lalli
+Lamb;Agneau
+Lammy Langle;Lammy Langle
+Lan the Butcher;Lan le boucher
+Lanthus;Lanthe
+Lanzig;Lanzig
+Large mosquito;Gros moustique
+Large zombie monkey;Grand singe zombie
 Larran;Larran
 Larrissa;Larissa
-Lazy hellcat;Chat de l'enfer paresseux
-Leech;Sangsue
-Lenny;Lénny
-Light creature;Créature légère
-Locust rider;Cavalier criquet
-Longhall Bouncer;Videur Longhall
+Larry;Larry
 Larxus;Larxus
+Lasenna Rasputin;Lasenna Raspoutine
+Lathas;Lattes
+Latlink Fastbell;Latlink Fastbell
+Launa;Launa
+Lauretta;Laurette
+Lava beast;Bête de lave
+Lava dragon;Dragon de lave
+Layleen;Layleen
+Lazim;Lazim
+Lazy cat;Chat paresseux
+Lazy hellcat;Chat de l'enfer paresseux
+Le-sabrè;Le-sabré
+Lead Navigator;Navigateur principal
+Leagues Assistant;Assistante des Ligues
+Leagues Tutor;Tuteur de ligues
 Leatherworker;Travailleur du cuir
+Lector Gura;Lecteur Gura
+Leech;Sangsue
+Leech display;Affichage des sangsues
+Leela;Leela
+Leenz;Leenz
+Left head;Tête gauche
+Legends guard;Garde des légendes
+Leke quo Keran;Leke quo Keran
+Lenny;Lénny
+Lensa;Lensa
+Lenwe;Lenwe
+Lenyig Karna;Lenyig Karna
+Leo;Lion
+Leon;Léon
+Leon d'Cour;Léon d'Cour
+Lesser Demon Champion;Champion Démon Mineur
+Lesser Fanatic;Petit fanatique
+Lesser demon;Petit démon
+Lesser ghostly thrall;Petit esclave fantomatique
+Lesser skeletal thrall;Moins d'emprise squelettique
+Lesser zombified thrall;Petit esclave zombifié
+Lev;Lév
+Li'l lamb;Petit agneau
+Liam;Liam
+Librarian;Bibliothécaire
+Lidio;Lidio
 Lieutenant Schepbur;Lieutenant Schepbur
+Lieve McCracken;Lieve McCracken
+Light creature;Créature légère
+Lil' Bloat;Petit ballonnement
+Lil' Creator;Petit Créateur
+Lil' Destructor;Petit Destructeur
+Lil' Maiden;Petite fille
+Lil' Nylo;P'tit Nylo
 Lil' Sot;P'tit Sot
+Lil' Xarp;Petit Xarp
+Lil' Zik;Petit Zik
+Lilifang;Lilifang
+Liliwen;Liliwen
+Liliya;Lilia
+Lillia;Lilia
+Lilly;Lily
+Lindir;Lindir
+Linen worker;Ouvrière du linge
+Lisa;Lisa
+Lisse Isaakson;Lisse Isaakson
+Litara;Litara
+Lithil;Lithile
+Little Nightmare;Petit cauchemar
+Little Parasite;Petit parasite
+Lizard;Lézard
 Lizard display;Affichage lézard
+Lizardman;Homme-lézard
+Lizardman brute;Brute homme-lézard
+Lizardman shaman;Chaman homme-lézard
+Lleidr Golau;Lleidr Golau
+Lliann;Lliann
+Llio;Llio
+Loading crane;Grue de chargement
+Loar Shade;Ombre de Loar
+Loar Shadow;Ombre de Loar
+Lobstrosity;Homostosité
+Local;Locale
+Local Gnome;Gnome local
+Locust;Criquet
+Locust rider;Cavalier criquet
+Lofu;Lofu
+Logava;Logava
+Logios;Logios
+Logosia;Logosie
+Loinur;Loinur
+Lokar Searunner;Coureur de mer Lokar
+Loki;Loki
+Lokraa quo Sihar;Lokraa quo Sihar
+Lollk;Lollk
 Long-tailed Wyvern;Wyverne à longue queue
-Lucy;Lucie
-Lumo;Lumo
-Mahtan;Mahtan
-Maria Gadderanks;Maria Gadderanks
-Lord Iestin Iorwerth;Seigneur Iestin Iorwerth
-Lord Piquan Crwys;Seigneur Piquan Crwys
-Lorelai;Lorelaï
-Lundail;Lundail
-Madame Caldarium;Madame Caldarium
-Maedhros;Maedhros
-Marble gargoyle;Gargouille de marbre
-Marius;Marius
-Lord Iorwerth;Seigneur Iorwerth
-Lucky impling;Chanceux implicite
-Lumbridge Guide;Guide de Lumbridge
-Magic axe;Hache magique
-Markog;Markog
-Lord Rologarth;Seigneur Rologarth
-Lost barbarian;Barbare perdu
-Lumiere;Lumière
-Lyra;Lyre
-Major Heal;Guérison majeure
-Maniacal monkey;Singe maniaque
-Marten;Martre
-Martha Rehnison;Martha Rehnison
-Lord Ieuan Amlodd;Seigneur Ieuan Amlodd
-Major Defend;Défense majeure
-Mammoth;Mammouth
-Maria Gunnars;Maria Gunnars
-Louie Legs;Jambes de Louie
-Lurgon;Lurgon
-Maisa;Maïsa
-Male slave;Esclave mâle
-Market seller;Vendeur sur le marché
-Luminata;Lumineuse
-Lux grub;Larve de Lux
-Magnus Gram;Magnus Gramme
-Lord Kandur Hosidius;Seigneur Kandur Hosidius
-Love Cats;Aimer les chats
-Lubufu;Lubufu
-Lucien;Lucien
-Lynx;Lynx
-Mad skavid;Skavid fou
-Maeglin;Maeglin
-Magpie impling;Pie impliquant
-Malak;Malak
-Malignius Mortifer;Malignius Mortifère
-Marley;Marly
+Longbow Ben;Ben arc long
+Longhall Bouncer;Videur Longhall
+Look-out;Attention
+Looming shadow;Ombre imminente
 Lord Alexei Jovkai;Seigneur Alexei Jovkai
+Lord Baxtorian Cadarn;Seigneur Baxtorian Cadarn
+Lord Crombwick;Seigneur Crombwick
+Lord Daquarius;Seigneur Daquarius
+Lord Iestin Iorwerth;Seigneur Iestin Iorwerth
+Lord Ieuan Amlodd;Seigneur Ieuan Amlodd
+Lord Iorwerth;Seigneur Iorwerth
+Lord Kandur Hosidius;Seigneur Kandur Hosidius
 Lord Marshal Brogan;Seigneur maréchal Brogan
 Lord Mischa Myrmel;Seigneur Mischa Myrmel
+Lord Pandur Hosidius;Seigneur Pandur Hosidius
+Lord Piquan Crwys;Seigneur Piquan Crwys
+Lord Rologarth;Seigneur Rologarth
 Lord Shiro Shayzien;Seigneur Shiro Shayzien
-Louisa;Louise
-Lumberjack Leif;Bûcheron Leif
-Mage (easy);Mage (facile)
-Make-over mage;Mage de relooking
-Marfet;Marfet
-Lovakengj Engineer;Ingénieur Lovakengj
-Lowerniel Drakan;Drakan du Bas-Niel
-Luthas;Luthas
-Mairin;Mairin
-Malevolent Mage;Mage malveillant
-Manni the Reveller;Manni le fêtard
-Marmor quo Narga;Marmor quo Narga
+Lord Trobin Arceuus;Seigneur Trobin Arceuus
+Lorelai;Lorelaï
+Lornor quo Narga;Lornor quo Narga
 Lorraine;Lorraine
-Mac;Mac
-Magic Instructor;Instructeur de magie
-Maniacal Monkey Archer;Archer singe maniaque
+Lost barbarian;Barbare perdu
+Louie Legs;Jambes de Louie
+Louisa;Louise
 Lovada;Lovada
+Lovakengj Engineer;Ingénieur Lovakengj
+Love Cats;Aimer les chats
+Lowe;Lowe
+Lowerniel Drakan;Drakan du Bas-Niel
+Lubufu;Lubufu
+Lucien;Lucien
+Lucky impling;Chanceux implicite
+Lucy;Lucie
+Lumberjack Leif;Bûcheron Leif
+Lumbridge Guide;Guide de Lumbridge
+Lumdo;Lumdo
+Lumiere;Lumière
+Luminata;Lumineuse
+Lumo;Lumo
+Luna;Lune
+Lundail;Lundail
+Lunderwin;Lunderwin
+Lurgon;Lurgon
+Luscion;Luscion
+Luthas;Luthas
+Lutwidge;Lutwidge
+Lux grub;Larve de Lux
+Lynx;Lynx
+Lynx Tamer;Dompteur de lynx
+Lyra;Lyre
+Mac;Mac
 Macaroni Penguin;Macaroni Pingouin
+Mad skavid;Skavid fou
+Madame Caldarium;Madame Caldarium
+Maedhros;Maedhros
+Maeglin;Maeglin
+Mage (easy);Mage (facile)
+Mage of Zamorak;Mage de Zamorak
+Magic Instructor;Instructeur de magie
+Magic axe;Hache magique
+Magic combat tutor;Professeur de combat magique
+Magnus Gram;Magnus Gramme
+Magpie impling;Pie impliquant
+Mahtan;Mahtan
+Maid;Femme de ménage
+Mairin;Mairin
+Maisa;Maïsa
+Major Attack;Attaque majeure
 Major Collect;Collecte majeure
+Major Defend;Défense majeure
+Major Heal;Guérison majeure
+Make-over mage;Mage de relooking
+Malak;Malak
+Male slave;Esclave mâle
+Malevolent Mage;Mage malveillant
+Malignius Mortifer;Malignius Mortifère
+Mallak quo Keran;Mallak quo Keran
+Mama;Maman
+Mamma Bufetta;Maman Buffet
+Mammoth;Mammouth
+Man;Homme
+Mandrith;Mandrith
+Mandy;Mandy
+Maniacal Monkey Archer;Archer singe maniaque
+Maniacal monkey;Singe maniaque
+Manni the Reveller;Manni le fêtard
+Marble gargoyle;Gargouille de marbre
+Marfet;Marfet
+Maria Gadderanks;Maria Gadderanks
+Maria Gunnars;Maria Gunnars
+Mariah;Mariah
+Marisi;Marisi
+Marius;Marius
+Marius Giste;Marius Giste
 Mark;Marque
 Market Guard;Garde du marché
-Lumdo;Lumdo
-Luna;Lune
-Mariah;Mariah
-Lord Crombwick;Seigneur Crombwick
-Lornor quo Narga;Lornor quo Narga
-Mama;Maman
-Mandrith;Mandrith
-Marius Giste;Marius Giste
-Lord Pandur Hosidius;Seigneur Pandur Hosidius
-Lowe;Lowe
-Lunderwin;Lunderwin
-Lutwidge;Lutwidge
-Lynx Tamer;Dompteur de lynx
-Mage of Zamorak;Mage de Zamorak
-Maid;Femme de ménage
-Man;Homme
-Mandy;Mandy
-Marisi;Marisi
+Market seller;Vendeur sur le marché
+Markog;Markog
+Marley;Marly
 Marlo;Marlo
-Lord Baxtorian Cadarn;Seigneur Baxtorian Cadarn
-Lord Daquarius;Seigneur Daquarius
-Lord Trobin Arceuus;Seigneur Trobin Arceuus
-Luscion;Luscion
-Magic combat tutor;Professeur de combat magique
-Major Attack;Attaque majeure
-Mallak quo Keran;Mallak quo Keran
-Mamma Bufetta;Maman Buffet
-Mawnis Burowgar;Mawnis Burowgar
-Meiyerditch citizen;Citoyen de Meiyerditch
-Melzar the Mad;Melzar le Fou
-Mi-Gor;Mi-Gor
-Miles;Milles
-Miriam;Myriam
-Mischievous ghost;Fantôme espiègle
+Marmor quo Narga;Marmor quo Narga
+Marten;Martre
+Martha Rehnison;Martha Rehnison
+Martin Holt;Martin Holt
+Martin Thwait;Martin Thwait
+Martin the Master Gardener;Martin le maître jardinier
+Martina Scorsby;Martina Scorsby
+Marwolaeth Dawnsio;Marwolaeth Dawnsio
 Mary;Marie
-Maz;Maz
-Maze Guardian;Gardien du labyrinthe
-Menaphite guard;Garde ménaphite
-Midnight;Minuit
-Millie Miller;Millie Miller
-Miala;Miala
+Master Chef;Maître cuisinier
+Master Crafter;Maître artisan
+Master Farmer;Maître fermier
+Master Navigator;Maître Navigateur
+Master fisher;Maître pêcheur
+Master smithing tutor;Professeur de maître forgeron
+Matilda;Mathilde
+Matthew;Matthieu
 Matthias;Mathias
+Mattimeo;Mattimeo
+Mawnis Burowgar;Mawnis Burowgar
+Mawrth;Mawrth
+Mayor Hobb;Maire Hobb
+Maz;Maz
 Mazchna;Mazchna
+Maze Guardian;Gardien du labyrinthe
 Mazion;Mazion
+Me;Moi
+Me (hard);Moi (dur)
+Meddwl Ymlaen Llaw;Meddwl Ymlaen Llaw
+Medium ninja monkey;Singe ninja moyen
+Meegle;Meegle
+Megan;Mégane
+Meiyerditch citizen;Citoyen de Meiyerditch
+Meiyerditch miner;Mineur de Meiyerditch
+Mekritus A'hara;Mekritus A'hara
+Melana Moonlander;Melana Moonlander
+Melee combat tutor;Professeur de combat au corps à corps
+Meleti;Méléti
+Melina;Mélina
+Melvin;Melvin
+Melzar the Mad;Melzar le Fou
+Memory of Seren;Mémoire de Seren
+Menaphite Leader;Chef Ménaphite
+Menaphite Thug;Voyou Ménaphite
+Menaphite guard;Garde ménaphite
+Mercenary;Mercenaire
+Mercenary Captain;Capitaine mercenaire
+Mercy;Miséricorde
+Meredith;Meredith
+Merlin;Merlin
+Mernia;Mernia
+Mernik;Mernik
+Meskhenet;Meskhenet
+Metarialus;Métariale
+Meteora;Météores
+Mi-Gor;Mi-Gor
+Mia;Mia
+Miala;Miala
+Miazrqa;Miazrqa
+Middle head;Tête moyenne
+Midnight;Minuit
+Mihail;Mihail
+Mike;Micro
+Miles;Milles
+Milla;Milla
+Milli Rehnison;Milli Rehnison
+Millie Miller;Millie Miller
+Miltog;Miltog
+Mime;Mime
+Mimm;Mimm
+Mind Golem;Golem mental
+Mine Cart;Chariot de mine
+Mine cart;Chariot de mine
 Mine cart driver;Chauffeur de chariot minier
+Mine supervisor;Surveillant de mine
 Miner;Mineur
 Miner Magnus;Mineur Magnus
-Moggy;Minou
-Meegle;Meegle
-Menaphite Leader;Chef Ménaphite
-Mike;Micro
-Milli Rehnison;Milli Rehnison
-Mogrim;Mogrim
-Martin Thwait;Martin Thwait
-Master Crafter;Maître artisan
-Mithrellas;Mithrelles
-Master fisher;Maître pêcheur
-Meddwl Ymlaen Llaw;Meddwl Ymlaen Llaw
 Miniature chaotic clouds;Nuages ​​chaotiques miniatures
-Mistag;Erreur
-Mizaru;Mizaru
-Mercenary Captain;Capitaine mercenaire
-Meredith;Meredith
-Mernia;Mernia
-Mine cart;Chariot de mine
 Mining Instructor;Instructeur minier
-Mishkal'un Dorn;Mishkal'un Dorn
-Marwolaeth Dawnsio;Marwolaeth Dawnsio
-Master Farmer;Maître fermier
-Mercy;Miséricorde
-Mimm;Mimm
+Mining tutor;Tuteur minier
+Minotaur;Minotaure
+Miodvetnir;Miodvetnir
+Miriam;Myriam
 Miriel;Miriel
-Melee combat tutor;Professeur de combat au corps à corps
-Menaphite Thug;Voyou Ménaphite
-Mernik;Mernik
-Metarialus;Métariale
-Mime;Mime
-Mine Cart;Chariot de mine
+Mischievous ghost;Fantôme espiègle
+Misdrievus Shadum;Misdrievus Shadum
+Mishkal'un Dorn;Mishkal'un Dorn
+Miss Cheevers;Mademoiselle Cheevers
 Miss Schism;Miss Schisme
+Mist;Brume
+Mistag;Erreur
+Mithrellas;Mithrelles
 Mithril dragon;Dragon en mithril
 Mithril ore;Minerai de mithril
-Martina Scorsby;Martina Scorsby
-Matilda;Mathilde
-Me;Moi
-Megan;Mégane
-Meiyerditch miner;Mineur de Meiyerditch
-Mind Golem;Golem mental
-Molanisk;Molanisk
-Mekritus A'hara;Mekritus A'hara
-Meleti;Méléti
-Melvin;Melvin
-Memory of Seren;Mémoire de Seren
-Mia;Mia
-Mining tutor;Tuteur minier
-Miodvetnir;Miodvetnir
+Mittens;Mitaines
+Mizaru;Mizaru
+Moe;Moé
+Mofina;Mofina
+Moggy;Minou
 Mogre;Mogre
 Mogre Guard;Garde Mogre
-Martin Holt;Martin Holt
-Master Chef;Maître cuisinier
-Mattimeo;Mattimeo
-Miltog;Miltog
-Mine supervisor;Surveillant de mine
-Mist;Brume
-Mawrth;Mawrth
-Me (hard);Moi (dur)
-Melana Moonlander;Melana Moonlander
-Melina;Mélina
-Mercenary;Mercenaire
-Meskhenet;Meskhenet
-Meteora;Météores
-Middle head;Tête moyenne
-Mihail;Mihail
-Minotaur;Minotaure
-Misdrievus Shadum;Misdrievus Shadum
-Mittens;Mitaines
-Martin the Master Gardener;Martin le maître jardinier
-Master Navigator;Maître Navigateur
-Master smithing tutor;Professeur de maître forgeron
-Merlin;Merlin
-Miazrqa;Miazrqa
-Milla;Milla
-Mofina;Mofina
-Matthew;Matthieu
-Mayor Hobb;Maire Hobb
-Medium ninja monkey;Singe ninja moyen
-Miss Cheevers;Mademoiselle Cheevers
-Moe;Moé
+Mogrim;Mogrim
+Molanisk;Molanisk
+Moldof;Moldavie
 Mole display;Affichage des taupes
-Monkey display;Exposition de singes
-Mounted terrorbird gnome;Gnome oiseau-terror monté
-Mubariz;Moubariz
-Munty;Munty
-Murcaily;Murcaily
-Murng bat;Chauve-souris murng
-Mysterious ghost;Fantôme mystérieux
-Naghead;Naghead
-Nardah Banker;Nardah banquier
-Necromancer;Nécromancien
-Monkey minder;Gardien de singe
-Mort Nightshade;Morelle mortelle
-Murfet;Murfet
-Murphy;Murphy
-Nail beast;Bête des ongles
-Monkey;Singe
-Morvran;Morvran
-Mosquito swarm;Essaim de moustiques
-Moths;Papillons de nuit
-Ms. Hynn Terprett;Mme Hynn Terprett
-Mugger;Agresseur
-Mysterious Voice;Voix mystérieuse
-Necrovarus;Nécrovare
 Molly;Molly
-Mordan Nikazsi;Mordan Nikazisi
-Morris;Morris
-Mosol Rei;Mosol Rei
-Mother;Mère
-Natalidae Shadum;Natalidés Shadum
-Monkey Guard;Garde de singe
-Murky Pat;Pat trouble
-Monkey Zombie;Singe-Zombie
-Monstrous Basilisk;Basilic monstrueux
-Moss Guardian;Gardien de mousse
-Mountain goat;Chèvre de montagne
-Mummy;Momie
-Mushroom;Champignon
 Monk;Moine
+Monk of Entrana;Moine d'Entrana
+Monk of Zamorak;Moine de Zamorak
+Monkey;Singe
+Monkey Archer;Archer Singe
+Monkey Child;Enfant Singe
+Monkey Guard;Garde de singe
+Monkey Zombie;Singe-Zombie
+Monkey display;Exposition de singes
+Monkey guard;Garde de singe
+Monkey minder;Gardien de singe
+Monkey on unicorn;Singe sur licorne
+Monstrous Basilisk;Basilic monstrueux
+Monstrous basilisk;Basilic monstrueux
+Mord Gunnars;Mord Gunnars
+Mordan Nikazsi;Mordan Nikazisi
+Morgan;Morgan
+Morgan Le Faye;Morgane Le Faye
+Mori;Mori
+Morris;Morris
+Mort Nightshade;Morelle mortelle
+Mort'ton Local;Local de Mort'ton
+Mort'ton local;Local de Mort'ton
+Morten Holdstrom;Morten Holdstrom
+Mortina Daubenton;Mortine Daubenton
+Morvran;Morvran
+Mosol Rei;Mosol Rei
+Mosquito swarm;Essaim de moustiques
+Moss Giant;Géant de mousse
+Moss Guardian;Gardien de mousse
+Moss Guardian (hard);Gardien de mousse (difficile)
+Moss giant;Géant de mousse
+Most of a Zombie;La plupart d'un zombie
+Mother;Mère
+Mother Mallum;Mère Mallum
+Moths;Papillons de nuit
+Mountain Dwarf;Nain des montagnes
+Mountain Goat;Chèvre de montagne
+Mountain Guide;Guide de montagne
+Mountain goat;Chèvre de montagne
 Mountain troll;Troll des montagnes
+Mounted terrorbird gnome;Gnome oiseau-terror monté
+Mounted terrorchick gnome;Gnome de poussin terroriste monté
+Mourner;Pleureuse
 Mouse;Souris
 Movario;Movario
-Nazastarool;Nazastarool
-Mountain Dwarf;Nain des montagnes
-Mummy ashes;Cendres de maman
-Murky Matt (runes);Murky Matt (runes)
-Museum guard;Gardien du musée
-Mystery figure;Personnage mystère
-Nathifa;Nathifa
-Myre Blamish Snail;Escargot Myre Blamish
-Mysterious Stranger;Mystérieux étranger
-Monkey Child;Enfant Singe
-Morgan Le Faye;Morgane Le Faye
-Morten Holdstrom;Morten Holdstrom
-Mother Mallum;Mère Mallum
-Mountain Goat;Chèvre de montagne
-Mounted terrorchick gnome;Gnome de poussin terroriste monté
-Mutant tarn;Tarn mutant
-Nature Spirit;Esprit Nature
-Mort'ton local;Local de Mort'ton
-Moss Giant;Géant de mousse
-Mountain Guide;Guide de montagne
-Mutated Bloodveld;Bloodveld muté
-Monkey guard;Garde de singe
-Monkey on unicorn;Singe sur licorne
-Morgan;Morgan
 Mr. Mordaut;M. Mordaut
+Ms. Hynn Terprett;Mme Hynn Terprett
+Mubariz;Moubariz
 Mudskipper;Passe-boue
-Mysterious Adventurer;Aventurier mystérieux
-Narf;Narf
-Natural Historian;Historien naturel
-Nazastarool (hard);Nazastarool (dur)
-Moss giant;Géant de mousse
+Mugger;Agresseur
+Mummy;Momie
+Mummy ashes;Cendres de maman
+Munty;Munty
+Murcaily;Murcaily
+Murfet;Murfet
+Murky Matt (runes);Murky Matt (runes)
+Murky Pat;Pat trouble
+Murng bat;Chauve-souris murng
+Murphy;Murphy
 Muruwoi;Muruwoi
+Museum guard;Gardien du musée
+Mushroom;Champignon
+Mutant tarn;Tarn mutant
+Mutated Bloodveld;Bloodveld muté
+Muttadile;Muttadile
 My Arm;Mon bras
+Myndill;Myndill
+Myre Blamish Snail;Escargot Myre Blamish
+Mysterious Adventurer;Aventurier mystérieux
+Mysterious Figure;Personnage mystérieux
+Mysterious Old Man;Vieil homme mystérieux
+Mysterious Stranger;Mystérieux étranger
+Mysterious Voice;Voix mystérieuse
+Mysterious ghost;Fantôme mystérieux
+Mystery figure;Personnage mystère
+Naghead;Naghead
+Nail beast;Bête des ongles
+Nakasa Jovkai;Nakasa Jovkai
+Nardah Banker;Nardah banquier
+Nardok;Nardok
+Narf;Narf
+Natalidae Shadum;Natalidés Shadum
+Nathifa;Nathifa
+Natural Historian;Historien naturel
+Natural historian;Historien naturel
+Nature Spirit;Esprit Nature
 Nature impling;Nature impliquant
+Nazastarool;Nazastarool
+Nazastarool (hard);Nazastarool (dur)
+Nechryael;Nechryaël
 Nechryarch;Néchryarque
+Necromancer;Nécromancien
+Necrovarus;Nécrovare
+Ned;Ned
 Neferti the Camel;Néferti le chameau
 Neil;Daniel
-Mort'ton Local;Local de Mort'ton
-Mourner;Pleureuse
-Muttadile;Muttadile
-Mysterious Old Man;Vieil homme mystérieux
-Natural historian;Historien naturel
-Moldof;Moldavie
-Monk of Entrana;Moine d'Entrana
-Monkey Archer;Archer Singe
-Mord Gunnars;Mord Gunnars
-Mysterious Figure;Personnage mystérieux
-Nechryael;Nechryaël
-Monk of Zamorak;Moine de Zamorak
-Monstrous basilisk;Basilic monstrueux
-Mori;Mori
-Mortina Daubenton;Mortine Daubenton
-Moss Guardian (hard);Gardien de mousse (difficile)
-Most of a Zombie;La plupart d'un zombie
-Myndill;Myndill
-Nakasa Jovkai;Nakasa Jovkai
-Nardok;Nardok
-Ned;Ned
-Ocga;Ocga
-Old crone;Vieille vieille
 Neite;Neite
-Nigel;Nigel
-Nurse Emma Gentsy;Infirmière Emma Gentsy
-Nylocas Athanatos;Nylocas Athanatos
-Ogress Warrior;Guerrier Ogresse
+Nellas;Nellas
+Nemishka;Nemishka
+Nerdanel;Nerdanel
+Nesty;Nesty
 New Recruit Tony;Nouvelle recrue Tony
+Newtroost;Nouveautroost
+Nezikchened;Nézikchened
+Nezikchened (hard);Nezikchened (dur)
+Nia;Nia
+Nicholas;Nicolas
+Nick;Entaille
+Nickolaus;Nicolas
+Nicoleta;Nicolette
+Nieve;Nieve
+Nigel;Nigel
+Night beast;Bête de nuit
+Nikita;Nikita
+Nikkie;Nikki
+Nikolai;Nicolas
+Niles;Nils
+Niloof;Niloof
+Nimloth;Nimloth
+Nimrodel;Nimrodel
+Ninja impling;Ninja impliquant
+Nipper;Pince
+Nirrie;Nirrie
 Nisha;Nisha
+Nkuku;Nkuku
+Noctillion Lugosi;Noctillion Lugosi
 Noella;Noëlla
+Nolar;Nolar
+Nomad;Nomade
+Noodle;Nouille
+Noon;Midi
+Nora T. Hagg;Nora T. Hagg
+Noranna Tytanin;Noranna Tytanin
 Norman;normand
+Not Bob;Pas Bob
+Noterazzo;Noterazzo
+Novice;Novice
+Nuclear smoke devil;Diable de fumée nucléaire
+Nulodion;Nulodion
 Numpty;Numpty
+Nung;Nong
+Nurmof;Nurmof
+Nurse Boubou;Infirmière Boubou
+Nurse Emma Gentsy;Infirmière Emma Gentsy
+Nurse Inn'Juree;Infirmière Inn'Juree
+Nurse Sarah;Infirmière Sarah
+Nurse Wooned;Infirmière courtisée
+Nylocas;Nylocas
+Nylocas Athanatos;Nylocas Athanatos
+Nylocas Hagios;Nylocas Hagios
+Nylocas Ischyros;Nylocas Ischyros
+Nylocas Matomenos;Nylocas Matomenos
+Nylocas Prinkipas;Nylocas Prinkipas
+Nylocas Queen;Reine Nylocas
+Nylocas Toxobolos;Nylocas Toxobolos
+Nylocas Vasilias;Nylocas Vasilias
+Oaknock the Engineer;Oaknock l'ingénieur
+Oath Lord D'rows;Serment Seigneur D'rows
+Oathbreaker B'ats;Oathbreaker B'ats
+Oathbreaker E'piws;E'piws briseur de serment
+Oathbreaker M'als;Oathbreaker M'als
+Obli;Obli
+Obor;Obor
+Observatory assistant;Assistante Observatoire
+Observatory professor;Professeur de l'Observatoire
+Ocga;Ocga
+Ochre Blamish Snail;Escargot blême ocre
+Odd Mushroom;Champignon étrange
+Odd Old Man;Vieil homme étrange
+Odd Stone;Pierre étrange
+Odmar;Odmar
+Odovacar;Odovacar
+Odysseus;Ulysse
+Og;Og
+Ogre;Ogre
+Ogre boat;Bateau Ogre
+Ogre chieftain;Chef ogre
+Ogre guard;Garde ogre
+Ogre merchant;Marchand d'ogres
+Ogre shaman;Chaman ogre
+Ogre trader;Marchand d'ogres
+Ogress Shaman;Chaman Ogresse
+Ogress Warrior;Guerrier Ogresse
+Oipuis;Oipuis
+Olaf Hradson;Olaf Hradson
+Olaf the Bard;Olaf le barde
+Olbertus;Olbertus
+Old Man Ral;Le vieil homme Ral
+Old Man Yarlo;Le vieil homme Yarlo
+Old crone;Vieille vieille
+Old dwarf;Vieux nain
+Old man;Vieillard
+Oldak;Oldak
 Olivia;Olivia
 Ollie the Camel;Ollie le chameau
 Olmlet;Olmlet
-Noctillion Lugosi;Noctillion Lugosi
-Noterazzo;Noterazzo
-Nulodion;Nulodion
-Nurse Sarah;Infirmière Sarah
-Nylocas Matomenos;Nylocas Matomenos
-Olaf the Bard;Olaf le barde
-Nemishka;Nemishka
-Nikkie;Nikki
-Nylocas Vasilias;Nylocas Vasilias
-Oathbreaker E'piws;E'piws briseur de serment
-Odd Mushroom;Champignon étrange
-Old dwarf;Vieux nain
-Nezikchened (hard);Nezikchened (dur)
-Niloof;Niloof
-Noranna Tytanin;Noranna Tytanin
-Nylocas Prinkipas;Nylocas Prinkipas
-Nellas;Nellas
-Nieve;Nieve
-Noon;Midi
-Not Bob;Pas Bob
-Oathbreaker M'als;Oathbreaker M'als
-Og;Og
-Ogre guard;Garde ogre
-Nicoleta;Nicolette
-Nikita;Nikita
-Nimrodel;Nimrodel
-Nurse Boubou;Infirmière Boubou
-Odysseus;Ulysse
-Oipuis;Oipuis
-Nirrie;Nirrie
-Nkuku;Nkuku
-Novice;Novice
-Obli;Obli
-Ogre shaman;Chaman ogre
-Nesty;Nesty
-Nimloth;Nimloth
-Ninja impling;Ninja impliquant
-Nipper;Pince
-Nurse Inn'Juree;Infirmière Inn'Juree
-Observatory assistant;Assistante Observatoire
-Odd Stone;Pierre étrange
-Ogre;Ogre
-Nezikchened;Nézikchened
-Nia;Nia
-Nicholas;Nicolas
-Nickolaus;Nicolas
-Nikolai;Nicolas
-Niles;Nils
-Nomad;Nomade
-Nurmof;Nurmof
-Nurse Wooned;Infirmière courtisée
-Nylocas Toxobolos;Nylocas Toxobolos
-Observatory professor;Professeur de l'Observatoire
-Ogre chieftain;Chef ogre
-Old Man Ral;Le vieil homme Ral
-Nung;Nong
-Nylocas Ischyros;Nylocas Ischyros
-Oathbreaker B'ats;Oathbreaker B'ats
-Ogre trader;Marchand d'ogres
-Ogress Shaman;Chaman Ogresse
-Nerdanel;Nerdanel
-Nick;Entaille
-Nylocas;Nylocas
-Oath Lord D'rows;Serment Seigneur D'rows
-Ochre Blamish Snail;Escargot blême ocre
-Odd Old Man;Vieil homme étrange
-Olbertus;Olbertus
-Old Man Yarlo;Le vieil homme Yarlo
-Newtroost;Nouveautroost
-Night beast;Bête de nuit
-Noodle;Nouille
-Nylocas Hagios;Nylocas Hagios
-Oaknock the Engineer;Oaknock l'ingénieur
-Odovacar;Odovacar
-Ogre merchant;Marchand d'ogres
-Olaf Hradson;Olaf Hradson
-Oldak;Oldak
-Nolar;Nolar
-Obor;Obor
-Odmar;Odmar
-Ogre boat;Bateau Ogre
-Old man;Vieillard
-Nora T. Hagg;Nora T. Hagg
-Nuclear smoke devil;Diable de fumée nucléaire
-Nylocas Queen;Reine Nylocas
-Padulah;Padulah
-Penance Queen;Reine de la Pénitence
-Penance Runner;Coureur de pénitence
-Pennant;Fanion
-Petra Fiyed;Petra Fiyed
-Phials;Ampoules
-Pieve;Pieve
-Orlando Smith;Orlando Smith
-Osten;Osten
-Othainian;Othaïnien
-Overgrown cat;Chat envahi par la végétation
-Owl;Hibou
-Painted One;Peint un
-Peer the Seer;Observez le voyant
-Penance Ranger;Ranger de pénitence
-Oozing barrier;Barrière suintante
-Oswald;Oswald
-Penance Healer;Guérisseur de pénitence
-Pestilent Bloat;Ballonnement pestilentiel
-Phosani's Nightmare;Le cauchemar de Phosani
-Phrin Shadow;Ombre de Phrin
-Oxi;Oxy
-Pagida;Page
-Pebble;Caillou
-Phillipa;Philippe
-Phoenix;Phénix
-Osman;Osman
-Patrick;Patrick
-Patrolwoman;Patrouilleuse
-Penguin display;Exposition de pingouins
-Pet rock;Rocher pour animaux de compagnie
-Peter;Pierre
-Phantuwti Fanstuwi Farsight;Phantuwti Fanstuwi Farsight
-Phluxia bat;Chauve-souris Phluxia
-Oneiromancer;Oniromancien
-Penguin;Manchot
-Philipe Carnillean;Philippe Carnilléen
-Ordan;Ordan
-Oropher;Oropher
-Osvald;Osvald
-Oziach;Oziach
-Paladin;Paladin
-Patrolman;Patrouilleur
-Peaceful barbarian spirit;Esprit barbare paisible
-Perdu;Perdu
-Phabelle Bile;Phabelle Bile
-Pierre;Pierre
 Omart;Omart
-Parrot;Perroquet
-Parroty Pete;Pete le perroquet
-Perry;Poiré
-Philop;Philop
-Ork;Orks
-Other Half-Zombie;Autre demi-zombie
-PKMaster0036;PKMaster0036
-Palmer;Palmer
-Pentyn;Pentyne
-Penwie;Penwie
-Pescaling Pax;Pescaling Pax
-Pheasant;Faisan
-Phingspet;Phingspet
-Orophin;Orophine
-Ouditor;Auditeur
-Passive Tar Monster;Monstre de goudron passif
-Pauline Polaris;Pauline Polaris
-Peasant;Paysan
-Phrin Shade;Ombre Phrin
-Oomlie bird;Oiseau Oomlie
-Osian;Osien
-Oswallt;Oswallt
-Pelican;Pélican
-Oracle;Oracle
-Orrvor quo Maten;Orrvor quo Maten
-Penance Pet;Animal de compagnie de pénitence
-Penguin suit;Costume de pingouin
-Pandur Hosidius;Pandur Hosidius
-Peksa;Pékin
-Penda;Penda
-Phantom Hand;Main fantôme
-Phileas Rimor;Philéas Rimor
+Oneiromancer;Oniromancien
 Oobapohk;Oobapohk
-Oronwen;Oronwen
-Panning guide;Guide de panoramique
-Patchy;Inégal
-Penance Fighter;Combattant de pénitence
-Perrdur;Perrdur
+Oomlie bird;Oiseau Oomlie
+Oozing barrier;Barrière suintante
 Operator;Opérateur
-Ospak;Ospak
-Ouhai;Ouhai
-Outlaw;Interdire
-Parasite;Parasite
-Parrots;Perroquets
-Pee Hat;Chapeau pipi
+Oracle;Oracle
 Orange salamander;Salamandre orange
+Ordan;Ordan
+Ork;Orks
+Orlando Smith;Orlando Smith
+Oronwen;Oronwen
+Oropher;Oropher
+Orophin;Orophine
+Orrvor quo Maten;Orrvor quo Maten
+Osian;Osien
+Osman;Osman
+Ospak;Ospak
+Osten;Osten
+Osvald;Osvald
+Oswald;Oswald
+Oswallt;Oswallt
+Othainian;Othaïnien
+Other Half-Zombie;Autre demi-zombie
 Otherworldly being;Être d'un autre monde
 Otto Godblessed;Otto béni par Dieu
+Ouditor;Auditeur
+Ouhai;Ouhai
+Outlaw;Interdire
+Overgrown cat;Chat envahi par la végétation
 Overgrown hellcat;Hellcat envahi par la végétation
+Owl;Hibou
+Oxi;Oxy
+Oziach;Oziach
+PKMaster0036;PKMaster0036
+Padulah;Padulah
+Pagida;Page
+Painted One;Peint un
+Paladin;Paladin
+Palmer;Palmer
+Pandur Hosidius;Pandur Hosidius
+Panning guide;Guide de panoramique
+Parasite;Parasite
+Parrot;Perroquet
+Parrots;Perroquets
+Parroty Pete;Pete le perroquet
 Party Pete;Fête Pete
+Passive Tar Monster;Monstre de goudron passif
+Patchy;Inégal
+Patrick;Patrick
+Patrolman;Patrouilleur
+Patrolwoman;Patrouilleuse
+Pauline Polaris;Pauline Polaris
+Peaceful barbarian spirit;Esprit barbare paisible
+Peasant;Paysan
+Pebble;Caillou
+Pee Hat;Chapeau pipi
+Peer the Seer;Observez le voyant
+Peksa;Pékin
+Pelican;Pélican
+Penance Fighter;Combattant de pénitence
+Penance Healer;Guérisseur de pénitence
+Penance Pet;Animal de compagnie de pénitence
+Penance Queen;Reine de la Pénitence
+Penance Ranger;Ranger de pénitence
+Penance Runner;Coureur de pénitence
+Penda;Penda
+Penguin;Manchot
+Penguin display;Exposition de pingouins
+Penguin suit;Costume de pingouin
+Pennant;Fanion
+Pentyn;Pentyne
+Penwie;Penwie
+Perdu;Perdu
 Perfect gold ore;Minerai d'or parfait
+Perrdur;Perrdur
+Perry;Poiré
+Pescaling Pax;Pescaling Pax
+Pestilent Bloat;Ballonnement pestilentiel
+Pet rock;Rocher pour animaux de compagnie
+Peter;Pierre
+Petra Fiyed;Petra Fiyed
 Petrified Pete;Pete pétrifié
-Prifddinas guard;Garde de Prifddinas
-Pyrelord;Seigneur des Pyres
+Phabelle Bile;Phabelle Bile
+Phantom Hand;Main fantôme
+Phantuwti Fanstuwi Farsight;Phantuwti Fanstuwi Farsight
+Pheasant;Faisan
+Phials;Ampoules
+Phileas Rimor;Philéas Rimor
+Philipe Carnillean;Philippe Carnilléen
+Phillipa;Philippe
+Philop;Philop
+Phingspet;Phingspet
+Phluxia bat;Chauve-souris Phluxia
+Phoenix;Phénix
+Phosani's Nightmare;Le cauchemar de Phosani
+Phrin Shade;Ombre Phrin
+Phrin Shadow;Ombre de Phrin
+Pierre;Pierre
+Pieve;Pieve
+Pig;Cochon
 Pig Thing;Chose de cochon
+Piglet;Porcelet
+Pile of bones;Tas d'os
+Piles;Pieux
 Pilg;Pèlerin
-Plague cow;Vache peste
-Professor Gracklebone;Professeur Gracklebone
-Puffer Fish;Poisson-globe
-Queen Ellamaria;Reine Ellamaria
+Piliar;Pilier
+Pillory Guard;Garde du pilori
+Ping;Ping
 Pipistrelle Draynar;Pipistrelle Draynar
+Pirate;Pirate
+Pirate Guard;Garde pirate
+Pirate Jackie the Fruit;Pirate Jackie le fruit
+Pirate Pete;Pierre le pirate
 Pit Scorpion;Scorpion des fosses
-Pong;Pong
-Ponts the Bridgemaster;Ponts le maître de pont
-Poor looking woman;Pauvre femme
-Private Pierreb;Soldat Pierreb
-Protester;Manifestant
-Queen Zyanyi Arkan;Reine Zyanyi Arkan
-Radimus Erkle;Raymus Erkle
+Pizazz Hat;Chapeau Pizzazz
+Plague cow;Vache peste
+Plague frog;Grenouille de la peste
+Poison Salesman;Vendeur de poison
+Poison Scorpion;Scorpion venimeux
+Poison spider;Araignée venimeuse
 Polar eagle;Aigle polaire
-Prince Black Dragon;Prince Dragon Noir
-Professor Onglewip;Professeur Onglewip
-Purple Pewter Director;Directeur de Purple Pewter
-Quartermaster;Intendant
 Polmafi Ferdygris;Polmafi Ferdygris
+Poltenip;Polténip
+Pong;Pong
+Pontak;Pontak
+Ponts the Bridgemaster;Ponts le maître de pont
+Poor looking man;Pauvre homme
+Poor looking woman;Pauvre femme
+Porazdir;Porazdir
+Port Official;Officier portuaire
+Port worker;Ouvrier portuaire
+Portal;Portail
 Portal of Death;Portail de la mort
+Portobello;Portobello
+Possessed Priest;Prêtre possédé
+Possessed pickaxe;Pioche possédée
+Postie Pete;Postie Pete
 Pox;Variole
+Prael bat;Chauve-souris Prael
+Praistan Ebola;Pristan Ebola
+Prayer tutor;Professeur de prière
+Preswylwyr Dall;Preswylwyr Dall
+Prickly kebbit;Kebbit épineux
+Priest;Prêtre
+Priestess Zul-Gwenwynig;Prêtresse Zul-Gwenwynig
+Prifddinas guard;Garde de Prifddinas
 Primula;Primula
+Prince Ali;Prince Ali
+Prince Black Dragon;Prince Dragon Noir
+Prince Brand;Marque Prince
+Princess Astrid;Princesse Astrid
+Prison Pete;Pierre en prison
+Prisoner;Prisonnier
+Prissy Scilla;Prissy Scilla
+Private Paldo;Soldat Paldo
+Private Paldon;Soldat Paldon
+Private Pendron;Soldat Pendron
+Private Pierreb;Soldat Pierreb
+Probita;Probita
+Professor Gracklebone;Professeur Gracklebone
 Professor Imblewyn;Professeur Imblewyn
+Professor Manglethorp;Professeur Manglethorp
+Professor Oddenstein;Professeur Oddenstein
+Professor Onglewip;Professeur Onglewip
+Prosecutor;Procureur
+Prospector Percy;Prospecteur Percy
+Protest Leader;Chef de la protestation
+Protester;Manifestant
+Psykk bat;Chauve-souris psykk
+Puffer Fish;Poisson-globe
+Puffin;Macareux
+Pumpy;Pompé
+Puppadile;Puppadile
+Purepker895;Purepker895
+Purple Pewter Director;Directeur de Purple Pewter
+Purple Pewter Secretary;Secrétaire en étain violet
+Pusskins;Les chatons
+Pyramid block;Bloc pyramide
+Pyrefiend;Démon du feu
+Pyrelord;Seigneur des Pyres
+Pyromancer;Pyromancien
+Quartermaster;Intendant
+Queen Ellamaria;Reine Ellamaria
+Queen Sigrid;Reine Sigrid
+Queen Zyanyi Arkan;Reine Zyanyi Arkan
+Queen spawn;Reine frayer
 Quest Guide;Guide de quête
 Quiz Master;Maître du quiz
 Qutiedoll;Qutiedoll
+R4ng3rNo0b889;R4ng3rNo0b889
+Rabbit;Lapin
 Raccoon;Raton laveur
-Piliar;Pilier
-Pirate;Pirate
-Pirate Guard;Garde pirate
-Pirate Pete;Pierre le pirate
-Pizazz Hat;Chapeau Pizzazz
-Possessed pickaxe;Pioche possédée
-Preswylwyr Dall;Preswylwyr Dall
-Professor Manglethorp;Professeur Manglethorp
-Pumpy;Pompé
-Postie Pete;Postie Pete
-Prael bat;Chauve-souris Prael
-Prickly kebbit;Kebbit épineux
-Prisoner;Prisonnier
-Private Paldon;Soldat Paldon
-Purepker895;Purepker895
-Pusskins;Les chatons
-Pyromancer;Pyromancien
+Rachael;Rachel
+Radat;Radar
+Radigad Ponfit;Radigad Ponfit
+Radimus Erkle;Raymus Erkle
 Radu;Radu
 Raeli;Raëli
-Piles;Pieux
-Ping;Ping
-Queen Sigrid;Reine Sigrid
-R4ng3rNo0b889;R4ng3rNo0b889
-Porazdir;Porazdir
-Port Official;Officier portuaire
-Prison Pete;Pierre en prison
-Probita;Probita
-Professor Oddenstein;Professeur Oddenstein
-Radigad Ponfit;Radigad Ponfit
 Raetul;Raetul
-Pig;Cochon
-Piglet;Porcelet
-Pile of bones;Tas d'os
-Plague frog;Grenouille de la peste
-Poltenip;Polténip
-Possessed Priest;Prêtre possédé
-Prayer tutor;Professeur de prière
-Puppadile;Puppadile
-Rabbit;Lapin
-Pirate Jackie the Fruit;Pirate Jackie le fruit
-Poison Salesman;Vendeur de poison
-Port worker;Ouvrier portuaire
-Priest;Prêtre
-Psykk bat;Chauve-souris psykk
-Portobello;Portobello
-Prospector Percy;Prospecteur Percy
-Protest Leader;Chef de la protestation
-Puffin;Macareux
-Purple Pewter Secretary;Secrétaire en étain violet
-Radat;Radar
-Pontak;Pontak
-Private Paldo;Soldat Paldo
-Pyramid block;Bloc pyramide
-Pyrefiend;Démon du feu
-Pillory Guard;Garde du pilori
-Praistan Ebola;Pristan Ebola
-Prince Ali;Prince Ali
-Poison Scorpion;Scorpion venimeux
-Poison spider;Araignée venimeuse
-Portal;Portail
-Prince Brand;Marque Prince
-Private Pendron;Soldat Pendron
-Rachael;Rachel
-Poor looking man;Pauvre homme
-Priestess Zul-Gwenwynig;Prêtresse Zul-Gwenwynig
-Princess Astrid;Princesse Astrid
-Prissy Scilla;Prissy Scilla
-Prosecutor;Procureur
-Queen spawn;Reine frayer
+Ragnar;Ragnar
+Ragnvald;Ragnvald
+Rakkar;Rakkar
+Ram;Bélier
+Ramara du Croissant;Ramara du Croissant
 Ramarno;Ramarno
+Ramocean;Ramocéan
+Ranael;Ranael
+Ranalph Devere;Ranalph Devere
+Randivor;Randivore
 Ranged combat tutor;Professeur de combat à distance
+Ranger;Ranger
+Ranger (medium);Ranger (moyen)
+Ranging Guild Doorman;Portier de la guilde à distance
 Ranis Drakan;Ranis Drakan
 Rannveig;Rannveig
-Reanimated horror;Horreur réanimé
-Red Monkey;Singe rouge
-Red dragon;Dragon rouge
-Red salamander;Salamandre rouge
-Redbeard Frank;Frank Barbe-Rousse
-Revenant cyclops;Cyclope revenant
+Rantz;Rantz
+Raqueel;Raquel
+Rashiliyia;Rashiliyia
+Rasolo;Rasolo
+Rassain;Rassain
+Rat;Rat
+Rat Burgiss;Rat Burgiss
+Rauborn;Rauborn
+Raulyn;Raulyn
+Raum Urda-Stein;Raum Urda-Stein
 Ravager;Ravageur
-Renegade knight;Chevalier renégat
-Revenant hobgoblin;Hobgobelin revenant
-Reanimated bear;Ours réanimé
-Reanimated troll;Troll réanimé
-Reinn;Rein
-Revenant goblin;Gobelin revenant
-Revenant hellhound;Chien de l'enfer revenant
-Ragnar;Ragnar
-Rakkar;Rakkar
-Ramara du Croissant;Ramara du Croissant
+Raven;Corbeau
+Razmire Keelgan;Razmire Keelgan
+Razvan;Razvan
+Reach;Atteindre
+Reacher;Atteindre
+Reanimated TzHaar;TzHaar réanimé
 Reanimated abyssal;Abyssal réanimé
 Reanimated aviansie;Aviansie réanimée
-Reanimated dagannoth;Dagannoth réanimé
-Reanimated kalphite;Kalphite réanimée
-Reanimated minotaur;Minotaure réanimé
-Red Axe Secretary;Secrétaire de la hache rouge
-Ranger;Ranger
-Raqueel;Raquel
-Raulyn;Raulyn
-Reach;Atteindre
+Reanimated bear;Ours réanimé
 Reanimated bloodveld;Bloodveld réanimé
-Rebel Scout;Éclaireur rebelle
-Reldak;Reldak
-Reshi;Reshi
-Ragnvald;Ragnvald
-Ranael;Ranael
-Reanimated TzHaar;TzHaar réanimé
-Remus Kaninus;Rémus Kaninus
-Renegade Knight;Chevalier renégat
-Researcher;Chercheur
-Ram;Bélier
-Ramocean;Ramocéan
-Rat Burgiss;Rat Burgiss
-Reanimated dog;Chien réanimé
-Recruiter;Recruteur
-Red Axe Henchman;Homme de main de la hache rouge
-Repugnant spectre;Spectre répugnant
-Respiratory system;Système respiratoire
-Reanimated goblin;Gobelin réanimé
-Red Axe Cat;Chat hache rouge
-Ranger (medium);Ranger (moyen)
-Raven;Corbeau
-Razvan;Razvan
 Reanimated chaos druid;Druide du chaos réanimé
-Reldo;Reldo
-Rasolo;Rasolo
-Red fireflies;Lucioles rouges
-Refugee;Réfugié
-Restless ghost;Fantôme agité
-Retired sailor;Marin à la retraite
-Ranalph Devere;Ranalph Devere
-Reanimated unicorn;Licorne réanimée
-Resistance Fighter;Combattant de la Résistance
-Revenant demon;Démon revenant
-Randivor;Randivore
-Rat;Rat
-Reacher;Atteindre
-Reanimated demon spawn;Apparition de démon réanimé
-Reanimated monkey;Singe réanimé
-Red Axe Director;Directeur de la hache rouge
-Revenant dark beast;Bête noire revenante
-Ranging Guild Doorman;Portier de la guilde à distance
-Rauborn;Rauborn
-Red;Rouge
-Reinald;Réald
-Rantz;Rantz
-Rassain;Rassain
-Rebel Archer;Archer rebelle
-Relobo Blinyo (logs);Relobo Blinyo (journaux)
-Remsai;Remsaï
-Rashiliyia;Rashiliyia
-Raum Urda-Stein;Raum Urda-Stein
+Reanimated dagannoth;Dagannoth réanimé
 Reanimated demon;Démon réanimé
+Reanimated demon spawn;Apparition de démon réanimé
+Reanimated dog;Chien réanimé
+Reanimated dragon;Dragon réanimé
 Reanimated elf;Elfe réanimé
 Reanimated giant;Géant réanimé
+Reanimated goblin;Gobelin réanimé
+Reanimated horror;Horreur réanimé
 Reanimated imp;Diablotin réanimé
+Reanimated kalphite;Kalphite réanimée
+Reanimated minotaur;Minotaure réanimé
+Reanimated monkey;Singe réanimé
 Reanimated ogre;Ogre réanimé
-Red Sheep;Mouton rouge
-Reeso;Réso
-Reginald;Réginald
-Razmire Keelgan;Razmire Keelgan
-Reanimated dragon;Dragon réanimé
 Reanimated scorpion;Scorpion réanimé
+Reanimated troll;Troll réanimé
+Reanimated unicorn;Licorne réanimée
+Rebel Archer;Archer rebelle
+Rebel Scout;Éclaireur rebelle
 Rebel Warrior;Guerrier rebelle
+Recruiter;Recruteur
+Red;Rouge
+Red Axe Cat;Chat hache rouge
+Red Axe Director;Directeur de la hache rouge
+Red Axe Henchman;Homme de main de la hache rouge
+Red Axe Secretary;Secrétaire de la hache rouge
+Red Monkey;Singe rouge
 Red Panda;Panda roux
+Red Sheep;Mouton rouge
+Red dragon;Dragon rouge
+Red fireflies;Lucioles rouges
+Red salamander;Salamandre rouge
+Redbeard Frank;Frank Barbe-Rousse
 Reese;Reese
+Reeso;Réso
 Ref;Réf
+Refugee;Réfugié
 Regath;Régate
+Reginald;Réginald
+Reinald;Réald
+Reinn;Rein
+Reldak;Reldak
+Reldo;Reldo
+Relobo Blinyo (logs);Relobo Blinyo (journaux)
+Remsai;Remsaï
+Remus Kaninus;Rémus Kaninus
+Renegade Knight;Chevalier renégat
+Renegade knight;Chevalier renégat
+Repugnant spectre;Spectre répugnant
+Researcher;Chercheur
+Reshi;Reshi
+Resistance Fighter;Combattant de la Résistance
+Respiratory system;Système respiratoire
+Restless ghost;Fantôme agité
+Retired sailor;Marin à la retraite
+Revenant cyclops;Cyclope revenant
+Revenant dark beast;Bête noire revenante
+Revenant demon;Démon revenant
 Revenant dragon;Dragon revenant
+Revenant goblin;Gobelin revenant
+Revenant hellhound;Chien de l'enfer revenant
+Revenant hobgoblin;Hobgobelin revenant
+Revenant imp;Diablotin Revenant
+Revenant knight;Chevalier revenant
+Revenant ork;Ork revenant
 Revenant pyrefiend;Démon du feu revenant
 Rewards Guardian;Gardien des récompenses
-Right head;Tête droite
-Romily Weaklax;Romily Weaklax
-Saeros;Saéros
-San Fan;San Fan
-Revenant knight;Chevalier revenant
-Rind the gardener;Couenne le jardinier
-Robert O'Reilly;Robert O'Reilly
-Rock;Rocher
-Rocky;Rocheux
-Rolad;Rola
-Ross;Ross
-Sacrifice;Sacrifier
-Rocks;Roches
-Rokuh;Rokuh
-Rolayne Twickit (hard);Rolayne Twickit (dur)
-Ruantun;Ruantun
-Saba;Saba
+Rhazien;Rhazien
+Rhiannon;Rhiannon
+Rhoddwr Tan;Rhoddwr Tan
+Rhonen;Rhônen
 Rhyfel;Rhyfel
 Richard;Richard
-Rionasta;Rionasta
-Rock Crab;Crabe commun
-Rock Golem;Golem de roche
-Rocnar;Rocnar
-Rod Fishing spot;Lieu de pêche à la canne
-Ross and Ben;Ross et Ben
-Rupert the Beard;Rupert la barbe
-Rusty;Rouillé
+Richard Flintmaul;Richard Cogne-Flint
 Rick;Meule
+Rick Turpentine;Rick Térébenthine
+Ricketty door;Porte branlante
+Rift guardian;Gardien de la faille
+Right head;Tête droite
+Riki the sculptor's model;Riki le modèle du sculpteur
 Rimae Sirsalis;Rimae Sirsalis
+Rind the gardener;Couenne le jardinier
+Rionasta;Rionasta
+River troll;Troll de rivière
+Riyl Shade;Riyl Ombre
 Riyl Shadow;Riyl Ombre
+Riyl shadow;L'ombre de Riyl
+Roachey;Cafard
 Roavar;Roavar
 Robert Boss;Robert Patron
-Rooster;Coq
-Runite Golem;Golem runique
-Runvastr;Runvastr
-Sabre-toothed kebbit;Kebbit à dents de sabre
-Sagira;Sagira
-Sand Crab;Crabe des sables
-Riki the sculptor's model;Riki le modèle du sculpteur
-Riyl shadow;L'ombre de Riyl
+Robert O'Reilly;Robert O'Reilly
+Robert the Strong;Robert le Fort
 Robin;Robin
+Robyn;Robyn
+Rock;Rocher
+Rock Crab;Crabe commun
+Rock Golem;Golem de roche
+Rock lobster;Langouste
 Rock pile;Tas de pierres
-Rory;Rory
-Roy;Roy
-Sabre-toothed kyatt;Kyatt à dents de sabre
+Rocks;Roches
+Rockslug;Limace-rock
+Rocky;Rocheux
+Rocnar;Rocnar
+Rod Fishing spot;Lieu de pêche à la canne
 Rogue;Voyou
+Rogue Guard;Garde voyou
+Rohak;Rohak
+Rokuh;Rokuh
+Rolad;Rola
+Rolayne Twickit (hard);Rolayne Twickit (dur)
+Romeo;Roméo
+Rometti;Rometti
+Romily Weaklax;Romily Weaklax
+Rommik;Rommik
+Ron Gadderanks;Ron Gadderanks
+Rooster;Coq
+Root;Racine
+Rory;Rory
+Rosie;Rosie
+Ross;Ross
+Ross and Ben;Ross et Ben
+Rowdy Guard;Garde tapageur
+Rowdy dwarf;Nain tapageur
+Rowdy slave;Esclave tapageur
+Roy;Roy
+Roy jr.;Roy jr.
+Royal Guard;Garde royale
+Ruantun;Ruantun
+Ruby harvest;Récolte de rubis
+Rufus;Rufus
+Rug Merchant;Marchand de tapis
+Runa;Runa
+Rune dragon;Dragon runique
+Runite Golem;Golem runique
+Runite Minor;Runite mineure
 Runite ore;Minerai de runite
 Runolf;Runolf
+Runvastr;Runvastr
+Rupert the Beard;Rupert la barbe
+Rusty;Rouillé
+Saba;Saba
 Sabeil;Sabeil
+Saboteur;Saboteur
+Sabre-toothed kebbit;Kebbit à dents de sabre
+Sabre-toothed kyatt;Kyatt à dents de sabre
 Sabreen;Sabreen
-Salarin the twisted;Salarin le tordu
-Rhonen;Rhônen
-Rick Turpentine;Rick Térébenthine
-Salgant;Salgant
-Rhazien;Rhazien
-Rohak;Rohak
-Rosie;Rosie
-Rowdy slave;Esclave tapageur
-Rufus;Rufus
+Sacrifice;Sacrifier
+Sadwrn;Triste
+Saeros;Saéros
 Saeth;Saeth
-San Tojalon;San Tojalón
-Rogue Guard;Garde voyou
-Revenant ork;Ork revenant
-Rhiannon;Rhiannon
-Richard Flintmaul;Richard Cogne-Flint
-Ricketty door;Porte branlante
-River troll;Troll de rivière
-Rometti;Rometti
-Ron Gadderanks;Ron Gadderanks
-Rowdy dwarf;Nain tapageur
 Safalaan Hallow;Sanctuaire Safalaan
 Safta Doc;Doc Safta
+Sagira;Sagira
 Sailor;Marin
-Rhoddwr Tan;Rhoddwr Tan
-Rift guardian;Gardien de la faille
-Robert the Strong;Robert le Fort
-Rock lobster;Langouste
-Rockslug;Limace-rock
-Romeo;Roméo
-Root;Racine
-Rowdy Guard;Garde tapageur
-Rug Merchant;Marchand de tapis
-Sammy Servil;Sammy Servil
-Revenant imp;Diablotin Revenant
-Robyn;Robyn
-Rune dragon;Dragon runique
-Runite Minor;Runite mineure
-Saboteur;Saboteur
+Salarin the twisted;Salarin le tordu
 Salenab;Salenab
-Roachey;Cafard
-Rommik;Rommik
-Royal Guard;Garde royale
-Ruby harvest;Récolte de rubis
-Runa;Runa
-Sadwrn;Triste
-Riyl Shade;Riyl Ombre
-Roy jr.;Roy jr.
+Salgant;Salgant
 Sam;Sam
-Sandy rocks;Rochers sablonneux
-Sassilik;Sassilik
-Sergeant Ricardo;Sergent Ricardo
-Sheepdog;Chien de berger
-Sand Snake (hard);Serpent des sables (dur)
-Sapphire glacialis;Saphir glacial
-Selena;Séléna
-Sergeant Slimetoes;Sergent Slimetoes
-Servery assistant;Assistante de serveur
-Shark;Requin
+Sammy Servil;Sammy Servil
+San Fan;San Fan
+San Tojalon;San Tojalón
+Sand Crab;Crabe des sables
 Sand Snake;Serpent de sable
+Sand Snake (hard);Serpent des sables (dur)
+Sand storm;Tempête de sable
+Sandicrahb;Sandicrahb
 Sandwich lady;Dame sandwich
-Scorpia's guardian;Le gardien du Scorpia
-Scrubfoot;Pied de gommage
-Shayzien Infiltrator;Infiltrateur Shayzien
+Sandy;Sablonneux
+Sandy Boulder;Rocher de Sable
+Sandy rocks;Rochers sablonneux
+Sanfew;Sanfew
+Sani Piliu;Sani Piliu
+Saniboch;Saniboch
+Santiri;Santiri
+Sapphire glacialis;Saphir glacial
+Sarachnis;Sarachnis
+Saradomin priest;Prêtre Saradomin
+Saradomin wizard;Assistant Saradomin
+Saradominist recruiter;Recruteur saradoministe
+Sarah;Sarah
+Sarble;Sarbé
+Sarius Guile;Sarius Ruse
+Saro;Saro
+Sassilik;Sassilik
+Savant;Savant
+Sawmill Operator;Opérateur de scierie
 Sawmill operator;Opérateur de scierie
+Sbott;Sbot
+Scabaras;Scabaras
+Scarab mage;Mage scarabée
+Scarab swarm;Essaim de scarabées
+Scarabs;Scarabées
+Scared skavid;Skavid effrayé
+Scarg;Cicatrice
+Scavenger beast;Bête charognarde
+Scavvo;Scavvo
+Schoolboy;Écolier
+Schoolgirl;Écolière
+Scion;Scion
+Scorpia;Scorpie
+Scorpia's guardian;Le gardien du Scorpia
 Scorpia's offspring;La progéniture du Scorpia
+Scorpion;Scorpion
+Scout;Scout
+Screaming banshee;Banshee hurlante
+Screaming twisted banshee;Banshee tordue et hurlante
+Scrubfoot;Pied de gommage
+Sea Snake Hatchling;Nouveau-né de serpent de mer
+Sea Snake Young;Jeune serpent de mer
+Sea Troll General;Général des Trolls des Mers
+Sea Troll Queen;Reine des Trolls des Mers
+Sea slug;Limace de mer
+Sea slugs display;Exposition de limaces de mer
+Sea troll;Troll de mer
+Seagull;Mouette
 Seaman Lorris;Matelot Lorris
+Seaman Morris;Matelot Morris
+Seaman Thresnor;Matelot Thresnor
+Secretary;Secrétaire
+Security Guard;Agent de sécurité
+Seddu;Séddu
+Sedridor;Sédridor
+Seer;Voyant
+Selena;Séléna
+Selene;Séléné
+Seravel;Seravel
 Seren;Serène
+Sergeant;Sergent
+Sergeant Damien;Sergent Damien
+Sergeant Grimspike;Sergent Grimspike
+Sergeant Mossfists;Sergent Mossfists
+Sergeant Ricardo;Sergent Ricardo
+Sergeant Sambur;Sergent Sambur
+Sergeant Slimetoes;Sergent Slimetoes
+Sergeant Steelwill;Sergent Steelwill
+Sergeant Strongstack;Sergent Strongstack
+Sergiu;Serge
+Servant;Serviteur
+Servery assistant;Assistante de serveur
 Seth;Seth
 Seth Groats;Gruaux Seth
 Shade;Ombre
+Shade Spirit;Esprit de l'ombre
+Shadow;Ombre
 Shadow Hound;Chien de l'Ombre
+Shadow Wyrm;Wyrm de l'Ombre
+Shadow spider;Araignée de l'ombre
+Shadow warrior;Guerrier de l'ombre
+Shadowy figure;Figure sombre
+Shady figure;Chiffre ombragé
+Shaeded Beast;Bête ombragée
+Shamus;Shamous
+Shanomi;Shanomi
+Shantay;Shantay
 Shantay Guard;Garde Shantay
 Sharimika;Sharimika
-Sea slugs display;Exposition de limaces de mer
-Sedridor;Sédridor
-Shadow Wyrm;Wyrm de l'Ombre
-Sherlock;Sherlock
-Sawmill Operator;Opérateur de scierie
-Scarab mage;Mage scarabée
-Screaming twisted banshee;Banshee tordue et hurlante
-Sea Troll General;Général des Trolls des Mers
-Selene;Séléné
-Sergeant Sambur;Sergent Sambur
-Shadow warrior;Guerrier de l'ombre
-Shanomi;Shanomi
-Sani Piliu;Sani Piliu
-Santiri;Santiri
-Sarah;Sarah
-Schoolgirl;Écolière
-Secretary;Secrétaire
-Sergiu;Serge
-Saradomin wizard;Assistant Saradomin
-Saro;Saro
-Seaman Thresnor;Matelot Thresnor
-Seer;Voyant
-Sandy;Sablonneux
-Saniboch;Saniboch
-Saradomin priest;Prêtre Saradomin
-Seagull;Mouette
-Shadowy figure;Figure sombre
-Sarachnis;Sarachnis
-Saradominist recruiter;Recruteur saradoministe
-Scabaras;Scabaras
-Scorpion;Scorpion
-Sea Snake Young;Jeune serpent de mer
-Sergeant Grimspike;Sergent Grimspike
-Shady figure;Chiffre ombragé
-Shantay;Shantay
-Sheep;Mouton
-Sand storm;Tempête de sable
-Scarab swarm;Essaim de scarabées
-Sea Snake Hatchling;Nouveau-né de serpent de mer
-Sea Troll Queen;Reine des Trolls des Mers
-Seravel;Seravel
-Sergeant Steelwill;Sergent Steelwill
-Sarius Guile;Sarius Ruse
-Scarg;Cicatrice
-Schoolboy;Écolier
-Scout;Scout
-Sea slug;Limace de mer
-Seddu;Séddu
-Sergeant Strongstack;Sergent Strongstack
-Shade Spirit;Esprit de l'ombre
-Sandicrahb;Sandicrahb
-Sandy Boulder;Rocher de Sable
-Sanfew;Sanfew
-Scarabs;Scarabées
-Sea troll;Troll de mer
-Sergeant Mossfists;Sergent Mossfists
-Servant;Serviteur
-Shadow;Ombre
-Shadow spider;Araignée de l'ombre
-Shamus;Shamous
+Shark;Requin
 Shayda;Shayda
-Scared skavid;Skavid effrayé
-Scion;Scion
-Security Guard;Agent de sécurité
-Sergeant Damien;Sergent Damien
-Shaeded Beast;Bête ombragée
-Savant;Savant
-Sbott;Sbot
-Scavenger beast;Bête charognarde
-Scavvo;Scavvo
-Screaming banshee;Banshee hurlante
-Seaman Morris;Matelot Morris
-Sarble;Sarbé
-Scorpia;Scorpie
-Sergeant;Sergent
+Shayzien Infiltrator;Infiltrateur Shayzien
+Sheep;Mouton
+Sheepdog;Chien de berger
+Sherlock;Sherlock
 Sheryl;Sheryl
-Siamun;Siamun
-Sigismund;Sigismond
-Sinister Stranger;Sinistre étranger
-Sir Harry;Monsieur Harry
-Sister Scarophia;Sœur Scarophia
-Skeleton;Squelette
+Shield master;Maître du bouclier
+Shifter;Manette de vitesse
+Shilop;Shilop
+Shipyard worker;Ouvrier de chantier naval
+Shiratti the Custodian;Shiratti le gardien
+Shop assistant;Vendeur
 Shop keeper;Commerçant
 Shura;Choura
-Sigbert the Adventurer;Sigbert l'Aventurier
-Sil'as Dahcsnu;Sil'as Dahcsnu
-Simona;Simone
-Sir Palomedes;Monsieur Palomède
-Sister Senga;Sœur Senga
-Sister Toen;Sœur Toen
+Siamun;Siamun
+Sian;Sian
+Sid;Sidé
 Siegfried Erkle;Siegfried Erkle
-Sinclair;Sinclair
-Sir Leye;Monsieur Leye
-Sir Ren Itchood;Sir Ren Itchhood
-Sirsal Banker;Sirsal banquier
-Skeleton Hellhound;Chien de l'enfer squelette
-Shiratti the Custodian;Shiratti le gardien
+Sigbert the Adventurer;Sigbert l'Aventurier
+Sigismund;Sigismond
+Sigli the Huntsman;Sigli le chasseur
 Sigmund;Sigmond
 Sigmund The Merchant;Sigmund le marchand
-Sir Rebral;Monsieur Rebral
-Skeleton hero;Héros squelette
-Skuli Myrka;Skuli Myrka
-Skullball;Boule de crâne
-Slagilith;Slagilithe
-Shifter;Manette de vitesse
-Sin Seer;Voyant du péché
-Sir Tiffy Cashien;Monsieur Tiffy Cashien
-Sister Soul Jar;Pot d'âme sœur
-Sithik Ints;Sithik Ints
-Skeleton Mage;Mage Squelette
-Skeleton warlord;Seigneur de guerre squelette
 Sigmund and Zanik;Sigmond et Zanik
-Sinco Doar;Sinco Doar
-Sir Carl;Monsieur Carl
-Sister Aseret;Sœur Aseret
-Sister Salohcin;Sœur Salohcin
-Skeleton mage;Mage squelette
-Shield master;Maître du bouclier
-Shilop;Shilop
-Shop assistant;Vendeur
-Sir Spishyus;Monsieur Spishyus
-Skippy;Skippy
-Skogre;Skogre
-Skrach Uglogwee;Skrach Uglogwee
-Sid;Sidé
-Sinclair Guard dog;Chien de garde Sinclair
-Sir Tinley;Monsieur Tinley
-Skeleton brute;Brute squelette
-Slagilith (hard);Slagilith (dur)
-Silk merchant;Marchand de soie
-Silver merchant;Marchand d'argent
-Sir Bedivere;Monsieur Bédivère
-Sir Kuam Ferentse;Sir Kuam Ferentsé
-Sir Lancelot;Monsieur Lancelot
-Sir Lucan;Monsieur Lucan
-Sir Mordred;Monsieur Mordred
-Sir Vyvin;Monsieur Vyvin
-Sister Yram;Sœur Yram
-Skeletal Wyvern;Wyverne squelettique
-Skullball Trainer;Entraîneur de Skullball
-Simon;Simon
-Sir Percival;Monsieur Percival
-Skraeling;Skraëling
-Silk trader;Négociant en soie
-Sir Prysin;Monsieur Prysine
-Sir Tristram;Monsieur Tristram
-Skeleton Hellhound (hard);Chien de l'enfer squelette (difficile)
-Skeleton thug;Voyou squelette
-Skotizo;Skotizo
-Shipyard worker;Ouvrier de chantier naval
-Sian;Sian
-Silver Cog Director;Directeur du Silver Cog
-Sir Renitee;Monsieur Renitée
-Sister Naoj;Sœur Naoj
-Sister Sevi;Sœur Sévi
-Skeletal Mystic;Mystique squelettique
-Skeleton fremennik;Fremennik squelette
-Skotos;Skotos
-Skulgrimen;Skulgrimen
-Sir Gawain;Monsieur Gauvain
-Sir Jerro;Monsieur Jerro
-Sir Kay;Monsieur Kay
-Skeletal miner;Mineur squelettique
-Skeleton Champion;Champion squelette
-Sigli the Huntsman;Sigli le chasseur
-Silver Cog Secretary;Secrétaire Cog d'argent
-Simon Templeton;Simon Templeton
-Skeleton heavy;Squelette lourd
 Signy;Signé
 Sigurd;Sigurd
+Sil'as Dahcsnu;Sil'as Dahcsnu
+Silk merchant;Marchand de soie
+Silk trader;Négociant en soie
+Silver Cog Director;Directeur du Silver Cog
+Silver Cog Secretary;Secrétaire Cog d'argent
+Silver merchant;Marchand d'argent
 Silver ore;Minerai d'argent
+Simon;Simon
+Simon Templeton;Simon Templeton
+Simona;Simone
+Sin Seer;Voyant du péché
+Sinclair;Sinclair
+Sinclair Guard dog;Chien de garde Sinclair
+Sinco Doar;Sinco Doar
+Sinister Stranger;Sinistre étranger
 Sir Amik Varze;Monsieur Amik Varze
+Sir Bedivere;Monsieur Bédivère
+Sir Carl;Monsieur Carl
+Sir Gawain;Monsieur Gauvain
+Sir Harry;Monsieur Harry
+Sir Jerro;Monsieur Jerro
+Sir Kay;Monsieur Kay
+Sir Kuam Ferentse;Sir Kuam Ferentsé
+Sir Lancelot;Monsieur Lancelot
+Sir Leye;Monsieur Leye
+Sir Lucan;Monsieur Lucan
+Sir Mordred;Monsieur Mordred
+Sir Palomedes;Monsieur Palomède
 Sir Pelleas;Monsieur Pelléas
+Sir Percival;Monsieur Percival
+Sir Prysin;Monsieur Prysine
+Sir Rebral;Monsieur Rebral
+Sir Ren Itchood;Sir Ren Itchhood
+Sir Renitee;Monsieur Renitée
+Sir Spishyus;Monsieur Spishyus
+Sir Tiffy Cashien;Monsieur Tiffy Cashien
+Sir Tinley;Monsieur Tinley
+Sir Tristram;Monsieur Tristram
+Sir Vyvin;Monsieur Vyvin
+Sirsal Banker;Sirsal banquier
+Sister Aseret;Sœur Aseret
+Sister Naoj;Sœur Naoj
+Sister Salohcin;Sœur Salohcin
+Sister Scarophia;Sœur Scarophia
+Sister Senga;Sœur Senga
+Sister Sevi;Sœur Sévi
+Sister Soul Jar;Pot d'âme sœur
+Sister Toen;Sœur Toen
+Sister Yram;Sœur Yram
+Sithik Ints;Sithik Ints
 Skavid;Skavide
+Skeletal Mystic;Mystique squelettique
+Skeletal Wyvern;Wyverne squelettique
+Skeletal miner;Mineur squelettique
+Skeleton;Squelette
+Skeleton Champion;Champion squelette
+Skeleton Hellhound;Chien de l'enfer squelette
+Skeleton Hellhound (hard);Chien de l'enfer squelette (difficile)
+Skeleton Mage;Mage Squelette
+Skeleton brute;Brute squelette
+Skeleton fremennik;Fremennik squelette
+Skeleton heavy;Squelette lourd
+Skeleton hero;Héros squelette
+Skeleton mage;Mage squelette
+Skeleton thug;Voyou squelette
+Skeleton warlord;Seigneur de guerre squelette
+Skippy;Skippy
+Skogre;Skogre
+Skotizo;Skotizo
+Skotos;Skotos
+Skrach Uglogwee;Skrach Uglogwee
+Skraeling;Skraëling
+Skulgrimen;Skulgrimen
+Skuli Myrka;Skuli Myrka
+Skullball;Boule de crâne
 Skullball Boss;Patron de la boule de crâne
-Spinner;Fileur
-Squirrel;Écureuil
-Stone Guardian;Gardien de pierre
-Small Lizard;Petit lézard
-Smith;Forgeron
-Soldier (tier 2);Soldat (niveau 2)
-Sorrn;Désolé
-Sotetseg;Sotetseg
-Spiritual ranger;Ranger spirituel
-Squire;Écuyer
-Starflower;Étoile de mer
-Snowy knight;Chevalier enneigé
-Sorceress;Sorcière
-Spidine;Spidine
+Skullball Trainer;Entraîneur de Skullball
+Slagilith;Slagilithe
+Slagilith (hard);Slagilith (dur)
 Slash Bash;Coup de barre oblique
-Spinolyp;Spinolype
-Spitting Wyvern;Wyverne cracheuse
-Snow;Neige
-Soldier;Soldat
-Solus Dellagar;Solus Dellagar
-Sophanem guard;Garde Sophanem
-Sorebones;Maladies
-Sorin;Sorin
-Spang;Spang
-Squire (Novice);Écuyer (débutant)
-Stankers;Stankers
-Strange plant;Plante étrange
-Soldier (tier 3);Soldat (niveau 3)
-Soldier (tier 5);Soldat (niveau 5)
-Spawn;Frayer
-Spice seller;Vendeur d'épices
-Spria;Spria
-Star Sprite;Lutin étoilé
-Straven;Straven
+Slave;Esclave
 Sleeping Monkey;Singe endormi
 Sleeping guard;Garde endormi
-Small ninja monkey;Petit singe ninja
-Snakeling;Serpent
-Sofiya;Sophie
-Spined larupia;Larupia à épines
-Stone mason;Tailleur de pierre
-Smithing apprentice;Apprenti forgeron
-Smolcano;Smolcano
-Snake;Serpent
-Spectator;Spectateur
-Spirit of Scorpius;Esprit du Scorpius
-Squire (Veteran);Écuyer (vétéran)
-Steel dragon;Dragon d'acier
-Slug Hemligssen;Limace Hemligssen
-Sourhog;Sourhog
-Starlight;Lumière des étoiles
-Steve;Steve
-Stonemason;Tailleur de pierre
-Storm cloud;Nuage d'orage
-Smoke devil;Diable de fumée
-Solihib;Solhib
-Spawn of Sarachnis;Apparition de Sarachnis
-Spiked Turoth;Turoth à pointes
-Stick;Bâton
-Sloane;Sloan
-Smokin' Joe;Joe qui fume
-Sphinx;Sphinx
-Stag;Cerf
-Smiddi Ryak (hard);Smiddi Ryak (dur)
-Smoggy;Smog
-Snowflake;Flocon de neige
-Speedy Keith;Keith rapide
-Spider;Araignée
-Spirit of Zadimus;Esprit de Zadimus
-Spit goblin;Cracher gobelin
-Stanford;Stanford
-Strange watcher;Étrange observateur
-Slim Louie;Slim Louie
-Smellytoes;Orteils malodorants
-Snail display;Présentoir d'escargots
-Soulless;Sans âme
-Sraracha;Sraracha
-Stranger;Étranger
+Sleepwalker;Somnambule
 Slieve;Slieve
+Slim Louie;Slim Louie
 Slippers;Pantoufles
-Smoke Devil;Diable de fumée
-Sophia Hughes;Sophie Hughes
-Spirit Angler;Pêcheur spirituel
-Spiritual warrior;Guerrier spirituel
-Spring Elemental;Élémentaire de printemps
-Slave;Esclave
+Sloane;Sloan
+Slug Hemligssen;Limace Hemligssen
 Slug Prince;Prince Limace
+Small Lizard;Petit lézard
+Small ninja monkey;Petit singe ninja
+Small zombie monkey;Petit singe zombie
+Smellytoes;Orteils malodorants
+Smiddi Ryak (hard);Smiddi Ryak (dur)
+Smith;Forgeron
+Smithing apprentice;Apprenti forgeron
+Smoggy;Smog
+Smoke Devil;Diable de fumée
+Smoke devil;Diable de fumée
+Smokin' Joe;Joe qui fume
+Smolcano;Smolcano
+Snail display;Présentoir d'escargots
+Snake;Serpent
+Snakeling;Serpent
+Snow;Neige
+Snowflake;Flocon de neige
+Snowy knight;Chevalier enneigé
+Sofiya;Sophie
+Soldier;Soldat
+Soldier (tier 1);Soldat (niveau 1)
+Soldier (tier 2);Soldat (niveau 2)
+Soldier (tier 3);Soldat (niveau 3)
+Soldier (tier 4);Soldat (niveau 4)
+Soldier (tier 5);Soldat (niveau 5)
+Solihib;Solhib
+Solus Dellagar;Solus Dellagar
 Solztun;Solztun
+Sophanem guard;Garde Sophanem
+Sophia Hughes;Sophie Hughes
+Sorceress;Sorcière
+Sorebones;Maladies
+Sorin;Sorin
+Sorrn;Désolé
+Sotetseg;Sotetseg
+Soulless;Sans âme
+Sourhog;Sourhog
+Spang;Spang
+Spawn;Frayer
+Spawn of Sarachnis;Apparition de Sarachnis
+Spectator;Spectateur
+Speedy Keith;Keith rapide
+Sphinx;Sphinx
+Spice seller;Vendeur d'épices
+Spider;Araignée
+Spidine;Spidine
+Spiked Turoth;Turoth à pointes
 Spin Blades;Lames rotatives
+Spined larupia;Larupia à épines
+Spinner;Fileur
+Spinolyp;Spinolype
+Spirit Angler;Pêcheur spirituel
+Spirit of Scorpius;Esprit du Scorpius
+Spirit of Zadimus;Esprit de Zadimus
 Spirit tree;Arbre spirituel
+Spiritual mage;Mage spirituel
+Spiritual ranger;Ranger spirituel
+Spiritual warrior;Guerrier spirituel
+Spit goblin;Cracher gobelin
+Spitting Wyvern;Wyverne cracheuse
 Splatter;Éclabousser
 Spotted kebbit;Kebbit tacheté
-Sleepwalker;Somnambule
-Small zombie monkey;Petit singe zombie
-Soldier (tier 1);Soldat (niveau 1)
-Soldier (tier 4);Soldat (niveau 4)
-Spiritual mage;Mage spirituel
+Spria;Spria
+Spring Elemental;Élémentaire de printemps
+Squire;Écuyer
 Squire (Intermediate);Écuyer (intermédiaire)
+Squire (Novice);Écuyer (débutant)
+Squire (Veteran);Écuyer (vétéran)
+Squirrel;Écureuil
+Sraracha;Sraracha
+Stag;Cerf
+Stanford;Stanford
+Stankers;Stankers
+Star Sprite;Lutin étoilé
+Starflower;Étoile de mer
+Starlight;Lumière des étoiles
+Steel dragon;Dragon d'acier
+Steve;Steve
+Stick;Bâton
+Stone Guardian;Gardien de pierre
+Stone mason;Tailleur de pierre
+Stonemason;Tailleur de pierre
 Storm Cloud;Nuage d'orage
+Storm cloud;Nuage d'orage
 Strange Old Man;Étrange vieil homme
-Strong Ronny;Ronny fort
-Stunted demonic gorilla;Gorille démoniaque rabougri
-Swamp frog;Grenouille des marais
-Swan;Cygne
-Taiman;Taïman
-Tangleroot;Racine enchevêtrée
-Tea seller;Vendeur de thé
-Terror dog;Chien de terreur
-Suit of armour;Armure
-Superior ghostly thrall;Un esclave fantomatique supérieur
-Survival Expert;Expert en survie
-Swamp lizard;Lézard des marais
-Tamble;Tambler
-Tanglefoot;Pied emmêlé
-Summoned Zombie;Zombie invoqué
-Suspicious water;Eau suspecte
-Svetlana;Svetlana
-Tempoross;Tempoross
-Teodor;Théodore
-Stunned Hoop Snake;Serpent cerceau étourdi
-Svidi;Svidi
-Swamp snake;Serpent des marais
-Swamp toad;Crapaud des marais
-Tar Monster;Monstre de goudron
-Taylor;Taylor
-Tekton;Tekton
-Terrorbird;Oiseau terroriste
-Ted Rehnison;Ted Rehnison
-Tegdak;Tegdak
-Telekinetic Guardian;Gardien télékinésique
-Temple Spider;Araignée du temple
-The Draugen;Le Draugen
-The Illusive;L'illusoire
-Summoned Soul;Âme invoquée
-Swamp Priest;Prêtre des marais
-Taloned Wyvern;Wyverne à griffes
-Tarn;Tarn
-Terror dog statue;Statue de chien de terreur
-The Beast;La Bête
-The Jormungand;Le Jörmungand
+Strange plant;Plante étrange
+Strange watcher;Étrange observateur
+Stranger;Étranger
+Straven;Straven
 Stray dog;Chien errant
 Street urchin;Oursin des rues
+Strong Ronny;Ronny fort
+Student;Étudiant
+Stuliette;Stuliette
+Stumpy;Courtaud
+Stunned Hoop Snake;Serpent cerceau étourdi
+Stunted demonic gorilla;Gorille démoniaque rabougri
+Styrmir;Styrmir
+Suit of armour;Armure
 Sulphur Lizard;Lézard de soufre
 Summer Elemental;Élémentaire d'été
+Summoned Soul;Âme invoquée
+Summoned Zombie;Zombie invoqué
 Sune;Soleil
-Supreme Commander;commandant suprême
-Tanglefoot (hard);Tanglefoot (dur)
-The Everlasting (hard);L'Éternel (dur)
-The Inadequacy (hard);L'insuffisance (difficile)
-Stumpy;Courtaud
+Superior ghostly thrall;Un esclave fantomatique supérieur
 Superior skeletal thrall;Thrall squelettique supérieur
-Surgeon General Tafani;Chirurgien Général Tafani
-Surok Magis;Surok Magis
-Swamp Crab;Crabe des marais
-Tarik;Tarik
-Tatie;Tatie
-Teacher;Professeur
-Tentacle;Tentacule
-Terrorchick gnome;Gnome Terrorchick
-The Collector;Le collectionneur
-Tamayu;Tamayu
-Tayten;Tayten
-Tekton (enraged);Tekton (enragé)
-The Fisher King;Le roi pêcheur
-Sylas;Sylas
-Tanya;Tanya
-Tegid;Tegid
-Tektiny;Tectine
-Temple guardian;Gardien du temple
-Tar Bubbles;Bulles de goudron
-Swampy log;Journal marécageux
-Talia;Talia
-Tarfol quo Maten;Tarfol quo Maten
-Tarquin;Tarquin
-Tassie Slipcast;Tassie Slipcast
-Thakkrad Sigmundson;Thakkrad Sigmundson
-Student;Étudiant
-Styrmir;Styrmir
+Superior zombified thrall;Serviteur zombifié supérieur
+Supreme Commander;commandant suprême
 Suqah;Souqa
+Surgeon General Tafani;Chirurgien Général Tafani
 Surma;Surma
+Surok Magis;Surok Magis
+Survival Expert;Expert en survie
 Suspect;Suspect
+Suspicious water;Eau suspecte
+Svetlana;Svetlana
+Svidi;Svidi
+Swamp Crab;Crabe des marais
+Swamp Priest;Prêtre des marais
+Swamp frog;Grenouille des marais
+Swamp lizard;Lézard des marais
+Swamp snake;Serpent des marais
+Swamp toad;Crapaud des marais
+Swampy log;Journal marécageux
+Swan;Cygne
 Swarm;Essaim
 Sweeper;Balayeuse
-Tanner;Tanneur
-Target;Cible
-The 'Wedge';Le « Coin »
-The Everlasting;L'Éternel
 Swensen the Navigator;Swensen le navigateur
 Swordchick;Poussin d'épée
+Sylas;Sylas
+Taiman;Taïman
+Talia;Talia
+Taloned Wyvern;Wyverne à griffes
+Tamayu;Tamayu
+Tamble;Tambler
+Tanglefoot;Pied emmêlé
+Tanglefoot (hard);Tanglefoot (dur)
+Tangleroot;Racine enchevêtrée
+Tanner;Tanneur
+Tanya;Tanya
+Tar Bubbles;Bulles de goudron
+Tar Monster;Monstre de goudron
+Tarfol quo Maten;Tarfol quo Maten
+Target;Cible
 Taria;Taria
+Tarik;Tarik
+Tarn;Tarn
+Tarquin;Tarquin
+Tassie Slipcast;Tassie Slipcast
 Tati;Tati
+Tatie;Tatie
 Tau;Tau
-Tenzing;Tenzing
-Terrorbird display;Affichage des oiseaux de terreur
-The Inadequacy;L'insuffisance
-Stuliette;Stuliette
-Superior zombified thrall;Serviteur zombifié supérieur
 Taxidermist;Taxidermiste
+Taylor;Taylor
+Tayten;Tayten
+Tea seller;Vendeur de thé
+Teacher;Professeur
 Teacher and pupil;Enseignant et élève
+Ted Rehnison;Ted Rehnison
+Tegdak;Tegdak
+Tegid;Tegid
+Tektiny;Tectine
+Tekton;Tekton
+Tekton (enraged);Tekton (enragé)
+Telekinetic Guardian;Gardien télékinésique
+Temple Spider;Araignée du temple
+Temple guardian;Gardien du temple
+Tempoross;Tempoross
+Tentacle;Tentacule
+Tenzing;Tenzing
+Teodor;Théodore
+Terror dog;Chien de terreur
+Terror dog statue;Statue de chien de terreur
+Terrorbird;Oiseau terroriste
+Terrorbird display;Affichage des oiseaux de terreur
+Terrorchick gnome;Gnome Terrorchick
+Thakkrad Sigmundson;Thakkrad Sigmundson
+The 'Wedge';Le « Coin »
+The Beast;La Bête
+The Collector;Le collectionneur
+The Draugen;Le Draugen
+The Everlasting;L'Éternel
+The Everlasting (hard);L'Éternel (dur)
 The Face;Le visage
-Thorhild;Thorhild
-Tim;Tim
-Toban;Tobán
-Tok-Xil;Tok-Xil
-Tomas Lawry;Thomas Lawry
-Torbrund;Torbrund
-The Lady of the Lake;La Dame du Lac
-Thirus;Thirus
-Thomdril;Thomdril
-Thrower Troll;Troll lanceur
-Tiny Tempor;Petit Tempor
-Tjorvi;Tjörvi
-The Kendal (hard);Le Kendal (dur)
-Thordur;Thordur
-Thug;Voyou
-Tilt;Inclinaison
-Timfraku;Timfraku
-Tindar;Tindar
-Tortured gorilla;Gorille torturé
-The Maiden of Sugadinti;La jeune fille de Sugadinti
-Third Age Mage;Mage du troisième âge
-Tin ore;Minerai d'étain
-Tostig;Tostig
-Toy Soldier;Soldat de plomb
-The Monkey's Aunt;La tante du singe
-Tina;Tina
-Tinsay;Tinsay
-Torcher;Torcher
-Torrcs;Torques
-Tortured soul;Âme torturée
-Tower Advisor;Conseiller de la tour
-The Shaikahan;Le Shaikahan
-Thormac;Thormac
-Thumpy;Bruyant
-Tinse Torpe;Tinse Torpe
-Tombar;Tomber
-Tower Archer;Archer de la tour
+The Fisher King;Le roi pêcheur
+The Illusive;L'illusoire
+The Inadequacy;L'insuffisance
+The Inadequacy (hard);L'insuffisance (difficile)
+The Jormungand;Le Jörmungand
 The Kendal;Le Kendal
-Thermonuclear smoke devil;Diable de fumée thermonucléaire
-Tormented Soul;Âme tourmentée
-Thyria;Thyrie
-Ticket goblin;Billet gobelin
-Tindel Marchant;Tindel Marchant
-Toby;Toby
-Tower guard;Garde de tour
-Trader;Commerçant
+The Kendal (hard);Le Kendal (dur)
+The Lady of the Lake;La Dame du Lac
+The Maiden of Sugadinti;La jeune fille de Sugadinti
+The Mimic;Le Mimique
+The Monkey's Aunt;La tante du singe
 The Monkey's Uncle;L'oncle du singe
-The Queen of Thieves;La reine des voleurs
-Thing under the bed;Un truc sous le lit
-Thorgel;Thorgel
-Ticket dwarf;Nain de billet
-Toy Doll;Poupée jouet
-Toy Mouse;Souris jouet
-Trader Crewmember;Membre d'équipage commerçant
 The Nightmare;Le cauchemar
-Thief;Voleur
-Thorodin;Thorodine
-Thrantax the Mighty;Thrantax le Puissant
-Tiadeche;Tiadèche
-Timble;Horaires
-Third Age Warrior;Guerrier du troisième âge
-Thistle;Chardon
-Thorvald the Warrior;Thorvald le guerrier
-Ticket Merchant;Marchand de billets
-Topsy;À l'envers
-Tough Guy;Un dur à cuire
-Tracker gnome 3;Gnome traqueur 3
+The Queen of Thieves;La reine des voleurs
+The Shaikahan;Le Shaikahan
 The Untouchable;L'Intouchable
+The Untouchable (hard);L'Intouchable (dur)
+Thermonuclear smoke devil;Diable de fumée thermonucléaire
+Thessalia;Thessalie
 Thias Leacke;Thias Leacke
+Thief;Voleur
+Thing under the bed;Un truc sous le lit
+Thingol;Thingol
+Third Age Mage;Mage du troisième âge
+Third Age Ranger;Ranger du troisième âge
+Third Age Warrior;Guerrier du troisième âge
+Thirus;Thirus
+Thistle;Chardon
+Thomdril;Thomdril
 Thora;Thora
 Thora the Barkeep;Thora la barman
+Thordur;Thordur
+Thorgel;Thorgel
+Thorhild;Thorhild
+Thorkel Silkbeard;Thorkel Barbe de Soie
+Thormac;Thormac
+Thorodin;Thorodine
+Thorvald the Warrior;Thorvald le guerrier
+Thrantax the Mighty;Thrantax le Puissant
+Thrower Troll;Troll lanceur
+Thrower troll;Troll lanceur
+Thug;Voyou
+Thumpy;Bruyant
 Thurgo;Thurgo
+Thyria;Thyrie
+Tiadeche;Tiadèche
+Ticket Merchant;Marchand de billets
+Ticket dwarf;Nain de billet
+Ticket goblin;Billet gobelin
 Tide;Marée
 Tiles;Carrelage
-Tommy 2-times;Tommy 2 fois
-Trade Referee;Arbitre commercial
-Third Age Ranger;Ranger du troisième âge
-Thrower troll;Troll lanceur
+Tilt;Inclinaison
+Tim;Tim
+Timallus;Timallus
+Timble;Horaires
+Timfraku;Timfraku
+Tin ore;Minerai d'étain
+Tina;Tina
+Tindar;Tindar
+Tindel Marchant;Tindel Marchant
+Tinsay;Tinsay
+Tinse Torpe;Tinse Torpe
+Tiny Tempor;Petit Tempor
+Tirrie;Tirrie
+Tjorvi;Tjörvi
+Toban;Tobán
+Toby;Toby
+Tok-Xil;Tok-Xil
 Tolna;Tolna
+Tomas Lawry;Thomas Lawry
+Tombar;Tomber
+Tommy 2-times;Tommy 2 fois
 Tool Leprechaun;Outil Lutin
 Toothy;Dents
-Town Crier;Crieur public
-Tracker gnome 1;Gnome traqueur 1
-Thessalia;Thessalie
-Torfinn;Torfinn
-Tower Mage;Mage de la tour
-Thingol;Thingol
-Tirrie;Tirrie
+Topsy;À l'envers
 Torag the Corrupted;Torag le Corrompu
-Tortoise;Tortue
-Trader Stan;Le commerçant Stan
-Traiborn;Traiborn
-The Mimic;Le Mimique
-The Untouchable (hard);L'Intouchable (dur)
-Thorkel Silkbeard;Thorkel Barbe de Soie
-Timallus;Timallus
+Torbrund;Torbrund
+Torcher;Torcher
+Torfinn;Torfinn
+Tormented Soul;Âme tourmentée
+Torrcs;Torques
 Torrell;Torrell
+Tortoise;Tortue
+Tortured gorilla;Gorille torturé
+Tortured soul;Âme torturée
+Tostig;Tostig
+Tough Guy;Un dur à cuire
+Tower Advisor;Conseiller de la tour
+Tower Archer;Archer de la tour
+Tower Mage;Mage de la tour
+Tower guard;Garde de tour
+Town Crier;Crieur public
 Town Guard;Garde de la ville
+Toy Doll;Poupée jouet
+Toy Mouse;Souris jouet
+Toy Soldier;Soldat de plomb
+Tracker gnome 1;Gnome traqueur 1
 Tracker gnome 2;Gnome traqueur 2
+Tracker gnome 3;Gnome traqueur 3
+Trade Referee;Arbitre commercial
+Trader;Commerçant
+Trader Crewmember;Membre d'équipage commerçant
+Trader Stan;Le commerçant Stan
 Trader Sven;Le commerçant Sven
+Traiborn;Traiborn
 Trainee Guard;Garde stagiaire
+Trainer Nacklepen;Stylo à main d'entraînement
+Tramp;Tramp
+Trapped Soul;Âme piégée
+Trapped Soul (hard);Âme piégée (dur)
+Traxi;Traxi
+Treacle;Mélasse
 Treasure fairy;Fée au trésor
 Tree;Arbre
-Turoth;Turoth
-Twiggy O'Korn;Twiggy O'Korn
-Ur-pel;Ur-pel
-Trainer Nacklepen;Stylo à main d'entraînement
-Trapped Soul;Âme piégée
-TzHaar-Hur-Tel;TzHaar-Hur-Tel
-Undead Lumberjack;Bûcheron mort-vivant
-Unferth;Découvrir
-Ungadulu;Ungadulu
-Unicorn;Licorne
-Ur-meg;Ur-meg
+Tree spirit;Esprit de l'arbre
 Tree spirit (hard);Esprit de l'arbre (dur)
-Trogen Konungarde;Trogen Konungarde
-Troll father;Père troll
-Turael;Turaël
-Unicow;Licorne
-Twig;Brindille
-Ur-tag;Ur-tag
-Ur-vass;Ur-vass
-TzHaar-Mej-Dir;TzHaar-Mej-Dir
-Tropical wagtail;Bergeronnette tropicale
-Tstanon Karlak;Tstanon Karlak
-Tyss;Tysse
-TzHaar-Ket-Yil;TzHaar-Ket-Yil
-Unicorn Foal;Poulain Licorne
-Ur-taal;Ur-taal
-Tristan;Tristan
-Troll;Troll
-Two-pints;Deux pintes
-Tz-Kih;Tz-Kih
-TzHaar-Hur;TzHaar-Hur
-Trapped Soul (hard);Âme piégée (dur)
-Trefaji;Tréfaji
-Tyke;Chien bâtard
-Traxi;Traxi
 Trees;Arbres
-Tribal Weapon Salesman;Vendeur d'armes tribales
-Troll child;Enfant troll
-Tyras Guard;Garde Tyras
-TzKal-Zuk;TzKal-Zuk
-Ugthanki;Merci
-Ur-lun;Ur-lun
+Trefaji;Tréfaji
+Treus Dayth;Treus Dayth
 Treus Dayth (hard);Treus Dayth (dur)
+Treznor;Treznor
+Tribal Weapon Salesman;Vendeur d'armes tribales
+Tribesman;Homme de tribu
+Tristan;Tristan
+Trobert;Trobert
+Trogen Konungarde;Trogen Konungarde
+Troll;Troll
+Troll child;Enfant troll
+Troll father;Père troll
 Troll general;Général troll
 Troll mother;Mère troll
 Troll spectator;Spectateur troll
-TzHaar-Hur-Lek;TzHaar-Hur-Lek
-Undead Druid;Druide mort-vivant
-Undead Zealot;Zélote mort-vivant
-Tree spirit;Esprit de l'arbre
+Trolley;Chariot
+Tropical wagtail;Bergeronnette tropicale
+Trossa;Trossa
+Trufitus;Trufitus
+Tstanon Karlak;Tstanon Karlak
+Turael;Turaël
+Turbogroomer;Turbotoiletteur
 Turgall;Turgall
+Turgok;Tourgok
+Turgon;Tourgon
+Turoth;Turoth
+Tutab;Tutab
+Twig;Brindille
+Twiggy O'Korn;Twiggy O'Korn
 Twisted Banshee;Banshee tordue
-Typhor;Typhor
-Tyras guard;Garde Tyras
-TzHaar-Ket-Zuh;TzHaar-Ket-Zuh
-TzHaar-Xil;TzHaar-Xil
-TzRek-Jad;TzRek-Jad
-TzRek-Zuk;TzRek-Zuk
-Treus Dayth;Treus Dayth
+Two-pints;Deux pintes
+Tyke;Chien bâtard
 Tynan;Tynan
+Typhor;Typhor
+Tyras Guard;Garde Tyras
+Tyras guard;Garde Tyras
+Tyss;Tysse
+Tz-Kek;Tz-Kek
+Tz-Kih;Tz-Kih
+TzHaar-Hur;TzHaar-Hur
+TzHaar-Hur-Lek;TzHaar-Hur-Lek
+TzHaar-Hur-Rin;TzHaar-Hur-Rin
+TzHaar-Hur-Tel;TzHaar-Hur-Tel
+TzHaar-Hur-Zal;TzHaar-Hur-Zal
 TzHaar-Ket;TzHaar-Ket
 TzHaar-Ket-Keh;TzHaar-Ket-Keh
-TzHaar-Mej-Kah;TzHaar-Mej-Kah
-Uglug Nar;Uglug Nar
-Ulsquire Shauncy;Écuyer Shauncy
-Undead chicken;Poulet mort-vivant
-Undor;Undor
-Tribesman;Homme de tribu
-Trolley;Chariot
-Turbogroomer;Turbotoiletteur
-Turgok;Tourgok
+TzHaar-Ket-Rak;TzHaar-Ket-Rak
+TzHaar-Ket-Yil;TzHaar-Ket-Yil
+TzHaar-Ket-Zuh;TzHaar-Ket-Zuh
+TzHaar-Mej;TzHaar-Mej
+TzHaar-Mej-Bal;TzHaar-Mej-Bal
+TzHaar-Mej-Dir;TzHaar-Mej-Dir
 TzHaar-Mej-Jal;TzHaar-Mej-Jal
+TzHaar-Mej-Kah;TzHaar-Mej-Kah
 TzHaar-Mej-Roh;TzHaar-Mej-Roh
+TzHaar-Xil;TzHaar-Xil
+TzKal-Zuk;TzKal-Zuk
+TzRek-Jad;TzRek-Jad
+TzRek-Zuk;TzRek-Zuk
 TzTok-Jad;TzTok-Jad
 Ug;Ug
+Uglug Nar;Uglug Nar
+Ugthanki;Merci
 Ulfric;Ulfric
-Ulizius;Ulizius
-Unnamed troll child;Enfant troll sans nom
-Tramp;Tramp
-Treacle;Mélasse
-Trobert;Trobert
-Trufitus;Trufitus
-Turgon;Tourgon
-TzHaar-Hur-Zal;TzHaar-Hur-Zal
-TzHaar-Mej-Bal;TzHaar-Mej-Bal
-Treznor;Treznor
-Trossa;Trossa
-Tutab;Tutab
-Tz-Kek;Tz-Kek
-TzHaar-Hur-Rin;TzHaar-Hur-Rin
-TzHaar-Ket-Rak;TzHaar-Ket-Rak
-TzHaar-Mej;TzHaar-Mej
 Ulifed;Ulifed
+Ulizius;Ulizius
+Ulsquire Shauncy;Écuyer Shauncy
+Undead Druid;Druide mort-vivant
+Undead Lumberjack;Bûcheron mort-vivant
+Undead Zealot;Zélote mort-vivant
+Undead chicken;Poulet mort-vivant
 Undead cow;Vache morte-vivante
 Undead one;Mort-vivant
 Undead tree;Arbre mort-vivant
+Undor;Undor
+Unferth;Découvrir
+Ungadulu;Ungadulu
+Unicorn;Licorne
+Unicorn Foal;Poulain Licorne
+Unicow;Licorne
+Unnamed troll child;Enfant troll sans nom
 Uodai;Uodai
-Vallessia Dracyula;Vallessia Dracyula
-Vanstrom Klause;Vanström Klause
-Vasa Nistirio;Vasa Nistírio
-Veliaf Hurtz;Véliaf Hurtz
-Vermundi;Vermundi
-Vitreous warped Jelly;Gelée déformée vitreuse
-Vyre Orator;Orateur de Vyre
-Wally;Wally
-Valaine;Valaine
-Vampyric hound;Chien vampyrique
-Vannah;Vannah
-Vannaka;Vannaka
-Vespine soldier;Soldat Vespine
-Vet'ion Jr.;Vet'ion Jr.
-Vlad Bechstein;Vlad Bechstein
-Volf Olafson;Volf Olafson
-Vorki;Vorki
-Vornas quo Maten;Vornas quo Maten
-Vyrewatch;Vyregarde
-Varrian Sobak;Varrian Sobak
-Vespina;Vespine
-Vestri;Vestri
-Vigr;Vigr
-Vritra;Vritra
-Wallasalki;Wallasalki
-Warped Jelly;Gelée déformée
-Warrior of Murahs;Guerrier des Murahs
-Vortas quo Keran;Vortas quo Keran
-Vulcan Orvoros;Orvoros vulcain
-Uri;Uri
-Verac the Defiled;Vérac le souillé
-Veronica;Véronique
-Vertida Sefalatis;Vertida Sefalatis
-Wandering impling;Implant errant
+Ur-lun;Ur-lun
+Ur-meg;Ur-meg
+Ur-pel;Ur-pel
+Ur-taal;Ur-taal
+Ur-tag;Ur-tag
+Ur-vass;Ur-vass
+Ur-zek;Ur-zek
 Urbi;Urbi
+Uri;Uri
 Urium Shade;Ombre d'Urium
-Valentin Rasputin;Valentin Raspoutine
-Valgerd;Valgerd
-Vyrelord;Vyrelord
+Urium Shadow;Ombre d'Urium
 Usi;Usi
-Vaire;Vaire
-Vanessa;Vanessa
-Velrak the explorer;Velrak l'explorateur
-Viyeldi;Viyeldi
-Vonnetta Varnis;Vonnetta Varnis
-Valentina Diaemus;Valentina Diaemus
-Vanligga Gastfrihet;Vanligga Gastfrihet
-Vasa Minirio;Vasa Minirio
-Vasile;Vasile
-Vasquen;Vasquen
-Venenatis spiderling;Araignée Venenatis
-Vigroy;Vigroy
-Voice of Yama;Voix de Yama
-Von van Von;Von van Von
-Vorkath;Vorkath
-Vulture;Vautour
-Wanderer;Vagabond
-Watchtower Wizard;Assistant de la Tour de Garde
-Uwogo;Uwogo
-Vanguard;Avant-garde
-Velorina;Vélorine
-Vormar Vakan;Vormar Vakan
 Utrec;Utrec
 Uurrak quo Narga;Uurrak quo Narga
-Vaeringk;Väeringk
-Valeria;Valérie
-Vampyressa van Von;Vampyressa van Von
-Vet'ion;Vétérinaire
-Vlad Diaemus;Vlad Diaemus
-Watchman;Gardien
-Venenatis;Vénénatis
-Verak;Vérak
-Victor;Vainqueur
-Villager;Villageois
-Violetta Sanguine;Violetta Sanguine
-Vladimir;Vladimir
-Void Knight;Chevalier du Vide
-Vyrewatch Sentinel;Sentinelle de Vyrewatch
-Vampyre Juvinate;Juvinat de vampire
-Vampyrus Diaemus;Vampyrus Diaemus
-Verzik Vitur;Verzik Vitur
-Vespula;Vespula
-Vet'ion Reborn;Vet'ion renaît
-Villia;Villa
-Vyrelady;Vyrelady
-Wagchin;Wagchin
-Water elemental;Élémentaire d'eau
-Urium Shadow;Ombre d'Urium
+Uwogo;Uwogo
 Uyoro;Uyoro
-Vallessia von Pitt;Vallessia von Pitt
-Vanescula Drakan;Vanescula Drakan
-Vera;Véra
-Vitreous Jelly;Gelée vitreuse
-Ur-zek;Ur-zek
+Vaeringk;Väeringk
+Vaire;Vaire
+Valaine;Valaine
 Valantay Eppel (medium);Valantay Eppel (moyen)
+Valentin Rasputin;Valentin Raspoutine
+Valentina Diaemus;Valentina Diaemus
+Valeria;Valérie
+Valgerd;Valgerd
+Vallessia Dracyula;Vallessia Dracyula
+Vallessia von Pitt;Vallessia von Pitt
 Vampyre Juvenile;Vampire juvénile
+Vampyre Juvinate;Juvinat de vampire
+Vampyressa van Von;Vampyressa van Von
+Vampyric hound;Chien vampyrique
+Vampyrus Diaemus;Vampyrus Diaemus
+Vanescula Drakan;Vanescula Drakan
+Vanessa;Vanessa
+Vanguard;Avant-garde
+Vanligga Gastfrihet;Vanligga Gastfrihet
+Vannah;Vannah
+Vannaka;Vannaka
+Vanstrom Klause;Vanström Klause
+Varrian Sobak;Varrian Sobak
+Vasa Minirio;Vasa Minirio
+Vasa Nistirio;Vasa Nistírio
+Vasile;Vasile
+Vasquen;Vasquen
+Veliaf Hurtz;Véliaf Hurtz
+Velorina;Vélorine
+Velrak the explorer;Velrak l'explorateur
+Venenatis;Vénénatis
+Venenatis spiderling;Araignée Venenatis
 Veos;Véos
+Vera;Véra
+Verac the Defiled;Vérac le souillé
+Verak;Vérak
+Vermundi;Vermundi
+Veronica;Véronique
+Vertida Sefalatis;Vertida Sefalatis
+Verzik Vitur;Verzik Vitur
+Vespina;Vespine
+Vespine soldier;Soldat Vespine
+Vespula;Vespula
+Vestri;Vestri
+Vet'ion;Vétérinaire
+Vet'ion Jr.;Vet'ion Jr.
+Vet'ion Reborn;Vet'ion renaît
+Victor;Vainqueur
+Vigr;Vigr
+Vigroy;Vigroy
+Villager;Villageois
+Villia;Villa
+Violetta Sanguine;Violetta Sanguine
+Vitreous Jelly;Gelée vitreuse
+Vitreous warped Jelly;Gelée déformée vitreuse
+Viyeldi;Viyeldi
+Vlad Bechstein;Vlad Bechstein
+Vlad Diaemus;Vlad Diaemus
+Vladimir;Vladimir
+Voice of Yama;Voix de Yama
+Void Knight;Chevalier du Vide
+Volf Olafson;Volf Olafson
+Von van Von;Von van Von
+Vonnetta Varnis;Vonnetta Varnis
+Vorkath;Vorkath
+Vorki;Vorki
+Vormar Vakan;Vormar Vakan
+Vornas quo Maten;Vornas quo Maten
+Vortas quo Keran;Vortas quo Keran
+Vritra;Vritra
+Vulcan Orvoros;Orvoros vulcain
+Vulture;Vautour
+Vyre Orator;Orateur de Vyre
+Vyrelady;Vyrelady
+Vyrelord;Vyrelord
+Vyrewatch;Vyregarde
+Vyrewatch Sentinel;Sentinelle de Vyrewatch
+Wagchin;Wagchin
 Wall beast;Bête murale
+Wallasalki;Wallasalki
+Wally;Wally
+Wanderer;Vagabond
+Wandering impling;Implant errant
+Warped Jelly;Gelée déformée
 Warrior;Guerrier
+Warrior of Murahs;Guerrier des Murahs
 Warrior woman;Femme guerrière
-Wemund;Wemund
-Wintertoad;Crapaud d'hiver
-Wizard Mizgog;Magicien Mizgog
-Yohnus;Yohnus
-Ysbeid;Ysbéid
-Waterfiend;Démon de l'eau
-White wolf;Loup blanc
-Yadviga;Yadviga
-Ymladd;Ymladd
-Ysgawyn;Ysgawyn
-Yuri;Youri
-White Chisel Secretary;Secrétaire au ciseau blanc
-Wily hellcat;Chat de l'enfer rusé
-Winter Soldier;Soldat de l'Hiver
-Woman;Femme
-Wormbrain;Cerveau de ver
-Yt-HurKot;Yt-HurKot
-Wesley;Wesley
-Witch's experiment (hard);Expérience de sorcière (difficile)
-Wyson the gardener;Wyson le jardinier
-Yellow Snow;Neige jaune
-Yt-MejKot;Yt-MejKot
-Wilough;Wilough
-Witch's experiment (second form) (hard);Expérience de sorcière (deuxième forme) (difficile)
-Wizard Distentor;Distendeur sorcier
-Woman-at-arms (hard);Femme d'armes (dur)
-Workman;Ouvrier
-Wise Old Man;Vieil homme sage
-Wizard Grayzag;Assistant Grayzag
-Wood Dryad;Dryade des bois
-Yenrab;Yenrab
-Weaponsmaster;Maître d'armes
-Witch's cat;Le chat de la sorcière
-Witch's experiment (second form);Expérience de sorcière (deuxième forme)
-Wolfbone;Os de loup
-Wydin;Wydin
+Watchman;Gardien
+Watchtower Wizard;Assistant de la Tour de Garde
+Water elemental;Élémentaire d'eau
 Water wizard;Assistant de l'eau
+Waterfiend;Démon de l'eau
+Watson;Watson
+Waydar;Waydar
+Waymottin;Waymottin
 Wayne;Wayne
 Weakened Delrith;Delrith affaibli
-Werewolf;Loup-garou
-Weve;Nous avons
-William;Guillaume
-Willow;Saule
-Wise Young Man;Jeune homme sage
-Witch;Sorcière
-Witch's experiment (third form);Expérience de sorcière (troisième forme)
-Xarpus;Xarpus
-Yak;Yak
-Yrsa;Yrsa
+Weaponsmaster;Maître d'armes
 Weird Old Man;Bizarre vieil homme
-Wingstone;Pierre d'aile
-Witch's experiment;Expérience de sorcière
-Wizard Frumscone;Sorcier Frumscone
-Wyvern display;Exposition de wyverne
-Yellow Fortune Secretary;Secrétaire de la Fortune Jaune
-Yellow Sheep;Mouton jaune
-Ystwyth;Ystwyth
-White golem;Golem blanc
-Wizard;Magicien
-Wizard Akutha;Sorcier Akutha
-Wolf;Loup
-Youngllef;Jeune fille
-Wild dog;Chien sauvage
-Witch's experiment (fourth form) (hard);Expérience de sorcière (quatrième forme) (difficile)
-Wurbel;Würbel
-Xorrah quo Sihar;Xorrah quo Sihar
-Young impling;Jeune putain
 Well-armed Foe;Ennemi bien armé
-Wily cat;Chat rusé
-Wizard Cromperty;Assistant Cromperty
-Woodsman tutor;Professeur de bûcheron
-Xamphur;Xamphur
-Young 'un;Jeune
-Watson;Watson
+Wemund;Wemund
 Wengra quo Sihar;Wengra quo Sihar
+Werewolf;Loup-garou
+Wesley;Wesley
+Weve;Nous avons
+Whirlpool;Tourbillon
+White Chisel Director;Directeur du ciseau blanc
+White Chisel Secretary;Secrétaire au ciseau blanc
 White Knight;Chevalier Blanc
+White golem;Golem blanc
+White wolf;Loup blanc
+Wild dog;Chien sauvage
 Wild kebbit;Kebbit sauvage
 Will o' the wisp;Will o' le feu follet
-Wizard Sinina;Sorcier Sinina
-Yanni Salika;Yanni Salika
-Yeti;Yéti
-Waydar;Waydar
-Winelda;Vinelda
-Winkin;Clin d'œil
-Witch's experiment (fourth form);Expérience de sorcière (quatrième forme)
-Yarsul;Yarsul
-White Chisel Director;Directeur du ciseau blanc
-Wingman Skree;Ailier Skree
-Witch's experiment (third form) (hard);Expérience de sorcière (troisième forme) (difficile)
-Wounded soldier;Soldat blessé
-Yellow Fortune Director;Directeur de Fortune Jaune
-Yulf Squecks;Yulf couine
-Waymottin;Waymottin
-Whirlpool;Tourbillon
+William;Guillaume
+Willow;Saule
+Wilough;Wilough
 Wilson;Wilson
+Wily cat;Chat rusé
+Wily hellcat;Chat de l'enfer rusé
+Winelda;Vinelda
+Wingman Skree;Ailier Skree
+Wingstone;Pierre d'aile
+Winkin;Clin d'œil
 Winter Elemental;Élémentaire d'hiver
+Winter Soldier;Soldat de l'Hiver
+Wintertoad;Crapaud d'hiver
+Wise Old Man;Vieil homme sage
+Wise Young Man;Jeune homme sage
 Wiskit;Wiskit
 Wistan;Wistan
+Witch;Sorcière
+Witch's cat;Le chat de la sorcière
+Witch's experiment;Expérience de sorcière
+Witch's experiment (fourth form);Expérience de sorcière (quatrième forme)
+Witch's experiment (fourth form) (hard);Expérience de sorcière (quatrième forme) (difficile)
+Witch's experiment (hard);Expérience de sorcière (difficile)
+Witch's experiment (second form);Expérience de sorcière (deuxième forme)
+Witch's experiment (second form) (hard);Expérience de sorcière (deuxième forme) (difficile)
+Witch's experiment (third form);Expérience de sorcière (troisième forme)
+Witch's experiment (third form) (hard);Expérience de sorcière (troisième forme) (difficile)
 Witchaven villager;Villageois du Havre des Sorcières
+Wizard;Magicien
+Wizard Akutha;Sorcier Akutha
+Wizard Cromperty;Assistant Cromperty
+Wizard Distentor;Distendeur sorcier
+Wizard Frumscone;Sorcier Frumscone
+Wizard Grayzag;Assistant Grayzag
+Wizard Mizgog;Magicien Mizgog
+Wizard Sinina;Sorcier Sinina
+Wolf;Loup
+Wolfbone;Os de loup
+Woman;Femme
+Woman-at-arms (hard);Femme d'armes (dur)
+Wood Dryad;Dryade des bois
+Woodsman tutor;Professeur de bûcheron
+Workman;Ouvrier
+Wormbrain;Cerveau de ver
+Wounded soldier;Soldat blessé
+Wurbel;Würbel
+Wydin;Wydin
 Wyrm;Wyrm
+Wyson the gardener;Wyson le jardinier
+Wyvern display;Exposition de wyverne
+Xamphur;Xamphur
+Xarpus;Xarpus
+Xorrah quo Sihar;Xorrah quo Sihar
+Yadviga;Yadviga
+Yak;Yak
+Yanni Salika;Yanni Salika
+Yarsul;Yarsul
+Yellow Fortune Director;Directeur de Fortune Jaune
+Yellow Fortune Secretary;Secrétaire de la Fortune Jaune
+Yellow Sheep;Mouton jaune
+Yellow Snow;Neige jaune
+Yenrab;Yenrab
+Yeti;Yéti
+Ymladd;Ymladd
+Yohnus;Yohnus
+Young 'un;Jeune
+Young impling;Jeune putain
+Youngllef;Jeune fille
+Yrsa;Yrsa
+Ysbeid;Ysbéid
+Ysgawyn;Ysgawyn
+Ystwyth;Ystwyth
+Yt-HurKot;Yt-HurKot
+Yt-MejKot;Yt-MejKot
+Yulf Squecks;Yulf couine
+Yuri;Youri
 Zakl'n Gritch;Zakl'n Gritch
+Zalcano;Zalcano
+Zamorak crafter;Artisan Zamorak
 Zamorak mage;Mage Zamorak
+Zamorak ranger;Ranger Zamorak
+Zamorak warrior;Guerrier Zamorak
+Zamorak wizard;Sorcier Zamorak
+Zogre;Zogre
 Zoja;Zoja
 Zombie;Zombi
 Zombie pirate;Pirate zombie
-Zamorak ranger;Ranger Zamorak
-Zamorak wizard;Sorcier Zamorak
 Zombie rat;Rat zombie
-Zamorak crafter;Artisan Zamorak
-Zogre;Zogre
-Zombies Champion;Champion des zombies
-Zygomite;Zygomite
-Zulrah;Zoulrah
-Zamorak warrior;Guerrier Zamorak
-Zombified Spawn;Apparition zombifiée
-Zalcano;Zalcano
 Zombie swab;Écouvillon zombie
+Zombies Champion;Champion des zombies
+Zombified Spawn;Apparition zombifiée
+Zulrah;Zoulrah
+Zygomite;Zygomite
