@@ -1,285 +1,285 @@
 Follow;Folgen
-Bank;Bank
-Examine;Prüfen
-Cancel;Stornieren
-Collect;Sammeln
-Trade with;Handeln Sie mit
 Sets;Sets
 Exchange;Austausch
 History;Geschichte
-Report;Bericht
-Talk-to;Reden
-Lookup;Nachschlagen
+Trade with;Handeln Sie mit
 Walk here;Gehen Sie hierher
+Examine;Prüfen
+Talk-to;Reden
+Bank;Bank
+Lookup;Nachschlagen
+Cancel;Stornieren
+Report;Bericht
+Collect;Sammeln
 Prices;Preise
 Drop;Fallen
 Decant;Dekantieren
 Use;Verwenden
-View <col=ff981f>Ranged</col> guide;<col=ff981f>Fernkampf</col>-Leitfaden ansehen
+View guide prices;Richtpreise ansehen
 View <col=ff981f>Farming</col> guide;Sehen Sie sich den Leitfaden <col=ff981f>Landwirtschaft</col> an
+Wiki;Wiki
+Add to canvas;Zur Leinwand hinzufügen
+View <col=ff981f>Agility</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Agilität</col> an
+View equipment stats;Ausrüstungsstatistiken anzeigen
+View <col=ff981f>Herblore</col> guide;Sehen Sie sich den <col=ff981f>Herblore</col>-Leitfaden an
+Remove;Entfernen
+View <col=ff981f>Magic</col> guide;Sehen Sie sich den <col=ff981f>Magic</col>-Leitfaden an
 View <col=ff981f>Sailing</col> guide;Sehen Sie sich den <col=ff981f>Segelführer</col> an
 Call follower;Follower anrufen
-View <col=ff981f>Construction</col> guide;<col=ff981f>Bauanleitung</col> ansehen
-Add to canvas;Zur Leinwand hinzufügen
-Remove;Entfernen
-View <col=ff981f>Runecraft</col> guide;Sehen Sie sich den <col=ff981f>Runecraft</col>-Leitfaden an
-View <col=ff981f>Magic</col> guide;Sehen Sie sich den <col=ff981f>Magic</col>-Leitfaden an
 View <col=ff981f>Thieving</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Diebstahl</col> an
-View <col=ff981f>Agility</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Agilität</col> an
 View <col=ff981f>Woodcutting</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Holzschneiden</col> an
-View guide prices;Richtpreise ansehen
-View <col=ff981f>Cooking</col> guide;Anleitung zum <col=ff981f>Kochen</col> ansehen
-View equipment stats;Ausrüstungsstatistiken anzeigen
-View <col=ff981f>Prayer</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Gebet</col> an
-View <col=ff981f>Herblore</col> guide;Sehen Sie sich den <col=ff981f>Herblore</col>-Leitfaden an
+View <col=ff981f>Construction</col> guide;<col=ff981f>Bauanleitung</col> ansehen
+View <col=ff981f>Ranged</col> guide;<col=ff981f>Fernkampf</col>-Leitfaden ansehen
 View items kept on death;Sehen Sie sich Gegenstände an, die beim Sterben aufbewahrt werden
-Wiki;Wiki
+View <col=ff981f>Runecraft</col> guide;Sehen Sie sich den <col=ff981f>Runecraft</col>-Leitfaden an
+View <col=ff981f>Cooking</col> guide;Anleitung zum <col=ff981f>Kochen</col> ansehen
 View <col=ff981f>Crafting</col> guide;<col=ff981f>Bastelanleitung</col> ansehen
+View <col=ff981f>Prayer</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Gebet</col> an
 Play;Spielen
-Skull;Schädel
 Rewards;Belohnungen
-View <col=ff981f>Mining</col> guide;<col=ff981f>Mining</col>-Leitfaden ansehen
-View <col=ff981f>Hunter</col> guide;<col=ff981f>Hunter</col>-Leitfaden ansehen
-View <col=ff981f>Slayer</col> guide;<col=ff981f>Slayer</col>-Anleitung ansehen
+Skull;Schädel
 View <col=ff981f>Strength</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Stärke</col> an
-View <col=ff981f>Hitpoints</col> guide;Sehen Sie sich den <col=ff981f>Hitpoints</col>-Leitfaden an
-View <col=ff981f>Smithing</col> guide;<col=ff981f>Schmiede</col>-Anleitung ansehen
 View <col=ff981f>Defence</col> guide;Sehen Sie sich den Leitfaden zur <col=ff981f>Verteidigung</col> an
+View <col=ff981f>Slayer</col> guide;<col=ff981f>Slayer</col>-Anleitung ansehen
+View <col=ff981f>Hunter</col> guide;<col=ff981f>Hunter</col>-Leitfaden ansehen
+View <col=ff981f>Hitpoints</col> guide;Sehen Sie sich den <col=ff981f>Hitpoints</col>-Leitfaden an
 View <col=ff981f>Fletching</col> guide;Anleitung zum <col=ff981f>Befiederung</col> ansehen
+View <col=ff981f>Mining</col> guide;<col=ff981f>Mining</col>-Leitfaden ansehen
 View <col=ff981f>Attack</col> guide;Anleitung zum <col=ff981f>Angriff</col> ansehen
-Open <col=ff9040>Ardougne Journal</col>;Öffnen Sie das <col=ff9040>Ardougne Journal</col>
-Read journal:;Tagebuch lesen:
-Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Wüstentagebuch</col>
+View <col=ff981f>Smithing</col> guide;<col=ff981f>Schmiede</col>-Anleitung ansehen
 View <col=ff981f>Firemaking</col> guide;Sehen Sie sich den Leitfaden <col=ff981f>Feuermachen</col> an
-Open <col=ff9040>Desert Journal</col>;Öffnen Sie <col=ff9040>Wüstenjournal</col>
-Show on map:;Auf der Karte anzeigen:
-Start Quest Helper;Starten Sie den Quest-Helfer
+Read journal:;Tagebuch lesen:
+Open wiki guide:;Wiki-Anleitung öffnen:
 Start Helper;Helfer starten
 Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
-Open wiki guide:;Wiki-Anleitung öffnen:
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Wüstentagebuch</col>
+Show on map:;Auf der Karte anzeigen:
+Start Quest Helper;Starten Sie den Quest-Helfer
 Open wiki quick guide:;Wiki-Kurzanleitung öffnen:
+Open <col=ff9040>Desert Journal</col>;Öffnen Sie <col=ff9040>Wüstenjournal</col>
+Open <col=ff9040>Ardougne Journal</col>;Öffnen Sie das <col=ff9040>Ardougne Journal</col>
 Collection Overview;Sammlungsübersicht
 Tasks;Aufgaben
 Achievement Diaries;Erfolgstagebücher
-Overview;Überblick
-Reveal;Aufdecken
 Bosses;Bosse
+Overview;Überblick
 Collection Log;Sammlungsprotokoll
+Reveal;Aufdecken
 Activate;Aktivieren
 View;Sicht
 Cast;Gießen
-Your Clan;Dein Clan
-Grouping;Gruppierung
 Setup;Aufstellen
-Grand Exchange;Großer Austausch
+Join;Verbinden
+Grouping;Gruppierung
 View another clan;Sehen Sie sich einen anderen Clan an
 Configure;Konfigurieren
-Join;Verbinden
-Punch;Stempel
-Toggle;Umschalten
-Auto retaliate;Automatische Vergeltung
-Settings;Einstellungen
+Grand Exchange;Großer Austausch
+Your Clan;Dein Clan
 Random;Zufällig
-Unlock hint;Hinweis zum Entsperren
-Block;Block
-Kick;Kick
+Toggle;Umschalten
 Manual;Handbuch
-Select;Wählen
+Auto retaliate;Automatische Vergeltung
+Block;Block
+Settings;Einstellungen
+Punch;Stempel
+Kick;Kick
+Unlock hint;Hinweis zum Entsperren
 I don't know it.;Ich weiß es nicht.
 Exit;Ausfahrt
+Select;Wählen
 View Inbox;Posteingang anzeigen
 Skills;Fähigkeiten
 View <col=ff981f>Fishing</col> guide;Sehen Sie sich den Leitfaden zum <col=ff981f>Angeln</col> an
-Worn Equipment;Abgenutzte Ausrüstung
-Enable spell reordering;Aktivieren Sie die Neuordnung von Zaubersprüchen
 Combat Options;Kampfoptionen
 Enable spell filtering;Aktivieren Sie die Zauberfilterung
 Disable prayer filtering;Deaktivieren Sie die Gebetsfilterung
-Quest List;Questliste
+Worn Equipment;Abgenutzte Ausrüstung
 Character Summary;Charakterzusammenfassung
+Enable spell reordering;Aktivieren Sie die Neuordnung von Zaubersprüchen
+Enable prayer reordering;Aktivieren Sie die Neuordnung der Gebete
+Quest List;Questliste
 Magic;Magie
 Prayer;Gebet
-Enable prayer reordering;Aktivieren Sie die Neuordnung der Gebete
 Show;Zeigen
-Deposit;Kaution
 Open Store;Store öffnen
+Deposit;Kaution
 Loot;Beute
 Destroy;Zerstören
 Music Player;Musik-Player
-Inventory;Inventar
 Chop down;Fällen
-<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Keine anzeigen
-Report abuse;Missbrauch melden
-World Switcher;Weltumschalter
-<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Keine anzeigen
-Display;Anzeige
+Inventory;Inventar
 Useful links;Nützliche Links
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Keine anzeigen
 <col=ffff00>Trade:</col> Show friends;<col=ffff00>Handel:</col> Freunden anzeigen
 Community;Gemeinschaft
-Audio;Audio
-<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Alle anzeigen
-<col=ffff00>Private:</col> Show all;<col=ffff00>Privat:</col> Alle anzeigen
-<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chat-Modus festlegen:</col> Gast-Clan (@gc)
-<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanal:</col> Verlauf löschen
-<col=ffff00>Private:</col> Clear history;<col=ffff00>Privat:</col> Verlauf löschen
-Account;Konto
-<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Freunde anzeigen
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Keine anzeigen
 <col=ffff00>Channel:</col> Show none;<col=ffff00>Kanal:</col> Keinen anzeigen
+Display;Anzeige
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privat:</col> Freunde anzeigen
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chat-Modus festlegen:</col> Clan (@c)
 Switch tab;Tab wechseln
-<col=ffff00>Public:</col> Show none;<col=ffff00>Öffentlich:</col> Keine anzeigen
-Friends List;Freundesliste
-<col=ffff00>Public:</col> Show friends;<col=ffff00>Öffentlich:</col> Freunde anzeigen
-Logout;Abmelden
-<col=ffff00>Public:</col> Show standard;<col=ffff00>Öffentlich:</col> Standard anzeigen
+Report game bug;Spielfehler melden
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privat:</col> Verlauf löschen
 <col=ffff00>Channel:</col> Show all;<col=ffff00>Kanal:</col> Alle anzeigen
+Configure filter;Filter konfigurieren
 Emotes;Emotes
+Account;Konto
 <col=ffff00>Public:</col> Show autochat;<col=ffff00>Öffentlich:</col> Autochat anzeigen
-<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chat-Modus festlegen:</col> Öffentlich (@p)
 <col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Verlauf löschen
+Report abuse;Missbrauch melden
+<col=ffff00>Public:</col> Show none;<col=ffff00>Öffentlich:</col> Keine anzeigen
+Ignore List;Ignorierliste
+<col=00ff00>Filter public chat</col>;<col=00ff00>Öffentlichen Chat filtern</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spiel:</col> Filter
+<col=00afff>Setup your autochat</col>;<col=00afff>Richten Sie Ihren Autochat ein</col>
+Take;Nehmen
 <col=ffff00>Private:</col> Show none;<col=ffff00>Privat:</col> Keine anzeigen
 <col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Alle anzeigen
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Freunde anzeigen
 Account Management;Kontoverwaltung
-<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chat-Modus festlegen:</col> Clan (@c)
-Report game bug;Spielfehler melden
-Ignore List;Ignorierliste
-<col=ffff00>Game:</col> Filter;<col=ffff00>Spiel:</col> Filter
+Chat-channel;Chat-Kanal
 <col=ffff00>Public:</col> Clear history;<col=ffff00>Öffentlich:</col> Verlauf löschen
-Configure filter;Filter konfigurieren
-<col=00ff00>Filter public chat</col>;<col=00ff00>Öffentlichen Chat filtern</col>
-Take;Nehmen
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Alle anzeigen
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanal:</col> Freunde anzeigen
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privat:</col> Alle anzeigen
+Logout;Abmelden
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chat-Modus festlegen:</col> Gast-Clan (@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanal:</col> Verlauf löschen
+Friends List;Freundesliste
+World Switcher;Weltumschalter
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Öffentlich:</col> Standard anzeigen
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chat-Modus festlegen:</col> Kanal (@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chat-Modus festlegen:</col> Öffentlich (@p)
 Controls;Kontrollen
 <col=ffff00>Public:</col> Hide;<col=ffff00>Öffentlich:</col> Ausblenden
-<col=00afff>Setup your autochat</col>;<col=00afff>Richten Sie Ihren Autochat ein</col>
-<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanal:</col> Freunde anzeigen
-<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chat-Modus festlegen:</col> Kanal (@f)
-<col=ffff00>Private:</col> Show friends;<col=ffff00>Privat:</col> Freunde anzeigen
-Chat-channel;Chat-Kanal
-Show on Map;Auf der Karte anzeigen
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Öffentlich:</col> Freunde anzeigen
 Close;Schließen
+Show on Map;Auf der Karte anzeigen
 Outside;Draußen
-Warnings;Warnungen
-Enable warning;Warnung aktivieren
-Seers';Seher
 Yanille;Yanille
+Warnings;Warnungen
+Seers';Seher
+Enable warning;Warnung aktivieren
 Animation;Animation
-Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
-Open <col=ff9040>Kourend & Kebos Journal</col>;Öffnen Sie das <col=ff9040>Kourend & Kebos Journal</col>
 Open <col=ff9040>Fremennik Journal</col>;Öffnen Sie das <col=ff9040>Fremennik-Journal</col>
-Open <col=ff9040>Karamja Journal</col>;Öffnen Sie das <col=ff9040>Karamja-Tagebuch</col>
-Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-Tagebuch</col>
-Open <col=ff9040>Falador Journal</col>;Öffnen Sie das <col=ff9040>Falador-Tagebuch</col>
 Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
-Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-Tagebuch</col>
-Open <col=ff9040>Kandarin Journal</col>;Öffnen Sie das <col=ff9040>Kandarin-Tagebuch</col>
-Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-Tagebuch</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Öffnen Sie das <col=ff9040>Karamja-Tagebuch</col>
 Open <col=ff9040>Lumbridge & Draynor Journal</col>;Öffnen Sie <col=ff9040>Lumbridge & Draynor Journal</col>
 Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador-Tagebuch</col>
-Learn More;Erfahren Sie mehr
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-Tagebuch</col>
+Open <col=ff9040>Kandarin Journal</col>;Öffnen Sie das <col=ff9040>Kandarin-Tagebuch</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-Tagebuch</col>
+Open <col=ff9040>Falador Journal</col>;Öffnen Sie das <col=ff9040>Falador-Tagebuch</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Öffnen Sie das <col=ff9040>Kourend & Kebos Journal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-Tagebuch</col>
+Bond Pouch;Bond-Beutel
 DPS;DPS
 Search;Suchen
-Bond Pouch;Bond-Beutel
-Pick;Wählen
+Learn More;Erfahren Sie mehr
 Open;Offen
+Pick;Wählen
 Join Castle Wars;Nehmen Sie an Castle Wars teil
-Climb-down;Abstieg
 Attack;Angriff
-Check;Überprüfen
-Rest;Ausruhen
-Tend-to;Tendenziell
-Build;Bauen
+Climb-down;Abstieg
 Travel;Reisen
+Rest;Ausruhen
+Build;Bauen
+Check;Überprüfen
+Tend-to;Tendenziell
 Add friend;Freund hinzufügen
 Add ignore;Ignorieren hinzufügen
-Items;Artikel
+Enter-guest;Enter-Gast
 Climb-up;Aufstieg
 Enter;Eingeben
-Enter-guest;Enter-Gast
 Enter-member;Enter-Mitglied
+Items;Artikel
 Knock-at;Anklopfen
 Smith;Schmied
-Continue;Weitermachen
 Pet;Haustier
 Shoo-away;Verjagen
+Continue;Weitermachen
 Trade;Handel
-1;1 
-Switch;Schalten
 Create <col=ff9040>Sell</col> offer;Erstellen Sie ein <col=ff9040>Verkaufsangebot</col>
-Create <col=ff9040>Buy</col> offer;Erstellen Sie ein <col=ff9040>Kaufangebot</col>
 Favourite;Favorit
+Switch;Schalten
 2;2 
+Create <col=ff9040>Buy</col> offer;Erstellen Sie ein <col=ff9040>Kaufangebot</col>
+1;1 
 Clear;Klar
 -5%;-5%
-View offer;Angebot ansehen
-+5%;+5 %
 Collect to inventory;Zum Inventar sammeln
-Confirm;Bestätigen
-Collect to bank;Auf die Bank einzahlen
-Abort offer;Angebot abbrechen
++5%;+5 %
 Modify offer;Angebot ändern
+Confirm;Bestätigen
+Abort offer;Angebot abbrechen
+View offer;Angebot ansehen
+Collect to bank;Auf die Bank einzahlen
 Enter price;Geben Sie den Preis ein
 Customise;Anpassen
 Guide price;Richtpreis
-+1;+1
-Enter quantity;Geben Sie die Menge ein
 All;Alle
+Enter quantity;Geben Sie die Menge ein
++1;+1
 Offer;Angebot
 Buy: 1 x Nature rune;Kaufen: 1 x Naturrune
 Buy-offer;Kaufangebot
 Chop-down;Abhacken
 Look North;Schauen Sie nach Norden
-Look West;Schauen Sie nach Westen
-Look East;Schauen Sie nach Osten
 Look South;Schauen Sie nach Süden
+Look East;Schauen Sie nach Osten
+Look West;Schauen Sie nach Westen
 Hide;Verstecken
 Cook;Kochen
 Refresh;Aktualisieren
 Message;Nachricht
-Delete Friend;Freund löschen
 Delete;Löschen
 Add Friend;Freund hinzufügen
+Delete Friend;Freund löschen
 Find;Finden
 Toggle Run;Ausführen umschalten
 Open subsection;Unterabschnitt öffnen
 Pickpocket;Taschendieb
 Claim-staves;Claim-Stäbe
+Rake;Rechen
 3;3 
 Inspect;Überprüfen
-Rake;Rechen
-Select <col=ff981f>Activities;Wählen Sie <col=ff981f>Aktivitäten
-Mute;Stumm
 Toggle unlock message;Entsperrmeldung umschalten
-All Settings;Alle Einstellungen
 Select <col=ff981f>Chat;Wählen Sie <col=ff981f>Chat
-Select <col=ff981f>Warnings;Wählen Sie <col=ff981f>Warnungen
-Select <col=ff981f>Display;Wählen Sie <col=ff981f>Anzeige
-Select <col=ff981f>Audio;Wählen Sie <col=ff981f>Audio
+Mute;Stumm
+All Settings;Alle Einstellungen
+Select <col=ff981f>Activities;Wählen Sie <col=ff981f>Aktivitäten
 Select <col=ff981f>Gameplay;Wählen Sie <col=ff981f>Gameplay
+Select <col=ff981f>Audio;Wählen Sie <col=ff981f>Audio
+Select <col=ff981f>Display;Wählen Sie <col=ff981f>Anzeige
+Select <col=ff981f>Warnings;Wählen Sie <col=ff981f>Warnungen
 View-journal;View-Tagebuch
 Stats;Statistiken
 Rummage;Stöbern
 Switch View;Ansicht wechseln
 Guide;Führung
-Release;Freigeben
 View tab;Registerkarte „Ansicht“.
-Withdraw-10;Rückzug-10
-Withdraw-All-but-1;Alle bis auf 1 zurückziehen
-Withdraw-10000;Abheben-10000
-Withdraw-X;Zurückziehen-X
-Withdraw-5;Rückzug-5
 Collapse tab;Registerkarte „Minimieren“.
-Remove placeholders;Platzhalter entfernen
-Withdraw-1;Rückzug-1
+Withdraw-X;Zurückziehen-X
+Withdraw-10000;Abheben-10000
+Withdraw-10;Rückzug-10
 Withdraw-All;Alles zurückziehen
-Rename tag tab;Tag-Registerkarte umbenennen
-Set custom quantity;Legen Sie eine benutzerdefinierte Menge fest
+Remove placeholders;Platzhalter entfernen
+Withdraw-5;Rückzug-5
+Withdraw-All-but-1;Alle bis auf 1 zurückziehen
+Withdraw-1;Rückzug-1
+Release;Freigeben
 Default quantity: 10,000;Standardmenge: 10.000
+Default quantity: 1;Standardmenge: 1
+Set custom quantity;Legen Sie eine benutzerdefinierte Menge fest
+View tag tab;Registerkarte „Tag anzeigen“.
+Rename tag tab;Tag-Registerkarte umbenennen
 Delete tag tab;Registerkarte „Tag löschen“.
 Default quantity: 10;Standardmenge: 10
-Change icon;Symbol ändern
-View tag tab;Registerkarte „Tag anzeigen“.
-Default quantity: 1;Standardmenge: 1
-Export tag tab;Registerkarte „Tag exportieren“.
 Enable layout;Layout aktivieren
+Change icon;Symbol ändern
+Export tag tab;Registerkarte „Tag exportieren“.
 Makeover;Umgestaltung
 Unlock;Entsperren
 Read;Lesen
@@ -295,475 +295,475 @@ Item;Artikel
 Note;Notiz
 Swap;Tauschen
 Insert;Einfügen
-Disable;Deaktivieren
-Deposit worn items;Tragen Sie abgenutzte Gegenstände ab
-Deposit inventory;Inventar hinterlegen
 Default quantity: All;Standardmenge: Alle
-Withdraw-14;Rückzug-14
+Deposit inventory;Inventar hinterlegen
+Deposit worn items;Tragen Sie abgenutzte Gegenstände ab
+Disable;Deaktivieren
 Default quantity: 5;Standardmenge: 5
-Default quantity: 14;Standardmenge: 14
+Withdraw-14;Rückzug-14
 Pay (Fruit tree);Bezahlen (Obstbaum)
-Dismantle;Demontieren
+Default quantity: 14;Standardmenge: 14
 Wield;Ausüben
 Wear;Tragen
-Fullscreen <col=ff9040>World Map</col>;Vollbild <col=ff9040>Weltkarte</col>
+Dismantle;Demontieren
 Minimise <col=ff9040>Minimap</col>;<col=ff9040>Minimap</col> minimieren
 Floating <col=ff9040>World Map</col>;Schwebende <col=ff9040>Weltkarte</col>
+Fullscreen <col=ff9040>World Map</col>;Vollbild <col=ff9040>Weltkarte</col>
 Castle Wars;Burgkriege
-Farm Teleport;Farm-Teleport
-Wintertodt Camp;Lager Wintertodt
-Tears of Guthix;Tränen von Guthix
-Open Activity Adviser;Öffnen Sie den Aktivitätsberater
 Collect-from;Abholung
+Tears of Guthix;Tränen von Guthix
+Farm Teleport;Farm-Teleport
+Pray-at;Beten
 Story;Geschichte
+Equip;Ausrüsten
+Wintertodt Camp;Lager Wintertodt
+Rub;Reiben
+Corporeal Beast;Körperliches Biest
+Monastery Teleport;Klosterteleport
+Fortis Colosseum;Fortis-Kolosseum
 Ferox Enclave;Ferox-Enklave
 Barbarian Outpost;Außenposten der Barbaren
-Burthorpe;Burthorpe
-Corporeal Beast;Körperliches Biest
-Equip;Ausrüsten
 Emir's Arena;Emir-Arena
-Pray-at;Beten
+Burthorpe;Burthorpe
 Drink;Trinken
-Monastery Teleport;Klosterteleport
-Rub;Reiben
-Fortis Colosseum;Fortis-Kolosseum
-Xeric's Lookout;Xerics Aussichtspunkt
-Teleport;Teleportieren
+Open Activity Adviser;Öffnen Sie den Aktivitätsberater
+Mine;Meins
 Uncharge;Entladen
+Xeric's Lookout;Xerics Aussichtspunkt
+Steal-from;Stehlen
+Xeric's Honour;Xerics Ehre
+Check steps;Überprüfen Sie die Schritte
+Teleport;Teleportieren
+Enable prayer filtering;Aktivieren Sie die Gebetsfilterung
+Trim;Trimmen
 Perform;Durchführen
+Loop;Schleife
+Xeric's Glade;Xerics Lichtung
+Xeric's Heart;Xerics Herz
 Remove default;Standard entfernen
 Xeric's Inferno;Xerics Inferno
-Enable prayer filtering;Aktivieren Sie die Gebetsfilterung
-Xeric's Honour;Xerics Ehre
-Steal-from;Stehlen
-Mine;Meins
-Check steps;Überprüfen Sie die Schritte
-Xeric's Glade;Xerics Lichtung
-Trim;Trimmen
-Xeric's Heart;Xerics Herz
-Loop;Schleife
-Deposit-10;Anzahlung-10
-Deposit Lock Settings;Einstellungen für die Einzahlungssperre
 Deposit-X;Einzahlung-X
-Default quantity: <col=ff9040>1</col>;Standardmenge: <col=ff9040>1</col>
 Deposit-All;Alles einzahlen
-Deposit-1;Anzahlung-1
 Default quantity: <col=ff9040>5</col>;Standardmenge: <col=ff9040>5</col>
-Deposit-5;Anzahlung-5
+Deposit Lock Settings;Einstellungen für die Einzahlungssperre
 Disable inventory locks;Deaktivieren Sie die Inventarsperren
+Deposit-10;Anzahlung-10
+Deposit-1;Anzahlung-1
+Deposit-5;Anzahlung-5
+Default quantity: <col=ff9040>1</col>;Standardmenge: <col=ff9040>1</col>
 Shave;Rasur
 Haircut;Haarschnitt
 Net;Netto
 Toggle Accept Aid;Schalten Sie „Hilfe annehmen“ um
-Eat;Essen
 Empty;Leer
-Clean;Sauber
+Eat;Essen
 Adventure Paths;Abenteuerpfade
+Clean;Sauber
 Smith set;Smith-Set
-Slash;Schrägstrich
-Placeholder;Platzhalter
 Stab;Stechen
 Lunge;Ausfallschritt
+Slash;Schrägstrich
+Placeholder;Platzhalter
 Name Changer;Namensänderung
 Upgrade Now;Jetzt upgraden
 Disable spell filtering;Deaktivieren Sie die Zauberfilterung
 Close <col=ff9040>Floating panel</col>;Schließen Sie das <col=ff9040>Floating Panel</col>
-Ironman;Ironman
-90 days;90 Tage
+Ultimate Ironman;Ultimativer Ironman
+7 days;7 Tage
+Hardcore Group Ironman;Hardcore-Gruppen-Ironman
 Unranked Group Ironman;Nicht gewerteter Gruppen-Ironman
 None;Keiner
 Group Ironman;Gruppe Ironman
-Ultimate Ironman;Ultimativer Ironman
+Ironman;Ironman
 Hardcore Ironman;Hardcore-Ironman
 Proceed;Fortfahren
-7 days;7 Tage
-Hardcore Group Ironman;Hardcore-Gruppen-Ironman
+90 days;90 Tage
 Top-floor;Obergeschoss
 Cross;Kreuzen
 Smelt;Stint
-Lure;Locken
-Toggle warnings;Warnungen umschalten
 Bait;Köder
+Toggle warnings;Warnungen umschalten
+Lure;Locken
 Buy;Kaufen
 Bury;Begraben
-Light;Licht
-Look at;Schauen Sie sich an
 Check Kudos;Überprüfen Sie das Lob
-Restore Default Zoom;Standardzoom wiederherstellen
-Select <col=ff981f>Controls;Wählen Sie <col=ff981f>Steuerelemente
-Toggle skull prevention;Schädelprävention umschalten
-Select <col=ff981f>Interfaces;Wählen Sie <col=ff981f>Schnittstellen
-Board;Planke
+Look at;Schauen Sie sich an
+Light;Licht
 Adjust Brightness;Helligkeit anpassen
+Select <col=ff981f>Controls;Wählen Sie <col=ff981f>Steuerelemente
+Board;Planke
 Grapple;Greifen
+Toggle skull prevention;Schädelprävention umschalten
+Restore Default Zoom;Standardzoom wiederherstellen
+Select <col=ff981f>Interfaces;Wählen Sie <col=ff981f>Schnittstellen
 Buy-X;Kaufen-X
 Potions;Zaubertränke
 Buy-5;Kaufen-5
-Buy-All;Alles kaufen
 Buy-1;Kaufen-1
-Show task: <col=ff9040>Getting started with Mining;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Mining
+Buy-All;Alles kaufen
+Show worn items;Getragene Artikel anzeigen
+Bottom-floor;Untergeschoss
+Locate;Lokalisieren
+Disable Adventure Paths;Abenteuerpfade deaktivieren
+Repair;Reparieren
 Show<col=ff9040> Task information;<col=ff9040> ​​Aufgabeninformationen anzeigen
 Expand;Expandieren
-Claim-trophies;Claim-Trophäen
-Show task: <col=ff9040>Getting started with Woodcutting;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Holzfällen
-Set<col=ff9040> Focus;Legen Sie<col=ff9040> ​​den Fokus fest
-Select <col=ff9040>Gatherer path;Wählen Sie <col=ff9040>Gatherer-Pfad
-Locate;Lokalisieren
-Show worn items;Getragene Artikel anzeigen
-Show task: <col=ff9040>Getting started with Fishing;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Angeln
-Disable Adventure Paths;Abenteuerpfade deaktivieren
-Check reward;Belohnung prüfen
+Show task: <col=ff9040>Getting started with Mining;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Mining
 More info;Weitere Informationen
-Bottom-floor;Untergeschoss
+Check reward;Belohnung prüfen
 Show<col=ff9040> Paths;<col=ff9040> ​​Pfade anzeigen
-Repair;Reparieren
+Claim-trophies;Claim-Trophäen
+Set<col=ff9040> Focus;Legen Sie<col=ff9040> ​​den Fokus fest
+Show task: <col=ff9040>Getting started with Fishing;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Angeln
+Select <col=ff9040>Gatherer path;Wählen Sie <col=ff9040>Gatherer-Pfad
+Show task: <col=ff9040>Getting started with Woodcutting;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit dem Holzfällen
 Pick-from;Auswählen
+Drop<col=ff9040> Focus;<col=ff9040> ​​Fokus fallen lassen
 Suck;Saugen
 Close dropdown;Dropdown-Liste schließen
 Select <col=ff9040>Combat path;Wählen Sie <col=ff9040>Kampfpfad
-Drop<col=ff9040> Focus;<col=ff9040> ​​Fokus fallen lassen
 Armour;Rüstung
-Show <col=ff9040>path reward;<col=ff9040>Pfadbelohnung anzeigen
 Show<col=ff9040> Settings;<col=ff9040>Einstellungen anzeigen
-Open Bond Pouch;Öffnen Sie den Bond-Beutel
+Show <col=ff9040>path reward;<col=ff9040>Pfadbelohnung anzeigen
 View House Options;Hausoptionen anzeigen
+Open Bond Pouch;Öffnen Sie den Bond-Beutel
+Empty containers;Leere Behälter
+Enable <col=ff9040>Notes;Aktivieren Sie <col=ff9040>Notizen
 Enable <col=ff9040>Insert;Aktivieren Sie <col=ff9040>Einfügen
 Age;Alter
-Empty containers;Leere Behälter
 Enable;Aktivieren
-Enable <col=ff9040>Notes;Aktivieren Sie <col=ff9040>Notizen
-Show task: <col=ff9040>Getting started with Ranged;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Ranged
+Open Adventure Paths;Offene Abenteuerpfade
+Show task: <col=ff9040>Sharpshooter;Aufgabe anzeigen: <col=ff9040>Scharfschütze
+Claim;Beanspruchen
+Show task: <col=ff9040>Getting started with Magic;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Magic
 Show task: <col=ff9040>Getting a grip on it;Aufgabe anzeigen: <col=ff9040>Das in den Griff bekommen
 Show task: <col=ff9040>Body builder;Aufgabe anzeigen: <col=ff9040>Karosseriebauer
-Show task: <col=ff9040>Getting started with Defence;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit der Verteidigung
-Show task: <col=ff9040>Sharpshooter;Aufgabe anzeigen: <col=ff9040>Scharfschütze
-Show task: <col=ff9040>Getting started with Magic;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Magic
-Show task: <col=ff9040>Bringer of chaos;Aufgabe anzeigen: <col=ff9040>Bringer des Chaos
-Show task: <col=ff9040>Getting started with Strength;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Stärke
-Claim;Beanspruchen
-Show task: <col=ff9040>Honing my aim;Aufgabe anzeigen: <col=ff9040>Mein Ziel verbessern
-Show task: <col=ff9040>Sticks and stones;Aufgabe anzeigen: <col=ff9040>Stöcke und Steine
-Show task: <col=ff9040>Striking a pose;Aufgabe anzeigen: <col=ff9040>Eine Pose einnehmen
-Show task: <col=ff9040>Weapons master;Aufgabe anzeigen: <col=ff9040>Waffenmeister
-Open Adventure Paths;Offene Abenteuerpfade
 Show task: <col=ff9040>Getting started with Attack;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Attack
-Show task: <col=ff9040>Mithril defence;Aufgabe anzeigen: <col=ff9040>Mithril-Verteidigung
+Show task: <col=ff9040>Striking a pose;Aufgabe anzeigen: <col=ff9040>Eine Pose einnehmen
+Show task: <col=ff9040>Honing my aim;Aufgabe anzeigen: <col=ff9040>Mein Ziel verbessern
+Show task: <col=ff9040>Bringer of chaos;Aufgabe anzeigen: <col=ff9040>Bringer des Chaos
 Show task: <col=ff9040>Building muscle;Aufgabe anzeigen: <col=ff9040>Muskeln aufbauen
+Show task: <col=ff9040>Mithril defence;Aufgabe anzeigen: <col=ff9040>Mithril-Verteidigung
+Show task: <col=ff9040>Getting started with Defence;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit der Verteidigung
+Show task: <col=ff9040>Getting started with Strength;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Stärke
+Show task: <col=ff9040>Sticks and stones;Aufgabe anzeigen: <col=ff9040>Stöcke und Steine
+Show task: <col=ff9040>Weapons master;Aufgabe anzeigen: <col=ff9040>Waffenmeister
+Show task: <col=ff9040>Getting started with Ranged;Aufgabe anzeigen: <col=ff9040>Erste Schritte mit Ranged
 Talk-To;Gesprächspartner
 Shut;Schließen
 Pay-toll(10gp);Mautgebühr (10 gp)
 Revert;Zurücksetzen
-Ironman Group;Ironman-Gruppe
 Deactivate;Deaktivieren
+Ironman Group;Ironman-Gruppe
+Predict;Vorhersagen
 Leave;Verlassen
 Copy-outfit;Copy-Outfit
-Predict;Vorhersagen
-Reanimate;Wiederbeleben
-Challenge;Herausforderung
-<col=ffff00>Group:</col> Show friends;<col=ffff00>Gruppe:</col> Freunde anzeigen
-Pass;Passieren
-<col=ffff00>Group:</col> Show none;<col=ffff00>Gruppe:</col> Keine anzeigen
-Jump;Springen
-<col=ffff00>Group:</col> Show all;<col=ffff00>Gruppe:</col> Alle anzeigen
-Quick Pass;Schneller Pass
 <col=ffff00>Group:</col> Clear history;<col=ffff00>Gruppe:</col> Verlauf löschen
+Jump;Springen
+Challenge;Herausforderung
+Reanimate;Wiederbeleben
+Quick Pass;Schneller Pass
+Pass;Passieren
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Gruppe:</col> Freunde anzeigen
+<col=ffff00>Group:</col> Show all;<col=ffff00>Gruppe:</col> Alle anzeigen
+<col=ffff00>Group:</col> Show none;<col=ffff00>Gruppe:</col> Keine anzeigen
 Quench;Löschen
-Group;Gruppe
-Inside;Innen
-Break;Brechen
 Withdraw-18;Rückzug-18
+Inside;Innen
 Home;Heim
+Group;Gruppe
 Deposit-18;Anzahlung-18
 Build mode;Build-Modus
-Friend's house;Das Haus eines Freundes
 Resurrect;Auferstehen
-Equipment;Ausrüstung
+Friend's house;Das Haus eines Freundes
+Break;Brechen
 Rest (private);Ruhe (privat)
-Sort;Sortieren
+Equipment;Ausrüstung
 Check Charges;Überprüfen Sie die Gebühren
+Sort;Sortieren
 Catch;Fangen
 Pick-lots;Pick-Lots
 A Dark Disposition;Eine dunkle Veranlagung
-Lunch by the Lancalliums;Mittagessen bei den Lancalliums
-Take Spade;Nimm Spaten
-History and Hearsay;Geschichte und Hörensagen
 Jewellery of Jubilation;Schmuck des Jubels
-Touch;Berühren
-Store;Speichern
-Take Seed Dibber;Nehmen Sie Seed Dibber
 Store-X;Store-X
-Private;Privat
-Store-5;Store-5
-Upgrade;Upgrade
+Touch;Berühren
+Lunch by the Lancalliums;Mittagessen bei den Lancalliums
+Store;Speichern
 Reminisce;Erinnern Sie sich
-Take Rake;Nimm Rake
-The Fisher's Flute;Die Fischerflöte
-Quick-pass;Schneller Pass
-Store-10;Store-10
-Withdraw;Zurückziehen
-Withdraw all;Alle zurückziehen
-Store-All;Store-All
-Deposit all;Zahlen Sie alles ein
 Shared;Geteilt
 Dig;Graben
+Store-5;Store-5
+Take Seed Dibber;Nehmen Sie Seed Dibber
+Withdraw all;Alle zurückziehen
+Upgrade;Upgrade
+Withdraw;Zurückziehen
+The Fisher's Flute;Die Fischerflöte
+Store-All;Store-All
+Take Spade;Nimm Spaten
+Take Rake;Nimm Rake
+Deposit all;Zahlen Sie alles ein
+Quick-pass;Schneller Pass
+History and Hearsay;Geschichte und Hörensagen
+Store-10;Store-10
+Private;Privat
 Spin;Drehen
 Churn;Abwanderung
 Shear;Scheren
 Close Activity Adviser;Aktivitätsberater schließen
 Chart;Diagramm
 Last-destination (AIP);Letztes Ziel (AIP)
-Zanaris;Zanaris
 Zoom out;Herauszoomen
-Buy 10;Kaufen Sie 10
-Buy 1;Kaufen Sie 1
-Buy 5;Kaufen Sie 5
-Buy-50;Kaufen-50
+Zanaris;Zanaris
 Buy 50;Kaufen Sie 50
 Value;Wert
-Take-axe;Nehmen Sie die Axt
+Buy 10;Kaufen Sie 10
+Buy 1;Kaufen Sie 1
+Buy-50;Kaufen-50
+Buy 5;Kaufen Sie 5
 Climb-over;Überklettern
-Steal-cowbell;Kuhglocke stehlen
 Milk;Milch
+Take-axe;Nehmen Sie die Axt
+Steal-cowbell;Kuhglocke stehlen
 View Newspost;Newsbeitrag anzeigen
 View History;Verlauf anzeigen
 New tab;Neuer Tab
+Collapse;Zusammenbruch
 New tag tab;Neuer Tag-Tab
 Import tag tab;Registerkarte „Tag importieren“.
-View journal <col=ff981f>The Restless Ghost</col>;Tagebuch <col=ff981f>The Restless Ghost</col> ansehen
-Collapse;Zusammenbruch
 View tag tabs;Tag-Registerkarten anzeigen
+View journal <col=ff981f>The Restless Ghost</col>;Tagebuch <col=ff981f>The Restless Ghost</col> ansehen
 View all items;Alle Artikel anzeigen
 Rotate-clockwise;Im Uhrzeigersinn drehen
-Change;Ändern
-Release-bees;Freilassungsbienen
 Pick-up;Abholen
 Rotate-anticlockwise;Gegen den Uhrzeigersinn drehen
+Release-bees;Freilassungsbienen
 Dig-up;Ausgraben
+Change;Ändern
+Remove board advert;Board-Werbung entfernen
+Teleport Menu;Teleport-Menü
 Attach;Befestigen
 Lock;Sperren
-Metamorphosis;Metamorphose
-Configuration;Konfiguration
 Sit-on;Sitzen
-Remove board advert;Board-Werbung entfernen
-Fill;Füllen
-Great Kourend;Großer Kourend
+Metamorphosis;Metamorphose
 Fossil Island;Fossile Insel
+Configuration;Konfiguration
 Teleport menu;Teleport-Menü
-Teleport Menu;Teleport-Menü
+Great Kourend;Großer Kourend
+Fill;Füllen
 Chop;Hacken
 View journal <col=ff981f>X Marks the Spot</col>;Tagebuch ansehen <col=ff981f>X Marks the Spot</col>
-Sell 5<col=ff9040>;Verkaufe 5<col=ff9040>
-Feel;Fühlen
 Sell 50<col=ff9040>;Verkaufe 50<col=ff9040>
-Sell 1<col=ff9040>;Verkaufe 1<col=ff9040>
-Value<col=ff9040>;Wert<col=ff9040>
-Buy-10;Kaufen-10
 Sell 10<col=ff9040>;Verkaufe 10<col=ff9040>
-Hitpoints;Trefferpunkte
-Crafting;Basteln
-Fletching;Befiederung
-Fishing;Angeln
-Slayer;Jäger
+Sell 1<col=ff9040>;Verkaufe 1<col=ff9040>
+Buy-10;Kaufen-10
+Value<col=ff9040>;Wert<col=ff9040>
+Feel;Fühlen
+Sell 5<col=ff9040>;Verkaufe 5<col=ff9040>
 Steal from;Stehlen von
 Herblore;Pflanzenkunde
-Farming;Landwirtschaft
-Construction;Konstruktion
-Agility;Beweglichkeit
+Strength;Stärke
 Woodcutting;Holzfällerei
-Sailing;Segeln
+Farming;Landwirtschaft
+Crafting;Basteln
+Hitpoints;Trefferpunkte
 View journal <col=ff981f>Cook's Assistant</col>;Tagebuch <col=ff981f>Cook's Assistant</col> ansehen
+Fishing;Angeln
+Construction;Konstruktion
 Climb-into;Einsteigen
 Mining;Bergbau
-Strength;Stärke
 Ranged;Fernkampf
+Slayer;Jäger
+Agility;Beweglichkeit
+Fletching;Befiederung
+Sailing;Segeln
 Operate;Arbeiten
 View journal <col=ff981f>Romeo & Juliet</col>;Tagebuch <col=ff981f>Romeo und Julia</col> ansehen
 Take-flyer;Take-Flyer
 +100;+100
-Choose item;Artikel auswählen
 +10;+10
 -1;-1
 Back;Zurück
 +1K;+1K
+Choose item;Artikel auswählen
 Flash icons;Flash-Symbole
 Sacrifice;Opfern
 Take-All;Take-All
 Jump-in;Einspringen
 View journal <col=ff981f>Rune Mysteries</col>;Tagebuch <col=ff981f>Rune Mysteries</col> ansehen
-Pass-Through;Durchgang
 Coffer;Truhe
 Picklock;Dietrich
 Switch world;Welt wechseln
+Pass-Through;Durchgang
 Small Net;Kleines Netz
 Okay;Okay
 Perform <col=ff9040>Relic unlock</col>;Führen Sie <col=ff9040>Reliktfreischaltung</col> durch
-Abierto;Abierto
 Comercio;Comercio
-Examinar;Prüfer
-Cerca;Cerca
-Ataque;Ataque
-Buscar;Buscar
-Hablar con;Hablar con
 Carterista;Carterista
+Examinar;Prüfer
 Caminar aqui;Kam hierher
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
 Tronchar;Tronchar
+Hablar con;Hablar con
 Take-Coffin;Take-Sarg
-Make;Machen
-5;5 
 Pay;Zahlen
 Other quantity;Andere Menge
-Jump-up;Aufspringen
-Balance;Gleichgewicht
-Check Name;Überprüfen Sie den Namen
-Scatter;Streuen
+5;5 
+Make;Machen
 Move;Bewegen
+Jump-up;Aufspringen
+Scatter;Streuen
+Check Name;Überprüfen Sie den Namen
+Balance;Gleichgewicht
 Contents;Inhalt
 Talk to;Reden Sie mit
 Zoom in;Vergrößern
 Useful Links;Nützliche Links
-10;10 
 Burn;Brennen
+10;10 
 Stornieren;Stornieren
-Pray;Beten
-Group: Previous;Gruppe: Vorherige
 Group: Choose;Gruppe: Wählen Sie
+Group: Previous;Gruppe: Vorherige
+Pray;Beten
 Investigate;Untersuchen
 Jump-onto;Aufspringen
 Withdraw-500;Abheben-500
-Grab;Greifen
-Move-right;Nach rechts bewegen
-View Ignore List;Ignorierliste anzeigen
-Move-down;Nach unten bewegen
 Move-left;Nach links bewegen
+Grab;Greifen
+Move-down;Nach unten bewegen
+View Ignore List;Ignorierliste anzeigen
+Move-right;Nach rechts bewegen
 Move-up;Aufstieg
-Add-All<col=ff9040>;Alles hinzufügen<col=ff9040>
-Remove-legs;Beine entfernen
-Add<col=ff9040>;Fügen Sie<col=ff9040> ​​hinzu
-Add-5<col=ff9040>;Add-5<col=ff9040>
 Look-inside;Schauen Sie hinein
+Add-5<col=ff9040>;Add-5<col=ff9040>
+Remove-legs;Beine entfernen
 Add-X<col=ff9040>;Add-X<col=ff9040>
 Add-10<col=ff9040>;Add-10<col=ff9040>
+Add-All<col=ff9040>;Alles hinzufügen<col=ff9040>
+Add<col=ff9040>;Fügen Sie<col=ff9040> ​​hinzu
 Deposit-500;Anzahlung: 500
 Check charges;Gebühren prüfen
 Default quantity: 500;Standardmenge: 500
+Filter;Filter
 Load-outs;Ausladungen
 Done;Erledigt
-Filter;Filter
-Hide menu;Menü ausblenden
+Show tutorial;Tutorial anzeigen
 Scroll down;Scrollen Sie nach unten
+Hide menu;Menü ausblenden
 Cancel downgrade;Downgrade abbrechen
 View tab ;Registerkarte „Ansicht“.
-Show tutorial;Tutorial anzeigen
-Show menu;Menü anzeigen
 Scroll up;Scrollen Sie nach oben
-Make<col=ff9040> Dugout canoe;Machen Sie einen<col=ff9040>Einbaum
-Shape-Canoe;Form-Kanu
+Show menu;Menü anzeigen
 Paddle Canoe;Paddelkanu
-Float Log;Float Log
+Shape-Canoe;Form-Kanu
 Make<col=ff9040> Log canoe;Baue ein<col=ff9040>Holzkanu
 Paddle Log;Paddelprotokoll
+Float Log;Float Log
 Travel to<col=ff9040> Champions Guild;Reise zur<col=ff9040>Champions Guild
+Make<col=ff9040> Dugout canoe;Machen Sie einen<col=ff9040>Einbaum
+Jump-over;Über etwas springen
 Quit;Aufhören
 Grave info;Grabinformationen
-Jump-over;Über etwas springen
 Details;Details
 Report for;Bericht für
+Fire;Feuer
 Steal-From;Stehlen
 Redeem-code;Code einlösen
-Fire;Feuer
 Holiday-items;Urlaubsartikel
 Visit-Last;Besuch-Letzter
 Add-House;Add-House
 Add/Remove House;Haus hinzufügen/entfernen
-Big Net;Großes Netz
-Enter House;Betreten Sie das Haus
 Harpoon;Harpune
 4;4 
-View Poll;Umfrage ansehen
 View Archive;Archiv anzeigen
+Enter House;Betreten Sie das Haus
+View Poll;Umfrage ansehen
+Big Net;Großes Netz
 Walk-up;Walk-up
 Claim-Tokens;Claim-Tokens
 Animate;Animieren
-Take-from;Take-from
 Fish-in;Einfischen
-Rotate;Drehen
+Take-from;Take-from
 Look;Suchen
-Rub-together;Aneinander reiben
+Rotate;Drehen
 Pick-lock;Dietrich
 Extinguish;Löschen
+Rub-together;Aneinander reiben
 Unmute;Stummschaltung aufheben
-Stat Bonus;Statistikbonus
-Set Bonus;Bonus festlegen
 View DPS on OSRS Wiki;Sehen Sie sich DPS im OSRS-Wiki an
+Set Bonus;Bonus festlegen
 Hide worn items;Verstecken Sie abgenutzte Gegenstände
-Squeeze-through;Durchdrücken
-Ride;Fahrt
+Stat Bonus;Statistikbonus
 Tickets;Tickets
+Ride;Fahrt
+Squeeze-through;Durchdrücken
 Kill;Töten
 No;NEIN
 Area;Bereich
 Yes;Ja
-Collect-item;Sammelgegenstand
-Disable <col=ff9040>Notes;Deaktivieren Sie <col=ff9040>Notizen
 View missing items ;Fehlende Artikel anzeigen
 Collect-note;Sammelnotiz
-Sell: 1 x Bronze med helm;Verkaufe: 1 x Bronzemed Helm
+Collect-item;Sammelgegenstand
+Disable <col=ff9040>Notes;Deaktivieren Sie <col=ff9040>Notizen
 Info;Info
+Sell: 1 x Bronze med helm;Verkaufe: 1 x Bronzemed Helm
 Pick-Lock;Dietrich
 Collect-items;Sammelgegenstände
 Collect-notes;Notizen sammeln
-Release them all;Lass sie alle frei
 Release all placeholders (12);Alle Platzhalter freigeben (12)
-Prune-back;Zurückschneiden
+Release them all;Lass sie alle frei
 Prune-top;Prune-Top
 Prune;Prune
+Prune-back;Zurückschneiden
 Prune-sides;Pflaumenseiten
-Tan <col=ff7000>5;Hellbraun <col=ff7000>5
-Tan <col=ff7000>All;Hellbraun <col=ff7000>Alle
-Tan <col=ff7000>1;Braun <col=ff7000>1
 Tan <col=ff7000>X;Hellbraun <col=ff7000>X
+Tan <col=ff7000>5;Hellbraun <col=ff7000>5
+Tan <col=ff7000>1;Braun <col=ff7000>1
+Tan <col=ff7000>All;Hellbraun <col=ff7000>Alle
 Smithing;Schmieden
 Remove-X;Entfernen-X
-Remove-All;Alles entfernen
-Remove-5;Entfernen-5
 Remove-10;Entfernen-10
+Remove-5;Entfernen-5
+Remove-All;Alles entfernen
 Hunter;Jäger
 Firemaking;Feuer machen
 Enable <col=ff9040>Swap;<col=ff9040>Swap aktivieren
 Add all;Alles hinzufügen
 Release all placeholders (1);Alle Platzhalter freigeben (1)
 Buy: 160 x Cowhide;Kaufen: 160 x Rindsleder
-Sell: 195 x Leather;Verkaufe: 195 x Leder
 Set price;Preis festlegen
+Sell: 195 x Leather;Verkaufe: 195 x Leder
 Sell: 175 x Leather;Verkaufe: 175 x Leder
 Buy: 10 x Air tiara;Kaufen Sie: 10 x Lufttiara
 Buy: 2 x Ring mould;Kaufen Sie: 2 x Ringform
-Set wiki price;Legen Sie den Wiki-Preis fest
-Set quantity;Menge einstellen
 pic;Bild
+Set quantity;Menge einstellen
+Set wiki price;Legen Sie den Wiki-Preis fest
 Accept trade;Akzeptieren Sie den Handel
 Accept;Akzeptieren
 Buy: 1 x Mithril gold-trimmed set (lg);Kaufen: 1 x Mithril-Set mit Goldbesatz (lg)
 Buy: 15 x Diamond;Kaufen: 15 x Diamant
-Buy: 55 x Emerald;Kaufen: 55 x Smaragd
 Sell: 55 x Emerald;Verkaufe: 55 x Smaragd
-Buy: 34 x Ruby necklace;Kaufen Sie: 34 x Rubinhalskette
+Buy: 55 x Emerald;Kaufen: 55 x Smaragd
 Buy: 1 x Poison;Kaufen: 1 x Gift
+Buy: 34 x Ruby necklace;Kaufen Sie: 34 x Rubinhalskette
 Search for item;Artikel suchen
 Sell: 124 x Tuna;Verkauf: 124 x Thunfisch
 Buy: 1 x Rune axe;Kaufen: 1 x Runenaxt
 Sell: 83 x Energy potion(4);Verkaufen: 83 x Energietrank(4)
 Check-Count;Check-Count
 Bash;Bash
-Pound;Pfund
 Earth Bolt;Erdbolzen
-Fire Strike;Feuerschlag
-Choose spell;Wähle Zauber
-Fire Bolt;Feuerblitz
-Fire Blast;Feuerstoß
-Earth Blast;Erdstoß
 Earth Wave;Erdwelle
 Water Blast;Wasserstrahl
+Fire Blast;Feuerstoß
+Fire Strike;Feuerschlag
+Pound;Pfund
+Earth Blast;Erdstoß
+Choose spell;Wähle Zauber
+Fire Bolt;Feuerblitz
 Push;Drücken
 Quantity:;Menge:
 View Smithing on the Wiki;Sehen Sie sich Smithing im Wiki an
@@ -773,109 +773,123 @@ View <col=ff9040>Mining</col> guide;<col=ff9040>Mining</col>-Leitfaden ansehen
 Buy: 600 x Hammer;Kaufen: 600 x Hammer
 Pick refreshment;Wählen Sie eine Erfrischung
 Focus;Fokus
-Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania-Tagebuch</col>
-Open <col=ff9040>Western Provinces Journal</col>;Öffnen Sie <col=ff9040>Western Provinces Journal</col>
 Open <col=ff9040>Morytania Journal</col>;Öffnen Sie das <col=ff9040>Morytania-Tagebuch</col>
-Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Western Provinces Journal</col>
-Open <col=ff9040>Varrock Journal</col>;Öffnen Sie das <col=ff9040>Varrock-Tagebuch</col>
+Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania-Tagebuch</col>
 Wiki <col=ff9040>Varrock Journal</col>;Wiki <col=ff9040>Varrock-Tagebuch</col>
-Disturb;Stören
+Open <col=ff9040>Varrock Journal</col>;Öffnen Sie das <col=ff9040>Varrock-Tagebuch</col>
+Open <col=ff9040>Western Provinces Journal</col>;Öffnen Sie <col=ff9040>Western Provinces Journal</col>
+Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Western Provinces Journal</col>
 Peek;Spähen
-Examiner;Prüfer
+Disturb;Stören
 Annuler;Annullierer
 Marcher ici;Marcher hier
+Examiner;Prüfer
 Add-mulch;Mulch hinzufügen
 Reset;Zurücksetzen
 Top-Floor;Oberste Etage
 Hit;Schlag
-Warriors' Guild;Kriegergilde
 Karamja;Karamja
-Commune;Kommune
-Monastery;Kloster
 Draynor Village;Draynor-Dorf
-Champions' Guild;Gilde der Champions
-Edgeville;Edgeville
 Al Kharid;Al-Kharid
+Monastery;Kloster
 Ranging Guild;Ranging-Gilde
-Lay;Legen
-Land's End;Land's End
-Port Sarim;Port Sarim
+Commune;Kommune
+Warriors' Guild;Kriegergilde
+Edgeville;Edgeville
+Champions' Guild;Gilde der Champions
 Craft;Handwerk
-Take-last-cargo;Nimm die letzte Ladung
-Port Piscarilius;Hafen Piscarilius
-Sort-salvage;Sortieren-Bergung
-Cancel-task;Aufgabe abbrechen
-Take-any-cargo;Nehmen Sie jede Ladung mit
+Lay;Legen
+Port Sarim;Port Sarim
+Land's End;Land's End
 Claim-rewards;Anspruchsprämien
-Board-previous;Vorstand-vorheriger
 Take-cargo;Take-Cargo
-Board-friend;Vorstandsfreund
+Take-any-cargo;Nehmen Sie jede Ladung mit
+Port Piscarilius;Hafen Piscarilius
+Cancel-task;Aufgabe abbrechen
 Charter;Charta
+Sort-salvage;Sortieren-Bergung
+Take-last-cargo;Nimm die letzte Ladung
+Board-previous;Vorstand-vorheriger
+Board-friend;Vorstandsfreund
 Dock;Dock
 Make sets:;Machen Sie Sets:
 Smash;Zerschlagen
 Fur Clothing;Pelzbekleidung
-WOM lookup;WOM-Suche
+Brimhaven;Brimhaven
+Aldarin;Aldarin
 Taverley;Taverley
+Default quantity: 200,000,000;Standardmenge: 200.000.000
+Prifddinas;Prifddinas
+Lock-slot;Schlossschlitz
+Pollnivneach;Pollnivneach
+Take-all;Nimm alles
+Rellekka;Rellekka
+Tele to POH;Tele an POH
+Check-health;Check-Gesundheit
+Hosidius;Hosidius
+WOM lookup;WOM-Suche
+Unload;Entladen
 Contract;Vertrag
+Withdraw-200000000;Abheben-200000000
 Rimmington;Rimmington
 Deposit-200000000;Anzahlung-200000000
-Prifddinas;Prifddinas
-Pollnivneach;Pollnivneach
-Tele to POH;Tele an POH
-Lock-slot;Schlossschlitz
-Default quantity: 200,000,000;Standardmenge: 200.000.000
-Take-all;Nimm alles
-Check-health;Check-Gesundheit
-Rellekka;Rellekka
-Unload;Entladen
-Brimhaven;Brimhaven
-Withdraw-200000000;Abheben-200000000
-Hosidius;Hosidius
-Aldarin;Aldarin
 Deposit-14;Anzahlung-14
 Purchase Amulet;Kaufen Sie Amulett
 Drink-from;Trinken aus
 Float Canoe;Float-Kanu
-Make<col=ff9040> Stable dugout canoe;Machen Sie<col=ff9040> ​​ein stabiles Einbaumkanu
 Travel to<col=ff9040> Lumbridge;Reisen Sie nach<col=ff9040>Lumbridge
+Make<col=ff9040> Stable dugout canoe;Machen Sie<col=ff9040> ​​ein stabiles Einbaumkanu
 Walk-Down;Heruntergehen
 Walk-Up;Walk-Up
-Thieving;Diebstahl
 Defence;Verteidigung
+Thieving;Diebstahl
 Excavate;Ausgraben
 Take-knife;Nimm-Messer
+Play-d;Play-d
 Take-tinderbox;Take-Zunderbüchse
+Play-f;Play-f
 Play-a;Play-a
 Play-c;Play-c
+Observe;Beobachten
 Play-b;Play-b
 Play-e;Spielen-e
-Play-d;Play-d
 Play-g;Spiel-g
-Play-f;Play-f
-Observe;Beobachten
-Switch-onyx;Schalter-Onyx
-Switch-diamond;Schalter-Diamant
-Switch-zenyte;Switch-Zenyte
-Switch-ruby;Schalter-Rubin
 Switch-emerald;Schalter-Smaragd
+Switch-diamond;Schalter-Diamant
 Switch-sapphire;Switch-Saphir
+Switch-zenyte;Switch-Zenyte
+Switch-onyx;Schalter-Onyx
+Switch-ruby;Schalter-Rubin
 Fight;Kämpfen
 Toggle K/D;K/D umschalten
 Take-seed;Nimm-Samen
 Take-pickaxe;Take-Spitzhacke
 Dyes;Farbstoffe
-Informe;Informieren
-Deposit-50000;Anzahlung: 50.000
 Anadir ignorar;Anadir ignoriert
 Withdraw-50000;Abheben-50000
-Anadir amigo;Anadir Amigo
+Informe;Informieren
 activar;Aktivar
-Longrange;Langstrecken
+Anadir amigo;Anadir Amigo
+Deposit-50000;Anzahlung: 50.000
 Accurate;Genau
-Talk-into;Reden
+Longrange;Langstrecken
 Prod;Prod
+Talk-into;Reden
 Glider;Segelflugzeug
 Glider-to Ta Quir Priw;Segelflugzeug nach Ta Quir Priw
 Travel to<col=ff9040> Barbarian Village;Reise zum <col=ff9040>Barbarendorf
 Travel to<col=ff9040> Edgeville;Reisen Sie nach<col=ff9040>Edgeville
+Downgrade;Downgrade
+Buy: 1 x Dragon axe;Kaufen: 1 x Drachenaxt
+Seers' Village;Dorf der Seher
+Camelot;Camelot
+Deposit-120000;Anzahlung: 120.000
+Withdraw-120000;Abheben-120000
+Gehen Sie hier;Gehen Sie hier
+Reden mit;Reden mit
+Prüfen;Prüfen
+Schließen;Schließen
+Tutorial;Anleitung
+Open in browser;Im Browser öffnen
+Pass (private);Pass (privat)
+Pass (normal);Bestanden (normal)

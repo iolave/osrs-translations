@@ -1,285 +1,285 @@
 Follow;Volgen
-Bank;Bank
-Examine;Onderzoeken
-Cancel;Annuleren
-Collect;Verzamelen
-Trade with;Handel mee
 Sets;Stelt in
 Exchange;Aandelenbeurs
 History;Geschiedenis
-Report;Rapport
-Talk-to;Praat mee
-Lookup;Opzoeken
+Trade with;Handel mee
 Walk here;Loop hier
+Examine;Onderzoeken
+Talk-to;Praat mee
+Bank;Bank
+Lookup;Opzoeken
+Cancel;Annuleren
+Report;Rapport
+Collect;Verzamelen
 Prices;Prijzen
 Drop;Druppel
 Decant;Decanteren
 Use;Gebruik
-View <col=ff981f>Ranged</col> guide;Bekijk de <col=ff981f>Ranged</col>-gids
+View guide prices;Bekijk richtprijzen
 View <col=ff981f>Farming</col> guide;Bekijk de gids <col=ff981f>Boeren</col>
+Wiki;Wiki
+Add to canvas;Toevoegen aan canvas
+View <col=ff981f>Agility</col> guide;Bekijk de <col=ff981f>Agility</col>-gids
+View equipment stats;Bekijk uitrustingsstatistieken
+View <col=ff981f>Herblore</col> guide;Bekijk de <col=ff981f>Herblore</col>-gids
+Remove;Verwijderen
+View <col=ff981f>Magic</col> guide;Bekijk de <col=ff981f>Magische</col>-gids
 View <col=ff981f>Sailing</col> guide;Bekijk de <col=ff981f>Zeilgids</col>
 Call follower;Bel volger
-View <col=ff981f>Construction</col> guide;Bekijk de <col=ff981f>Bouw</col> handleiding
-Add to canvas;Toevoegen aan canvas
-Remove;Verwijderen
-View <col=ff981f>Runecraft</col> guide;Bekijk de <col=ff981f>Runecraft</col>-gids
-View <col=ff981f>Magic</col> guide;Bekijk de <col=ff981f>Magische</col>-gids
 View <col=ff981f>Thieving</col> guide;Bekijk de <col=ff981f>Thieving</col>-gids
-View <col=ff981f>Agility</col> guide;Bekijk de <col=ff981f>Agility</col>-gids
 View <col=ff981f>Woodcutting</col> guide;Bekijk de gids <col=ff981f>Houtsnijden</col>
-View guide prices;Bekijk richtprijzen
-View <col=ff981f>Cooking</col> guide;Bekijk de <col=ff981f>Kookgids</col>
-View equipment stats;Bekijk uitrustingsstatistieken
-View <col=ff981f>Prayer</col> guide;Bekijk de gids <col=ff981f>Gebeden</col>
-View <col=ff981f>Herblore</col> guide;Bekijk de <col=ff981f>Herblore</col>-gids
+View <col=ff981f>Construction</col> guide;Bekijk de <col=ff981f>Bouw</col> handleiding
+View <col=ff981f>Ranged</col> guide;Bekijk de <col=ff981f>Ranged</col>-gids
 View items kept on death;Bekijk items die bij overlijden worden bewaard
-Wiki;Wiki
+View <col=ff981f>Runecraft</col> guide;Bekijk de <col=ff981f>Runecraft</col>-gids
+View <col=ff981f>Cooking</col> guide;Bekijk de <col=ff981f>Kookgids</col>
 View <col=ff981f>Crafting</col> guide;Bekijk de <col=ff981f>Crafting</col>-gids
+View <col=ff981f>Prayer</col> guide;Bekijk de gids <col=ff981f>Gebeden</col>
 Play;Toneelstuk
-Skull;Schedel
 Rewards;Beloningen
-View <col=ff981f>Mining</col> guide;Bekijk de gids voor <col=ff981f>Mijnbouw</col>
-View <col=ff981f>Hunter</col> guide;Bekijk de <col=ff981f>Hunter</col>-gids
-View <col=ff981f>Slayer</col> guide;Bekijk de <col=ff981f>Slayer</col>-gids
+Skull;Schedel
 View <col=ff981f>Strength</col> guide;Bekijk de <col=ff981f>Kracht</col>-gids
-View <col=ff981f>Hitpoints</col> guide;Bekijk de <col=ff981f>Hitpoints</col>-gids
-View <col=ff981f>Smithing</col> guide;Bekijk de <col=ff981f>Smiding</col>-gids
 View <col=ff981f>Defence</col> guide;Bekijk de gids <col=ff981f>Verdediging</col>
+View <col=ff981f>Slayer</col> guide;Bekijk de <col=ff981f>Slayer</col>-gids
+View <col=ff981f>Hunter</col> guide;Bekijk de <col=ff981f>Hunter</col>-gids
+View <col=ff981f>Hitpoints</col> guide;Bekijk de <col=ff981f>Hitpoints</col>-gids
 View <col=ff981f>Fletching</col> guide;Bekijk de <col=ff981f>Fletching</col>-gids
+View <col=ff981f>Mining</col> guide;Bekijk de gids voor <col=ff981f>Mijnbouw</col>
 View <col=ff981f>Attack</col> guide;Bekijk de <col=ff981f>Aanval</col>-gids
-Open <col=ff9040>Ardougne Journal</col>;Open <col=ff9040>Ardougne Journal</col>
-Read journal:;Journaal lezen:
-Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Woestijnjournaal</col>
+View <col=ff981f>Smithing</col> guide;Bekijk de <col=ff981f>Smiding</col>-gids
 View <col=ff981f>Firemaking</col> guide;Bekijk de <col=ff981f>Vuurmaken</col> handleiding
-Open <col=ff9040>Desert Journal</col>;Open <col=ff9040>Woestijnjournaal</col>
-Show on map:;Toon op kaart:
-Start Quest Helper;Zoektochthelper starten
+Read journal:;Journaal lezen:
+Open wiki guide:;Wikigids openen:
 Start Helper;Helper starten
 Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
-Open wiki guide:;Wikigids openen:
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Woestijnjournaal</col>
+Show on map:;Toon op kaart:
+Start Quest Helper;Zoektochthelper starten
 Open wiki quick guide:;Wiki-korte handleiding openen:
+Open <col=ff9040>Desert Journal</col>;Open <col=ff9040>Woestijnjournaal</col>
+Open <col=ff9040>Ardougne Journal</col>;Open <col=ff9040>Ardougne Journal</col>
 Collection Overview;Collectieoverzicht
 Tasks;Taken
 Achievement Diaries;Prestatiedagboeken
-Overview;Overzicht
-Reveal;Onthullen
 Bosses;Bazen
+Overview;Overzicht
 Collection Log;Verzamellogboek
+Reveal;Onthullen
 Activate;Activeren
 View;Weergave
 Cast;Vorm
-Your Clan;Jouw clan
-Grouping;Groepering
 Setup;Installatie
-Grand Exchange;Grote Beurs
+Join;Meedoen
+Grouping;Groepering
 View another clan;Bekijk een andere clan
 Configure;Configureer
-Join;Meedoen
-Punch;Pons
-Toggle;Schakelaar
-Auto retaliate;Automatische vergelding
-Settings;Instellingen
+Grand Exchange;Grote Beurs
+Your Clan;Jouw clan
 Random;Willekeurig
-Unlock hint;Ontgrendel hint
-Block;Blok
-Kick;Trap
+Toggle;Schakelaar
 Manual;Handmatig
-Select;Selecteer
+Auto retaliate;Automatische vergelding
+Block;Blok
+Settings;Instellingen
+Punch;Pons
+Kick;Trap
+Unlock hint;Ontgrendel hint
 I don't know it.;Ik weet het niet.
 Exit;Uitgang
+Select;Selecteer
 View Inbox;Bekijk Postvak IN
 Skills;Vaardigheden
 View <col=ff981f>Fishing</col> guide;Bekijk de <col=ff981f>Visserij</col> gids
-Worn Equipment;Versleten uitrusting
-Enable spell reordering;Schakel het opnieuw ordenen van spellingen in
 Combat Options;Gevechtsopties
 Enable spell filtering;Schakel spellingfiltering in
 Disable prayer filtering;Schakel gebedsfiltering uit
-Quest List;Questlijst
+Worn Equipment;Versleten uitrusting
 Character Summary;Karaktersamenvatting
+Enable spell reordering;Schakel het opnieuw ordenen van spellingen in
+Enable prayer reordering;Schakel het opnieuw ordenen van gebeden in
+Quest List;Questlijst
 Magic;Magie
 Prayer;Gebed
-Enable prayer reordering;Schakel het opnieuw ordenen van gebeden in
 Show;Show
-Deposit;Borg
 Open Store;Winkel openen
+Deposit;Borg
 Loot;Buit
 Destroy;Vernietigen
 Music Player;Muziekspeler
-Inventory;Inventaris
 Chop down;Hak neer
-<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Geen tonen
-Report abuse;Misbruik melden
-World Switcher;Wereldwisselaar
-<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Geen tonen
-Display;Weergave
+Inventory;Inventaris
 Useful links;Nuttige links
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Geen tonen
 <col=ffff00>Trade:</col> Show friends;<col=ffff00>Ruilen:</col> Laat vrienden zien
 Community;Gemeenschap
-Audio;Audio
-<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Toon alles
-<col=ffff00>Private:</col> Show all;<col=ffff00>Privé:</col> Alles weergeven
-<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chatmodus instellen:</col> Gastclan (@gc)
-<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanaal:</col> Geschiedenis wissen
-<col=ffff00>Private:</col> Clear history;<col=ffff00>Privé:</col> Geschiedenis wissen
-Account;Rekening
-<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Toon vrienden
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Geen tonen
 <col=ffff00>Channel:</col> Show none;<col=ffff00>Kanaal:</col> Geen tonen
+Display;Weergave
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privé:</col> Laat vrienden zien
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chatmodus instellen:</col> Clan (@c)
 Switch tab;Van tabblad wisselen
-<col=ffff00>Public:</col> Show none;<col=ffff00>Openbaar:</col> Geen tonen
-Friends List;Vriendenlijst
-<col=ffff00>Public:</col> Show friends;<col=ffff00>Openbaar:</col> Toon vrienden
-Logout;Uitloggen
-<col=ffff00>Public:</col> Show standard;<col=ffff00>Openbaar:</col> Toon standaard
+Report game bug;Spelfout melden
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privé:</col> Geschiedenis wissen
 <col=ffff00>Channel:</col> Show all;<col=ffff00>Kanaal:</col> Toon alles
+Configure filter;Configureer filter
 Emotes;Emotes
+Account;Rekening
 <col=ffff00>Public:</col> Show autochat;<col=ffff00>Openbaar:</col> Autochat tonen
-<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chatmodus instellen:</col> Openbaar (@p)
 <col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Geschiedenis wissen
+Report abuse;Misbruik melden
+<col=ffff00>Public:</col> Show none;<col=ffff00>Openbaar:</col> Geen tonen
+Ignore List;Lijst negeren
+<col=00ff00>Filter public chat</col>;<col=00ff00>Openbare chat filteren</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filter
+<col=00afff>Setup your autochat</col>;<col=00afff>Stel uw autochat in</col>
+Take;Nemen
 <col=ffff00>Private:</col> Show none;<col=ffff00>Privé:</col> Geen tonen
 <col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Toon alles
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Toon vrienden
 Account Management;Accountbeheer
-<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chatmodus instellen:</col> Clan (@c)
-Report game bug;Spelfout melden
-Ignore List;Lijst negeren
-<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filter
+Chat-channel;Chat-kanaal
 <col=ffff00>Public:</col> Clear history;<col=ffff00>Openbaar:</col> Geschiedenis wissen
-Configure filter;Configureer filter
-<col=00ff00>Filter public chat</col>;<col=00ff00>Openbare chat filteren</col>
-Take;Nemen
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Toon alles
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanaal:</col> Toon vrienden
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privé:</col> Alles weergeven
+Logout;Uitloggen
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chatmodus instellen:</col> Gastclan (@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanaal:</col> Geschiedenis wissen
+Friends List;Vriendenlijst
+World Switcher;Wereldwisselaar
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Openbaar:</col> Toon standaard
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chatmodus instellen:</col> Kanaal (@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chatmodus instellen:</col> Openbaar (@p)
 Controls;Controles
 <col=ffff00>Public:</col> Hide;<col=ffff00>Openbaar:</col> Verbergen
-<col=00afff>Setup your autochat</col>;<col=00afff>Stel uw autochat in</col>
-<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanaal:</col> Toon vrienden
-<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chatmodus instellen:</col> Kanaal (@f)
-<col=ffff00>Private:</col> Show friends;<col=ffff00>Privé:</col> Laat vrienden zien
-Chat-channel;Chat-kanaal
-Show on Map;Toon op kaart
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Openbaar:</col> Toon vrienden
 Close;Dichtbij
+Show on Map;Toon op kaart
 Outside;Buiten
-Warnings;Waarschuwingen
-Enable warning;Waarschuwing inschakelen
-Seers';zieners
 Yanille;Yanille
+Warnings;Waarschuwingen
+Seers';zieners
+Enable warning;Waarschuwing inschakelen
 Animation;Animatie
-Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
-Open <col=ff9040>Kourend & Kebos Journal</col>;Open <col=ff9040>Kourend & Kebos Journaal</col>
 Open <col=ff9040>Fremennik Journal</col>;Open <col=ff9040>Fremennik Journal</col>
-Open <col=ff9040>Karamja Journal</col>;Open <col=ff9040>Karamja-dagboek</col>
-Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-dagboek</col>
-Open <col=ff9040>Falador Journal</col>;Open <col=ff9040>Falador Journaal</col>
 Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
-Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-tijdschrift</col>
-Open <col=ff9040>Kandarin Journal</col>;Open <col=ff9040>Kandarin-dagboek</col>
-Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-dagboek</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Open <col=ff9040>Karamja-dagboek</col>
 Open <col=ff9040>Lumbridge & Draynor Journal</col>;Open <col=ff9040>Lumbridge & Draynor Journal</col>
 Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador-dagboek</col>
-Learn More;Meer informatie
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-tijdschrift</col>
+Open <col=ff9040>Kandarin Journal</col>;Open <col=ff9040>Kandarin-dagboek</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-dagboek</col>
+Open <col=ff9040>Falador Journal</col>;Open <col=ff9040>Falador Journaal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Open <col=ff9040>Kourend & Kebos Journaal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-dagboek</col>
+Bond Pouch;Bond-zakje
 DPS;DPS
 Search;Zoekopdracht
-Bond Pouch;Bond-zakje
-Pick;Kies
+Learn More;Meer informatie
 Open;Open
+Pick;Kies
 Join Castle Wars;Sluit je aan bij Castle Wars
-Climb-down;Klim naar beneden
 Attack;Aanval
-Check;Rekening
-Rest;Rest
-Tend-to;Neiging tot
-Build;Bouwen
+Climb-down;Klim naar beneden
 Travel;Reis
+Rest;Rest
+Build;Bouwen
+Check;Rekening
+Tend-to;Neiging tot
 Add friend;Vriend toevoegen
 Add ignore;Voeg negeren toe
-Items;Artikelen
+Enter-guest;Enter-gast
 Climb-up;Klim omhoog
 Enter;Binnenkomen
-Enter-guest;Enter-gast
 Enter-member;Enter-lid
+Items;Artikelen
 Knock-at;Klop-op
 Smith;Smit
-Continue;Doorgaan
 Pet;Huisdier
 Shoo-away;Schiet weg
+Continue;Doorgaan
 Trade;Handel
-1;1 
-Switch;Schakelaar
 Create <col=ff9040>Sell</col> offer;Maak een <col=ff9040>Verkoop</col> aanbieding
-Create <col=ff9040>Buy</col> offer;Maak een <col=ff9040>Koop</col> aanbieding
 Favourite;Favoriet
+Switch;Schakelaar
 2;2 
+Create <col=ff9040>Buy</col> offer;Maak een <col=ff9040>Koop</col> aanbieding
+1;1 
 Clear;Duidelijk
 -5%;-5%
-View offer;Bekijk aanbieding
-+5%;+5%
 Collect to inventory;Verzamel naar inventaris
-Confirm;Bevestigen
-Collect to bank;Verzamelen naar de bank
-Abort offer;Aanbieding afbreken
++5%;+5%
 Modify offer;Aanbieding aanpassen
+Confirm;Bevestigen
+Abort offer;Aanbieding afbreken
+View offer;Bekijk aanbieding
+Collect to bank;Verzamelen naar de bank
 Enter price;Voer prijs in
 Customise;Pas aan
 Guide price;Richtprijs
-+1;+1
-Enter quantity;Voer het aantal in
 All;Alle
+Enter quantity;Voer het aantal in
++1;+1
 Offer;Aanbod
 Buy: 1 x Nature rune;Koop: 1 x Natuurrune
 Buy-offer;Koop-aanbieding
 Chop-down;Afhaken
 Look North;Kijk naar het noorden
-Look West;Kijk naar het westen
-Look East;Kijk naar het oosten
 Look South;Kijk naar het zuiden
+Look East;Kijk naar het oosten
+Look West;Kijk naar het westen
 Hide;Verbergen
 Cook;Kok
 Refresh;Vernieuwen
 Message;Bericht
-Delete Friend;Vriend verwijderen
 Delete;Verwijderen
 Add Friend;Vriend toevoegen
+Delete Friend;Vriend verwijderen
 Find;Vinden
 Toggle Run;Schakel Uitvoeren in
 Open subsection;Onderafdeling openen
 Pickpocket;Zakkenroller
 Claim-staves;Claim-stokken
+Rake;Hark
 3;3 
 Inspect;Inspecteren
-Rake;Hark
-Select <col=ff981f>Activities;Selecteer <col=ff981f>Activiteiten
-Mute;Stom
 Toggle unlock message;Schakel het ontgrendelingsbericht in
-All Settings;Alle instellingen
 Select <col=ff981f>Chat;Selecteer <col=ff981f>Chatten
-Select <col=ff981f>Warnings;Selecteer <col=ff981f>Waarschuwingen
-Select <col=ff981f>Display;Selecteer <col=ff981f>Weergeven
-Select <col=ff981f>Audio;Selecteer <col=ff981f>Audio
+Mute;Stom
+All Settings;Alle instellingen
+Select <col=ff981f>Activities;Selecteer <col=ff981f>Activiteiten
 Select <col=ff981f>Gameplay;Selecteer <col=ff981f>Gameplay
+Select <col=ff981f>Audio;Selecteer <col=ff981f>Audio
+Select <col=ff981f>Display;Selecteer <col=ff981f>Weergeven
+Select <col=ff981f>Warnings;Selecteer <col=ff981f>Waarschuwingen
 View-journal;Bekijk-dagboek
 Stats;Statistieken
 Rummage;Snuffelen
 Switch View;Weergave wijzigen
 Guide;Gids
-Release;Uitgave
 View tab;Tabblad bekijken
-Withdraw-10;Intrekken-10
-Withdraw-All-but-1;Trek-alles-behalve-1 terug
-Withdraw-10000;Intrekken-10000
-Withdraw-X;Intrekken-X
-Withdraw-5;Intrekken-5
 Collapse tab;Tabblad samenvouwen
-Remove placeholders;Tijdelijke aanduidingen verwijderen
-Withdraw-1;Intrekken-1
+Withdraw-X;Intrekken-X
+Withdraw-10000;Intrekken-10000
+Withdraw-10;Intrekken-10
 Withdraw-All;Alles intrekken
-Rename tag tab;Hernoem het tagtabblad
-Set custom quantity;Aangepaste hoeveelheid instellen
+Remove placeholders;Tijdelijke aanduidingen verwijderen
+Withdraw-5;Intrekken-5
+Withdraw-All-but-1;Trek-alles-behalve-1 terug
+Withdraw-1;Intrekken-1
+Release;Uitgave
 Default quantity: 10,000;Standaardhoeveelheid: 10.000
+Default quantity: 1;Standaardhoeveelheid: 1
+Set custom quantity;Aangepaste hoeveelheid instellen
+View tag tab;Tabblad Tag bekijken
+Rename tag tab;Hernoem het tagtabblad
 Delete tag tab;Tabblad Tag verwijderen
 Default quantity: 10;Standaardhoeveelheid: 10
-Change icon;Pictogram wijzigen
-View tag tab;Tabblad Tag bekijken
-Default quantity: 1;Standaardhoeveelheid: 1
-Export tag tab;Tabblad Exporttag
 Enable layout;Indeling inschakelen
+Change icon;Pictogram wijzigen
+Export tag tab;Tabblad Exporttag
 Makeover;Make-over
 Unlock;Ontgrendelen
 Read;Lezen
@@ -295,475 +295,475 @@ Item;Item
 Note;Opmerking
 Swap;Ruil
 Insert;Invoegen
-Disable;Uitzetten
-Deposit worn items;Bewaar versleten artikelen
-Deposit inventory;Inventaris deponeren
 Default quantity: All;Standaardhoeveelheid: Alles
-Withdraw-14;Intrekken-14
+Deposit inventory;Inventaris deponeren
+Deposit worn items;Bewaar versleten artikelen
+Disable;Uitzetten
 Default quantity: 5;Standaardhoeveelheid: 5
-Default quantity: 14;Standaardhoeveelheid: 14
+Withdraw-14;Intrekken-14
 Pay (Fruit tree);Betalen (Fruitboom)
-Dismantle;Ontmantelen
+Default quantity: 14;Standaardhoeveelheid: 14
 Wield;Hanteren
 Wear;Dragen
-Fullscreen <col=ff9040>World Map</col>;Volledig scherm <col=ff9040>Wereldkaart</col>
+Dismantle;Ontmantelen
 Minimise <col=ff9040>Minimap</col>;Minimaliseer <col=ff9040>Minimap</col>
 Floating <col=ff9040>World Map</col>;Zwevende <col=ff9040>Wereldkaart</col>
+Fullscreen <col=ff9040>World Map</col>;Volledig scherm <col=ff9040>Wereldkaart</col>
 Castle Wars;Kasteeloorlogen
-Farm Teleport;Boerderij Teleport
-Wintertodt Camp;Wintertodt-kamp
-Tears of Guthix;Tranen van Guthix
-Open Activity Adviser;Open activiteitenadviseur
 Collect-from;Verzamel-van
+Tears of Guthix;Tranen van Guthix
+Farm Teleport;Boerderij Teleport
+Pray-at;Bid-bij
 Story;Verhaal
+Equip;Uitrusten
+Wintertodt Camp;Wintertodt-kamp
+Rub;Wrijven
+Corporeal Beast;Lichamelijk beest
+Monastery Teleport;Klooster Teleport
+Fortis Colosseum;FortisColosseum
 Ferox Enclave;Ferox-enclave
 Barbarian Outpost;Barbaarse buitenpost
-Burthorpe;Burthorpe
-Corporeal Beast;Lichamelijk beest
-Equip;Uitrusten
 Emir's Arena;Emir's Arena
-Pray-at;Bid-bij
+Burthorpe;Burthorpe
 Drink;Drankje
-Monastery Teleport;Klooster Teleport
-Rub;Wrijven
-Fortis Colosseum;FortisColosseum
-Xeric's Lookout;Xerics uitkijkpost
-Teleport;Teleporteren
+Open Activity Adviser;Open activiteitenadviseur
+Mine;De mijne
 Uncharge;Ontladen
+Xeric's Lookout;Xerics uitkijkpost
+Steal-from;Steel-van
+Xeric's Honour;Xerics eer
+Check steps;Controleer stappen
+Teleport;Teleporteren
+Enable prayer filtering;Schakel gebedsfiltering in
+Trim;Trimmen
 Perform;Presteren
+Loop;Lus
+Xeric's Glade;Xerics Glade
+Xeric's Heart;Xerics hart
 Remove default;Standaard verwijderen
 Xeric's Inferno;Xerics Inferno
-Enable prayer filtering;Schakel gebedsfiltering in
-Xeric's Honour;Xerics eer
-Steal-from;Steel-van
-Mine;De mijne
-Check steps;Controleer stappen
-Xeric's Glade;Xerics Glade
-Trim;Trimmen
-Xeric's Heart;Xerics hart
-Loop;Lus
-Deposit-10;Borg-10
-Deposit Lock Settings;Instellingen voor stortingsvergrendeling
 Deposit-X;Storting-X
-Default quantity: <col=ff9040>1</col>;Standaard aantal: <col=ff9040>1</col>
 Deposit-All;Storting-Alles
-Deposit-1;Borg-1
 Default quantity: <col=ff9040>5</col>;Standaard aantal: <col=ff9040>5</col>
-Deposit-5;Storting-5
+Deposit Lock Settings;Instellingen voor stortingsvergrendeling
 Disable inventory locks;Schakel voorraadvergrendelingen uit
+Deposit-10;Borg-10
+Deposit-1;Borg-1
+Deposit-5;Storting-5
+Default quantity: <col=ff9040>1</col>;Standaard aantal: <col=ff9040>1</col>
 Shave;Scheren
 Haircut;Kapsel
 Net;Netto
 Toggle Accept Aid;Schakel Hulp accepteren in
-Eat;Eten
 Empty;Leeg
-Clean;Schoon
+Eat;Eten
 Adventure Paths;Avonturenpaden
+Clean;Schoon
 Smith set;Smit ingesteld
-Slash;Snij
-Placeholder;Tijdelijke aanduiding
 Stab;Steken
 Lunge;Longe
+Slash;Snij
+Placeholder;Tijdelijke aanduiding
 Name Changer;Naamwisselaar
 Upgrade Now;Upgrade nu
 Disable spell filtering;Schakel spellingfiltering uit
 Close <col=ff9040>Floating panel</col>;Sluit <col=ff9040>Zwevend paneel</col>
-Ironman;Ijzerman
-90 days;90 dagen
+Ultimate Ironman;Ultieme Ironman
+7 days;7 dagen
+Hardcore Group Ironman;Hardcoregroep Ironman
 Unranked Group Ironman;Niet-gerangschikte groep Ironman
 None;Geen
 Group Ironman;Groep Ironman
-Ultimate Ironman;Ultieme Ironman
+Ironman;Ijzerman
 Hardcore Ironman;Harde Ironman
 Proceed;Doorgaan
-7 days;7 dagen
-Hardcore Group Ironman;Hardcoregroep Ironman
+90 days;90 dagen
 Top-floor;Bovenste verdieping
 Cross;Kruis
 Smelt;Spiering
-Lure;Lokken
-Toggle warnings;Schakel waarschuwingen in
 Bait;Aas
+Toggle warnings;Schakel waarschuwingen in
+Lure;Lokken
 Buy;Kopen
 Bury;Begraven
-Light;Licht
-Look at;Kijken naar
 Check Kudos;Controleer complimenten
-Restore Default Zoom;Herstel standaardzoom
-Select <col=ff981f>Controls;Selecteer <col=ff981f>Besturingselementen
-Toggle skull prevention;Schakel schedelpreventie in of uit
-Select <col=ff981f>Interfaces;Selecteer <col=ff981f>Interfaces
-Board;Bord
+Look at;Kijken naar
+Light;Licht
 Adjust Brightness;Pas de helderheid aan
+Select <col=ff981f>Controls;Selecteer <col=ff981f>Besturingselementen
+Board;Bord
 Grapple;Grijper
+Toggle skull prevention;Schakel schedelpreventie in of uit
+Restore Default Zoom;Herstel standaardzoom
+Select <col=ff981f>Interfaces;Selecteer <col=ff981f>Interfaces
 Buy-X;Koop-X
 Potions;Drankjes
 Buy-5;Koop-5
-Buy-All;Koop-alles
 Buy-1;Koop-1
-Show task: <col=ff9040>Getting started with Mining;Taak weergeven: <col=ff9040>Aan de slag met mijnbouw
+Buy-All;Koop-alles
+Show worn items;Laat gedragen items zien
+Bottom-floor;Benedenverdieping
+Locate;Lokaliseren
+Disable Adventure Paths;Schakel avonturenpaden uit
+Repair;Reparatie
 Show<col=ff9040> Task information;Toon<col=ff9040> ​​Taakinformatie
 Expand;Uitbreiden
-Claim-trophies;Claim-trofeeën
-Show task: <col=ff9040>Getting started with Woodcutting;Taak weergeven: <col=ff9040>Aan de slag met houtsnijden
-Set<col=ff9040> Focus;Stel<col=ff9040> ​​Focus in
-Select <col=ff9040>Gatherer path;Selecteer <col=ff9040>Verzamelaarpad
-Locate;Lokaliseren
-Show worn items;Laat gedragen items zien
-Show task: <col=ff9040>Getting started with Fishing;Taak weergeven: <col=ff9040>Aan de slag met vissen
-Disable Adventure Paths;Schakel avonturenpaden uit
-Check reward;Controleer beloning
+Show task: <col=ff9040>Getting started with Mining;Taak weergeven: <col=ff9040>Aan de slag met mijnbouw
 More info;Meer informatie
-Bottom-floor;Benedenverdieping
+Check reward;Controleer beloning
 Show<col=ff9040> Paths;Toon<col=ff9040> ​​paden
-Repair;Reparatie
+Claim-trophies;Claim-trofeeën
+Set<col=ff9040> Focus;Stel<col=ff9040> ​​Focus in
+Show task: <col=ff9040>Getting started with Fishing;Taak weergeven: <col=ff9040>Aan de slag met vissen
+Select <col=ff9040>Gatherer path;Selecteer <col=ff9040>Verzamelaarpad
+Show task: <col=ff9040>Getting started with Woodcutting;Taak weergeven: <col=ff9040>Aan de slag met houtsnijden
 Pick-from;Pick-van
+Drop<col=ff9040> Focus;Laat de focus vallen<col=ff9040>
 Suck;Zuigen
 Close dropdown;Sluit de vervolgkeuzelijst
 Select <col=ff9040>Combat path;Selecteer <col=ff9040>Gevechtspad
-Drop<col=ff9040> Focus;Laat de focus vallen<col=ff9040>
 Armour;Pantser
-Show <col=ff9040>path reward;Toon <col=ff9040>padbeloning
 Show<col=ff9040> Settings;Toon<col=ff9040> ​​Instellingen
-Open Bond Pouch;Open Bond-zakje
+Show <col=ff9040>path reward;Toon <col=ff9040>padbeloning
 View House Options;Bekijk huisopties
+Open Bond Pouch;Open Bond-zakje
+Empty containers;Lege containers
+Enable <col=ff9040>Notes;Schakel <col=ff9040>Notities in
 Enable <col=ff9040>Insert;Schakel <col=ff9040>Invoegen in
 Age;Leeftijd
-Empty containers;Lege containers
 Enable;Inschakelen
-Enable <col=ff9040>Notes;Schakel <col=ff9040>Notities in
-Show task: <col=ff9040>Getting started with Ranged;Taak weergeven: <col=ff9040>Aan de slag met Ranged
+Open Adventure Paths;Open avonturenpaden
+Show task: <col=ff9040>Sharpshooter;Taak weergeven: <col=ff9040>Scherpschutter
+Claim;Claim
+Show task: <col=ff9040>Getting started with Magic;Taak weergeven: <col=ff9040>Aan de slag met Magic
 Show task: <col=ff9040>Getting a grip on it;Toon taak: <col=ff9040>Er grip op krijgen
 Show task: <col=ff9040>Body builder;Taak weergeven: <col=ff9040>Bodybuilder
-Show task: <col=ff9040>Getting started with Defence;Taak weergeven: <col=ff9040>Aan de slag met Defensie
-Show task: <col=ff9040>Sharpshooter;Taak weergeven: <col=ff9040>Scherpschutter
-Show task: <col=ff9040>Getting started with Magic;Taak weergeven: <col=ff9040>Aan de slag met Magic
-Show task: <col=ff9040>Bringer of chaos;Taak weergeven: <col=ff9040>Brenger van chaos
-Show task: <col=ff9040>Getting started with Strength;Taak weergeven: <col=ff9040>Aan de slag met kracht
-Claim;Claim
-Show task: <col=ff9040>Honing my aim;Taak weergeven: <col=ff9040>Mijn doel aanscherpen
-Show task: <col=ff9040>Sticks and stones;Toon taak: <col=ff9040>Stokken en stenen
-Show task: <col=ff9040>Striking a pose;Taak weergeven: <col=ff9040>Een pose aannemen
-Show task: <col=ff9040>Weapons master;Toon taak: <col=ff9040>Wapenmeester
-Open Adventure Paths;Open avonturenpaden
 Show task: <col=ff9040>Getting started with Attack;Taak weergeven: <col=ff9040>Aan de slag met Attack
-Show task: <col=ff9040>Mithril defence;Toon taak: <col=ff9040>Mithril verdediging
+Show task: <col=ff9040>Striking a pose;Taak weergeven: <col=ff9040>Een pose aannemen
+Show task: <col=ff9040>Honing my aim;Taak weergeven: <col=ff9040>Mijn doel aanscherpen
+Show task: <col=ff9040>Bringer of chaos;Taak weergeven: <col=ff9040>Brenger van chaos
 Show task: <col=ff9040>Building muscle;Toon taak: <col=ff9040>Spiermassa opbouwen
+Show task: <col=ff9040>Mithril defence;Toon taak: <col=ff9040>Mithril verdediging
+Show task: <col=ff9040>Getting started with Defence;Taak weergeven: <col=ff9040>Aan de slag met Defensie
+Show task: <col=ff9040>Getting started with Strength;Taak weergeven: <col=ff9040>Aan de slag met kracht
+Show task: <col=ff9040>Sticks and stones;Toon taak: <col=ff9040>Stokken en stenen
+Show task: <col=ff9040>Weapons master;Toon taak: <col=ff9040>Wapenmeester
+Show task: <col=ff9040>Getting started with Ranged;Taak weergeven: <col=ff9040>Aan de slag met Ranged
 Talk-To;Praat met
 Shut;Sluit
 Pay-toll(10gp);Betaaltol(10gp)
 Revert;Terugdraaien
-Ironman Group;Ironman-groep
 Deactivate;Deactiveren
+Ironman Group;Ironman-groep
+Predict;Voorspellen
 Leave;Vertrekken
 Copy-outfit;Kopieer-outfit
-Predict;Voorspellen
-Reanimate;Reanimeren
-Challenge;Uitdaging
-<col=ffff00>Group:</col> Show friends;<col=ffff00>Groep:</col> Vrienden tonen
-Pass;Doorgang
-<col=ffff00>Group:</col> Show none;<col=ffff00>Groep:</col> Geen tonen
-Jump;Springen
-<col=ffff00>Group:</col> Show all;<col=ffff00>Groep:</col> Alles weergeven
-Quick Pass;Snelle pas
 <col=ffff00>Group:</col> Clear history;<col=ffff00>Groep:</col> Geschiedenis wissen
+Jump;Springen
+Challenge;Uitdaging
+Reanimate;Reanimeren
+Quick Pass;Snelle pas
+Pass;Doorgang
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Groep:</col> Vrienden tonen
+<col=ffff00>Group:</col> Show all;<col=ffff00>Groep:</col> Alles weergeven
+<col=ffff00>Group:</col> Show none;<col=ffff00>Groep:</col> Geen tonen
 Quench;Afschrikken
-Group;Groep
-Inside;Binnen
-Break;Pauze
 Withdraw-18;Intrekken-18
+Inside;Binnen
 Home;Thuis
+Group;Groep
 Deposit-18;Borg-18
 Build mode;Bouwmodus
-Friend's house;Het huis van een vriend
 Resurrect;Herrijzen
-Equipment;Apparatuur
+Friend's house;Het huis van een vriend
+Break;Pauze
 Rest (private);Rust (privé)
-Sort;Soort
+Equipment;Apparatuur
 Check Charges;Controleer kosten
+Sort;Soort
 Catch;Vangst
 Pick-lots;Pick-lots
 A Dark Disposition;Een donkere instelling
-Lunch by the Lancalliums;Lunch bij de Lancalliums
-Take Spade;Neem Spade
-History and Hearsay;Geschiedenis en geruchten
 Jewellery of Jubilation;Sieraden van gejubel
-Touch;Aanraken
-Store;Winkel
-Take Seed Dibber;Neem Seed Dibber
 Store-X;Winkel-X
-Private;Privé
-Store-5;Winkel-5
-Upgrade;Upgraden
+Touch;Aanraken
+Lunch by the Lancalliums;Lunch bij de Lancalliums
+Store;Winkel
 Reminisce;Nagenieten
-Take Rake;Neem Rake
-The Fisher's Flute;De Vissersfluit
-Quick-pass;Snelle pass
-Store-10;Winkel-10
-Withdraw;Terugtrekken
-Withdraw all;Alles intrekken
-Store-All;Winkel-Alles
-Deposit all;Stort alles
 Shared;Gedeeld
 Dig;Graven
+Store-5;Winkel-5
+Take Seed Dibber;Neem Seed Dibber
+Withdraw all;Alles intrekken
+Upgrade;Upgraden
+Withdraw;Terugtrekken
+The Fisher's Flute;De Vissersfluit
+Store-All;Winkel-Alles
+Take Spade;Neem Spade
+Take Rake;Neem Rake
+Deposit all;Stort alles
+Quick-pass;Snelle pass
+History and Hearsay;Geschiedenis en geruchten
+Store-10;Winkel-10
+Private;Privé
 Spin;Draai
 Churn;Karn
 Shear;Scheer
 Close Activity Adviser;Sluit activiteitenadviseur
 Chart;Grafiek
 Last-destination (AIP);Laatste bestemming (AIP)
-Zanaris;Zanaris
 Zoom out;Uitzoomen
-Buy 10;Koop 10
-Buy 1;Koop 1
-Buy 5;Koop 5
-Buy-50;Koop-50
+Zanaris;Zanaris
 Buy 50;Koop 50
 Value;Waarde
-Take-axe;Neem-bijl
+Buy 10;Koop 10
+Buy 1;Koop 1
+Buy-50;Koop-50
+Buy 5;Koop 5
 Climb-over;Klim eroverheen
-Steal-cowbell;Steel-koebel
 Milk;Melk
+Take-axe;Neem-bijl
+Steal-cowbell;Steel-koebel
 View Newspost;Bekijk Nieuwsbericht
 View History;Geschiedenis bekijken
 New tab;Nieuw tabblad
+Collapse;Instorten
 New tag tab;Nieuw tagtabblad
 Import tag tab;Tabblad Importtag
-View journal <col=ff981f>The Restless Ghost</col>;Bekijk dagboek <col=ff981f>De rusteloze geest</col>
-Collapse;Instorten
 View tag tabs;Bekijk tagtabbladen
+View journal <col=ff981f>The Restless Ghost</col>;Bekijk dagboek <col=ff981f>De rusteloze geest</col>
 View all items;Bekijk alle artikelen
 Rotate-clockwise;Draai met de klok mee
-Change;Wijziging
-Release-bees;Vrijlating-bijen
 Pick-up;Ophalen
 Rotate-anticlockwise;Draaien tegen de klok in
+Release-bees;Vrijlating-bijen
 Dig-up;Opgraven
+Change;Wijziging
+Remove board advert;Bordadvertentie verwijderen
+Teleport Menu;Teleport-menu
 Attach;Bijvoegen
 Lock;Slot
-Metamorphosis;Metamorfose
-Configuration;Configuratie
 Sit-on;Zitten
-Remove board advert;Bordadvertentie verwijderen
-Fill;Vullen
-Great Kourend;Grote Kourend
+Metamorphosis;Metamorfose
 Fossil Island;Fossiel eiland
+Configuration;Configuratie
 Teleport menu;Teleport-menu
-Teleport Menu;Teleport-menu
+Great Kourend;Grote Kourend
+Fill;Vullen
 Chop;Karbonade
 View journal <col=ff981f>X Marks the Spot</col>;Bekijk dagboek <col=ff981f>X Marks the Spot</col>
-Sell 5<col=ff9040>;Verkoop 5<col=ff9040>
-Feel;Gevoel
 Sell 50<col=ff9040>;Verkoop 50<col=ff9040>
-Sell 1<col=ff9040>;Verkoop 1<col=ff9040>
-Value<col=ff9040>;Waarde<col=ff9040>
-Buy-10;Koop-10
 Sell 10<col=ff9040>;Verkoop 10<col=ff9040>
-Hitpoints;Hitpunten
-Crafting;Knutselen
-Fletching;Fletching
-Fishing;Vissen
-Slayer;Moordenaar
+Sell 1<col=ff9040>;Verkoop 1<col=ff9040>
+Buy-10;Koop-10
+Value<col=ff9040>;Waarde<col=ff9040>
+Feel;Gevoel
+Sell 5<col=ff9040>;Verkoop 5<col=ff9040>
 Steal from;Steel van
 Herblore;Herblore
-Farming;Landbouw
-Construction;Bouw
-Agility;Wendbaarheid
+Strength;Kracht
 Woodcutting;Houtsnijden
-Sailing;Zeilen
+Farming;Landbouw
+Crafting;Knutselen
+Hitpoints;Hitpunten
 View journal <col=ff981f>Cook's Assistant</col>;Bekijk dagboek <col=ff981f>Kokassistent</col>
+Fishing;Vissen
+Construction;Bouw
 Climb-into;Klim erin
 Mining;Mijnbouw
-Strength;Kracht
 Ranged;Bereikt
+Slayer;Moordenaar
+Agility;Wendbaarheid
+Fletching;Fletching
+Sailing;Zeilen
 Operate;Bedienen
 View journal <col=ff981f>Romeo & Juliet</col>;Bekijk dagboek <col=ff981f>Romeo & Julia</col>
 Take-flyer;Neem-flyer
 +100;+100
-Choose item;Kies artikel
 +10;+10
 -1;-1
 Back;Rug
 +1K;+1K
+Choose item;Kies artikel
 Flash icons;Flitspictogrammen
 Sacrifice;Offer
 Take-All;Neem alles
 Jump-in;Spring erin
 View journal <col=ff981f>Rune Mysteries</col>;Bekijk dagboek <col=ff981f>Rune Mysteries</col>
-Pass-Through;Doorgang
 Coffer;Koffer
 Picklock;Inbreker
 Switch world;Wissel van wereld
+Pass-Through;Doorgang
 Small Net;Klein Net
 Okay;Oké
 Perform <col=ff9040>Relic unlock</col>;Voer <col=ff9040>Relikwieontgrendeling</col> uit
-Abierto;Abierto
 Comercio;Comercio
-Examinar;Examinator
-Cerca;Cerca
-Ataque;Ataque
-Buscar;Buscar
-Hablar con;Hablar con
 Carterista;Carterista
+Examinar;Examinator
 Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
 Tronchar;Tronchar
+Hablar con;Hablar con
 Take-Coffin;Take-kist
-Make;Maken
-5;5 
 Pay;Betalen
 Other quantity;Andere hoeveelheid
-Jump-up;Spring omhoog
-Balance;Evenwicht
-Check Name;Controleer Naam
-Scatter;Verstrooien
+5;5 
+Make;Maken
 Move;Beweging
+Jump-up;Spring omhoog
+Scatter;Verstrooien
+Check Name;Controleer Naam
+Balance;Evenwicht
 Contents;Inhoud
 Talk to;Praat met
 Zoom in;Zoom in
 Useful Links;Nuttige koppelingen
-10;10 
 Burn;Brandwond
+10;10 
 Stornieren;Stornieren
-Pray;Bidden
-Group: Previous;Groep: Vorige
 Group: Choose;Groep: Kies
+Group: Previous;Groep: Vorige
+Pray;Bidden
 Investigate;Onderzoeken
 Jump-onto;Spring erop
 Withdraw-500;Intrekken-500
-Grab;Grijp
-Move-right;Ga naar rechts
-View Ignore List;Bekijk de negeerlijst
-Move-down;Omlaag
 Move-left;Verplaats naar links
+Grab;Grijp
+Move-down;Omlaag
+View Ignore List;Bekijk de negeerlijst
+Move-right;Ga naar rechts
 Move-up;Omhoog
-Add-All<col=ff9040>;Alles toevoegen<col=ff9040>
-Remove-legs;Verwijder-benen
-Add<col=ff9040>;Voeg<col=ff9040> ​​toe
-Add-5<col=ff9040>;Optellen-5<col=ff9040>
 Look-inside;Kijk naar binnen
+Add-5<col=ff9040>;Optellen-5<col=ff9040>
+Remove-legs;Verwijder-benen
 Add-X<col=ff9040>;Add-X<col=ff9040>
 Add-10<col=ff9040>;Optellen-10<col=ff9040>
+Add-All<col=ff9040>;Alles toevoegen<col=ff9040>
+Add<col=ff9040>;Voeg<col=ff9040> ​​toe
 Deposit-500;Borg-500
 Check charges;Controleer de kosten
 Default quantity: 500;Standaardhoeveelheid: 500
+Filter;Filter
 Load-outs;Uitladingen
 Done;Klaar
-Filter;Filter
-Hide menu;Menu verbergen
+Show tutorial;Tutorial tonen
 Scroll down;Scroll naar beneden
+Hide menu;Menu verbergen
 Cancel downgrade;Downgraden annuleren
 View tab ;Tabblad bekijken
-Show tutorial;Tutorial tonen
-Show menu;Toon menukaart
 Scroll up;Scroll omhoog
-Make<col=ff9040> Dugout canoe;Maak<col=ff9040> ​​boomstamkano
-Shape-Canoe;Vorm-kano
+Show menu;Toon menukaart
 Paddle Canoe;Peddel kano
-Float Log;Vlotterlogboek
+Shape-Canoe;Vorm-kano
 Make<col=ff9040> Log canoe;Maak <col=ff9040> ​​Boomstamkano
 Paddle Log;Peddellogboek
+Float Log;Vlotterlogboek
 Travel to<col=ff9040> Champions Guild;Reis naar<col=ff9040> ​​Champions Guild
+Make<col=ff9040> Dugout canoe;Maak<col=ff9040> ​​boomstamkano
+Jump-over;Overspringen
 Quit;Ontslag nemen
 Grave info;Ernstige informatie
-Jump-over;Overspringen
 Details;Details
 Report for;Rapporteer voor
+Fire;Vuur
 Steal-From;Steel-van
 Redeem-code;Inwisselcode
-Fire;Vuur
 Holiday-items;Vakantie-artikelen
 Visit-Last;Bezoek-laatste
 Add-House;Add-huis
 Add/Remove House;Huis toevoegen/verwijderen
-Big Net;Groot net
-Enter House;Huis binnengaan
 Harpoon;Harpoen
 4;4 
-View Poll;Bekijk opiniepeiling
 View Archive;Bekijk archief
+Enter House;Huis binnengaan
+View Poll;Bekijk opiniepeiling
+Big Net;Groot net
 Walk-up;Naar boven lopen
 Claim-Tokens;Claim-tokens
 Animate;Animeren
-Take-from;Afhalen
 Fish-in;Vis-in
-Rotate;Draaien
+Take-from;Afhalen
 Look;Kijk
-Rub-together;Samen wrijven
+Rotate;Draaien
 Pick-lock;Inbreker
 Extinguish;Blussen
+Rub-together;Samen wrijven
 Unmute;Dempen opheffen
-Stat Bonus;Statistische bonus
-Set Bonus;Bonus instellen
 View DPS on OSRS Wiki;Bekijk DPS op OSRS Wiki
+Set Bonus;Bonus instellen
 Hide worn items;Verberg versleten items
-Squeeze-through;Doorknijpen
-Ride;Rijden
+Stat Bonus;Statistische bonus
 Tickets;Kaartjes
+Ride;Rijden
+Squeeze-through;Doorknijpen
 Kill;Doden
 No;Nee
 Area;Gebied
 Yes;Ja
-Collect-item;Verzamelitem
-Disable <col=ff9040>Notes;Schakel <col=ff9040>Notities uit
 View missing items ;Bekijk ontbrekende items
 Collect-note;Verzamel-notitie
-Sell: 1 x Bronze med helm;Verkoop: 1 x bronzen med helm
+Collect-item;Verzamelitem
+Disable <col=ff9040>Notes;Schakel <col=ff9040>Notities uit
 Info;Info
+Sell: 1 x Bronze med helm;Verkoop: 1 x bronzen med helm
 Pick-Lock;Inbreker
 Collect-items;Verzamel-items
 Collect-notes;Verzamel-notities
-Release them all;Laat ze allemaal los
 Release all placeholders (12);Alle tijdelijke aanduidingen vrijgeven (12)
-Prune-back;Snoei terug
+Release them all;Laat ze allemaal los
 Prune-top;Snoei-top
 Prune;Snoeien
+Prune-back;Snoei terug
 Prune-sides;Snoei-kanten
-Tan <col=ff7000>5;Geelbruin <col=ff7000>5
-Tan <col=ff7000>All;Geelbruin <col=ff7000>Alles
-Tan <col=ff7000>1;Geelbruin <col=ff7000>1
 Tan <col=ff7000>X;Geelbruin <col=ff7000>X
+Tan <col=ff7000>5;Geelbruin <col=ff7000>5
+Tan <col=ff7000>1;Geelbruin <col=ff7000>1
+Tan <col=ff7000>All;Geelbruin <col=ff7000>Alles
 Smithing;Smeedwerk
 Remove-X;Verwijder-X
-Remove-All;Alles verwijderen
-Remove-5;Verwijderen-5
 Remove-10;Verwijderen-10
+Remove-5;Verwijderen-5
+Remove-All;Alles verwijderen
 Hunter;Jager
 Firemaking;Vuur maken
 Enable <col=ff9040>Swap;Schakel <col=ff9040>Wisselen in
 Add all;Voeg alles toe
 Release all placeholders (1);Alle tijdelijke aanduidingen vrijgeven (1)
 Buy: 160 x Cowhide;Koop: 160 x koeienhuid
-Sell: 195 x Leather;Verkoop: 195 x leer
 Set price;Prijs instellen
+Sell: 195 x Leather;Verkoop: 195 x leer
 Sell: 175 x Leather;Verkoop: 175 x leer
 Buy: 10 x Air tiara;Koop: 10 x Air tiara
 Buy: 2 x Ring mould;Koop: 2 x ringvorm
-Set wiki price;Stel de wikiprijs in
-Set quantity;Hoeveelheid instellen
 pic;foto
+Set quantity;Hoeveelheid instellen
+Set wiki price;Stel de wikiprijs in
 Accept trade;Accepteer handel
 Accept;Accepteren
 Buy: 1 x Mithril gold-trimmed set (lg);Kopen: 1 x Mithril set met gouden randen (lg)
 Buy: 15 x Diamond;Koop: 15 x Diamant
-Buy: 55 x Emerald;Koop: 55 x Smaragd
 Sell: 55 x Emerald;Verkoop: 55 x Smaragd
-Buy: 34 x Ruby necklace;Koop: 34 x Robijn ketting
+Buy: 55 x Emerald;Koop: 55 x Smaragd
 Buy: 1 x Poison;Koop: 1 x Gif
+Buy: 34 x Ruby necklace;Koop: 34 x Robijn ketting
 Search for item;Zoek naar artikel
 Sell: 124 x Tuna;Verkoop: 124 x Tonijn
 Buy: 1 x Rune axe;Koop: 1 x Runenbijl
 Sell: 83 x Energy potion(4);Verkoop: 83 x Energiedrank(4)
 Check-Count;Controletelling
 Bash;Bas
-Pound;Pond
 Earth Bolt;Aarde Bout
-Fire Strike;Brand staking
-Choose spell;Kies spreuk
-Fire Bolt;Vuurbout
-Fire Blast;Vuur explosie
-Earth Blast;Aarde explosie
 Earth Wave;Aarde Golf
 Water Blast;Waterstraal
+Fire Blast;Vuur explosie
+Fire Strike;Brand staking
+Pound;Pond
+Earth Blast;Aarde explosie
+Choose spell;Kies spreuk
+Fire Bolt;Vuurbout
 Push;Duw
 Quantity:;Hoeveelheid:
 View Smithing on the Wiki;Bekijk Smithing op de Wiki
@@ -773,109 +773,123 @@ View <col=ff9040>Mining</col> guide;Bekijk de <col=ff9040>Mijnbouw</col> gids
 Buy: 600 x Hammer;Koop: 600 x Hamer
 Pick refreshment;Kies verfrissing
 Focus;Focus
-Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania-dagboek</col>
-Open <col=ff9040>Western Provinces Journal</col>;Open <col=ff9040>Western Provinces Journal</col>
 Open <col=ff9040>Morytania Journal</col>;Open <col=ff9040>Morytania-dagboek</col>
-Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Westelijke Provincies Journal</col>
-Open <col=ff9040>Varrock Journal</col>;Open <col=ff9040>Varrock Journal</col>
+Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania-dagboek</col>
 Wiki <col=ff9040>Varrock Journal</col>;Wiki <col=ff9040>Varrock Journal</col>
-Disturb;Storen
+Open <col=ff9040>Varrock Journal</col>;Open <col=ff9040>Varrock Journal</col>
+Open <col=ff9040>Western Provinces Journal</col>;Open <col=ff9040>Western Provinces Journal</col>
+Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Westelijke Provincies Journal</col>
 Peek;Kijkje
-Examiner;Examinator
+Disturb;Storen
 Annuler;Annuleer
 Marcher ici;Marcheerder ici
+Examiner;Examinator
 Add-mulch;Voeg mulch toe
 Reset;Opnieuw instellen
 Top-Floor;Bovenste verdieping
 Hit;Hit
-Warriors' Guild;Het Strijdersgilde
 Karamja;Karamja
-Commune;Gemeente
-Monastery;Klooster
 Draynor Village;Draynor-dorp
-Champions' Guild;Kampioenengilde
-Edgeville;Edgeville
 Al Kharid;Al Kharid
+Monastery;Klooster
 Ranging Guild;Variërend Gilde
-Lay;Leg
-Land's End;Land's End
-Port Sarim;Haven Sarim
+Commune;Gemeente
+Warriors' Guild;Het Strijdersgilde
+Edgeville;Edgeville
+Champions' Guild;Kampioenengilde
 Craft;Ambacht
-Take-last-cargo;Neem de laatste lading
-Port Piscarilius;Haven Piscarilius
-Sort-salvage;Sorteer-berging
-Cancel-task;Taak annuleren
-Take-any-cargo;Neem elke lading mee
+Lay;Leg
+Port Sarim;Haven Sarim
+Land's End;Land's End
 Claim-rewards;Claim-beloningen
-Board-previous;Bord-vorige
 Take-cargo;Neem vracht
-Board-friend;Bestuursvriend
+Take-any-cargo;Neem elke lading mee
+Port Piscarilius;Haven Piscarilius
+Cancel-task;Taak annuleren
 Charter;Charter
+Sort-salvage;Sorteer-berging
+Take-last-cargo;Neem de laatste lading
+Board-previous;Bord-vorige
+Board-friend;Bestuursvriend
 Dock;Dok
 Make sets:;Setjes maken:
 Smash;Verpletteren
 Fur Clothing;Bontkleding
-WOM lookup;WOM opzoeken
+Brimhaven;Brimhaven
+Aldarin;Aldarin
 Taverley;Taverley
+Default quantity: 200,000,000;Standaardhoeveelheid: 200.000.000
+Prifddinas;Prifddina's
+Lock-slot;Slot-gleuf
+Pollnivneach;Pollnivneach
+Take-all;Alles meenemen
+Rellekka;Rellekka
+Tele to POH;Telefonisch naar POH
+Check-health;Controleer de gezondheid
+Hosidius;Hosidius
+WOM lookup;WOM opzoeken
+Unload;Lossen
 Contract;Contract
+Withdraw-200000000;Intrekken-200000000
 Rimmington;Rimmington
 Deposit-200000000;Storting-200000000
-Prifddinas;Prifddina's
-Pollnivneach;Pollnivneach
-Tele to POH;Telefonisch naar POH
-Lock-slot;Slot-gleuf
-Default quantity: 200,000,000;Standaardhoeveelheid: 200.000.000
-Take-all;Alles meenemen
-Check-health;Controleer de gezondheid
-Rellekka;Rellekka
-Unload;Lossen
-Brimhaven;Brimhaven
-Withdraw-200000000;Intrekken-200000000
-Hosidius;Hosidius
-Aldarin;Aldarin
 Deposit-14;Storting-14
 Purchase Amulet;Amulet kopen
 Drink-from;Drink-van
 Float Canoe;Vlotter kano
-Make<col=ff9040> Stable dugout canoe;Merk<col=ff9040> ​​Stabiele boomstamkano
 Travel to<col=ff9040> Lumbridge;Reis naar<col=ff9040> ​​Lumbridge
+Make<col=ff9040> Stable dugout canoe;Merk<col=ff9040> ​​Stabiele boomstamkano
 Walk-Down;Naar beneden lopen
 Walk-Up;Opgang
-Thieving;Stelen
 Defence;Verdediging
+Thieving;Stelen
 Excavate;Opgraven
 Take-knife;Neem-mes
+Play-d;Speel-d
 Take-tinderbox;Neem een ​​tondeldoosje
+Play-f;Speel-f
 Play-a;Speel-a
 Play-c;Speel-c
+Observe;Observeer
 Play-b;Speel-b
 Play-e;Speel-e
-Play-d;Speel-d
 Play-g;Speel-g
-Play-f;Speel-f
-Observe;Observeer
-Switch-onyx;Schakelaar-onyx
-Switch-diamond;Schakel-diamant
-Switch-zenyte;Schakel-zenyte
-Switch-ruby;Schakelaar-robijn
 Switch-emerald;Schakelaar-smaragd
+Switch-diamond;Schakel-diamant
 Switch-sapphire;Schakelaar-saffier
+Switch-zenyte;Schakel-zenyte
+Switch-onyx;Schakelaar-onyx
+Switch-ruby;Schakelaar-robijn
 Fight;Gevecht
 Toggle K/D;Schakel tussen K/D
 Take-seed;Neem zaad
 Take-pickaxe;Neem-houweel
 Dyes;Kleurstoffen
-Informe;Informeer
-Deposit-50000;Borg-50000
 Anadir ignorar;Anadir negeert
 Withdraw-50000;Intrekken-50000
-Anadir amigo;Anadir amigo
+Informe;Informeer
 activar;activar
-Longrange;Lange afstand
+Anadir amigo;Anadir amigo
+Deposit-50000;Borg-50000
 Accurate;Nauwkeurig
-Talk-into;Inpraten
+Longrange;Lange afstand
 Prod;Prod
+Talk-into;Inpraten
 Glider;Zweefvliegtuig
 Glider-to Ta Quir Priw;Zweefvliegtuig naar Ta Quir Priw
 Travel to<col=ff9040> Barbarian Village;Reis naar<col=ff9040> ​​Barbarendorp
 Travel to<col=ff9040> Edgeville;Reis naar<col=ff9040> ​​Edgeville
+Downgrade;Downgraden
+Buy: 1 x Dragon axe;Koop: 1 x Drakenbijl
+Seers' Village;Zienersdorp
+Camelot;Camelot
+Deposit-120000;Borg-120000
+Withdraw-120000;Intrekken-120000
+Gehen Sie hier;Gehen Sie hier
+Reden mit;Reden mit
+Prüfen;Prüfen
+Schließen;Schließen
+Tutorial;Handleiding
+Open in browser;Openen in browser
+Pass (private);Pas (privé)
+Pass (normal);Pass (normaal)
