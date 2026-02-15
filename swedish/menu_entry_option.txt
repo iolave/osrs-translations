@@ -893,3 +893,9 @@ Tutorial;Handledning
 Open in browser;Öppna i webbläsaren
 Pass (private);Pass (privat)
 Pass (normal);Godkänt (normalt)
+Load X;Ladda X
+Spike;Spika
+Open-all;Öppet-alla
+Rapid;Snabb
+Hide-in;Gömma sig
+Search for traps;Sök efter fällor

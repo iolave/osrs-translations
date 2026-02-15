@@ -893,3 +893,9 @@ Tutorial;Handleiding
 Open in browser;Openen in browser
 Pass (private);Pas (privé)
 Pass (normal);Pass (normaal)
+Load X;Laad X
+Spike;Spike
+Open-all;Open-alles
+Rapid;Snel
+Hide-in;Verstoppen
+Search for traps;Zoek naar vallen

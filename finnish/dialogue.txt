@@ -57009,3 +57009,25 @@ I see you have some ore with you to smelt, so let's get started.;Näen, että si
 I came to check cherie lorge, not you.;Tulin tarkistamaan cherie lorgea, et sinä.
 Bem-vindo ao EmpÃ³rio de Tiro com Arco Lowe. VocÃª quer ver meus produtos?;Bem-vindo tai EmpÃ³rio de Tiro com Arco Lowe. VocÃª quer ver meus produtos?
 NÃ£o, prefiro bater as coisas de perto.;NÃ£o, prefiro bater as coisas de perto.
+You are to bring balance to 11 Black Dragons in the Evil Chicken's Lair.;Sinun tulee tasapainottaa 11 mustaa lohikäärmettä Evil Chicken's Lairissa.
+Se ei ole sinulle mÃ¤Ã¤ritetty Slayer-kohde. Luolassani odotan ihmisten keskittyvÃ¤n Slayer-harjoitteluunsa.;Katso ei ole sinulle. Märäritetty Slayer-kohde Luolassani odotan ihmisten keskittyvän Slayer-harjoitteluunsa.
+It's your lucky day, [PLAYER_NAME]! You've got a chance to win big prizes in my quiz show. Would you like to play?;Tämä on onnenpäiväsi, [PLAYER_NAME]! Sinulla on mahdollisuus voittaa suuria palkintoja tietokilpailussani. Haluatko pelata?
+YES! You're RIGHT! Okay, next question!;KYLLÄ! Olet OIKEASSA! Okei, seuraava kysymys!
+Tietokilpailut ovat typeriÃ¤. Mene pois.;Tietokilpailut ovat typeriä. Mene pois.
+Aivan OIKEIN! Jatka voittoon! Okei, seuraava kysymys!;Aivan OIKEIN! Jatka voittoon! Okei, seuraava kysymys!
+Valitse palkintosi;Valitse palkintosi
+<col=800000>O <col=000080>D <col=800000>D <col=000000>! <col=000080>O <col=800000>N <col=000080>E <col=000000>! <col=800000>O <col=000080>U <col=800000>T <col=000000>!;<col=800000>O <col=000080>D <col=800000>D <col=000000>! <col=000080>O <col=800000>N <col=000080>E <col=000000>! <col=800000>O <col=000080>U <col=800000>T <col=000000>!
+KORJATA! Okei, seuraava kysymys!;KORJATA! Okei, seuraava kysymys!
+Mysteeri laatikko;Mysteeri laatikko
+KyllÃ¤ kiitos, olen niin innoissani!;Kyllä kiitos, olen niin innoissani!
+<col=000080> ONNEA<col=000000>! Olet <col=800000>VOITTAJA<col=000000>! Valitse <col=000080>PALKINTO<col=000000>!;<col=000080> ONNEA<col=000000>! Olet <col=800000>VOITTAJA<col=000000>! Valitse <col=000080>PALKINTO<col=000000>!
+Please welcome our newest contestant: <col=800000>[PLAYER_NAME]<col=000000>! Four questions right, and then you win! You know the rules, so let's begin!;Tervetuloa uusin kilpailijamme: <col=800000>[PLAYER_NAME]<col=000000>! Neljä kysymystä oikein, ja sitten voitat! Tiedät säännöt, joten aloitetaan!
+1,000 Kolikot;1,000 Kolikot
+TERVETULOA koko Gielinorin SUURIMMAAN TIETOESÃ„YTTÃ–Ã–N!;TERVETULOA koko Gielinorin SUURIMMAAN TIETOESÃ„YTTÃ–Ã–N!
+You are to bring balance to 151 Kurask in the Iorwerth Dungeon.;Sinun on saatava tasapaino 151 Kuraskiin Iorwerth Dungeonissa.
+Sinun tulee tasapainottaa 50 Ankoua Stronghold Slayer Dungeonissa.;Sinun tulee tasapainottaa 50 Ankoua Stronghold Slayer Dungeonissa.
+Sinun on saatava tasapaino 110 Nechryaeliin Kourendin katakombeissa.;Sinun on saatava tasapaino 110 Nechryaeliin Kourendin katakombeissa.
+Sinun tulee tuoda tasapaino 50 Skeletal Wyverniin Asgarnian Ice Dungeonissa.;Sinun tulee tuoda tasapaino 50 Skeletal Wyverniin Asgarnian Ice Dungeonissa.
+Don't look at me, I'm just a frog. Ribbit! Ribbit!;Älä katso minua, olen vain sammakko. Ribbit! Ribbit!
+Of course, you honk. I don't know what I was expecting.;Tietysti höpötät. En tiedä mitä odotin.
+Eu gostaria de cobrar itens.;Eu gostaria de cobrar itens.
