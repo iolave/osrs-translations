@@ -893,3 +893,9 @@ Tutorial;Opetusohjelma
 Open in browser;Avaa selaimessa
 Pass (private);Passi (yksityinen)
 Pass (normal);Pääsy (normaali)
+Load X;Lataa X
+Spike;Piikki
+Open-all;Avaa kaikki
+Rapid;Nopea
+Hide-in;Piilota sisään
+Search for traps;Etsi ansoja

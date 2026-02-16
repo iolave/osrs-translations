@@ -893,3 +893,9 @@ Tutorial;Tutorial
 Open in browser;Abrir no navegador
 Pass (private);Passe (privado)
 Pass (normal);Aprovado (normal)
+Load X;Carregar X
+Spike;Espinho
+Open-all;Aberto para tudo
+Rapid;Rápido
+Hide-in;Esconder-se
+Search for traps;Procure por armadilhas

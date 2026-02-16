@@ -893,3 +893,9 @@ Tutorial;Anleitung
 Open in browser;Im Browser öffnen
 Pass (private);Pass (privat)
 Pass (normal);Bestanden (normal)
+Load X;Laden Sie X
+Spike;Spitze
+Open-all;Alles offen
+Rapid;Schnell
+Hide-in;Verstecken
+Search for traps;Suche nach Fallen

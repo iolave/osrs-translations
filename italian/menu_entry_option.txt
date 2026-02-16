@@ -893,3 +893,9 @@ Tutorial;Esercitazione
 Open in browser;Apri nel browser
 Pass (private);Pass (privato)
 Pass (normal);Superato (normale)
+Load X;Carica X
+Spike;Arpione
+Open-all;Apri tutto
+Rapid;Rapido
+Hide-in;Nascondersi
+Search for traps;Cerca trappole
