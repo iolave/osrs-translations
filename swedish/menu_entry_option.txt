@@ -899,3 +899,150 @@ Open-all;Öppet-alla
 Rapid;Snabb
 Hide-in;Gömma sig
 Search for traps;Sök efter fällor
+Default quantity: <col=ff9040>All</col>;Standardkvantitet: <col=ff9040>Alla</col>
+Default quantity: <col=ff9040>X</col>;Standardkvantitet: <col=ff9040>X</col>
+Relocate;Förflytta
+Default quantity: <col=ff9040>10</col>;Standardkvantitet: <col=ff9040>10</col>
+Redecorate;Måla om
+Varrock;Varrock
+Bask;Sola sig
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Sunset Coast
+Tal Teklan;Tal Teklan
+Hunter Guild;Hunter Guild
+The Teomat;Teomaten
+Kastori;Kastori
+Last-destination;Sista destination
+Cam Torum Entrance;Cam Torum Entré
+Outer Fortis;Yttre Fortis
+Feed;Foder
+Dondakan;Dondakan
+Features;Drag
+Crawl-through;Krypa igenom
+Coin Collection;Myntsamling
+Boss Log;Boss Logg
+Miscellania;Miscellania
+Falador;Falador
+Deposit-10000;Deposition-10000
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Lumbridge Guide
+Wartface & Bentnoze;Wartface & Bentnoze
+King Awowogei;Kung Awowogei
+Evil Dave;Onda Dave
+Mountain Dwarf;Bergsdvärg
+Pirate Pete;Piraten Pete
+Sir Amik Varze;Sir Amik Varze
+Buy: 10 x Stamina potion(4);Köp: 10 x Stamina potion(4)
+Pass-through;Genomgång
++99%;+99 %
+Cut;Skära
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleportera till <col=ff8040>Mardrömszon</col>
+Last-destination (DJP);Last-destination (DJP)
+Rotate counter-clockwise;Vrid moturs
+Flick;Snärt
+Join <col=ff8040>Nightmare Zone</col> channel;Gå med i kanalen <col=ff8040>Nightmare Zone</col>
+Last-destination (AIS);Sista destination (AIS)
+Rotate clockwise;Vrid medurs
+Lash;Surra
+Deflect;Avleda
+Buy-food;Köp-mat
+Buy-items;Köp-artiklar
+Decline;Nedgång
+Remove All;Ta bort alla
+-99%;-99 %
+Customise-boat;Skräddarsy båt
+Buy-boat;Köp-båt
+Recover-boat;Återställningsbåt
+Runecraft;Runecraft
+East Ardougne;Östra Ardougne
+B;B
+Lumbridge;Lumbridge
+Get Started;Kom igång
+Spellbook;Trollbok
+Sigils;Sigils
+Breach Check;Överträdelsekontroll
+Shop;Handla
+Unlocks;Låser upp
+Prayers;Böner
+Sell-10;Sälj-10
+Sell-1;Sälj-1
+Sell-5;Sälj-5
+Sell-50;Sälj-50
+Deadman;Dödman
+Points Info;Poäng Info
+About;Om
+Sigils Info;Sigils Info
+Attune;Attune
+Remove PvP Protection;Ta bort PvP-skydd
+Deposit-box;Inlåningsbox
+Hack;Häck
+Travel to platform;Res till plattform
+Walk-across;Gå över
+Select <col=ff9040>Confirm</col>;Välj <col=ff9040>Bekräfta</col>
+Dream;Dröm
+Ammo;Ammunition
+Toggle setting;Växla inställning
+Withdraw-19;Uttag-19
+Default quantity: 19;Standardantal: 19
+Manoeuvre-past;Manöver-förbi
+Buy: 1 x Yellow dye;Köp: 1 x Gul färg
+View <col=ff9040>Firemaking</col> guide;Se guiden <col=ff9040>Firemaking</col>
+Weave;Väva
+Take-boat;Ta båt
+Ardougne;Ardougne
+Withdraw-100;Uttag-100
+Deposit-100;Insättning-100
+Remove-coal;Ta bort kol
+Tuxedo-time;Tuxedo-tid
+Turn;Sväng
+Throw;Kasta
+Pummel;Puckla på
+Add to playlist 1;Lägg till spellista 1
+Add to playlist 2;Lägg till spellista 2
+Add to playlist 3;Lägg till spellista 3
+Sober-Up;Nykter
+Give-Sword;Ge-Svärd
+Ring-bell;Ring-klocka
+Right;Rätt
+Left;Vänster
+Shuffle Mode;Blandningsläge
+Take-X;Ta-X
+Venerate;Vörda
+Take-beer;Ta öl
+Buy-pass;Köp-pass
+Go-through;Gå igenom
+Hide-behind;Gömma sig bakom
+Climb-on;Klättra på
+Knock-Out;Knockout
+Set to 7;Ställ in på 7
+Set to 6;Ställ in på 6
+Set to 8;Ställ in på 8
+Set to 3;Ställ in på 3
+Set to 2;Ställ in på 2
+Set to 5;Ställ in på 5
+Set to 4;Ställ in på 4
+Set to 1;Ställ in på 1
+Jump-to;Hoppa till
+G;G
+E;E
+D;D
+C;C
+A;A
+Play your tune.;Spela din låt.
+F#;F#
+C#;C#
+Default quantity: 100;Standardantal: 100
+Deposit-1000;Insättning-1000
+Withdraw-1000;Uttag-1000
+Sell: 17 x Big bones;Sälj: 17 x stora ben
+Previous;Tidigare
+45 days membership;45 dagars medlemskap
+Buy Bonds;Köp obligationer
+Early Name Change;Tidig namnbyte
+14 days membership;14 dagars medlemskap
+29 days membership;29 dagars medlemskap
+12 months;12 månader
+View Your Bonds;Se dina obligationer
+Add finds;Lägg till fynd
+View journal <col=ff981f>Demon Slayer</col>;Visa journal <col=ff981f>Demon Slayer</col>
+Murder;Mörda

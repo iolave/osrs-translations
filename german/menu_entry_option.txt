@@ -899,3 +899,150 @@ Open-all;Alles offen
 Rapid;Schnell
 Hide-in;Verstecken
 Search for traps;Suche nach Fallen
+Default quantity: <col=ff9040>All</col>;Standardmenge: <col=ff9040>Alle</col>
+Default quantity: <col=ff9040>X</col>;Standardmenge: <col=ff9040>X</col>
+Relocate;Umzug
+Default quantity: <col=ff9040>10</col>;Standardmenge: <col=ff9040>10</col>
+Redecorate;Renovieren
+Varrock;Varrock
+Bask;Sich aalen
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Sonnenuntergangsküste
+Tal Teklan;Tal Teklan
+Hunter Guild;Jägergilde
+The Teomat;Der Teomat
+Kastori;Kastori
+Last-destination;Letztes Ziel
+Cam Torum Entrance;Eingang Cam Torum
+Outer Fortis;Äußeres Fortis
+Feed;Füttern
+Dondakan;Dondakan
+Features;Merkmale
+Crawl-through;Durchkriechen
+Coin Collection;Münzsammlung
+Boss Log;Boss-Protokoll
+Miscellania;Verschiedenes
+Falador;Falador
+Deposit-10000;Anzahlung: 10.000
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Lumbridge-Führer
+Wartface & Bentnoze;Wartface & Bentnoze
+King Awowogei;König Awowogei
+Evil Dave;Der böse Dave
+Mountain Dwarf;Bergzwerg
+Pirate Pete;Pirat Pete
+Sir Amik Varze;Sir Amik Varze
+Buy: 10 x Stamina potion(4);Kaufen: 10 x Ausdauertrank(4)
+Pass-through;Durchgang
++99%;+99 %
+Cut;Schneiden
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleportiere dich zur <col=ff8040>Albtraumzone</col>
+Last-destination (DJP);Letztes Ziel (DJP)
+Rotate counter-clockwise;Gegen den Uhrzeigersinn drehen
+Flick;Flick
+Join <col=ff8040>Nightmare Zone</col> channel;Treten Sie dem <col=ff8040>Nightmare Zone</col>-Kanal bei
+Last-destination (AIS);Letztes Ziel (AIS)
+Rotate clockwise;Im Uhrzeigersinn drehen
+Lash;Peitsche
+Deflect;Ablenken
+Buy-food;Lebensmittel kaufen
+Buy-items;Artikel kaufen
+Decline;Abfall
+Remove All;Alle entfernen
+-99%;-99%
+Customise-boat;Boot individuell gestalten
+Buy-boat;Boot kaufen
+Recover-boat;Bergungsboot
+Runecraft;Runenkunst
+East Ardougne;Ost-Ardougne
+B;B
+Lumbridge;Lumbridge
+Get Started;Legen Sie los
+Spellbook;Zauberbuch
+Sigils;Siegel
+Breach Check;Verstoßprüfung
+Shop;Geschäft
+Unlocks;Entsperrt
+Prayers;Gebete
+Sell-10;Verkaufen-10
+Sell-1;Verkaufen-1
+Sell-5;Verkaufen-5
+Sell-50;Verkaufen-50
+Deadman;Toter Mann
+Points Info;Punkteinfo
+About;Um
+Sigils Info;Informationen zu Siegeln
+Attune;Stimmen
+Remove PvP Protection;PvP-Schutz entfernen
+Deposit-box;Schließfach
+Hack;Hacken
+Travel to platform;Fahren Sie zur Plattform
+Walk-across;Übergehen
+Select <col=ff9040>Confirm</col>;Wählen Sie <col=ff9040>Bestätigen</col>
+Dream;Traum
+Ammo;Munition
+Toggle setting;Einstellung umschalten
+Withdraw-19;Rückzug-19
+Default quantity: 19;Standardmenge: 19
+Manoeuvre-past;Manöver-Vergangenheit
+Buy: 1 x Yellow dye;Kaufen Sie: 1 x Gelber Farbstoff
+View <col=ff9040>Firemaking</col> guide;Sehen Sie sich den Leitfaden <col=ff9040>Feuermachen</col> an
+Weave;Weben
+Take-boat;Nehmen Sie das Boot
+Ardougne;Ardougne
+Withdraw-100;Abheben-100
+Deposit-100;Anzahlung: 100
+Remove-coal;Kohle entfernen
+Tuxedo-time;Smoking-Zeit
+Turn;Drehen
+Throw;Werfen
+Pummel;Pummel
+Add to playlist 1;Zur Playlist 1 hinzufügen
+Add to playlist 2;Zur Playlist hinzufügen 2
+Add to playlist 3;Zur Playlist hinzufügen 3
+Sober-Up;Ausnüchtern
+Give-Sword;Gib-Schwert
+Ring-bell;Klingelglocke
+Right;Rechts
+Left;Links
+Shuffle Mode;Zufallsmodus
+Take-X;Nimm-X
+Venerate;Verehren
+Take-beer;Nimm Bier
+Buy-pass;Kaufpass
+Go-through;Durchgehen
+Hide-behind;Versteck dich
+Climb-on;Aufsteigen
+Knock-Out;Ausschlagen
+Set to 7;Auf 7 einstellen
+Set to 6;Auf 6 einstellen
+Set to 8;Auf 8 einstellen
+Set to 3;Auf 3 einstellen
+Set to 2;Auf 2 setzen
+Set to 5;Auf 5 einstellen
+Set to 4;Auf 4 einstellen
+Set to 1;Auf 1 setzen
+Jump-to;Springe zu
+G;G
+E;E
+D;D
+C;C
+A;A
+Play your tune.;Spielen Sie Ihre Melodie.
+F#;F#
+C#;C#
+Default quantity: 100;Standardmenge: 100
+Deposit-1000;Anzahlung: 1000
+Withdraw-1000;Abheben-1000
+Sell: 17 x Big bones;Verkaufe: 17 x Große Knochen
+Previous;Vorherige
+45 days membership;45 Tage Mitgliedschaft
+Buy Bonds;Anleihen kaufen
+Early Name Change;Vorzeitige Namensänderung
+14 days membership;14 Tage Mitgliedschaft
+29 days membership;29 Tage Mitgliedschaft
+12 months;12 Monate
+View Your Bonds;Sehen Sie sich Ihre Anleihen an
+Add finds;Funde hinzufügen
+View journal <col=ff981f>Demon Slayer</col>;Tagebuch <col=ff981f>Dämonentöter</col> ansehen
+Murder;Mord

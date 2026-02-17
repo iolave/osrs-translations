@@ -899,3 +899,150 @@ Open-all;Avaa kaikki
 Rapid;Nopea
 Hide-in;Piilota sisään
 Search for traps;Etsi ansoja
+Default quantity: <col=ff9040>All</col>;Oletusmäärä: <col=ff9040>Kaikki</col>
+Default quantity: <col=ff9040>X</col>;Oletusmäärä: <col=ff9040>X</col>
+Relocate;Siirrä
+Default quantity: <col=ff9040>10</col>;Oletusmäärä: <col=ff9040>10</col>
+Redecorate;Kunnostaa
+Varrock;Varrock
+Bask;Paistatella
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Auringonlaskun rannikko
+Tal Teklan;Tal Teklan
+Hunter Guild;Hunter Guild
+The Teomat;Teomat
+Kastori;Kastori
+Last-destination;Viimeinen määränpää
+Cam Torum Entrance;Cam Torumin sisäänkäynti
+Outer Fortis;Ulompi Fortis
+Feed;Syötä
+Dondakan;Dondakan
+Features;Ominaisuudet
+Crawl-through;Ryömiä läpi
+Coin Collection;Kolikkokokoelma
+Boss Log;Boss Log
+Miscellania;Miscellania
+Falador;Falador
+Deposit-10000;Talletus - 10 000
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Lumbridgen opas
+Wartface & Bentnoze;Wartface & Bentnoze
+King Awowogei;Kuningas Awowogei
+Evil Dave;Paha Dave
+Mountain Dwarf;Vuoristokääpiö
+Pirate Pete;Piraatti Pete
+Sir Amik Varze;Sir Amik Varze
+Buy: 10 x Stamina potion(4);Osta: 10 x Stamina potion (4)
+Pass-through;Läpikulku
++99%;+99 %
+Cut;Leikata
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleportoi <col=ff8040>Painajaisalueelle</col>
+Last-destination (DJP);Viimeinen kohde (DJP)
+Rotate counter-clockwise;Kierrä vastapäivään
+Flick;Leffa
+Join <col=ff8040>Nightmare Zone</col> channel;Liity <col=ff8040>Nightmare Zone</col> -kanavalle
+Last-destination (AIS);Viimeinen määränpää (AIS)
+Rotate clockwise;Kierrä myötäpäivään
+Lash;Ripsiä
+Deflect;Taivuta
+Buy-food;Osta ruokaa
+Buy-items;Osta-tuotteita
+Decline;Hylkää
+Remove All;Poista kaikki
+-99%;-99 %
+Customise-boat;Mukautettu vene
+Buy-boat;Osta-vene
+Recover-boat;Palautusvene
+Runecraft;Runecraft
+East Ardougne;Itäinen Ardougne
+B;B
+Lumbridge;Lumbridge
+Get Started;Aloita
+Spellbook;Loitsukirja
+Sigils;Sigis
+Breach Check;Rikkomuksen tarkistus
+Shop;Kauppa
+Unlocks;Avaa lukituksen
+Prayers;Rukoukset
+Sell-10;Myy -10
+Sell-1;Myy-1
+Sell-5;Myy - 5
+Sell-50;Myy - 50
+Deadman;Kuollut mies
+Points Info;Pisteiden tiedot
+About;Noin
+Sigils Info;Sigilin tiedot
+Attune;Attune
+Remove PvP Protection;Poista PvP-suojaus
+Deposit-box;Tallelokero
+Hack;Hakata
+Travel to platform;Matkusta alustalle
+Walk-across;Kävelymatka
+Select <col=ff9040>Confirm</col>;Valitse <col=ff9040>Vahvista</col>
+Dream;Unelma
+Ammo;Ammo
+Toggle setting;Vaihda asetusta
+Withdraw-19;Nosto-19
+Default quantity: 19;Oletusmäärä: 19
+Manoeuvre-past;Manööveri-menneisyys
+Buy: 1 x Yellow dye;Osta: 1 x keltainen väriaine
+View <col=ff9040>Firemaking</col> guide;Katso <col=ff9040>Tulonteko</col>-opas
+Weave;Kutoa
+Take-boat;Take-vene
+Ardougne;Ardougne
+Withdraw-100;Nosto-100
+Deposit-100;Talletus - 100
+Remove-coal;Poista-hiili
+Tuxedo-time;Tuxedo-aika
+Turn;Käänny
+Throw;Heittää
+Pummel;Nuijia
+Add to playlist 1;Lisää soittolistaan ​​1
+Add to playlist 2;Lisää soittolistaan ​​2
+Add to playlist 3;Lisää soittolistaan ​​3
+Sober-Up;Sober-Up
+Give-Sword;Anna-miekka
+Ring-bell;Soittokello
+Right;Oikein
+Left;Vasen
+Shuffle Mode;Satunnaistoistotila
+Take-X;Take-X
+Venerate;Kunnioita
+Take-beer;Take-olutta
+Buy-pass;Osta-passi
+Go-through;Käy läpi
+Hide-behind;Piilota takana
+Climb-on;Kiipeäminen
+Knock-Out;Knock-Out
+Set to 7;Aseta arvoon 7
+Set to 6;Aseta arvoon 6
+Set to 8;Aseta arvoon 8
+Set to 3;Aseta arvoon 3
+Set to 2;Aseta arvoon 2
+Set to 5;Aseta arvoon 5
+Set to 4;Aseta arvoon 4
+Set to 1;Aseta arvoon 1
+Jump-to;Jump-to
+G;G
+E;E
+D;D
+C;C
+A;A
+Play your tune.;Soita sävelmäsi.
+F#;F#
+C#;C#
+Default quantity: 100;Oletusmäärä: 100
+Deposit-1000;Talletus - 1000
+Withdraw-1000;Nosto-1000
+Sell: 17 x Big bones;Myydään: 17 x isot luut
+Previous;Edellinen
+45 days membership;45 päivän jäsenyys
+Buy Bonds;Osta joukkovelkakirjoja
+Early Name Change;Varhainen nimenmuutos
+14 days membership;14 päivän jäsenyys
+29 days membership;29 päivän jäsenyys
+12 months;12 kuukautta
+View Your Bonds;Tarkastele joukkovelkakirjojasi
+Add finds;Lisää löytöjä
+View journal <col=ff981f>Demon Slayer</col>;Näytä päiväkirja <col=ff981f>Demon Slayer</col>
+Murder;Murhata

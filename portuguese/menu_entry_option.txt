@@ -899,3 +899,150 @@ Open-all;Aberto para tudo
 Rapid;Rápido
 Hide-in;Esconder-se
 Search for traps;Procure por armadilhas
+Default quantity: <col=ff9040>All</col>;Quantidade padrão: <col=ff9040>Todos</col>
+Default quantity: <col=ff9040>X</col>;Quantidade padrão: <col=ff9040>X</col>
+Relocate;Realocar
+Default quantity: <col=ff9040>10</col>;Quantidade padrão: <col=ff9040>10</col>
+Redecorate;Redecorar
+Varrock;Varrock
+Bask;Aproveite
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Costa do Pôr do Sol
+Tal Teklan;Tal Teklan
+Hunter Guild;Guilda dos Caçadores
+The Teomat;O Teomat
+Kastori;Kastori
+Last-destination;Último destino
+Cam Torum Entrance;Entrada Cam Torum
+Outer Fortis;Forte Externo
+Feed;Alimentar
+Dondakan;Dondakan
+Features;Características
+Crawl-through;Rastreamento
+Coin Collection;Coleção de moedas
+Boss Log;Registro do chefe
+Miscellania;Miscelânea
+Falador;Faladore
+Deposit-10000;Depósito-10000
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Guia de Lumbridge
+Wartface & Bentnoze;Verruga e nariz torto
+King Awowogei;Rei Awowogei
+Evil Dave;Dave malvado
+Mountain Dwarf;Anão da Montanha
+Pirate Pete;Pirata Pete
+Sir Amik Varze;Sir Amik Varze
+Buy: 10 x Stamina potion(4);Comprar: 10 x Poção de Vigor(4)
+Pass-through;Passagem
++99%;+99%
+Cut;Corte
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleporte para <col=ff8040>Zona do Pesadelo</col>
+Last-destination (DJP);Último destino (DJP)
+Rotate counter-clockwise;Girar no sentido anti-horário
+Flick;Toque rapidamente
+Join <col=ff8040>Nightmare Zone</col> channel;Junte-se ao canal <col=ff8040>Nightmare Zone</col>
+Last-destination (AIS);Último destino (AIS)
+Rotate clockwise;Girar no sentido horário
+Lash;Chicote
+Deflect;Desviar
+Buy-food;Comprar comida
+Buy-items;Comprar itens
+Decline;Declínio
+Remove All;Remover tudo
+-99%;-99%
+Customise-boat;Barco personalizado
+Buy-boat;Comprar barco
+Recover-boat;Barco de recuperação
+Runecraft;Criação de Runas
+East Ardougne;Ardonha Oriental
+B;B
+Lumbridge;Lumbridge
+Get Started;Comece
+Spellbook;Livro de feitiços
+Sigils;Sigilos
+Breach Check;Verificação de violação
+Shop;Comprar
+Unlocks;Desbloqueia
+Prayers;Orações
+Sell-10;Venda-10
+Sell-1;Venda-1
+Sell-5;Venda-5
+Sell-50;Venda-50
+Deadman;Homem Morto
+Points Info;Informações sobre pontos
+About;Sobre
+Sigils Info;Informações dos Sigilos
+Attune;Sintonizar
+Remove PvP Protection;Remover proteção PvP
+Deposit-box;Cofre
+Hack;Hackear
+Travel to platform;Viajar para a plataforma
+Walk-across;Atravessar
+Select <col=ff9040>Confirm</col>;Selecione <col=ff9040>Confirmar</col>
+Dream;Sonhar
+Ammo;Munição
+Toggle setting;Alternar configuração
+Withdraw-19;Retirar-19
+Default quantity: 19;Quantidade padrão: 19
+Manoeuvre-past;Manobra passada
+Buy: 1 x Yellow dye;Comprar: 1 x corante amarelo
+View <col=ff9040>Firemaking</col> guide;Veja o guia de <col=ff9040>Arte do Fogo</col>
+Weave;Tecer
+Take-boat;Pegue-barco
+Ardougne;Ardonha
+Withdraw-100;Retirar-100
+Deposit-100;Depósito-100
+Remove-coal;Remover carvão
+Tuxedo-time;Hora do smoking
+Turn;Vez
+Throw;Lançar
+Pummel;Esmurrar
+Add to playlist 1;Adicionar à lista de reprodução 1
+Add to playlist 2;Adicionar à lista de reprodução 2
+Add to playlist 3;Adicionar à lista de reprodução 3
+Sober-Up;Sóbrio
+Give-Sword;Dê-Espada
+Ring-bell;Campainha
+Right;Certo
+Left;Esquerda
+Shuffle Mode;Modo aleatório
+Take-X;Pegue-X
+Venerate;Venerar
+Take-beer;Leve cerveja
+Buy-pass;Passe de compra
+Go-through;Passagem
+Hide-behind;Esconde-esconde
+Climb-on;Subir
+Knock-Out;Suprimir
+Set to 7;Definir como 7
+Set to 6;Definir como 6
+Set to 8;Definir como 8
+Set to 3;Definir como 3
+Set to 2;Definir como 2
+Set to 5;Definir como 5
+Set to 4;Definir como 4
+Set to 1;Definir como 1
+Jump-to;Ir para
+G;G
+E;E
+D;D
+C;C
+A;UM
+Play your tune.;Toque sua música.
+F#;F#
+C#;C#
+Default quantity: 100;Quantidade padrão: 100
+Deposit-1000;Depósito-1000
+Withdraw-1000;Retirar-1000
+Sell: 17 x Big bones;Venda: 17 x ossos grandes
+Previous;Anterior
+45 days membership;45 dias de adesão
+Buy Bonds;Comprar títulos
+Early Name Change;Mudança antecipada de nome
+14 days membership;14 dias de adesão
+29 days membership;29 dias de adesão
+12 months;12 meses
+View Your Bonds;Veja seus títulos
+Add finds;Adicionar descobertas
+View journal <col=ff981f>Demon Slayer</col>;Ver diário <col=ff981f>Demon Slayer</col>
+Murder;Assassinato
