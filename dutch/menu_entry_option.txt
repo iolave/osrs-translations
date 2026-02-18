@@ -899,3 +899,150 @@ Open-all;Open-alles
 Rapid;Snel
 Hide-in;Verstoppen
 Search for traps;Zoek naar vallen
+Default quantity: <col=ff9040>All</col>;Standaard aantal: <col=ff9040>Alles</col>
+Default quantity: <col=ff9040>X</col>;Standaard aantal: <col=ff9040>X</col>
+Relocate;Verhuizen
+Default quantity: <col=ff9040>10</col>;Standaardhoeveelheid: <col=ff9040>10</col>
+Redecorate;Opknappen
+Varrock;Varrock
+Bask;Zonnebaden
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Zonsondergangkust
+Tal Teklan;Tal Teklan
+Hunter Guild;Jagers Gilde
+The Teomat;De Teomat
+Kastori;Kastori
+Last-destination;Laatste bestemming
+Cam Torum Entrance;Ingang Cam Torum
+Outer Fortis;Buiten Fortis
+Feed;Voer
+Dondakan;Dondakan
+Features;Functies
+Crawl-through;Doorkruipen
+Coin Collection;Muntenverzameling
+Boss Log;Baas Logboek
+Miscellania;Diversen
+Falador;Falador
+Deposit-10000;Borg-10000
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Lumbridge-gids
+Wartface & Bentnoze;Wrattengezicht & Bentnoze
+King Awowogei;Koning Awowogei
+Evil Dave;Slechte Dave
+Mountain Dwarf;Berg dwerg
+Pirate Pete;Piraat Piet
+Sir Amik Varze;Heer Amik Varze
+Buy: 10 x Stamina potion(4);Koop: 10 x Stamina-drankje(4)
+Pass-through;Doorgang
++99%;+99%
+Cut;Snee
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleporteer naar <col=ff8040>Nightmare Zone</col>
+Last-destination (DJP);Laatste bestemming (DJP)
+Rotate counter-clockwise;Draai tegen de klok in
+Flick;Veeg
+Join <col=ff8040>Nightmare Zone</col> channel;Word lid van het <col=ff8040>Nightmare Zone</col>-kanaal
+Last-destination (AIS);Laatste bestemming (AIS)
+Rotate clockwise;Draai met de klok mee
+Lash;Wimper
+Deflect;Afbuigen
+Buy-food;Koop eten
+Buy-items;Koop-artikelen
+Decline;Afwijzen
+Remove All;Alles verwijderen
+-99%;-99%
+Customise-boat;Maatwerk-boot
+Buy-boat;Koop-boot
+Recover-boat;Herstel-boot
+Runecraft;Runecraft
+East Ardougne;Oost-Ardougne
+B;B
+Lumbridge;Lumbridge
+Get Started;Aan de slag
+Spellbook;Spreukenboek
+Sigils;Sigils
+Breach Check;Controle op inbreuk
+Shop;Winkel
+Unlocks;Ontgrendelt
+Prayers;Gebeden
+Sell-10;Verkopen-10
+Sell-1;Verkoop-1
+Sell-5;Verkopen-5
+Sell-50;Verkopen-50
+Deadman;Dode man
+Points Info;Punteninformatie
+About;Over
+Sigils Info;Sigils-info
+Attune;Afstemmen
+Remove PvP Protection;Verwijder PvP-bescherming
+Deposit-box;Kluisje
+Hack;Hacken
+Travel to platform;Reis naar perron
+Walk-across;Overloop
+Select <col=ff9040>Confirm</col>;Selecteer <col=ff9040>Bevestigen</col>
+Dream;Droom
+Ammo;Munitie
+Toggle setting;Schakel instelling
+Withdraw-19;Intrekken-19
+Default quantity: 19;Standaardhoeveelheid: 19
+Manoeuvre-past;Manoeuvre-verleden
+Buy: 1 x Yellow dye;Kopen: 1 x Gele kleurstof
+View <col=ff9040>Firemaking</col> guide;Bekijk de <col=ff9040>Vuurmaken</col> handleiding
+Weave;Weven
+Take-boat;Neem-boot
+Ardougne;Ardougné
+Withdraw-100;Intrekken-100
+Deposit-100;Borg-100
+Remove-coal;Verwijder-kolen
+Tuxedo-time;Smoking-tijd
+Turn;Draai
+Throw;Gooien
+Pummel;Pummel
+Add to playlist 1;Toevoegen aan afspeellijst 1
+Add to playlist 2;Toevoegen aan afspeellijst 2
+Add to playlist 3;Toevoegen aan afspeellijst 3
+Sober-Up;Nuchter
+Give-Sword;Geef-zwaard
+Ring-bell;Ringbel
+Right;Rechts
+Left;Links
+Shuffle Mode;Shuffle-modus
+Take-X;Neem-X
+Venerate;Vereren
+Take-beer;Neem bier
+Buy-pass;Kooppas
+Go-through;Doorgang
+Hide-behind;Verstop je
+Climb-on;Klim erop
+Knock-Out;Knock-out
+Set to 7;Stel in op 7
+Set to 6;Stel in op 6
+Set to 8;Stel in op 8
+Set to 3;Stel in op 3
+Set to 2;Stel in op 2
+Set to 5;Stel in op 5
+Set to 4;Stel in op 4
+Set to 1;Stel in op 1
+Jump-to;Ga naar
+G;G
+E;E
+D;D
+C;C
+A;A
+Play your tune.;Speel je deuntje.
+F#;F#
+C#;C#
+Default quantity: 100;Standaardhoeveelheid: 100
+Deposit-1000;Borg-1000
+Withdraw-1000;Intrekken-1000
+Sell: 17 x Big bones;Verkoop: 17 x Grote botten
+Previous;Vorig
+45 days membership;45 dagen lidmaatschap
+Buy Bonds;Koop obligaties
+Early Name Change;Vroege naamsverandering
+14 days membership;14 dagen lidmaatschap
+29 days membership;29 dagen lidmaatschap
+12 months;12 maanden
+View Your Bonds;Bekijk uw obligaties
+Add finds;Voeg vondsten toe
+View journal <col=ff981f>Demon Slayer</col>;Bekijk dagboek <col=ff981f>Demon Slayer</col>
+Murder;Moord

@@ -899,3 +899,150 @@ Open-all;Apri tutto
 Rapid;Rapido
 Hide-in;Nascondersi
 Search for traps;Cerca trappole
+Default quantity: <col=ff9040>All</col>;Quantità predefinita: <col=ff9040>Tutto</col>
+Default quantity: <col=ff9040>X</col>;Quantità predefinita: <col=ff9040>X</col>
+Relocate;Trasferirsi
+Default quantity: <col=ff9040>10</col>;Quantità predefinita: <col=ff9040>10</col>
+Redecorate;Ridecorare
+Varrock;Varrock
+Bask;Crogiolarsi
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Costa del tramonto
+Tal Teklan;Tal Teklan
+Hunter Guild;Gilda dei cacciatori
+The Teomat;Il Teomat
+Kastori;Kastori
+Last-destination;Ultima destinazione
+Cam Torum Entrance;Ingresso Cam Torum
+Outer Fortis;Fortezza esterna
+Feed;Foraggio
+Dondakan;Dondakan
+Features;Caratteristiche
+Crawl-through;Strisciare
+Coin Collection;Collezione di monete
+Boss Log;Registro del capo
+Miscellania;Miscellanea
+Falador;Falador
+Deposit-10000;Deposito-10000
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Guida di Lumbridge
+Wartface & Bentnoze;Verruca e naso piegato
+King Awowogei;Re Awowogei
+Evil Dave;Il malvagio Dave
+Mountain Dwarf;Nano di montagna
+Pirate Pete;Pietro il pirata
+Sir Amik Varze;Sir Amik Varze
+Buy: 10 x Stamina potion(4);Acquista: 10 pozioni di resistenza(4)
+Pass-through;Passaggio
++99%;+99%
+Cut;Taglio
+Teleport to <col=ff8040>Nightmare Zone</col>;Teletrasportati nella <col=ff8040>Zona dell'Incubo</col>
+Last-destination (DJP);Ultima destinazione (DJP)
+Rotate counter-clockwise;Ruotare in senso antiorario
+Flick;Flick
+Join <col=ff8040>Nightmare Zone</col> channel;Unisciti al canale <col=ff8040>Nightmare Zone</col>
+Last-destination (AIS);Ultima destinazione (AIS)
+Rotate clockwise;Ruotare in senso orario
+Lash;Ciglia
+Deflect;Deviare
+Buy-food;Acquistare cibo
+Buy-items;Acquista oggetti
+Decline;Declino
+Remove All;Rimuovi tutto
+-99%;-99%
+Customise-boat;Personalizza la barca
+Buy-boat;Acquista-barca
+Recover-boat;Barca di recupero
+Runecraft;Arte runica
+East Ardougne;Ardougne orientale
+B;B
+Lumbridge;Lumbridge
+Get Started;Inizia
+Spellbook;Libro degli incantesimi
+Sigils;Sigilli
+Breach Check;Controllo delle violazioni
+Shop;Negozio
+Unlocks;Sblocca
+Prayers;Preghiere
+Sell-10;Vendi-10
+Sell-1;Vendi-1
+Sell-5;Vendi-5
+Sell-50;Vendo-50
+Deadman;Uomo morto
+Points Info;Informazioni sui punti
+About;Di
+Sigils Info;Informazioni sui sigilli
+Attune;Sintonizzarsi
+Remove PvP Protection;Rimuovi la protezione PvP
+Deposit-box;Cassetta di sicurezza
+Hack;Hack
+Travel to platform;Viaggia verso la piattaforma
+Walk-across;Attraversarlo
+Select <col=ff9040>Confirm</col>;Seleziona <col=ff9040>Conferma</col>
+Dream;Sogno
+Ammo;Munizioni
+Toggle setting;Cambia impostazione
+Withdraw-19;Ritiro-19
+Default quantity: 19;Quantità predefinita: 19
+Manoeuvre-past;Manovra-passato
+Buy: 1 x Yellow dye;Acquista: 1 x colorante giallo
+View <col=ff9040>Firemaking</col> guide;Visualizza la guida <col=ff9040>Firemaking</col>
+Weave;Tessere
+Take-boat;Prendi la barca
+Ardougne;Ardougne
+Withdraw-100;Prelievo-100
+Deposit-100;Deposito-100
+Remove-coal;Rimuovere il carbone
+Tuxedo-time;Tempo di smoking
+Turn;Giro
+Throw;Gettare
+Pummel;Pugno
+Add to playlist 1;Aggiungi alla playlist 1
+Add to playlist 2;Aggiungi alla playlist 2
+Add to playlist 3;Aggiungi alla playlist 3
+Sober-Up;Tornare sobri
+Give-Sword;Dai-Spada
+Ring-bell;Suonare il campanello
+Right;Giusto
+Left;Sinistra
+Shuffle Mode;Modalità casuale
+Take-X;Prendi-X
+Venerate;Venerare
+Take-beer;Prendi la birra
+Buy-pass;Acquista pass
+Go-through;Passare attraverso
+Hide-behind;Nascondersi
+Climb-on;Salire
+Knock-Out;Tramortire
+Set to 7;Impostato su 7
+Set to 6;Impostato su 6
+Set to 8;Impostato su 8
+Set to 3;Impostato su 3
+Set to 2;Impostato su 2
+Set to 5;Impostato su 5
+Set to 4;Impostato su 4
+Set to 1;Impostato su 1
+Jump-to;Vai a
+G;G
+E;E
+D;D
+C;C
+A;UN
+Play your tune.;Suona la tua melodia.
+F#;F#
+C#;C#
+Default quantity: 100;Quantità predefinita: 100
+Deposit-1000;Deposito-1000
+Withdraw-1000;Prelievo-1000
+Sell: 17 x Big bones;Vendita: 17 x Ossa grandi
+Previous;Precedente
+45 days membership;45 giorni di abbonamento
+Buy Bonds;Acquista obbligazioni
+Early Name Change;Cambio di nome anticipato
+14 days membership;14 giorni di abbonamento
+29 days membership;29 giorni di abbonamento
+12 months;12 mesi
+View Your Bonds;Visualizza le tue obbligazioni
+Add finds;Aggiungi reperti
+View journal <col=ff981f>Demon Slayer</col>;Visualizza il diario <col=ff981f>Demon Slayer</col>
+Murder;Omicidio
