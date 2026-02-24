@@ -1046,3 +1046,296 @@ View Your Bonds;Tarkastele joukkovelkakirjojasi
 Add finds;Lisää löytöjä
 View journal <col=ff981f>Demon Slayer</col>;Näytä päiväkirja <col=ff981f>Demon Slayer</col>
 Murder;Murhata
+Walk-on;Kävelymatka
+Chill;Rentoudu
+Fix;Korjata
+Take-5;Ota - 5
+Take-10;Ota - 10
+Bail-with;Takuumaksu
+Comercio con;Comercio con
+conjuntos;konjuntit
+Eliminar;Eliminar
+Usar;Usar
+Gota;Täytyy
+Banco;Banco
+Intercambio;Intercambio
+Seguir;Seguir
+Historia;Historia
+Recolectar;Recolectar
+Offer-X<col=ff9040>;Tarjous-X<col=ff9040>
+Offer<col=ff9040>;Tarjous<col=ff9040>
+Offer-All<col=ff9040>;Tarjoa kaikki<col=ff9040>
+Deposit-107;Talletus-107
+Offer-10<col=ff9040>;Tarjous-10<col=ff9040>
+Withdraw-107;Nosto-107
+Offer-5<col=ff9040>;Tarjous-5<col=ff9040>
+Assignment;Tehtävä
+Last-destination (DKS);Viimeinen määränpää (DKS)
+Add Favourite;Lisää suosikki
+Use code;Käytä koodia
+Destroy ALL;Tuhoa KAIKKI
+Comer;Tulija
+Deposit-5000;Talletus - 5000
+Llevar;Llevar
+Precios;Precios
+Withdraw-5000;Nosto-5000
+Cocinando;Cocinando
+BotÃ­n;BotÃn
+Kandarin Monastery;Kandarin luostari
+Default quantity: 107;Oletusmäärä: 107
+Empunar;Empunar
+Deposito;Talletus
++50%;+50 %
+Default quantity: 5,000;Oletusmäärä: 5 000
+Tener puesto;Tener puesto
+-50%;-50 %
+Vista;Vista
+Construir;Construir
+Subir;Subir
+Ingresar;Ingresar
+Bajar;Bajar
+Lanzar;Lanzar
+Mina;Mina
+Water Bolt;Vesipultti
+Use <col=00ff00>Special Attack</col>;Käytä <col=00ff00>Erikoishyökkäystä</col>
+Select option C;Valitse vaihtoehto C
+Escape;Paeta
+Exchange fire cape;Vaihda paloviitta
+Last-destination (CKS);Viimeinen kohde (CKS)
+-2%;-2 %
+Watch;Katsella
+Bend;Taivuta
+Last-destination (AIQ);Viimeinen kohde (AIQ)
+Tease;Kiusata
+Fish;Kalastaa
+Trap;Trap
+Leap;Harppaus
+Mark;Mark
+Unmark;Poista merkintä
+Open GE Tracker to;Avaa GE Tracker
+Buy: 1 x Iron scimitar;Osta: 1 x rautaleikkuri
+Buy: 1 x Iron platebody;Osta: 1 x rautalevyrunko
+Sell: 1 x Iron dagger;Myydään: 1 x rautatikari
+Wind Strike;Tuulen isku
+Fire Wave;Fire Wave
+Wind Bolt;Tuulipultti
+Wind Blast;Tuulen räjähdys
+Earth Surge;Earth Surge
+Cerrar sesion;Cerrar-istunto
+Last-destination (BLP);Viimeinen kohde (BLP)
+Break-down;Hajoaminen
+Tag;Tag
+Trade-in;Vaihto
+Kitten;Kissanpentu
+Scroll map;Vieritä karttaa
++2%;+2 %
+Water Wave;Vesi aalto
+Last-destination (DJR);Viimeinen määränpää (DJR)
+Illegal / harmful content;Laiton/haitallinen sisältö
+Last-destination (AKR);Viimeinen määränpää (AKR)
+Hammer;Vasara
+Deposit-600;Talletus - 600
+Withdraw-600;Nosto-600
+Withdraw-200000;Nosto - 200 000
+Prospect;Prospekti
+Wind-up;Päättäminen
+Look-under;Katso alta
+Jump-on;Hyppy päälle
+Climb-across;Kiipeä poikki
+Swing-on;Swing-on
+Swing-across;Swing-cross
+Pay-fare;Maksullinen hinta
+Withdraw-3000;Nosto-3000
+Deposit-3000;Talletus - 3000
+Cut down;Kaataa
+Cut-wood;Leikattu puu
+Eperlano;Eperlano
+Last-destination (CKR);Viimeinen kohde (CKR)
+Teeth-grip;Hammaspito
+Last-destination (DKR);Viimeinen kohde (DKR)
+Pick-apple;Pick-omena
+Remove-1;Poista-1
+Cage;Häkki
+Banknotes;Setelit
+Default quantity: 600;Oletusmäärä: 600
+Water Strike;Vesilakko
+Fire Surge;Fire Surge
+Wind Surge;Tuulivoima
+Wind Wave;Tuulen aalto
+Water Surge;Vesihuippu
+Lieutenant;Luutnantti
+General;Kenraali
+Sergeant+;Kersantti+
+Group Storage;Ryhmävarasto
+Corporal;Ruumiillinen
+Anyone;Kuka tahansa
+Lieutenant+;Luutnantti+
+Recruit;Rekrytoida
+Corporal+;Korpraali+
+Captain;Kapteeni
+Options;Vaihtoehdot
+Captain+;Kapteeni+
+Hiscores;Hiscores
+Set prefix;Aseta etuliite
+General+;Yleistä+
+Any friends;Kaikki ystävät
+Recruit+;Rekrytoi+
+Sergeant;Kersantti
+Not ranked;Ei rankattu
+Only me;Vain minä
+Discard;Hävitä
+Expel Guests;Karkottaa vieraita
+On;Päällä
+Viewer;Katsoja
+Call Servant;Soita palvelijalle
+Check materials;Tarkista materiaalit
+X;X
+Show voucher items;Näytä kuponkituotteet
+Events;Tapahtumat
+Chat;Chat
+Hall;Sali
+Apply;Käytä
+Edit;Muokata
+Members;jäsenet
+Permissions;Käyttöoikeudet
+Withdraw-15;Nosto-15
+Deposit-15;Talletus-15
+Dive;Sukeltaa
+Devices;Laitteet
+Charge;Lataa
+Make-raft;Make-lautta
+Check-gates;Tarkista portit
+Gauntlets;Hanskat
+Pop;Pop
+Quetzacalli Gorge;Quetzacallin rotko
+Salvager Overlook;Salvager Overlook
+Auburnvale;Auburnvale
+Quick-exit;Pikapoistuminen
+Turn Dial;Käännä Dial
+Heal;Parantaa
+Up;Ylös
+Down;Alas
+Take-many;Ota - monta
+Withdraw-28;Nosto-28
+Withdraw-65;Nosto-65
+Change-style;Vaihda tyyliä
+Hasty-rummage;Kiireistä rukousta
+Colossal Wyrm Remains;Colossal Wyrm Remains
+Choose;Valita
+Slide-along;Liukua mukaan
+Deposit-40;Talletus - 40
+Withdraw-50;Nosto-50
+Withdraw-40;Nosto-40
+Withdraw-2000;Nosto-2000
+Dive in;Sukella sisään
+Swim to;Ui kohti
+Use-rod;Käyttövarsi
+Swim;Uida
+Construct;Rakentaa
+Deposit-2000;Talletus - 2000
+Get in;Astu sisään
+Take treasure;Ota aarre
+Get-rewards;Hanki palkintoja
+Plant;Kasvi
+Last-destination (DLQ);Viimeinen kohde (DLQ)
+Last-destination (AJP);Viimeinen määränpää (AJP)
+Default quantity: 40;Oletusmäärä: 40
+Load;Ladata
+Demolish;Purkaa
+Quick-escape;Pikapako
+Buy-plank;Osta-lauta
+Leave House;Poistu talosta
+Bedroom;Makuuhuone
+Kitchen;Keittiö
+Deploy;Ota käyttöön
+Deposit-all;Talleta kaikki
+Un-set;Poista asetus
+Portal Nexus;Portaali Nexus
+Sailing Options;Purjehdusvaihtoehdot
+Treasure room;Aarrehuone
+Dungeon - Stairs;Dungeon - Portaat
+Disembark;Poistu aluksesta
+Navigate;Navigoida
+Hall - Skill trophies;Hall - Taitopalkinnot
+Set heading;Aseta otsikko
+Un-set sails;Purjeet purkamatta
+Workshop;Työpaja
+Facilities;Palvelut
+Musa Point;Musa Point
+Garden;Puutarha
+Achievement gallery;Saavutusgalleria
+Set;Sarja
+Raise speed;Nosta nopeutta
+Lower speed;Pienempi nopeus
+Parlour;Sali
+League Hall;Liigan sali
+The Pandemonium;Pandemonium
+Repair-boat;Korjausvene
+Modify;Muuttaa
+Set sails;Aseta purjeet
+Default quantity: 2,000;Oletusmäärä: 2 000
+Build-trap;Rakenna-ansa
+Stop-navigating;Lopeta navigointi
+Pry-open;Avaa
+Bottom-Floor;Pohjakerros
+View-tasks;Näytä tehtävät
+Manage-crew;Hallitse miehistöä
+View-charts;Katselukaaviot
+Shoot;Ampua
+Recover;Palauta
+Crewmates;Miehistön toverit
+Board friend's boat;Hallita ystävän venettä
+Accept task;Hyväksy tehtävä
+Deposit-held;Talletettu
+Deposit-cargo;Talletus-rahti
+Withdraw-7;Nosto-7
+Deposit-7;Talletus-7
+Select option B;Valitse vaihtoehto B
+Default quantity: 7;Oletusmäärä: 7
+Withdraw-2;Nosto-2
+Deposit-2;Talletus-2
+Last-destination (DKP);Viimeinen kohde (DKP)
+Reinforce;Vahvistaa
+Burst;Räjähtää
+Reach;Tavoita
+Free;Ilmainen
+Admire;Ihailla
+Scry;Scry
+Last-destination (AJR);Viimeinen määränpää (AJR)
+Enakhra's Temple;Enakhran temppeli
+Check-charge;Tarkista veloitus
+Enakhra's Temple Entrance;Enakhran temppelin sisäänkäynti
+Last-tier contract;Viimeisen tason sopimus
+Fire-at;Tuli-at
+Deposit-35000;Talletus - 35 000
+Withdraw-35000;Nosto-35 000
+Default quantity: 35,000;Oletusmäärä: 35 000
+Deposit-3;Talletus-3
+Withdraw-3;Nosto-3
+Collect-data;Kerää tietoa
+Bloom;Kukinta
+Listen;Kuunnella
+Hold;Pidä
+Pick-fruit;Poimi-hedelmä
+Last-destination (CLR);Viimeinen kohde (CLR)
+Flush;Huuhtele
+Last-destination (AKQ);Viimeinen määränpää (AKQ)
+Set-trap;Aseta ansa
+Deposit-30;Talletus - 30
+Withdraw-30;Nosto-30
+Default quantity: 30;Oletusmäärä: 30
+Check totals;Tarkista kokonaissummat
+Reverse;Käänteinen
+Stop boat;Pysäytä vene
+Chase;Jahdata
+Interact;Ole vuorovaikutuksessa
+Spectate;Nähdä
+Go-down;Mene alas
+Smell;Haju
+Channel;kanava
+Toggle-absorption;Toggle-absorptio
+Port Khazard;Port Khazard
+Corsair Cove;Corsair Cove
+Charter-to Port Sarim;Tilauslento Port Sarimiin
+Catherby;Catherby
+Charter-to Brimhaven;Charter-Brimhaven

@@ -1046,3 +1046,296 @@ View Your Bonds;Bekijk uw obligaties
 Add finds;Voeg vondsten toe
 View journal <col=ff981f>Demon Slayer</col>;Bekijk dagboek <col=ff981f>Demon Slayer</col>
 Murder;Moord
+Walk-on;Doorloopbaar
+Chill;Chill
+Fix;Repareren
+Take-5;Neem-5
+Take-10;Neem-10
+Bail-with;Borgtocht met
+Comercio con;Commercieel con
+conjuntos;conjunto's
+Eliminar;Eliminatie
+Usar;Gebruiker
+Gota;Goh
+Banco;Banco
+Intercambio;Intercambio
+Seguir;Seguir
+Historia;Geschiedenis
+Recolectar;Recolectar
+Offer-X<col=ff9040>;Aanbieding-X<col=ff9040>
+Offer<col=ff9040>;Aanbieding<col=ff9040>
+Offer-All<col=ff9040>;Aanbieding-alles<col=ff9040>
+Deposit-107;Borg-107
+Offer-10<col=ff9040>;Aanbieding-10<col=ff9040>
+Withdraw-107;Intrekken-107
+Offer-5<col=ff9040>;Aanbieding-5<col=ff9040>
+Assignment;Opdracht
+Last-destination (DKS);Laatste bestemming (DKS)
+Add Favourite;Favoriet toevoegen
+Use code;Gebruik code
+Destroy ALL;Vernietig ALLES
+Comer;Komer
+Deposit-5000;Borg-5000
+Llevar;Llevar
+Precios;Precisies
+Withdraw-5000;Intrekken-5000
+Cocinando;Cocinando
+BotÃ­n;Botín
+Kandarin Monastery;Kandarin-klooster
+Default quantity: 107;Standaard aantal: 107
+Empunar;Empunar
+Deposito;Storting
++50%;+50%
+Default quantity: 5,000;Standaardhoeveelheid: 5.000
+Tener puesto;Tener puesto
+-50%;-50%
+Vista;Uitzicht
+Construir;Construir
+Subir;Subir
+Ingresar;Ingresar
+Bajar;Bajar
+Lanzar;Lanzar
+Mina;Mijn
+Water Bolt;Waterbout
+Use <col=00ff00>Special Attack</col>;Gebruik <col=00ff00>Speciale aanval</col>
+Select option C;Selecteer optie C
+Escape;Ontsnappen
+Exchange fire cape;Vuurcape ruilen
+Last-destination (CKS);Laatste bestemming (CKS)
+-2%;-2%
+Watch;Horloge
+Bend;Kromming
+Last-destination (AIQ);Laatste bestemming (AIQ)
+Tease;Plagen
+Fish;Vis
+Trap;Val
+Leap;Sprong
+Mark;Markering
+Unmark;Markering opheffen
+Open GE Tracker to;Open GE Tracker voor
+Buy: 1 x Iron scimitar;Koop: 1 x ijzeren kromzwaard
+Buy: 1 x Iron platebody;Koop: 1 x ijzeren plaatlichaam
+Sell: 1 x Iron dagger;Verkoop: 1 x IJzeren dolk
+Wind Strike;Windaanval
+Fire Wave;Vuurgolf
+Wind Bolt;Windbout
+Wind Blast;Windstoot
+Earth Surge;Aardegolf
+Cerrar sesion;Cerrar-sessie
+Last-destination (BLP);Laatste bestemming (BLP)
+Break-down;Afbraak
+Tag;Label
+Trade-in;Inruil
+Kitten;Katje
+Scroll map;Blader door de kaart
++2%;+2%
+Water Wave;Watergolf
+Last-destination (DJR);Laatste bestemming (DJR)
+Illegal / harmful content;Illegale/schadelijke inhoud
+Last-destination (AKR);Laatste bestemming (AKR)
+Hammer;Hamer
+Deposit-600;Borg-600
+Withdraw-600;Intrekken-600
+Withdraw-200000;Intrekken-200000
+Prospect;Verwachting
+Wind-up;Opwinden
+Look-under;Kijk onder
+Jump-on;Spring erop
+Climb-across;Klim over
+Swing-on;Swing-aan
+Swing-across;Zwaai over
+Pay-fare;Betaaltarief
+Withdraw-3000;Intrekken-3000
+Deposit-3000;Borg-3000
+Cut down;Snijd af
+Cut-wood;Gezaagd hout
+Eperlano;Eperlano
+Last-destination (CKR);Laatste bestemming (CKR)
+Teeth-grip;Tanden-grip
+Last-destination (DKR);Laatste bestemming (DKR)
+Pick-apple;Pick-appel
+Remove-1;Verwijderen-1
+Cage;Kooi
+Banknotes;Bankbiljetten
+Default quantity: 600;Standaardhoeveelheid: 600
+Water Strike;Wateraanval
+Fire Surge;Brandgolf
+Wind Surge;Windstoot
+Wind Wave;Windgolf
+Water Surge;Watergolf
+Lieutenant;Luitenant
+General;Algemeen
+Sergeant+;Sergeant+
+Group Storage;Groepsopslag
+Corporal;Korporaal
+Anyone;Iedereen
+Lieutenant+;Luitenant+
+Recruit;Werven
+Corporal+;Korporaal+
+Captain;Kapitein
+Options;Opties
+Captain+;Kapitein+
+Hiscores;Hiscores
+Set prefix;Voorvoegsel instellen
+General+;Algemeen+
+Any friends;Enige vrienden
+Recruit+;Rekruteer+
+Sergeant;Sergeant
+Not ranked;Niet gerangschikt
+Only me;Alleen ik
+Discard;Weggooien
+Expel Guests;Gasten wegsturen
+On;Op
+Viewer;Kijker
+Call Servant;Bel dienaar
+Check materials;Controleer materialen
+X;X
+Show voucher items;Toon voucherartikelen
+Events;Evenementen
+Chat;Chatten
+Hall;Hal
+Apply;Toepassen
+Edit;Bewerking
+Members;Leden
+Permissions;Machtigingen
+Withdraw-15;Intrekken-15
+Deposit-15;Borg-15
+Dive;Duiken
+Devices;Apparaten
+Charge;Aanval
+Make-raft;Make-vlot
+Check-gates;Controlepoorten
+Gauntlets;Handschoenen
+Pop;Knal
+Quetzacalli Gorge;Quetzacalli-kloof
+Salvager Overlook;Berger over het hoofd
+Auburnvale;Kastanjebruin
+Quick-exit;Snelle uitgang
+Turn Dial;Draai de wijzerplaat
+Heal;Genezen
+Up;Omhoog
+Down;Omlaag
+Take-many;Neem-veel
+Withdraw-28;Intrekken-28
+Withdraw-65;Intrekken-65
+Change-style;Verander-stijl
+Hasty-rummage;Haastig snuffelen
+Colossal Wyrm Remains;De kolossale Wyrm-overblijfselen
+Choose;Kiezen
+Slide-along;Schuif mee
+Deposit-40;Borg-40
+Withdraw-50;Intrekken-50
+Withdraw-40;Intrekken-40
+Withdraw-2000;Intrekken-2000
+Dive in;Duik erin
+Swim to;Zwem naar
+Use-rod;Gebruik-staaf
+Swim;Zwemmen
+Construct;Construct
+Deposit-2000;Borg-2000
+Get in;Stap in
+Take treasure;Neem een ​​schat
+Get-rewards;Ontvang-beloningen
+Plant;Plant
+Last-destination (DLQ);Laatste bestemming (DLQ)
+Last-destination (AJP);Laatste bestemming (AJP)
+Default quantity: 40;Standaardhoeveelheid: 40
+Load;Laden
+Demolish;Slopen
+Quick-escape;Snel ontsnappen
+Buy-plank;Koopplank
+Leave House;Verlaat Huis
+Bedroom;Slaapkamer
+Kitchen;Keuken
+Deploy;Aanwenden
+Deposit-all;Storting-alles
+Un-set;Niet ingesteld
+Portal Nexus;Portaal Nexus
+Sailing Options;Zeilopties
+Treasure room;Schatkamer
+Dungeon - Stairs;Kerker - Trap
+Disembark;Van boord gaan
+Navigate;Navigeren
+Hall - Skill trophies;Hall - Vaardigheidstrofeeën
+Set heading;Kop instellen
+Un-set sails;Uitgezette zeilen
+Workshop;Werkplaats
+Facilities;Faciliteiten
+Musa Point;Musa Punt
+Garden;Tuin
+Achievement gallery;Prestatiegalerij
+Set;Set
+Raise speed;Verhoog de snelheid
+Lower speed;Lagere snelheid
+Parlour;Salon
+League Hall;Liga zaal
+The Pandemonium;Het pandemonium
+Repair-boat;Reparatie-boot
+Modify;Bewerken
+Set sails;Zeilen zetten
+Default quantity: 2,000;Standaardhoeveelheid: 2.000
+Build-trap;Bouwval
+Stop-navigating;Stop met navigeren
+Pry-open;Wrik open
+Bottom-Floor;Onderste verdieping
+View-tasks;Bekijk-taken
+Manage-crew;Beheer-crew
+View-charts;Bekijk-grafieken
+Shoot;Schieten
+Recover;Herstellen
+Crewmates;Bemanningsleden
+Board friend's boat;Ga aan boord van de boot van een vriend
+Accept task;Accepteer taak
+Deposit-held;In deposito gehouden
+Deposit-cargo;Statiegeld
+Withdraw-7;Intrekken-7
+Deposit-7;Storting-7
+Select option B;Selecteer optie B
+Default quantity: 7;Standaardhoeveelheid: 7
+Withdraw-2;Intrekken-2
+Deposit-2;Storting-2
+Last-destination (DKP);Laatste bestemming (DKP)
+Reinforce;Versterken
+Burst;Uitbarsting
+Reach;Bereik
+Free;Vrij
+Admire;Bewonderen
+Scry;Scry
+Last-destination (AJR);Laatste bestemming (AJR)
+Enakhra's Temple;Enakhra's tempel
+Check-charge;Cheque-kosten
+Enakhra's Temple Entrance;Enakhra's tempelingang
+Last-tier contract;Contract op het laatste niveau
+Fire-at;Vuur-op
+Deposit-35000;Borg-35000
+Withdraw-35000;Intrekken-35000
+Default quantity: 35,000;Standaardhoeveelheid: 35.000
+Deposit-3;Storting-3
+Withdraw-3;Intrekken-3
+Collect-data;Verzamel-gegevens
+Bloom;Bloeien
+Listen;Luisteren
+Hold;Uitstel
+Pick-fruit;Plukfruit
+Last-destination (CLR);Laatste bestemming (CLR)
+Flush;Spoelen
+Last-destination (AKQ);Laatste bestemming (AKQ)
+Set-trap;Set-trap
+Deposit-30;Borg-30
+Withdraw-30;Intrekken-30
+Default quantity: 30;Standaardhoeveelheid: 30
+Check totals;Controleer de totalen
+Reverse;Achteruit
+Stop boat;Boot stoppen
+Chase;Achtervolging
+Interact;Interactie
+Spectate;Toeschouwen
+Go-down;Ga naar beneden
+Smell;Geur
+Channel;Kanaal
+Toggle-absorption;Toggle-absorptie
+Port Khazard;Haven Khazard
+Corsair Cove;Corsair-baai
+Charter-to Port Sarim;Charter-naar Port Sarim
+Catherby;Catherby
+Charter-to Brimhaven;Charter-naar Brimhaven

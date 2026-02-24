@@ -1046,3 +1046,296 @@ View Your Bonds;Se dina obligationer
 Add finds;Lägg till fynd
 View journal <col=ff981f>Demon Slayer</col>;Visa journal <col=ff981f>Demon Slayer</col>
 Murder;Mörda
+Walk-on;Gå på
+Chill;Kyla
+Fix;Fixera
+Take-5;Ta-5
+Take-10;Ta-10
+Bail-with;Borgen med
+Comercio con;Comercio con
+conjuntos;konjuntos
+Eliminar;Eliminar
+Usar;Usar
+Gota;Gotta
+Banco;Banco
+Intercambio;Intercambio
+Seguir;Seguir
+Historia;Historia
+Recolectar;Rekolektar
+Offer-X<col=ff9040>;Erbjudande-X<col=ff9040>
+Offer<col=ff9040>;Erbjudande<col=ff9040>
+Offer-All<col=ff9040>;Erbjudande-Alla<col=ff9040>
+Deposit-107;Insättning-107
+Offer-10<col=ff9040>;Erbjudande-10<col=ff9040>
+Withdraw-107;Uttag-107
+Offer-5<col=ff9040>;Erbjudande-5<col=ff9040>
+Assignment;Uppdrag
+Last-destination (DKS);Sista destination (DKS)
+Add Favourite;Lägg till favorit
+Use code;Använd kod
+Destroy ALL;Förstör ALLA
+Comer;Comer
+Deposit-5000;Deposition-5000
+Llevar;Llevar
+Precios;Precios
+Withdraw-5000;Uttag-5000
+Cocinando;Cocinando
+BotÃ­n;Botín
+Kandarin Monastery;Kandarin kloster
+Default quantity: 107;Standardantal: 107
+Empunar;Empunar
+Deposito;Deposito
++50%;+50 %
+Default quantity: 5,000;Standardantal: 5 000
+Tener puesto;Tener puesto
+-50%;-50 %
+Vista;Perspektiv
+Construir;Construir
+Subir;Subir
+Ingresar;Ingresar
+Bajar;Bajar
+Lanzar;Lanzar
+Mina;Mina
+Water Bolt;Vattenbult
+Use <col=00ff00>Special Attack</col>;Använd <col=00ff00>Special Attack</col>
+Select option C;Välj alternativ C
+Escape;Fly
+Exchange fire cape;Byt eldkappa
+Last-destination (CKS);Sista destination (CKS)
+-2%;-2 %
+Watch;Titta
+Bend;Böja
+Last-destination (AIQ);Sista destination (AIQ)
+Tease;Reta
+Fish;Fisk
+Trap;Fälla
+Leap;Hoppa
+Mark;Mark
+Unmark;Avmarkera
+Open GE Tracker to;Öppna GE Tracker för att
+Buy: 1 x Iron scimitar;Köp: 1 x Iron scimitar
+Buy: 1 x Iron platebody;Köp: 1 x Iron platebody
+Sell: 1 x Iron dagger;Sälj: 1 x järndolk
+Wind Strike;Vindstrejk
+Fire Wave;Eldvåg
+Wind Bolt;Vindbult
+Wind Blast;Vindstöt
+Earth Surge;Jordsvall
+Cerrar sesion;Cerrar-session
+Last-destination (BLP);Sista destination (BLP)
+Break-down;Sammanbrott
+Tag;Märka
+Trade-in;Inbyte
+Kitten;Kattunge
+Scroll map;Rulla kartan
++2%;+2 %
+Water Wave;Vattenvåg
+Last-destination (DJR);Last-destination (DJR)
+Illegal / harmful content;Olagligt/skadligt innehåll
+Last-destination (AKR);Sista destination (AKR)
+Hammer;Hammare
+Deposit-600;Deposition-600
+Withdraw-600;Uttag-600
+Withdraw-200000;Uttag-200 000
+Prospect;Utsikt
+Wind-up;Avveckling
+Look-under;Titta under
+Jump-on;Hoppa på
+Climb-across;Klättra över
+Swing-on;Sväng på
+Swing-across;Sväng över
+Pay-fare;Betala biljettpris
+Withdraw-3000;Uttag-3000
+Deposit-3000;Deposition-3000
+Cut down;Skära ner
+Cut-wood;Klippt trä
+Eperlano;Eperlano
+Last-destination (CKR);Sista destination (CKR)
+Teeth-grip;Tandgrepp
+Last-destination (DKR);Sista destination (DKR)
+Pick-apple;Plock-äpple
+Remove-1;Ta bort-1
+Cage;Bur
+Banknotes;Sedlar
+Default quantity: 600;Standardantal: 600
+Water Strike;Vattenstrejk
+Fire Surge;Brandvåg
+Wind Surge;Vindsvall
+Wind Wave;Vindvåg
+Water Surge;Vattensvall
+Lieutenant;Löjtnant
+General;Allmän
+Sergeant+;Sergeant+
+Group Storage;Grupplagring
+Corporal;Korpral
+Anyone;Någon
+Lieutenant+;Löjtnant+
+Recruit;Rekrytera
+Corporal+;Korpral+
+Captain;Kapten
+Options;Alternativ
+Captain+;Kapten+
+Hiscores;Hiscores
+Set prefix;Ange prefix
+General+;Allmänt+
+Any friends;Några vänner
+Recruit+;Rekrytera+
+Sergeant;Sergeant
+Not ranked;Inte rankad
+Only me;Bara jag
+Discard;Kassera
+Expel Guests;Utvisa gäster
+On;På
+Viewer;Visare
+Call Servant;Ring tjänare
+Check materials;Kontrollera material
+X;X
+Show voucher items;Visa kupongartiklar
+Events;Händelser
+Chat;Chatta
+Hall;Hall
+Apply;Tillämpas
+Edit;Redigera
+Members;Medlemmar
+Permissions;Behörigheter
+Withdraw-15;Uttag-15
+Deposit-15;Insättning-15
+Dive;Dyka
+Devices;Enheter
+Charge;Avgift
+Make-raft;Make-flotte
+Check-gates;Kontrollera grindar
+Gauntlets;Handskar
+Pop;Pop
+Quetzacalli Gorge;Quetzacalli Gorge
+Salvager Overlook;Salvager Overlook
+Auburnvale;Auburnvale
+Quick-exit;Snabbutgång
+Turn Dial;Vrid ratten
+Heal;Läka
+Up;Upp
+Down;Ner
+Take-many;Ta-många
+Withdraw-28;Uttag-28
+Withdraw-65;Uttag-65
+Change-style;Ändra stil
+Hasty-rummage;Brådskande
+Colossal Wyrm Remains;Kolossala Wyrm Remains
+Choose;Välja
+Slide-along;Glid med
+Deposit-40;Deposition-40
+Withdraw-50;Uttag-50
+Withdraw-40;Uttag-40
+Withdraw-2000;Uttag-2000
+Dive in;Dyk in
+Swim to;Simma till
+Use-rod;Använd-stav
+Swim;Simma
+Construct;Konstruera
+Deposit-2000;Deposition-2000
+Get in;Få in
+Take treasure;Ta skatt
+Get-rewards;Få belöningar
+Plant;Plantera
+Last-destination (DLQ);Sista destination (DLQ)
+Last-destination (AJP);Sista destination (AJP)
+Default quantity: 40;Standardantal: 40
+Load;Ladda
+Demolish;Förstöra
+Quick-escape;Snabbflykt
+Buy-plank;Köp-planka
+Leave House;Lämna huset
+Bedroom;Sovrum
+Kitchen;Kök
+Deploy;Distribuera
+Deposit-all;Insättning-allt
+Un-set;Oinställd
+Portal Nexus;Portal Nexus
+Sailing Options;Seglingsalternativ
+Treasure room;Skattrum
+Dungeon - Stairs;Dungeon - Trappor
+Disembark;Landstigning
+Navigate;Navigera
+Hall - Skill trophies;Hall - Skicklighetstroféer
+Set heading;Ställ in rubrik
+Un-set sails;Osatta segel
+Workshop;Verkstad
+Facilities;Faciliteter
+Musa Point;Musa Point
+Garden;Trädgård
+Achievement gallery;Prestationsgalleri
+Set;Uppsättning
+Raise speed;Höj hastigheten
+Lower speed;Lägre hastighet
+Parlour;Salong
+League Hall;Ligahallen
+The Pandemonium;Pandemonium
+Repair-boat;Reparationsbåt
+Modify;Ändra
+Set sails;Sätt segel
+Default quantity: 2,000;Standardantal: 2 000
+Build-trap;Bygg-fälla
+Stop-navigating;Sluta navigera
+Pry-open;Bänd upp
+Bottom-Floor;Bottenvåning
+View-tasks;Visa-uppgifter
+Manage-crew;Leda-besättning
+View-charts;Visa-diagram
+Shoot;Skjuta
+Recover;Återvinna
+Crewmates;Besättningskamrater
+Board friend's boat;Styrelsekompisens båt
+Accept task;Acceptera uppgiften
+Deposit-held;Depositionsinnehav
+Deposit-cargo;Pantlast
+Withdraw-7;Uttag-7
+Deposit-7;Insättning-7
+Select option B;Välj alternativ B
+Default quantity: 7;Standardkvantitet: 7
+Withdraw-2;Uttag-2
+Deposit-2;Insättning-2
+Last-destination (DKP);Sista destination (DKP)
+Reinforce;Förstärka
+Burst;Brista
+Reach;Nå
+Free;Gratis
+Admire;Beundra
+Scry;Scry
+Last-destination (AJR);Sista destination (AJR)
+Enakhra's Temple;Enakhras tempel
+Check-charge;Check-avgift
+Enakhra's Temple Entrance;Enakhras tempelingång
+Last-tier contract;Sista kontraktet
+Fire-at;Fire-at
+Deposit-35000;Deposition-35000
+Withdraw-35000;Uttag-35000
+Default quantity: 35,000;Standardantal: 35 000
+Deposit-3;Insättning-3
+Withdraw-3;Uttag-3
+Collect-data;Samla-data
+Bloom;Blomma
+Listen;Lyssna
+Hold;Hålla
+Pick-fruit;Plockfrukt
+Last-destination (CLR);Last-destination (CLR)
+Flush;Spola
+Last-destination (AKQ);Sista destination (AKQ)
+Set-trap;Ställ-fälla
+Deposit-30;Deposition-30
+Withdraw-30;Uttag-30
+Default quantity: 30;Standardantal: 30
+Check totals;Kontrollera summan
+Reverse;Motsatt
+Stop boat;Stoppa båten
+Chase;Jaga
+Interact;Påverka varandra
+Spectate;Spectate
+Go-down;Gå ner
+Smell;Lukt
+Channel;Kanal
+Toggle-absorption;Toggle-absorption
+Port Khazard;Port Khazard
+Corsair Cove;Corsair Cove
+Charter-to Port Sarim;Charter till Port Sarim
+Catherby;Catherby
+Charter-to Brimhaven;Charter till Brimhaven
