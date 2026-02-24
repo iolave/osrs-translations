@@ -1046,3 +1046,296 @@ View Your Bonds;Vea sus bonos
 Add finds;Agregar hallazgos
 View journal <col=ff981f>Demon Slayer</col>;Ver diario <col=ff981f>Demon Slayer</col>
 Murder;Asesinato
+Walk-on;Caminar
+Chill;Enfriar
+Fix;Arreglar
+Take-5;Toma-5
+Take-10;Toma-10
+Bail-with;fianza con
+Comercio con;Comercio con
+conjuntos;conjuntos
+Eliminar;Eliminar
+Usar;usar
+Gota;gota
+Banco;banco
+Intercambio;Intercambio
+Seguir;Seguir
+Historia;historia
+Recolectar;Recolectar
+Offer-X<col=ff9040>;Oferta-X<col=ff9040>
+Offer<col=ff9040>;Oferta<col=ff9040>
+Offer-All<col=ff9040>;Oferta-Todo<col=ff9040>
+Deposit-107;Depósito-107
+Offer-10<col=ff9040>;Oferta-10<col=ff9040>
+Withdraw-107;Retirar-107
+Offer-5<col=ff9040>;Oferta-5<col=ff9040>
+Assignment;Asignación
+Last-destination (DKS);Último destino (DKS)
+Add Favourite;Agregar favorito
+Use code;Usar código
+Destroy ALL;Destruir TODO
+Comer;Contendiente
+Deposit-5000;Depósito-5000
+Llevar;Llevar
+Precios;Precios
+Withdraw-5000;Retirar-5000
+Cocinando;Cocinando
+BotÃ­n;Botín
+Kandarin Monastery;Monasterio Kandarin
+Default quantity: 107;Cantidad predeterminada: 107
+Empunar;Empunar
+Deposito;Deposito
++50%;+50%
+Default quantity: 5,000;Cantidad predeterminada: 5000
+Tener puesto;tener puesto
+-50%;-50%
+Vista;Vista
+Construir;construir
+Subir;subir
+Ingresar;Ingresar
+Bajar;Bajar
+Lanzar;Lanzar
+Mina;mina
+Water Bolt;Perno de agua
+Use <col=00ff00>Special Attack</col>;Utilice <col=00ff00>Ataque especial</col>
+Select option C;Seleccione la opción C
+Escape;Escapar
+Exchange fire cape;Capa de fuego de intercambio
+Last-destination (CKS);Último destino (CKS)
+-2%;-2%
+Watch;Mirar
+Bend;Doblar
+Last-destination (AIQ);Último destino (AIQ)
+Tease;Fastidiar
+Fish;Pez
+Trap;Trampa
+Leap;Salto
+Mark;Marca
+Unmark;Desmarcar
+Open GE Tracker to;Abra GE Tracker para
+Buy: 1 x Iron scimitar;Comprar: 1 x Cimitarra de hierro
+Buy: 1 x Iron platebody;Comprar: 1 x Placa de hierro
+Sell: 1 x Iron dagger;Vender: 1 x daga de hierro
+Wind Strike;Golpe de viento
+Fire Wave;Ola de fuego
+Wind Bolt;Rayo de viento
+Wind Blast;Explosión de viento
+Earth Surge;Oleada de tierra
+Cerrar sesion;Cerrar sesión
+Last-destination (BLP);Último destino (BLP)
+Break-down;Descomponer
+Tag;Etiqueta
+Trade-in;Intercambio
+Kitten;Gatito
+Scroll map;Desplazarse por el mapa
++2%;+2%
+Water Wave;Ola de agua
+Last-destination (DJR);Último destino (DJR)
+Illegal / harmful content;Contenido ilegal/dañino
+Last-destination (AKR);Último destino (AKR)
+Hammer;Martillo
+Deposit-600;Depósito-600
+Withdraw-600;Retirar-600
+Withdraw-200000;Retirar-200000
+Prospect;Prospecto
+Wind-up;cuerda
+Look-under;mirar debajo
+Jump-on;Saltar
+Climb-across;trepar
+Swing-on;Swing-on
+Swing-across;Girar a través
+Pay-fare;tarifa de pago
+Withdraw-3000;Retirar-3000
+Deposit-3000;Depósito-3000
+Cut down;Reducir
+Cut-wood;madera cortada
+Eperlano;Eperlano
+Last-destination (CKR);Último destino (CKR)
+Teeth-grip;agarre de los dientes
+Last-destination (DKR);Último destino (DKR)
+Pick-apple;recoger manzana
+Remove-1;Quitar-1
+Cage;Jaula
+Banknotes;Billetes
+Default quantity: 600;Cantidad predeterminada: 600
+Water Strike;Golpe de agua
+Fire Surge;Oleada de fuego
+Wind Surge;Oleada de viento
+Wind Wave;Ola de viento
+Water Surge;Oleada de agua
+Lieutenant;Teniente
+General;General
+Sergeant+;Sargento+
+Group Storage;Almacenamiento grupal
+Corporal;Corporal
+Anyone;Alguien
+Lieutenant+;Teniente+
+Recruit;Recluta
+Corporal+;Cabo+
+Captain;Capitán
+Options;Opciones
+Captain+;Capitán+
+Hiscores;puntuaciones
+Set prefix;Establecer prefijo
+General+;Generales+
+Any friends;Cualquier amigo
+Recruit+;Reclutar+
+Sergeant;Sargento
+Not ranked;No clasificado
+Only me;solo yo
+Discard;Desechar
+Expel Guests;Expulsar invitados
+On;En
+Viewer;Espectador
+Call Servant;llamar al servidor
+Check materials;Consultar materiales
+X;incógnita
+Show voucher items;Mostrar artículos de vale
+Events;Eventos
+Chat;Charlar
+Hall;Sala
+Apply;Aplicar
+Edit;Editar
+Members;Miembros
+Permissions;Permisos
+Withdraw-15;Retirar-15
+Deposit-15;Depósito-15
+Dive;Bucear
+Devices;Dispositivos
+Charge;Cargar
+Make-raft;hacer balsa
+Check-gates;Puertas de control
+Gauntlets;Guanteletes
+Pop;Estallido
+Quetzacalli Gorge;Quetzacalli Quetzacalli
+Salvager Overlook;Mirador del salvador
+Auburnvale;Auburnvale
+Quick-exit;salida rápida
+Turn Dial;Girar el dial
+Heal;Sanar
+Up;Arriba
+Down;Abajo
+Take-many;Toma muchos
+Withdraw-28;Retirar-28
+Withdraw-65;Retirar-65
+Change-style;Cambiar de estilo
+Hasty-rummage;hurgar apresuradamente
+Colossal Wyrm Remains;Restos colosales del Wyrm
+Choose;Elegir
+Slide-along;Deslizarse
+Deposit-40;Depósito-40
+Withdraw-50;Retirar-50
+Withdraw-40;Retirar-40
+Withdraw-2000;Retirada-2000
+Dive in;Sumérgete
+Swim to;Nadar para
+Use-rod;varilla de uso
+Swim;Nadar
+Construct;Construir
+Deposit-2000;Depósito-2000
+Get in;Entra
+Take treasure;tomar tesoro
+Get-rewards;Obtener recompensas
+Plant;Planta
+Last-destination (DLQ);Último destino (DLQ)
+Last-destination (AJP);Último destino (AJP)
+Default quantity: 40;Cantidad predeterminada: 40
+Load;Carga
+Demolish;Demoler
+Quick-escape;escape rápido
+Buy-plank;comprar tablón
+Leave House;salir de casa
+Bedroom;Dormitorio
+Kitchen;Cocina
+Deploy;Desplegar
+Deposit-all;Depositar todo
+Un-set;Desarmado
+Portal Nexus;Nexo del portal
+Sailing Options;Opciones de navegación
+Treasure room;sala del tesoro
+Dungeon - Stairs;Mazmorra - Escaleras
+Disembark;Desembarcar
+Navigate;Navegar por
+Hall - Skill trophies;Salón - Trofeos de habilidad
+Set heading;Establecer título
+Un-set sails;Velas desarmadas
+Workshop;Taller
+Facilities;Instalaciones
+Musa Point;Punto Musa
+Garden;Jardín
+Achievement gallery;Galería de logros
+Set;Colocar
+Raise speed;aumentar la velocidad
+Lower speed;Velocidad más baja
+Parlour;Salón
+League Hall;Salón de la liga
+The Pandemonium;El pandemonio
+Repair-boat;barco de reparación
+Modify;Modificar
+Set sails;Zarpar
+Default quantity: 2,000;Cantidad predeterminada: 2000
+Build-trap;trampa de construcción
+Stop-navigating;dejar de navegar
+Pry-open;abrir
+Bottom-Floor;Piso inferior
+View-tasks;Ver tareas
+Manage-crew;Administrar tripulación
+View-charts;Ver gráficos
+Shoot;Disparar
+Recover;Recuperar
+Crewmates;Compañeros de tripulación
+Board friend's boat;Sube al barco de un amigo
+Accept task;Aceptar tarea
+Deposit-held;Depósito retenido
+Deposit-cargo;depósito-carga
+Withdraw-7;Retirar-7
+Deposit-7;Depósito-7
+Select option B;Seleccione la opción B
+Default quantity: 7;Cantidad predeterminada: 7
+Withdraw-2;Retirar-2
+Deposit-2;Depósito-2
+Last-destination (DKP);Último destino (DKP)
+Reinforce;Reforzarse
+Burst;Explosión
+Reach;Alcanzar
+Free;Gratis
+Admire;Admirar
+Scry;Adivinar
+Last-destination (AJR);Último destino (AJR)
+Enakhra's Temple;Templo de Enakhra
+Check-charge;cheque-cargo
+Enakhra's Temple Entrance;Entrada al templo de Enakhra
+Last-tier contract;Contrato de último nivel
+Fire-at;fuego
+Deposit-35000;Depósito-35000
+Withdraw-35000;Retirar-35000
+Default quantity: 35,000;Cantidad predeterminada: 35.000
+Deposit-3;Depósito-3
+Withdraw-3;Retirar-3
+Collect-data;Recopilar datos
+Bloom;Floración
+Listen;Escuchar
+Hold;Sostener
+Pick-fruit;recoger fruta
+Last-destination (CLR);Último destino (CLR)
+Flush;Enjuagar
+Last-destination (AKQ);Último destino (AKQ)
+Set-trap;trampa
+Deposit-30;Depósito-30
+Withdraw-30;Retirar-30
+Default quantity: 30;Cantidad predeterminada: 30
+Check totals;Consultar totales
+Reverse;Contrarrestar
+Stop boat;Parar barco
+Chase;Perseguir
+Interact;Interactuar
+Spectate;Espectar
+Go-down;bajar
+Smell;Oler
+Channel;Canal
+Toggle-absorption;absorción de palanca
+Port Khazard;Puerto Khazard
+Corsair Cove;Cala Corsaria
+Charter-to Port Sarim;Carta a Port Sarim
+Catherby;catherby
+Charter-to Brimhaven;Carta a Brimhaven
