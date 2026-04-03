@@ -2304,3 +2304,81 @@ Exit Speedrunning;Sair do Speedrunning
 Default quantity: 20;Quantidade padrão: 20
 Withdraw-11;Retirar-11
 Withdraw-6;Retirar-6
+Withdraw-30002;Retirar-30002
+Withdraw-2502;Retirar-2502
+Withdraw-3002;Retirar-3002
+Deposit-2502;Depósito-2502
+Deposit-30002;Depósito-30002
+Quick-travel;Viagem rápida
+Roll;Rolar
+Default quantity: 30,002;Quantidade padrão: 30.002
+Step-over;Passo a passo
+Hall - Quest trophies;Hall – Troféus de missão
+Menagerie (indoors);Zoológico (dentro de casa)
+Menagerie (outdoors);Zoológico (ao ar livre)
+Buy: 5 x Stamina potion(4);Comprar: 5 x Poção de Vigor(4)
+Withdraw-3728;Retirar-3728
+Default quantity: 3,728;Quantidade padrão: 3.728
+Make <col=ff9040>Sapphire necklace</col>;Faça <col=ff9040>Colar de safira</col>
+Darkmeyer;Darkmeyer
+Ver Sinhaza;Ver Sinhaza
+Slepe;Dormir
+Skilling Areas;Áreas de qualificação
+Teleport Boat (Pandemonium);Barco Teletransportador (Pandemônio)
+Stamina Boost;Aumento de resistência
+Ring of Life;Anel da Vida
+Rename boat;Renomear barco
+Warrior's Guild;Guilda dos Guerreiros
+Otto's Grotto;Gruta de Otto
+Rename Boat;Renomear barco
+POH Portals;Portais POH
+Teleports;Teleportes
+Guild Teleports;Teleportes de Guilda
+<col=f54927>Home</col>;<col=f54927>Página inicial</col>
+Feldip Hills;Colinas Feldip
+Black chinchompas;Chinchompas pretas
+Carnivorous chinchompas;Chinchompas carnívoras
+Barbarian fishing;Pesca bárbara
+Deposit-42;Depósito-42
+Withdraw-42;Retirar-42
+The Darkfrost;A Geada Negra
+<col=E89C46>Kastori</col>;<col=E89C46>Castori</col>
+Deposit-3728;Depósito-3728
+Deposit-50;Depósito-50
+Craft-goods;Artigos artesanais
+Pass-to;Passar para
+Mineral Pack;Pacote Mineral
+Teleport to <col=ff8040>Pest Control</col>;Teleporte para <col=ff8040>Controle de Pragas</col>
+Join <col=ff8040>Pest Control</col> channel;Participe do canal <col=ff8040>Controle de pragas</col>
+Switch <col=ff8040>344</col>;Alternar <col=ff8040>344</col>
+Draw;Empate
+Count;Contar
+She/her;Ela/ela
+Select colour;Selecione a cor
+Body type B;Corpo tipo B
+They/them;Eles/eles
+Disable-XP;Desativar-XP
+Store-axe;Machado de loja
+Reset puzzle;Redefinir quebra-cabeça
+turn tile;virar ladrilho
+Sindarpos;Sindarpos
+Evade;Fugir
+Off/On;Ligado/Desligado
+Sell: 12 x Iron dagger;Venda: 12 x adaga de ferro
+Start-wave;Onda inicial
+Finish;Terminar
+Make-helmet;Capacete
+Hoop;Aro
+Take-kettle;Chaleira
+Recharge-whistle;Apito de recarga
+Intimidate;Intimidar
+Untangle;Desembaraçar
+Tree Gnome Village;Aldeia dos Gnomos Arborícolas
+Move left;Mover para a esquerda
+Turn-left;Vire à esquerda
+Move up;Subir
+Turn-right;Vire à direita
+Move right;Mover para a direita
+Move down;Mover para baixo
+Turn clockwise;Gire no sentido horário
+Turn anti-clockwise;Gire no sentido anti-horário

@@ -2304,3 +2304,81 @@ Exit Speedrunning;Avsluta Speedrunning
 Default quantity: 20;Standardantal: 20
 Withdraw-11;Uttag-11
 Withdraw-6;Uttag-6
+Withdraw-30002;Uttag-30002
+Withdraw-2502;Uttag-2502
+Withdraw-3002;Återkalla-3002
+Deposit-2502;Deposition-2502
+Deposit-30002;Deposition-30002
+Quick-travel;Snabbresa
+Roll;Rulla
+Default quantity: 30,002;Standardkvantitet: 30 002
+Step-over;Steg över
+Hall - Quest trophies;Hall - Quest-troféer
+Menagerie (indoors);Menageri (inomhus)
+Menagerie (outdoors);Menageri (utomhus)
+Buy: 5 x Stamina potion(4);Köp: 5 x Stamina potion(4)
+Withdraw-3728;Uttag-3728
+Default quantity: 3,728;Standardantal: 3 728
+Make <col=ff9040>Sapphire necklace</col>;Gör <col=ff9040>Safirhalsband</col>
+Darkmeyer;Darkmeyer
+Ver Sinhaza;Ver Sinhaza
+Slepe;Sömn
+Skilling Areas;Färdighetsområden
+Teleport Boat (Pandemonium);Teleportera båt (Pandemonium)
+Stamina Boost;Stamina Boost
+Ring of Life;Livets ring
+Rename boat;Byt namn på båten
+Warrior's Guild;Warrior's Guild
+Otto's Grotto;Ottos grotta
+Rename Boat;Byt namn på båt
+POH Portals;POH-portaler
+Teleports;Teleporterar
+Guild Teleports;Guild teleporterar
+<col=f54927>Home</col>;<col=f54927>Hem</col>
+Feldip Hills;Feldip Hills
+Black chinchompas;Svarta chinchompas
+Carnivorous chinchompas;Köttätande chinchompas
+Barbarian fishing;Barbarfiske
+Deposit-42;Insättning-42
+Withdraw-42;Uttag-42
+The Darkfrost;Darkfrost
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Deposit-3728;Deposition-3728
+Deposit-50;Insättning-50
+Craft-goods;Hantverksvaror
+Pass-to;Pass-to
+Mineral Pack;Mineralförpackning
+Teleport to <col=ff8040>Pest Control</col>;Teleportera till <col=ff8040>skadedjursbekämpning</col>
+Join <col=ff8040>Pest Control</col> channel;Gå med i kanalen <col=ff8040>skadedjursbekämpning</col>
+Switch <col=ff8040>344</col>;Switch <col=ff8040>344</col>
+Draw;Dra
+Count;Räkna
+She/her;Hon/hon
+Select colour;Välj färg
+Body type B;Kroppstyp B
+They/them;De/dem
+Disable-XP;Inaktivera-XP
+Store-axe;Store-yxa
+Reset puzzle;Återställ pussel
+turn tile;vänd kakel
+Sindarpos;Sindarpos
+Evade;Undgå
+Off/On;Av/På
+Sell: 12 x Iron dagger;Sälj: 12 x Järndolk
+Start-wave;Start-våg
+Finish;Avsluta
+Make-helmet;Gör-hjälm
+Hoop;Hoop
+Take-kettle;Ta-vattenkokare
+Recharge-whistle;Ladda-vissla
+Intimidate;Skrämma
+Untangle;Reda ut
+Tree Gnome Village;Tree Gnome Village
+Move left;Flytta vänster
+Turn-left;Sväng vänster
+Move up;Flytta upp
+Turn-right;Sväng höger
+Move right;Flytta höger
+Move down;Flytta ner
+Turn clockwise;Vrid medurs
+Turn anti-clockwise;Vrid moturs

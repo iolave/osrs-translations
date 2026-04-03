@@ -2304,3 +2304,81 @@ Exit Speedrunning;Quitter le speedrun
 Default quantity: 20;Quantité par défaut : 20
 Withdraw-11;Retrait-11
 Withdraw-6;Retrait-6
+Withdraw-30002;Retrait-30002
+Withdraw-2502;Retrait-2502
+Withdraw-3002;Retrait-3002
+Deposit-2502;Dépôt-2502
+Deposit-30002;Dépôt-30002
+Quick-travel;Voyage rapide
+Roll;Rouler
+Default quantity: 30,002;Quantité par défaut : 30 002
+Step-over;Enjambement
+Hall - Quest trophies;Hall - Trophées de quête
+Menagerie (indoors);Ménagerie (à l'intérieur)
+Menagerie (outdoors);Ménagerie (extérieur)
+Buy: 5 x Stamina potion(4);Acheter: 5 x Potion d'endurance(4)
+Withdraw-3728;Retrait-3728
+Default quantity: 3,728;Quantité par défaut : 3 728
+Make <col=ff9040>Sapphire necklace</col>;Fabriquer un <col=ff9040>Collier saphir</col>
+Darkmeyer;Darkmeyer
+Ver Sinhaza;Ver Sinhaza
+Slepe;Dormir
+Skilling Areas;Domaines de compétences
+Teleport Boat (Pandemonium);Bateau de téléportation (Pandemonium)
+Stamina Boost;Boost d'endurance
+Ring of Life;Anneau de vie
+Rename boat;Renommer le bateau
+Warrior's Guild;Guilde des guerriers
+Otto's Grotto;Grotte d'Otton
+Rename Boat;Renommer le bateau
+POH Portals;Portails POH
+Teleports;Téléportations
+Guild Teleports;Téléportations de guilde
+<col=f54927>Home</col>;<col=f54927>Accueil</col>
+Feldip Hills;Collines Feldip
+Black chinchompas;Chinchonpas noirs
+Carnivorous chinchompas;Chinchonpas carnivores
+Barbarian fishing;Pêche barbare
+Deposit-42;Dépôt-42
+Withdraw-42;Retrait-42
+The Darkfrost;Le Givre Sombre
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Deposit-3728;Dépôt-3728
+Deposit-50;Dépôt-50
+Craft-goods;Produits artisanaux
+Pass-to;Passer à
+Mineral Pack;Pack Minéral
+Teleport to <col=ff8040>Pest Control</col>;Téléportation vers <col=ff8040>Contrôle antiparasitaire</col>
+Join <col=ff8040>Pest Control</col> channel;Rejoignez la chaîne <col=ff8040>Lutte antiparasitaire</col>
+Switch <col=ff8040>344</col>;Changer <col=ff8040>344</col>
+Draw;Dessiner
+Count;Compter
+She/her;Elle/elle
+Select colour;Sélectionnez la couleur
+Body type B;Type de carrosserie B
+They/them;Ils/eux
+Disable-XP;Désactiver-XP
+Store-axe;Hache de magasin
+Reset puzzle;Réinitialiser l'énigme
+turn tile;tourner la tuile
+Sindarpos;Sindarpos
+Evade;Éluder
+Off/On;Arrêt/Marche
+Sell: 12 x Iron dagger;Vendre : 12 x Dague de fer
+Start-wave;Vague de départ
+Finish;Finition
+Make-helmet;Faire un casque
+Hoop;Cerceau
+Take-kettle;Bouilloire à emporter
+Recharge-whistle;Sifflet de recharge
+Intimidate;Intimider
+Untangle;Démêler
+Tree Gnome Village;Village des Gnomes des Arbres
+Move left;Déplacer vers la gauche
+Turn-left;Tourner à gauche
+Move up;Monter
+Turn-right;Tournez à droite
+Move right;Déplacer à droite
+Move down;Descendre
+Turn clockwise;Tourner dans le sens des aiguilles d'une montre
+Turn anti-clockwise;Tourner dans le sens inverse des aiguilles d'une montre

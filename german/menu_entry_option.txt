@@ -2304,3 +2304,81 @@ Exit Speedrunning;Beenden Sie Speedrunning
 Default quantity: 20;Standardmenge: 20
 Withdraw-11;Rückzug-11
 Withdraw-6;Rückzug-6
+Withdraw-30002;Rückzug-30002
+Withdraw-2502;Rückzug-2502
+Withdraw-3002;Rückzug-3002
+Deposit-2502;Anzahlung-2502
+Deposit-30002;Anzahlung-30002
+Quick-travel;Schnellreise
+Roll;Rollen
+Default quantity: 30,002;Standardmenge: 30.002
+Step-over;Übersteigen
+Hall - Quest trophies;Halle – Quest-Trophäen
+Menagerie (indoors);Menagerie (drinnen)
+Menagerie (outdoors);Menagerie (im Freien)
+Buy: 5 x Stamina potion(4);Kaufen: 5 x Ausdauertrank(4)
+Withdraw-3728;Rückzug-3728
+Default quantity: 3,728;Standardmenge: 3.728
+Make <col=ff9040>Sapphire necklace</col>;Machen Sie eine <col=ff9040>Saphir-Halskette</col>
+Darkmeyer;Darkmeyer
+Ver Sinhaza;Ver Sinhaza
+Slepe;Schlaf
+Skilling Areas;Kompetenzbereiche
+Teleport Boat (Pandemonium);Teleportboot (Pandämonium)
+Stamina Boost;Ausdauerschub
+Ring of Life;Ring des Lebens
+Rename boat;Boot umbenennen
+Warrior's Guild;Kriegergilde
+Otto's Grotto;Ottos Grotte
+Rename Boat;Boot umbenennen
+POH Portals;POH-Portale
+Teleports;Teleportiert
+Guild Teleports;Gildenteleports
+<col=f54927>Home</col>;<col=f54927>Startseite</col>
+Feldip Hills;Feldip Hills
+Black chinchompas;Schwarze Chinchompas
+Carnivorous chinchompas;Fleischfressende Chinchompas
+Barbarian fishing;Barbarenfischen
+Deposit-42;Anzahlung-42
+Withdraw-42;Rückzug-42
+The Darkfrost;Der Dunkelfrost
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Deposit-3728;Anzahlung-3728
+Deposit-50;Anzahlung: 50
+Craft-goods;Handwerkswaren
+Pass-to;Pass-to
+Mineral Pack;Mineralienpackung
+Teleport to <col=ff8040>Pest Control</col>;Teleportieren Sie sich zur <col=ff8040>Schädlingsbekämpfung</col>
+Join <col=ff8040>Pest Control</col> channel;Treten Sie dem Kanal <col=ff8040>Schädlingsbekämpfung</col> bei
+Switch <col=ff8040>344</col>;Schalter <col=ff8040>344</col>
+Draw;Ziehen
+Count;Zählen
+She/her;Sie/sie
+Select colour;Farbe auswählen
+Body type B;Körpertyp B
+They/them;Sie/sie
+Disable-XP;Disable-XP
+Store-axe;Lageraxt
+Reset puzzle;Rätsel zurücksetzen
+turn tile;Fliese wenden
+Sindarpos;Sindarpos
+Evade;Ausweichen
+Off/On;Aus/Ein
+Sell: 12 x Iron dagger;Verkaufe: 12 x Eisendolch
+Start-wave;Startwelle
+Finish;Beenden
+Make-helmet;Make-Helm
+Hoop;Band
+Take-kettle;Take-Wasserkocher
+Recharge-whistle;Aufladepfeife
+Intimidate;Einschüchtern
+Untangle;Entwirren
+Tree Gnome Village;Baumzwergdorf
+Move left;Bewegen Sie sich nach links
+Turn-left;Biegen Sie links ab
+Move up;Bewegen Sie sich nach oben
+Turn-right;Biegen Sie rechts ab
+Move right;Bewegen Sie sich nach rechts
+Move down;Bewegen Sie sich nach unten
+Turn clockwise;Im Uhrzeigersinn drehen
+Turn anti-clockwise;Gegen den Uhrzeigersinn drehen

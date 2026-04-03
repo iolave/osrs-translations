@@ -2304,3 +2304,81 @@ Exit Speedrunning;Sluit Speedrunning af
 Default quantity: 20;Standaardhoeveelheid: 20
 Withdraw-11;Intrekken-11
 Withdraw-6;Intrekken-6
+Withdraw-30002;Intrekken-30002
+Withdraw-2502;Intrekken-2502
+Withdraw-3002;Intrekken-3002
+Deposit-2502;Borg-2502
+Deposit-30002;Borg-30002
+Quick-travel;Snel reizen
+Roll;Rollen
+Default quantity: 30,002;Standaardhoeveelheid: 30.002
+Step-over;Stap over
+Hall - Quest trophies;Hall - Quest-trofeeën
+Menagerie (indoors);Menagerie (binnen)
+Menagerie (outdoors);Menagerie (buiten)
+Buy: 5 x Stamina potion(4);Koop: 5 x Stamina-drankje(4)
+Withdraw-3728;Intrekken-3728
+Default quantity: 3,728;Standaardhoeveelheid: 3.728
+Make <col=ff9040>Sapphire necklace</col>;Maak <col=ff9040>Saffierhalsketting</col>
+Darkmeyer;Donkermeyer
+Ver Sinhaza;Ver Sinhaza
+Slepe;Slaap
+Skilling Areas;Vaardigheidsgebieden
+Teleport Boat (Pandemonium);Teleportboot (Pandemonium)
+Stamina Boost;Uithoudingsvermogen-boost
+Ring of Life;Ring van leven
+Rename boat;Boot hernoemen
+Warrior's Guild;Krijgersgilde
+Otto's Grotto;Otto's grot
+Rename Boat;Naam van boot wijzigen
+POH Portals;POH-portals
+Teleports;Teleporteert
+Guild Teleports;Gilde teleporteert
+<col=f54927>Home</col>;<col=f54927>Thuis</col>
+Feldip Hills;Feldip-heuvels
+Black chinchompas;Zwarte chinchompas
+Carnivorous chinchompas;Vleesetende chinchompas
+Barbarian fishing;Barbaarse visserij
+Deposit-42;Borg-42
+Withdraw-42;Intrekken-42
+The Darkfrost;De Donkervorst
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Deposit-3728;Borg-3728
+Deposit-50;Borg-50
+Craft-goods;Ambachtelijke goederen
+Pass-to;Doorgeven aan
+Mineral Pack;Mineraalpakket
+Teleport to <col=ff8040>Pest Control</col>;Teleporteer naar <col=ff8040>Ongediertebestrijding</col>
+Join <col=ff8040>Pest Control</col> channel;Sluit je aan bij het kanaal <col=ff8040>Pest Control</col>
+Switch <col=ff8040>344</col>;Schakel <col=ff8040>344</col> over
+Draw;Tekenen
+Count;Graaf
+She/her;Zij/haar
+Select colour;Selecteer kleur
+Body type B;Lichaamstype B
+They/them;Zij/hen
+Disable-XP;Schakel XP uit
+Store-axe;Winkelbijl
+Reset puzzle;Puzzel opnieuw instellen
+turn tile;tegel draaien
+Sindarpos;Sindarpos
+Evade;Ontwijken
+Off/On;Uit/Aan
+Sell: 12 x Iron dagger;Verkoop: 12 x IJzeren dolk
+Start-wave;Start-golf
+Finish;Finish
+Make-helmet;Merk-helm
+Hoop;Hoepel
+Take-kettle;Neem-waterkoker
+Recharge-whistle;Oplaadfluit
+Intimidate;Intimideren
+Untangle;Ontwarren
+Tree Gnome Village;Boomkabouterdorp
+Move left;Ga naar links
+Turn-left;Sla linksaf
+Move up;Ga omhoog
+Turn-right;Sla rechtsaf
+Move right;Ga naar rechts
+Move down;Ga naar beneden
+Turn clockwise;Draai met de klok mee
+Turn anti-clockwise;Draai tegen de klok in

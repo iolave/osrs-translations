@@ -2304,3 +2304,81 @@ Exit Speedrunning;Esci dallo Speedrunning
 Default quantity: 20;Quantità predefinita: 20
 Withdraw-11;Ritiro-11
 Withdraw-6;Ritiro-6
+Withdraw-30002;Ritiro-30002
+Withdraw-2502;Ritiro-2502
+Withdraw-3002;Ritiro-3002
+Deposit-2502;Deposito-2502
+Deposit-30002;Deposito-30002
+Quick-travel;Viaggio veloce
+Roll;Rotolo
+Default quantity: 30,002;Quantità predefinita: 30.002
+Step-over;Passo oltre
+Hall - Quest trophies;Sala: trofei delle missioni
+Menagerie (indoors);Serraglio (all'interno)
+Menagerie (outdoors);Serraglio (all'aperto)
+Buy: 5 x Stamina potion(4);Acquista: 5 pozioni di resistenza(4)
+Withdraw-3728;Ritiro-3728
+Default quantity: 3,728;Quantità predefinita: 3.728
+Make <col=ff9040>Sapphire necklace</col>;Realizza <col=ff9040>Collana di zaffiri</col>
+Darkmeyer;Darkmeyer
+Ver Sinhaza;Vedi Sinhaza
+Slepe;Dormire
+Skilling Areas;Aree di competenza
+Teleport Boat (Pandemonium);Barca di teletrasporto (Pandemonium)
+Stamina Boost;Aumento della resistenza
+Ring of Life;Anello della vita
+Rename boat;Rinominare la barca
+Warrior's Guild;Gilda dei Guerrieri
+Otto's Grotto;La Grotta di Ottone
+Rename Boat;Rinomina Barca
+POH Portals;Portali POH
+Teleports;Teletrasporta
+Guild Teleports;Teletrasporto della gilda
+<col=f54927>Home</col>;<col=f54927>Casa</col>
+Feldip Hills;Feldip Colline
+Black chinchompas;Cincinnati neri
+Carnivorous chinchompas;Cincincompa carnivori
+Barbarian fishing;Pesca barbara
+Deposit-42;Deposito-42
+Withdraw-42;Ritiro-42
+The Darkfrost;Il gelo oscuro
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Deposit-3728;Deposito-3728
+Deposit-50;Deposito-50
+Craft-goods;Articoli artigianali
+Pass-to;Passare a
+Mineral Pack;Pacchetto Minerale
+Teleport to <col=ff8040>Pest Control</col>;Teletrasportati al <col=ff8040>Disinfestazione</col>
+Join <col=ff8040>Pest Control</col> channel;Unisciti al canale <col=ff8040>Disinfestazione</col>
+Switch <col=ff8040>344</col>;Cambia <col=ff8040>344</col>
+Draw;Disegno
+Count;Contare
+She/her;Lei/lei
+Select colour;Seleziona il colore
+Body type B;Tipo di carrozzeria B
+They/them;Loro/loro
+Disable-XP;Disabilita XP
+Store-axe;Ascia da negozio
+Reset puzzle;Reimposta l'enigma
+turn tile;girare la tessera
+Sindarpos;Sindarpos
+Evade;Eludere
+Off/On;Spento/Acceso
+Sell: 12 x Iron dagger;Vendita: 12 x Pugnale di ferro
+Start-wave;Onda di partenza
+Finish;Fine
+Make-helmet;Make-casco
+Hoop;Cerchio
+Take-kettle;Bollitore
+Recharge-whistle;Fischio di ricarica
+Intimidate;Intimidire
+Untangle;Districare
+Tree Gnome Village;Villaggio degli Gnomi degli Alberi
+Move left;Spostati a sinistra
+Turn-left;Girare a sinistra
+Move up;Vai su
+Turn-right;Girare a destra
+Move right;Muoviti a destra
+Move down;Spostati giù
+Turn clockwise;Girare in senso orario
+Turn anti-clockwise;Girare in senso antiorario
