@@ -2304,3 +2304,81 @@ Exit Speedrunning;Lopeta Speedrunning
 Default quantity: 20;Oletusmäärä: 20
 Withdraw-11;Nosto-11
 Withdraw-6;Nosto-6
+Withdraw-30002;Nosto-30002
+Withdraw-2502;Nosto-2502
+Withdraw-3002;Nosto-3002
+Deposit-2502;Talletus-2502
+Deposit-30002;Talletus-30002
+Quick-travel;Pikamatka
+Roll;Rullaa
+Default quantity: 30,002;Oletusmäärä: 30 002
+Step-over;Astu yli
+Hall - Quest trophies;Hall - Quest-palkinnot
+Menagerie (indoors);Menagerie (sisätiloissa)
+Menagerie (outdoors);Menagerie (ulkona)
+Buy: 5 x Stamina potion(4);Osta: 5 x Stamina potion (4)
+Withdraw-3728;Nosto-3728
+Default quantity: 3,728;Oletusmäärä: 3 728
+Make <col=ff9040>Sapphire necklace</col>;Tee <col=ff9040>safiirikaulakoru</col>
+Darkmeyer;Darkmeyer
+Ver Sinhaza;Ver Sinhaza
+Slepe;Nuku
+Skilling Areas;Osaamisalueet
+Teleport Boat (Pandemonium);Teleport Boat (Pandemonium)
+Stamina Boost;Stamina Boost
+Ring of Life;Elämän rengas
+Rename boat;Nimeä vene uudelleen
+Warrior's Guild;Warrior's Guild
+Otto's Grotto;Otton luola
+Rename Boat;Nimeä vene uudelleen
+POH Portals;POH-portaalit
+Teleports;Teleportit
+Guild Teleports;Guild Teleports
+<col=f54927>Home</col>;<col=f54927>Etusivu</col>
+Feldip Hills;Feldip Hills
+Black chinchompas;Mustat chinchompat
+Carnivorous chinchompas;Lihansyöjä chinchompas
+Barbarian fishing;Barbaarikalastus
+Deposit-42;Talletus-42
+Withdraw-42;Nosto-42
+The Darkfrost;The Darkfrost
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Deposit-3728;Talletus-3728
+Deposit-50;Talletus - 50
+Craft-goods;Käsityötavarat
+Pass-to;Pass-to
+Mineral Pack;Mineraalipaketti
+Teleport to <col=ff8040>Pest Control</col>;Teleportoi <col=ff8040>tuholaistorjuntaan</col>
+Join <col=ff8040>Pest Control</col> channel;Liity <col=ff8040>Tuholaistorjunta</col>-kanavalle
+Switch <col=ff8040>344</col>;Vaihda <col=ff8040>344</col>
+Draw;Piirrä
+Count;Laskea
+She/her;Hän/hänen
+Select colour;Valitse väri
+Body type B;Runkotyyppi B
+They/them;He/he
+Disable-XP;Poista XP käytöstä
+Store-axe;Kauppakirves
+Reset puzzle;Nollaa palapeli
+turn tile;käännä laatta
+Sindarpos;Sindarpos
+Evade;Kiertää
+Off/On;Pois/päällä
+Sell: 12 x Iron dagger;Myydään: 12 x rautatikari
+Start-wave;Aloitus-aalto
+Finish;Valmis
+Make-helmet;Make-kypärä
+Hoop;Vanne
+Take-kettle;Take-vedenkeitin
+Recharge-whistle;Lataus-pilli
+Intimidate;Pelotella
+Untangle;Selvittää
+Tree Gnome Village;Tree Gnome Village
+Move left;Siirrä vasemmalle
+Turn-left;Käänny vasemmalle
+Move up;Siirrä ylös
+Turn-right;Käänny oikealle
+Move right;Siirrä oikealle
+Move down;Siirry alas
+Turn clockwise;Kierrä myötäpäivään
+Turn anti-clockwise;Kierrä vastapäivään
