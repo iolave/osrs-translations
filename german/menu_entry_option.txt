@@ -2521,3 +2521,25 @@ Question;Frage
 Survey;Umfrage
 Rejoindre;Wiederkommen
 Escalader;Rolltreppe
+Leave Tomb;Verlasse das Grab
+Start-minigame;Minispiel starten
+Check for Snakes;Suchen Sie nach Schlangen
+Quick-leave;Schnell gehen
+Push-through;Durchsteckbar
+Quick-withdraw;Schneller Rückzug
+Toggle-view;Ansicht umschalten
+Recharge-prayer;Aufladegebet
+Last-destination (DIS);Letztes Ziel (DIS)
+Last-destination (BKP);Letztes Ziel (BKP)
+Withdraw-51;Rückzug-51
+Deposit-60;Anzahlung: 60
+Deposit-51;Anzahlung-51
+Withdraw-732;Rückzug-732
+Withdraw-636;Rückzug-636
+Withdraw-64;Rückzug-64
+Withdraw-60;Rückzug-60
+Deposit-732;Anzahlung-732
+À l'extérieur;Im Außenbereich
+Couper;Couper
+Default quantity: 60;Standardmenge: 60
+Deposit-236;Anzahlung-236

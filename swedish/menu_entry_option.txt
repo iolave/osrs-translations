@@ -2521,3 +2521,25 @@ Question;Fråga
 Survey;Undersökning
 Rejoindre;Rejoindre
 Escalader;Escalader
+Leave Tomb;Lämna Tomb
+Start-minigame;Start-minispel
+Check for Snakes;Kolla efter ormar
+Quick-leave;Snabbt lämna
+Push-through;Genomskjutning
+Quick-withdraw;Snabbuttag
+Toggle-view;Växla-vy
+Recharge-prayer;Ladda-bön
+Last-destination (DIS);Sista destination (DIS)
+Last-destination (BKP);Sista destination (BKP)
+Withdraw-51;Uttag-51
+Deposit-60;Insättning-60
+Deposit-51;Insättning-51
+Withdraw-732;Uttag-732
+Withdraw-636;Uttag-636
+Withdraw-64;Uttag-64
+Withdraw-60;Uttag-60
+Deposit-732;Deposition-732
+À l'extérieur;À l'extérieur
+Couper;Couper
+Default quantity: 60;Standardantal: 60
+Deposit-236;Insättning-236

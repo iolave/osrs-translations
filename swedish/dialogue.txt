@@ -87324,3 +87324,271 @@ Vous cherchez une fille blonde, qui s'appelle Juliette..assez jolie... vous ne l
 Bravo.;Bravo.
 Pouvez-vous m'aider, s'il vous plaît ? Je suis dans une situation très difficile.;Pouvez-vous m'aider, s'il vous plaît ? Je suis dans une situation très difficile.
 Vous avez l'air affamé. Je vais vous dire : prenez un Sandwich carré pour moi.;Vous avez l'air affamé. Je vais vous dire : prenez un Sandwich carré pour moi.
+You're still hunting blue dragons in the Catacombs of Kourend, with 167 to go. Come back when you're finished.;Du jagar fortfarande blå drakar i katakomberna i Kourend, med 167 kvar. Kom tillbaka när du är klar.
+Start the Troll Romance quest?;Starta uppdraget Troll Romance?
+Ehh, Excuse me... Mr. Troll, sir, ;Ehh, ursäkta... Mr. Troll, sir,
+Clean all your herbs at 200 coins each?;Rensa alla dina örter för 200 mynt vardera?
+Daar, alles klaar.;Daar, alles klaar.
+Tapijtritten kosten 200 munten.;Tapijtritten kostar 200 munten.
+[3] I know what I'm doing - let's get on with it.;[3] Jag vet vad jag gör – låt oss fortsätta med det.
+I know what I'm doing - let's get on with it.;Jag vet vad jag gör - låt oss fortsätta med det.
+Niet nu.;Inte nu.
+What should I do?;Vad ska jag göra?
+I have a few rooms full of some things you humans might consider valuable, do you want to give it a go?;Jag har några rum fulla med saker som ni människor kan tänkas vara värdefulla, vill ni testa det?
+Another what?;En annan vad?
+*sigh* Not another one.;*suck* Inte en till.
+Fine, I'll take you to the first room now...;Okej, jag tar dig till första rummet nu...
+I want to charge my sceptre.;Jag vill ladda min spira.
+Another 'archaeologist'. ;Ännu en 'arkeolog'.
+If it will keep you out of mischief I suppose I could set something up for you...;Om det kommer att hålla dig borta från bus antar jag att jag skulle kunna ordna något åt ​​dig...
+Play Pyramid Plunder?;Spela Pyramid Plunder?
+That's a shame, have you got anything else I could do while I'm here?;Det är synd, har du något annat jag kan göra när jag är här?
+I'm not going to let you plunder my master's tomb you know.;Jag tänker inte låta dig plundra min herres grav, du vet.
+I have some interesting artefacts I'd like you to look at.;Jag har några intressanta artefakter som jag vill att du ska titta på.
+[1] Yes, show me the money.;[1] Ja, visa mig pengarna.
+I've completed all of the easy tasks in my Desert Achievement Diary!;Jag har slutfört alla enkla uppgifter i min Desert Achievement Diary!
+Ah, I think I'll stay a little longer.;Ah, jag tror jag stannar lite längre.
+Do you want to sell all your artefacts?;Vill du sälja alla dina artefakter?
+Do you want to flog the lot of 'em?;Vill du piska dem?
+No, let me think about it.;Nej, låt mig tänka på det.
+Fair Dinkum mate, Bonzer doing business with you mate.;Fair Dinkum kompis, Bonzer gör affärer med dig kompis.
+Yes, I'm out of here.;Ja, jag är härifrån.
+Leave the Tomb?;Lämna graven?
+Yes, show me the money.;Ja, visa mig pengarna.
+Bonzer! Let's have a Butcher's mate.;Bonzer! Låt oss ha en slaktarkompis.
+dropped as notes.;tappade som anteckningar.
+This amulet is a symbol of your exploration of the Kharidian Desert. You can now charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are;This amulet is a symbol of your exploration of the Kharidian Desert. Du kan nu ladda en faraos spira med 10 laddningar, Simon Templeton kommer att köpa artefakter i sedelform och ökengetens horn är
+If you ever lose your amulet, come back to me to reclaim it.;Om du någonsin tappar bort din amulett, kom tillbaka till mig för att återta den.
+Mag ik nog een amulet?;Kan jag inte ha en amulett?
+Who is this client?;Vem är den här klienten?
+Can you tell me about the wheat?;Kan du berätta om vetet?
+Can I catch these implings then?;Kan jag fånga dessa implings då?
+So what are these implings?;Så vad är dessa implings?
+Can I catch these implings, then?;Kan jag fånga dessa implings då?
+Je nieuwe taak is om 93 Dagannoth. te doden;Je nya taak är om 93 Dagannoth. te doden
+I'm an investigator. I'm watching the implings.;Jag är en utredare. Jag tittar på implingarna.
+My client has asked me to find out where certain missing items have been going.;Min klient har bett mig att ta reda på var vissa saknade föremål har tagit vägen.
+Why would you want to do that?;Varför skulle du vilja göra det?
+I'm not at liberty to discuss that. Investigator-client confidentiality don't you know.;Jag är inte fri att diskutera det. Utredare-klient sekretess vet du inte.
+Indeed you may. In fact I encourage it. You will, however, require some equipment.;Det kan du verkligen. Jag uppmuntrar faktiskt det. Du kommer dock att behöva viss utrustning.
+What's a gnome doing here?;Vad gör en tomte här?
+Where is this place?;Var är det här stället?
+Tell me about this portal.;Berätta för mig om den här portalen.
+Can I buy a few impling jars?;Kan jag köpa några implingburkar?
+Of course I do!;Självklart gör jag det!
+Could you store some equipment for me?;Kan du förvara lite utrustning åt mig?
+exchange I will be able to provide you with some equipment that may help you hunt butterflies more effectively.;utbyte Jag kommer att kunna förse dig med lite utrustning som kan hjälpa dig att jaga fjärilar mer effektivt.
+You will also require some experience as a Hunter since these creatures are elusive. The more immature implings require less experience, but some of the rarer implings are extraordinarily hard to find and catch.;Du kommer också att kräva lite erfarenhet som jägare eftersom dessa varelser är svårfångade. De mer omogna implingarna kräver mindre erfarenhet, men några av de mer sällsynta implingarna är utomordentligt svåra att hitta och fånga.
+So not back to where the crop circle is now?;Så inte tillbaka till där sädescirkeln är nu?
+Can you remind me how to catch implings again?;Kan du påminna mig om hur man fångar implings igen?
+Where will I go if I leave?;Vart ska jag gå om jag går?
+So what's this equipment you can give me then?;Så vad är det för utrustning du kan ge mig då?
+So, you collect things that humans want? Interesting... So, what would happen if I caught an impling in a butterfly net?;Så du samlar på saker som människor vill ha? Intressant... Så, vad skulle hända om jag fångade en impling i ett fjärilsnät?
+Ik laat je met roest.;Ik laat je met roest.
+You wanna leave?;Vill du lämna?
+Tell me more about these jars.;Berätta mer om dessa burkar.
+I haven't got enough coins to buy any at the moment.;Jag har inte tillräckligt med mynt för att köpa några för tillfället.
+Back where you came from, of course!;Tillbaka där du kom ifrån, såklart!
+Yes, get me out of here!;Ja, få mig härifrån!
+Do you have some spare equipment I can use?;Har du någon reservutrustning jag kan använda?
+Don't do that! That would be cruel. But chase us, yes! That is good. Implings are not easy to catch. Especially ones with really tasty food.;Gör inte det! Det vore grymt. Men jaga oss, ja! Det är bra. Implings är inte lätta att fånga. Speciellt sådana med riktigt god mat.
+Once you have caught one, you may break the jar open and obtain the object the impling is carrying. Alternatively, you may exchange certain combinations of jars with me. I will return the jars to my clients. In;När du har fångat en kan du bryta upp burken och få tag i föremålet som implingen bär. Alternativt kan du byta vissa kombinationer av burkar med mig. Jag kommer att lämna tillbaka burkarna till mina kunder. I
+Can I trade some jarred implings please?;Kan jag byta några jarred implings snälla?
+The aetheric thread connecting you to your own plane leads back to the wheat field where you came from. Obviously. So you will always go back to where you came from! Don't you humans know anything?;Den eteriska tråden som förbinder dig med ditt eget plan leder tillbaka till vetefältet där du kom ifrån. Tydligen. Så du kommer alltid tillbaka till där du kom ifrån! Vet inte ni människor någonting?
+Also, beware. Those imps walking around the maze do not like the fact that their kindred spirits are being captured and will attempt to steal any full jars you have on you, setting the implings free.;Se också upp. De som går runt i labyrinten gillar inte det faktum att deras släktingar blir tillfångatagna och kommer att försöka stjäla alla fulla burkar du har på dig, vilket gör att implingarna frigörs.
+Stay out of my pockets! I don't have anything that you want.;Håll dig borta från mina fickor! Jag har inget du vill ha.
+Ah, but do you have anything that *you* want?;Ah, men har du något som *du* vill ha?
+Ah, no I'll hang around a bit longer.;Ah, nej, jag ska hänga kvar lite längre.
+So, some of these implings have things that I will really want? Hmm, maybe it would be worth my while trying to catch some.;Så, några av dessa implings har saker som jag verkligen vill ha? Hmm, det kanske vore värt att försöka fånga några.
+Firstly you will need a butterfly net in which to catch them and at least one special impling jar to store an impling.;För det första behöver du ett fjärilsnät för att fånga dem och minst en speciell implingburk för att förvara en impling.
+You want to know about the portal? It is for leaving this place, of course!;Vill du veta mer om portalen? Det är för att lämna denna plats, naturligtvis!
+Then you have something that implings want. ;Då har du något som implar vill ha.
+Ah, good day, it's you again. Would you like to trade, or get an impling collector's scroll? Or can I help you some other way?;Ah, god dag, det är du igen. Skulle du vilja byta eller skaffa en implingande samlarrulle? Eller kan jag hjälpa dig på annat sätt?
+I will sell these jars for 2,000 coins each. How many would you like to purchase?;Jag kommer att sälja dessa burkar för 2 000 mynt styck. Hur många skulle du vilja köpa?
+Evidently not.;Uppenbarligen inte.
+I usually prefer trading these jars for implings, but if you desperately need them I'm willing to sell you up to 10 jars per day.;Jag föredrar vanligtvis att byta ut dessa burkar mot implings, men om du desperat behöver dem är jag villig att sälja upp till 10 burkar per dag.
+Tell me more about these thieving imps.;Berätta för mig mer om dessa tjuvkonstnärer.
+This is my home, mundane human! What do you have in your pockets? Something tasty?;Det här är mitt hem, vardagliga människa! Vad har du i fickorna? Något gott?
+We want things you people want. They are tasty to us! The more you want them, the tastier they are!;Vi vill ha saker ni vill ha. De är läckra för oss! Ju mer du vill ha dem, desto godare är de!
+Back...;Tillbaka...
+Thanks, I'll get going.;Tack, jag kommer igång.
+Can I have an impling collector's scroll, please?;Kan jag få en implingande samlarrulle, tack?
+You'd better clear some space in your inventory for a butterfly net and 7 jars and a collector's scroll, then.;Då är det bättre att du frigör lite utrymme i ditt lager för ett fjärilsnät och 7 burkar och en samlarrulle.
+Ik heb alle gemiddelde taken in mijn Lumbridge & Draynor-prestatiedagboek voltooid!;Jag har alla genomsnitt tagna i min Lumbridge & Draynor-prestationsdagbok avslutad!
+Toedels.;Toedels.
+Welkom bij het Gilde van Meesterambachtslieden.;Välkommen vid Gilde van Meesterambachtslieden.
+Wil je praten over lampen?;Vill du prata över lampen?
+Nee, ik ben meer geïnteresseerd in het implen van potten.;Nej, jag är mer intresserad i den implen av potten.
+from a Guard and can access a shortcut within the Motherlode Mine.;från en vakt och kan komma åt en genväg i Motherlode-gruvan.
+I've completed all of the medium tasks in my Falador achievement diary!;Jag har slutfört alla medelstora uppgifter i min Falador-prestationsdagbok!
+Can I have another shield?;Kan jag få en annan sköld?
+I've upgraded your Falador shield for you. It can restore half of your prayer points once per day and provides a 10% experience boost at Falador farm. You've got an increased chance of finding a clue scroll;Jag har uppgraderat din Falador-sköld åt dig. Det kan återställa hälften av dina bönepoäng en gång om dagen och ger en upplevelseboost på 10 % på Falador gård. Du har en ökad chans att hitta en ledtrådsrullning
+Ik heb echt een stuk ijzererts nodig.;Jag har verkligen ett stycke som behövs.
+Hartelijk dank, mevrouw.;Väldigt tacksam, mevrouw.
+Mevrouw, kunt u mij alstublieft helpen?;Mevrouw, kan du hjälpa mig?
+Natuurlijk help ik graag iemand in nood.;Naturligtvis hjälp jag gärna någon i nud.
+You should make sure your helm is manned before starting the trial.;Du bör se till att rodret är bemannat innan försöket påbörjas.
+Nee, daar ben ik niet in geïnteresseerd.;Nej, jag är inte intresserad.
+Bedankt, ik hou van dat liedje!;Tackt, jag hou van dat liedje!
+Ben je gekomen om muziek voor mij te spelen?;Har du kommit till musik för mig att spela?
+Selecteer het nummer dat ik je heb gevraagd af te spelen en praat opnieuw met me.;Välj det nummer som jag har begärt av att spela och prata igen med mig.
+Het is mogelijk om geen fouten te maken en toch te verliezen.;Det är möjligt att inte göra några fel och förlora.
+Er waren drie goblins in een bar, welke ging het eerst weg?;Är det tre troll i en bar, vilken går det först?
+You don't even have 2 gold coins, humans!;Ni har inte ens 2 guldmynt, människor!
+What, on your ship! No thanks!;Vadå, på ditt skepp! Nej tack!
+Wat, op jouw schip? Echt niet.;Vad, på ditt fartyg? Echt inte.
+Want me to take you back to the mines?;Vill du att jag ska ta dig tillbaka till gruvorna?
+Gold bar: Really put it down?;Guldtacka: Verkligen lägga ner den?
+Sorry burger. Alleen Ridders van Ardougne worden in de gevangenis toegelaten.;Förlåt hamburgare. Alleen Ridders van Ardougne blir in de gevangenis toegelaten.
+Met hun hulp moet jij mijn broer vinden en hem vermoorden. Als dat klaar is, kom dan bij mij terug.;Jag måste hjälpa mig att hitta min bror och döda honom. När det är klart, kom då jag kommer tillbaka.
+My liege. What must I do again?;Min liege. Vad måste jag göra igen?
+Je gaat de Underground Pass in en door de Well of Voyage. Lord Iorwerth, de leider van de elfen, zullen enkele vertegenwoordigers sturen om je aan de andere kant te ontmoeten.;Je gaat de Underground Pass i en dörr till Well of Voyage. Lord Iorwerth, ledaren för elfen, kommer att skicka några verkställande för att möta en annan sida.
+Restart this Barracuda Trial? Your progress will be lost.;Starta om denna Barracuda-rättegång? Dina framsteg kommer att gå förlorade.
+Yes, restart the trial.;Ja, starta om rättegången.
+No, exit the trial instead.;Nej, lämna rättegången istället.
+No, remain in the trial.;Nej, stanna kvar i rättegången.
+Gegen welche Monster soll ich kÃ¤mpfen?;Gegen welche Monster soll ich kÃ¤mpfen?
+Es gibt viele MÃ¶glichkeiten, im Spiel Geld zu verdienen. Ich wÃ¼rde vorschlagen, entweder Monster zu tÃ¶ten oder eine Handwerksfertigkeit wie Schmieden oder Angeln zu erlernen.;Es gibt viele MÃ¶glichkeiten, im Spiel Geld zu tjänan. Ich wÃ¼rde vorschlagen, antingen Monster zu tÃ¶ten eller ene Handworksfertigkeit wie Schmieden or Angeln to erlernen.
+Wo kann ich Geld verdienen?;Hur kan jag tjäna pengar?
+GrÃ¼ÃŸe, Abenteurer. Ich bin Phileas, der Lumbridge-FÃ¼hrer. Ich bin hier, um neuen Spielern Informationen und Anweisungen zu geben. Gibt es irgendetwas, bei dem ich Ihnen helfen kann?;GrÃ¼ÃŸe, Abenteurer. Ich bin Phileas, der Lumbridge-Führer. Ich bin hier, um neuen Spielern Informationen und Anweisungen zu geben. Gibt es irgendetwas, bei dem ich Ihnen helfen kann?
+Wo finde ich weitere Informationen?;Wo find ich weitere Informationen?
+Wo finde ich eine Quest, mit der ich fortfahren kann?;Wo find ich eine Quest, mit der ich fortfahren kann?
+Ah, una profesión muy noble.;Ah, una profesión muy noble.
+¿Hay alguna misión que pueda hacer aquí?;¿Har du inte missat det?
+Estoy bien, ¿cómo estás?;Estoy bien, ¿cómo estás?
+Me apetece un poco de pelea, ¿algo peligroso?;Jag äter en poco de pelea, ¿algo peligroso?
+¿Qué tipo de búsqueda estás buscando?;¿Qué tipo de búsqueda estás buscando?
+I'm a thinker rather than fighter, anything skill orientated?;Jag är en tänkare snarare än fighter, något färdighetsorienterat?
+Soy un aventurero audaz.;Soja un aventurero audaz.
+Hola, ¿puedo ayudarte?;Hallå, ¿puedo ayudarte?
+¿Dónde puedo cortarme el pelo como el tuyo?;¿Dónde puedo cortarme el pelo como el tuyo?
+¿Tiene algo de valor que pueda tener?;¿Tiene algo de valor que pueda tener?
+Quiero hacer todo tipo de cosas, ¿conoces algo así?;Quiero hacer todo tipo de cosas, ¿conoces algo así?
+¿Puedo comprar tu palo?;¿Puedo comprar tu palo?
+Estoy un poco preocupado: he oído que hay mucha gente matando ciudadanos al azar.;Estoy un poco preocupado: han oído que hay mucha gente matando ciudadanos al azar.
+¡Apártate de mi camino, que tengo prisa!;¡Apártate de mi camino, que tengo prisa!
+¿Cómo estás hoy?;¿Cómo estás hoy?
+¿Dónde estoy?;¿Dónde estoy?
+Skills play a big part when you want to progress in knowledge throughout Gielinor. I know of a few skill- related quests that can get you started.;Färdigheter spelar en stor roll när du vill utvecklas i kunskap inom Gielinor. Jag känner till några skicklighetsrelaterade uppdrag som kan få dig igång.
+Muy bien gracias.;Stort tack.
+Soy más un pensador que un luchador, ¿algo orientado a las habilidades?;Soja mer en pensador que un luchador, ¿algo orientado a las habilidades?
+Quizás en otra ocasión.;Frågesport och andra tillfällen.
+¿Sabes de alguna misión que pueda hacer?;¿Sabes de alguna misión que pueda hacer?
+Algo fácil por favor, soy nuevo aquí.;Algo fácil por favor, soja nuevo aquí.
+Doric the dwarf.;Dvärgen Doric.
+Tell me about Fred the farmer please.;Berätta för mig om bonden Fred.
+Any advice for an advanced woodcutter?;Några tips till en avancerad vedhuggare?
+ You will have to wait until he isn't looking.;Du får vänta tills han inte tittar.
+Tengo una pregunta sobre el modo Deadman.;Tengo una pregunta sobre el modo Deadman.
+You can find Fred next to the field of sheep in Lumbridge. Perhaps you should go and speak with him.;Du kan hitta Fred bredvid fårfältet i Lumbridge. Du kanske borde gå och prata med honom.
+Fred the farmer.;Bonden Fred.
+Sí, por favor. ¿Qué estás vendiendo?;Sí, för gunst. ¿Qué estás vendiendo?
+Lumbridge chickens do make good target practice.;Lumbridge-kycklingar gör bra målövningar.
+I have already helped Fred the farmer. I sheared his sheep and made 20 balls of wool for him.;Jag har redan hjälpt bonden Fred. Jag klippte hans får och gjorde 20 ullkulor åt honom.
+¿Qué es esa capa que llevas?;¿Qué es esa capa que llevas?
+¿Puedo ayudarte en algo?;¿Puedo ayudarte en algo?
+Soy Nigel. Mi trabajo es contarles sobre el modo Deadman.;Soja Nigel. Mi trabajo es contarles sobre el modo Deadman.
+Háblame de diferentes árboles y hachas.;Háblame de diferentes árboles y hachas.
+¿Puedo comprar algunas recompensas de Deadman?;¿Puedo comprar algunas recompensas de Deadman?
+Oye, ¿quién eres?;Oj, ¿quién äres?
+ He wouldn't let me kill his chickens though.;Han ville dock inte låta mig döda hans höns.
+Háblame de...;Hablame de...
+Or, there's always Doric the dwarf who needs an errand running for him?;Eller, det finns alltid dvärgen Doric som behöver ett ärende för honom?
+All done! The boat is now docked here at Catherby.;Allt klart! Båten ligger nu förtöjd här vid Catherby.
+Boatsies? Jubblies? Skill test? What's going on here.;Båtsyror? Jubbies? Färdighetstest? Vad händer här.
+The goal of this trial is to use balloon toads to lure jubblies. First up, you'll want to sail west to collect da... sorry, collect the balloon toads from a boat of ours.;Målet med denna rättegång är att använda ballongpaddor för att locka jublar. Först och främst vill du segla västerut för att hämta da... förlåt, samla ballongpaddorna från vår båt.
+I'll take it from here, Gurt.;Jag tar det härifrån, Gurt.
+I see. So what do I do here? What's the challenge?;Jag förstår. Så vad gör jag här? Vad är utmaningen?
+Look, here come 'nother wan'be jubbly chaser.;Titta, här kommer "ingen annan wan"be jubbly chaser.
+An ogre is a trial master for the Barracudas? That's surprising.;En ogre är en rättegångsmästare för Barracudorna? Det är förvånande.
+Be nice, Gurt, or you'll scare off another one!;Var snäll, Gurt, annars skrämmer du bort en annan!
+See, is like Gurtob said so. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.;Se, det är som Gurtob sa det. Gå da snabbast, ta da toadies, kasta da toadies, trick da jubblies, eat da jubblies. Det är det.
+All done! The boat is now docked here at Corsair Cove.;Allt klart! Båten ligger nu förtöjd här vid Corsair Cove.
+Me's big boss of of dis boatsie skill test. Call it Jubbly Jive. Only best wiv boatsies can hunt da jubblies.;Jag är stora chef för dis boatsie skicklighetstest. Kalla det Jubbly Jive. Endast bästa wiv-båtar kan jaga da jubblies.
+First up, you're going to need a boat with at least a mithril helm in order to withstand the strong rapids here, but don't forget, provided you can withstand them, they'll give you a burst of speed!;Först och främst kommer du att behöva en båt med minst ett mithril-roder för att klara de starka forsarna här, men glöm inte, förutsatt att du tål dem, kommer de att ge dig en explosion av fart!
+Gurtob is da bestest jubbly hunter in all of da seas. No one surpass Gurtob.;Gurtob är den bästa jublande jägaren i alla hav. Ingen överträffar Gurtob.
+Creatures talk... talk... long. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.;Varelser pratar... pratar... länge. Gå da snabbast, ta da toadies, kasta da toadies, trick da jubblies, eat da jubblies. Det är det.
+Dis... Sorry, this corner of the Shrouded Ocean is where we Barracudas like to challenge ourselves to a fun Barracuda Trial called the Jubbly Jive.;Dis... Tyvärr, det här hörnet av det höljda havet är där vi barracudor gillar att utmana oss själva till en rolig Barracuda-rättegång som kallas Jubbly Jive.
+Another what? What are you two doing here?;En annan vad? Vad gör ni två här?
+I'm not sure I follow.;Jag är inte säker på att jag följer.
+Not at all! He may be rough around the edges and difficult to understand at times, but he's a fantastic sailor and that's the only thing us Barracudas care about.;Inte alls! Han må vara grov i kanterna och ibland svår att förstå, men han är en fantastisk seglare och det är det enda vi barracudor bryr sig om.
+I'd like to attempt the Jubbly Jive.;Jag skulle vilja prova Jubbly Jive.
+Hah! Gurtob sail never go down. Only go fastest.;Hah! Gurtob segel går aldrig ner. Gå bara snabbast.
+If I were you, I'd consider briefly lowering your speed for those tricky turns to avoid getting your boat stuck.;Om jag var du skulle jag överväga att kort sänka hastigheten för de där knepiga svängarna för att undvika att din båt fastnar.
+Can you tell me about the Jubbly Jive?;Kan du berätta om Jubbly Jive?
+Je veux partir.;Je veux partir.
+À terre et faites-moi des pompes sur ce tapis, soldat !;À terre et faites-moi des pompes sur ce tapis, soldat !
+Allez sur ce tapis et faites-moi des abdos, soldat !;Allaz sur ce tapis et faites-moi des abdos, soldat !
+Eh bien, je n'en reviens pas, tu l'as fait, soldat. Maintenant, prends ça et disparais de ma vue.;Eh bien, je n'en reviens pas, tu l'as fait, soldat. Maintenant, prends ça et disparais de ma vue.
+D'accord.;D'accord.
+Bougez-vous, soldat ! Suivez mes ordres et vous pourrez, peut-être, quitter cet endroit en état de rejoindre mon corps d'armée !;Bougez-vous, soldat! Suivez mes ordres et vous pourrez, peut-être, quitter cet endroit en état de rejoindre mon corps d'armée !
+Je veux vous voir sur ce tapis en train de faire des sauts en étoile, soldat !;Je veux vous voir sur ce tapis en train de faire des sauts en étoile, soldat !
+Mauvais exercice, vermisseau ! À terre et fais-moi des pompes sur ce tapis, soldat !;Mauvais exercice, vermisseau ! À terre et fais-moi des pompes sur ce tapis, soldat !
+Soldat [PLAYER_NAME], garde-à-vous ! Vous avez été recommandé pour rejoindre mon corps d'armée. Pensez-vous pouvoir être le meilleur ?;Soldat [PLAYER_NAME], garde-à-vous! Vous avez été recommandé pour rejoindre mon corps d'armée. Pensez-vous pouvoir être le meilleur ?
+Als je wilt, maar daarvoor wil ik vijf manden bananen.;Jag vill, men då vill jag ha fem manden bananen.
+Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez invoqué. Prenez cette lampe et faites votre vœu.;Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez invoqué. Prenez cette lampe et faites votre vœu.
+Ah, vous êtes là. J'espérais que vous me parleriez, je me sens si seul. Tenez, voici un cadeau ! Je dois y aller maintenant.;Ah, vous êtes là. J'espérais que vous me parleriez, je me sens si seul. Tenez, voici un cadeau! Je dois y aller underhållare.
+Qu'avez-vous ?;Qu'avez-vous ?
+Hé, vous voulez acheter une armure ?;Hé, vous vous acheter une armure ?
+Je fournis des articles pour vous aider à garder vos jambes !;Je fournis des articles pour vous aider à garder vos jambes !
+Oui s'il vous plaît.;Oui s'il vous plaît.
+You are to bring balance to 15 Black Dragons in Taverley Dungeon.;Du ska få balans till 15 svarta drakar i Taverley Dungeon.
+You're still bringing balance to wyrms; you have 81 to go. Come back when you've finished your task.;Du skapar fortfarande balans till wyrms; du har 81 kvar. Kom tillbaka när du är klar med din uppgift.
+Gebruik dan dit magische apparaat om te vinden waar je bestemming is en ga dan wat gesneden.;Använd den här magiska enheten för att hitta var du kommer att hitta din destination.
+Dat magische apparaat zal je begeleiden naar de plek waar je moet graven. Succes.;Den magiska enheten kommer att ledas till platsen där du måste gravera. Framgångar.
+Ah! Kent u warme en koude vloeistoffen?;Ah! Kent du varm och kall vätska?
+Hé, Reldo. Ik heb weer zo'n aanwijzingsrol. Heb je enig advies?;Hej, Reldo. Ik heb weer zo'n aanwijzingsrol. Har du enig rådgivning?
+Well done, have this.;Bra gjort, ha det här.
+Goed gedaan maatje! Alsjeblieft!;Bra gjort! Alsjeblieft!
+Ik heb echt een gekookte forel nodig.;Jag har verkligen en kookte forel nödvändig.
+Oké, alsjeblieft.;Oké, alsjeblieft.
+Thanks anyway.;Tack ändå.
+Ga een baan zoeken!;Gå en väg att söka!
+Sorry, ik heb er geen.;Tyvärr, jag har ingen.
+Oh wait... I haven't got enough, sorry.;Åh vänta... Jag har inte fått nog, förlåt.
+Heeft u wat kleingeld nodig, directeur?;Har du vad som behövs, direktör?
+Kun je mij uitstaan?;Kun je mij uitstaan?
+Ik heb echt een rauwe forel nodig.;Jag har verkligen ett stort behov.
+I suppose I could keep hold of a net and a few empty jars for you. Just give me what you want me to hold. ;Jag antar att jag kunde hålla ett nät och några tomma burkar åt dig. Ge mig bara det du vill att jag ska hålla.
+Nilsal to you, iknami. Welcome to the Grand Museum. I hope your visit is a pleasant one. If you have any questions about Varlamore, I'm happy to help.;Nilsal till dig, iknami. Välkommen till Stora museet. Jag hoppas att ditt besök blir trevligt. Om du har några frågor om Varlamore hjälper jag gärna till.
+Try the middle floor, south western bay.;Prova mellanvåningen, sydvästra viken.
+Are you sure you want to enter the Tower of Magic?;Är du säker på att du vill gå in i Tower of Magic?
+Oh... I shouldn't be surprised I guess... The Council only care about helping themselves.;Åh... Jag borde inte bli förvånad antar jag... Rådet bryr sig bara om att hjälpa sig själva.
+Without the power of the Dark Altar, there's nothing to keep our people alive. The loss in power from the Altar will be what killed Thana.;Utan kraften från det mörka altaret finns det inget som håller vårt folk vid liv. Förlusten av makten från altaret kommer att vara det som dödade Thana.
+I have. The Council won't be helping I'm afraid.;Jag har. Rådet kommer inte att hjälpa är jag rädd.
+I'm afraid my father is deep in concentration and is unable to talk.;Jag är rädd att min pappa är djupt koncentrerad och inte kan prata.
+Well I'm afraid I have some bad news which is likely related to this. A citizen of Arceuus has died.;Jag är rädd att jag har dåliga nyheter som troligen är relaterade till detta. En medborgare i Arceuus har dött.
+Thank you... Could you head to Kourend Castle and let Councillor Andrews know what's happened? He's in charge of the Council.;Tack... Kan du bege dig till Kourend Castle och låta rådman Andrews veta vad som har hänt? Han är ansvarig för rådet.
+If we can't find and fix whatever has caused this loss of power, our people are surely doomed. Now that those souls have been dealt with, we can perform tests both here and at the Altar to try and find the problem.;Om vi ​​inte kan hitta och fixa vad som än har orsakat denna förlust av makt, är vårt folk säkert dömt. Nu när de själarna har behandlats kan vi utföra tester både här och vid altaret för att försöka hitta problemet.
+To a construct, built by a mortal.;Till en konstruktion, byggd av en dödlig.
+Right next to the Altar.;Alldeles intill altaret.
+Hmmm. Very well. I'll go and free this soul.;Hmmm. Mycket bra. Jag ska gå och befria den här själen.
+You said the Altar was failing.;Du sa att altaret misslyckades.
+Do you have something for me?;Har du något till mig?
+They found out that the power of the Altar was being redirected into a device hidden nearby. I found the device and destroyed it.;De fick reda på att kraften i altaret omdirigerades till en enhet gömd i närheten. Jag hittade enheten och förstörde den.
+Pass through the Doors of Dinh to the prison within. You will find the finest of our order channeling the power of the sacred flame into the Wintertodt.;Passera genom Dinhs dörrar till fängelset inomhus. Du hittar det finaste av vår ordning som kanaliserar kraften från den heliga lågan in i Wintertodt.
+It seems so. A short while ago I felt the power of the Dark Altar return to normal levels. I was safely able to stop my ritual and let the Altar work on its own again.;Det verkar så. För en kort stund sedan kände jag hur kraften i Dark Altar återvände till normala nivåer. Jag kunde säkert avbryta min ritual och lät altaret fungera på egen hand igen.
+This is most concerning though. If someone deliberately sabotaged the Altar, who knows what else they might do. I'll have someone recover the remains of this device. Maybe we can work out where it came from.;Detta är dock mest oroande. Om någon medvetet saboterade altaret, vem vet vad mer de kan göra. Jag ska be någon att återställa resterna av den här enheten. Vi kanske kan ta reda på var det kom ifrån.
+5-gallon jug.;5-gallon kanna.
+[1] 5-gallon jug.;[1] 5-liters kanna.
+8-gallon jug.;8-gallon kanna.
+Would you like to fill a jug with coolant?;Vill du fylla en kanna med kylvätska?
+Werven voor Dutch Mayhem;Werven voor Dutch Mayhem
+Invite Akar10 to join the clan.;Bjud in Akar10 att gå med i klanen.
+Would you be able to guide me up and down the mountain?;Skulle du kunna guida mig upp och ner för berget?
+I make many trips each day so whenever you'd like to travel, just speak to me here, at the Shayzien outpost, or south of the mountain.;Jag gör många resor varje dag så närhelst du vill resa, prata bara med mig här, vid Shayziens utpost eller söder om berget.
+Hello. What you are doing here?;Hej. Vad gör du här?
+I don't see why not. I've not much to do while the historians are exploring.;Jag förstår inte varför inte. Jag har inte mycket att göra medan historikerna utforskar.
+Do you want to enter the crevice?;Vill du gå in i springan?
+Hello, I am a mountain guide for this historical expedition. I led the team to this summit.;Hej, jag är en bergsguide för denna historiska expedition. Jag ledde laget till detta toppmöte.
+Pleased to meet you. I'm [PLAYER_NAME]. So, what's wrong with the Council?;Glad att träffa dig. Jag heter [PLAYER_NAME]. Så, vad är det för fel på rådet?
+Here's some advice for you: focus on the investigation. Leave the politics to the experts.;Här är några råd till dig: fokusera på utredningen. Lämna politiken till experterna.
+Then you're just the person I'm looking for. I'm [PLAYER_NAME]. I hear you're the one to talk to about the recent escape of Councillor Hughes.;Då är du precis den person jag letar efter. Jag heter [PLAYER_NAME]. Jag har hört att du är den du ska prata med om rådsmedlem Hughes senaste flykt.
+Lydia Fullore, [PLAYER_NAME]. You have been declared enemies of Yama. Your actions have endangered the work of his children. For this, your lives are forfeit.;Lydia Fullore, [PLAYER_NAME]. Ni har blivit förklarade fiender till Yama. Dina handlingar har äventyrat hans barns arbete. För detta är dina liv förverkade.
+[PLAYER_NAME]. You have challenged the Judge of Yama. Your guilt will be determined through combat.;[PLAYER_NAME]. Du har utmanat Yamas domare. Din skuld kommer att avgöras genom strid.
+I did wonder if they had more malicious motivations. Perhaps they didn't want anyone getting their hands on Rose's writings.;Jag undrade om de hade mer skadliga motiv. Kanske ville de inte att någon skulle lägga vantarna på Roses skrifter.
+Atteignez le centre du labyrinthe aussi vite que possible. Plus vous serez rapide, meilleure sera votre récompense.;Atteignez le center du labyrinthe aussi vite que möjligt. Plus vous serez rapide, meilleure sera votre récompense.
+Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?;Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?
+Â¿QuÃ© estÃ¡s haciendo aquÃ­ afuera?;Â¿QuÃ© estÃ¡s haciendo aquÃ afuera?
+Ah Uh Ah! Ook. Ook Ook! Ook Ook! ;Ah Uh Ah! Också. Och och! Och och!
+Ook. Ook! Ah! Ook Ook! Ah Ah! Ook Ah Uh! ;Också. Och! Ah! Och och! Ah Ah! Och Ah Uh!
