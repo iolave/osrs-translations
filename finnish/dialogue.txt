@@ -87324,3 +87324,271 @@ Vous cherchez une fille blonde, qui s'appelle Juliette..assez jolie... vous ne l
 Bravo.;Bravo.
 Pouvez-vous m'aider, s'il vous plaît ? Je suis dans une situation très difficile.;Pouvez-vous m'aider, s'il vous plaît? Je suis dans une tilanne très difficile.
 Vous avez l'air affamé. Je vais vous dire : prenez un Sandwich carré pour moi.;Vous avez l'air affamé. Je vais vous dire : prenez un Sandwich carré pour moi.
+You're still hunting blue dragons in the Catacombs of Kourend, with 167 to go. Come back when you're finished.;Metsästät edelleen sinisiä lohikäärmeitä Kourendin katakombeissa, jäljellä on 167. Tule takaisin, kun olet valmis.
+Start the Troll Romance quest?;Aloita Troll Romance -tehtävä?
+Ehh, Excuse me... Mr. Troll, sir, ;Eh, anteeksi... herra Troll, sir,
+Clean all your herbs at 200 coins each?;Puhdistatko kaikki yrtit 200 kolikolla?
+Daar, alles klaar.;Daar, alles klaar.
+Tapijtritten kosten 200 munten.;Tapijtritten kosten 200 munten.
+[3] I know what I'm doing - let's get on with it.;[3] Tiedän mitä teen - jatketaanpa sitä.
+I know what I'm doing - let's get on with it.;Tiedän mitä teen - jatketaanpa sitä.
+Niet nu.;Niet nu.
+What should I do?;Mitä minun pitäisi tehdä?
+I have a few rooms full of some things you humans might consider valuable, do you want to give it a go?;Minulla on muutama huone täynnä asioita, joita te ihmiset pidätte arvokkaina, haluatko kokeilla?
+Another what?;Toinen mitä?
+*sigh* Not another one.;*huokaus* Ei toista.
+Fine, I'll take you to the first room now...;Selvä, vien sinut ensimmäiseen huoneeseen nyt...
+I want to charge my sceptre.;Haluan ladata valtikani.
+Another 'archaeologist'. ;Toinen "arkeologi".
+If it will keep you out of mischief I suppose I could set something up for you...;Jos se pitää sinut poissa pahuudesta, luulisin, että voisin keksiä sinulle jotain...
+Play Pyramid Plunder?;Pelaa Pyramid Plunderia?
+That's a shame, have you got anything else I could do while I'm here?;Se on sääli, onko sinulla jotain muuta, mitä voisin tehdä ollessani täällä?
+I'm not going to let you plunder my master's tomb you know.;En anna sinun ryöstää herrani hautaa.
+I have some interesting artefacts I'd like you to look at.;Minulla on mielenkiintoisia esineitä, joita haluaisin sinun katsovan.
+[1] Yes, show me the money.;[1] Kyllä, näytä minulle rahat.
+I've completed all of the easy tasks in my Desert Achievement Diary!;Olen suorittanut kaikki helpot tehtävät Desert Achievement Diary -kirjassani!
+Ah, I think I'll stay a little longer.;Ah, taidan jäädä vielä vähän aikaa.
+Do you want to sell all your artefacts?;Haluatko myydä kaikki esineesi?
+Do you want to flog the lot of 'em?;Haluatko ruoskia niitä paljon?
+No, let me think about it.;Ei, anna minun ajatella sitä.
+Fair Dinkum mate, Bonzer doing business with you mate.;Reilu Dinkum-kaveri, Bonzer tekee kauppaa kanssasi.
+Yes, I'm out of here.;Kyllä, olen pois täältä.
+Leave the Tomb?;Poistuako haudasta?
+Yes, show me the money.;Kyllä, näytä minulle rahat.
+Bonzer! Let's have a Butcher's mate.;Bonzer! Otetaan teurastajan kaveri.
+dropped as notes.;pudonnut muistiinpanoina.
+This amulet is a symbol of your exploration of the Kharidian Desert. You can now charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are;Tämä amuletti on symboli Kharidian autiomaassa tutkimisestasi. Voit nyt ladata faaraon valtikka 10 panoksella, Simon Templeton ostaa esineitä setelimuodossa ja aavikon vuohen sarvet ovat
+If you ever lose your amulet, come back to me to reclaim it.;Jos kadotat amulettisi, tule takaisin luokseni hakemaan se takaisin.
+Mag ik nog een amulet?;Mag ik nog een amulet?
+Who is this client?;Kuka tämä asiakas on?
+Can you tell me about the wheat?;Voitko kertoa minulle vehnästä?
+Can I catch these implings then?;Saanko sitten kiinni näistä syistä?
+So what are these implings?;Mitä nämä implingit siis ovat?
+Can I catch these implings, then?;Saanko sitten kiinni näistä syistä?
+Je nieuwe taak is om 93 Dagannoth. te doden;Je nieuwe taak on om 93 Dagannoth. te doden
+I'm an investigator. I'm watching the implings.;Olen tutkija. Katson vihjeitä.
+My client has asked me to find out where certain missing items have been going.;Asiakkaani on pyytänyt minua selvittämään, minne tietyt puuttuvat tavarat ovat menneet.
+Why would you want to do that?;Miksi haluaisit tehdä niin?
+I'm not at liberty to discuss that. Investigator-client confidentiality don't you know.;Minulla ei ole oikeutta keskustella siitä. Tutkija-asiakas luottamuksellisuus, etkö tiedä.
+Indeed you may. In fact I encourage it. You will, however, require some equipment.;Todellakin saa. Itse asiassa kannustan siihen. Tarvitset kuitenkin joitain laitteita.
+What's a gnome doing here?;Mitä tonttu tekee täällä?
+Where is this place?;Missä tämä paikka on?
+Tell me about this portal.;Kerro minulle tästä portaalista.
+Can I buy a few impling jars?;Voinko ostaa muutaman impling-purkin?
+Of course I do!;Tietenkin teen!
+Could you store some equipment for me?;Voisitko tallentaa minulle laitteita?
+exchange I will be able to provide you with some equipment that may help you hunt butterflies more effectively.;vaihto Voin tarjota sinulle varusteita, jotka voivat auttaa sinua metsästämään perhosia tehokkaammin.
+You will also require some experience as a Hunter since these creatures are elusive. The more immature implings require less experience, but some of the rarer implings are extraordinarily hard to find and catch.;Tarvitset myös jonkin verran kokemusta metsästäjistä, koska nämä olennot ovat vaikeasti havaittavissa. Epäkypsemmät istutukset vaativat vähemmän kokemusta, mutta joitain harvinaisempia istutuksia on poikkeuksellisen vaikea löytää ja saada kiinni.
+So not back to where the crop circle is now?;Etkö siis palaa siihen, missä viljaympyrä on nyt?
+Can you remind me how to catch implings again?;Voitko muistuttaa minua kuinka saada implings uudelleen?
+Where will I go if I leave?;Minne menen jos lähden?
+So what's this equipment you can give me then?;Joten mitä tämä varuste voit antaa minulle?
+So, you collect things that humans want? Interesting... So, what would happen if I caught an impling in a butterfly net?;Joten, keräätkö asioita, joita ihmiset haluavat? Mielenkiintoista... Mitä tapahtuisi, jos saisin perhosverkkoon perhonen?
+Ik laat je met roest.;Ik laat je met roest.
+You wanna leave?;Haluatko lähteä?
+Tell me more about these jars.;Kerro lisää näistä purkeista.
+I haven't got enough coins to buy any at the moment.;Minulla ei ole tällä hetkellä tarpeeksi kolikoita ostaa niitä.
+Back where you came from, of course!;Tietenkin takaisin sieltä mistä tulit!
+Yes, get me out of here!;Kyllä, vie minut pois täältä!
+Do you have some spare equipment I can use?;Onko sinulla varalaitteita, joita voin käyttää?
+Don't do that! That would be cruel. But chase us, yes! That is good. Implings are not easy to catch. Especially ones with really tasty food.;Älä tee sitä! Se olisi julmaa. Mutta aja meitä takaa, kyllä! Se on hyvä. Implings ei ole helppo saada kiinni. Varsinkin ne, joissa on todella maukasta ruokaa.
+Once you have caught one, you may break the jar open and obtain the object the impling is carrying. Alternatively, you may exchange certain combinations of jars with me. I will return the jars to my clients. In;Kun olet saanut sellaisen kiinni, voit rikkoa purkin auki ja saada käsiisi esineen, jota impling kantaa. Vaihtoehtoisesti voit vaihtaa kanssani tiettyjä purkkiyhdistelmiä. Palautan purkit asiakkailleni. sisään
+Can I trade some jarred implings please?;Voinko vaihtaa puristettuja istutuksia, kiitos?
+The aetheric thread connecting you to your own plane leads back to the wheat field where you came from. Obviously. So you will always go back to where you came from! Don't you humans know anything?;Eetterinen lanka, joka yhdistää sinut omaan tasoosi, johtaa takaisin vehnäpellolle, josta tulit. Ilmeisesti. Joten palaat aina takaisin sinne, mistä tulit! Ettekö te ihmiset tiedä mitään?
+Also, beware. Those imps walking around the maze do not like the fact that their kindred spirits are being captured and will attempt to steal any full jars you have on you, setting the implings free.;Varo myös. Labyrintissa kävelevät jätkät eivät pidä siitä, että heidän sukulaishenkiään vangitaan, ja yrittävät varastaa kaikki sinulla olevat täynnä olevat purkit vapauttaen ne.
+Stay out of my pockets! I don't have anything that you want.;Pysy poissa taskuistani! Minulla ei ole mitään mitä haluat.
+Ah, but do you have anything that *you* want?;Ah, mutta onko sinulla jotain mitä haluat?
+Ah, no I'll hang around a bit longer.;Ah, minä viihdyn vähän kauemmin.
+So, some of these implings have things that I will really want? Hmm, maybe it would be worth my while trying to catch some.;Joten, joillakin näistä syistä on asioita, joita todella haluan? Hmm, ehkä se kannattaisi yrittää saada kiinni.
+Firstly you will need a butterfly net in which to catch them and at least one special impling jar to store an impling.;Ensinnäkin tarvitset perhosverkon, johon ne kiinnität, ja vähintään yhden erikoispurkin perhonen säilyttämiseen.
+You want to know about the portal? It is for leaving this place, of course!;Haluatko tietää portaalista? Se on tietysti poistumiseen tästä paikasta!
+Then you have something that implings want. ;Sitten sinulla on jotain, mitä implings haluaa.
+Ah, good day, it's you again. Would you like to trade, or get an impling collector's scroll? Or can I help you some other way?;Ah, hyvää päivää, se olet taas sinä. Haluaisitko käydä kauppaa vai hankkia impling-keräilijän kirjakäärö? Vai voinko auttaa jollain muulla tavalla?
+I will sell these jars for 2,000 coins each. How many would you like to purchase?;Myyn nämä purkit 2000 kolikolla kappaleelta. Kuinka monta haluaisit ostaa?
+Evidently not.;Ilmeisesti ei.
+I usually prefer trading these jars for implings, but if you desperately need them I'm willing to sell you up to 10 jars per day.;Yleensä vaihdan mieluummin nämä purkit implingseihin, mutta jos tarvitset niitä kipeästi, olen valmis myymään sinulle jopa 10 purkkia päivässä.
+Tell me more about these thieving imps.;Kerro minulle lisää näistä varkauksista.
+This is my home, mundane human! What do you have in your pockets? Something tasty?;Tämä on kotini, arkipäiväinen ihminen! Mitä sinulla on taskuissasi? Jotain maukasta?
+We want things you people want. They are tasty to us! The more you want them, the tastier they are!;Haluamme asioita, joita te ihmiset haluavat. Ne maistuvat meille! Mitä enemmän haluat, sitä maukkaampia ne ovat!
+Back...;Takaisin...
+Thanks, I'll get going.;Kiitos, lähden liikkeelle.
+Can I have an impling collector's scroll, please?;Voinko saada impling-keräilijän kirjakääröä, kiitos?
+You'd better clear some space in your inventory for a butterfly net and 7 jars and a collector's scroll, then.;Varastoistasi on parasta jättää tilaa perhosverkolle ja 7 purkille ja keräilykäärölle.
+Ik heb alle gemiddelde taken in mijn Lumbridge & Draynor-prestatiedagboek voltooid!;Ik heb all gemiddelde otettu mijn Lumbridge & Draynor-prestiedagboek voltooid!
+Toedels.;Varpaat.
+Welkom bij het Gilde van Meesterambachtslieden.;Welkom bij het Gilde van Meesterambachtslieden.
+Wil je praten over lampen?;Wil je praten over lampen?
+Nee, ik ben meer geïnteresseerd in het implen van potten.;Nee, ik ben meer geïnteresseerd in het implen van potten.
+from a Guard and can access a shortcut within the Motherlode Mine.;Vartijasta ja voi käyttää pikakuvaketta Motherloden kaivoksen sisällä.
+I've completed all of the medium tasks in my Falador achievement diary!;Olen suorittanut kaikki Falador-saavutuspäiväkirjani keskitason tehtävät!
+Can I have another shield?;Voinko saada toisen suojan?
+I've upgraded your Falador shield for you. It can restore half of your prayer points once per day and provides a 10% experience boost at Falador farm. You've got an increased chance of finding a clue scroll;Olen päivittänyt Falador-kilpisi puolestasi. Se voi palauttaa puolet rukouspisteistäsi kerran päivässä ja antaa 10 % kokemuslisäyksen Falador-tilalla. Sinulla on suurempi mahdollisuus löytää vihjerulla
+Ik heb echt een stuk ijzererts nodig.;Ik heb echt een stuk ijzererts nodig.
+Hartelijk dank, mevrouw.;Hartelijk dank, mevrouw.
+Mevrouw, kunt u mij alstublieft helpen?;Mevrouw, kunt u mij alstublief helpen?
+Natuurlijk help ik graag iemand in nood.;Natuurlijk help ik graag iemand in nood.
+You should make sure your helm is manned before starting the trial.;Varmista ennen kokeen aloittamista, että ruori on miehitetty.
+Nee, daar ben ik niet in geïnteresseerd.;Nee, daar ben ik niet in geïinteresseerd.
+Bedankt, ik hou van dat liedje!;Bedankt, ik hou van dat liedje!
+Ben je gekomen om muziek voor mij te spelen?;Ben je gekomen om muziek voor mij te spelen?
+Selecteer het nummer dat ik je heb gevraagd af te spelen en praat opnieuw met me.;Selecteer het nummer dat ik je heb gevraagd af te spelen en praat opnieuw met me.
+Het is mogelijk om geen fouten te maken en toch te verliezen.;Het is mogelijk om geen fouten te maken en toch te verliezen.
+Er waren drie goblins in een bar, welke ging het eerst weg?;Oletko varma kuivia peikkoja baarissa, welke ging het eerst weg?
+You don't even have 2 gold coins, humans!;Teillä ei ole edes kahta kultakolikkoa, ihmiset!
+What, on your ship! No thanks!;Mitä, laivallasi! Ei kiitos!
+Wat, op jouw schip? Echt niet.;Mitä, op jouw schip? Echt niet.
+Want me to take you back to the mines?;Haluatko, että vien sinut takaisin kaivoksille?
+Gold bar: Really put it down?;Kultatanko: Laitatko sen todella alas?
+Sorry burger. Alleen Ridders van Ardougne worden in de gevangenis toegelaten.;Anteeksi hampurilainen. Alleen Ridders van Ardougne sanat in de gevangenis toegelaten.
+Met hun hulp moet jij mijn broer vinden en hem vermoorden. Als dat klaar is, kom dan bij mij terug.;Met hun hulp moet jij mijn broer vinden en hem vermoorden. Als dat klaar is, kom dan bij mij terug.
+My liege. What must I do again?;Minun liegeni. Mitä minun pitää tehdä taas?
+Je gaat de Underground Pass in en door de Well of Voyage. Lord Iorwerth, de leider van de elfen, zullen enkele vertegenwoordigers sturen om je aan de andere kant te ontmoeten.;Je gaat de Underground Pass in ovella de Well of Voyage. Lord Iorwerth, de leider van de elfen, zullen enkele vertegenwoordigers sturen om je aan de andere kant te ontmoeten.
+Restart this Barracuda Trial? Your progress will be lost.;Aloitetaanko tämä Barracuda-kokeilu uudelleen? Edistymisesi katoaa.
+Yes, restart the trial.;Kyllä, aloita kokeilu uudelleen.
+No, exit the trial instead.;Ei, lopeta kokeilu sen sijaan.
+No, remain in the trial.;Ei, pysy oikeudenkäynnissä.
+Gegen welche Monster soll ich kÃ¤mpfen?;Gegen welche Monster soll ich kÃ¤mpfen?
+Es gibt viele MÃ¶glichkeiten, im Spiel Geld zu verdienen. Ich wÃ¼rde vorschlagen, entweder Monster zu tÃ¶ten oder eine Handwerksfertigkeit wie Schmieden oder Angeln zu erlernen.;Es gibt viele MÃ¶glichkeiten, im Spiel Geld zu verdienen. Ich wÃ¼rde vorschlagen, entweder Monster zu tÃ¶ten oder eine Handwerksfertigkeit wie Schmieden oder Angeln zu erlernen.
+Wo kann ich Geld verdienen?;Wo kann ich Geld verdienen?
+GrÃ¼ÃŸe, Abenteurer. Ich bin Phileas, der Lumbridge-FÃ¼hrer. Ich bin hier, um neuen Spielern Informationen und Anweisungen zu geben. Gibt es irgendetwas, bei dem ich Ihnen helfen kann?;GrÃ¼ÃŸe, Abenteurer. Ich bin Phileas, der Lumbridge-Föhrer. Ich bin hier, um neuen Spielern Informationen und Anweisungen zu geben. Gibt es irgendetwas, bei dem ich Ihnen helfen kann?
+Wo finde ich weitere Informationen?;Wo weitere Informationen löytää?
+Wo finde ich eine Quest, mit der ich fortfahren kann?;Wo finde ich eine Quest, mit der ich fortfahren kann?
+Ah, una profesión muy noble.;Ah, una profesión muy noble.
+¿Hay alguna misión que pueda hacer aquí?;¿Hay alguna misión que pueda hacer aquí?
+Estoy bien, ¿cómo estás?;Estoy bien, ¿cómo estás?
+Me apetece un poco de pelea, ¿algo peligroso?;Me apetece un poco de pelea, ¿algo peligroso?
+¿Qué tipo de búsqueda estás buscando?;¿Qué tipo de búsqueda estás buscando?
+I'm a thinker rather than fighter, anything skill orientated?;Olen pikemminkin ajattelija kuin taistelija, mihinkään taitosuuntautuneeseen?
+Soy un aventurero audaz.;Soy un aventurero audaz.
+Hola, ¿puedo ayudarte?;Hola, ¿puedo ayudarte?
+¿Dónde puedo cortarme el pelo como el tuyo?;¿Dónde puedo cortarme el pelo como el tuyo?
+¿Tiene algo de valor que pueda tener?;¿Tiene algo de valor que pueda tener?
+Quiero hacer todo tipo de cosas, ¿conoces algo así?;Quiero hacer todo tipo de cosas, ¿conoces algo así?
+¿Puedo comprar tu palo?;¿Puedo comprar tu palo?
+Estoy un poco preocupado: he oído que hay mucha gente matando ciudadanos al azar.;Estoy un poco preocupado: he oído que hay mucha gente matando ciudadanos al azar.
+¡Apártate de mi camino, que tengo prisa!;¡Apártate de mi camino, que tengo prisa!
+¿Cómo estás hoy?;¿Cómo estás hoy?
+¿Dónde estoy?;¿Dónde estoy?
+Skills play a big part when you want to progress in knowledge throughout Gielinor. I know of a few skill- related quests that can get you started.;Taidoilla on suuri merkitys, kun haluat edetä tiedossa Gielinorissa. Tiedän muutamia taitoihin liittyviä tehtäviä, jotka voivat saada sinut alkuun.
+Muy bien gracias.;Muy bien gracias.
+Soy más un pensador que un luchador, ¿algo orientado a las habilidades?;Soy más un pensador que un luchador, ¿algo orientado a las habilidades?
+Quizás en otra ocasión.;Quizás en otra ocasión.
+¿Sabes de alguna misión que pueda hacer?;¿Sabes de alguna misión que pueda hacer?
+Algo fácil por favor, soy nuevo aquí.;Algo fácil por favor, soy nuevo aquí.
+Doric the dwarf.;Doric kääpiö.
+Tell me about Fred the farmer please.;Kerro minulle maanviljelijä Fredistä.
+Any advice for an advanced woodcutter?;Onko neuvoja edistyneelle puunhakkaajalle?
+ You will have to wait until he isn't looking.;Sinun on odotettava, kunnes hän ei katso.
+Tengo una pregunta sobre el modo Deadman.;Tengo una pregunta sobre el modo Deadman.
+You can find Fred next to the field of sheep in Lumbridge. Perhaps you should go and speak with him.;Löydät Fredin Lumbridgen lammaspellon vierestä. Ehkä sinun pitäisi mennä puhumaan hänen kanssaan.
+Fred the farmer.;Fred maanviljelijä.
+Sí, por favor. ¿Qué estás vendiendo?;Kyllä kiitos. ¿Qué estás vendiendo?
+Lumbridge chickens do make good target practice.;Lumbridge-kanat tekevät hyvää maaliharjoitusta.
+I have already helped Fred the farmer. I sheared his sheep and made 20 balls of wool for him.;Olen jo auttanut maanviljelijää Fredia. Leikkasin hänen lampaansa ja tein hänelle 20 villapalloa.
+¿Qué es esa capa que llevas?;¿Qué es esa capa que llevas?
+¿Puedo ayudarte en algo?;¿Puedo ayudarte en algo?
+Soy Nigel. Mi trabajo es contarles sobre el modo Deadman.;Soija Nigel. Mi trabajo es contarles sobre el modo Deadman.
+Háblame de diferentes árboles y hachas.;Háblame de diferentes árboles y hachas.
+¿Puedo comprar algunas recompensas de Deadman?;¿Puedo comprar algunas recompensas de Deadman?
+Oye, ¿quién eres?;Oye, ¿quién eres?
+ He wouldn't let me kill his chickens though.;Hän ei kuitenkaan antanut minun tappaa kanojaan.
+Háblame de...;Háblame de...
+Or, there's always Doric the dwarf who needs an errand running for him?;Tai aina löytyy kääpiö Doric, joka tarvitsee asian hoitaakseen?
+All done! The boat is now docked here at Catherby.;Kaikki tehty! Vene on nyt telakoituna täällä Catherbyssä.
+Boatsies? Jubblies? Skill test? What's going on here.;Veneet? Jubblies? Taitotesti? Mitä täällä tapahtuu.
+The goal of this trial is to use balloon toads to lure jubblies. First up, you'll want to sail west to collect da... sorry, collect the balloon toads from a boat of ours.;Tämän kokeilun tavoitteena on käyttää ilmapallorupikonnaa houkuttelemaan jubbles. Ensinnäkin haluat purjehtia länteen kerätäksesi... anteeksi, kerätä ilmapallorupikonnat veneestämme.
+I'll take it from here, Gurt.;Otan sen täältä, Gurt.
+I see. So what do I do here? What's the challenge?;Minä näen. Joten mitä teen täällä? Mikä on haaste?
+Look, here come 'nother wan'be jubbly chaser.;Katso, täältä tulee 'muukaan wan' on pirteä jahtaaja.
+An ogre is a trial master for the Barracudas? That's surprising.;Onko ogre Barracudojen kokeilumestari? Se on yllättävää.
+Be nice, Gurt, or you'll scare off another one!;Ole kiltti, Gurt, tai pelottelet toisen!
+See, is like Gurtob said so. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.;Katsos, kuten Gurtob sanoi niin. Mene nopeimmin, nappaa rupikonnat, heitä rupikonnat, tempaa rappuja, syö da jubblies. Siinä se.
+All done! The boat is now docked here at Corsair Cove.;Kaikki tehty! Vene on nyt telakoituna täällä Corsair Covessa.
+Me's big boss of of dis boatsie skill test. Call it Jubbly Jive. Only best wiv boatsies can hunt da jubblies.;Olen dis boatsien taitotestin iso pomo. Kutsu sitä Jubbly Jiveksi. Vain parhaat wiv-veneet voivat metsästää jubblies.
+First up, you're going to need a boat with at least a mithril helm in order to withstand the strong rapids here, but don't forget, provided you can withstand them, they'll give you a burst of speed!;Ensinnäkin tarvitset veneen, jossa on vähintään mithril-ruori kestääksesi täällä voimakkaat kosket, mutta älä unohda, jos kestät ne, ne antavat sinulle vauhtia!
+Gurtob is da bestest jubbly hunter in all of da seas. No one surpass Gurtob.;Gurtob on kaikkien da merien paras metsästäjä. Kukaan ei ylitä Gurtobia.
+Creatures talk... talk... long. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.;Olennot puhuvat... puhuvat... pitkään. Mene nopeimmin, nappaa rupikonnat, heitä rupikonnat, tempaa rappuja, syö da jubblies. Siinä se.
+Dis... Sorry, this corner of the Shrouded Ocean is where we Barracudas like to challenge ourselves to a fun Barracuda Trial called the Jubbly Jive.;Dis... Anteeksi, tämä Shrouded Oceanin nurkka on paikka, jossa me Barracudat haluamme haastaa itsemme hauskaan Barracuda Trial -kokeeseen nimeltä Jubbly Jive.
+Another what? What are you two doing here?;Toinen mitä? Mitä te kaksi teette täällä?
+I'm not sure I follow.;En ole varma, seuraanko.
+Not at all! He may be rough around the edges and difficult to understand at times, but he's a fantastic sailor and that's the only thing us Barracudas care about.;Ei ollenkaan! Hän saattaa olla reunoista karkea ja toisinaan vaikea ymmärtää, mutta hän on fantastinen merimies, ja se on ainoa asia, josta me Barracudat välitämme.
+I'd like to attempt the Jubbly Jive.;Haluaisin kokeilla Jubbly Jiveä.
+Hah! Gurtob sail never go down. Only go fastest.;Hah! Gurtob-purje ei koskaan mene alas. Mene vain nopeimmin.
+If I were you, I'd consider briefly lowering your speed for those tricky turns to avoid getting your boat stuck.;Sinuna harkitsisin nopeuden hidastamista lyhyesti noita vaikeita käännöksiä varten, jotta veneesi ei jää jumiin.
+Can you tell me about the Jubbly Jive?;Voitko kertoa minulle Jubbly Jivestä?
+Je veux partir.;Je veux partir.
+À terre et faites-moi des pompes sur ce tapis, soldat !;À terre et faites-moi des pompes sur ce tapis, soldat !
+Allez sur ce tapis et faites-moi des abdos, soldat !;Allez sur ce tapis et faites-moi des abdos, soldat !
+Eh bien, je n'en reviens pas, tu l'as fait, soldat. Maintenant, prends ça et disparais de ma vue.;Eh bien, je n'en reviens pas, tu l'as fait, soldat. Maintenant, prends ça et disparais de ma vue.
+D'accord.;D'accord.
+Bougez-vous, soldat ! Suivez mes ordres et vous pourrez, peut-être, quitter cet endroit en état de rejoindre mon corps d'armée !;Bougez-vous, soldat! Suivez mes ordres et vous pourrez, peut-être, quitter cet endroit en état de rejoindre mon corps d'armée !
+Je veux vous voir sur ce tapis en train de faire des sauts en étoile, soldat !;Je veux vous voir sur ce tapis en train de faire des sauts en étoile, soldat !
+Mauvais exercice, vermisseau ! À terre et fais-moi des pompes sur ce tapis, soldat !;Mauvais-harjoitus, vermiseau! À terre et fais-moi des pompes sur ce tapis, soldat !
+Soldat [PLAYER_NAME], garde-à-vous ! Vous avez été recommandé pour rejoindre mon corps d'armée. Pensez-vous pouvoir être le meilleur ?;Soldat [PLAYER_NAME], garde-à-vous ! Vous avez été recommandé pour rejoindre mon corps d'armée. Pensez-vous pouvoir être le meilleur ?
+Als je wilt, maar daarvoor wil ik vijf manden bananen.;Als je wilt, maar daarvoor wil ik vijf manden bananen.
+Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez invoqué. Prenez cette lampe et faites votre vœu.;Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez invoqué. Prenez cette lampe et faites votre vœu.
+Ah, vous êtes là. J'espérais que vous me parleriez, je me sens si seul. Tenez, voici un cadeau ! Je dois y aller maintenant.;Ah, vous êtes là. J'espérais que vous me parleriez, je me sens si seul. Tenez, voici un cadeau ! Hän tekee kaiken huollon.
+Qu'avez-vous ?;Qu'avez-vous?
+Hé, vous voulez acheter une armure ?;Hé, vous voulez acheter une armure?
+Je fournis des articles pour vous aider à garder vos jambes !;Je fournis des articles pour vous aider à garder vos jambes !
+Oui s'il vous plaît.;Oui s'il vous plaît.
+You are to bring balance to 15 Black Dragons in Taverley Dungeon.;Sinun tulee tasapainottaa 15 Black Dragons Taverley Dungeonissa.
+You're still bringing balance to wyrms; you have 81 to go. Come back when you've finished your task.;Tuot edelleen tasapainoa wyrms; sinulla on 81 jäljellä. Palaa takaisin, kun olet suorittanut tehtäväsi.
+Gebruik dan dit magische apparaat om te vinden waar je bestemming is en ga dan wat gesneden.;Gebruik dan dit magische apparaat om te vinden waar je bestemming is en ga dan wat gesneden.
+Dat magische apparaat zal je begeleiden naar de plek waar je moet graven. Succes.;Dat magische apparaat zal je begeleiden naar de plek waar je moet graven. Menestystä.
+Ah! Kent u warme en koude vloeistoffen?;Ah! Kent u warme en koude vloeistoffen?
+Hé, Reldo. Ik heb weer zo'n aanwijzingsrol. Heb je enig advies?;Hei, Reldo. Ik heb weer zo'n aanwijzingsrol. Heb je enig neuvoja?
+Well done, have this.;Hyvin tehty, ota tämä.
+Goed gedaan maatje! Alsjeblieft!;Goed gedaan maatje! Alsjeblieft!
+Ik heb echt een gekookte forel nodig.;Ik heb echt een gekookte forel nodig.
+Oké, alsjeblieft.;Okei, alsjeblieft.
+Thanks anyway.;Kiitos joka tapauksessa.
+Ga een baan zoeken!;Ga een baan zoeken!
+Sorry, ik heb er geen.;Anteeksi, ik heb er geen.
+Oh wait... I haven't got enough, sorry.;Odota... En ole saanut tarpeeksi, anteeksi.
+Heeft u wat kleingeld nodig, directeur?;Heef u wat kleingeld nodig, ohjaaja?
+Kun je mij uitstaan?;Kun je mij uitstaan?
+Ik heb echt een rauwe forel nodig.;Ik heb echt een rauwe forel nodig.
+I suppose I could keep hold of a net and a few empty jars for you. Just give me what you want me to hold. ;Luulen, että voisin pitää verkkoa ja muutamia tyhjiä purkkeja sinulle. Anna minulle vain se, mitä haluat minun pitävän.
+Nilsal to you, iknami. Welcome to the Grand Museum. I hope your visit is a pleasant one. If you have any questions about Varlamore, I'm happy to help.;Nilsal sinulle, iknami. Tervetuloa Suureen museoon. Toivottavasti vierailusi on miellyttävä. Jos sinulla on kysyttävää Varlamoresta, autan mielelläni.
+Try the middle floor, south western bay.;Kokeile keskikerrosta, lounaislahtia.
+Are you sure you want to enter the Tower of Magic?;Oletko varma, että haluat päästä Tower of Magic -torniin?
+Oh... I shouldn't be surprised I guess... The Council only care about helping themselves.;Voi... Minun ei pitäisi olla yllättynyt... Neuvosto välittää vain itsensä auttamisesta.
+Without the power of the Dark Altar, there's nothing to keep our people alive. The loss in power from the Altar will be what killed Thana.;Ilman Pimeän alttarin voimaa mikään ei voi pitää kansaamme elossa. Vallan menetys alttarilta on se, mikä tappoi Thanan.
+I have. The Council won't be helping I'm afraid.;Olen. Neuvosto ei pelkään auta.
+I'm afraid my father is deep in concentration and is unable to talk.;Pelkään, että isäni on syvästi keskittynyt eikä pysty puhumaan.
+Well I'm afraid I have some bad news which is likely related to this. A citizen of Arceuus has died.;No, pelkään, että minulla on huonoja uutisia, jotka todennäköisesti liittyvät tähän. Arceusin kansalainen on kuollut.
+Thank you... Could you head to Kourend Castle and let Councillor Andrews know what's happened? He's in charge of the Council.;Kiitos... Voisitko suunnata Kourendin linnaan ja kertoa neuvoston jäsen Andrewsille, mitä on tapahtunut? Hän johtaa neuvostoa.
+If we can't find and fix whatever has caused this loss of power, our people are surely doomed. Now that those souls have been dealt with, we can perform tests both here and at the Altar to try and find the problem.;Jos emme löydä ja korjaa sitä, mikä on aiheuttanut tämän vallan menetyksen, kansamme on varmasti tuomittu. Nyt kun nuo sielut on käsitelty, voimme suorittaa testejä sekä täällä että alttarilla yrittääksemme löytää ongelman.
+To a construct, built by a mortal.;Rakenteelle, kuolevaisen rakentamalle.
+Right next to the Altar.;Aivan alttarin vieressä.
+Hmmm. Very well. I'll go and free this soul.;Hmmm. Hyvin. Menen ja vapautan tämän sielun.
+You said the Altar was failing.;Sanoit, että alttari epäonnistui.
+Do you have something for me?;Onko sinulla jotain minulle?
+They found out that the power of the Altar was being redirected into a device hidden nearby. I found the device and destroyed it.;He huomasivat, että alttarin voima ohjattiin lähelle piilotettuun laitteeseen. Löysin laitteen ja tuhosin sen.
+Pass through the Doors of Dinh to the prison within. You will find the finest of our order channeling the power of the sacred flame into the Wintertodt.;Kulje Dinhin ovien läpi sisällä olevaan vankilaan. Löydät tilaustamme hienoimman kanavoivan pyhän liekin voiman Wintertodtiin.
+It seems so. A short while ago I felt the power of the Dark Altar return to normal levels. I was safely able to stop my ritual and let the Altar work on its own again.;Näyttää siltä. Vähän aikaa sitten tunsin Dark Altarin voiman palaavan normaalille tasolle. Pystyin turvallisesti lopettamaan rituaalini ja annoin alttarin toimia taas itsestään.
+This is most concerning though. If someone deliberately sabotaged the Altar, who knows what else they might do. I'll have someone recover the remains of this device. Maybe we can work out where it came from.;Tämä kuitenkin huolestuttaa eniten. Jos joku tahallaan sabotoi alttaria, kuka tietää, mitä muuta he voisivat tehdä. Pyydän jonkun palauttamaan tämän laitteen jäänteet. Ehkä voimme selvittää, mistä se tuli.
+5-gallon jug.;5-gallon kannu.
+[1] 5-gallon jug.;[1] 5 gallonan kannu.
+8-gallon jug.;8-gallon kannu.
+Would you like to fill a jug with coolant?;Haluatko täyttää kannun jäähdytysnesteellä?
+Werven voor Dutch Mayhem;Werven voor Dutch Mayhem
+Invite Akar10 to join the clan.;Kutsu Akar10 liittymään klaaniin.
+Would you be able to guide me up and down the mountain?;Voisitko opastaa minut ylös ja alas vuorelta?
+I make many trips each day so whenever you'd like to travel, just speak to me here, at the Shayzien outpost, or south of the mountain.;Teen monia matkoja joka päivä, joten aina kun haluat matkustaa, puhu minulle täällä, Shayzienin etuvartiossa tai vuoren eteläpuolella.
+Hello. What you are doing here?;Hei. Mitä sinä teet täällä?
+I don't see why not. I've not much to do while the historians are exploring.;En ymmärrä miksi ei. Minulla ei ole paljon tekemistä, kun historioitsijat tutkivat asiaa.
+Do you want to enter the crevice?;Haluatko mennä rakoon?
+Hello, I am a mountain guide for this historical expedition. I led the team to this summit.;Hei, olen tämän historiallisen tutkimusmatkan vuoristo-opas. Johdin joukkueen tähän huippukokoukseen.
+Pleased to meet you. I'm [PLAYER_NAME]. So, what's wrong with the Council?;Mukava tavata sinut. Olen [PLAYER_NAME]. Joten mikä neuvostoa vaivaa?
+Here's some advice for you: focus on the investigation. Leave the politics to the experts.;Tässä on sinulle neuvoja: keskity tutkimukseen. Jätä politiikka asiantuntijoille.
+Then you're just the person I'm looking for. I'm [PLAYER_NAME]. I hear you're the one to talk to about the recent escape of Councillor Hughes.;Sitten olet juuri se henkilö, jota etsin. Olen [PLAYER_NAME]. Kuulen, että sinun on puhuttava neuvoston jäsen Hughesin äskettäisestä pakosta.
+Lydia Fullore, [PLAYER_NAME]. You have been declared enemies of Yama. Your actions have endangered the work of his children. For this, your lives are forfeit.;Lydia Fullore, [PLAYER_NAME]. Teidät on julistettu Yaman vihollisiksi. Sinun tekosi ovat vaarantaneet hänen lastensa työn. Tästä syystä elämäsi on menetetty.
+[PLAYER_NAME]. You have challenged the Judge of Yama. Your guilt will be determined through combat.;[PLAYER_NAME]. Olet haastanut Yaman tuomarin. Syyllisyytesi määritetään taistelun kautta.
+I did wonder if they had more malicious motivations. Perhaps they didn't want anyone getting their hands on Rose's writings.;Mietin, oliko heillä ilkeämpiä motiiveja. Ehkä he eivät halunneet kenenkään saavan käsiinsä Rosen kirjoituksia.
+Atteignez le centre du labyrinthe aussi vite que possible. Plus vous serez rapide, meilleure sera votre récompense.;Atteignez le center du labyrinthe aussi vite que mahdollista. Plus vous serez rapide, meilleure sera votre récompense.
+Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?;Hei, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?
+Â¿QuÃ© estÃ¡s haciendo aquÃ­ afuera?;Â¿QuÃ© estÃ¡s haciendo aquÃ afuera?
+Ah Uh Ah! Ook. Ook Ook! Ook Ook! ;Ah Ah Ah! Okei. Ook ok! Ook ok!
+Ook. Ook! Ah! Ook Ook! Ah Ah! Ook Ah Uh! ;Okei. Okei! Ah! Ook ok! Ah Ah! Ook Ah Uh!

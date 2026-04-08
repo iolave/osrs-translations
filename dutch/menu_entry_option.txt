@@ -2521,3 +2521,25 @@ Question;Vraag
 Survey;Vragenlijst
 Rejoindre;Hervoeging
 Escalader;Roltrap
+Leave Tomb;Verlaat het graf
+Start-minigame;Start-minigame
+Check for Snakes;Controleer op slangen
+Quick-leave;Snel vertrekken
+Push-through;Doordruk
+Quick-withdraw;Snel terugtrekken
+Toggle-view;Wisselweergave
+Recharge-prayer;Opladen-gebed
+Last-destination (DIS);Laatste bestemming (DIS)
+Last-destination (BKP);Laatste bestemming (BKP)
+Withdraw-51;Intrekken-51
+Deposit-60;Borg-60
+Deposit-51;Borg-51
+Withdraw-732;Intrekken-732
+Withdraw-636;Intrekken-636
+Withdraw-64;Intrekken-64
+Withdraw-60;Intrekken-60
+Deposit-732;Borg-732
+À l'extérieur;Aan de buitenkant
+Couper;Coupé
+Default quantity: 60;Standaardhoeveelheid: 60
+Deposit-236;Borg-236

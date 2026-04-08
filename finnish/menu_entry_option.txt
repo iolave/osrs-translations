@@ -2521,3 +2521,25 @@ Question;Kysymys
 Survey;Kysely
 Rejoindre;Vastaus
 Escalader;Escalader
+Leave Tomb;Jätä Tomb
+Start-minigame;Aloita minipeli
+Check for Snakes;Tarkista käärmeet
+Quick-leave;Pikalähtö
+Push-through;Push-through
+Quick-withdraw;Nopea nosto
+Toggle-view;Vaihda näkymää
+Recharge-prayer;Lataa-rukous
+Last-destination (DIS);Viimeinen kohde (DIS)
+Last-destination (BKP);Viimeinen kohde (BKP)
+Withdraw-51;Nosto-51
+Deposit-60;Talletus - 60
+Deposit-51;Talletus-51
+Withdraw-732;Nosto-732
+Withdraw-636;Nosto-636
+Withdraw-64;Nosto-64
+Withdraw-60;Nosto-60
+Deposit-732;Talletus-732
+À l'extérieur;À l'extérieur
+Couper;Couper
+Default quantity: 60;Oletusmäärä: 60
+Deposit-236;Talletus-236

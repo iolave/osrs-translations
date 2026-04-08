@@ -87324,3 +87324,271 @@ Vous cherchez une fille blonde, qui s'appelle Juliette..assez jolie... vous ne l
 Bravo.;Bravo.
 Pouvez-vous m'aider, s'il vous plaît ? Je suis dans une situation très difficile.;Pourrais-vous m'aider, s'il vous plaît ? Je suis dans une situation très difficile.
 Vous avez l'air affamé. Je vais vous dire : prenez un Sandwich carré pour moi.;Vous avez l'air affamé. Je vais vous dire : prenez un Sandwich carré pour moi.
+You're still hunting blue dragons in the Catacombs of Kourend, with 167 to go. Come back when you're finished.;Vous chassez toujours les dragons bleus dans les catacombes de Kourend, avec 167 à faire. Revenez quand vous aurez fini.
+Start the Troll Romance quest?;Démarrer la quête Troll Romance ?
+Ehh, Excuse me... Mr. Troll, sir, ;Ehh, excusez-moi... M. Troll, monsieur,
+Clean all your herbs at 200 coins each?;Nettoyer toutes vos herbes à 200 pièces pièce ?
+Daar, alles klaar.;Donc, tout va bien.
+Tapijtritten kosten 200 munten.;Tapijtritten coûte 200 minutes.
+[3] I know what I'm doing - let's get on with it.;[3] Je sais ce que je fais – allons-y.
+I know what I'm doing - let's get on with it.;Je sais ce que je fais – allons-y.
+Niet nu.;Pas encore.
+What should I do?;Que dois-je faire?
+I have a few rooms full of some things you humans might consider valuable, do you want to give it a go?;J'ai quelques pièces remplies de choses que vous, les humains, pourriez considérer comme précieuses, voulez-vous essayer ?
+Another what?;Un autre quoi ?
+*sigh* Not another one.;*soupir* Pas un autre.
+Fine, I'll take you to the first room now...;Très bien, je vais t'emmener dans la première pièce maintenant...
+I want to charge my sceptre.;Je veux charger mon sceptre.
+Another 'archaeologist'. ;Un autre « archéologue ».
+If it will keep you out of mischief I suppose I could set something up for you...;Si cela peut vous éviter des ennuis, je suppose que je pourrais organiser quelque chose pour vous...
+Play Pyramid Plunder?;Jouer au pillage de la pyramide ?
+That's a shame, have you got anything else I could do while I'm here?;C'est dommage, as-tu autre chose que je pourrais faire pendant que je suis ici ?
+I'm not going to let you plunder my master's tomb you know.;Je ne vais pas te laisser piller la tombe de mon maître, tu sais.
+I have some interesting artefacts I'd like you to look at.;J'ai quelques objets intéressants que j'aimerais que vous regardiez.
+[1] Yes, show me the money.;[1] Oui, montre-moi l'argent.
+I've completed all of the easy tasks in my Desert Achievement Diary!;J'ai accompli toutes les tâches faciles de mon journal des réalisations du désert !
+Ah, I think I'll stay a little longer.;Ah, je pense que je vais rester encore un peu.
+Do you want to sell all your artefacts?;Vous souhaitez vendre tous vos objets ?
+Do you want to flog the lot of 'em?;Voulez-vous les fouetter tous ?
+No, let me think about it.;Non, laisse-moi y réfléchir.
+Fair Dinkum mate, Bonzer doing business with you mate.;Fair Dinkum, mon pote, Bonzer fait des affaires avec toi, mon pote.
+Yes, I'm out of here.;Oui, je sors d'ici.
+Leave the Tomb?;Quitter le Tombeau ?
+Yes, show me the money.;Oui, montre-moi l'argent.
+Bonzer! Let's have a Butcher's mate.;Bonzer! Prenons un compagnon boucher.
+dropped as notes.;déposé sous forme de notes.
+This amulet is a symbol of your exploration of the Kharidian Desert. You can now charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are;Cette amulette est un symbole de votre exploration du désert Kharidien. Vous pouvez désormais charger le sceptre d'un pharaon avec 10 charges, Simon Templeton achètera des artefacts sous forme de billets de banque et des cornes de chèvre du désert seront disponibles.
+If you ever lose your amulet, come back to me to reclaim it.;Si jamais vous perdez votre amulette, revenez me voir pour la récupérer.
+Mag ik nog een amulet?;Est-ce qu'il y a une amulette ?
+Who is this client?;Qui est ce client ?
+Can you tell me about the wheat?;Pouvez-vous me parler du blé ?
+Can I catch these implings then?;Puis-je alors attraper ces Implants ?
+So what are these implings?;Alors, quels sont ces implicites ?
+Can I catch these implings, then?;Puis-je attraper ces Implants, alors ?
+Je nieuwe taak is om 93 Dagannoth. te doden;Je suis récemment arrivé à 93 Dagannoth. te doden
+I'm an investigator. I'm watching the implings.;Je suis enquêteur. Je surveille les Implants.
+My client has asked me to find out where certain missing items have been going.;Mon client m'a demandé de savoir où sont passés certains éléments manquants.
+Why would you want to do that?;Pourquoi voudriez-vous faire ça ?
+I'm not at liberty to discuss that. Investigator-client confidentiality don't you know.;Je ne suis pas libre d'en discuter. La confidentialité enquêteur-client, vous ne savez pas.
+Indeed you may. In fact I encourage it. You will, however, require some equipment.;En effet, vous le pouvez. En fait, je l'encourage. Vous aurez cependant besoin de certains équipements.
+What's a gnome doing here?;Que fait un gnome ici ?
+Where is this place?;Où est cet endroit ?
+Tell me about this portal.;Parlez-moi de ce portail.
+Can I buy a few impling jars?;Puis-je acheter quelques pots implants ?
+Of course I do!;Bien sûr que oui !
+Could you store some equipment for me?;Pourriez-vous me stocker du matériel ?
+exchange I will be able to provide you with some equipment that may help you hunt butterflies more effectively.;échange Je pourrai vous fournir du matériel qui pourra vous aider à chasser les papillons plus efficacement.
+You will also require some experience as a Hunter since these creatures are elusive. The more immature implings require less experience, but some of the rarer implings are extraordinarily hard to find and catch.;Vous aurez également besoin d'une certaine expérience en tant que chasseur puisque ces créatures sont insaisissables. Les Implants les plus immatures nécessitent moins d'expérience, mais certains des Implants les plus rares sont extrêmement difficiles à trouver et à attraper.
+So not back to where the crop circle is now?;Donc pas de retour là où se trouve actuellement le crop circle ?
+Can you remind me how to catch implings again?;Pouvez-vous me rappeler comment attraper à nouveau les Implants ?
+Where will I go if I leave?;Où vais-je aller si je pars ?
+So what's this equipment you can give me then?;Alors, quel est cet équipement que vous pouvez me donner ?
+So, you collect things that humans want? Interesting... So, what would happen if I caught an impling in a butterfly net?;Alors, vous collectionnez les choses que veulent les humains ? Intéressant... Alors, que se passerait-il si j'attrapais un implin dans un filet à papillons ?
+Ik laat je met roest.;J'ai rencontré Roest.
+You wanna leave?;Tu veux partir ?
+Tell me more about these jars.;Parlez-m'en davantage sur ces pots.
+I haven't got enough coins to buy any at the moment.;Je n'ai pas assez de pièces pour en acheter pour le moment.
+Back where you came from, of course!;De retour d’où tu viens, bien sûr !
+Yes, get me out of here!;Oui, sors-moi d'ici !
+Do you have some spare equipment I can use?;Avez-vous du matériel de rechange que je peux utiliser ?
+Don't do that! That would be cruel. But chase us, yes! That is good. Implings are not easy to catch. Especially ones with really tasty food.;Ne fais pas ça ! Ce serait cruel. Mais poursuivez-nous, oui ! C'est bon. Les implants ne sont pas faciles à attraper. Surtout ceux qui proposent des plats vraiment savoureux.
+Once you have caught one, you may break the jar open and obtain the object the impling is carrying. Alternatively, you may exchange certain combinations of jars with me. I will return the jars to my clients. In;Une fois que vous en avez attrapé un, vous pouvez ouvrir le pot et obtenir l'objet que porte l'impling. Alternativement, vous pouvez échanger certaines combinaisons de pots avec moi. Je rendrai les pots à mes clients. Dans
+Can I trade some jarred implings please?;Puis-je échanger des Implants en pot, s'il vous plaît ?
+The aetheric thread connecting you to your own plane leads back to the wheat field where you came from. Obviously. So you will always go back to where you came from! Don't you humans know anything?;Le fil éthéré qui vous relie à votre propre plan vous ramène au champ de blé d’où vous venez. Évidemment. Ainsi, vous retournerez toujours d’où vous venez ! Vous, les humains, ne savez rien ?
+Also, beware. Those imps walking around the maze do not like the fact that their kindred spirits are being captured and will attempt to steal any full jars you have on you, setting the implings free.;Méfiez-vous également. Ces diablotins qui se promènent dans le labyrinthe n'aiment pas le fait que leurs âmes sœurs soient capturées et tenteront de voler tous les bocaux pleins que vous avez sur vous, libérant ainsi les diablotins.
+Stay out of my pockets! I don't have anything that you want.;Reste hors de mes poches ! Je n'ai rien que tu veuilles.
+Ah, but do you have anything that *you* want?;Ah, mais as-tu quelque chose que *tu* veux ?
+Ah, no I'll hang around a bit longer.;Ah non, je vais rester encore un peu.
+So, some of these implings have things that I will really want? Hmm, maybe it would be worth my while trying to catch some.;Alors, certains de ces Impimplants ont des choses que je voudrais vraiment ? Hmm, ça vaudrait peut-être la peine d'essayer d'en attraper.
+Firstly you will need a butterfly net in which to catch them and at least one special impling jar to store an impling.;Tout d'abord, vous aurez besoin d'un filet à papillons pour les attraper et d'au moins un pot à implings spécial pour stocker un impling.
+You want to know about the portal? It is for leaving this place, of course!;Vous voulez en savoir plus sur le portail ? C'est pour quitter cet endroit, bien sûr !
+Then you have something that implings want. ;Ensuite, vous avez quelque chose que les implicites veulent.
+Ah, good day, it's you again. Would you like to trade, or get an impling collector's scroll? Or can I help you some other way?;Ah, bonne journée, c'est encore toi. Souhaitez-vous échanger ou obtenir un parchemin de collection implicite ? Ou puis-je vous aider d'une autre manière ?
+I will sell these jars for 2,000 coins each. How many would you like to purchase?;Je vendrai ces pots pour 2 000 pièces pièce. Combien souhaiteriez-vous en acheter ?
+Evidently not.;Evidemment non.
+I usually prefer trading these jars for implings, but if you desperately need them I'm willing to sell you up to 10 jars per day.;Je préfère généralement échanger ces pots contre des Implings, mais si vous en avez désespérément besoin, je suis prêt à vous vendre jusqu'à 10 pots par jour.
+Tell me more about these thieving imps.;Parlez-m'en davantage sur ces diablotins voleurs.
+This is my home, mundane human! What do you have in your pockets? Something tasty?;C'est ma maison, humain ordinaire ! Qu'est-ce que tu as dans tes poches ? Quelque chose de savoureux ?
+We want things you people want. They are tasty to us! The more you want them, the tastier they are!;Nous voulons des choses que vous voulez. Ils nous sont savoureux ! Plus vous en voulez, plus ils sont savoureux !
+Back...;Dos...
+Thanks, I'll get going.;Merci, je vais y aller.
+Can I have an impling collector's scroll, please?;Puis-je avoir un parchemin de collection implicite, s'il vous plaît ?
+You'd better clear some space in your inventory for a butterfly net and 7 jars and a collector's scroll, then.;Vous feriez donc mieux de libérer de l'espace dans votre inventaire pour un filet à papillons, 7 pots et un parchemin de collection.
+Ik heb alle gemiddelde taken in mijn Lumbridge & Draynor-prestatiedagboek voltooid!;J'ai tout pris dans mon livre voltooïde de Lumbridge & Draynor !
+Toedels.;orteils.
+Welkom bij het Gilde van Meesterambachtslieden.;Bienvenue chez Gilde van Meesterambachtslieden.
+Wil je praten over lampen?;Vais-je praten over lampen?
+Nee, ik ben meer geïnteresseerd in het implen van potten.;Non, je suis plus intéressé par la mise en œuvre des pots.
+from a Guard and can access a shortcut within the Motherlode Mine.;depuis un garde et peut accéder à un raccourci dans la mine Motherlode.
+I've completed all of the medium tasks in my Falador achievement diary!;J'ai terminé toutes les tâches moyennes de mon journal de réussite de Falador !
+Can I have another shield?;Puis-je avoir un autre bouclier ?
+I've upgraded your Falador shield for you. It can restore half of your prayer points once per day and provides a 10% experience boost at Falador farm. You've got an increased chance of finding a clue scroll;J'ai amélioré votre bouclier Falador pour vous. Il peut restaurer la moitié de vos points de prière une fois par jour et offre un bonus d'expérience de 10 % à la ferme Falador. Vous avez plus de chances de trouver un parchemin d'indice
+Ik heb echt een stuk ijzererts nodig.;J'ai vraiment un truc qui ne va pas.
+Hartelijk dank, mevrouw.;Hartelijk humide, mevrouw.
+Mevrouw, kunt u mij alstublieft helpen?;Mevrouw, ne pouvez-vous pas vous aider?
+Natuurlijk help ik graag iemand in nood.;Natuurlijk aide je graag iemand en nood.
+You should make sure your helm is manned before starting the trial.;Vous devez vous assurer que votre barre est occupée avant de commencer l'essai.
+Nee, daar ben ik niet in geïnteresseerd.;Non, je ne suis pas intéressé.
+Bedankt, ik hou van dat liedje!;Bedankt, je hou van ce liedje!
+Ben je gekomen om muziek voor mij te spelen?;Ben je connais ma musique pour mon jeu ?
+Selecteer het nummer dat ik je heb gevraagd af te spelen en praat opnieuw met me.;Sélectionnez le numéro que j'ai eu après votre réponse et votre opinion m'a rencontré.
+Het is mogelijk om geen fouten te maken en toch te verliezen.;Il est possible que je vous fasse des foutes et que vous les verliez.
+Er waren drie goblins in een bar, welke ging het eerst weg?;Vous avez des gobelins dans un bar, alors que vous venez le premier jour ?
+You don't even have 2 gold coins, humans!;Vous n'avez même pas 2 pièces d'or, humains !
+What, on your ship! No thanks!;Quoi, sur votre bateau ! Non merci!
+Wat, op jouw schip? Echt niet.;Qu'est-ce que tu fais sur le bateau ? Très bien.
+Want me to take you back to the mines?;Tu veux que je te ramène aux mines ?
+Gold bar: Really put it down?;Lingot d'or : vous l'avez vraiment laissé tomber ?
+Sorry burger. Alleen Ridders van Ardougne worden in de gevangenis toegelaten.;Désolé hamburger. Tous les Ridders d'Ardougne sont mentionnés dans les informations générales.
+Met hun hulp moet jij mijn broer vinden en hem vermoorden. Als dat klaar is, kom dan bij mij terug.;Avec mon aide, j'ai mon frère qui vient à l'intérieur de Vermoorden. Si c'est clair, je vais chez moi.
+My liege. What must I do again?;Mon suzerain. Que dois-je refaire ?
+Je gaat de Underground Pass in en door de Well of Voyage. Lord Iorwerth, de leider van de elfen, zullen enkele vertegenwoordigers sturen om je aan de andere kant te ontmoeten.;Je trouve le Underground Pass à la porte du Well of Voyage. Lord Iorwerth, le maître des elfes, a pour mission de vous faire comprendre que les autres vous ont dit.
+Restart this Barracuda Trial? Your progress will be lost.;Redémarrer cet essai Barracuda ? Votre progression sera perdue.
+Yes, restart the trial.;Oui, redémarrez l'essai.
+No, exit the trial instead.;Non, quittez plutôt l'essai.
+No, remain in the trial.;Non, restez dans le procès.
+Gegen welche Monster soll ich kÃ¤mpfen?;Gegen welche Monster soll ich kämpfen?
+Es gibt viele MÃ¶glichkeiten, im Spiel Geld zu verdienen. Ich wÃ¼rde vorschlagen, entweder Monster zu tÃ¶ten oder eine Handwerksfertigkeit wie Schmieden oder Angeln zu erlernen.;Il s'agit de viele Möglichkeiten, im Spiel Geld zu verdienen. Je vais vous préparer, entre Monster zu töten ou un Handwerksfertigkeit comme Schmieden ou Angeln zu erlernen.
+Wo kann ich Geld verdienen?;Comment puis-je obtenir du Geldienen ?
+GrÃ¼ÃŸe, Abenteurer. Ich bin Phileas, der Lumbridge-FÃ¼hrer. Ich bin hier, um neuen Spielern Informationen und Anweisungen zu geben. Gibt es irgendetwas, bei dem ich Ihnen helfen kann?;GrÃ¼ÃŸe, Abenteurer. Ich bin Phileas, der Lumbridge-Führer. Je vous propose ici de nouvelles informations et informations sur les jeux. Est-ce que c'est irréprochable que je puisse vous aider ?
+Wo finde ich weitere Informationen?;Voulez-vous trouver plus d’informations ?
+Wo finde ich eine Quest, mit der ich fortfahren kann?;Voulez-vous trouver une quête avec mes forts?
+Ah, una profesión muy noble.;Ah, une profession très noble.
+¿Hay alguna misión que pueda hacer aquí?;Avez-vous une mission que vous pouvez faire ici ?
+Estoy bien, ¿cómo estás?;Estoy bien, ¿como estás?
+Me apetece un poco de pelea, ¿algo peligroso?;J'aime un peu de peau, ¿quelque chose de dangereux ?
+¿Qué tipo de búsqueda estás buscando?;Quel type de recherche êtes-vous en train de faire ?
+I'm a thinker rather than fighter, anything skill orientated?;Je suis un penseur plutôt qu'un combattant, quelque chose d'orienté vers les compétences ?
+Soy un aventurero audaz.;Je suis un aventurier audacieux.
+Hola, ¿puedo ayudarte?;Hola, que peux-tu aider ?
+¿Dónde puedo cortarme el pelo como el tuyo?;Pourquoi ne peux-tu pas couper le pelo comme le tuyo ?
+¿Tiene algo de valor que pueda tener?;Avez-vous quelque chose de vaillant que vous pouvez tenir ?
+Quiero hacer todo tipo de cosas, ¿conoces algo así?;Quiero hacer todo tipo de cosas, ¿conoces algo así?
+¿Puedo comprar tu palo?;Tu peux acheter ton palo ?
+Estoy un poco preocupado: he oído que hay mucha gente matando ciudadanos al azar.;J'ai un peu de préoccupation : il est que beaucoup de gens aiment les citoyens à l'azar.
+¡Apártate de mi camino, que tengo prisa!;¡Apártate de mi camino, que tengo prisa!
+¿Cómo estás hoy?;Comment es-tu aujourd'hui ?
+¿Dónde estoy?;¿Dónde estoy?
+Skills play a big part when you want to progress in knowledge throughout Gielinor. I know of a few skill- related quests that can get you started.;Les compétences jouent un grand rôle lorsque vous souhaitez progresser dans les connaissances à travers Giélinor. Je connais quelques quêtes liées aux compétences qui peuvent vous aider à démarrer.
+Muy bien gracias.;Merci beaucoup.
+Soy más un pensador que un luchador, ¿algo orientado a las habilidades?;Soy más un pensador qu’un luchador, ¿quelque chose orienté vers les capacités?
+Quizás en otra ocasión.;Quiz à une autre occasion.
+¿Sabes de alguna misión que pueda hacer?;Vous savez quelle mission vous pouvez faire ?
+Algo fácil por favor, soy nuevo aquí.;Quelque chose de plus facile pour moi, je suis nouveau ici.
+Doric the dwarf.;Doric le nain.
+Tell me about Fred the farmer please.;Parlez-moi de Fred le fermier s'il vous plaît.
+Any advice for an advanced woodcutter?;Un conseil pour un bûcheron confirmé ?
+ You will have to wait until he isn't looking.;Vous devrez attendre qu'il ne regarde plus.
+Tengo una pregunta sobre el modo Deadman.;J'ai une question sur le mode Deadman.
+You can find Fred next to the field of sheep in Lumbridge. Perhaps you should go and speak with him.;Vous pouvez retrouver Fred à côté du champ de moutons à Lumbridge. Peut-être que tu devrais aller lui parler.
+Fred the farmer.;Fred le fermier.
+Sí, por favor. ¿Qué estás vendiendo?;Oui, pour ma part. Qu'est-ce que tu vends ?
+Lumbridge chickens do make good target practice.;Les poulets de Lumbridge constituent un bon entraînement au tir.
+I have already helped Fred the farmer. I sheared his sheep and made 20 balls of wool for him.;J'ai déjà aidé Fred le fermier. J'ai tondu ses moutons et je lui ai confectionné 20 pelotes de laine.
+¿Qué es esa capa que llevas?;¿Qué esa capa que llevas?
+¿Puedo ayudarte en algo?;Que pouvez-vous aider en quelque sorte ?
+Soy Nigel. Mi trabajo es contarles sobre el modo Deadman.;Soy Nigel. Mon travail est basé sur le mode Deadman.
+Háblame de diferentes árboles y hachas.;Il y a différents arbres et hachas.
+¿Puedo comprar algunas recompensas de Deadman?;Pouvez-vous acheter certaines récompenses de Deadman ?
+Oye, ¿quién eres?;Oye, ¿quién eres?
+ He wouldn't let me kill his chickens though.;Mais il ne me laissait pas tuer ses poulets.
+Háblame de...;Háblame de...
+Or, there's always Doric the dwarf who needs an errand running for him?;Ou bien, il y a toujours Doric le nain qui a besoin d'une course pour lui ?
+All done! The boat is now docked here at Catherby.;Tout est fait ! Le bateau est maintenant amarré ici à Catherby.
+Boatsies? Jubblies? Skill test? What's going on here.;Des bateaux ? Des jubilés ? Test de compétence ? Que se passe-t-il ici.
+The goal of this trial is to use balloon toads to lure jubblies. First up, you'll want to sail west to collect da... sorry, collect the balloon toads from a boat of ours.;Le but de cet essai est d'utiliser des crapauds ballons pour attirer les jubblies. Tout d'abord, vous voudrez naviguer vers l'ouest pour récupérer les... désolé, récupérer les crapauds ballons sur un de nos bateaux.
+I'll take it from here, Gurt.;Je vais m'en occuper à partir de là, Gurt.
+I see. So what do I do here? What's the challenge?;Je vois. Alors qu'est-ce que je fais ici ? Quel est le défi ?
+Look, here come 'nother wan'be jubbly chaser.;Écoute, voici un autre chasseur de jubiles.
+An ogre is a trial master for the Barracudas? That's surprising.;Un ogre est un maître d'épreuve pour les Barracudas ? C'est surprenant.
+Be nice, Gurt, or you'll scare off another one!;Sois gentil, Gurt, ou tu vas en effrayer un autre !
+See, is like Gurtob said so. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.;Vous voyez, c'est comme Gurtob l'a dit. Allez le plus vite, attrapez les crapauds, lancez les crapauds, trompez les jubblies, mangez les jubblies. C'est ça.
+All done! The boat is now docked here at Corsair Cove.;Tout est fait ! Le bateau est maintenant amarré ici à Corsair Cove.
+Me's big boss of of dis boatsie skill test. Call it Jubbly Jive. Only best wiv boatsies can hunt da jubblies.;Je suis le grand patron du test de compétence Boatsie. Appelez-le Jubbly Jive. Seuls les meilleurs bateaux peuvent chasser les jubblies.
+First up, you're going to need a boat with at least a mithril helm in order to withstand the strong rapids here, but don't forget, provided you can withstand them, they'll give you a burst of speed!;Tout d'abord, vous aurez besoin d'un bateau avec au moins un gouvernail en mithril pour résister aux forts rapides ici, mais n'oubliez pas que si vous pouvez y résister, ils vous donneront une pointe de vitesse !
+Gurtob is da bestest jubbly hunter in all of da seas. No one surpass Gurtob.;Gurtob est le meilleur chasseur de jubbly de toutes les mers. Personne ne surpasse Gurtob.
+Creatures talk... talk... long. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.;Les créatures parlent... parlent... longtemps. Allez le plus vite, attrapez les crapauds, lancez les crapauds, trompez les jubblies, mangez les jubblies. C'est ça.
+Dis... Sorry, this corner of the Shrouded Ocean is where we Barracudas like to challenge ourselves to a fun Barracuda Trial called the Jubbly Jive.;Dis... Désolé, c'est dans ce coin de l'Océan Shrouded que nous, les Barracudas, aimons nous lancer des défis lors d'un essai de Barracuda amusant appelé Jubbly Jive.
+Another what? What are you two doing here?;Un autre quoi ? Que faites-vous ici tous les deux ?
+I'm not sure I follow.;Je ne suis pas sûr de suivre.
+Not at all! He may be rough around the edges and difficult to understand at times, but he's a fantastic sailor and that's the only thing us Barracudas care about.;Pas du tout! Il est peut-être brutal et parfois difficile à comprendre, mais c'est un marin fantastique et c'est la seule chose qui nous intéresse, les Barracudas.
+I'd like to attempt the Jubbly Jive.;J'aimerais tenter le Jubbly Jive.
+Hah! Gurtob sail never go down. Only go fastest.;Hah ! La voile Gurtob ne descend jamais. Allez seulement le plus vite.
+If I were you, I'd consider briefly lowering your speed for those tricky turns to avoid getting your boat stuck.;Si j'étais vous, j'envisagerais de réduire brièvement votre vitesse dans ces virages difficiles pour éviter de coincer votre bateau.
+Can you tell me about the Jubbly Jive?;Pouvez-vous me parler du Jubbly Jive ?
+Je veux partir.;Je veux partir.
+À terre et faites-moi des pompes sur ce tapis, soldat !;À terre et faites-moi des pompes sur ce tapis, soldat !
+Allez sur ce tapis et faites-moi des abdos, soldat !;Allez sur ce tapis et faites-moi des abdos, soldat !
+Eh bien, je n'en reviens pas, tu l'as fait, soldat. Maintenant, prends ça et disparais de ma vue.;Eh bien, je n'en reviens pas, tu l'as fait, soldat. Maintenant, prends ça et disparais de ma vue.
+D'accord.;D'accord.
+Bougez-vous, soldat ! Suivez mes ordres et vous pourrez, peut-être, quitter cet endroit en état de rejoindre mon corps d'armée !;Bougez-vous, soldat ! Suivez mes ordres et vous pourrez, peut-être, quitter cet endroit en état de rejoindre mon corps d'armée !
+Je veux vous voir sur ce tapis en train de faire des sauts en étoile, soldat !;Je veux vous voir sur ce tapis en train de faire des sauts en étoile, soldat !
+Mauvais exercice, vermisseau ! À terre et fais-moi des pompes sur ce tapis, soldat !;Mauvais exercice, vermisseau ! À terre et fais-moi des pompes sur ce tapis, soldat !
+Soldat [PLAYER_NAME], garde-à-vous ! Vous avez été recommandé pour rejoindre mon corps d'armée. Pensez-vous pouvoir être le meilleur ?;Soldat [PLAYER_NAME], garde-à-vous ! Vous avez été recommandé pour rejoindre mon corps d'armée. Pensez-vous pouvoir être le meilleur ?
+Als je wilt, maar daarvoor wil ik vijf manden bananen.;Si je flétris, maar daarvoor wil ik vijf manden bananen.
+Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez invoqué. Prenez cette lampe et faites votre vœu.;Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez expérimenter. Prenez cette lampe et faites votre vœu.
+Ah, vous êtes là. J'espérais que vous me parleriez, je me sens si seul. Tenez, voici un cadeau ! Je dois y aller maintenant.;Ah, vous êtes là. J'espérais que vous me parleriez, je me sens si seul. Tenez, voici un cadeau ! Je dois y aller maintenant.
+Qu'avez-vous ?;Qu'avez-vous ?
+Hé, vous voulez acheter une armure ?;Hé, vous voulez acheter une armure ?
+Je fournis des articles pour vous aider à garder vos jambes !;Je fournis des articles pour vous aider à garder vos jambes !
+Oui s'il vous plaît.;Oui s'il vous plaît.
+You are to bring balance to 15 Black Dragons in Taverley Dungeon.;Vous devez équilibrer 15 dragons noirs dans le donjon de Taverley.
+You're still bringing balance to wyrms; you have 81 to go. Come back when you've finished your task.;Vous apportez toujours l'équilibre aux wyrms ; il vous en reste 81. Revenez lorsque vous avez terminé votre tâche.
+Gebruik dan dit magische apparaat om te vinden waar je bestemming is en ga dan wat gesneden.;Gebruik and this magische appareil om te vinden waar je bestemming est en ga dan ce gesneden.
+Dat magische apparaat zal je begeleiden naar de plek waar je moet graven. Succes.;Cet appareil magistral doit être placé sur le lieu où je dois être gravé. Succès.
+Ah! Kent u warme en koude vloeistoffen?;Ah ! Kent, tu te réchauffes et tu es prêt à vloeistoffen ?
+Hé, Reldo. Ik heb weer zo'n aanwijzingsrol. Heb je enig advies?;Hé, Reldo. Je pense que c'est le cas pour un anwijzingsrol. Heb j'ai des conseils?
+Well done, have this.;Bien joué, prends ça.
+Goed gedaan maatje! Alsjeblieft!;C'est bon pour moi ! Aussi!
+Ik heb echt een gekookte forel nodig.;Je suis vraiment un gekookte forel nodig.
+Oké, alsjeblieft.;Ok, aussi.
+Thanks anyway.;Merci quand même.
+Ga een baan zoeken!;Ga een baan zoeken!
+Sorry, ik heb er geen.;Désolé, je ne sais pas.
+Oh wait... I haven't got enough, sorry.;Oh attends... Je n'en ai pas assez, désolé.
+Heeft u wat kleingeld nodig, directeur?;Qu'est-ce que Kleineld Nodig a fait, directeur ?
+Kun je mij uitstaan?;Kun je mij uitstaan?
+Ik heb echt een rauwe forel nodig.;Je n'ai vraiment rien d'autre à faire.
+I suppose I could keep hold of a net and a few empty jars for you. Just give me what you want me to hold. ;Je suppose que je pourrais vous garder un filet et quelques bocaux vides. Donne-moi juste ce que tu veux que je tienne.
+Nilsal to you, iknami. Welcome to the Grand Museum. I hope your visit is a pleasant one. If you have any questions about Varlamore, I'm happy to help.;Nilsal à toi, iknami. Bienvenue au Grand Musée. J'espère que votre visite sera agréable. Si vous avez des questions sur Varlamore, je serai ravi de vous aider.
+Try the middle floor, south western bay.;Essayez l'étage intermédiaire, baie sud-ouest.
+Are you sure you want to enter the Tower of Magic?;Êtes-vous sûr de vouloir entrer dans la Tour de la Magie ?
+Oh... I shouldn't be surprised I guess... The Council only care about helping themselves.;Oh... Je ne devrais pas être surpris, je suppose... Le Conseil ne se soucie que de s'aider lui-même.
+Without the power of the Dark Altar, there's nothing to keep our people alive. The loss in power from the Altar will be what killed Thana.;Sans le pouvoir de l'Autel Noir, rien ne peut maintenir notre peuple en vie. La perte de puissance de l’Autel sera ce qui tuera Thana.
+I have. The Council won't be helping I'm afraid.;J'ai. Le Conseil ne nous aidera pas, j'en ai peur.
+I'm afraid my father is deep in concentration and is unable to talk.;J'ai peur que mon père soit profondément concentré et incapable de parler.
+Well I'm afraid I have some bad news which is likely related to this. A citizen of Arceuus has died.;Eh bien, j'ai bien peur d'avoir de mauvaises nouvelles qui sont probablement liées à cela. Un citoyen d'Arceuus est décédé.
+Thank you... Could you head to Kourend Castle and let Councillor Andrews know what's happened? He's in charge of the Council.;Merci... Pourriez-vous vous rendre au château de Kourend et informer le conseiller Andrews de ce qui s'est passé ? Il est responsable du Conseil.
+If we can't find and fix whatever has caused this loss of power, our people are surely doomed. Now that those souls have been dealt with, we can perform tests both here and at the Altar to try and find the problem.;Si nous ne pouvons pas trouver et réparer ce qui a causé cette perte de pouvoir, notre peuple est sûrement condamné. Maintenant que ces âmes ont été traitées, nous pouvons effectuer des tests ici et à l'Autel pour essayer de trouver le problème.
+To a construct, built by a mortal.;À une construction, construite par un mortel.
+Right next to the Altar.;Juste à côté de l'autel.
+Hmmm. Very well. I'll go and free this soul.;Hmmm. Très bien. Je vais aller libérer cette âme.
+You said the Altar was failing.;Vous avez dit que l'autel était en panne.
+Do you have something for me?;As-tu quelque chose pour moi ?
+They found out that the power of the Altar was being redirected into a device hidden nearby. I found the device and destroyed it.;Ils découvrirent que le pouvoir de l'Autel était redirigé vers un appareil caché à proximité. J'ai trouvé l'appareil et je l'ai détruit.
+Pass through the Doors of Dinh to the prison within. You will find the finest of our order channeling the power of the sacred flame into the Wintertodt.;Passez les portes de Dinh jusqu’à la prison intérieure. Vous trouverez les meilleurs de notre ordre canalisant le pouvoir de la flamme sacrée dans le Wintertodt.
+It seems so. A short while ago I felt the power of the Dark Altar return to normal levels. I was safely able to stop my ritual and let the Altar work on its own again.;Il semble que oui. Il y a peu de temps, j’ai senti le pouvoir de l’Autel Noir revenir à des niveaux normaux. J'ai pu arrêter mon rituel en toute sécurité et laisser l'autel fonctionner à nouveau tout seul.
+This is most concerning though. If someone deliberately sabotaged the Altar, who knows what else they might do. I'll have someone recover the remains of this device. Maybe we can work out where it came from.;C’est cependant très préoccupant. Si quelqu’un sabotait délibérément l’Autel, qui sait ce qu’il pourrait faire d’autre. Je vais demander à quelqu'un de récupérer les restes de cet appareil. Peut-être qu'on pourra déterminer d'où ça vient.
+5-gallon jug.;5-gallon cruche.
+[1] 5-gallon jug.;[1] Cruche de 5 gallons.
+8-gallon jug.;8-gallon cruche.
+Would you like to fill a jug with coolant?;Souhaitez-vous remplir une carafe de liquide de refroidissement ?
+Werven voor Dutch Mayhem;Werven pour Dutch Mayhem
+Invite Akar10 to join the clan.;Invitez Akar10 à rejoindre le clan.
+Would you be able to guide me up and down the mountain?;Seriez-vous capable de me guider de haut en bas de la montagne ?
+I make many trips each day so whenever you'd like to travel, just speak to me here, at the Shayzien outpost, or south of the mountain.;Je fais de nombreux voyages chaque jour, donc chaque fois que vous souhaitez voyager, parlez-moi ici, à l'avant-poste de Shayzien, ou au sud de la montagne.
+Hello. What you are doing here?;Bonjour. Que fais-tu ici ?
+I don't see why not. I've not much to do while the historians are exploring.;Je ne vois pas pourquoi. Je n'ai pas grand-chose à faire pendant que les historiens explorent.
+Do you want to enter the crevice?;Voulez-vous entrer dans la crevasse ?
+Hello, I am a mountain guide for this historical expedition. I led the team to this summit.;Bonjour, je suis accompagnateur en montagne pour cette expédition historique. J'ai conduit l'équipe à ce sommet.
+Pleased to meet you. I'm [PLAYER_NAME]. So, what's wrong with the Council?;Heureux de vous rencontrer. Je m'appelle [PLAYER_NAME]. Alors, qu'est-ce qui ne va pas avec le Conseil ?
+Here's some advice for you: focus on the investigation. Leave the politics to the experts.;Voici quelques conseils pour vous : concentrez-vous sur l’enquête. Laissez la politique aux experts.
+Then you're just the person I'm looking for. I'm [PLAYER_NAME]. I hear you're the one to talk to about the recent escape of Councillor Hughes.;Alors tu es exactement la personne que je recherche. Je m'appelle [PLAYER_NAME]. J'ai entendu dire que c'est à vous qu'il faut parler de la récente évasion du conseiller Hughes.
+Lydia Fullore, [PLAYER_NAME]. You have been declared enemies of Yama. Your actions have endangered the work of his children. For this, your lives are forfeit.;Lydia Fullore, [PLAYER_NAME]. Vous avez été déclarés ennemis de Yama. Vos actions ont mis en danger le travail de ses enfants. Pour cela, vos vies sont perdues.
+[PLAYER_NAME]. You have challenged the Judge of Yama. Your guilt will be determined through combat.;[PLAYER_NAME]. Vous avez défié le juge de Yama. Votre culpabilité sera déterminée par le combat.
+I did wonder if they had more malicious motivations. Perhaps they didn't want anyone getting their hands on Rose's writings.;Je me demandais s'ils avaient des motivations plus malveillantes. Peut-être ne voulaient-ils pas que quiconque mette la main sur les écrits de Rose.
+Atteignez le centre du labyrinthe aussi vite que possible. Plus vous serez rapide, meilleure sera votre récompense.;Atteignez le centre du labyrinthe aussi vite que possible. Plus vous serez rapide, meilleure sera votre récompense.
+Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?;Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?
+Â¿QuÃ© estÃ¡s haciendo aquÃ­ afuera?;Â¿Qué estás haciendo aquá afuera?
+Ah Uh Ah! Ook. Ook Ook! Ook Ook! ;Ah euh ah ! Ok. Ook Ook ! Ook Ook !
+Ook. Ook! Ah! Ook Ook! Ah Ah! Ook Ah Uh! ;Ok. Ouais ! Ah ! Ook Ook ! Ah Ah ! Ook Ah Euh !

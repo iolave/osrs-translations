@@ -2521,3 +2521,25 @@ Question;Question
 Survey;Enquête
 Rejoindre;Rejoindre
 Escalader;Escalader
+Leave Tomb;Quitter le tombeau
+Start-minigame;Démarrer le mini-jeu
+Check for Snakes;Rechercher des serpents
+Quick-leave;Départ rapide
+Push-through;Passage direct
+Quick-withdraw;Retrait rapide
+Toggle-view;Basculer la vue
+Recharge-prayer;Prière de recharge
+Last-destination (DIS);Dernière destination (DIS)
+Last-destination (BKP);Dernière destination (BKP)
+Withdraw-51;Retrait-51
+Deposit-60;Dépôt-60
+Deposit-51;Dépôt-51
+Withdraw-732;Retrait-732
+Withdraw-636;Retrait-636
+Withdraw-64;Retrait-64
+Withdraw-60;Retrait-60
+Deposit-732;Dépôt-732
+À l'extérieur;À l'extérieur
+Couper;Couper
+Default quantity: 60;Quantité par défaut : 60
+Deposit-236;Dépôt-236
