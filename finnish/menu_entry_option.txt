@@ -2543,3 +2543,18 @@ Deposit-732;Talletus-732
 Couper;Couper
 Default quantity: 60;Oletusmäärä: 60
 Deposit-236;Talletus-236
+DJR;DJR
+Favourites;Suosikit
+AJR;AJR
+CIR;CIR
+CIS;IVY
+Default quantity: 236;Oletusmäärä: 236
+View List;Näytä luettelo
+DIP;DIP
+Last-destination (BKS);Viimeinen kohde (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Osta: 1 x tonnikala
+Deposit-2787;Talletus-2787
+Withdraw-2787;Nosto-2787
+Default quantity: 2,787;Oletusmäärä: 2 787
+Tirer;Tyler

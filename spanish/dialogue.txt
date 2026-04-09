@@ -87592,3 +87592,249 @@ Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?;Hola, [
 Â¿QuÃ© estÃ¡s haciendo aquÃ­ afuera?;¿Qué estás haciendo aquí afuera?
 Ah Uh Ah! Ook. Ook Ook! Ook Ook! ;¡Ah, ah, ah! Bueno. ¡Ok, ok! ¡Ok, ok!
 Ook. Ook! Ah! Ook Ook! Ah Ah! Ook Ah Uh! ;Bueno. ¡Ok! ¡Ah! ¡Ok, ok! ¡Ah, ah! ¡Ah, uh!
+God dag, hur kan jag hjälpa dig?;Dios mío, ¿hur kan jag hjälpa dig?
+Jag skulle vilja samla på saker.;Jag Skulle vilja samla på saker.
+Vad är det här för ställe?;¿Vad är det här för ställe?
+Gå till ditt hus (byggläge);Gå hasta ditt hus (byggläge)
+Gå till ditt hus;Gå hasta ditt hus
+Gå till en väns hus;Gå hasta en väns hus
+Avboka;avboká
+And pop your nose in a jug of this.;Y mete tu nariz en una jarra de esto.
+Will do, miss. Goodbye now.;Lo haré, señorita. Adiós ahora.
+Come in and drink if you are dry,;Entra y bebe si estás seco,
+Ye mariners all, as ye pass by,;Vosotros, marineros todos, al pasar,
+Free. She is free...;Gratis. Ella es libre...
+It was my pleasure Kennith. You take care now.;Fue un placer Kennith. Cuídate ahora.
+Great, miss! Thanks again for rescuing me.;¡Genial, señorita! Gracias de nuevo por rescatarme.
+Come spend, me lads, your money brisk,;Vengan a gastar, muchachos, su dinero enérgico,
+Hello there, Kennith. How are you today?;Hola, Kennith. ¿Cómo estás hoy?
+We fooled you easily enough.;Te engañamos con bastante facilidad.
+De langzaamste vissers vangen de snelste vis.;De langzaamste vissers vangen de snelste vis.
+Ik heb een vraag voor je.;Ik heb een vraag voor je.
+Geweldig...;Geweldig...
+Sorry, but your trail is not over quite yet.;Lo sentimos, pero tu camino aún no ha terminado.
+Perfect!;¡Perfecto!
+Vul het antwoord op de vraag in.;Vul het antwoord op de vraag in.
+Find the answer to this question for me.;Encuentra la respuesta a esta pregunta por mí.
+Eres mucho mÃ¡s tranquilo que los otros seguidores zamorakianos con los que me he cruzado en el desierto.;Eres mucho más tranquilo que los otros seguidores zamorakianos con los que me he cruzado en el desierto.
+VocÃª estÃ¡ atualmente em um <col=ff0000>contrato para iniciantes</col>. VÃ¡ ver <col=ff0000>Ross</col>, ao norte da igreja em <col=ff0000>Ardonha Oriental</col>. VocÃª pode conseguir outro emprego depois de mobiliar a casa dele.;VocÃª estÃ¡ actualmente en un <col=ff0000>contrato para iniciantes</col>. Vá ver <col=ff0000>Ross</col>, al norte de la iglesia en <col=ff0000>Ardonha Oriental</col>. Você pode conseguir outro emprego depois de mobiliar a casa dele.
+Gostaria que meu espelho fosse consertado.;Gostaria que meu espelho fosse concertado.
+Gostaria de construir duas gavetas de madeira.;Gostaria de construir duas gavetas de madeira.
+Ei, sou seu empreiteiro da Mahogany Homes, o que vocÃª queria que fosse feito?;Ei, sou seu empreiteiro da Mahogany Homes, o que você queria que fosse feito?
+Gostaria de construir uma cama de madeira.;Gostaria de construir una cama de madeira.
+Eu gostaria que meu suporte de chapÃ©u fosse consertado.;Eu gostaria que meu suporte de chapéu fosse consertado.
+Certamente.;Certamente.
+Agora vocÃª me escuta! Ele Ã© apenas um gatinho! Deve haver algo que eu possa fazer!;Agora você me escuta! ¡Ele é apenas um gatinho! ¡Deve haver algo que eu possa fazer!
+Ah, I suppose someone has to do it.;Ah, supongo que alguien tiene que hacerlo.
+VÃ¡ agora! VÃ¡ e nÃ£o olhe para trÃ¡s!;¡Váágora! ¡Vá e nÃ£o olhe para trás!
+Longe deste lugar! Para Guilenor!;¡Largo de este lugar! ¡Para Guilenor!
+F-f-peixe... dÃª a ele o f-f-peixe que ele gosta e ele pode cair no sono.;F-f-peixe... dÃª a ele o f-f-peixe que ele gosta e ele pode cair no sono.
+VÃ¡ vocÃª, [PLAYER_NAME], eu nÃ£o pertenÃ§o a esse lugar... meu lugar Ã© aqui, em ScapeRune. Este Ã© o Ãºnico lugar onde posso ir...;VÃ¡ vocÃª, [PLAYER_NAME], eu nÃ£o pertenÃ§o a esse lugar... meu lugar Ã© aqui, em ScapeRune. Este Ã© o Ãºnico lugar onde posso ir...
+Ah, tudo bem entÃ£o.;Ah, tudo bem então.
+Posso ter um guia de construÃ§Ã£o?;Posso ter um guia de construcción?
+Mas eu te amo!;Mas eu te amo!
+Sou um aventureiro ousado.;Sou um aventureiro ousado.
+Nosso amor nunca poderÃ¡ existir, querido [PLAYER_NAME].;Nosso amor nunca podrá existir, querido [PLAYER_NAME].
+Vir? Venha para onde?;¿Vir? ¿Venha para onde?
+Olha... ali! Aquele local de pesca c-c-contÃ©m os peixes que ele gosta.;¡Olha... ali! Aquele local de pesca c-c-contém os peixes que ele gosta.
+Miau! Errr... Eu nÃ£o posso te ajudar... Ele vai matar todos nÃ³s!;Miau! Errr... Eu não posso te ayudar... Ele vai matar todos nÃ³s!
+Evil Bob adormeceu, venha rÃ¡pido!;¡El malvado Bob adormeceu, venha rápido!
+Gostaria que fosse construÃ­da uma gaveta de carvalho.;Gostaria que fosse construyó una gaveta de carvalho.
+<str>Contrato de especialista (requer 70 construÃ§Ãµes);<str>Contrato de especialista (solicita 70 construcciones)
+<str>Contrato Adepto (requer 50 construÃ§Ãµes);<str>Contrato Adepto (requiere 50 construcciones)
+Gostaria de construir uma mesa de carvalho.;Gostaria de construir una mesa de carvalho.
+I'd like an Oak wardrobe built.;Me gustaría construir un armario de roble.
+I'd like an Oak cabinet built.;Me gustaría construir un gabinete de roble.
+Nossa, o que te ensinam na escola?;Nossa, o que te ensinam na escola?
+You're currently assigned to kill kalphites; only 23 more to go. Your reward point tally is 0.;Actualmente estás asignado a matar kalfitas; Sólo faltan 23 más. Su recuento de puntos de recompensa es 0.
+VocÃª tambÃ©m precisarÃ¡ desta joia encantada, ela permite que Slayer Masters como eu entrem em contato com vocÃª e atualizem seu progresso. NÃ£o se preocupe se vocÃª perdÃª-lo, vocÃª pode comprar outro em qualquer Slayer Master.;VocÃª tambÃ©m precisarÃ¡ desta joia encantada, ela permite que Slayer Masters como eu entrem em contato com vocÃª e atualizem seu Progresso. No se preocupe si você perdê-lo, você pode comprar outro em qualquer Slayer Master.
+Kalphites are large insects which live in great hives under the desert sands. Their chitin is weak to crushing weapons and the larger varieties can be poisonous.;Los calfitos son insectos de gran tamaño que viven en grandes colmenas bajo las arenas del desierto. Su quitina es débil para aplastar armas y las variedades más grandes pueden ser venenosas.
+Tenho algumas recompensas que vocÃª pode ganhar e uma grande variedade de equipamentos de ExtermÃ­nio Ã  venda.;Tenho algumas recompensas que você pode ganhar e uma gran variedade de equipamentos de Extermínio Ã venda.
+We'll start you off hunting kalphites, you'll need to kill 23 of them.;Comenzaremos cazando kalphites, necesitarás matar a 23 de ellos.
+Ah, tudo bem entÃ£o, vocÃª torceu meu braÃ§o. VocÃª terÃ¡ que treinar contra grupos especÃ­ficos de criaturas.;Ah, tudo bem então, você torceu meu braço. Você terá que entrenar contra grupos específicos de criaturas.
+Suponho que terei que educÃ¡-lo entÃ£o. Um matador Ã© alguÃ©m treinado para lutar contra criaturas especÃ­ficas. Eles conhecem todas as fraquezas e forÃ§as dessas criaturas. Como vocÃª pode imaginar, isso torna muito mais fÃ¡cil matÃ¡-los.;Suponho que terei que educa-lo entÃ£o. Un matador é alguém treinado para lutar contra criaturas específicas. Eles conhecem todas as fraquezas e forças dessas criaturas. Como você pode imaginar, isso torna muito mais fácil matá-los.
+Hmmm, bem, nÃ£o tenho tanta certeza...;Hmmm, bem, no tenho tanta certeza...
+OlÃ¡ [PLAYER_NAME], em que posso ajudar vocÃª?;Olá [PLAYER_NAME], em que posso ajudar você?
+You'll find me in Zanaris. I'll be here when you need a new task.;Me encontrarás en Zanaris. Estaré aquí cuando necesites una nueva tarea.
+Bem... er...;Bem... eh...
+Por favor!;¡Por favor!
+Olhe para a loja.;Olhe para a loja.
+Ok, o que vem primeiro?;Ok, ¿qué vem primeiro?
+Veja as recompensas.;Veja como recompensa.
+I managed to defeat TzTok-Jad and obtain this fire cape.;Logré derrotar a TzTok-Jad y obtener esta capa de fuego.
+Surely this proves I am capable? Can I pleeease come through now?;¿Seguramente esto prueba que soy capaz? ¿Puedo pasar ahora por favor?
+Yes, sell it for 8,000 TokKul.;Sí, véndelo por 8.000 TokKul.
+No, I like my cape!;¡No, me gusta mi capa!
+Yes, I know I won't get my cape back.;Sí, sé que no recuperaré mi capa.
+You not lucky. Maybe next time, JalYt.;No tienes suerte. Quizás la próxima vez, JalYt.
+I have a fire cape here.;Tengo una capa de fuego aquí.
+I suppose so, I'll grant you access to Mor Ul Rek. The guards will open the gates for you, you are first JalYt to pass these gates!;Supongo que sí, te daré acceso a Mor Ul Rek. Los guardias te abrirán las puertas, ¡tú eres el primer JalYt en pasar estas puertas!
+That is most impressive JalYt-Hur-[PLAYER_NAME].;Ese es el JalYt-Hur-[PLAYER_NAME] más impresionante.
+Sell your fire cape?;¿Vender tu capa de fuego?
+Sacrifice your firecape for a chance at TzRek-Jad?;¿Sacrificar tu capa de fuego por una oportunidad en TzRek-Jad?
+Well, there are four different Desert amulets, which match up with the four levels of difficulty. Each has the same rewards as the previous level and some additional benefits too... which tier of rewards would you like to;Bueno, hay cuatro amuletos del Desierto diferentes, que coinciden con los cuatro niveles de dificultad. Cada uno tiene las mismas recompensas que el nivel anterior y también algunos beneficios adicionales... ¿qué nivel de recompensas te gustaría?
+Just complete the tasks in the Desert so they're ticked off, then come and speak to me for your rewards.;Simplemente completa las tareas en el Desierto para que estén marcadas y luego ven y habla conmigo para recibir tus recompensas.
+Eu gostaria de ir para o deserto, por favor.;Eu gostaria de ir para o deserto, por favor.
+If you complete all of the easy tasks in the Desert, you can charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are dropped as notes.;Si completas todas las tareas fáciles en el desierto, puedes cargar el cetro de un faraón con 10 cargas, Simon Templeton comprará artefactos en forma de billetes y los cuernos de cabra del desierto se dejarán caer como billetes.
+Go talk to Shantay. I'm on duty and I don't have time to talk to the likes of you!;Ve a hablar con Shantay. ¡Estoy de servicio y no tengo tiempo para hablar con gente como tú!
+AAAAAAAAARRRRRRGGGGGHHHHHHH!;AAAAAAAAARRRRRRGGGGGHHHHHHH!
+She likes to be tickled hehehehe.;A ella le gusta que le hagan cosquillas jejejeje.
+I'll leave you to it then...;Te dejo con eso entonces...
+No thanks, I don't want any.;No gracias, no quiero ninguno.
+You're currently assigned to kill kalphites; only 14 more to go. Your reward point tally is 0.;Actualmente estás asignado a matar kalfitas; Sólo faltan 14 más. Su recuento de puntos de recompensa es 0.
+Hola, Conejito de Pascua. ¿Está todo bien?;Hola, Conejito de Pascua. ¿Está todo bien?
+VocÃª precisa de algo novo para caÃ§ar.;Você precisa de algo novo para caer.
+You need something new to hunt. Come and see me when you can and I'll give you a new task. Your reward point tally is 0.;Necesitas algo nuevo para cazar. Ven a verme cuando puedas y te daré una nueva tarea. Su recuento de puntos de recompensa es 0.
+uau uau uau;uau uau uau
+Pensé que por una vez todo saldría tan suave como el chocolate con leche.;Pensé que por una vez todo saldría tan suave como el chocolate con leche.
+¡Dios mío, Dios mío!;¡Dios mío, Dios mío!
+¡Tenía todo preparado! Los huevos, las cestas... Incluso enderecé las orejas antes de llegar aquí.;¡Tenía todo preparado! Los huevos, las cestas... Incluso endérecé las orejas antes de llegar aquí.
+Respira hondo, cálmate. Dime qué pasa.;Respira hondo, cálmate. Dime qué pasa.
+No, no. ¡Esto no puede estar pasando!;No, no. ¡Esto no puede estar pasando!
+Os Trolls regeneram o dano rapidamente e possuem algum nÃ­vel de defesas mÃ¡gicas, mas isso Ã© facilmente contornado por sua fraqueza ao fogo.;Los Trolls regeneran el daño rápidamente y poseen algún nivel de defensas mágicas, pero isso é facilmente contornado por sua fraqueza ao fogo.
+Excellent, you're doing great. Your new task is to kill 86 Trolls.;Excelente, lo estás haciendo genial. Tu nueva tarea es matar a 86 Trolls.
+Oh, no puedo soportar esto. [PLAYER_NAME], ¿no me ayudarás a encontrar el huevo que falta?;Oh, no puedo soportar esto. [PLAYER_NAME], ¿no me ayudarás a encontrar el huevo que falta?
+¡Continúa ahora, antes de que viaje demasiado lejos!;¡Continúa ahora, antes de que viaje demasiado lejos!
+¿Enderezaste las orejas? ¿Cómo podrías siquiera-;¿Enderezaste las orejas? ¿Cómo podrías siquiera?
+¡Gracias! Archibald dejó una nota antes de irse. Puede que te ayude a encontrarlo. Está sobre una mesa justo por allí.;¡Gracias! Archibald dejó una nota antes de irse. Puede que te ayude a encontrarlo. Está sobre una mesa justo por allí.
+Es curioso. Siempre que oye hablar de lugares interesantes, tiende a querer ir allí.;Es curioso. Siempre que oye hablar de lugares interesantes, tiende a querer ir allí.
+Bueno, supongo que nunca pensé en eso.;Bueno, supongo que nunca pensé en eso.
+<col=0000b2>--El Conejo de Pascua te guiña un ojo.--</col>;<col=0000b2>--El Conejo de Pascua te guiña un ojo.--</col>
+¿Y les enseñas a escribir también?;¿Y les enseñas a escribir también?
+¡Y entonces sobrevino el desastre! Conté mis huevos hacia atrás, hacia adelante, al revés y hacia arriba, pero, por desgracia... Falta uno.;¡Y entonces sobrevino el desastre! Conté mis huevos hacia atrás, hacia adelante, al revés y hacia arriba, pero, por desgracia... Falta uno.
+¿Estás seguro de que trajiste la cantidad correcta?;¿Estás seguro de que trajiste la cantidad correcta?
+¡Absolutamente! Tengo todo un año para planificar la Pascua. ¿Qué crees que hago cuando no estoy aquí celebrando contigo?;¡Absolutamente! Tengo todo un año para planificar la Pascua. ¿Qué crees que hago cuando no estoy aquí celebrando contigo?
+Estoy en casa, pintando y contando huevos, ¡claro! Y cuidando a mis gallinas.;Estoy en casa, pintando y contando huevos, ¡claro! Y cuidando a mis gallinas.
+Supongo que me voy a perseguir un huevo.;Supongo que me voy a perseguir un huevo.
+Por supuesto. Nombro todos mis huevos. También están Eggward, Eggon, Leggolas y Greggory, por nombrar algunos.;Por supuesto. Nombro todos mis huevos. También están Eggward, Eggon, Leggolas y Greggory, por nombrar algunos.
+¿Archibald? ¿Le pusiste nombre al huevo?;¿Archibald? ¿Le pusiste nombre al huevo?
+¿Iniciar el evento de Pascua?;¿Iniciar el evento de Pascua?
+Por cierto, déjame ver qué te ha dejado Archibald...;Por cierto, déjame ver qué te ha dejado Archibald...
+Parece que debes buscar un fabricante de pociones. Pruebe en el oeste de Varrock.;Parece que debes buscar un fabricante de pociones. Pruebe en el oeste de Varrock.
+¿Le echaste un vistazo a la nota?;¿Le echaste un vistazo a la nota?
+Todavía no, no.;Todavía no, no.
+Está en una mesa justo ahí, deberías tomarlo y leerlo.;Está en una mesa justo ahí, deberías tomarlo y leerlo.
+¿Puedes ayudarme a entender dónde está Archibald?;¿Puedes ayudarme a entender dónde está Archibald?
+Yo soy el boticario. Preparo pociones. ¿Necesitas algo específico?;Yo soy el boticario. Prepara pociones. ¿Necesitas algo específico?
+Why won't people leave me alone?!;¡¿Por qué la gente no me deja en paz?!
+Â¡Todo listo! El barco ahora estÃ¡ atracado aquÃ­ en Catherby.;¡Todo listo! El barco ahora está atrapado aquí en Catherby.
+Arriba;Arriba
+¿Hacia dónde quieres ir?;¿Hacia dónde quieres ir?
+Abajo;Abajo
+trépar;trépar
+Aquí vamos de nuevo.;Aquí vamos de nuevo.
+Ajá, esta vez te tengo.;Ajá, esta vez te tengo.
+You need 3,200 coins to sail to Port Tyras.;Necesitas 3200 monedas para navegar hasta Port Tyras.
+Elige de nuevo.;Elige de nuevo.
+Nice to meet you too, Gwyna. My name is [PLAYER_NAME], Captain of the Fervent Manta.;Encantado de conocerte también, Gwyna. Mi nombre es [PLAYER_NAME], Capitán del Fervent Manta.
+You've no need to feel sad here, adventurer. This is where we honour the dead by singing songs to remember them.;No tienes por qué sentirte triste aquí, aventurero. Aquí es donde honramos a los muertos cantando canciones para recordarlos.
+Their remains are scattered across the waters here, creating what sailors refer to as the crystal-flecked waters.;Sus restos están esparcidos por las aguas de aquí, creando lo que los marineros llaman aguas salpicadas de cristales.
+Oh, I didn't realise that's what the crystals were.;Oh, no me di cuenta de que eso eran los cristales.
+That's the main objective of this Barracuda Trial, the Gwenith Glide.;Ese es el objetivo principal de esta Prueba Barracuda, el Gwenith Glide.
+What a delightful name for a boat.;Qué nombre tan encantador para un barco.
+Excuse me? Are you there?;¿Disculpe? ¿Está ahí?
+Thank you. If you don't mind me asking, what were you doing earlier?;Gracias. Si no te importa que te pregunte, ¿qué estabas haciendo antes?
+The objective of this trial is to imbue large crystals dedicated to the different elven clans. You do that by sailing through portals linked to them. To get started, head out into the course in search of the portals.;El objetivo de esta prueba es imbuir grandes cristales dedicados a los diferentes clanes élficos. Para ello, navegue a través de portales vinculados a ellos. Para comenzar, dirígete al curso en busca de los portales.
+Ah, so this is a Barracuda Trial. What do I do if I want to get involved?;Ah, entonces este es un ensayo Barracuda. ¿Qué hago si quiero involucrarme?
+Oh! Sorry, sailor, I didn't see you there. My name is Gwyna. It's nice to meet you.;¡Oh! Lo siento marinero, no te vi allí. Mi nombre es Gwyna. Encantado de conocerte.
+I was singing for those who perished here. What surrounds you are the remains of hundreds of elven vessels which were destroyed during the Siege of Prifddinas.;Estaba cantando para los que perecieron aquí. Lo que te rodea son los restos de cientos de vasijas élficas que fueron destruidas durante el asedio de Prifddinas.
+Additionally, be aware that the portals will both displace your boat and change which direction it is headed for.;Además, tenga en cuenta que los portales desplazarán su barco y cambiarán la dirección hacia la que se dirige.
+No, mejor sal de la prueba.;No, mejor sal de la prueba.
+Â¿Reiniciar esta prueba de Barracuda? Tu progreso se perderÃ¡.;¿Reiniciar esta prueba de Barracuda? Tu progreso se perderá.
+Finally, keep your sails trimmed and try not to get lost out there. The portals can be disorientating at first, but I'm sure you'll learn the layout of the course over time.;Por último, mantén las velas alineadas y trata de no perderte por ahí. Los portales pueden resultar confusos al principio, pero estoy seguro de que con el tiempo aprenderás el diseño del curso.
+Another thing to look out for are the crystal motes. If you have a wind catcher or gale catcher activated on your boat, they will be converted into wind motes and charge it up for you.;Otra cosa a tener en cuenta son las motas de cristal. Si tiene un receptor de viento o un receptor de vendaval activado en su barco, se convertirán en motas de viento y lo cargarán por usted.
+Veo. Â¿Tienes algÃºn consejo o truco para mÃ­?;Veo. ¿Tienes algún consejo o truco para mí?
+SÃ­, reinicie la prueba.;Sí, reinicie la prueba.
+Â¿QuiÃ©nes son las Barracudas?;¿Quiénes son las Barracudas?
+Next, avoid the resonance crystals in the area. They will target the helm of your boat. If you do get hit by them, make sure to break the crystals rapidly. Doing so will grant your boat a small speed boost.;A continuación, evite los cristales de resonancia en la zona. Apuntarán al timón de su barco. Si te golpean, asegúrate de romper los cristales rápidamente. Hacerlo le dará a su barco un pequeño aumento de velocidad.
+To start, traversing the portals will reward your boat with an incredible burst of speed, so use that to your advantage.;Para empezar, atravesar los portales recompensará a tu barco con una increíble explosión de velocidad, así que úsalo a tu favor.
+No, permanece en el juicio.;No, permanece en el juicio.
+Of course, that's why I'm here.;Por supuesto, es por eso que estoy aquí.
+Can you tell me about the Gwenith Glide?;¿Puedes hablarme sobre el Gwenith Glide?
+I'd like to attempt the Gwenith Glide.;Me gustaría probar el Gwenith Glide.
+Ya atrapé a Archibald. Debería devolvérselo al Conejo de Pascua.;Ya atrapé a Archibald. Deberías devolvérselo al Conejo de Pascua.
+¡Te tengo! ¡Esta vez no te escaparás!;¡Te tengo! ¡Esta vez no te escaparás!
+¡Asombroso! Archibaldo, amado mío. ¿No te dije que no huyeras así?;¡Asombroso! Archibaldo, amado mío. ¿No te dije que no huyeras así?
+Encontré el e- quiero decir, Archibald.;Encontré el e-quiero decir, Archibald.
+<col=0000b2>--Archibald parece susurrar algo intangible al <col=0000b2>Conejito de Pascua.--</col>;<col=0000b2>--Archibald parece susurrar algo intangible al <col=0000b2>Conejito de Pascua.--</col>
+<p=3>VocÃª poderia explicar o que sÃ£o?;<p=3>¿Você poderia explicar o que sÃ£o?
+<p=0>Tenho que ir.;<p=0>Tenho que ir.
+Sim, conte-me sobre Conquistas de Combate.;Sim, cuéntame sobre Conquistas de Combate.
+O objetivo dessas tarefas Ã© que vocÃª cresÃ§a e melhore, experimente tudo o que Guilenor tem a oferecer e se fortaleÃ§a no processo.;O objetivo dessas tarefas é que você cresça e melhore, experimente todo o que Guilenor tem a oferecer e se fortaleça no processo.
+Isso Ã© algo que parece interessante para vocÃª?;¿Es eso algo que parece interesante para você?
+Conquistas de Combate sÃ£o um conjunto de tarefas que todos os aventureiros devem tentar realizar. Eles variam desde missÃµes simples para matar vÃ¡rias criaturas atÃ© desafios que o levarÃ£o ao seu limite.;Conquistas de Combate são um conjunto de tarefas que todos os aventureiros devem tentar realizar. Eles variam desde misses simples para matar varias criaturas y desafios que o levarÃ£o ao su limite.
+VocÃª poderia explicar o que sÃ£o?;Você podríaia explicar o que sÃ£o?
+No momento nÃ£o, nÃ£o.;No momento no, no.
+¡Gracias por encontrar a Archibald, [PLAYER_NAME]!;¡Gracias por encontrar a Archibald, [PLAYER_NAME]!
+Archibald disfrutó tanto de tu aventura que le gustaría viajar contigo.;Archibald disfrutó tanto de tu aventura que le gustaría viajar contigo.
+¿En realidad? ¿Es eso así?;¿En realidad? ¿Es eso así?
+<col=0000b2>--Archibald hace un guiño al Conejo de Pascua.--</col>;<col=0000b2>--Archibald hace un guiño al Conejo de Pascua.--</col>
+Tengo algo divertido para ti.;Tengo algo divertido para ti.
+No puedo chatear ahora, tengo demasiadas cosas de qué preocuparme.;No puedo chatear ahora, tengo demasiadas cosas de qué preocuparme.
+Bueno, hurgué un poco en mi casa y encontré este sombrero realmente bonito.;Bueno, hurgué un poco en mi casa y encontré este sombrero realmente bonito.
+¡Hola compañero! ¡Llegaste en el momento justo! ¡Tengo algo para ti!;¡Hola compañero! ¡Llegaste en el momento justo! ¡Tengo algo para ti!
+¿Qué más estás vendiendo?;¿Qué más estás vendiendo?
+¡Un sombrero de plátano! ¿Te gustaría?;¡Un sombrero de plátano! ¿Te gustaría?
+Claro, me quedo con el sombrero.;Claro, me quedo con el sombrero.
+No gracias, no lo quiero ahora.;No gracias, no lo quiero ahora.
+¿Ah, de verdad? ¿Qué es?;¿Ah, de verdad? ¿Qué es?
+Ahí lo tienes amigo, ¡disfrútalo!;Ahí lo tienes amigo, ¡disfrútalo!
+Entonces, ¿qué más puedo hacer por ti, socio? ¿Quieres ver mis platos giratorios? ¿O querías recuperar un artículo navideño?;Entonces, ¿qué más puedo hacer por ti, socio? ¿Quieres ver mis platos giratorios? ¿O querías recuperar un artículo navideño?
+¿Un sombrero? ¿Qué clase de sombrero...?;¿Un sombrero? ¿Qué clase de sombrero...?
+¡Me gustaría comprobar los artículos navideños, por favor!;¡Me gustaría comprobar los artículos navideños, por favor!
+¿Platos giratorios?;¿Platos giratorios?
+Excellent, you're doing great. Your new task is to kill 123 Kalphites.;Excelente, lo estás haciendo genial. Tu nueva tarea es matar a 123 calfitos.
+Howdy there partner! Want to see my spinning plates? Or did ya want a holiday item back?;¡Hola compañero! ¿Quieres ver mis platos giratorios? ¿O querías recuperar un artículo navideño?
+Excellent, you're doing great. Your new task is to kill 111 Blue Dragons.;Excelente, lo estás haciendo genial. Tu nueva tarea es matar 111 dragones azules.
+If you do get a new one, you will reset your standard task streak of 3. Is that okay? It won't affect your Wilderness task streak of 0.;Si obtienes uno nuevo, restablecerás tu racha de tareas estándar de 3. ¿Está bien? No afectará tu racha de 0 tareas en el desierto.
+Although, it's not an assignment that I'd normally give... I guess I could give you a new assignment, if you'd like.;Aunque no es una tarea que normalmente daría... Supongo que podría darte una nueva tarea, si quieres.
+You're still hunting blue dragons, you have 111 to go.;Todavía estás cazando dragones azules, te quedan 111.
+NÃ£o, tudo bem, vou pegar uma tarefa sua.;Não, tudo bem, vou pegar uma tarefa sua.
+Tudo bem entÃ£o, vou falar com Mazchna.;Tudo bem então, vou falar com Mazchna.
+Excellent, you're doing great. Your new task is to kill 18 Lizards.;Excelente, lo estás haciendo genial. Tu nueva tarea es matar 18 lagartos.
+Na verdade, vocÃª Ã© muito forte. Tem certeza de que nÃ£o quer que Mazchna, na MoritÃ¢nia, lhe atribua uma tarefa?;Na verdade, você é muito forte. ¿Tem certeza de que nÃ£o quer que Mazchna, na MoritÃ¢nia, le atribua uma tarefa?
+Vejo que vocÃª Ã© novo. Por favor, leia o cartaz do outdoor antes de ir para o deserto. Ele lhe darÃ¡ detalhes sobre os perigos que vocÃª pode enfrentar.;Vejo que vocÃª Ã© novo. Por favor, leia o cartaz do outdoor antes de ir para o deserto. Ele lhe dará detalles sobre los perigos que você pode enfrentar.
+Absolutamente Effendi!;Absolutamente Effendi!
+HÃ¡ uma mÃ£e de coraÃ§Ã£o partido logo apÃ³s os portÃµes e no deserto. O nome dela Ã© Irena e ela estÃ¡ de luto pela filha perdida. Que vergonha.;Há uma mÃ£e de coraÃ§Ã£o partido logo apÃ³s os portÃμes e no deserto. O nome dela é Irena e ella está de luto pela filha perdida. Que vergonha.
+Anything happening around here?;¿Pasa algo por aquí?
+I know! It didn't always look like this though. It used to be dull and grey!;¡Lo sé! Aunque no siempre fue así. ¡Solía ​​ser aburrido y gris!
+An adventurer came along and helped me out. We cast a magic spell using flower seeds, and it created this lovely sunburst!;Un aventurero vino y me ayudó. ¡Lanzamos un hechizo mágico usando semillas de flores y creó este hermoso resplandor solar!
+AÃ­ estÃ¡.;AÃ estÃ¡.
+Sounds very colourful!;¡Suena muy colorido!
+The meadow is looking lovely!;¡La pradera tiene una pinta preciosa!
+It was! The news travelled far. I've been getting lots of visitors. Many flower traders from across the lands have paid the meadow a visit.;¡Fue! La noticia llegó muy lejos. He estado recibiendo muchas visitas. Muchos comerciantes de flores de todo el país han visitado la pradera.
+That's really cool. What do you do with all the flowers?;Eso es realmente genial. ¿Qué haces con todas las flores?
+Can I have a flower crown?;¿Puedo tener una corona de flores?
+Of course you can. I'll even give you a lovely rainbow scarf to go with it!;Por supuesto que puedes. ¡Incluso te daré una preciosa bufanda arcoíris para acompañarla!
+Dull and grey? How did it become so colourful?;¿Aburrido y gris? ¿Cómo se volvió tan colorido?
+Thank you, I'll wear them with Pride!;¡Gracias, los usaré con Orgullo!
+Hello, Gilbert!;¡Hola Gilberto!
+I make flower crowns in many different colours. I'm wearing one right now!;Hago coronas de flores de muchos colores diferentes. ¡Estoy usando uno ahora mismo!
+Hey, [PLAYER_NAME]!;¡Hola, [PLAYER_NAME]!
+Do you have any rainbow items I can claim?;¿Tiene algún artículo arcoíris que pueda reclamar?
+Oh, I'd have liked to have seen that spell. It sounds impressive!;Oh, me hubiera gustado ver ese hechizo. ¡Suena impresionante!
+I've even traded with a few for some new flower seeds with different colours!;¡Incluso he cambiado algunas por algunas semillas de flores nuevas con diferentes colores!
+Excellent, you're doing great. Your new task is to kill 71 Greater Demons.;Excelente, lo estás haciendo genial. Tu nueva tarea es matar a 71 demonios mayores.
+Vous avez l'air affamé. Je vais vous dire : prenez un Kebab pour moi.;Vous avez l'air affamé. Je vais vous dire: prenez un Kebab pour moi.
+I was just curious as to what you do around here.;Sólo tenía curiosidad por saber qué haces por aquí.
+I protect other travellers from monsters, both animal and human kind.;Protejo a otros viajeros de los monstruos, tanto animales como humanos.
+Watch yourself out there, it can be hard to tell friend from foe in these lands.;Ten cuidado ahí fuera, puede ser difícil distinguir entre amigos y enemigos en estas tierras.
+When you've been in the Wilderness as long as I have, you learn that not all monsters show themselves on the outside.;Cuando has estado en el desierto tanto tiempo como yo, aprendes que no todos los monstruos se muestran en el exterior.
+Uhm... alright then, I'll leave you to your duties.;Uhm... está bien entonces, te dejo con tus deberes.
+Human? Can't say I've seen many human shaped monsters in the Wilderness.;¿Humano? No puedo decir que haya visto muchos monstruos con forma humana en el desierto.
+Â¿Puedes hacer que mi crÃ¡neo PK dure mÃ¡s?;¿Puedes hacer que mi cráneo PK dure más?
+Â¿Puedo tener un crÃ¡neo PK, por favor?;¿Puedo tener un cráneo PK, por favor?
+Hola vagabundo.;Hola vagabundo.
+AdiÃ³s, comerciante.;Adiós, comerciante.
+Toutes sortes de choses ! Il y a beaucoup de roches de charbon, ainsi que du fer, du mithril et de l'adamantite.;¡Toutes sortes de choses! Il y a beaucoup de roches de carbon, ainsi que du fer, du mithril et de l'adamantite.
+Bienvenue à la guilde des mineurs. Puis-je vous aider ?;Bienvenido a la guilde des mineurs. ¿Puis-je vous Aider?
+Non merci, ça va.;Non merci, ça va.
+Désolé, je n'ai rien à te vendre.;Désolé, je n'ai rien à te vendre.
+Qu'avez-vous dans la guilde ?;¿Qué tienes en la guilde?
+Que faites-vous, vous les nains, avec le minerai que vous extrayez ?;Que faites-vous, vous les nains, avec le minerai que vous extrayez ?
+beaucoup la fonte du minerai. Il y a beaucoup de marchands nains qui travaillent à Keldagrim. Bon, puis-je vous aider pour autre chose ?;beaucoup la fonte du minerai. Il y a beaucoup de marchands nains qui travaillent à Keldagrim. Bon, puis-je vous Aider pour autre chose ?
+À votre avis ? Nous le fondons en lingots, nous forgeons le métal pour fabriquer des armures et des armes, puis nous les échangeons contre des biens et des services.;¿A votre avis? Nous le fondons en lingots, nous forgeons le métal pour fabriquer des armures et des armes, puis nous les échangeons contre des biens et des services.
+Désolé, mais vous n'avez pas assez d'expérience pour entrer là-dedans.;Désolé, mais vous n'avez pas assez d'expérience pour entrer là-dedans.
+Il n'y a pas de meilleur site minier ailleurs !;¡No es un sitio pas de meilleur minier ailleurs!
+Je ne vois pas beaucoup de nains vendre des armures ou des armes ici.;Je ne vois pas beaucoup de nains vendre des armures ou des armes ici.
+Non, ce n'est qu'un avant-poste minier. Nous, les nains, n'aimons pas beaucoup nous installer dans les villes humaines. La plupart du minerai est transporté à Keldagrim, la grande cité naine. Ils ont un haut fourneau spécial là-bas, ce qui facilite;Non, ce n'est qu'un avant-poste minier. Nous, les nains, n'aimons pas beaucoup nous installer dans les villes humaines. La mayor parte del mineral está transportada a Keldagrim, la grande cité naine. Ils ont un haut fourneau spécial là-bas, ce qui facilite

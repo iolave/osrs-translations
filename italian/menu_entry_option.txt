@@ -2543,3 +2543,18 @@ Deposit-732;Deposito-732
 Couper;Couper
 Default quantity: 60;Quantità predefinita: 60
 Deposit-236;Deposito-236
+DJR;DJR
+Favourites;Preferiti
+AJR;AJR
+CIR;CIR
+CIS;CSI
+Default quantity: 236;Quantità predefinita: 236
+View List;Visualizza elenco
+DIP;IMMERSIONE
+Last-destination (BKS);Ultima destinazione (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Acquista: 1 x Tonno
+Deposit-2787;Deposito-2787
+Withdraw-2787;Ritiro-2787
+Default quantity: 2,787;Quantità predefinita: 2.787
+Tirer;Tirer

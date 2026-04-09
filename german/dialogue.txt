@@ -87592,3 +87592,249 @@ Hé, [PLAYER_NAME], souhaite-tu venir résoudre un labyrinthe pour moi ?;Hé, [P
 Â¿QuÃ© estÃ¡s haciendo aquÃ­ afuera?;Â¿QuÃ© estÃ¡s haciendo aquÃ afuera?
 Ah Uh Ah! Ook. Ook Ook! Ook Ook! ;Ah Uh Ah! Ok. Ook Ook! Ook Ook!
 Ook. Ook! Ah! Ook Ook! Ah Ah! Ook Ah Uh! ;Ok. Ok! Ah! Ook Ook! Ah Ah! Ook Ah Uh!
+God dag, hur kan jag hjälpa dig?;Gott sei Dank, was kann ich sagen?
+Jag skulle vilja samla på saker.;Jag Skulle vilja samla på saker.
+Vad är det här för ställe?;Was ist das für ein Problem?
+Gå till ditt hus (byggläge);Gå to ditt hus (byggläge)
+Gå till ditt hus;Gå to ditt hus
+Gå till en väns hus;Gå bis en väns hus
+Avboka;Avboka
+And pop your nose in a jug of this.;Und stecken Sie Ihre Nase in einen Krug davon.
+Will do, miss. Goodbye now.;Das werde ich tun, Fräulein. Auf Wiedersehen.
+Come in and drink if you are dry,;Kommen Sie herein und trinken Sie, wenn Sie trocken sind.
+Ye mariners all, as ye pass by,;Ihr alle Seeleute, während ihr vorbeigeht,
+Free. She is free...;Frei. Sie ist frei...
+It was my pleasure Kennith. You take care now.;Es war mir ein Vergnügen, Kennith. Passen Sie jetzt auf sich auf.
+Great, miss! Thanks again for rescuing me.;Großartig, Fräulein! Nochmals vielen Dank, dass Sie mich gerettet haben.
+Come spend, me lads, your money brisk,;Kommt und gebt aus, Jungs, Euer Geld ist flott,
+Hello there, Kennith. How are you today?;Hallo, Kennith. Wie geht es dir heute?
+We fooled you easily enough.;Wir haben Sie leicht getäuscht.
+De langzaamste vissers vangen de snelste vis.;Die längsten Besucher kommen am schnellsten vorbei.
+Ik heb een vraag voor je.;Ich habe ein Geschenk für mich.
+Geweldig...;Geweldig...
+Sorry, but your trail is not over quite yet.;Tut mir leid, aber Ihre Spur ist noch nicht ganz zu Ende.
+Perfect!;Perfekt!
+Vul het antwoord op de vraag in.;Vul het antwoord op de vraag in.
+Find the answer to this question for me.;Finden Sie für mich die Antwort auf diese Frage.
+Eres mucho mÃ¡s tranquilo que los otros seguidores zamorakianos con los que me he cruzado en el desierto.;Es ist viel ruhiger, als die anderen Zamorakianer sich auf den Weg machten.
+VocÃª estÃ¡ atualmente em um <col=ff0000>contrato para iniciantes</col>. VÃ¡ ver <col=ff0000>Ross</col>, ao norte da igreja em <col=ff0000>Ardonha Oriental</col>. VocÃª pode conseguir outro emprego depois de mobiliar a casa dele.;Ich spreche derzeit in einem <col=ff0000>Vertrag für den Beginn</col>. Váver <col=ff0000>Ross</col>, im Norden der Insel in <col=ff0000>Ardonha Oriental</col>. Sie können sich darauf verlassen, dass Ihr Mieter ein Mobiliar zu Hause abgibt.
+Gostaria que meu espelho fosse consertado.;Gostaria que meu espelho fosse consertado.
+Gostaria de construir duas gavetas de madeira.;Gostaria de construir duas gabtas de madeira.
+Ei, sou seu empreiteiro da Mahogany Homes, o que vocÃª queria que fosse feito?;Ich war Ihr Arbeitgeber bei Mahogany Homes, oder Sie fragten sich, was Sie tun sollten?
+Gostaria de construir uma cama de madeira.;Gostaria de construir eine Hütte von Madeira.
+Eu gostaria que meu suporte de chapÃ©u fosse consertado.;Eu gostaria que meu support de chapéu fosse consertado.
+Certamente.;Sicher.
+Agora vocÃª me escuta! Ele Ã© apenas um gatinho! Deve haver algo que eu possa fazer!;Agora vocà me escuta! Ele é apenas um gatinho! Ich muss schon sagen, dass du es schaffen könntest!
+Ah, I suppose someone has to do it.;Ah, ich nehme an, jemand muss es tun.
+VÃ¡ agora! VÃ¡ e nÃ£o olhe para trÃ¡s!;Vá agora! VÃ¡ e nÃ£o olhe para trÃ¡s!
+Longe deste lugar! Para Guilenor!;Longe deste lugar! Para Guilenor!
+F-f-peixe... dÃª a ele o f-f-peixe que ele gosta e ele pode cair no sono.;F-f-peixe... dÃª ein Element von F-f-peixe, das ele gosta ele ele pode cair no sono.
+VÃ¡ vocÃª, [PLAYER_NAME], eu nÃ£o pertenÃ§o a esse lugar... meu lugar Ã© aqui, em ScapeRune. Este Ã© o Ãºnico lugar onde posso ir...;Ich spreche, [PLAYER_NAME], du bist nicht dazu in der Lage... Meiner Meinung nach, in ScapeRune. Este é o único lugar onde posso ir...
+Ah, tudo bem entÃ£o.;Ah, tudo bem então.
+Posso ter um guia de construÃ§Ã£o?;Möglicherweise gibt es eine Konstruktionsanleitung?
+Mas eu te amo!;Mas eu te amo!
+Sou um aventureiro ousado.;Sou aventureiro ousado.
+Nosso amor nunca poderÃ¡ existir, querido [PLAYER_NAME].;Nosso amor nunca poderá existir, querido [PLAYER_NAME].
+Vir? Venha para onde?;Vir? Venha para onde?
+Olha... ali! Aquele local de pesca c-c-contÃ©m os peixes que ele gosta.;Olha... Ali! Aquele local de pesca c-c-contém os peixes que ele gosta.
+Miau! Errr... Eu nÃ£o posso te ajudar... Ele vai matar todos nÃ³s!;Miau! Ähhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+Evil Bob adormeceu, venha rÃ¡pido!;Der böse Bob adormeceu, venha rápido!
+Gostaria que fosse construÃ­da uma gaveta de carvalho.;Gostaria que fosse construída uma giveta de carvalho.
+<str>Contrato de especialista (requer 70 construÃ§Ãµes);<str>Contrato de especialista (erfordert 70 Konstruktionen)
+<str>Contrato Adepto (requer 50 construÃ§Ãµes);<str>Contrato Adepto (benötigt 50 Konstruktionen)
+Gostaria de construir uma mesa de carvalho.;Gostaria de construir ein Mesa de Carvalho.
+I'd like an Oak wardrobe built.;Ich möchte einen Kleiderschrank aus Eiche bauen.
+I'd like an Oak cabinet built.;Ich möchte einen Eichenschrank bauen.
+Nossa, o que te ensinam na escola?;Warum bist du in der Schule?
+You're currently assigned to kill kalphites; only 23 more to go. Your reward point tally is 0.;Sie haben derzeit den Auftrag, Kalphiten zu töten. nur noch 23 übrig. Ihre Prämienpunktzahl beträgt 0.
+VocÃª tambÃ©m precisarÃ¡ desta joia encantada, ela permite que Slayer Masters como eu entrem em contato com vocÃª e atualizem seu progresso. NÃ£o se preocupe se vocÃª perdÃª-lo, vocÃª pode comprar outro em qualquer Slayer Master.;Ich bin auch sehr erfreut über die Freude, die ich erhalten habe, und ich habe Slayer Masters als Euer Gesprächspartner aufgenommen und meinen Fortschritt verwirklicht. Ich bin nicht damit beschäftigt, dich zu unterhalten, du könntest dir den Slayer-Meister kaufen.
+Kalphites are large insects which live in great hives under the desert sands. Their chitin is weak to crushing weapons and the larger varieties can be poisonous.;Kalphiten sind große Insekten, die in großen Bienenstöcken unter dem Wüstensand leben. Ihr Chitin ist anfällig für zerschmetternde Waffen und die größeren Sorten können giftig sein.
+Tenho algumas recompensas que vocÃª pode ganhar e uma grande variedade de equipamentos de ExtermÃ­nio Ã  venda.;Tenho algumas belohnt Sie dafür, dass Sie eine große Vielfalt an Geräten von Extermínio à venda erhalten können.
+We'll start you off hunting kalphites, you'll need to kill 23 of them.;Wir beginnen mit der Jagd auf Kalphiten. Sie müssen 23 von ihnen töten.
+Ah, tudo bem entÃ£o, vocÃª torceu meu braÃ§o. VocÃª terÃ¡ que treinar contra grupos especÃ­ficos de criaturas.;Ah, tudo bem entÃ£o, vocÃª torceu meu braÃ§o. Sie müssen sich mit bestimmten Gruppen von Autoren auseinandersetzen.
+Suponho que terei que educÃ¡-lo entÃ£o. Um matador Ã© alguÃ©m treinado para lutar contra criaturas especÃ­ficas. Eles conhecem todas as fraquezas e forÃ§as dessas criaturas. Como vocÃª pode imaginar, isso torna muito mais fÃ¡cil matÃ¡-los.;Suponho que terei que educá-lo então. Um Matador é alguém treinado para lutar con criaturas específicas. Dies gilt für alle als Fraquezas und Forês dessas Criaturas. Was Sie sich vorstellen können, ist viel mehr als nur Matá-los.
+Hmmm, bem, nÃ£o tenho tanta certeza...;Hmmm, na ja, das ist sicher nicht der Fall...
+OlÃ¡ [PLAYER_NAME], em que posso ajudar vocÃª?;Olá [PLAYER_NAME], que posso ajudar vocá?
+You'll find me in Zanaris. I'll be here when you need a new task.;Du findest mich in Zanaris. Ich bin für Sie da, wenn Sie eine neue Aufgabe brauchen.
+Bem... er...;Bem... äh...
+Por favor!;Por favor!
+Olhe para a loja.;Olhe para a loja.
+Ok, o que vem primeiro?;Ok, was bist du Erster?
+Veja as recompensas.;Veja als Belohnung.
+I managed to defeat TzTok-Jad and obtain this fire cape.;Es ist mir gelungen, TzTok-Jad zu besiegen und diesen Feuerumhang zu erhalten.
+Surely this proves I am capable? Can I pleeease come through now?;Das beweist doch sicher, dass ich fähig bin? Kann ich bitte jetzt vorbeikommen?
+Yes, sell it for 8,000 TokKul.;Ja, verkaufe es für 8.000 TokKul.
+No, I like my cape!;Nein, ich mag meinen Umhang!
+Yes, I know I won't get my cape back.;Ja, ich weiß, dass ich meinen Umhang nicht zurückbekomme.
+You not lucky. Maybe next time, JalYt.;Du hast kein Glück gehabt. Vielleicht nächstes Mal, JalYt.
+I have a fire cape here.;Ich habe hier einen Feuerumhang.
+I suppose so, I'll grant you access to Mor Ul Rek. The guards will open the gates for you, you are first JalYt to pass these gates!;Ich nehme an, ich werde dir Zugang zu Mor Ul Rek gewähren. Die Wachen werden die Tore für Sie öffnen. Sie sind der erste JalYt, der diese Tore passiert!
+That is most impressive JalYt-Hur-[PLAYER_NAME].;Das ist höchst beeindruckend, JalYt-Hur-[PLAYER_NAME].
+Sell your fire cape?;Verkaufen Sie Ihren Feuerumhang?
+Sacrifice your firecape for a chance at TzRek-Jad?;Dein Feuerumhang für eine Chance auf TzRek-Jad opfern?
+Well, there are four different Desert amulets, which match up with the four levels of difficulty. Each has the same rewards as the previous level and some additional benefits too... which tier of rewards would you like to;Nun, es gibt vier verschiedene Wüstenamulette, die zu den vier Schwierigkeitsgraden passen. Jedes hat die gleichen Belohnungen wie das vorherige Level und einige zusätzliche Vorteile ... welche Belohnungsstufe möchten Sie?
+Just complete the tasks in the Desert so they're ticked off, then come and speak to me for your rewards.;Erledige einfach die Aufgaben in der Wüste, damit sie abgehakt sind, und sprich dann mit mir, um deine Belohnungen zu erhalten.
+Eu gostaria de ir para o deserto, por favor.;Eu gostaria de ir para o deserto, por favor.
+If you complete all of the easy tasks in the Desert, you can charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are dropped as notes.;Wenn Sie alle einfachen Aufgaben in der Wüste erfüllen, können Sie das Zepter eines Pharaos mit 10 Ladungen aufladen, Simon Templeton kauft Artefakte in Banknotenform und Wüstenziegenhörner werden als Banknoten fallen gelassen.
+Go talk to Shantay. I'm on duty and I don't have time to talk to the likes of you!;Sprich mit Shantay. Ich bin im Dienst und habe keine Zeit, mit Leuten wie Ihnen zu reden!
+AAAAAAAAARRRRRRGGGGGHHHHHHH!;AAAAAAAAARRRRRRGGGGGHHHHHHH!
+She likes to be tickled hehehehe.;Sie mag es, gekitzelt zu werden, hehehehe.
+I'll leave you to it then...;Dann überlasse ich es dir...
+No thanks, I don't want any.;Nein danke, ich will keines.
+You're currently assigned to kill kalphites; only 14 more to go. Your reward point tally is 0.;Sie haben derzeit den Auftrag, Kalphiten zu töten. nur noch 14 übrig. Ihre Prämienpunktzahl beträgt 0.
+Hola, Conejito de Pascua. ¿Está todo bien?;Hola, Conejito de Pascua. Ist das alles gut?
+VocÃª precisa de algo novo para caÃ§ar.;VocÃª precisa de algo novo para caÃ§ar.
+You need something new to hunt. Come and see me when you can and I'll give you a new task. Your reward point tally is 0.;Sie brauchen etwas Neues zum Jagen. Kommen Sie zu mir, wann immer Sie können, und ich gebe Ihnen eine neue Aufgabe. Ihre Prämienpunktzahl beträgt 0.
+uau uau uau;uau uau uau
+Pensé que por una vez todo saldría tan suave como el chocolate con leche.;Ich denke, dass einer von ihnen so süß ist wie die Schokolade mit Leche.
+¡Dios mío, Dios mío!;¡Dios mio, Dios mio!
+¡Tenía todo preparado! Los huevos, las cestas... Incluso enderecé las orejas antes de llegar aquí.;¡Tenía todo preparado! Los huevos, las cestas... Incluso enderecé las orejas before llegar aquí.
+Respira hondo, cálmate. Dime qué pasa.;Respira hondo, beruhige dich. Dime qué pasa.
+No, no. ¡Esto no puede estar pasando!;Nein, nein. ¡Esto no puede estar pasando!
+Os Trolls regeneram o dano rapidamente e possuem algum nÃ­vel de defesas mÃ¡gicas, mas isso Ã© facilmente contornado por sua fraqueza ao fogo.;Die Trolle regenerierten sich schnell und erhielten ein neues magisches Talent, das jedoch von ihrem Bruder vor dem Nebel leicht verwüstet wurde.
+Excellent, you're doing great. Your new task is to kill 86 Trolls.;Ausgezeichnet, du machst das großartig. Ihre neue Aufgabe besteht darin, 86 Trolle zu töten.
+Oh, no puedo soportar esto. [PLAYER_NAME], ¿no me ayudarás a encontrar el huevo que falta?;Oh, das ist kein Problem. [PLAYER_NAME], weißt du nicht, was passiert ist?
+¡Continúa ahora, antes de que viaje demasiado lejos!;Weiter geht's, bevor ich losgefahren bin!
+¿Enderezaste las orejas? ¿Cómo podrías siquiera-;¿Enderezaste las orejas? ¿Cómo podrías siquiera-
+¡Gracias! Archibald dejó una nota antes de irse. Puede que te ayude a encontrarlo. Está sobre una mesa justo por allí.;¡Gracias! Archibald hat vor seinem Tod eine Notiz gemacht. Möglicherweise müssen Sie sich mit uns in Verbindung setzen. Es ist nur eine Mesa von allen.
+Es curioso. Siempre que oye hablar de lugares interesantes, tiende a querer ir allí.;Es ist neugierig. Wenn Sie Interesse an interessanten Dingen haben, wenden Sie sich an alle.
+Bueno, supongo que nunca pensé en eso.;Gut, ich denke jetzt daran.
+<col=0000b2>--El Conejo de Pascua te guiña un ojo.--</col>;<col=0000b2>--El Conejo de Pascua te guiña un ojo.--</col>
+¿Y les enseñas a escribir también?;Können Sie auch schreiben?
+¡Y entonces sobrevino el desastre! Conté mis huevos hacia atrás, hacia adelante, al revés y hacia arriba, pero, por desgracia... Falta uno.;¡Y entonces sobrevino el desastre! Conté mis huevos hacia atrás, hacia adelante, al revés y hacia arriba, pero, por desgracia... Falta uno.
+¿Estás seguro de que trajiste la cantidad correcta?;Sind Sie sicher, dass Sie die richtige Position erreicht haben?
+¡Absolutamente! Tengo todo un año para planificar la Pascua. ¿Qué crees que hago cuando no estoy aquí celebrando contigo?;¡Absolut absolut! Ich habe ein Jahr gebraucht, um Pascua zu planen. Was denkst du, wenn du nicht weißt, wer hier ist?
+Estoy en casa, pintando y contando huevos, ¡claro! Y cuidando a mis gallinas.;Estoy en casa, pintando y contando huevos, ¡claro! Y cuidando a mis gallinas.
+Supongo que me voy a perseguir un huevo.;Supongo que me voy a perseguir un huevo.
+Por supuesto. Nombro todos mis huevos. También están Eggward, Eggon, Leggolas y Greggory, por nombrar algunos.;Por supuesto. Nombro todos mis huevos. Dazu gehören unter anderem Eggward, Eggon, Leggolas und Greggory.
+¿Archibald? ¿Le pusiste nombre al huevo?;¿Archibald? ¿Le puiste nombre al huevo?
+¿Iniciar el evento de Pascua?;Haben Sie mit dem Event von Pascua begonnen?
+Por cierto, déjame ver qué te ha dejado Archibald...;Ausgerechnet Archibald wurde enttäuscht...
+Parece que debes buscar un fabricante de pociones. Pruebe en el oeste de Varrock.;Parece que debes buscar ein hersteller von pociones. Pruebe en el oeste de Varrock.
+¿Le echaste un vistazo a la nota?;¿Le echaste un vistazo a la nota?
+Todavía no, no.;Todavía nein, nein.
+Está en una mesa justo ahí, deberías tomarlo y leerlo.;Es ist gerade noch eine Mesa, ich überlege, Marlo und Leerlo zu bitten.
+¿Puedes ayudarme a entender dónde está Archibald?;Kannst du sagen, dass es Archibald ist?
+Yo soy el boticario. Preparo pociones. ¿Necesitas algo específico?;Yo soy el boticario. Bereiten Sie Teile vor. Was ist speziell erforderlich?
+Why won't people leave me alone?!;Warum lassen mich die Leute nicht in Ruhe?!
+Â¡Todo listo! El barco ahora estÃ¡ atracado aquÃ­ en Catherby.;Â¡Todo listo! Der Barco ist jetzt in Catherby verstört.
+Arriba;Arriba
+¿Hacia dónde quieres ir?;¿Hacia donde quieres ir?
+Abajo;Abajo
+trépar;trépar
+Aquí vamos de nuevo.;Hier sind unsere Neuigkeiten.
+Ajá, esta vez te tengo.;Ajá, esta vez te tengo.
+You need 3,200 coins to sail to Port Tyras.;Sie benötigen 3.200 Münzen, um nach Port Tyras zu segeln.
+Elige de nuevo.;Elige de new.
+Nice to meet you too, Gwyna. My name is [PLAYER_NAME], Captain of the Fervent Manta.;Schön dich auch kennenzulernen, Gwyna. Mein Name ist [PLAYER_NAME], Kapitän der Fervent Manta.
+You've no need to feel sad here, adventurer. This is where we honour the dead by singing songs to remember them.;Du brauchst hier nicht traurig zu sein, Abenteurer. Hier ehren wir die Verstorbenen, indem wir Lieder singen, um an sie zu erinnern.
+Their remains are scattered across the waters here, creating what sailors refer to as the crystal-flecked waters.;Ihre Überreste sind hier über das Wasser verstreut und bilden das, was Seeleute als kristallklares Wasser bezeichnen.
+Oh, I didn't realise that's what the crystals were.;Oh, ich wusste nicht, dass das die Kristalle sind.
+That's the main objective of this Barracuda Trial, the Gwenith Glide.;Das ist das Hauptziel dieses Barracuda-Tests, der Gwenith Glide.
+What a delightful name for a boat.;Was für ein herrlicher Name für ein Boot.
+Excuse me? Are you there?;Verzeihung? Bist du da?
+Thank you. If you don't mind me asking, what were you doing earlier?;Danke schön. Wenn es Ihnen nichts ausmacht, wenn ich frage: Was haben Sie vorhin gemacht?
+The objective of this trial is to imbue large crystals dedicated to the different elven clans. You do that by sailing through portals linked to them. To get started, head out into the course in search of the portals.;Das Ziel dieses Versuchs besteht darin, große Kristalle zu erhalten, die den verschiedenen Elfenclans gewidmet sind. Sie tun dies, indem Sie durch damit verbundene Portale navigieren. Begeben Sie sich zunächst auf die Suche nach den Portalen im Kurs.
+Ah, so this is a Barracuda Trial. What do I do if I want to get involved?;Ah, das ist also ein Barracuda-Prozess. Was mache ich, wenn ich mich engagieren möchte?
+Oh! Sorry, sailor, I didn't see you there. My name is Gwyna. It's nice to meet you.;Oh! Tut mir leid, Matrose, ich habe dich dort nicht gesehen. Mein Name ist Gwyna. Schön, Sie kennenzulernen.
+I was singing for those who perished here. What surrounds you are the remains of hundreds of elven vessels which were destroyed during the Siege of Prifddinas.;Ich habe für diejenigen gesungen, die hier umgekommen sind. Was Sie umgibt, sind die Überreste von Hunderten von Elfenschiffen, die während der Belagerung von Prifddinas zerstört wurden.
+Additionally, be aware that the portals will both displace your boat and change which direction it is headed for.;Beachten Sie außerdem, dass die Portale sowohl Ihr Boot verschieben als auch die Richtung ändern, in die es fährt.
+No, mejor sal de la prueba.;Nein, mejor sal de la prueba.
+Â¿Reiniciar esta prueba de Barracuda? Tu progreso se perderÃ¡.;Ist es Barracudas Prüfung? Dein Fortschritt wird scheitern.
+Finally, keep your sails trimmed and try not to get lost out there. The portals can be disorientating at first, but I'm sure you'll learn the layout of the course over time.;Halten Sie zum Schluss die Segel getrimmt und versuchen Sie, sich draußen nicht zu verlaufen. Die Portale können zunächst verwirrend sein, aber ich bin sicher, dass Sie mit der Zeit den Aufbau des Kurses kennenlernen werden.
+Another thing to look out for are the crystal motes. If you have a wind catcher or gale catcher activated on your boat, they will be converted into wind motes and charge it up for you.;Eine weitere Sache, auf die man achten sollte, sind die Kristallpartikel. Wenn Sie auf Ihrem Boot einen Windfänger oder einen Sturmfänger aktiviert haben, werden diese in Windpartikel umgewandelt und laden diese für Sie auf.
+Veo. Â¿Tienes algÃºn consejo o truco para mÃ­?;Veo. Â¿Tienes algÃºn consejo o truco para mÃ?
+SÃ­, reinicie la prueba.;SÃ, reinicie la prueba.
+Â¿QuiÃ©nes son las Barracudas?;Â¿QuiÃ©nes son las Barracudas?
+Next, avoid the resonance crystals in the area. They will target the helm of your boat. If you do get hit by them, make sure to break the crystals rapidly. Doing so will grant your boat a small speed boost.;Vermeiden Sie als nächstes die Resonanzkristalle in der Umgebung. Sie zielen auf das Ruder Ihres Bootes. Wenn Sie von ihnen getroffen werden, achten Sie darauf, die Kristalle schnell zu zerbrechen. Dadurch erhält Ihr Boot einen kleinen Geschwindigkeitsschub.
+To start, traversing the portals will reward your boat with an incredible burst of speed, so use that to your advantage.;Das Durchqueren der Portale wird Ihr Boot zunächst mit einem unglaublichen Geschwindigkeitsschub belohnen, den Sie also zu Ihrem Vorteil nutzen können.
+No, permanece en el juicio.;Nein, Permanece en el Juicio.
+Of course, that's why I'm here.;Natürlich bin ich deshalb hier.
+Can you tell me about the Gwenith Glide?;Können Sie mir etwas über den Gwenith Glide erzählen?
+I'd like to attempt the Gwenith Glide.;Ich würde gerne den Gwenith Glide ausprobieren.
+Ya atrapé a Archibald. Debería devolvérselo al Conejo de Pascua.;Du hast Archibald gefangen. Debería devolvérselo al Conejo de Pascua.
+¡Te tengo! ¡Esta vez no te escaparás!;¡Te tengo! ¡Esta vez no te escaparás!
+¡Asombroso! Archibaldo, amado mío. ¿No te dije que no huyeras así?;¡Asombroso! Archibaldo, amado mío. Sie wissen nicht, was Sie sonst noch tun?
+Encontré el e- quiero decir, Archibald.;Encontré el e-quiero decir, Archibald.
+<col=0000b2>--Archibald parece susurrar algo intangible al <col=0000b2>Conejito de Pascua.--</col>;<col=0000b2>--Archibald parece susurrar algo intangible al <col=0000b2>Conejito de Pascua.--</col>
+<p=3>VocÃª poderia explicar o que sÃ£o?;<p=3>Vocà poderia explicar o que sÃ£o?
+<p=0>Tenho que ir.;<p=0>Tenho que ir.
+Sim, conte-me sobre Conquistas de Combate.;Sim, halte mich für Conquistas de Combate.
+O objetivo dessas tarefas Ã© que vocÃª cresÃ§a e melhore, experimente tudo o que Guilenor tem a oferecer e se fortaleÃ§a no processo.;Das Ziel, das Sie erreichen und verbessern möchten, besteht darin, dass Guilenor ein Angebot abgibt und nicht verarbeitet werden kann.
+Isso Ã© algo que parece interessante para vocÃª?;Ist es etwas Interessantes für Sie?
+Conquistas de Combate sÃ£o um conjunto de tarefas que todos os aventureiros devem tentar realizar. Eles variam desde missÃµes simples para matar vÃ¡rias criaturas atÃ© desafios que o levarÃ£o ao seu limite.;Die Eroberungen des Kampfes sind eine Kombination aus Zielen, die alle Abenteuerlustigen in die Tat umsetzen wollen. Es gibt eine Reihe von einfachen Methoden, um die Auswahl der Kunden zu erleichtern und ihnen die Möglichkeit zu geben, ihre Grenzen zu überschreiten.
+VocÃª poderia explicar o que sÃ£o?;Vocãª poderia explicar o que sÃ£o?
+No momento nÃ£o, nÃ£o.;Kein Moment, nein, nein.
+¡Gracias por encontrar a Archibald, [PLAYER_NAME]!;Vielen Dank für die Begegnung mit Archibald, [PLAYER_NAME]!
+Archibald disfrutó tanto de tu aventura que le gustaría viajar contigo.;Archibald störte Ihr Abenteuer, als er die Reise fortsetzte.
+¿En realidad? ¿Es eso así?;¿En realidad? ¿Es ist so?
+<col=0000b2>--Archibald hace un guiño al Conejo de Pascua.--</col>;<col=0000b2>--Archibald hat einen Führer am Conejo de Pascua.--</col>
+Tengo algo divertido para ti.;Tengo algo divertido para ti.
+No puedo chatear ahora, tengo demasiadas cosas de qué preocuparme.;Es ist nicht möglich, bis jetzt zu sprechen, aber ich habe nichts dagegen, weil ich mich um ihn gekümmert habe.
+Bueno, hurgué un poco en mi casa y encontré este sombrero realmente bonito.;Gut, ich habe einen Moment in meinem Haus verbracht und diesen wirklich schönen Abend erlebt.
+¡Hola compañero! ¡Llegaste en el momento justo! ¡Tengo algo para ti!;¡Hola compañero! ¡Legaste en el momento justo! ¡Tengo algo para ti!
+¿Qué más estás vendiendo?;Was wurde am meisten verkauft?
+¡Un sombrero de plátano! ¿Te gustaría?;¡Un sombrero de platano! ¿Te gustaría?
+Claro, me quedo con el sombrero.;Claro, ich quedo con el sombrero.
+No gracias, no lo quiero ahora.;Keine Gnade, nein, ich bin noch nicht da.
+¿Ah, de verdad? ¿Qué es?;¿Ah, de verdad? ¿Qué es?
+Ahí lo tienes amigo, ¡disfrútalo!;Ahí lo tienes amigo, ¡disfrútalo!
+Entonces, ¿qué más puedo hacer por ti, socio? ¿Quieres ver mis platos giratorios? ¿O querías recuperar un artículo navideño?;Also, was könnte dir mehr passieren, Gesellschaft? ¿Quieres ver mis platos giratorios? Möchten Sie einen Navigator-Artikel abrufen?
+¿Un sombrero? ¿Qué clase de sombrero...?;¿Ein Sombrero? ¿Qué clase de sombrero...?
+¡Me gustaría comprobar los artículos navideños, por favor!;Ich freue mich, die Artikel der Navideños zu kaufen, bitte!
+¿Platos giratorios?;¿Platos Giratorios?
+Excellent, you're doing great. Your new task is to kill 123 Kalphites.;Ausgezeichnet, du machst das großartig. Ihre neue Aufgabe besteht darin, 123 Kalphiten zu töten.
+Howdy there partner! Want to see my spinning plates? Or did ya want a holiday item back?;Hallo Partner! Möchten Sie meine Spinnteller sehen? Oder wollten Sie einen Urlaubsartikel zurück?
+Excellent, you're doing great. Your new task is to kill 111 Blue Dragons.;Ausgezeichnet, du machst das großartig. Ihre neue Aufgabe besteht darin, 111 Blaue Drachen zu töten.
+If you do get a new one, you will reset your standard task streak of 3. Is that okay? It won't affect your Wilderness task streak of 0.;Wenn Sie eine neue erhalten, wird Ihre Standard-Aufgabensträhne von 3 zurückgesetzt. Ist das in Ordnung? Es hat keinen Einfluss auf deinen Wildnis-Aufgabenstreak von 0.
+Although, it's not an assignment that I'd normally give... I guess I could give you a new assignment, if you'd like.;Obwohl es sich nicht um eine Aufgabe handelt, die ich normalerweise vergeben würde ... Ich schätze, ich könnte Ihnen eine neue Aufgabe geben, wenn Sie möchten.
+You're still hunting blue dragons, you have 111 to go.;Du bist immer noch auf der Jagd nach blauen Drachen, du hast noch 111 vor dir.
+NÃ£o, tudo bem, vou pegar uma tarefa sua.;NÃ£o, tudo bem, vou pegar uma tarefa sua.
+Tudo bem entÃ£o, vou falar com Mazchna.;Tudo bem então, vou falar com Mazchna.
+Excellent, you're doing great. Your new task is to kill 18 Lizards.;Ausgezeichnet, du machst das großartig. Ihre neue Aufgabe besteht darin, 18 Eidechsen zu töten.
+Na verdade, vocÃª Ã© muito forte. Tem certeza de que nÃ£o quer que Mazchna, na MoritÃ¢nia, lhe atribua uma tarefa?;Na verdade, vocÃª Ã© muito forte. Sind Sie sich sicher, dass Mazchna, in Moriténia, eine bestimmte Person haben möchte?
+Vejo que vocÃª Ã© novo. Por favor, leia o cartaz do outdoor antes de ir para o deserto. Ele lhe darÃ¡ detalhes sobre os perigos que vocÃª pode enfrentar.;Vejo que você é novo. Bitte lasst uns die Karten vor der Flucht ins Freie schicken. Er wagt es, Einzelheiten über die Umstände zu erfahren, mit denen Sie sich befassen müssen.
+Absolutamente Effendi!;Absolut effektiv!
+HÃ¡ uma mÃ£e de coraÃ§Ã£o partido logo apÃ³s os portÃµes e no deserto. O nome dela Ã© Irena e ela estÃ¡ de luto pela filha perdida. Que vergonha.;HÃ¡ uma mÃ£e de coraÃ§Ã£o partido logo apÃ³s os portÃµes e no deserto. Der Name von Irena und sie ist von der verlorenen Fila betroffen. Que vergonha.
+Anything happening around here?;Ist hier irgendetwas los?
+I know! It didn't always look like this though. It used to be dull and grey!;Ich weiß! Allerdings sah es nicht immer so aus. Früher war es langweilig und grau!
+An adventurer came along and helped me out. We cast a magic spell using flower seeds, and it created this lovely sunburst!;Ein Abenteurer kam vorbei und half mir. Wir haben mit Blumensamen einen Zauberspruch gewirkt, der diesen wunderschönen Sonnenstrahl erzeugt hat!
+AÃ­ estÃ¡.;AÃ estÃ¡.
+Sounds very colourful!;Klingt sehr bunt!
+The meadow is looking lovely!;Die Wiese sieht wunderschön aus!
+It was! The news travelled far. I've been getting lots of visitors. Many flower traders from across the lands have paid the meadow a visit.;Es war! Die Nachricht verbreitete sich weit. Ich habe viele Besucher bekommen. Viele Blumenhändler aus dem ganzen Land haben der Wiese einen Besuch abgestattet.
+That's really cool. What do you do with all the flowers?;Das ist wirklich cool. Was macht man mit all den Blumen?
+Can I have a flower crown?;Kann ich eine Blumenkrone haben?
+Of course you can. I'll even give you a lovely rainbow scarf to go with it!;Natürlich kannst du das. Dazu schenke ich dir sogar einen schönen Regenbogenschal!
+Dull and grey? How did it become so colourful?;Stumpf und grau? Wie ist es so bunt geworden?
+Thank you, I'll wear them with Pride!;Danke, ich werde sie mit Stolz tragen!
+Hello, Gilbert!;Hallo, Gilbert!
+I make flower crowns in many different colours. I'm wearing one right now!;Ich fertige Blumenkränze in vielen verschiedenen Farben an. Ich trage gerade eins!
+Hey, [PLAYER_NAME]!;Hey, [PLAYER_NAME]!
+Do you have any rainbow items I can claim?;Haben Sie Regenbogenartikel, die ich beanspruchen kann?
+Oh, I'd have liked to have seen that spell. It sounds impressive!;Oh, diesen Zauber hätte ich gerne gesehen. Es klingt beeindruckend!
+I've even traded with a few for some new flower seeds with different colours!;Ich habe sogar einige davon gegen neue Blumensamen mit anderen Farben eingetauscht!
+Excellent, you're doing great. Your new task is to kill 71 Greater Demons.;Ausgezeichnet, du machst das großartig. Ihre neue Aufgabe besteht darin, 71 große Dämonen zu töten.
+Vous avez l'air affamé. Je vais vous dire : prenez un Kebab pour moi.;Vous avez l'air affamé. Ich habe dir gesagt: Prenez ein Kebab für mich.
+I was just curious as to what you do around here.;Ich war nur neugierig, was Sie hier machen.
+I protect other travellers from monsters, both animal and human kind.;Ich beschütze andere Reisende vor Monstern, sowohl Tieren als auch Menschen.
+Watch yourself out there, it can be hard to tell friend from foe in these lands.;Passen Sie auf sich auf, denn in diesen Ländern kann es schwierig sein, Freunde von Feinden zu unterscheiden.
+When you've been in the Wilderness as long as I have, you learn that not all monsters show themselves on the outside.;Wenn man so lange in der Wildnis ist wie ich, lernt man, dass sich nicht alle Monster äußerlich zeigen.
+Uhm... alright then, I'll leave you to your duties.;Ähm... na gut, dann überlasse ich dich deinen Pflichten.
+Human? Can't say I've seen many human shaped monsters in the Wilderness.;Menschlich? Ich kann nicht sagen, dass ich in der Wildnis viele Monster in Menschengestalt gesehen habe.
+Â¿Puedes hacer que mi crÃ¡neo PK dure mÃ¡s?;Kann es sein, dass mein PK-Kauf länger dauert?
+Â¿Puedo tener un crÃ¡neo PK, por favor?;¿Könnten Sie einen PK-Kran haben, por favor?
+Hola vagabundo.;Hola Vagabundo.
+AdiÃ³s, comerciante.;Adiós, commerciante.
+Toutes sortes de choses ! Il y a beaucoup de roches de charbon, ainsi que du fer, du mithril et de l'adamantite.;Alle Sorten zur Auswahl! Es ist ein Wunder der Kohlesteine, aber auch du, Mithril und der Adamantit.
+Bienvenue à la guilde des mineurs. Puis-je vous aider ?;Bienvenue à la Guilde des Mineurs. Können Sie mir helfen?
+Non merci, ça va.;Non merci, ça va.
+Désolé, je n'ai rien à te vendre.;Verzweifelt, ich konnte es nicht verkaufen.
+Qu'avez-vous dans la guilde ?;Qu'avez-vous dans la guilde ?
+Que faites-vous, vous les nains, avec le minerai que vous extrayez ?;Was ist los mit den Mineralien, die Sie extrahieren?
+beaucoup la fonte du minerai. Il y a beaucoup de marchands nains qui travaillent à Keldagrim. Bon, puis-je vous aider pour autre chose ?;Beaucoup la Fonte du Minerai. Es war ein wunderschöner Zug von vielen Männern, die Keldagrim erreichen mussten. Bon, können Sie mir bei Ihrer Wahl helfen?
+À votre avis ? Nous le fondons en lingots, nous forgeons le métal pour fabriquer des armures et des armes, puis nous les échangeons contre des biens et des services.;À votre avis ? Wir haben die Hände in der Hand, wir haben das Metall für die Herstellung von Rüstungen und Waffen geschmiedet, dann haben wir den Austausch gegen unsere Dienste und unsere Dienste eingeleitet.
+Désolé, mais vous n'avez pas assez d'expérience pour entrer là-dedans.;Verzweifelt, aber Sie haben keine Erfahrung mehr gemacht, um mit Ihren Freunden in Kontakt zu treten.
+Il n'y a pas de meilleur site minier ailleurs !;Es gibt keine bessere Seite als Mini-Alleurs!
+Je ne vois pas beaucoup de nains vendre des armures ou des armes ici.;Ich habe keine Chance, Waffen oder Waffen hier zu verkaufen.
+Non, ce n'est qu'un avant-poste minier. Nous, les nains, n'aimons pas beaucoup nous installer dans les villes humaines. La plupart du minerai est transporté à Keldagrim, la grande cité naine. Ils ont un haut fourneau spécial là-bas, ce qui facilite;Nicht, das ist noch kein Vorposten. Wir, die Nains, haben unseren Installateur nicht in den menschlichen Städten gefunden. Ein Teil des Minerals wird nach Keldagrim, der großen Naine-Stadt, transportiert. Sie sind auf einem ganz besonderen Niveau, das ihnen leichter fällt

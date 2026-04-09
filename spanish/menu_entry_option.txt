@@ -2543,3 +2543,18 @@ Deposit-732;Depósito-732
 Couper;cuper
 Default quantity: 60;Cantidad predeterminada: 60
 Deposit-236;Depósito-236
+DJR;DJR
+Favourites;Favoritos
+AJR;AJR
+CIR;CIR
+CIS;CEI
+Default quantity: 236;Cantidad predeterminada: 236
+View List;Ver lista
+DIP;ADEREZO
+Last-destination (BKS);Último destino (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Comprar: 1 x Atún
+Deposit-2787;Depósito-2787
+Withdraw-2787;Retirar-2787
+Default quantity: 2,787;Cantidad predeterminada: 2787
+Tirer;cansador
