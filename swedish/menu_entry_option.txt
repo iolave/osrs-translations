@@ -2543,3 +2543,18 @@ Deposit-732;Deposition-732
 Couper;Couper
 Default quantity: 60;Standardantal: 60
 Deposit-236;Insättning-236
+DJR;DJR
+Favourites;Favoriter
+AJR;AJR
+CIR;CIR
+CIS;CIS
+Default quantity: 236;Standardantal: 236
+View List;Visa lista
+DIP;DOPPA
+Last-destination (BKS);Sista destination (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Köp: 1 x tonfisk
+Deposit-2787;Deposition-2787
+Withdraw-2787;Uttag-2787
+Default quantity: 2,787;Standardantal: 2 787
+Tirer;Tierer

@@ -2543,3 +2543,18 @@ Deposit-732;Depósito-732
 Couper;Couper
 Default quantity: 60;Quantidade padrão: 60
 Deposit-236;Depósito-236
+DJR;DJR
+Favourites;Favoritos
+AJR;AJR
+CIR;CIR
+CIS;CEI
+Default quantity: 236;Quantidade padrão: 236
+View List;Ver lista
+DIP;MERGULHAR
+Last-destination (BKS);Último destino (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Comprar: 1 x Atum
+Deposit-2787;Depósito-2787
+Withdraw-2787;Retirar-2787
+Default quantity: 2,787;Quantidade padrão: 2.787
+Tirer;Cansador

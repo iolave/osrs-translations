@@ -2543,3 +2543,18 @@ Deposit-732;Dépôt-732
 Couper;Couper
 Default quantity: 60;Quantité par défaut : 60
 Deposit-236;Dépôt-236
+DJR;DJR
+Favourites;Favoris
+AJR;AJR
+CIR;CIR
+CIS;CEI
+Default quantity: 236;Quantité par défaut : 236
+View List;Voir la liste
+DIP;TREMPER
+Last-destination (BKS);Dernière destination (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Acheter: 1 x Thon
+Deposit-2787;Dépôt-2787
+Withdraw-2787;Retrait-2787
+Default quantity: 2,787;Quantité par défaut : 2 787
+Tirer;Tirer

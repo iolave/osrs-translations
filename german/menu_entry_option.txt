@@ -2543,3 +2543,18 @@ Deposit-732;Anzahlung-732
 Couper;Couper
 Default quantity: 60;Standardmenge: 60
 Deposit-236;Anzahlung-236
+DJR;DJR
+Favourites;Favoriten
+AJR;AJR
+CIR;CIR
+CIS;GUS
+Default quantity: 236;Standardmenge: 236
+View List;Liste anzeigen
+DIP;TAUCHEN
+Last-destination (BKS);Letztes Ziel (BKS)
+BKS;BKS
+Buy: 1 x Tuna;Kaufen Sie: 1 x Thunfisch
+Deposit-2787;Anzahlung-2787
+Withdraw-2787;Rückzug-2787
+Default quantity: 2,787;Standardmenge: 2.787
+Tirer;Tirer
