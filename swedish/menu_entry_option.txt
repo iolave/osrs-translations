@@ -2558,3 +2558,5 @@ Deposit-2787;Deposition-2787
 Withdraw-2787;Uttag-2787
 Default quantity: 2,787;Standardantal: 2 787
 Tirer;Tierer
+Sell: 1 x Skills necklace;Sälj: 1 x Skills-halsband
+View-game;Se-spel

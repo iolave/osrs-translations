@@ -2558,3 +2558,5 @@ Deposit-2787;Borg-2787
 Withdraw-2787;Intrekken-2787
 Default quantity: 2,787;Standaardhoeveelheid: 2.787
 Tirer;Tirer
+Sell: 1 x Skills necklace;Verkoop: 1 x Skills-ketting
+View-game;Bekijk-spel

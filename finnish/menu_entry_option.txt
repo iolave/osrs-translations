@@ -2558,3 +2558,5 @@ Deposit-2787;Talletus-2787
 Withdraw-2787;Nosto-2787
 Default quantity: 2,787;Oletusmäärä: 2 787
 Tirer;Tyler
+Sell: 1 x Skills necklace;Myydään: 1 x Skills kaulakoru
+View-game;Katso peli
