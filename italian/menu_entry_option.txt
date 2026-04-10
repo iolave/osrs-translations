@@ -2558,3 +2558,5 @@ Deposit-2787;Deposito-2787
 Withdraw-2787;Ritiro-2787
 Default quantity: 2,787;Quantità predefinita: 2.787
 Tirer;Tirer
+Sell: 1 x Skills necklace;Vendo: 1 collana Skills
+View-game;Visualizza-gioco

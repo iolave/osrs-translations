@@ -2558,3 +2558,5 @@ Deposit-2787;Anzahlung-2787
 Withdraw-2787;Rückzug-2787
 Default quantity: 2,787;Standardmenge: 2.787
 Tirer;Tirer
+Sell: 1 x Skills necklace;Verkaufe: 1 x Skills-Halskette
+View-game;Spiel ansehen

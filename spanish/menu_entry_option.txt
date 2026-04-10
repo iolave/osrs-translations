@@ -2558,3 +2558,5 @@ Deposit-2787;Depósito-2787
 Withdraw-2787;Retirar-2787
 Default quantity: 2,787;Cantidad predeterminada: 2787
 Tirer;cansador
+Sell: 1 x Skills necklace;Vender: 1 x collar de habilidades
+View-game;Ver juego

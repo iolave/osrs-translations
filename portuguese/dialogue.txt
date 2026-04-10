@@ -87838,3 +87838,180 @@ Désolé, mais vous n'avez pas assez d'expérience pour entrer là-dedans.;Déso
 Il n'y a pas de meilleur site minier ailleurs !;Não há um melhor site, menos ainda!
 Je ne vois pas beaucoup de nains vendre des armures ou des armes ici.;Je ne vois pas beaucoup de nains vendre des armures ou des armes aqui.
 Non, ce n'est qu'un avant-poste minier. Nous, les nains, n'aimons pas beaucoup nous installer dans les villes humaines. La plupart du minerai est transporté à Keldagrim, la grande cité naine. Ils ont un haut fourneau spécial là-bas, ce qui facilite;Non, ce n'est qu'un avant-poste minier. Nous, les nains, n'aimons pas beaucoup nous installer nas cidades humanas. A maior parte do mineral foi transportada para Keldagrim, a grande cidade naine. Há um alto quarto especial lá embaixo, o que facilita
+Oh, how have you been getting on?;Ah, como você está indo?
+I think I've completed a combat tier!;Acho que completei um nível de combate!
+I can see that. Nice job. You'll be expecting your easy rewards?;Eu posso ver isso. Bom trabalho. Você estará esperando suas recompensas fáceis?
+There you go. I've provided you with the most basic of our ancient sword hilts. You'll also have an easier time obtaining easy clues, increased max quantities offered when given boss Slayer tasks, bonus tokens from the;Aí está. Eu forneci a você o mais básico dos punhos de nossas espadas antigas. Você também terá mais facilidade para obter pistas fáceis, maiores quantidades máximas oferecidas quando receber tarefas de Boss Slayer, tokens de bônus do
+I've completed some more Combat Achievement tasks!;Concluí mais algumas tarefas de Combat Achievement!
+Well, since you haven't shown me a defender to prove your prowess as a warrior,;Bem, já que você não me mostrou um defensor para provar sua habilidade como guerreiro,
+Ahh I see that you have one of the defenders already! Well done.;Ahh, vejo que você já tem um dos defensores! Bom trabalho.
+I'll release some cyclopes which might drop the next defender for you. Have fun in there.;Vou liberar alguns ciclopes que podem derrubar o próximo defensor para você. Divirta-se aí.
+Esta Ã© sua lista de oraÃ§Ãµes. As oraÃ§Ãµes podem ajudar muito no combate. Clique na oraÃ§Ã£o que deseja usar para ativÃ¡-la e clique novamente para desativÃ¡-la.;Esta é sua lista de orações. As orações podem ajudar muito no combate. Clique na oração que deseja usar para ativar e clique novamente para desativá-la.
+Ik wilde je aambeelden gebruiken.;Eu não vou usar nada.
+Ja, ik zorg voor de materialen.;Sim, eu zorg para o material.
+Klei is wat ik het meest gebruik om afgietsels te maken. Kunt u mij alstublieft 6 klei, 4 kopererts en 2 ijzererts geven? Ik kan een beetje betalen, en jij mijn aambeelden laten gebruiken. Neem deze houweel mee voor het geval je hem nodig hebt.;Klei é o que eu mais uso para fazer. Você pode ter 6 klei, 4 kopererts e 2 ijzererts juntos? Eu posso ter um pouco de dinheiro e se eu for usado posteriormente. Neem deze houweel mee para het geval je hem nodig hebt.
+Ik wil je wetsteen gebruiken.;Eu vou ser usado.
+Ik was net het landschap aan het verkennen.;Eu não fui o proprietário da terra até o proprietário.
+O jee, dat is toeval! Geef ze hier door, alstublieft. Ik kan je wat munten besparen voor je moeite, en gebruik alsjeblieft mijn aambeelden wanneer je maar wilt.;Oh, caramba, isso é real! Nossa porta aqui, alstublief. Eu posso ser o que há de mais reservado para mim, e usarei também meus filhos quando quiser que eu possa murchar.
+Dorics zoektocht starten?;Dorics zoektocht iniciado?
+Normaal gesproken passen er 28 dingen in mijn rugzak en in een wereld vol letterlijk onbeperkte mogelijkheden heeft zich een compleet toeval voorgedaan!;A passagem normal é de 28 dias em meu rugzak e em um mundo inteiro de letras onbeperkte que podem ser uma tarefa completa!
+Mijn aambeelden krijgen genoeg werk bij mijn eigen gebruik. Ik maak houwelen, en het kost veel hard werk. Als je me nog wat meer materialen kunt geven, dan kan ik je ze laten gebruiken.;Mijn aambeelden krijgen genoeg werk bijn igen gebruik. Eu vou ficar em casa e vou trabalhar muito duro. Se eu não tiver mais materiais que eu possa usar, posso usá-lo novamente.
+Ik begrijp niet helemaal wat je zegt?;Eu não begrijp niet helemaal o que você fez?
+Nou, puur toeval, ondanks dat ik absoluut niet wist wat je ging vragen, had ik toevallig precies die items bij me!;Nou, puur toeval, vamos dizer que eu absolutamente não sei o que estou fazendo, se eu tivesse que avaliar os itens para mim!
+Hallo reiziger, wat brengt je naar mijn bescheiden smidse?;Olá reiziger, o que você está fazendo agora?
+Sterker nog, ook in de exacte hoeveelheden!;Sterker nog, também no exato hoeveelheden!
+Bemoei je met je eigen zaken, shortstuff!;Bemoei je met je eigen zaken, shortstuff!
+Wat maak je hier?;O que você pode fazer aqui?
+Ga op die mat zitten en geef mij sit-ups, privÃ©!;Faça o meu trabalho com abdominais, privado!
+Ah, goed gedaan maatje, dat is de juiste combinatie. Hier, heb iets om mij te helpen.;Ah, vai gedaan maatje, isso é a juiste combinatie. Aqui, heb iets om mij te helpen.
+Bring me a Rune Defender and I shall unlock the door for you, this shows me you have dedicated enough time to fighting the Cyclops upstairs.;Traga-me um Rune Defender e eu destrancarei a porta para você, isso me mostra que você dedicou tempo suficiente para lutar contra o Ciclope lá em cima.
+I am a mighty adventurer! Can I fight them?;Eu sou um poderoso aventureiro! Posso lutar contra eles?
+You'll need to display your skills as a Warrior before I can allow you to enter the room.;Você precisará mostrar suas habilidades como Guerreiro antes que eu permita que você entre na sala.
+You're currently on a <col=ff0000>Novice Contract</col>. Go see <col=ff0000>Bob </col>in north-east <col=ff0000>Varrock</col>, opposite the church. You can get another job once you have furnished his home.;Você está atualmente em um <col=ff0000>Contrato de Iniciante</col>. Vá ver <col=ff0000>Bob </col>no nordeste de <col=ff0000>Varrock</col>, em frente à igreja. Você pode conseguir outro emprego depois de mobiliar a casa dele.
+Eu acho que estÃ¡ tudo bem como estÃ¡.;Eu acho que está tudo bem como está.
+Por favor, vocÃª poderia ir ver <col=ff0000>Mariah</col>, a oeste dos agentes imobiliÃ¡rios em <col=ff0000>Hosidius</col> para nÃ³s? VocÃª pode conseguir outro emprego depois de mobiliar a casa dela.;Por favor, você poderia ir ver <col=ff0000>Mariah</col>, a oeste dos agentes imobiliários em <col=ff0000>Hosidius</col> para nós? Você pode conseguir outro emprego depois de mobiliar a casa dela.
+O que vocÃª quer? Estou ocupado supervisionando!;O que você quer? Estou ocupado supervisionando!
+Gostaria de construir um armÃ¡rio de madeira.;Gostaria de construir um exército de madeira.
+Eu gostaria que minha pia fosse consertada.;Eu gostaria que minha pia fosse consertada.
+I'd like a Wooden small table built.;Gostaria de construir uma mesinha de madeira.
+Gostaria de construir uma prateleira de madeira.;Gostaria de construir uma estrutura de madeira.
+Gostaria de construir uma mesa de madeira.;Gostaria de construir uma mesa de madeira.
+Exchuse me... I am lishning to my good friend.;Com licença... estou gostando do meu bom amigo.
+If you do get a new one, you will reset your standard task streak of 1. Is that okay? It won't affect your Wilderness task streak of 0.;Se você conseguir um novo, redefinirá sua sequência de tarefas padrão de 1. Tudo bem? Isso não afetará sua sequência de tarefas na Terra Selvagem de 0.
+Os morcegos raramente sÃ£o encontrados no solo, entÃ£o vocÃª terÃ¡ que combatÃª-los enquanto eles estÃ£o no ar, o que nÃ£o serÃ¡ fÃ¡cil no combate corpo a corpo.;Os morcegos relatados são encontrados no solo, então você tem que combatê-los enquanto eles estão no ar, o que não será fácil no combate corpo a corpo.
+You're still hunting greater demons, you have 71 to go.;Você ainda está caçando demônios maiores, você tem 71 pela frente.
+Excellent, you're doing great. Your new task is to kill 25 Bats.;Excelente, você está indo muito bem. Sua nova tarefa é matar 25 morcegos.
+You're still hunting greater demons; you have 71 to go. Come back when you've finished your task.;Você ainda está caçando demônios maiores; você tem 71 para ir. Volte quando terminar sua tarefa.
+Excellent, you're doing great. Your new task is to kill 39 Hill Giants.;Excelente, você está indo muito bem. Sua nova tarefa é matar 39 Hill Giants.
+Vamos sair daqui antes que aquele gato perceba.;Vamos sair daqui antes que aquele gato perceba.
+Excellent, you're doing great. Your new task is to kill 32 Scorpions.;Excelente, você está indo muito bem. Sua nova tarefa é matar 32 Escorpiões.
+Excellent, you're doing great. Your new task is to kill 44 Dogs.;Excelente, você está indo muito bem. Sua nova tarefa é matar 44 cães.
+Dogs are much like Wolves, they are pack creatures which will hunt in groups.;Os cães são muito parecidos com os lobos, são criaturas de matilha que caçam em grupos.
+Awesome! There are so many hair styles to pick from. What would you like?;Incrível! Existem tantos estilos de cabelo para escolher. O que você gostaria?
+Actually, I'd like to ask you about something else.;Na verdade, gostaria de lhe perguntar sobre outra coisa.
+OlÃ¡. Vamos ao que interessa. Eu tenho uma tesoura. VocÃª tem cabelo. Quer fazer isso?;OlÃ¡. Vamos ao que interessa. Eu tenho uma tesoura. Você tem cabelo. Quer fazer isso?
+Eu gostaria de cortar o cabelo, por favor.;Eu gostaria de cortar o cabelo, por favor.
+Eu gostaria de fazer a barba, por favor.;Eu gostaria de fazer uma barba, por favor.
+OlÃ¡, aÃ­ em cima! A estaÃ§Ã£o de carrinhos de minas estÃ¡ fechada, entÃ£o por favor nÃ£o venha aqui.;Olá, aí em cima! A estação de carrinhos de minas está fechada, então por favor não venha aqui.
+¡Hola compañero! ¿Quieres ver mis platos giratorios? ¿O querías recuperar un artículo navideño?;Olá companheiro! Você quer ver meus pratos giratórios? O que você gostaria de recuperar um artigo de navegação?
+Basta completar as tarefas na Ã¡rea de Varrock para que elas fiquem marcadas e depois vir falar comigo para receber suas recompensas.;Basta completar as tarefas na área de Varrock para que elas fiquem marcadas e depois vir falar comigo para receber suas recompensas.
+Excellent, you're doing great. Your new task is to kill 82 Moss Giants.;Excelente, você está indo muito bem. Sua nova tarefa é matar 82 Moss Giants.
+ratoni is offering to give you a bond.;ratoni está se oferecendo para lhe dar uma fiança.
+Ah, entonces estás ahí, Señora [PLAYER_NAME]. Me alegra mucho que me hayas llamado. Por favor toma esta lámpara y pide tu deseo.;Ah, então você está aí, senhora [PLAYER_NAME]. Me alegre mucho que me hayas chamado. Por favor, pegue esta lâmpada e pide seu desejo.
+Rechazarlo.;Rechazarlo.
+Acéptalo.;Aceptalo.
+Sim, eu gostaria de ir embora agora.;Sim, eu gostaria de ir embora agora.
+VocÃª estÃ¡ pronto para sair agora?;Você está pronto para sair agora?
+NÃ£o, prefiro ficar.;Não, prefiro ficar.
+Posso beijar vocÃª em vez disso?;Posso beijar você em vez disso?
+Buen día, ¿en qué puedo ayudarte?;Bom dia, onde posso ajudar?
+Ok, veré qué puedo hacer.;Ok, eu sei o que posso fazer.
+Viendo que estábamos un poco perdidos, Ernest decidió entrar y preguntar direcciones.;Vendo que estávamos um pouco perdidos, Ernest decidiu entrar e perguntar as direções.
+Ajá, suena como una búsqueda. Yo te ayudaré.;Ajá, suena como uma busca. Eu te ajudarei.
+¿Comenzar la misión Ernest el Pollo?;Você começou a missão Ernest el Pollo?
+¿Puedes ayudarme? Estoy en una situación terrible.;Você pode me ajudar? Estou em uma situação terrível.
+Sí, sí, supongo que es una búsqueda. Mi prometido Ernest y yo llegamos a esta casa.;Sim, sim, suponho que seja uma procura. Meu prometido Ernest e eu vamos para esta casa.
+That was an hour ago. Esa casa parece espeluznante, ¿puedes ir a ver si puedes encontrarlo por mí?;Isso foi há uma hora. Essa casa parece espetacular, você pode ir ver se consegue encontrá-lo por mim?
+Estoy buscando un tipo llamado Ernest.;Estou procurando um tipo chamado Ernest.
+¿Entonces sabes dónde está?;Então você sabe onde está?
+¿Ernesto es una gallina...? ¿Está seguro?;Ernesto é uma gallina...? Você está seguro?
+¿Qué hace esta máquina?;O que faz esta máquina?
+Ten cuidado aquí, hay muchos equipos peligrosos.;Tenha cuidado aqui, há muitos equipamentos perigosos.
+Oh, normalmente no es una gallina, o al menos no lo era hasta que me ayudó a probar mi máquina pouletmorph.;Oh, normalmente não é uma gallina, ou pelo menos não foi até que eu me ajudasse a testar minha máquina pouletmorph.
+Él es ese pollo de allí.;É esse frango de allí.
+¿Esta es tu casa?;Esta é sua casa?
+Ah Ernest, un tipo de primera. Él me está ayudando con mis experimentos.;Ah Ernest, um tipo de primeira. Eu estou ajudando com meus experimentos.
+Eso sería de ayuda. Estarán en algún lugar de la casa solariega o sus terrenos, los gremlins nunca pasan de la puerta de entrada.;Isso seria de ajuda. Estarão em algum lugar da casa solariega ou em seus terrenos, os gremlins nunca passarão pela porta de entrada.
+Originalmente iba a llamarse máquina de transmutación. Pero después de probar pouletmorph parece más apropiado.;Originalmente ela foi chamada para máquina de transmutação. Mas depois de provar pouletmorph parece mais apropriado.
+¡Cámbialo de nuevo en este instante!;¡Câmbia de novo neste instante!
+Me falta el manómetro y un tubo de goma. También se han llevado mi lata de aceite, que voy a necesitar para que esto empiece de nuevo.;Me falta o manômetro e um tubo de borracha. Também se minha lata de óleo foi levada, o que será necessário para que este seja um pedaço de novo.
+Mi máquina está averiada y los duendes de la casa se han escapado con algunas piezas vitales.;Minha máquina está avariada e os duendes da casa escaparam com algumas peças vitais.
+Mmmm... no es tan fácil...;Mmmm... não é tão fácil...
+Me alegro de que Verónica no se comprometiera con una gallina.;Alegro-me de que Verónica não se comprometeu com uma gallina.
+¿Qué haces con las herramientas que estás almacenando?;O que acontece com as ferramentas que você está guardando?
+¿Qué puedes almacenar?;O que você pode armazenar?
+No gracias, guardaré mis cosas.;Sem graça, guarde minhas coisas.
+¡Ah, sin duda es un buen día! ¿Querías que guardara tus herramientas, o tal vez querrías que te devolviera tus cosas?;Ah, sin duda é um bom dia! Você queria guardar suas ferramentas ou já quis devolver suas coisas?
+Excellent, you're doing great. Your new task is to kill 10 Vampyres.;Excelente, você está indo muito bem. Sua nova tarefa é matar 10 Vampiros.
+... ¡y muchas pirañas! No puedo sacar el medidor.;... ¡e muitas piranhas! Não posso sacar o medidor.
+Parece que hay un manómetro aquí...;Parece que há um manômetro aqui...
+¿Has encontrado algo todavía?;Você encontrou algo hoje?
+Gracias por rescatar a Ernest.;Obrigado por resgatar Ernest.
+Gracias señora. Era terriblemente irritante ser una gallina. ¿Cómo podría alguna vez agradecerte?;Obrigado senhora. Era terrivelmente irritante ser uma gallina. Como você poderia agradecer alguma vez?
+Entonces arreglamos esto.;Então nós arreglamos isso.
+Oh, se fue a hablar con un tipo verrugoso verde. Estoy seguro de que volverá pronto.;Oh, se foi falar com um tipo verde verrugoso. Tenho certeza de que você voltará imediatamente.
+¡Tengo todo!;Tenho tudo!
+...y muchos peces muertos.;... e muitos pedaços mortos.
+Ah, an interesting question! I believe it should create a rift in the very fabric of space! Opening a portal to some, hitherto undiscovered plane that exists parallel to our own.;Ah, uma pergunta interessante! Acredito que isso deveria criar uma fenda na própria estrutura do espaço! Abrindo um portal para algum plano até então desconhecido que existe paralelo ao nosso.
+No, sólo soy uno de los inquilinos. Pertenece al conde que vive en el sótano.;Não, só eu sou um dos inquilinos. Pertenece ao conde que vive no sótano.
+Dámelos aquí entonces.;Dámelos aqui então.
+What does the portal machine do?;O que a máquina do portal faz?
+¿Dónde está él ahora?;Onde está ele agora?
+It's a teleport machine.;É uma máquina de teletransporte.
+I seem to have opened some sort of control panel.;Parece que abri algum tipo de painel de controle.
+I wonder how it works? A similar way to the locking mechanism I'd guess.;Eu me pergunto como isso funciona? Uma maneira semelhante ao mecanismo de travamento, eu acho.
+There seems to be more than one slot. Maybe I need more than one disc?;Parece haver mais de um slot. Talvez eu precise de mais de um disco?
+Start the Monkey Madness II quest?;Iniciar a missão Monkey Madness II?
+All is not well, [PLAYER_NAME]. Despite having had Glough under close surveillance since the events on Ape Atoll, he has managed to escape the Stronghold.;Nem tudo está bem, [PLAYER_NAME]. Apesar de ter mantido Glough sob vigilância desde os acontecimentos no Atol dos Macacos, ele conseguiu escapar da Fortaleza.
+Turn the statue?;Virar a estátua?
+How are you getting on, [PLAYER_NAME]?;Como você está, [PLAYER_NAME]?
+Glough is a threat to us all... I must hereby re-assign you to Ape Atoll, [PLAYER_NAME]. Report to Sergeant Garkor on Ape Atoll for further orders.;Glough é uma ameaça para todos nós... Devo transferi-lo para Ape Atoll, [PLAYER_NAME]. Apresente-se ao Sargento Garkor no Atol dos Macacos para obter mais ordens.
+Rune pickaxe: Really put it down?;Picareta rúnica: Realmente largou?
+May I browse your store?;Posso visitar sua loja?
+Sorry, I'm currently out of javelins.;Desculpe, estou sem dardos no momento.
+Good luck, [PLAYER_NAME].;Boa sorte, [PLAYER_NAME].
+I only discuss such matters with my highest ranking military officials. In fact, I am supposed to be in a meeting with my commander right now. Kruk has been consistently late to our meetings recently. ;Só discuto esses assuntos com os meus oficiais militares de mais alta patente. Na verdade, devo estar numa reunião com o meu comandante neste momento. Kruk tem se atrasado consistentemente para nossas reuniões recentemente.
+Welcome back, [PLAYER_NAME].;Bem-vindo de volta, [PLAYER_NAME].
+Climb into the secret entrance?;Subir na entrada secreta?
+Als je nog niet met de zoektocht bent begonnen, wordt er aangegeven waar je moet beginnen en welke vereisten je nodig hebt. Als de zoektocht bezig is, zal het je eraan herinneren wat je vervolgens moet doen.;Se eu ainda não conheci o zoektocht antes de começar, é importante que eu comece e verifique se já estou bem. Se o zoektocht for bezig, zal het je eraan herinneren what je vervolgens moet doen.
+Mijnbouw is heel eenvoudig, het enige wat je nodig hebt is een houweel. De rotsen hier in de buurt bevatten tin en koper. Waarom begin je niet met het minen ervan?;Mijnbouw é calcanhar eenvoudig, het enige wat je nodig hebt é en houweel. O rotsen aqui no buurt bevatten tin en koper. Como começar, eu não conheci meu Ervan?
+Nu je de speurtochtlijst geopend hebt, kun je alle speurtochten daarin zien. Als je het dagboek van een speurtocht opent, krijg je er meer informatie over.;Agora que há uma grande dependência geográfica, você é todos os speurtochten daarin zien. Se você tiver um livro aberto de um livro aberto, há mais informações sobre ele.
+Ik heb een bronzen staaf. Wat nu?;Eu tenho um bastão de bronze. O que é?
+OkÃ© dan, [PLAYER_NAME]. Mijn naam is Dezzick en ik ben mijnwerker van beroep. Laten we je leren hoe je moet mijnen.;Ok, dan, [PLAYER_NAME]. Mijn naam é Dezzick e eu ben mijnwerker van beroep. Laten nós je leren hoe je moet mijnen.
+Hoi. Je moet hier nieuw zijn. Dus hoe noem ik jou? 'Nieuwkomer' lijkt zo onpersoonlijk, en als we gaan samenwerken, noem ik je liever bij je naam.;Olá. Eu quero aqui o novo zijn. Dus hoe noem ik jou? 'Nieuwkomer' lijkt zo onpersonlijk, e quando ganhamos o mesmo trabalho, noem ik je liever bij je naam.
+Het is heel gemakkelijk om startpunten van missies te vinden. Let op het zoekpictogram op je minimap. Je zou er een moeten zien die dit huis markeert.;Het is heel gemkkelijk om startpunten van missies te vinden. Deixe o zoekpictograma no seu minimapa. Você é um homem que precisa de sua casa no mercado.
+De speurtochten zelf kunnen enorm variÃ«ren, van het verzamelen van kralen tot het jagen op draken. Als je missies voltooit, word je beloond met allerlei dingen, zoals nieuwe gebieden en betere wapens!;De speurtochten zelf kunnen enorme varieren, van het verzamelen van kralen tot het jagen op draken. Se minhas senhoritas voltarem, a palavra está abaixo de todos os dias, eles serão novos e melhores!
+Je kunt mij [PLAYER_NAME] noemen.;Eu posso conhecer meu [PLAYER_NAME] noemen.
+Over speurtochten kan ik je niet veel meer vertellen. Je moet de sensatie ervan zelf ervaren om het volledig te begrijpen. Laat het me weten als je een samenvatting wilt, anders kun je verder gaan.;Mais informações podem não ser muito mais vertidas. Eu preciso de uma sensação, ervan zelf ervaren om het volledig te begrijpen. Ele me disse quando eu estava pensando em algo assim, e você pode fazer isso.
+Ah. Welkom, avonturier. Ik ben hier om je alles te vertellen over speurtochten. Laten we beginnen met het openen van uw zoektochtlijst.;Ah. Bem-vindo, avonturier. Eu estou aqui para ver todos vocês sobre speurtochten. Mais tarde, começamos a conhecer a abertura do seu zoológico.
+Nu je een staaf hebt, kun je er een wapen van maken. Om iets te smeden heb je een hamer en een aambeeld nodig. Er zijn hier wat aambeelden die je kunt gebruiken. Kijk of je een bronzen dolk kunt maken.;Agora que você tem uma pessoa forte, você é uma pessoa que faz isso. Om iets te smeden heb jeen hamer een aambeeld nodig. Aqui está o que você pode usar. Kijk of je een bronzen dolk kunt maken.
+Ik heb het gedaan! Ik heb een gigantische rat gedood!;Ik heb het gedaan! Eu tenho um rato gigantesco!
+Zie ik eruit alsof het me iets kan schelen? Voor mij ben je gewoon een nieuwkomer die denkt dat ze klaar zijn om te vechten.;Você também pode me planejar? Para mim, bem, eu tenho uma nova chance de saber que você está bem em sua vida.
+Hoi! Mijn naam is [PLAYER_NAME].;Olá! Meu nome é [PLAYER_NAME].
+Laten we beginnen door je te leren een wapen te hanteren.;Mais tarde, começamos por je te leren een wapen te hanteren.
+Heel goed, maar dat kleine botermesje zal je niet veel beschermen. Laten we iets beters voor je regelen. Zodra je goed uitgerust bent, kunnen we verdergaan met een daadwerkelijk gevecht.;Heel goed, maar que kleine botermesje zal je niet veel beschermen. Laten we iets beters voor je regelen. Zodra foi totalmente curvado, mas nós não conseguimos encontrar uma solução adequada.
+Ik ben Vannaka, de grootste zwaardvechter ter wereld, en ik ben hier om je de basisprincipes van het gevecht te leren.;Eu sou Vannaka, o maior sucesso do mundo, e eu estou aqui sobre os princípios básicos do governo que você aprenderá.
+Hallo. Wie ben je?;Olá. Wie ben je?
+Je karakter IS je account! Het is wat je nu gebruikt om het spel te spelen. Iedereen hier heeft er Ã©Ã©n en sommige mensen hebben er zelfs meerdere!;Esta característica é sua conta! É o que você usa para jogar. Iedereen hier heeft é uma parte das pessoas que você é melhor!
+Wat is een account?;O que é uma conta?
+Vervolgens hebben we afstandsgevechten. Hiermee kun je vijanden op afstand doden. Met Ranged kun je de ratten aanvallen zonder de put in te gaan, wat betekent dat ze niet terug kunnen vechten.;Vervolgens hebben we afstandsgevechten. Hiermee kun je vijanden op stand doden. Met Ranged kun je de ratten aanvallen zonder de put in te gaan, o que significa que ze niet terug kunnen vechten.
+Ik ben de accountgids. Ik ben hier om u over uw account te vertellen.;Eu sou um dos guias de conta. Estou aqui para ver sua conta.
+Ik zag. Je lijkt hier beter in te zijn dan ik dacht. Nu je het basiszwaardspel onder de knie hebt, gaan we verder.;Eu sei. Eu gosto aqui melhor em você e eu vou sair. Agora eu tenho um jogo de base onde o joelho está, vamos melhorar.
+Er zijn verschillende dingen die u met uw account kunt doen. Hier komt het menu Accountbeheer van pas. Laten we er nu eens naar kijken.;Eles são muito diferentes de quando você conhece sua conta. Aqui está o menu Accountbeheer van pas. Laten wer nueens naar kijken.
+Meer informatie over accountbeveiliging vindt u op de webpagina Klantenondersteuning. U kunt het gedeelte Nuttige links van het menu Accountbeheer gebruiken om daar te komen.;Mais informações sobre verificação de contas podem ser encontradas na página da Web de suporte de clientes. Você pode obter links importantes do menu Contas para usar para começar.
+Geweldig. Is er nog iets dat ik moet weten over accounts?;Bem-vindo. Há alguma coisa que eu possa fazer sobre contas?
+Actieve gebeden zullen je gebedspunten afvoeren, die je kunt opladen door een altaar of een andere heilige plek te vinden en daar te bidden.;Ative-o antes que você o faça para que você possa abrir um altar de um outro lugar seguro para vindená-lo e daar-te licitado.
+Hallo, ik ben broeder Brace. Ik ben hier om je alles over gebed te vertellen.;Olá, eu sou o irmão Brace. Eu estou aqui para ver todos vocês.
+In tegenstelling tot lidmaatschap kunnen obligaties met andere spelers worden verhandeld. Je kunt een obligatie kopen en deze voor wat goud aan een andere speler verkopen. Als alternatief kunt u uw goud gebruiken om een â€‹â€‹obligatie van een andere speler te kopen!;Em tegenstelling tot lidmaatschap kunnen obrigações cumpridas com outros jogos palavras verhandeld. Eu não tenho nenhuma obrigação de comprar um desses para que você possa comprar outro jogo. Como alternativa, você pode usar uma obrigação de outro jogo para comprar!
+Zoals u ziet, kunt u een aantal dingen doen met uw account.;Então você sabe, você não conhece sua conta antes de alguma coisa.
+Hoe dan ook, dat is alles wat ik je over accounts te vertellen heb. Laat het me weten als je een samenvatting nodig hebt, ga anders naar je volgende instructeur.;Como e também, isso é tudo o que eu estou fazendo nas contas. Ele me disse quando eu estava pensando em alguma coisa, e também para meu próximo instrutor.
+Ten eerste heb je een lidmaatschap. Alle accounts zijn standaard gratis om te spelen, maar als je wilt, kun je een lidmaatschap kopen om de werelden van leden te ontgrendelen. Deze werelden geven je toegang tot extra vaardigheden, gebieden, missies en meer!;Ten primeiro heb jeen lidmaatschap. Todas as contas são padrão gratuitas para você jogar, mas se você quiser, você pode abrir uma tampa para obter o dinheiro que você ganha. Essas pessoas foram levadas a todos os lugares extras, divididos, missies e mais!
+Dit is je gebedslijst. Gebeden kunnen veel helpen in de strijd. Klik op het gebed dat je wilt gebruiken om het te activeren, en klik er nogmaals op om het te deactiveren.;Isto é je gebedslijst. Você pode muito ajudar no esforço. Clique sobre o que será usado para ativá-lo e clique em normal para desativá-lo.
+Dat is voorlopig alles wat ik je moet leren. Als je een herinnering nodig hebt over je gebeden, praat dan gewoon nog een keer met me.;Isso é importante para tudo o que eu preciso aprender. Se eu estiver herinnering nodig hebt sobre je gebeden, praat dan gewoon nog een keer me conheceu.
+Obligaties zijn iets anders dat u moet weten. U kunt obligaties kopen in de winkel in het menu Accountbeheer. Zodra u enkele obligaties heeft, kunt u deze inwisselen voor lidmaatschap!;As obrigações são outras que você pode usar. Você pode abrir as obrigações no menu no menu Accountbeheer. Zodra u enkele obriga heeft, kunt u deze inwisselen voor lidmaatschap!
+Wat is een wereld?;O que é um mundo?
+Een wereld is waar je het spel op speelt. De meeste werelden bieden plaats aan maximaal 2000 spelers. Ze zijn opgesplitst in twee hoofdtypen: vrije werelden en ledenwerelden. Je kunt van wereld wisselen met de Wereldwisselaar in het menu Uitloggen.;Um lugar é onde eu joguei. Os melhores lugares foram jogados no máximo em 2.000 jogos. Eles são divididos em dois tipos de casco: vários lugares e lugares diferentes. Você pode encontrar Wereldwisselaar no menu Uitloggen.
+Met de naamwisselaar kunt u uw weergavenaam wijzigen als uw huidige naam u niet bevalt. Houd er echter rekening mee dat dit alleen beschikbaar is voor accounts met lidmaatschap.;Met de naamwisselaar kunt uw weergavenaam wijzigen e uw huidige naam u niet bevalt. Ainda estou me lembrando de que este alleen beschikbaar é para contas com o lidmaatschap.
+Uw account is zeer waardevol en het is belangrijk dat u er goed zorg voor draagt. Verschillende tools kunnen hierbij helpen, zoals bankpincodes en tweefactorauthenticatieopties.;Sua conta é totalmente segura e é incrível que você tenha feito o zorg para o draagt. Várias ferramentas podem ajudar aqui, como bankpincodes e tweefactorauthenticatieopties.
+Maar waarom zou ik een Bond gebruiken in plaats van gewoon normaal een lidmaatschap te kopen?;Mas como você pode usar um Bond em lugares normais para uma empresa que você compra?
+Dus als ik mijn goud zou gebruiken om een â€‹â€‹obligatie van een andere speler te kopen, zou ik dan een lidmaatschap kunnen krijgen zonder echt geld uit te geven?;Então, se eu quiser usar uma obrigação de outro jogo para comprar, eu vou ter um negócio seguro para fazer com que você ganhe?
+Zoals je hebt gemerkt, zullen de meeste vijanden botten laten vallen als ze worden verslagen. Door botten te begraven door erop te klikken in je inventaris, verdien je gebedservaring.;Zoals je hebt gemerkt, zullen de meeste vijanden botten laten vallen als ze worden verslagen. Door botten te begraven door erop te clikken in je inventaris, verdien je gebedservaring.
+Je bevindt je momenteel in een vrije wereld. Als je wilt overstappen naar een ledenwereld en van alle voordelen wilt genieten, moet je een lidmaatschap aanschaffen. U kunt dit doen via de winkel in het menu Accountbeheer.;Eu estou bem em um momento em um mundo diferente. Se você passar despercebido em um local de trabalho e todos os voos serão genieten, eu tenho um problema de segurança. Você pode fazer isso através do winkel no menu Accountbeheer.
+Vervolgens heb je je inbox en naamwisselaar. In de inbox ontvang je belangrijke informatie over je account en de game. Houd het zeker in de gaten.;Vervolgens heb je je inbox e naamwisselaar. Na caixa de entrada, há muitas informações importantes sobre sua conta e o jogo. Houd het zeker no portão.
+Goede dag, broer.;Bom dia, cara.
+Wat is een Ironman?;O que é um Ironman?
+Nee, dat ben ik niet van plan.;Não, esse não é o meu plano.
+Nou, jullie zijn hier nu allemaal klaar. Ik geef je een redelijk aantal runs als je weggaat.;Agora, Jullie está aqui com tudo claro. Eu sou um redelijk aantal executado quando eu estou.
+Ja, ik wil graag Ironman worden.;Sim, eu vou usar as palavras do Ironman.
+Was je trouwens van plan Ironman te worden?;Você foi questionado sobre o plano do Ironman?
+een vraagteken aan het eind. Hij heeft ook een witte baard en draagt â€‹â€‹een rugzak vol boekrollen. Er zijn ook veel docenten die je willen leren over de vele vaardigheden die je kunt leren.;um vraagteken aan het eind. Ele também tem um livro escrito e jogado em um rugzak vol boekrollen. Ele também é muito docente que deseja aprender sobre as várias coisas que você pode aprender.

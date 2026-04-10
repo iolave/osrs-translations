@@ -2558,3 +2558,5 @@ Deposit-2787;Dépôt-2787
 Withdraw-2787;Retrait-2787
 Default quantity: 2,787;Quantité par défaut : 2 787
 Tirer;Tirer
+Sell: 1 x Skills necklace;Vendre : 1 x collier de compétences
+View-game;Voir le jeu
