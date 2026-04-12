@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Quantità predefinita: 2.787
 Tirer;Tirer
 Sell: 1 x Skills necklace;Vendo: 1 collana Skills
 View-game;Visualizza-gioco
+Cancel preview;Annulla l'anteprima
+Withdraw-856;Ritiro-856
+Deposit-856;Deposito-856
+Last-destination (DLR);Ultima destinazione (DLR)
+Default quantity: 9,000;Quantità predefinita: 9.000
+Click this to add coal.;Fare clic qui per aggiungere carbone.
+Turn tar valve up;Alzare la valvola del catrame
+Turn pressure valve up;Alzare la valvola di pressione
+Turn tar flow valve down;Abbassare la valvola del flusso del catrame
+Turn pressure valve down;Abbassare la valvola di pressione
+Toggle Fossils;Attiva/disattiva Fossili
+Open/Close;Apri/Chiudi
+Empty basket;Cesto vuoto
+Forestry kit;Kit forestale
+Log basket;Cestino per legna
