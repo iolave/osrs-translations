@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Standardmenge: 2.787
 Tirer;Tirer
 Sell: 1 x Skills necklace;Verkaufe: 1 x Skills-Halskette
 View-game;Spiel ansehen
+Cancel preview;Vorschau abbrechen
+Withdraw-856;Rückzug-856
+Deposit-856;Anzahlung-856
+Last-destination (DLR);Letztes Ziel (DLR)
+Default quantity: 9,000;Standardmenge: 9.000
+Click this to add coal.;Klicken Sie hier, um Kohle hinzuzufügen.
+Turn tar valve up;Drehen Sie das Teerventil nach oben
+Turn pressure valve up;Druckventil nach oben drehen
+Turn tar flow valve down;Drehen Sie das Teerflussventil nach unten
+Turn pressure valve down;Druckventil nach unten drehen
+Toggle Fossils;Fossilien umschalten
+Open/Close;Öffnen/Schließen
+Empty basket;Leerer Korb
+Forestry kit;Forstausrüstung
+Log basket;Holzkorb

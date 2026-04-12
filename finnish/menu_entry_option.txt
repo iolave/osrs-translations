@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Oletusmäärä: 2 787
 Tirer;Tyler
 Sell: 1 x Skills necklace;Myydään: 1 x Skills kaulakoru
 View-game;Katso peli
+Cancel preview;Peruuta esikatselu
+Withdraw-856;Nosto-856
+Deposit-856;Talletus-856
+Last-destination (DLR);Viimeinen määränpää (DLR)
+Default quantity: 9,000;Oletusmäärä: 9 000
+Click this to add coal.;Napsauta tätä lisätäksesi hiiltä.
+Turn tar valve up;Käännä tervaventtiili ylös
+Turn pressure valve up;Käännä paineventtiili ylös
+Turn tar flow valve down;Käännä tervan virtausventtiili alas
+Turn pressure valve down;Käännä paineventtiili alas
+Toggle Fossils;Vaihda fossiilit
+Open/Close;Avaa/Sulje
+Empty basket;Tyhjä kori
+Forestry kit;Metsänhoitosarja
+Log basket;Hirsikori

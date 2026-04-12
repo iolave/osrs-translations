@@ -88015,3 +88015,399 @@ Nou, jullie zijn hier nu allemaal klaar. Ik geef je een redelijk aantal runs als
 Ja, ik wil graag Ironman worden.;Sim, eu vou usar as palavras do Ironman.
 Was je trouwens van plan Ironman te worden?;Você foi questionado sobre o plano do Ironman?
 een vraagteken aan het eind. Hij heeft ook een witte baard en draagt â€‹â€‹een rugzak vol boekrollen. Er zijn ook veel docenten die je willen leren over de vele vaardigheden die je kunt leren.;um vraagteken aan het eind. Ele também tem um livro escrito e jogado em um rugzak vol boekrollen. Ele também é muito docente que deseja aprender sobre as várias coisas que você pode aprender.
+OkÃ©, laat mij dan helpen.;Ok, laat mij dan helpen.
+Ik denk dat ik dan beter met je kan praten. In welke problemen is hij deze keer terechtgekomen?;Ik denk dat ik dan beter met je kan praten. Em qual problema está hij deste keer terechtgekomen?
+Ik zoek een zoektocht!;Ik zoek een zoektocht!
+Dat is een geluk, ik heb iemand nodig die een zoektocht voor mij doet.;Isso é um geluk, eu heb iemand nodig die um zoektocht para meu doet.
+Bedoel je dat hij zichzelf in veel problemen brengt?;Você sabe que seu próprio filho tem muitos problemas?
+Ik kom je huis in beslag nemen.;Ik kom je huis in beslag nemen.
+Wie is Saradomin?;Quem é Saradomin?
+Welkom in de kerk van de heilige Saradomin.;Bem-vindo ao kerk van de heilige Saradomin.
+Ga weg! Ik ben aan het mediteren!;Muito bem! Ik ben aan het mediteren!
+De Restless Ghost-missie starten?;De Restless Ghost-missie começou?
+Er spookt een geest rond op zijn kerkhof.;Errou uma pessoa assustadora em volta de seu kerkhof.
+Ik geloof dat hij momenteel als kluizenaar in het moeras van Lumbridge leeft. Hij heeft een kleine hut in het uiterste westen van de moerassen.;Eu pensei que esse momento seria conhecido nas últimas horas de Lumbridge à esquerda. Ele tem uma cabana pequena no extremo oeste de Moerassen.
+Leuke plek heb je hier.;Leuke plek heb je here.
+Nou, dat is vriendelijk.;Agora, isso é incrível.
+Het is een amulet van Ghostspeak.;Ele é um amuleto do Ghostspeak.
+Bedankt. Ik zal het eens proberen!;Bedankt. Eu zal het eens proberen!
+Vader Aereck heeft me gestuurd om met je te praten.;Vader Aereck me fez um gesto para conhecer você.
+Als je hulp nodig hebt, mijn vriend pater Urhney is een expert op het gebied van geesten.;Se eu me ajudar muito, meu amigo pater Urhney é um especialista em lidar com pessoas.
+Bedankt. Het probleem is dat er een geest op het kerkhof is. Ik zou graag willen dat je er vanaf komt.;Bedankt. O problema é que há uma pessoa no kerkhof. Eu vou querer que você seja um vencedor.
+Nee, je bent eng!;Não, eu sou um eng!
+Hallo geest, hoe gaat het?;Olá, meu Deus, como é que ele está?
+Oh! Het is jouw amulet die het doet! Ik vroeg het me af. Ik neem aan dat je mij niet kunt helpen? Ik hou er niet van om een â€‹â€‹geest te zijn.;Oh! Este é o seu amuleto! Ik vroeg me deixou. Eu não sei se eu não posso ajudar? Eu não tenho uma hora para fazer isso.
+Wauw, dit amulet werkt!;Uau, esse amuleto funcionou!
+Ja, okÃ©. Weet je waarom je een geest bent?;Sim, ok. O que você quer que seja?
+Uitgave! Bedankt vreemdeling..;Uit deu! Bem, vreemdeling..
+Preciso que vocÃª fale com Gillie e Seth Groats. Precisamos aprender tudo o que pudermos.;Preciso que você fale com Gillie e Seth Groats. Precisamos aprender tudo o que pudermos.
+O que vocÃª precisava que eu fizesse de novo?;O que você precisa que eu fiz de novo?
+Sorry, dat doe ik liever niet.;Desculpe, isso não é verdade.
+Een aanraking? Ja, dat zal ik doen.;Você está fazendo isso? Sim, isso zal ik doen.
+Wat als wij kussen?;O que vamos fazer?
+Hartelijk dank, [PLAYER_NAME]. Ik moet terugkeren naar mijn sprookjesrijk. Maar beschouw dit als een beloning. Je kunt het in de Varrock-kledingwinkel inruilen voor een kostuum.;Hartelijk úmido, [PLAYER_NAME]. Eu vou ter que me preocupar com minha surpresa. Mas você disse que também é um pertencimento. Eu posso entrar no Varrock-Kledingwinkel inruilen para um custo.
+Ja, ik zal het eens proberen.;Sim, eu zal het um teste.
+Het is een val! Wil je proberen het te ontwapenen?;Ele é um valor! Você vai tentar te ajudar?
+Nee bedankt, ik laat het met rust.;Não, eu não encontrei ferrugem.
+U moet met Lord Iorwerth spreken. Hij zal je helpen die bandiet Tyras op te sporen. Je vindt zijn kamp in het noordwesten van het bos.;Você vai conhecer Lord Iorwerth spreken. Ele zal je ajuda o bandido Tyras em sua disputa. Eu vindit zijn kamp no noordwesten van het bo.
+Wachten! Wat was dat? Wat de...;Cuidado! O que foi isso? O que é...
+Houd op mens! Wat doe jij hier?;Olá, homens! O que você faz aqui?
+Are you the human by the name of [PLAYER_NAME]?;Você é o humano chamado [PLAYER_NAME]?
+Ja, dat ben ik.;Sim, isso é bom.
+Goed... We hadden je verwacht. Koning Lathas heeft u laten weten dat u komt.;Vamos... Nós tínhamos je verwacht. Koning Lathas heeft u laten weten dot u komt.
+Menselijk! Jij moet een van Tyras' mannen zijn...;Menselijk! Jij moet een van Tyras' mannen zijn...
+Ik moet Tyras vinden en hem vermoorden. Weet jij waar zijn kamp is?;Eu vou ser Tyras vinden e hem vermoorden. Weet jij waar zijn kamp é?
+Deze bossen zijn niet altijd zo dicht als je zou denken. Als je beter kijkt, zie je misschien manieren waarop je er doorheen kunt komen. Met dat in gedachten, waarom probeer je het niet nog een keer?;Estes chefes não são muito importantes para você, pois você é o dono. Se for melhor que você faça isso, você pode fazer o que quiser. Conheci isso em gedachten, waarom probeer je het niet nog een keer?
+Je vindt hem in het oude kamp van Tyras. Het ligt ten zuidoosten van hier, net ten noorden van dat vergiftigde meer. Als je het kamp hebt gevonden, kom dan en laat het me weten.;Eu vim para ele no acampamento de Tyras. Ele é leve em relação a aqui, não há dez noordens que mais valem a pena. Se eu estiver no acampamento, você vai me dar um tempo.
+Ik zie. Dan zal ik het zo slim moeten spelen.;Eu sei. Dan zal ik het zo slim moeten spelen.
+Wat is?;O que é?
+Nou, dit was zijn oude kamp. Na de slag een paar dagen geleden zijn ze verhuisd. We moeten ze nog vinden.;Agora, isso era zijn oude kamp. Na de escória um par dagen geleden zijn ze verhuisd. Nós moeten ze nog vinden.
+Ahh... [PLAYER_NAME]. Welcome to Tirannwn. I understand you've been sent here to rid us of that criminal Tyras. I offer my full support.;Ah... [PLAYER_NAME]. Bem-vindo a Tirannwn. Soube que você foi enviado aqui para nos livrar daquele criminoso Tyras. Ofereço meu total apoio.
+Ik heb sporen gevonden die naar het westen leiden. Maar ze verdwijnen de bomen in. Verder kan ik het niet volgen.;Eu tenho esporos que aconteceram no oeste da Lei. Mas o resultado é bom. Verder pode não voltar.
+Good day [PLAYER_NAME]. How may I help you now?;Bom dia [PLAYER_NAME]. Como posso ajudá-lo agora?
+Zoals ik al zei... Ik heb geen tijd voor bandieten of bandieten.;Zoals ik al zei... Eu não tenho tempo para bandidos de bandidos.
+Kan ik überhaupt helpen?;Posso ajudar muito?
+Bedankt... Ik zal kijken wat ik kan vinden.;Bedankt... Eu zal kijken o que posso vir.
+Ik zeg je wat. Nu je hier bent, kan ik je net zo goed een handje helpen. Ik zoek hier aan de oostkant. Je bekijkt het westelijke uiteinde van het kamp. Kom en vertel het me als je iets vindt.;Eu sei o que você está fazendo. Se você não estiver aqui, pode não ter ajudado muito. Ik zoek hier aan de oostkant. Eu bekijkt het westelijke uiteinde van het kamp. Kom en vertel het me als je iets vindt.
+Zoals het gaat, volg ik ze momenteel niet echt. In plaats daarvan probeer ik momenteel onze afvallige broeders te traceren. Dit is de beste aanwijzing die we tot nu toe hebben gevonden.;Zoals het gaat, volg ik ze momenteel niet echt. Em alguns momentos, você pode investigar quais são os momentos em que os irmãos mais valiosos podem ser rastreados. Esta é a melhor solução para o que temos hoje.
+Ahh, ik denk dat je het niet kunt zien met die menselijke ogen.;Ahh, eu acho que não posso mais conhecer as pessoas novamente.
+Je verkenner weigerde te helpen. Hij vroeg om bewijs dat je mij stuurde.;Eu gostaria de ajudá-lo. Eu realmente sei que meu filho é estupendo.
+En heb je iets om dit te bewijzen?;E você está pensando nisso?
+Dat is de hanger van heer Iorwerth. Hij moet veel vertrouwen in je hebben. Waar kan ik je mee helpen?;Esse é o cabide de Heer Iorwerth. Ele deve ser muito feliz em seu tempo. O que posso me ajudar?
+Hello there, I'm [PLAYER_NAME]. Your scouts said that I should come and see you.;Olá, meu nome é [PLAYER_NAME]. Seus batedores disseram que eu deveria ir vê-lo.
+Nou... Eh... Nee.;Não... Eh... Não.
+No I'm [PLAYER_NAME]! Lord Iorwerth said you might be able to help me.;Não, meu nome é [PLAYER_NAME]! Lorde Iorwerth disse que você poderia me ajudar.
+Ik heb wat zwavel nodig.;Eu sei o que zwavel nodig.
+Goed gedaan. Omdat we niet over voldoende troepen beschikken om zijn strijdkrachten direct aan te pakken, stel ik voor dat we een aantal alternatieve tactieken proberen.;Bom, gedaan. Desde que não tenhamos nenhuma troepen necessária para saber o que fazer diretamente no pacote, estenda-o para que possamos testar uma alternativa táctica.
+Nafta?;Nafta?
+Klinkt goed, bedankt.;Klinkt foi, bedankt.
+Ik heb een vat nodig.;Eu não tenho nada.
+Volgens het boek krijg je het door de gefractioneerde destillatie van koolteer.;A leitura do livro é a porta da destilação do refrigerador.
+Ik ben er nog steeds mee bezig.;Ik ben er nog mee bezig.
+Ah, ik zie het. Er is een mijn direct ten oosten van hier waar je kalksteen kunt winnen.;Ah, eu sei. É um dos meus caminhos diretos para onde você pode vencer.
+Laat het me weten als je nog iets nodig hebt.;Laat het me weten als je nog iets nodig hebt.
+Nou, je zou wat koolteer uit dat vergiftigde meer in het zuiden moeten kunnen halen. Wat de rest betreft, ik ben bang dat ik niet de scheikundige kennis heb om het te begrijpen.;Agora, você deve saber o que é mais interessante para você poder fazer isso. O que resta é que eu tenha certeza de que não sei o que fazer para saber.
+Perfect! Breng het boek naar haar toe en kijk of ze kan helpen. Vertel haar alleen niet waar het voor is. Ook al is ze betrouwbaar, we kunnen geen enkel risico nemen.;Perfeito! Leve o livro para um lugar onde você pode ajudá-lo. Vertel haar alleen niet waar het voor is. Além disso, todos estão comprometidos, não sabemos o que é arriscado.
+Ik heb een zekering nodig.;Eu não sei nada.
+Vorige opties...;Opções Vorige...
+Blijkbaar wordt het gemaakt door kalksteen te verhitten.;Blijkbaar wordt het gemaakt door kalksteen te verhitten.
+Nou, dat zou korte metten moeten maken met Tyras.;Agora, aquele zou korte metten moeten maken conheceu Tyras.
+Een soort stof zou moeten werken. Indien nodig kunt u hier het weefgetouw gebruiken.;Uma espécie de coisa para você trabalhar. Você não pode fazer nada aqui para usar o weefgetouw.
+Ik heb wat nafta nodig.;Eu sei o que nafta nodig.
+Good day [PLAYER_NAME]. Have you had any luck with that book?;Bom dia [PLAYER_NAME]. Você teve alguma sorte com esse livro?
+Ongebluste kalk?;Ongebluste kalk?
+[PLAYER_NAME] how goes your search... Any luck hunting down that brigand?;[PLAYER_NAME] como vai sua pesquisa... Teve sorte em caçar aquele bandido?
+Hmm... I know someone from Ardougne who might be able to help. Ze weet het een en ander over scheikunde.;Hmm... Conheço alguém de Ardonha que pode ajudar. Ze weet het een ander over scheikunde.
+Inderdaad. Lees het eens door en kijk wat je ervan vindt. Zodra u dit heeft gedaan, kunt u mij laten weten of u nog vragen heeft.;Inderdaad. Ele abriu uma porta e descobriu o que Ervan vindt. Zodra u dit heeft gedaan, kunt u mij laten weten of u nog vragen heeft.
+Is er nog iets waarmee ik kan helpen?;Não há nada que você possa ajudar?
+Controleer de kust ten zuiden van het oude kamp waar je eerder was. Ik heb daar in het verleden zwavel gezien, het komt uit dat vergiftigde meer.;O controle de custos tem que ser feito no oude kamp waar je eerder was. Eu hei de fazer o mesmo com o que aconteceu, ele saiu mais vergiftigde.
+Ik heb wat ongebluste kalk nodig.;Eu heb wat ongebluste kalk nodig.
+Ik heb hier een boek waarin een explosieve reactie wordt beschreven. We zouden het moeten kunnen gebruiken om een ​​bom te maken.;Eu tenho aqui um livro que contém uma palavra de reação explosiva escrita. Nós zouden het moeten kunnen gebruiken om een ​​​​bom te maken.
+Hoe dan ook, kan ik nog ergens mee helpen?;Como e também, posso me ajudar?
+Ah, vous êtes là, Maître [PLAYER_NAME]. Je suis ravi que vous m'ayez expérimenter. Prenez cette lampe et faites votre vœu.;Ah, vous êtes là, Maître [PLAYER_NAME]. Eu sou o ravi que você pode experimentar. Coloque esta lâmpada e faça seu vídeo.
+Keep at it. Let me know if you have any questions.;Continue assim. Deixe-me saber se você tiver alguma dúvida.
+Kijk eens rond in het kamp, ​​er zouden ergens lege vaten moeten liggen.;Kijk eens rond in het kamp, ​​​​er zouden ergens lege vaten moeten liggen.
+Zal doen, bedankt.;Zal doen, bedankt.
+Ik heb een enigszins vreemde vraag.;Eu tenho um enigszins vreemde vraag.
+Hoe gebruik ik het?;Como eu usei isso?
+Jouw zoektocht.;Você está bem.
+Impling-potten.;Impling-potten.
+Lampen.;Lampen.
+Je moet ook op de druk letten, als deze te hoog wordt zul je ook opnieuw moeten beginnen. Er zijn kleppen om de druk en de teerstroom te regelen. Deze zullen ook de hitte van de ketel beïnvloeden.;Eu também preciso de uma boa carta, e esta palavra será também aberta para começar. Er zijn kleppen om de druk e de teerstroom te regelen. Estes zullen também são atingidos pelo ketel.
+Goededag. Ik hoopte dat je me met iets kon helpen. Ik heb een boek waarin de gefractioneerde destillatie van koolteer wordt genoemd. Ik weet echter niet hoe ik dat moet doen.;Bom dia. Eu sei que vou me ajudar com isso. Eu tenho um livro sobre a destilação do código-fonte do código genético. Eu sei que não vou fazer isso.
+Ik kan beter het afweermiddel gaan halen.;Eu posso melhor que o meio de comunicação seja válido.
+Je hebt ook voldoende steenkool nodig om het nog warm te houden.;Eu também hebt voldoende steenkool nodig om het nog warm te houden.
+Heeft u een zeef die ik kan gebruiken?;Você já ouviu falar que eu posso usá-lo?
+Ah, dan wil je de still wel gebruiken. Het is net buiten.;Ah, e você ainda será bem usado. Ele é líquido.
+Weet jij hoe ik een mengsel van ansjovisolie en bloemen kan distilleren, zodat het een laagje vormt aan de binnenkant van een vlinderpotje?;Quer saber como posso destilar uma mistura de bebidas alcoólicas e destilar, então uma lavagem foi feita para o depósito de uma garrafa de água?
+Hoe maak je ansjovisolie?;Como você pode responder?
+Het is eigenlijk heel simpel. Om het te laten werken, moet je de warmte nog heel hoog zetten. Als het echter te warm wordt, zal het doorbranden en moet u opnieuw beginnen.;É um calcanhar simples e próprio. Para que você possa trabalhar mais tarde, você precisa se aquecer no calcanhar. Se ainda houver palavras calorosas, você deve abrir a porta e começar abertamente.
+Ik begrijp het, bedankt voor de informatie.;Eu begrijp het, obrigado por informações.
+Waar wil je over praten?;O que você quer comer?
+Is er nog iets dat je wilt vragen?;É nog iets que je wilt vragen?
+Here, I cooked this for you.;Aqui, eu cozinhei isso para você.
+Je hebt een konijn voor me gekookt! Heel erg bedankt. Je vindt het toch niet erg om naar dingen te kijken terwijl ik er vijf neem om het op te eten?;Eu tenho uma conexão para mim! Calcanhar erg bedankt. Eu não sei o que fazer para que você possa ter certeza de que é o melhor para você?
+Bedankt Seren, misschien is nog niet alles verloren.;Bedankt Seren, misschien é nog niet alles verloren.
+Heer Iorwerth, het is klaar.;Heer Iorwerth, ele é claro.
+Dit is geen strijd om land of titel. Het is een oorlog om het leven, al het leven. Als Iorwerth en Lathas erin slagen Zamorak op te roepen, sterven we allemaal.;Não é nada difícil para a terra do título. Ele é um oorlog om het leven, al het leven. Als Iorwerth en Lathas erin slagen Zamorak op te roepen, sterven we allemaal.
+Goed goed... Een van mijn verkenners meldde dat ze zijn tent in een vlammenbal hadden gezien. Je hebt het goed gedaan.;Foi, foi... Um dos meus proprietários fundiu essa tenda em um vilarejo. Ele foi gedaan.
+Ik ben Arianwyn, leider van het Elfenverzet. We houden je in de gaten sinds je in Tirannwn aankwam. We weten dat jij het was die koning Tyras vermoordde.;Ik ben Arianwyn, leider van het Elfenverzet. Nós houden je in de gaten sinds je em Tirannwn aankwam. Nós sabíamos que ele estava morrendo de Tyras vermoordde.
+De kans op verlossing na alles wat je hebt gedaan? Als je dit niet leuk vindt, overweeg dan dit...;O que você pode fazer para revelar a todos o que você está fazendo? Als je dit niet leuk vindt, overweeg dan dit...
+Breng uw boodschap over, doe normaal. We zien elkaar snel weer.;Leve seu boodschap para cá, normal. Nós zien elkaar snel weer.
+I had no idea! Waarom zou de koning dit doen?;Eu não fazia ideia! O que você sabe sobre isso?
+Ja, dat ben ik?;Sim, isso é bom?
+Als blijk van mijn eigen dank geef ik je toegang tot de pas door Arandar. Het begin van de route vind je in het uiterste noordoosten van het bos.;Se o meu próprio céu úmido estiver azul, eu vou passar por Arandar. Ele começou a rota e foi o primeiro noordoosten do caminho.
+Ik heb een paar ideeën, maar het is nu niet het moment om ze te bespreken. Voorlopig moet je zoals normaal naar King Lathas gaan. Geef hem de boodschap en doe alsof er niets ongewoons is gebeurd.;Eu tenho uma ideia, mas não há nenhum momento para ser revelado. Voorlopig deve ser normal para King Lathas gaan. Geef hem de boodschap e doe também de niets ongewoons é gebeurd.
+Er is veel uit te leggen en weinig tijd. U brengt een boodschap van Lord Iorwerth over, nietwaar?;É muito legal e há muito tempo. Você trouxe um boodschap de Lord Iorwerth, não é?
+Are you the human by the name [PLAYER_NAME]?;Você é o humano chamado [PLAYER_NAME]?
+Wil je dat ik je help? Oké, wat levert het mij op?;Será que eu posso ajudar? Ok, o que ele fez para mim?
+Nou, je lijkt al het andere te weten, dus ik zal niet liegen. Ja.;Agora, eu gosto de todos os outros, então eu não sei. Sim.
+Mijn heer, Tyras is dood!;Mijn heer, Tyras é um idiota!
+Mooi, wij begrijpen elkaar goed. Geef het nu hier in en ontdek de waarheid over wie uw echte werkgever is.;Mooi, wij begrijpen elkaar foi. Bem, agora estamos em um local de trabalho sobre qual é o seu trabalho.
+Als je klaar bent, keer dan terug naar Tirannwn en ga op zoek naar Islwyn en Eluned. Je zult ze tegenkomen in het Isafdar-woud. Ze zullen je naar mij brengen.;Se eu estiver bem dobrado, keer dan terug naar Tirannwn e ga op zoek naar Islwyn e Eluned. Je zult ze tegenkomen in het Isafdar-woud. Ze zullen je naar mij brengen.
+Hoe dan ook, ik stuur je een bericht wanneer ik je diensten weer nodig heb. Oh, en ik denk dat je je beloning wel wilt hebben.;Como e também, eu sou uma pessoa bonita e quero que eu seja diferente. Oh, e eu denk que eu estou pertencendo bem, hebben.
+Dit is inderdaad groot nieuws! Vergeef me als ik hier een beetje ongerust over ben, maar ik neem aan dat je wel bewijs hebt?;Isso é inderdaad groot nieuws! Deixe-me dizer que estou aqui com uma grande dor de cabeça por Ben, mas eu não sei se você está bem com isso?
+Betekent dit dat we de waarheid over de pest kunnen onthullen?;Você sabe que estávamos preocupados com a peste que conhecemos?
+Ja, ik heb een brief gestuurd door Lord Iorwerth.;Sim, eu fui um breve gesto para Lord Iorwerth.
+Ja... Goed... Dit zal goed werken. Goed gedaan, je hebt uitstekend werk geleverd.;Ja... Goed... Dit zal go werken. Bem, eu sei que o trabalho foi bem-sucedido.
+Nog niet, ben ik bang. Zelfs nu mijn broer weg is, blijft de Heer van het Duister een bedreiging. Voorlopig moet de pest blijven bestaan.;Não, não, ben ik bang. Zelfs nu mijn broer weg is, blijft de Heer van het Duister een bedreiging. Voorlopig moet de pest blijven bestaan.
+Welcome to my little chapel. Can I help you?;Bem-vindo à minha pequena capela. Posso ajudar?
+I wish I could. Just to see my wife, but if we don't stop the evil here, it will be too late!;Eu gostaria de poder. Só para ver minha esposa, mas se não pararmos o mal aqui, será tarde demais!
+Kwaadaardig?;Kwaadaardig?
+Dit is geen goede plek om te zijn. Ga je voorbereiden op de komende duisternis.;Isso não é bom para você. Você está pensando em comer duas vezes.
+Er is geen grote held meer om de krachten te bestrijden waarmee we nu worden geconfronteerd... Ga, vertrek, bereid je voor op de duisternis. Terwijl je nog tijd hebt!;Não há muito o que fazer para que você possa ser confrontado... Ga, vertrek, bereid je voor op de duisternis. Terwijl je nog tijd hebt!
+Je kunt niet naar binnen! Dit is nu het paviljoen van generaal Hining. Sinds de dood van de koning heeft hij ons bij elkaar gehouden.;Você não sabe nada! Este não é o pavilhão do general Hining. Ele é um dos doods de sua família, que está em sua casa.
+You're not going home to Ardougne then?;Você não vai para casa em Ardonha então?
+Soon Zamorak's fury will be released upon us.;Em breve a fúria de Zamorak será lançada sobre nós.
+These are dark times, I must prepare for the coming darkness.;Estes são tempos sombrios, devo me preparar para a escuridão que se aproxima.
+Please tell me how many animals there are.;Por favor, diga-me quantos animais existem.
+Zeker.;Zeker.
+Before I help you, can you do something for me?;Antes de eu ajudá-lo, você pode fazer algo por mim?
+I need to know how many animals we have now.;Preciso saber quantos animais temos agora.
+Well, I'm on a treasure trail...;Bem, estou na trilha do tesouro...
+Oh! Good, then you can answer this question for me!;Oh! Bom, então você pode responder essa pergunta para mim!
+Is there a reason for you being here?;Existe uma razão para você estar aqui?
+Â¡Todo listo! El barco ahora estÃ¡ atracado aquÃ­ en el Pandemonium, pero hay malas noticias, amigo. Debido a que el barco se perdiÃ³ en el mar, el mago del puerto no habrÃ¡ podido recuperar ningÃºn pescado, salvamento, cajas o piezas de recompensa.;¡Todo listo! O barco agora está atracado aqui no Pandemonium, mas há más notícias, amigo. Porque o barco se perdeu no mar, o mago do porto não conseguiu recuperar nada pescado, salvamento, caixas ou peças de recompensa.
+Right, you take it easy. I'll get your bandages sorted as quick as possible.;Certo, vá com calma. Vou organizar suas bandagens o mais rápido possível.
+Can you? What is your medical background?;Você pode? Qual é a sua formação médica?
+Well, those bandages aren't going to last forever, and unfortunately I don't think that book of yours can help... not unless you use the pages as replacement bandages.;Bem, essas bandagens não vão durar para sempre e, infelizmente, não acho que esse seu livro possa ajudar... a menos que você use as páginas como bandagens substitutas.
+Leave you alone? Look at you! You've been badly hurt and need help.;Deixar você em paz? Olhe para você! Você foi gravemente ferido e precisa de ajuda.
+Well, I read a book once...;Bem, eu li um livro uma vez...
+Floopa, I understand that you don't trust me, but I promise I'm only here to help.;Floopa, entendo que você não confia em mim, mas prometo que estou aqui apenas para ajudar.
+The Great Conch, to the south east. I guess I'll join you on your boat.;A Grande Concha, a sudeste. Acho que vou acompanhá-lo no seu barco.
+Help? No, I'll be fine now. I can sort the rest out myself.;Ajuda? Não, vou ficar bem agora. Eu posso resolver o resto sozinho.
+Now look, there is no way you're going to be able to fix this on your own. Either you let me help, or you die here. Is that what you want?;Agora veja, não há como você consertar isso sozinho. Ou você me deixa ajudar ou você morre aqui. É isso que você quer?
+You... helped me?;Você... me ajudou?
+Now, those bandages should do the job for the time being, but we need to get you some proper help.;Agora, essas bandagens devem servir por enquanto, mas precisamos de ajuda adequada.
+Thank you, [PLAYER_NAME].;Obrigado, [PLAYER_NAME].
+No... No help... I'll fix it myself...;Não... Sem ajuda... Eu mesmo vou consertar...
+I'm sorry for not trusting you, it's just... Well, I guess it doesn't matter now. I'm Floopa. Thank you for saving my life.;Sinto muito por não confiar em você, é só... Bem, acho que isso não importa agora. Eu sou Floopa. Obrigado por salvar minha vida.
+You don't understand!;Você não entende!
+It's not that...;Não é isso...
+Alright, fine!;Tudo bem, tudo bem!
+I'd have to go home...;eu teria que ir para casa...
+Of course! Did you expect me to just leave you to die? I'm not a monster!;Claro! Você esperava que eu simplesmente deixasse você morrer? Eu não sou um monstro!
+Home? What's bad about home?;Lar? O que há de ruim em casa?
+Thank you, Floopa. So, where is home?;Obrigado, Floopa. Então, onde é a casa?
+Bandages... I was trying to make... bandages. Seaweed and a... a palm leaf.;Bandagens... eu estava tentando fazer... bandagens. Alga marinha e... uma folha de palmeira.
+Start the Troubled Tortugans quest?;Iniciar a missão Troubled Tortugans?
+Hello? Are you okay? That's a pretty nasty looking injury you've got there...;Olá? Você está bem? É uma lesão muito feia que você tem aí...
+Then what can I do to help?;Então o que posso fazer para ajudar?
+Okay, I've got those bandages. Let's get you sorted out...;Ok, eu tenho essas bandagens. Vamos resolver você...
+Don't mention it. I'm [PLAYER_NAME]. Pleased to meet you, Floopa.;Não mencione isso. Meu nome é [PLAYER_NAME]. Prazer em conhecê-lo, Floopa.
+Failed at what?;Falhou em quê?
+Please, Floopa, let me take you home. We can use my boat.;Por favor, Floopa, deixe-me levá-lo para casa. Podemos usar meu barco.
+Nothing, but... if I go there, then I'll have failed.;Nada, mas... se eu for lá, terei falhado.
+I'm... I'm fine... Please... leave me alone...;Estou... estou bem... Por favor... me deixe em paz...
+I'm sorry, Korel. I didn't want to come back, but...;Sinto muito, Korel. Eu não queria voltar, mas...
+Very well. I will see that it is done. Now, if you'd like to check in on Floopa, you'll find her at Elder Raley's home. It's the first one on the right as you head into town.;Muito bem. Vou providenciar para que isso seja feito. Agora, se quiser dar uma olhada em Floopa, você a encontrará na casa do Élder Raley. É o primeiro à direita quando você entra na cidade.
+Most of the elders will handle their own repair work, so it's just the more senior ones who'll need your help. I've made a list of the work that needs to be done.;A maioria dos idosos cuidará de seus próprios reparos, então são apenas os mais idosos que precisarão de sua ajuda. Fiz uma lista do trabalho que precisa ser feito.
+Nonsense! It would have been foolish to try and deal with this yourself! Now, get yourself over to Elder Raley's at once!;Bobagem! Teria sido tolice tentar lidar com isso sozinho! Agora vá até a casa do Élder Raley imediatamente!
+Do you think she'll be okay?;Você acha que ela vai ficar bem?
+You'll need a mix of jatoba logs, sea shells and our very own scutes. You'll find some jatoba trees growing to the west of town and the shells are easy enough to find on the various beaches.;Você vai precisar de uma mistura de toras de jatobá, conchas do mar e nossas próprias escamas. Você encontrará alguns jatobás crescendo a oeste da cidade e as conchas são fáceis de encontrar nas diversas praias.
+You can say that again! It looks like you've been in a fight with the Sharhai itself!;Você pode dizer isso de novo! Parece que você brigou com o próprio Sharhai!
+This is going to hurt, isn't it?;Isso vai doer, não é?
+I suppose it is within my right to invite you to remain here for a short time as what we call a tourist. It will allow you to stay on the island while Floopa recovers.;Suponho que é meu direito convidá-lo a permanecer aqui por um curto período de tempo como o que chamamos de turista. Isso permitirá que você fique na ilha enquanto Floopa se recupera.
+I see. Well, thank you for helping her, human. Now, I've no doubt you have plenty to be doing. You should be on your way.;Eu vejo. Bem, obrigado por ajudá-la, humano. Agora, não tenho dúvidas de que você tem muito o que fazer. Você deveria estar a caminho.
+It's not a problem. What repairs need doing?;Não é um problema. Que reparos precisam ser feitos?
+... really no fuss at all! Anyway, has that potion done anything for you yet?;... realmente sem problemas! Anyway, has that potion done anything for you yet?
+You'll have to forgive me, but I'm a bit all over the place at the moment. We're still dealing with the aftermath of another blasted gryphon attack!;Você terá que me perdoar, mas estou um pouco confuso no momento. Ainda estamos lidando com as consequências de outro maldito ataque de grifo!
+It's good to meet you. I'm [PLAYER_NAME].;Prazer em conhecê-lo. Meu nome é [PLAYER_NAME].
+What sort of materials will I need?;Que tipo de materiais vou precisar?
+There are exceptions.;Existem exceções.
+I wouldn't say no to a bit of extra help, though Floopa is right, [PLAYER_NAME]. Do not feel like you need to do any more.;Eu não recusaria uma ajuda extra, embora Floopa esteja certo, [PLAYER_NAME]. Não sinta que precisa fazer mais nada.
+Come now, Floopa. You should be more welcoming to the human.;Venha agora, Floopa. Você deveria ser mais acolhedor com o humano.
+Great! I'll get right to it.;Ótimo! Vou direto ao assunto.
+No. She seemed reluctant to tell me much at all, to be honest.;Não. Ela parecia relutante em me contar muita coisa, para ser honesta.
+A few cuts and scrapes, but nothing serious. It did manage to make quite the mess around town though. At some point I'll need to help some of the more senior elders with repairs, but one thing at a time.;Alguns cortes e arranhões, mas nada sério. Mas conseguiu causar uma grande bagunça na cidade. Em algum momento precisarei ajudar alguns dos mais velhos com reparos, mas uma coisa de cada vez.
+Oh, thank you, but you really don't need...;Ah, obrigado, mas você realmente não precisa...
+That's not surprising, but it's good that she did. She would have been unlikely to survive that injury on her own.;Isso não é surpreendente, mas é bom que ela tenha feito isso. Seria improvável que ela sobrevivesse a esse ferimento sozinha.
+Goodness, Floopa, look at you!;Meu Deus, Floopa, olhe para você!
+Yes, but... [PLAYER_NAME], what are you doing here?;Sim, mas... [PLAYER_NAME], o que você está fazendo aqui?
+That's right, though she wasn't overly keen on coming.;Isso mesmo, embora ela não estivesse muito interessada em vir.
+As for the scutes, they get shed quite regularly, so it shouldn't be too hard to find a few dotted around the island.;Quanto aos escudos, eles são eliminados com bastante regularidade, por isso não deve ser muito difícil encontrar alguns espalhados pela ilha.
+Actually, would it be possible to stay? I'd be keen to make sure she's doing okay.;Na verdade, seria possível ficar? Eu gostaria de ter certeza de que ela está bem.
+You've helped enough, [PLAYER_NAME]. You don't need to trouble yourself further.;Você já ajudou o suficiente, [PLAYER_NAME]. Você não precisa se preocupar mais.
+An attack? Was anyone hurt?;Um ataque? Alguém ficou ferido?
+Yes, it will probably sting a bit...;Sim, provavelmente vai doer um pouco...
+Don't take this the wrong way, human, but as you may have worked out from Floopa, we tortugans aren't always the biggest fans of company. We generally don't allow humans on the Conch.;Não me leve a mal, humano, mas como você deve ter percebido em Floopa, nós, os tortugans, nem sempre somos os maiores fãs de companhia. Geralmente não permitimos humanos na Concha.
+Very good! Very good! A positive first step indeed! We'll give it a bit longer to make sure it properly kicks in, and then we can start on cleaning up that wound.;Muito bom! Muito bom! Um primeiro passo positivo, de fato! Vamos esperar um pouco mais para ter certeza de que faz efeito corretamente e então podemos começar a limpar o ferimento.
+Well, your friend on the docks gave me permission to stick around until you were feeling better.;Bem, seu amigo nas docas me deu permissão para ficar por aqui até você se sentir melhor.
+Generally?;Geralmente?
+Could I be an exception?;Eu poderia ser uma exceção?
+Just come back and let me know if you get stuck with anything. Now, Floopa, I think that potion will have fully done its work now, so let's get to work on that wound.;Apenas volte e me avise se você ficar preso em alguma coisa. Agora, Floopa, acho que aquela poção já terá feito seu trabalho totalmente, então vamos trabalhar nesse ferimento.
+Of course, you're right. I'm sorry, [PLAYER_NAME]. I didn't mean to be rude. This is all just... a lot.;Claro, você está certo. Sinto muito, [PLAYER_NAME]. Eu não queria ser rude. Isso tudo é apenas... muito.
+She will survive. With Elder Raley looking after her, I have no doubt of that. However, it is a nasty wound, and much of the damage will be permanent. Did she say how it happened?;Ela sobreviverá. Com o Élder Raley cuidando dela, não tenho dúvidas disso. No entanto, é uma ferida feia e muitos dos danos serão permanentes. Ela disse como aconteceu?
+Ah, human. I take it we have you to thank for getting Floopa to us?;Ah, humano. Presumo que devemos agradecer a você por trazer Floopa até nós.
+However, you should be aware that the only way to permanently remain on the Conch is to undergo our Trial by Water and become an honorary tortugan.;No entanto, você deve estar ciente de que a única maneira de permanecer permanentemente na Concha é passar pelo nosso Teste pela Água e se tornar um tortugan honorário.
+If you need help with repairs, maybe I could lend a hand? That way you can focus on looking after Floopa.;Se precisar de ajuda com reparos, talvez eu possa ajudar? Dessa forma você pode se concentrar em cuidar de Floopa.
+Interesting... Well, let's do this tourist thing for now and we can worry about what happens after that once Floopa is doing better.;Interessante... Bem, vamos fazer essa coisa de turista por enquanto e podemos nos preocupar com o que acontecerá depois disso, quando Floopa estiver melhor.
+I'll head right over.;Eu vou direto para lá.
+Good news! The repairs are all sorted.;Boas notícias! Os reparos estão todos resolvidos.
+You should get some rest. We will sort you out with a place to stay here for as long as you need, and I will be on hand to help you however I can.;Você deveria descansar um pouco. Nós escolheremos um lugar para você ficar aqui pelo tempo que precisar e estarei à disposição para ajudá-lo no que puder.
+Very good!;Muito bom!
+Very good! You really are too kind! It seemed like the injury prevented the gryphon from flying, so you hopefully won't have much trouble picking up its trail. I suggest you start in the middle of town.;Muito bom! Você realmente é muito gentil! Parecia que o ferimento impediu o grifo de voar, então esperamos que você não tenha muita dificuldade em encontrar seu rastro. Eu sugiro que você comece no meio da cidade.
+That's fantastic!;Isso é fantástico!
+Are gryphons a common problem for your people?;Os grifos são um problema comum para o seu povo?
+Will do. I'm sure I'll have it dealt with in no time!;Vai fazer. Tenho certeza que resolverei isso em pouco tempo!
+For Floopa? No. Rest is what she now needs. However, and please do say no if it's too much to ask, you might be able to help us out some more with that gryphon problem.;Para Floopa? Não. Descanso é o que ela precisa agora. No entanto, e por favor, diga não se for pedir muito, você poderá nos ajudar um pouco mais com o problema do grifo.
+I'm sure I can track it down.;Tenho certeza que posso rastreá-lo.
+Floopa, this is a highly traumatic experience you've gone through, and I won't lie to you, it will change your life forever. But Floopa, you are not, and never will be, useless.;Floopa, você passou por uma experiência altamente traumática e não vou mentir para você, isso mudará sua vida para sempre. Mas Floopa, você não é e nunca será inútil.
+I hope you're right...;Espero que você esteja certo...
+Is it? Even if I recover, my flipper... it's gone. Without it I'm... useless...;É isso? Mesmo que eu me recupere, minha nadadeira... desapareceu. Sem isso eu sou... inútil...
+Korel was planning to deal with it himself, but other matters have required his attention.;Korel estava planejando lidar com isso sozinho, mas outros assuntos exigiram sua atenção.
+Why are humans generally not allowed here?;Por que os humanos geralmente não são permitidos aqui?
+I think that's everything. I should head back to Raley and Floopa.;Eu acho que isso é tudo. Eu deveria voltar para Raley e Floopa.
+Wonderful! And, you'll be pleased to know that I was successful in properly tidying up Floopa's wound. I'll need her to stay here for a while to make sure it properly heals, but I expect a full recovery!;Maravilhoso! E você ficará satisfeito em saber que consegui limpar adequadamente o ferimento de Floopa. Vou precisar que ela fique aqui por um tempo para ter certeza de que vai sarar bem, mas espero uma recuperação completa!
+I'm happy to help as well. Is there anything I can do?;Fico feliz em ajudar também. Há algo que eu possa fazer?
+Unfortunately, while we were able to injure it, the gryphon managed to escape before we could finish it off. One that aggressive can't be allowed to return.;Infelizmente, embora tenhamos conseguido feri-lo, o grifo conseguiu escapar antes que pudéssemos acabar com ele. Alguém tão agressivo não pode retornar.
+I'd better get to it.;É melhor eu ir direto ao assunto.
+Hello, human. Can I help you?;Olá, humano. Posso ajudar?
+Okay, I'll grab one of those shields and set off right away!;Ok, vou pegar um desses escudos e partir imediatamente!
+Â¿Entrar a la cueva?;¿Entrar na cueva?
+This doesn't make sense! They've never attacked the Pearl before!;Isso não faz sentido! Eles nunca atacaram a Pérola antes!
+You'll find the Pearl south east of the Conch. It shouldn't take you long to get there, but make sure you don't go underprepared! It sounds like this gryphon is one of the larger ones.;Você encontrará a Pérola a sudeste da Concha. Não deve demorar muito para chegar lá, mas tome cuidado para não ir despreparado! Parece que este grifo é um dos maiores.
+We use them alongside our spears, but for a being of your size, wearing them on your back would work best.;Nós os usamos junto com nossas lanças, mas para um ser do seu tamanho, usá-los nas costas funcionaria melhor.
+... holding it at bay, but they need support quick!;... mantendo-o sob controle, mas eles precisam de apoio rápido!
+Ah, now that is something I can sort for you. I started making these at the suggestion of a human tourist. They're fashioned in the style of our own shells.;Ah, agora isso é algo que posso resolver para você. Comecei a fazer isso por sugestão de um turista humano. Eles são feitos no estilo de nossas próprias conchas.
+Yes, make sure you speak to Elder Blunn outside first. He can sort you out with a suitable shield.;Sim, certifique-se de falar primeiro com o Élder Blunn do lado de fora. Ele pode resolver você com um escudo adequado.
+I'm heading over right away. The eggs must be protected!;Estou indo imediatamente. Os ovos devem ser protegidos!
+Precisely! Normally I would charge for one of these, but you claim the situation is urgent, and I trust you are not lying. As such, I will grant you one for free.;Precisamente! Normalmente eu cobraria por um desses, mas você afirma que a situação é urgente e espero que não esteja mentindo. Como tal, vou conceder-lhe um gratuitamente.
+I need a shield to protect me against one of the larger gryphons. I'm afraid it's quite urgent.;Preciso de um escudo para me proteger contra um dos grifos maiores. Receio que seja bastante urgente.
+Join me, human! Sail to the Little Pearl as fast as you can and help protect our eggs!;Junte-se a mim, humano! Navegue até a Pequena Pérola o mais rápido que puder e ajude a proteger nossos ovos!
+Do not lose it, human, for I won't be able to give you another for free. Any more will come at a cost.;Não perca, humano, pois não poderei lhe dar outro de graça. Mais terá um custo.
+Another gryphon attack, but this time on the Little Pearl!;Outro ataque do grifo, mas desta vez na Pequena Pérola!
+I will meet you there, human.;Eu te encontrarei lá, humano.
+Â¿QuÃ© puedo hacer?;O que posso fazer?
+Like my very own shell?;Como minha própria concha?
+As good as can be expected. We lost a fair few, but it could have been much worse.;Tão bom quanto se pode esperar. Perdemos alguns, mas poderia ter sido muito pior.
+Very good work, human!;Muito bom trabalho, humano!
+Alright. I'll head back right away.;Tudo bem. Voltarei imediatamente.
+Even without a gryphon involved, not all eggs make it. It is an unfortunate reality of life. You need not apologise.;Mesmo sem um grifo envolvido, nem todos os ovos sobrevivem. É uma triste realidade da vida. Você não precisa se desculpar.
+About that... It may be nothing, but when I arrived here, I saw a ship with red sails sailing away from the island. You don't think it's connected, do you?;Sobre isso... Pode não ser nada, mas quando cheguei aqui vi um navio com velas vermelhas navegando para longe da ilha. Você não acha que está conectado, não é?
+I'm sorry about the ones that were lost.;Sinto muito pelos que foram perdidos.
+A ship with red sails? Curious... and concerning... Hmm...;Um navio com velas vermelhas? Curioso... e preocupante... Hmm...
+Are the eggs okay?;Os ovos estão bem?
+What's all that about?;O que é isso?
+Now, I need to get to work on finding out how this happened. To our knowledge, no gryphon has ever travelled this far from the Conch before.;Agora preciso começar a trabalhar para descobrir como isso aconteceu. Até onde sabemos, nenhum grifo jamais viajou tão longe da Concha antes.
+You should return to Raley and Floopa on the Conch, human. Tell them what you have told me. See if they can make any sense of it.;Você deveria retornar para Raley e Floopa na Concha, humano. Conte a eles o que você me contou. Veja se eles conseguem entender isso.
+Ik heb echt een rauwe haring nodig.;Ik heb echt een rauwe haring nodig.
+Red sails? Surely not...;Velas vermelhas? Certamente não...
+What is it, Floopa?;O que é isso, Floopa?
+My captain... My crew... They betrayed me. Stabbed me with my own spear and abandoned me to the waves...;Meu capitão... Minha tripulação... Eles me traíram. Me apunhalou com minha própria lança e me abandonou às ondas...
+Fantastic news!;Notícias fantásticas!
+Possibly, but it's hard to say for sure. There was a ship near the island. It had red sails.;Possivelmente, mas é difícil dizer com certeza. Havia um navio perto da ilha. Tinha velas vermelhas.
+Floopa... I'm so sorry...;Floopa... me desculpe...
+You're back, [PLAYER_NAME]! What news from the Pearl?;Você está de volta, [PLAYER_NAME]! Quais notícias do Pérola?
+More than that! You need more rest as well. [PLAYER_NAME], we should give her the time she needs. Return to us later once she has rested.;Mais do que isso! Você também precisa de mais descanso. [PLAYER_NAME], deveríamos dar a ela o tempo que ela precisa. Volte para nós mais tarde, quando ela tiver descansado.
+All done! The boat is now docked here at Port Roberts.;Tudo pronto! O barco está agora atracado aqui em Port Roberts.
+No, no, no! Thank you, [PLAYER_NAME]! We will talk again soon.;Não, não, não! Obrigado, [PLAYER_NAME]! Conversaremos novamente em breve.
+Did you see anything that might explain why the gryphon attacked?;Você viu alguma coisa que possa explicar por que o grifo atacou?
+This ship? Does it have something to do with your old crew?;Este navio? Isso tem algo a ver com sua antiga equipe?
+The gryphon has been dealt with. The eggs are safe.;O grifo foi resolvido. Os ovos estão seguros.
+I think so... but I need time to think... I need to work out what it all means...;Acho que sim... mas preciso de tempo para pensar... preciso descobrir o que tudo isso significa...
+I might just do that. Thank you.;Eu poderia simplesmente fazer isso. Obrigado.
+Verliezer zegt wat.;Verliezer zegt wat.
+Sadly no, I don't have my diving helmet with me.;Infelizmente não, não estou com meu capacete de mergulho.
+Sadly no, I don't have my backpack with me.;Infelizmente não, não estou com minha mochila comigo.
+Ah well, can't be helped.;Ah, bem, não posso evitar.
+Go Diving.;Vá mergulhar.
+So, all ready to take a dive?;Então, tudo pronto para dar um mergulho?
+Ahoy! Up for a dive today?;Olá! Quer mergulhar hoje?
+Hoe ging het?;Como você está?
+Niet zo erg.;Niet zo erg.
+Geweldig, ik breng ons terug naar binnen.;Bem, eu vou trazer-nos terug para binnen.
+Oké, tot snel Murphy!;Ok, cara, Murphy!
+Oké, laten we dan weggaan.;Oké, laten weggaan.
+Nog niet.;Não, não.
+Veel succes, ik zal het anker wegen. Klim langs de ketting om aan boord te komen.;Muito sucesso, eu zal het anker wegen. Klim langs de ketting om aan boord te komen.
+Ja, laten we gaan duiken.;Sim, mais tarde nós gaan duiken.
+Ahoi daar! Helemaal klaar voor een duik?;Ahoi, querido! Helemaal klaar para uma pessoa?
+Wilt u naar de Digsite reizen?;Você quer reizenar o Digsite?
+Op reis naar de Digsite?;Você está no Digsite?
+Hé, [PLAYER_NAME], wil je dat ik je naar de kust roei?;Ei, [PLAYER_NAME], você quer que eu esteja perto de você?
+Expedition camp.;Acampamento de expedição.
+Snel! Er steekt een bij uit mijn arm!;Snel! Er steekt een bij uit my arm!
+Get back to it as soon as you can, please!;Volte assim que puder, por favor!
+How are you getting on with rebuilding our statue, [PLAYER_NAME]?;Como você está reconstruindo nossa estátua, [PLAYER_NAME]?
+I haven't really done much yet...;Eu realmente não fiz muito ainda...
+Bem, veja... o Consórcio me encarregou de reconstruir a estátua exatamente como estava.;Bem, veja... o Consórcio me encarregou de reconstruir a estátua exatamente como estava.
+Mas a estátua em si se quebrou em um milhão de pedaços... e nós, anões, não somos bons pintores, você sabe, então também não temos nenhuma pintura dela.;Mas a estátua em si se é cortada em um milhão de pedaços... e nós, anões, não somos bons pintores, você sabe, então também não temos nenhuma pintura dela.
+Então, o que você precisava fazer?;Então, o que você precisa fazer?
+Não é uma raça muito artística, então, não é?;Não é uma raça muito artística, então, não é?
+Mas pensando bem, preciso fazer algumas tarefas. Sim, tarefas muito importantes também.;Mas pensando bem, preciso fazer algumas tarefas. Sim, tarefas muito importantes também.
+Excelente, excelente! Agora o que eu preciso é o seguinte...;Excelente, excelente! Agora o que eu preciso é o seguinte...
+E também tenho um modelo aqui, sabe, para basear minha estátua.;E também tenho um modelo aqui, sabe, para basear minha estátua.
+Hum, certo, ok.;Hum, certo, ok.
+Ah, bem, meu nome é [PLAYER_NAME]. Veldaban, da Guarda Negra, me enviou até você, sabe. Disse que talvez você precisasse de ajuda com a estátua.;Ah, bem, meu nome é [PLAYER_NAME]. Veldaban, da Guarda Negra, tenho inveja de você, sabe. Disse que talvez você precise de ajuda com o estátua.
+Com licença, você é Blasidar, o famoso escultor?;Com licença, você é Blasidar, o famoso escultor?
+Não, não foi isso que eu disse, eu disse que não somos pintores muito bons.;Não, não foi isso que eu disse, eu disse que não somos pintores muito bons.
+Eu não sou modelo!;Eu não sou modelo!
+Ah, não preciso de um escultor assistente, na verdade, posso me sair bem sozinho.;Ah, não preciso de um professor assistente, na verdade, posso sair bem sozinho.
+Eu não sou um escultor.;Eu não sou um escultor.
+Por enquanto, [PLAYER_NAME], por enquanto! Desejo-lhe boa sorte e volte logo com os itens!;Por enquanto, [PLAYER_NAME], por enquanto! Desejo-lhe boa sorte e volte logo com os itens!
+What was it you needed doing again?;O que você precisava fazer de novo?
+Salve, Homem de Ferro! O que posso fazer para vocÃª?;Salve, Homem de Ferro! O que posso fazer para você?
+Voici votre grimoire, il contient tous les sorts que vous pouvez lancer. Pour lancer un sort, vous devez avoir le niveau de magie requis et disposer de la quantité nécessaire de runes utilisées pour lancer le sort.;Voici votre grimoire, il contient tous les sorts que vous pouvez lancer. Para lançar um tipo, você deve ter o nível de magia necessário e descartar a quantidade necessária de runas utilizadas para lançar o tipo.
+Lorsque vous disposez d'un sort de combat, cliquez une fois dessus, puis sélectionnez votre cible. Une bonne cible serait un monstre dont le niveau de combat est inférieur au vôtre.;Quando você estiver disposto a um tipo de combate, clique uma vez acima e selecione seu código. Um bom cível será um monstro, pois o nível de combate é inferior ao seu vôo.
+Discutons de la façon dont mes runes agissent lorsque je les ramasse.;Discutons de la faun dont mes runes agissent lorsque je les ramasse.
+Si vous souhaitez gagner de la place dans votre inventaire, vous pouvez toujours essayer de lier le talisman à un diadème.;Se você deseja ganhar o lugar em seu inventário, você pode sempre tentar colocar o talismã em um diadema.
+J'ai vraiment besoin d'une armure en cuir.;Eu realmente preciso de uma armadura de couro.
+Pour en fabriquer un, apportez un diadème et un talisman aux ruines et utilisez le diadème sur l'autel du temple. Cela liera le talisman à votre diadème.;Para fabricar um, use um diadema e um talismã nas ruínas e use o diadema no altar do templo. Ela colocou o talismã em seu diadema.
+Vous aurez besoin de plusieurs éléments pour fabriquer des runes : de l'essence de rune et un talisman pour entrer dans les ruines du temple.;Você precisa de mais elementos para fabricar runas: a essência da runa e um talismã para entrar nas ruínas do templo.
+Essayez les rats dans le château ou, si vous vous sentez courageux, les gobelins à l'ouest qui causent des nuisances.;Ensaie os ratos no castelo ou, se você se sente corajoso, os gobelins do oeste que causam incômodos.
+Si vous disposez de la quantité de runes nécessaire et du niveau de magie requis, le sort s'illuminera, ce qui signifie que vous pourrez le lancer.;Se você tiver a quantidade de runas necessária e o nível de magia necessário, ele ficará iluminado, o que significa que você pode derramar o lanceiro.
+Comme vous êtes novice en matière de fabrication de runes, vous devriez commencer par les runes de l'air et les runes de l'esprit.;Como você é um novato na fabricação de runas, você deve começar pelas runas do ar e pelas runas do espírito.
+En cliquant sur l'autel du temple, vous imprégnerez votre essence runique des propriétés magiques de l'autel.;Ao clicar no ouro do templo, você impregnará sua essência runique das propriedades mágicas do ouro.
+Lorsque vous aurez trouvé l'autel en ruines, utilisez le talisman dessus pour être transporté dans un temple où vous pourrez fabriquer vos runes.;Quando você encontrar o ouro em ruínas, use o talismã dessus para ser transportado em um templo onde você pode fabricar suas runas.
+Pour vérifier le niveau et les runes requis pour lancer un sort, passez votre curseur de souris sur le sort.;Para verificar o nível e as runas necessárias para lançar um tipo, passe seu cursor de souris no tipo.
+Vous aurez besoin d'un talisman pour la rune que vous souhaitez créer. Vous pouvez cliquer dessus avec le bouton droit de la souris et sélectionner l'option Localiser. Cela vous indiquera l'emplacement approximatif de l'autel.;Você precisa de um talismã para a runa que você deseja criar. Você pode clicar sobre isso com o botão direito do mouse e selecionar a opção Localizador. Cela vous indiquera l'placement approximatif de l'autel.
+Pour obtenir l’essence des runes, vous devrez les rassembler d’une manière ou d’une autre. Vous devriez parler au duc de Lumbridge, il pourra peut-être vous aider. Alternativement, d’autres joueurs peuvent vous vendre l’essence.;Para obter a essência das runas, você deve montar uma maneira ou outra. Você deve conversar com o duque de Lumbridge, mas talvez você possa ajudá-lo. Alternativamente, outros jogadores podem vender a essência.
+Pour obtenir des runes, cliquez avec le bouton droit sur moi et sélectionnez « Claim » (Réclamer). Pour obtenir de l'équipement à distance, cliquez avec le bouton droit sur le tuteur de combat à distance et sélectionnez « Claim » (Réclamer).;Para obter as runas, clique no botão direito sobre mim e selecione «Reivindicar» (Reclamar). Para obter o equipamento à distância, clique com o botão direito sobre o comando de combate à distância e selecione “Reivindicar” (Reclamar).
+Où ça ?;Où ça ?
+Nemarti, le tuteur de combat à distance, et moi-même distribuons des objets toutes les 30 minutes, mais vous devez choisir entre des runes ou de l'équipement à distance.;Nemarti, o tutor de combate à distância, e muitas vezes distribui objetos por pelo menos 30 minutos, mas você deve escolher entre as runas ou o equipamento à distância.
+Comment fabriquer des runes ?;Comentário fabriquer des runes ?
+S'il vous plaît, monsieur, pouvez-vous m'aider.;S'il vous plaît, monsieur, pouvez-vous m'aider.
+Parlez-moi du combat magique, s'il vous plaît.;Parlez-moi du combat magice, s'il vous plaît.
+Dooooom !;Doooom!
+Bien sûr, je serai ravi d'aider une personne dans le besoin.;Claro, eu serei ravi para ajudar uma pessoa em seu pedido.
+Merci so much, sir.;Muito obrigado, senhor.
+Va te trouver un boulot !;Você vai encontrar um boulot!
+Don't I get some sort of quest hint or something now?;Não recebo algum tipo de dica de missão ou algo assim agora?
+De rien.;De rien.
+Hé, merci beaucoup !;Olá, merci beaucoup!
+J'ai vraiment besoin d'un morceau de minerai de fer.;Eu realmente preciso de um pedaço de mineral de ferro.
+Désolé, je n'en ai pas.;Désolé, je n'en ai pas.
+Bon, voilà.;Bom, voilá.
+Épargnez-vous de la monnaie, patron ?;Épargnez-vous de la monnaie, patrono?
+Mijn mantels en vexilla zijn voor leden van clans.;Meus mantos e vexilla zijn para os líderes dos clãs.
+Which would you like to fill?;Qual você gostaria de preencher?
+Forestry kit.;Conjunto florestal.
+Log basket.;Cesta de toras.
+Sluit je aan bij Dutch Mayhem.;Sluit je aan bij Dutch Mayhem.
+Ik Ben Zout invites you to join his clan.;Ik Ben Zout convida você para se juntar ao seu clã.
+Bem, boas notÃ­cias, pois eu sou Sedridor! Agora, entregue-o e deixe-me dar uma boa olhada, hein?;Bem, boas notícias, pois eu sou Sedridor! Agora, entregue-o e deixe-me dar uma boa olhada, hein?
+Hmm... Bem, eu admiro sua cautela, aventureiro. Talvez eu possa provar meu valor? Usarei meus poderes mentais para descobrir...;Hmm... Bem, eu admiro sua cautela, aventureiro. Talvez eu possa provar meu valor? Usarei meus poderes mentais para descobrir...
+Se foi a primeira torre, suponho que nÃ£o existe mais? O que aconteceu?;Se foi a primeira torre, suponho que não existe mais? O que aconteceu?
+Eles falharam, mas em retaliaÃ§Ã£o, queimaram toda a torre. Anos de trabalho foram destruÃ­dos.;Eles falharam, mas em retaliação, queimaram toda a torre. Anos de trabalho foram destruídos.
+Bem, quando combinamos a minha prÃ³pria investigaÃ§Ã£o com esta Ãºltima descoberta, acho que pensamos...;Bem, quando combinamos a minha própria investigação com esta última descoberta, acho que pensei...
+Primeira torre? Esqueceu minha essÃªncia? O que vocÃª estÃ¡ falando?;Primeira torre? Esqueceu minha essência? O que você está falando?
+VocÃª tem razÃ£o! Como vocÃª sabia disso?;Você tem razão! Como você sabia disso?
+Durante anos, a torre foi um centro de pesquisas mÃ¡gicas. Bruxos de todas as raÃ§as e religiÃµes foram bem-vindos em nossa ordem.;Durante anos, a torre foi um centro de pesquisas mágicas. Bruxos de todas as raças e religiões foram bem-vindos em nossa ordem.
+Ã‰ por isso que passo meu tempo aqui, na verdade. Esta cave Ã© tudo o que resta da antiga torre e creio que aqui ainda hÃ¡ alguns segredos por descobrir.;É por isso que passo meu tempo aqui, na verdade. Esta caverna é tudo o que resta da antiga torre e creio que aqui ainda há alguns segredos por descobrir.
+De Sedridor? Mas... certamente, ele nÃ£o pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para que ele seja enviado de forma estranha.;De Sedridor? Mas... certamente, ele não pode ter? Por favor, deixe-me ficar com ele. Deve ser extremamente importante para que ele seja enviado de forma estranha.
+Claro. A primeira Torre dos Feiticeiros foi construÃ­da ao mesmo tempo que a Ordem dos Feiticeiros foi fundada. Foi no inÃ­cio da Quinta Era, quando os segredos da criaÃ§Ã£o de runas foram redescobertos.;Claro. A primeira Torre dos Feiticeiros foi construída ao mesmo tempo que a Ordem dos Feiticeiros foi fundada. Foi no início da Quinta Era, quando os segredos da criação de runas foram redescobertos.
+Precisamente. A essÃªncia rÃºnica Ã© o material usado para fazer runas, mas Ã© extremamente raro. Essa essÃªncia minha era o Ãºnico lugar que nossa ordem conhecia.;Precisamente. A essência rúnica é o material usado para fazer runas, mas é extremamente rara. Essa essência minha era o único lugar que nossa ordem conhecia.
+A redescoberta da criaÃ§Ã£o de runas teve um impacto tÃ£o grande no mundo que marcou o inÃ­cio da Quinta Era. TambÃ©m foi descoberto no nascimento da nossa ordem e na construÃ§Ã£o da primeira Torre dos Feiticeiros.;A redescoberta da criação de runas teve um impacto tão grande no mundo que marcou o início da Quinta Era. Também foi descoberto no nascimento da nossa ordem e na construção da primeira Torre dos Feiticeiros.
+Minha gratidÃ£o a vocÃª aventureiro por me trazer essas notas de pesquisa. GraÃ§as a vocÃª, acho que finalmente consegui.;Minha gratidão a você aventureiro por me trazer essas notas de pesquisa. Graça a você, acho que finalmente consegui.
+Que interessante... Parece que falei cedo demais. HÃ¡ mais neste talismÃ£ do que aparente. Na verdade, pode muito bem ser a Ãºltima peÃ§a do quebra-cabeÃ§a.;Que interessante... Parece que falei cedo demais. Há mais neste talismã do que parece. Na verdade, pode muito bem ser a última peça do quebra-cabeça.
+O processo de imbuir runas Ã© chamado de criaÃ§Ã£o de runas. Diz uma lenda que jÃ¡ foi uma arte comum, mas os segredos de como fazÃª-lo foram perdidos atÃ© pouco menos de alguns segundos atrÃ¡s.;O processo de imbuir runas é chamado de criação de runas. Diz uma lenda que já foi uma arte comum, mas os segredos de como o fizeram foram perdidos a pouco menos de alguns segundos atrás.
+Infelizmente, essa abertura foi o que levou ao desastre. Os magos que serviram Zamorak, o deus maligno do caos, tentaram reivindicar nossas descobertas mÃ¡gicas em seu nome.;Infelizmente, essa abertura foi o que levou ao desastre. Os magos que serviram Zamorak, o deus maligno do caos, pretendiam reivindicar nossas descobertas mágicas em seu nome.
+EntÃ£o agora que eu provei meu valor para vocÃª, por que vocÃª nÃ£o entrega esse talismÃ£, hmm?;Então agora que eu provei meu valor para você, porque você não entrega esse talismã, hmm?
+NÃ£o, nÃ£o, estou me adiantando. Os sinais sÃ£o promissores, mas nÃ£o vamos tirar conclusÃµes precipitadas ainda.;Não, não, estou me adiantando. Os sinais são promissores, mas não vamos tirar conclusões precipitadas ainda.
+Ah, minhas desculpas, aventureiros. Permita-me informÃ¡-lo.;Ah, minhas desculpas, aventureiros. Permita-me informá-lo.
+Foi incendiado por membros traidores de nossa prÃ³pria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mÃ¡gicas em seu nome.;Foi incendiado por membros traidores de nossa própria ordem. Eles seguiram o deus maligno do caos, Zamorak, e desejavam reivindicar nossas descobertas mágicas em seu nome.
+A essÃªncia minha que vocÃª relatou anteriormente, presumo?;A essência do que você relatou anteriormente, presumo?
+Bem, eu sou o Arquimago que vocÃª conhece! VocÃª nÃ£o chega Ã  minha posiÃ§Ã£o sem aprender alguns truques ao longo do caminho!;Bem, eu sou o Arquimago que você conhece! Você não chega à minha posição sem aprender alguns truques ao longo do caminho!
+Estou comeÃ§ando a entender porque isso Ã© tÃ£o importante. EntÃ£o vocÃª acha que esse talismÃ£ pode te ajudar a redescobrir esse encantamento?;vindo a entender porque isso é muito importante. Então você acha que esse talismã pode te ajudar a redescobrir esse encantamento?
+A torre foi logo reconstruÃ­da, Ã© claro, mas mesmo agora ainda estamos tentando recuperar o conhecimento que foi perdido.;A torre foi logo reconstruída, é claro, mas mesmo agora ainda estamos tentando recuperar o conhecimento que foi perdido.

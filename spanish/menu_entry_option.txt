@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Cantidad predeterminada: 2787
 Tirer;cansador
 Sell: 1 x Skills necklace;Vender: 1 x collar de habilidades
 View-game;Ver juego
+Cancel preview;Cancelar vista previa
+Withdraw-856;Retirar-856
+Deposit-856;Depósito-856
+Last-destination (DLR);Último destino (DLR)
+Default quantity: 9,000;Cantidad predeterminada: 9.000
+Click this to add coal.;Haga clic aquí para agregar carbón.
+Turn tar valve up;Suba la válvula de alquitrán
+Turn pressure valve up;Subir la válvula de presión
+Turn tar flow valve down;Baje la válvula de flujo de alquitrán
+Turn pressure valve down;Baje la válvula de presión
+Toggle Fossils;Alternar fósiles
+Open/Close;Abrir/Cerrar
+Empty basket;Cesta vacía
+Forestry kit;Kit forestal
+Log basket;Cesta de troncos

@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Quantité par défaut : 2 787
 Tirer;Tirer
 Sell: 1 x Skills necklace;Vendre : 1 x collier de compétences
 View-game;Voir le jeu
+Cancel preview;Annuler l'aperçu
+Withdraw-856;Retrait-856
+Deposit-856;Dépôt-856
+Last-destination (DLR);Dernière destination (DLR)
+Default quantity: 9,000;Quantité par défaut : 9 000
+Click this to add coal.;Cliquez dessus pour ajouter du charbon.
+Turn tar valve up;Tournez la valve de goudron vers le haut
+Turn pressure valve up;Augmentez la soupape de pression
+Turn tar flow valve down;Fermez la vanne de débit de goudron
+Turn pressure valve down;Baisser la soupape de pression
+Toggle Fossils;Basculer les fossiles
+Open/Close;Ouvrir/Fermer
+Empty basket;Panier vide
+Forestry kit;Kit forestier
+Log basket;Panier à bûches

@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Standardantal: 2 787
 Tirer;Tierer
 Sell: 1 x Skills necklace;Sälj: 1 x Skills-halsband
 View-game;Se-spel
+Cancel preview;Avbryt förhandsvisning
+Withdraw-856;Uttag-856
+Deposit-856;Deposition-856
+Last-destination (DLR);Sista destination (DLR)
+Default quantity: 9,000;Standardantal: 9 000
+Click this to add coal.;Klicka här för att lägga till kol.
+Turn tar valve up;Vrid upp tjärventilen
+Turn pressure valve up;Vrid upp tryckventilen
+Turn tar flow valve down;Vrid ner tjärflödesventilen
+Turn pressure valve down;Vrid ner tryckventilen
+Toggle Fossils;Växla fossiler
+Open/Close;Öppna/Stäng
+Empty basket;Tom korg
+Forestry kit;Skogsbrukssats
+Log basket;Loggkorg

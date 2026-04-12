@@ -2560,3 +2560,18 @@ Default quantity: 2,787;Standaardhoeveelheid: 2.787
 Tirer;Tirer
 Sell: 1 x Skills necklace;Verkoop: 1 x Skills-ketting
 View-game;Bekijk-spel
+Cancel preview;Voorbeeld annuleren
+Withdraw-856;Intrekken-856
+Deposit-856;Borg-856
+Last-destination (DLR);Laatste bestemming (DLR)
+Default quantity: 9,000;Standaardhoeveelheid: 9.000
+Click this to add coal.;Klik hierop om steenkool toe te voegen.
+Turn tar valve up;Draai de teerklep omhoog
+Turn pressure valve up;Draai het drukventiel omhoog
+Turn tar flow valve down;Draai de teerstroomklep omlaag
+Turn pressure valve down;Draai het drukventiel omlaag
+Toggle Fossils;Wissel fossielen
+Open/Close;Openen/sluiten
+Empty basket;Lege mand
+Forestry kit;Bosbouw kit
+Log basket;Houten mand
