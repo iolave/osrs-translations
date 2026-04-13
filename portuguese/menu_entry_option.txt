@@ -2575,3 +2575,81 @@ Open/Close;Abrir/Fechar
 Empty basket;Cesta vazia
 Forestry kit;Kit florestal
 Log basket;Cesta de toras
+View tutorial;Ver tutorial
+Charter-to Land's End;Fretamento até Land's End
+Select <col=ff981f>Apprentice wand;Selecione <col=ff981f>Varinha do Aprendiz
+Examine <col=ff981f>Beginner wand;Examine <col=ff981f>Varinha de iniciante
+Select <col=ff981f>Mud rune;Selecione <col=ff981f>runa de lama
+Examine <col=ff981f>Steam rune;Examinar <col=ff981f>runa Steam
+Select <col=ff981f>Infinity top;Selecione <col=ff981f>Topo infinito
+Select <col=ff981f>Infinity gloves;Selecione <col=ff981f>Luvas infinitas
+Examine <col=ff981f>Smoke rune;Examinar <col=ff981f>runa de fumaça
+Examine <col=ff981f>Teacher wand;Examine <col=ff981f>Varinha do Professor
+Select <col=ff981f>Bones to peaches;Selecione <col=ff981f>Ossos em pêssegos
+Examine <col=ff981f>Infinity top;Examine <col=ff981f>Topo infinito
+Examine <col=ff981f>Mage's book;Examine o livro do <col=ff981f>Mage
+Select <col=ff981f>Infinity bottoms;Selecione <col=ff981f>calças infinitas
+Select <col=ff981f>Law rune;Selecione <col=ff981f>Runa da Lei
+Examine <col=ff981f>Soul rune;Examinar <col=ff981f>Runa da Alma
+Select <col=ff981f>Teacher wand;Selecione <col=ff981f>Varinha do professor
+Select <col=ff981f>Smoke rune;Selecione <col=ff981f>Runa de fumaça
+Trade-with;Negocie com
+Quick-use;Uso rápido
+Select <col=ff981f>Steam rune;Selecione <col=ff981f>runa Steam
+Examine <col=ff981f>Law rune;Examinar <col=ff981f>runa da Lei
+Examine <col=ff981f>Master wand;Examine <col=ff981f>Varinha mestra
+Examine <col=ff981f>Infinity hat;Examine <col=ff981f>Chapéu infinito
+Select <col=ff981f>Soul rune;Selecione <col=ff981f>Runa da alma
+Examine <col=ff981f>Lava rune;Examinar <col=ff981f>runa de lava
+Select <col=ff981f>Lava rune;Selecione <col=ff981f>runa de lava
+Select <col=ff981f>Beginner wand;Selecione <col=ff981f>Varinha para iniciantes
+Examine <col=ff981f>Infinity gloves;Examine <col=ff981f>luvas Infinity
+Select <col=ff981f>Mage's book;Selecione <col=ff981f>livro do Mago
+Select <col=ff981f>Rune pouch;Selecione <col=ff981f>bolsa rúnica
+Examine <col=ff981f>Infinity bottoms;Examine <col=ff981f>fundos infinitos
+Examine <col=ff981f>Apprentice wand;Examine <col=ff981f>Varinha do Aprendiz
+Examine <col=ff981f>Mud rune;Examinar <col=ff981f>runa de lama
+Examine <col=ff981f>Bones to peaches;Examine <col=ff981f>Ossos em pêssegos
+Select <col=ff981f>Infinity hat;Selecione <col=ff981f>Chapéu infinito
+Examine <col=ff981f>Rune pouch;Examinar <col=ff981f>bolsa rúnica
+Select <col=ff981f>Master wand;Selecione <col=ff981f>Varinha mestre
+New-maze;Novo labirinto
+Examine <col=ff981f>Nature rune;Examinar <col=ff981f>runa da natureza
+Select <col=ff981f>Death rune;Selecione <col=ff981f>Runa da Morte
+Select <col=ff981f>Nature rune;Selecione <col=ff981f>runa da natureza
+Examine <col=ff981f>Death rune;Examinar <col=ff981f>Runa da Morte
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Campo de Batalha de Khazard
+Add ignore Wildcat;Adicionar ignorar Wildcat
+Add friend Xclearwater2;Adicionar amigo Xclearwater2
+Add friend X1_Cygnus;Adicionar amigo X1_Cygnus
+Add friend VeshonsAcc;Adicionar amigo VeshonsAcc
+Add ignore X1_Cygnus;Adicionar ignorar X1_Cygnus
+Add friend XRatchet1313;Adicionar amigo XRatchet1313
+Add friend Wildcat;Adicionar amigo Wildcat
+Add ignore Xclearwater2;Adicionar ignorar Xclearwater2
+Add ignore VeshonsAcc;Adicionar ignorar VeshonsAcc
+Join <col=ff8040>Shield of Arrav</col> channel;Participe do canal <col=ff8040>Escudo de Arrav</col>
+Add ignore XRatchet1313;Adicionar ignorar XRatchet1313
+Add ignore XxGARLITCHxX;Adicionar ignorar XxGARLITCHxX
+Add friend XxGARLITCHxX;Adicionar amigo XxGARLITCHxX
+Add ignore Zarvll;Adicionar ignorar Zarvll
+Add friend Zpazt196;Adicionar amigo Zpazt196
+Add ignore xater;Adicionar ignorar xter
+Add friend Whoisu82;Adicionar amigo Whoisu82
+Add friend Zarvll;Adicionar amigo Zarvll
+Add friend wblion;Adicionar amigo wblion
+Leave <col=ff8040>Shield of Arrav</col> channel;Sair do canal <col=ff8040>Escudo de Arrav</col>
+Add ignore Wenedi;Adicionar ignorar Wenedi
+Add ignore wblion;Adicionar ignorar wblion
+Add ignore YoMd_Debo;Adicionar ignorar YoMd_Debo
+Add ignore Zpazt196;Adicionar ignorar Zpazt196
+Teleport to <col=ff8040>Shield of Arrav</col>;Teletransporte-se para <col=ff8040>Escudo de Arrav</col>
+Add ignore westymartell;Adicionar ignorar westymartell
+Add ignore Zourberts;Adicionar ignorar Zourberts
+Add friend xater;Adicionar amigo Xater
+Add friend Wenedi;Adicionar amigo Wenedi
+Add friend westymartell;Adicionar amigo westymartell
+Add friend Zourberts;Adicionar amigo Zourberts
+Add friend YoMd_Debo;Adicionar amigo YoMd_Debo
+Add ignore Whoisu82;Adicionar ignorar Whoisu82

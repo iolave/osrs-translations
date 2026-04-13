@@ -2575,3 +2575,81 @@ Open/Close;Öppna/Stäng
 Empty basket;Tom korg
 Forestry kit;Skogsbrukssats
 Log basket;Loggkorg
+View tutorial;Se handledning
+Charter-to Land's End;Charter-to Land's End
+Select <col=ff981f>Apprentice wand;Välj <col=ff981f>Lärlingsstav
+Examine <col=ff981f>Beginner wand;Undersök <col=ff981f>Nybörjarstav
+Select <col=ff981f>Mud rune;Välj <col=ff981f>Mud rune
+Examine <col=ff981f>Steam rune;Undersök <col=ff981f>Steam rune
+Select <col=ff981f>Infinity top;Välj <col=ff981f>Infinity top
+Select <col=ff981f>Infinity gloves;Välj <col=ff981f>Infinity-handskar
+Examine <col=ff981f>Smoke rune;Undersök <col=ff981f>Rök runa
+Examine <col=ff981f>Teacher wand;Undersök <col=ff981f>Lärarstaven
+Select <col=ff981f>Bones to peaches;Välj <col=ff981f>Ben till persikor
+Examine <col=ff981f>Infinity top;Undersök <col=ff981f>Infinity top
+Examine <col=ff981f>Mage's book;Granska <col=ff981f>Mages bok
+Select <col=ff981f>Infinity bottoms;Välj <col=ff981f>Infinity bottoms
+Select <col=ff981f>Law rune;Välj <col=ff981f>Law rune
+Examine <col=ff981f>Soul rune;Undersök <col=ff981f>Själaruna
+Select <col=ff981f>Teacher wand;Välj <col=ff981f>Lärarstav
+Select <col=ff981f>Smoke rune;Välj <col=ff981f>Rök runa
+Trade-with;Byt med
+Quick-use;Snabb användning
+Select <col=ff981f>Steam rune;Välj <col=ff981f>Steam rune
+Examine <col=ff981f>Law rune;Undersök <col=ff981f>Lagnaruna
+Examine <col=ff981f>Master wand;Undersök <col=ff981f>Master wand
+Examine <col=ff981f>Infinity hat;Undersök <col=ff981f>Infinity hat
+Select <col=ff981f>Soul rune;Välj <col=ff981f>Själarune
+Examine <col=ff981f>Lava rune;Undersök <col=ff981f>Lavarunen
+Select <col=ff981f>Lava rune;Välj <col=ff981f>Lavarun
+Select <col=ff981f>Beginner wand;Välj <col=ff981f>Nybörjarstav
+Examine <col=ff981f>Infinity gloves;Undersök <col=ff981f>Infinity-handskar
+Select <col=ff981f>Mage's book;Välj <col=ff981f>Mages bok
+Select <col=ff981f>Rune pouch;Välj <col=ff981f>Rune-påse
+Examine <col=ff981f>Infinity bottoms;Undersök <col=ff981f>Infinity bottoms
+Examine <col=ff981f>Apprentice wand;Undersök <col=ff981f>Lärlingsstav
+Examine <col=ff981f>Mud rune;Undersök <col=ff981f>Mud rune
+Examine <col=ff981f>Bones to peaches;Undersök <col=ff981f>Ben till persikor
+Select <col=ff981f>Infinity hat;Välj <col=ff981f>Infinity hat
+Examine <col=ff981f>Rune pouch;Undersök <col=ff981f>Rune-påse
+Select <col=ff981f>Master wand;Välj <col=ff981f>Master wand
+New-maze;Ny-labyrint
+Examine <col=ff981f>Nature rune;Undersök <col=ff981f>Naturruna
+Select <col=ff981f>Death rune;Välj <col=ff981f>Dödsruna
+Select <col=ff981f>Nature rune;Välj <col=ff981f>Naturruna
+Examine <col=ff981f>Death rune;Undersök <col=ff981f>Dödsruna
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Khazards slagfält
+Add ignore Wildcat;Lägg till ignorera Wildcat
+Add friend Xclearwater2;Lägg till vän Xclearwater2
+Add friend X1_Cygnus;Lägg till vän X1_Cygnus
+Add friend VeshonsAcc;Lägg till vän VeshonsAcc
+Add ignore X1_Cygnus;Lägg till ignorera X1_Cygnus
+Add friend XRatchet1313;Lägg till vän XRatchet1313
+Add friend Wildcat;Lägg till vän Wildcat
+Add ignore Xclearwater2;Lägg till ignorera Xclearwater2
+Add ignore VeshonsAcc;Lägg till ignorera VeshonsAcc
+Join <col=ff8040>Shield of Arrav</col> channel;Gå med i kanalen <col=ff8040>Shield of Arrav</col>
+Add ignore XRatchet1313;Lägg till ignorera XRatchet1313
+Add ignore XxGARLITCHxX;Lägg till ignorera XxGARLITCHxX
+Add friend XxGARLITCHxX;Lägg till vän XxGARLITCHxX
+Add ignore Zarvll;Lägg till ignorera Zarvll
+Add friend Zpazt196;Lägg till vän Zpazt196
+Add ignore xater;Lägg till ignorera xater
+Add friend Whoisu82;Lägg till vän Whoisu82
+Add friend Zarvll;Lägg till vän Zarvll
+Add friend wblion;Lägg till vän wblion
+Leave <col=ff8040>Shield of Arrav</col> channel;Lämna <col=ff8040>Shield of Arrav</col>-kanalen
+Add ignore Wenedi;Lägg till ignorera Wenedi
+Add ignore wblion;Lägg till ignore wblion
+Add ignore YoMd_Debo;Lägg till ignorera YoMd_Debo
+Add ignore Zpazt196;Lägg till ignorera Zpazt196
+Teleport to <col=ff8040>Shield of Arrav</col>;Teleportera till <col=ff8040>Shield of Arrav</col>
+Add ignore westymartell;Lägg till ignorera westymartell
+Add ignore Zourberts;Lägg till ignorera Zourberts
+Add friend xater;Lägg till vän xater
+Add friend Wenedi;Lägg till vän Wenedi
+Add friend westymartell;Lägg till vän westymartell
+Add friend Zourberts;Lägg till vän Zourberts
+Add friend YoMd_Debo;Lägg till vän YoMd_Debo
+Add ignore Whoisu82;Lägg till ignorera Whoisu82

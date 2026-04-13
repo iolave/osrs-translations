@@ -2575,3 +2575,81 @@ Open/Close;Öffnen/Schließen
 Empty basket;Leerer Korb
 Forestry kit;Forstausrüstung
 Log basket;Holzkorb
+View tutorial;Tutorial ansehen
+Charter-to Land's End;Charter-to-Land's End
+Select <col=ff981f>Apprentice wand;Wählen Sie <col=ff981f>Lehrlingsstab
+Examine <col=ff981f>Beginner wand;Untersuchen Sie den <col=ff981f>Anfängerstab
+Select <col=ff981f>Mud rune;Wählen Sie <col=ff981f>Schlammrune
+Examine <col=ff981f>Steam rune;Untersuche die <col=ff981f>Dampfrune
+Select <col=ff981f>Infinity top;Wählen Sie <col=ff981f>Infinity-Top
+Select <col=ff981f>Infinity gloves;Wählen Sie <col=ff981f>Infinity-Handschuhe
+Examine <col=ff981f>Smoke rune;Untersuche die <col=ff981f>Rauchrune
+Examine <col=ff981f>Teacher wand;Untersuchen Sie den <col=ff981f>Lehrerstab
+Select <col=ff981f>Bones to peaches;Wählen Sie <col=ff981f>Knochen zu Pfirsichen
+Examine <col=ff981f>Infinity top;Untersuchen Sie <col=ff981f>Infinity-Top
+Examine <col=ff981f>Mage's book;Untersuchen Sie <col=ff981f>Magiers Buch
+Select <col=ff981f>Infinity bottoms;Wählen Sie <col=ff981f>Infinity-Unterteile
+Select <col=ff981f>Law rune;Wählen Sie <col=ff981f>Gesetzesrune
+Examine <col=ff981f>Soul rune;Untersuche die <col=ff981f>Seelenrune
+Select <col=ff981f>Teacher wand;Wählen Sie <col=ff981f>Lehrerstab
+Select <col=ff981f>Smoke rune;Wählen Sie <col=ff981f>Rauchrune
+Trade-with;Handel mit
+Quick-use;Schnell einsetzbar
+Select <col=ff981f>Steam rune;Wählen Sie <col=ff981f>Dampfrune
+Examine <col=ff981f>Law rune;Untersuche die <col=ff981f>Gesetzesrune
+Examine <col=ff981f>Master wand;Untersuche den <col=ff981f>Meisterstab
+Examine <col=ff981f>Infinity hat;Untersuchen Sie den <col=ff981f>Unendlichkeitshut
+Select <col=ff981f>Soul rune;Wählen Sie <col=ff981f>Seelenrune
+Examine <col=ff981f>Lava rune;Untersuche die <col=ff981f>Lavarune
+Select <col=ff981f>Lava rune;Wählen Sie <col=ff981f>Lavarune
+Select <col=ff981f>Beginner wand;Wählen Sie <col=ff981f>Anfängerstab
+Examine <col=ff981f>Infinity gloves;Untersuchen Sie <col=ff981f>Infinity-Handschuhe
+Select <col=ff981f>Mage's book;Wählen Sie <col=ff981f>Magierbuch aus
+Select <col=ff981f>Rune pouch;Wählen Sie <col=ff981f>Runenbeutel
+Examine <col=ff981f>Infinity bottoms;Untersuchen Sie <col=ff981f>Infinity-Unterteile
+Examine <col=ff981f>Apprentice wand;Untersuchen Sie den <col=ff981f>Lehrlingsstab
+Examine <col=ff981f>Mud rune;Untersuche die <col=ff981f>Schlammrune
+Examine <col=ff981f>Bones to peaches;Untersuchen Sie <col=ff981f>Knochen von Pfirsichen
+Select <col=ff981f>Infinity hat;Wählen Sie <col=ff981f>Unendlichkeitshut
+Examine <col=ff981f>Rune pouch;Untersuchen Sie den <col=ff981f>Runenbeutel
+Select <col=ff981f>Master wand;Wählen Sie <col=ff981f>Master-Zauberstab
+New-maze;Neues Labyrinth
+Examine <col=ff981f>Nature rune;Untersuche die <col=ff981f>Naturrune
+Select <col=ff981f>Death rune;Wählen Sie <col=ff981f>Todesrune
+Select <col=ff981f>Nature rune;Wählen Sie <col=ff981f>Naturrune
+Examine <col=ff981f>Death rune;Untersuche die <col=ff981f>Todesrune
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Schlachtfeld von Khazard
+Add ignore Wildcat;Fügen Sie „Wildcat ignorieren“ hinzu
+Add friend Xclearwater2;Freund hinzufügen Xclearwater2
+Add friend X1_Cygnus;Freund X1_Cygnus hinzufügen
+Add friend VeshonsAcc;Freund hinzufügen VeshonsAcc
+Add ignore X1_Cygnus;Fügen Sie „X1_Cygnus ignorieren“ hinzu
+Add friend XRatchet1313;Freund hinzufügen XRatchet1313
+Add friend Wildcat;Freund Wildcat hinzufügen
+Add ignore Xclearwater2;Fügen Sie „Xclearwater2 ignorieren“ hinzu
+Add ignore VeshonsAcc;Fügen Sie „VeshonsAcc ignorieren“ hinzu
+Join <col=ff8040>Shield of Arrav</col> channel;Treten Sie dem <col=ff8040>Shield of Arrav</col>-Kanal bei
+Add ignore XRatchet1313;Fügen Sie „Xratchet1313 ignorieren“ hinzu
+Add ignore XxGARLITCHxX;Fügen Sie „XxGARLITCHxX ignorieren“ hinzu
+Add friend XxGARLITCHxX;Freund hinzufügen XxGARLITCHxX
+Add ignore Zarvll;Fügen Sie Zarvll ignorieren hinzu
+Add friend Zpazt196;Freund hinzufügen Zpazt196
+Add ignore xater;Ignoriere Xater hinzufügen
+Add friend Whoisu82;Freund hinzufügen Whoisu82
+Add friend Zarvll;Freund Zarvll hinzufügen
+Add friend wblion;Freund wblion hinzufügen
+Leave <col=ff8040>Shield of Arrav</col> channel;Verlasse den <col=ff8040>Schild von Arrav</col>-Kanal
+Add ignore Wenedi;Fügen Sie „Wenedi ignorieren“ hinzu
+Add ignore wblion;Ignoriere Wblion hinzufügen
+Add ignore YoMd_Debo;Fügen Sie „YoMd_Debo ignorieren“ hinzu
+Add ignore Zpazt196;Fügen Sie „Zpazt196 ignorieren“ hinzu
+Teleport to <col=ff8040>Shield of Arrav</col>;Teleportiere dich zum <col=ff8040>Schild von Arrav</col>
+Add ignore westymartell;Fügen Sie „Westymartell ignorieren“ hinzu
+Add ignore Zourberts;Fügen Sie „Zourberts ignorieren“ hinzu
+Add friend xater;Freund xater hinzufügen
+Add friend Wenedi;Füge Freund Wenedi hinzu
+Add friend westymartell;Freund Westymartell hinzufügen
+Add friend Zourberts;Freund Zourberts hinzufügen
+Add friend YoMd_Debo;Freund YoMd_Debo hinzufügen
+Add ignore Whoisu82;Fügen Sie Whoisu82 ignorieren hinzu

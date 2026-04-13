@@ -2575,3 +2575,81 @@ Open/Close;Ouvrir/Fermer
 Empty basket;Panier vide
 Forestry kit;Kit forestier
 Log basket;Panier à bûches
+View tutorial;Voir le tutoriel
+Charter-to Land's End;Charte jusqu'au bout du pays
+Select <col=ff981f>Apprentice wand;Sélectionnez <col=ff981f>Baguette d'apprenti
+Examine <col=ff981f>Beginner wand;Examinez la <col=ff981f>baguette de débutant
+Select <col=ff981f>Mud rune;Sélectionnez <col=ff981f>Rune de boue
+Examine <col=ff981f>Steam rune;Examiner la <col=ff981f>Rune Steam
+Select <col=ff981f>Infinity top;Sélectionnez <col=ff981f>Haut Infinity
+Select <col=ff981f>Infinity gloves;Sélectionnez les <col=ff981f>gants Infinity
+Examine <col=ff981f>Smoke rune;Examinez la <col=ff981f>Rune de fumée
+Examine <col=ff981f>Teacher wand;Examinez la <col=ff981f>baguette du professeur
+Select <col=ff981f>Bones to peaches;Sélectionnez <col=ff981f>Os des pêches
+Examine <col=ff981f>Infinity top;Examinez le <col=ff981f>haut Infinity
+Examine <col=ff981f>Mage's book;Examiner le <col=ff981f>livre du mage
+Select <col=ff981f>Infinity bottoms;Sélectionnez <col=ff981f>Bas Infinity
+Select <col=ff981f>Law rune;Sélectionnez <col=ff981f>Rune de loi
+Examine <col=ff981f>Soul rune;Examinez la <col=ff981f>Rune d'âme
+Select <col=ff981f>Teacher wand;Sélectionnez <col=ff981f>Baguette d'enseignant
+Select <col=ff981f>Smoke rune;Sélectionnez <col=ff981f>Rune de fumée
+Trade-with;Échanger avec
+Quick-use;Utilisation rapide
+Select <col=ff981f>Steam rune;Sélectionnez <col=ff981f>Rune Steam
+Examine <col=ff981f>Law rune;Examiner la <col=ff981f>rune de loi
+Examine <col=ff981f>Master wand;Examinez la <col=ff981f>baguette principale
+Examine <col=ff981f>Infinity hat;Examinez le <col=ff981f>Chapeau Infinity
+Select <col=ff981f>Soul rune;Sélectionnez <col=ff981f>Rune d'âme
+Examine <col=ff981f>Lava rune;Examinez la <col=ff981f>Rune de lave
+Select <col=ff981f>Lava rune;Sélectionnez <col=ff981f>Rune de lave
+Select <col=ff981f>Beginner wand;Sélectionnez <col=ff981f>Baguette pour débutant
+Examine <col=ff981f>Infinity gloves;Examinez les <col=ff981f>gants Infinity
+Select <col=ff981f>Mage's book;Sélectionnez le <col=ff981f>Livre du mage
+Select <col=ff981f>Rune pouch;Sélectionnez la <col=ff981f>pochette runique
+Examine <col=ff981f>Infinity bottoms;Examinez les <col=ff981f>bas Infinity
+Examine <col=ff981f>Apprentice wand;Examinez la <col=ff981f>baguette d'apprenti
+Examine <col=ff981f>Mud rune;Examinez la <col=ff981f>Rune de boue
+Examine <col=ff981f>Bones to peaches;Examinez les <col=ff981f>os des pêches
+Select <col=ff981f>Infinity hat;Sélectionnez <col=ff981f>Chapeau Infinity
+Examine <col=ff981f>Rune pouch;Examinez la <col=ff981f>pochette runique
+Select <col=ff981f>Master wand;Sélectionnez <col=ff981f>Baguette principale
+New-maze;Nouveau-labyrinthe
+Examine <col=ff981f>Nature rune;Examiner la <col=ff981f>Rune de la nature
+Select <col=ff981f>Death rune;Sélectionnez <col=ff981f>Rune de la mort
+Select <col=ff981f>Nature rune;Sélectionnez <col=ff981f>Rune nature
+Examine <col=ff981f>Death rune;Examinez la <col=ff981f>Rune de la mort
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Champ de bataille de Khazard
+Add ignore Wildcat;Ajouter ignorer Wildcat
+Add friend Xclearwater2;Ajouter un ami
+Add friend X1_Cygnus;Ajouter un ami X1_Cygnus
+Add friend VeshonsAcc;Ajouter un ami
+Add ignore X1_Cygnus;Ajouter ignorer X1_Cygnus
+Add friend XRatchet1313;Ajouter un ami
+Add friend Wildcat;Ajouter un ami
+Add ignore Xclearwater2;Ajouter ignorer Xclearwater2
+Add ignore VeshonsAcc;Ajouter ignorer VeshonsAcc
+Join <col=ff8040>Shield of Arrav</col> channel;Rejoignez la chaîne <col=ff8040>Shield of Arrav</col>
+Add ignore XRatchet1313;Ajouter ignorer XRatchet1313
+Add ignore XxGARLITCHxX;Ajouter ignorer XxGARLITCHxX
+Add friend XxGARLITCHxX;Ajouter un ami XxGARLITCHxX
+Add ignore Zarvll;Ajouter ignorer Zarvll
+Add friend Zpazt196;Ajouter un ami
+Add ignore xater;Ajouter ignorer xater
+Add friend Whoisu82;Ajouter un ami Whoisu82
+Add friend Zarvll;Ajouter un ami
+Add friend wblion;Ajouter un ami
+Leave <col=ff8040>Shield of Arrav</col> channel;Quitter le canal <col=ff8040>Bouclier d'Arrav</col>
+Add ignore Wenedi;Ajouter ignorer Wenedi
+Add ignore wblion;Ajouter ignorer wblion
+Add ignore YoMd_Debo;Ajouter ignorer YoMd_Debo
+Add ignore Zpazt196;Ajouter ignorer Zpazt196
+Teleport to <col=ff8040>Shield of Arrav</col>;Téléportation vers le <col=ff8040>Bouclier d'Arrav</col>
+Add ignore westymartell;Ajouter ignorer westymartell
+Add ignore Zourberts;Ajouter ignorer Zourberts
+Add friend xater;Ajouter un ami
+Add friend Wenedi;Ajouter un ami
+Add friend westymartell;Ajouter un ami
+Add friend Zourberts;Ajouter un ami
+Add friend YoMd_Debo;Ajouter un ami YoMd_Debo
+Add ignore Whoisu82;Ajouter ignorer Whoisu82
