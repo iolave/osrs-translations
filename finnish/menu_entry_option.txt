@@ -2575,3 +2575,81 @@ Open/Close;Avaa/Sulje
 Empty basket;Tyhjä kori
 Forestry kit;Metsänhoitosarja
 Log basket;Hirsikori
+View tutorial;Katso opetusohjelma
+Charter-to Land's End;Charter-to Land's End
+Select <col=ff981f>Apprentice wand;Valitse <col=ff981f>Oppilassauva
+Examine <col=ff981f>Beginner wand;Tutki <col=ff981f>aloittelijan sauva
+Select <col=ff981f>Mud rune;Valitse <col=ff981f>Mudrune
+Examine <col=ff981f>Steam rune;Tutki <col=ff981f>Steam-rune
+Select <col=ff981f>Infinity top;Valitse <col=ff981f>Infinity top
+Select <col=ff981f>Infinity gloves;Valitse <col=ff981f>Infinity-hanskat
+Examine <col=ff981f>Smoke rune;Tutki <col=ff981f>Smoke Rune
+Examine <col=ff981f>Teacher wand;Tutki <col=ff981f>Opettajan sauva
+Select <col=ff981f>Bones to peaches;Valitse <col=ff981f>Bones to persiches
+Examine <col=ff981f>Infinity top;Tutki <col=ff981f>Infinity-toppi
+Examine <col=ff981f>Mage's book;Tutki <col=ff981f>Magen kirjaa
+Select <col=ff981f>Infinity bottoms;Valitse <col=ff981f>Infinity-pohjat
+Select <col=ff981f>Law rune;Valitse <col=ff981f>Lakirune
+Examine <col=ff981f>Soul rune;Tutki <col=ff981f>Soul Rune
+Select <col=ff981f>Teacher wand;Valitse <col=ff981f>Opettajan sauva
+Select <col=ff981f>Smoke rune;Valitse <col=ff981f>Smoke rune
+Trade-with;Kauppa kanssa
+Quick-use;Pikakäyttöinen
+Select <col=ff981f>Steam rune;Valitse <col=ff981f>Steam rune
+Examine <col=ff981f>Law rune;Tutki <col=ff981f>Lakirunkoa
+Examine <col=ff981f>Master wand;Tutki <col=ff981f>pääsauvaa
+Examine <col=ff981f>Infinity hat;Tutki <col=ff981f>Infinity-hattu
+Select <col=ff981f>Soul rune;Valitse <col=ff981f>Soul Rune
+Examine <col=ff981f>Lava rune;Tutki <col=ff981f>Laava-riimua
+Select <col=ff981f>Lava rune;Valitse <col=ff981f>Laava-riimu
+Select <col=ff981f>Beginner wand;Valitse <col=ff981f> Aloittelijan sauva
+Examine <col=ff981f>Infinity gloves;Tutki <col=ff981f>Infinity-käsineitä
+Select <col=ff981f>Mage's book;Valitse <col=ff981f>Magen kirja
+Select <col=ff981f>Rune pouch;Valitse <col=ff981f>Riimupussi
+Examine <col=ff981f>Infinity bottoms;Tutki <col=ff981f>Infinity-pohjat
+Examine <col=ff981f>Apprentice wand;Tutki <col=ff981f>Oppipoika-sauvaa
+Examine <col=ff981f>Mud rune;Tutki <col=ff981f>mutariimua
+Examine <col=ff981f>Bones to peaches;Tutki <col=ff981f>Luita persikoiksi
+Select <col=ff981f>Infinity hat;Valitse <col=ff981f>Infinity-hattu
+Examine <col=ff981f>Rune pouch;Tutki <col=ff981f>Riimupussia
+Select <col=ff981f>Master wand;Valitse <col=ff981f>Pääsauva
+New-maze;Uusi labyrintti
+Examine <col=ff981f>Nature rune;Tutki <col=ff981f>Nature-rune
+Select <col=ff981f>Death rune;Valitse <col=ff981f>Kuoleman rune
+Select <col=ff981f>Nature rune;Valitse <col=ff981f>Nature Rune
+Examine <col=ff981f>Death rune;Tutki <col=ff981f>Kuoleman riimu
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Khazardin taistelukenttä
+Add ignore Wildcat;Lisää ignore Wildcat
+Add friend Xclearwater2;Lisää kaveri Xclearwater2
+Add friend X1_Cygnus;Lisää kaveri X1_Cygnus
+Add friend VeshonsAcc;Lisää kaveri VeshonsAcc
+Add ignore X1_Cygnus;Lisää ohitus X1_Cygnus
+Add friend XRatchet1313;Lisää kaveri XRatchet1313
+Add friend Wildcat;Lisää ystävä Wildcat
+Add ignore Xclearwater2;Lisää ohittaa Xclearwater2
+Add ignore VeshonsAcc;Lisää ohittaa VeshonsAcc
+Join <col=ff8040>Shield of Arrav</col> channel;Liity <col=ff8040>Shield of Arrav</col> -kanavalle
+Add ignore XRatchet1313;Lisää ohitus XRatchet1313
+Add ignore XxGARLITCHxX;Lisää ohitus XxGARLITCHxX
+Add friend XxGARLITCHxX;Lisää kaveri XxGARLITCHxX
+Add ignore Zarvll;Lisää ignore Zarvll
+Add friend Zpazt196;Lisää kaveri Zpazt196
+Add ignore xater;Lisää ignore xater
+Add friend Whoisu82;Lisää kaveri Whoisu82
+Add friend Zarvll;Lisää kaveri Zarvll
+Add friend wblion;Lisää ystävä wblion
+Leave <col=ff8040>Shield of Arrav</col> channel;Poistu <col=ff8040>Shield of Arrav</col> -kanavasta
+Add ignore Wenedi;Lisää ignore Wenedi
+Add ignore wblion;Lisää ignore wblion
+Add ignore YoMd_Debo;Lisää ohitus YoMd_Debo
+Add ignore Zpazt196;Lisää ignore Zpazt196
+Teleport to <col=ff8040>Shield of Arrav</col>;Teleportoi <col=ff8040>Shield of Arrav</col>iin
+Add ignore westymartell;Lisää ignore westymartell
+Add ignore Zourberts;Lisää ohittaa Zourberts
+Add friend xater;Lisää ystävä xater
+Add friend Wenedi;Lisää ystävä Wenedi
+Add friend westymartell;Lisää ystävä westymartell
+Add friend Zourberts;Lisää kaveri Zourberts
+Add friend YoMd_Debo;Lisää ystävä YoMd_Debo
+Add ignore Whoisu82;Lisää ohittaa Whoisu82

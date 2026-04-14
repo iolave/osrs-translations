@@ -2575,3 +2575,81 @@ Open/Close;Openen/sluiten
 Empty basket;Lege mand
 Forestry kit;Bosbouw kit
 Log basket;Houten mand
+View tutorial;Bekijk de handleiding
+Charter-to Land's End;Charter-naar Land's End
+Select <col=ff981f>Apprentice wand;Selecteer <col=ff981f>Leerlingstaf
+Examine <col=ff981f>Beginner wand;Onderzoek <col=ff981f>Beginnerstokje
+Select <col=ff981f>Mud rune;Selecteer <col=ff981f>Modderrune
+Examine <col=ff981f>Steam rune;Onderzoek <col=ff981f>Steam-rune
+Select <col=ff981f>Infinity top;Selecteer <col=ff981f>Infinitytop
+Select <col=ff981f>Infinity gloves;Selecteer <col=ff981f>Infinity-handschoenen
+Examine <col=ff981f>Smoke rune;Onderzoek <col=ff981f>Rookrune
+Examine <col=ff981f>Teacher wand;Bestudeer <col=ff981f>Leraarsstaf
+Select <col=ff981f>Bones to peaches;Selecteer <col=ff981f>Botten tot perziken
+Examine <col=ff981f>Infinity top;Bekijk <col=ff981f>Infinitytop
+Examine <col=ff981f>Mage's book;Bestudeer <col=ff981f>Magé's boek
+Select <col=ff981f>Infinity bottoms;Selecteer <col=ff981f>Infinity-broeken
+Select <col=ff981f>Law rune;Selecteer <col=ff981f>Wetrune
+Examine <col=ff981f>Soul rune;Onderzoek <col=ff981f>Zielrune
+Select <col=ff981f>Teacher wand;Selecteer <col=ff981f>Leraarsstaf
+Select <col=ff981f>Smoke rune;Selecteer <col=ff981f>Rookrune
+Trade-with;Handel-met
+Quick-use;Snel te gebruiken
+Select <col=ff981f>Steam rune;Selecteer <col=ff981f>Steam-rune
+Examine <col=ff981f>Law rune;Onderzoek <col=ff981f>Wetrune
+Examine <col=ff981f>Master wand;Onderzoek <col=ff981f>Meesterstok
+Examine <col=ff981f>Infinity hat;Onderzoek <col=ff981f>Oneindighoed
+Select <col=ff981f>Soul rune;Selecteer <col=ff981f>Zielrune
+Examine <col=ff981f>Lava rune;Onderzoek <col=ff981f>Lava-rune
+Select <col=ff981f>Lava rune;Selecteer <col=ff981f>Lava-rune
+Select <col=ff981f>Beginner wand;Selecteer <col=ff981f>Beginnerstokje
+Examine <col=ff981f>Infinity gloves;Bekijk <col=ff981f>Infinity-handschoenen
+Select <col=ff981f>Mage's book;Selecteer <col=ff981f>Mage's boek
+Select <col=ff981f>Rune pouch;Selecteer <col=ff981f>Rune-buidel
+Examine <col=ff981f>Infinity bottoms;Bekijk <col=ff981f>Infinity-bodems
+Examine <col=ff981f>Apprentice wand;Onderzoek <col=ff981f>Leerlingstaf
+Examine <col=ff981f>Mud rune;Onderzoek <col=ff981f>Modderrune
+Examine <col=ff981f>Bones to peaches;Onderzoek <col=ff981f>Boten tot perziken
+Select <col=ff981f>Infinity hat;Selecteer <col=ff981f>Oneindighoed
+Examine <col=ff981f>Rune pouch;Onderzoek <col=ff981f>Runebuidel
+Select <col=ff981f>Master wand;Selecteer <col=ff981f>Master-staf
+New-maze;Nieuw-doolhof
+Examine <col=ff981f>Nature rune;Onderzoek <col=ff981f>Natuurrune
+Select <col=ff981f>Death rune;Selecteer <col=ff981f>Doodsrune
+Select <col=ff981f>Nature rune;Selecteer <col=ff981f>Natuurrune
+Examine <col=ff981f>Death rune;Onderzoek <col=ff981f>Death rune
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Slagveld van Khazard
+Add ignore Wildcat;Voeg negeer Wildcat toe
+Add friend Xclearwater2;Vriend toevoegen Xclearwater2
+Add friend X1_Cygnus;Voeg vriend X1_Cygnus toe
+Add friend VeshonsAcc;Vriend toevoegen VeshonsAcc
+Add ignore X1_Cygnus;Voeg negeer X1_Cygnus toe
+Add friend XRatchet1313;Voeg vriend XRatchet1313 toe
+Add friend Wildcat;Voeg vriend Wildcat toe
+Add ignore Xclearwater2;Voeg negeer Xclearwater2 toe
+Add ignore VeshonsAcc;Negeer VeshonsAcc toevoegen
+Join <col=ff8040>Shield of Arrav</col> channel;Sluit je aan bij het <col=ff8040>Shield of Arrav</col>-kanaal
+Add ignore XRatchet1313;Voeg negeer XRatchet1313 toe
+Add ignore XxGARLITCHxX;Voeg negeer XxGARLITCHxX toe
+Add friend XxGARLITCHxX;Voeg vriend XxGARLITCHxX toe
+Add ignore Zarvll;Voeg negeer Zarvll toe
+Add friend Zpazt196;Voeg vriend Zpazt196 toe
+Add ignore xater;Voeg negeer xater toe
+Add friend Whoisu82;Vriend toevoegen Whoisu82
+Add friend Zarvll;Voeg vriend Zarvll toe
+Add friend wblion;Voeg vriend wblion toe
+Leave <col=ff8040>Shield of Arrav</col> channel;Verlaat het <col=ff8040>Schild van Arrav</col> kanaal
+Add ignore Wenedi;Voeg negeer Wenedi toe
+Add ignore wblion;Voeg negeer wblion toe
+Add ignore YoMd_Debo;Voeg negeer YoMd_Debo toe
+Add ignore Zpazt196;Voeg negeer Zpazt196 toe
+Teleport to <col=ff8040>Shield of Arrav</col>;Teleporteer naar <col=ff8040>Schild van Arrav</col>
+Add ignore westymartell;Voeg negeer westymartell toe
+Add ignore Zourberts;Voeg negeer Zourberts toe
+Add friend xater;Vriend xater toevoegen
+Add friend Wenedi;Vriend toevoegen Wenedi
+Add friend westymartell;Voeg vriend westymartell toe
+Add friend Zourberts;Voeg vriend Zourberts toe
+Add friend YoMd_Debo;Vriend toevoegen YoMd_Debo
+Add ignore Whoisu82;Voeg negeer Whoisu82 toe
