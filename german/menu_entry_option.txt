@@ -2653,3 +2653,108 @@ Add friend westymartell;Freund Westymartell hinzufügen
 Add friend Zourberts;Freund Zourberts hinzufügen
 Add friend YoMd_Debo;Freund YoMd_Debo hinzufügen
 Add ignore Whoisu82;Fügen Sie Whoisu82 ignorieren hinzu
+Goutte;Goutte
+DÃ©truire;Détruire
+Recherche;Recherche
+Buy Membership;Mitgliedschaft kaufen
+Add ignore OATHSLAYER42;Fügen Sie „OATHSLAYER42 ignorieren“ hinzu
+Switch <col=ff8040>491</col>;Schalter <col=ff8040>491</col>
+Add friend thobblee;Freund Thobblee hinzufügen
+Add ignore Igvor;Igvor ignorieren hinzufügen
+Add ignore Trickster416;Fügen Sie „Trickster416 ignorieren“ hinzu
+Add friend Igvor;Füge Freund Igvor hinzu
+Add friend Iron Veetz;Freund Iron Veetz hinzufügen
+Add ignore thobblee;Ignorieren Sie Thobblee
+Add ignore Runeflick;Runeflick ignorieren hinzufügen
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teleportiere dich zum <col=ff8040>Burthorpe Games Room</col>
+Add friend GingerbreadF;Freund hinzufügen GingerbreadF
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Verlassen Sie den <col=ff8040>Burthorpe Games Room</col>-Kanal
+Add ignore Iron Veetz;Fügen Sie Ignorieren von Iron Veetz hinzu
+Add ignore Wag City;Fügen Sie „Wag City ignorieren“ hinzu
+Add friend Wag City;Freund hinzufügen Wag City
+Add friend OATHSLAYER42;Freund hinzufügen OATHSLAYER42
+Add ignore GingerbreadF;Fügen Sie „Ignore GingerbreadF“ hinzu
+Add friend jalc2026;Freund hinzufügen jalc2026
+Join <col=ff8040>Burthorpe Games Room</col> channel;Treten Sie dem <col=ff8040>Burthorpe Games Room</col>-Kanal bei
+Add ignore jalc2026;Ignorieren Sie jalc2026
+Add friend Runeflick;Freund Runeflick hinzufügen
+Add friend Trickster416;Freund hinzufügen Trickster416
+Claim-Shield;Claim-Shield
+Swing Across;Schwingen über
+Oubliette;Oubliette
+Superior garden;Superior-Garten
+Throne room;Thronsaal
+Portal chamber;Portalkammer
+Chapel;Kapelle
+Formal garden;Formeller Garten
+Costume room;Kostümzimmer
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;<col=ff9040> ​​Hinweispfeil entfernen
+Show<col=ff9040> Hint;<col=ff9040>Hinweis anzeigen
+Ring-last-destination (AKP);Ring-letztes Ziel (AKP)
+Withdraw-1884;Rückzug-1884
+Récompenses;Entschädigungen
+Tête de mort;Tête de mort
+Prix;Preis
+Décanter;Karaffe
+Objets;Objekte
+Butin;Butin
+Historique;Historisch
+Ensembles;Ensembles
+Make <col=ff9040>Collier rubis</col>;Machen Sie <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Stelle ein <col=ff9040>Smaragd-Amulett (u)</col> her
+Make <col=ff9040>Bague rubis</col>;Machen Sie <col=ff9040>Bague Rubis</col>
+Fabriquer;Hersteller
+Make <col=ff9040>Bague en saphir</col>;Machen Sie <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Stelle <col=ff9040>Goldamulett (u)</col> her
+Make <col=ff9040>Bague en or</col>;Machen Sie <col=ff9040>Bague en or</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Stelle ein <col=ff9040>Saphir-Amulett (u)</col> her
+String;Zeichenfolge
+Yes, Apply Changes;Ja, Änderungen übernehmen
+View Areas;Bereiche anzeigen
+Leagues;Ligen
+Show <col=ff9040>Summary</col>;<col=ff9040>Zusammenfassung</col> anzeigen
+Apply Changes;Änderungen übernehmen
+View Demonic Pacts;Dämonische Pakte ansehen
+End Tutorial;Beenden Sie das Tutorial
+View Relics;Relikte ansehen
+View Next Image;Nächstes Bild anzeigen
+Teleport to;Teleportieren zu
+Yama's Lair;Yamas Versteck
+Dispose;Entsorgen
+Check-pets;Check-Haustiere
+Deselect Node;Knoten abwählen
+Show <col=ff9040>Ranks</col>;<col=ff9040>Ränge</col> anzeigen
+Civitas;Civitas
+Zoom In;Vergrößern
+Undo Changes;Änderungen rückgängig machen
+Expand Active Pact Information;Erweitern Sie Informationen zum aktiven Pakt
+No, Undo Changes;Nein, Änderungen rückgängig machen
+Hide Information Panel;Informationsbereich ausblenden
+Channel (Varlamore);Kanal (Varlamore)
+Exit Leagues;Ligen verlassen
+Briser;Briser
+Entrer (invité);Anmelden (Einladung)
+Entrer (membre);Teilnehmer (Mitglied)
+NER Lookup;NER-Suche
+Lunar Isle;Mondinsel
+Sell: 1 x Mithril chainbody;Verkaufe: 1 x Mithril-Kettenkörper
+Tirannwn;Tirannwn
+Kourend;Kourend
+Channel (Wilderness);Kanal (Wildnis)
+Varlamore;Varlamore
+Asgarnia;Asgarnien
+Swap-Effect;Swap-Effekt
+Toggle absorption;Absorption umschalten
+Default quantity: 500,000;Standardmenge: 500.000
+Play-with;Zum Spielen
+Afirmar;Afirmar
+Withdraw-all;Alles zurückziehen
+Withdraw-last;Zurückziehen-zuletzt
+Orar en;Orar de
+Crumble Undead;Zerbröckle Untote
+Sell: 104 x Bronze bar;Verkaufe: 104 x Bronzebarren
+Valor;Tapferkeit
+Remove from playlist 2;Aus Playlist 2 entfernen
+Peer-into;Einblick

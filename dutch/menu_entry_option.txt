@@ -2653,3 +2653,108 @@ Add friend westymartell;Voeg vriend westymartell toe
 Add friend Zourberts;Voeg vriend Zourberts toe
 Add friend YoMd_Debo;Vriend toevoegen YoMd_Debo
 Add ignore Whoisu82;Voeg negeer Whoisu82 toe
+Goutte;Goutte
+DÃ©truire;Detruire
+Recherche;Onderzoek
+Buy Membership;Koop lidmaatschap
+Add ignore OATHSLAYER42;Voeg negeren OATHSLAYER42 toe
+Switch <col=ff8040>491</col>;Schakel <col=ff8040>491</col> over
+Add friend thobblee;Vriend thobblee toevoegen
+Add ignore Igvor;Voeg negeer Igvor toe
+Add ignore Trickster416;Voeg negeer Trickster416 toe
+Add friend Igvor;Voeg vriend Igvor toe
+Add friend Iron Veetz;Vriend toevoegen Iron Veetz
+Add ignore thobblee;Voeg 'negeer thobblee' toe
+Add ignore Runeflick;Voeg negeer Runeflick toe
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teleporteer naar <col=ff8040>Burthorpe-speelkamer</col>
+Add friend GingerbreadF;Vriend toevoegen GingerbreadF
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Verlaat het kanaal <col=ff8040>Burthorpe Games Room</col>
+Add ignore Iron Veetz;Voeg Negeer Iron Veetz toe
+Add ignore Wag City;Voeg Negeer Wag City toe
+Add friend Wag City;Voeg vriend Wag City toe
+Add friend OATHSLAYER42;Vriend toevoegen OATHSLAYER42
+Add ignore GingerbreadF;Voeg negeer GingerbreadF toe
+Add friend jalc2026;Voeg vriend jalc2026 toe
+Join <col=ff8040>Burthorpe Games Room</col> channel;Word lid van het <col=ff8040>Burthorpe Games Room</col>-kanaal
+Add ignore jalc2026;Voeg negeer jalc2026 toe
+Add friend Runeflick;Voeg vriend Runeflick toe
+Add friend Trickster416;Vriend toevoegen Trickster416
+Claim-Shield;Claim-Schild
+Swing Across;Zwaai over
+Oubliette;Oubliet
+Superior garden;Superieure tuin
+Throne room;Troonzaal
+Portal chamber;Portaal kamer
+Chapel;Kapel
+Formal garden;Formele tuin
+Costume room;Kostuumkamer
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;Verwijder<col=ff9040> ​​Hintpijl
+Show<col=ff9040> Hint;Toon<col=ff9040> ​​Tip
+Ring-last-destination (AKP);Ring-laatste bestemming (AKP)
+Withdraw-1884;Intrekken-1884
+Récompenses;Vergoedingen
+Tête de mort;Tête de mort
+Prix;Prijs
+Décanter;Karaf
+Objets;Objecten
+Butin;Butin
+Historique;Historisch
+Ensembles;Ensembles
+Make <col=ff9040>Collier rubis</col>;Maak <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Maak <col=ff9040>Smaragd amulet (u)</col>
+Make <col=ff9040>Bague rubis</col>;Maak <col=ff9040>Bague rubis</col>
+Fabriquer;Fabrikant
+Make <col=ff9040>Bague en saphir</col>;Maak <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Maak <col=ff9040>Gouden amulet (u)</col>
+Make <col=ff9040>Bague en or</col>;Maak <col=ff9040>Bague en of</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Maak <col=ff9040>Saffieren amulet (u)</col>
+String;Snaar
+Yes, Apply Changes;Ja, wijzigingen toepassen
+View Areas;Bekijk gebieden
+Leagues;Liga's
+Show <col=ff9040>Summary</col>;Toon <col=ff9040>Samenvatting</col>
+Apply Changes;Wijzigingen toepassen
+View Demonic Pacts;Bekijk demonische pacten
+End Tutorial;Beëindig de handleiding
+View Relics;Bekijk relikwieën
+View Next Image;Bekijk volgende afbeelding
+Teleport to;Teleporteren naar
+Yama's Lair;Yama's schuilplaats
+Dispose;Gooi weg
+Check-pets;Controleer-huisdieren
+Deselect Node;Deselecteer Knooppunt
+Show <col=ff9040>Ranks</col>;Toon <col=ff9040>Rangen</col>
+Civitas;Civitas
+Zoom In;Inzoomen
+Undo Changes;Wijzigingen ongedaan maken
+Expand Active Pact Information;Vouw Actieve Pact-informatie uit
+No, Undo Changes;Nee, wijzigingen ongedaan maken
+Hide Information Panel;Informatiepaneel verbergen
+Channel (Varlamore);Kanaal (Varlamore)
+Exit Leagues;Verlaat competities
+Briser;Briser
+Entrer (invité);Enterer (uitgenodigd)
+Entrer (membre);Enterer (lid)
+NER Lookup;NER opzoeken
+Lunar Isle;Maan eiland
+Sell: 1 x Mithril chainbody;Verkoop: 1 x Mithril kettinglichaam
+Tirannwn;Tirannwn
+Kourend;Kourend
+Channel (Wilderness);Kanaal (wildernis)
+Varlamore;Varlamore
+Asgarnia;Asgarnia
+Swap-Effect;Wisseleffect
+Toggle absorption;Schakel absorptie in
+Default quantity: 500,000;Standaardhoeveelheid: 500.000
+Play-with;Speel-met
+Afirmar;Bevestiger
+Withdraw-all;Trek alles terug
+Withdraw-last;Intrekken als laatste
+Orar en;Orar nl
+Crumble Undead;Verkruimel ondoden
+Sell: 104 x Bronze bar;Verkoop: 104 x Bronzen baar
+Valor;Moed
+Remove from playlist 2;Verwijderen uit afspeellijst 2
+Peer-into;Peer-in
