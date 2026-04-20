@@ -2653,3 +2653,108 @@ Add friend westymartell;Aggiungi amico westymartell
 Add friend Zourberts;Aggiungi amico Zourberts
 Add friend YoMd_Debo;Aggiungi amico YoMd_Debo
 Add ignore Whoisu82;Aggiungi ignora Whoisu82
+Goutte;Gotta
+DÃ©truire;Détruire
+Recherche;Ricerca
+Buy Membership;Acquista l'abbonamento
+Add ignore OATHSLAYER42;Aggiungi ignora OATHSLAYER42
+Switch <col=ff8040>491</col>;Cambia <col=ff8040>491</col>
+Add friend thobblee;Aggiungi amico thobblee
+Add ignore Igvor;Aggiungi ignora Igvor
+Add ignore Trickster416;Aggiungi ignora Trickster416
+Add friend Igvor;Aggiungi amico Igvor
+Add friend Iron Veetz;Aggiungi un amico Iron Veetz
+Add ignore thobblee;Aggiungi ignora thobblee
+Add ignore Runeflick;Aggiungi ignora Runeflick
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teletrasportati alla <col=ff8040>Sala giochi Burthorpe</col>
+Add friend GingerbreadF;Aggiungi amico GingerbreadF
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Lascia il canale <col=ff8040>Burthorpe Games Room</col>
+Add ignore Iron Veetz;Aggiungi Ignora Iron Veetz
+Add ignore Wag City;Aggiungi ignora Wag City
+Add friend Wag City;Aggiungi un amico Wag City
+Add friend OATHSLAYER42;Aggiungi amico OATHSLAYER42
+Add ignore GingerbreadF;Aggiungi ignora GingerbreadF
+Add friend jalc2026;Aggiungi amico jalc2026
+Join <col=ff8040>Burthorpe Games Room</col> channel;Unisciti al canale <col=ff8040>Burthorpe Games Room</col>
+Add ignore jalc2026;Aggiungi ignora jalc2026
+Add friend Runeflick;Aggiungi amico Runeflick
+Add friend Trickster416;Aggiungi amico Trickster416
+Claim-Shield;Claim-Shield
+Swing Across;Oscilla attraverso
+Oubliette;Oubliette
+Superior garden;Giardino superiore
+Throne room;Sala del trono
+Portal chamber;Camera del portale
+Chapel;Cappella
+Formal garden;Giardino formale
+Costume room;Sala dei costumi
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;Rimuovi<col=ff9040> ​​Freccia suggerimento
+Show<col=ff9040> Hint;Mostra<col=ff9040> ​​Suggerimento
+Ring-last-destination (AKP);Chiama l'ultima destinazione (AKP)
+Withdraw-1884;Ritiro-1884
+Récompenses;Ricompense
+Tête de mort;Testa di morte
+Prix;Premio
+Décanter;Decanter
+Objets;Oggetti
+Butin;Butin
+Historique;Storico
+Ensembles;Ensemble
+Make <col=ff9040>Collier rubis</col>;Crea <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Crea <col=ff9040>Amuleto di smeraldo (u)</col>
+Make <col=ff9040>Bague rubis</col>;Prepara <col=ff9040>Bague rubis</col>
+Fabriquer;Fabriquer
+Make <col=ff9040>Bague en saphir</col>;Prepara <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Crea <col=ff9040>Amuleto d'oro (u)</col>
+Make <col=ff9040>Bague en or</col>;Crea <col=ff9040>Bague en o</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Crea <col=ff9040>Amuleto di zaffiro (u)</col>
+String;Corda
+Yes, Apply Changes;Sì, applica modifiche
+View Areas;Visualizza aree
+Leagues;Leghe
+Show <col=ff9040>Summary</col>;Mostra <col=ff9040>Riepilogo</col>
+Apply Changes;Applica modifiche
+View Demonic Pacts;Visualizza Patti Demoniaci
+End Tutorial;Fine dell'esercitazione
+View Relics;Visualizza le reliquie
+View Next Image;Visualizza l'immagine successiva
+Teleport to;Teletrasportarsi a
+Yama's Lair;La tana di Yama
+Dispose;Smaltire
+Check-pets;Controllare gli animali domestici
+Deselect Node;Deseleziona nodo
+Show <col=ff9040>Ranks</col>;Mostra <col=ff9040>Classifica</col>
+Civitas;Civitas
+Zoom In;Zoom avanti
+Undo Changes;Annulla modifiche
+Expand Active Pact Information;Espandi le informazioni sul patto attivo
+No, Undo Changes;No, annulla le modifiche
+Hide Information Panel;Nascondi pannello informazioni
+Channel (Varlamore);Canale (Varlamore)
+Exit Leagues;Esci dai campionati
+Briser;Briser
+Entrer (invité);Ingresso (invito)
+Entrer (membre);Entrante (membro)
+NER Lookup;Ricerca NER
+Lunar Isle;Isola Lunare
+Sell: 1 x Mithril chainbody;Vendo: 1 x catena in Mithril
+Tirannwn;Tirannwn
+Kourend;Kurend
+Channel (Wilderness);Canale (deserto)
+Varlamore;Varlamore
+Asgarnia;Asgarnia
+Swap-Effect;Effetto scambio
+Toggle absorption;Attiva/disattiva l'assorbimento
+Default quantity: 500,000;Quantità predefinita: 500.000
+Play-with;Gioca con
+Afirmar;Afirmar
+Withdraw-all;Ritira tutto
+Withdraw-last;Ritiro per ultimo
+Orar en;Orario
+Crumble Undead;Sbriciolare i non morti
+Sell: 104 x Bronze bar;Vendita: 104 x Barra di bronzo
+Valor;Valore
+Remove from playlist 2;Rimuovi dalla playlist 2
+Peer-into;Scrutare

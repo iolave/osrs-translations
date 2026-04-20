@@ -2653,3 +2653,108 @@ Add friend westymartell;Lägg till vän westymartell
 Add friend Zourberts;Lägg till vän Zourberts
 Add friend YoMd_Debo;Lägg till vän YoMd_Debo
 Add ignore Whoisu82;Lägg till ignorera Whoisu82
+Goutte;Goutte
+DÃ©truire;Détruire
+Recherche;Recherche
+Buy Membership;Köp medlemskap
+Add ignore OATHSLAYER42;Lägg till ignorera OATHSLAYER42
+Switch <col=ff8040>491</col>;Switch <col=ff8040>491</col>
+Add friend thobblee;Lägg till vän thobblee
+Add ignore Igvor;Lägg till ignorera Igvor
+Add ignore Trickster416;Lägg till ignorera Trickster416
+Add friend Igvor;Lägg till vän Igvor
+Add friend Iron Veetz;Lägg till vän Iron Veetz
+Add ignore thobblee;Lägg till ignorera thobblee
+Add ignore Runeflick;Lägg till ignorera Runeflick
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teleportera till <col=ff8040>Burthorpe Games Room</col>
+Add friend GingerbreadF;Lägg till vän GingerbreadF
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Lämna <col=ff8040>Burthorpe Games Room</col>-kanalen
+Add ignore Iron Veetz;Lägg till ignorera Iron Veetz
+Add ignore Wag City;Lägg till ignorera Wag City
+Add friend Wag City;Lägg till vän Wag City
+Add friend OATHSLAYER42;Lägg till vän OATHSLAYER42
+Add ignore GingerbreadF;Lägg till ignorera GingerbreadF
+Add friend jalc2026;Lägg till vän jalc2026
+Join <col=ff8040>Burthorpe Games Room</col> channel;Gå med i kanalen <col=ff8040>Burthorpe Games Room</col>
+Add ignore jalc2026;Lägg till ignorera jalc2026
+Add friend Runeflick;Lägg till vän Runeflick
+Add friend Trickster416;Lägg till vän Trickster416
+Claim-Shield;Claim-Shield
+Swing Across;Sväng över
+Oubliette;Oubliette
+Superior garden;Överlägsen trädgård
+Throne room;Tronsal
+Portal chamber;Portalkammare
+Chapel;Kapell
+Formal garden;Formell trädgård
+Costume room;Kostymrum
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;Ta bort<col=ff9040> ​​Tipspil
+Show<col=ff9040> Hint;Visa<col=ff9040> ​​tips
+Ring-last-destination (AKP);Ring-sista-destination (AKP)
+Withdraw-1884;Återkalla-1884
+Récompenses;Ersättningar
+Tête de mort;Tête de mort
+Prix;Prix
+Décanter;Karaff
+Objets;Objekt
+Butin;Butin
+Historique;Historik
+Ensembles;Ensembler
+Make <col=ff9040>Collier rubis</col>;Gör <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Gör <col=ff9040>Emerald amulett (u)</col>
+Make <col=ff9040>Bague rubis</col>;Gör <col=ff9040>Bague rubis</col>
+Fabriquer;Fabriquer
+Make <col=ff9040>Bague en saphir</col>;Gör <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Gör <col=ff9040>Guldamulett (u)</col>
+Make <col=ff9040>Bague en or</col>;Gör <col=ff9040>Bague sv eller</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Gör <col=ff9040>Sapphiramulet (u)</col>
+String;Sträng
+Yes, Apply Changes;Ja, tillämpa ändringar
+View Areas;Visa områden
+Leagues;Ligor
+Show <col=ff9040>Summary</col>;Visa <col=ff9040>Sammanfattning</col>
+Apply Changes;Tillämpa ändringar
+View Demonic Pacts;Se demoniska pakterna
+End Tutorial;Avsluta handledning
+View Relics;Se reliker
+View Next Image;Se nästa bild
+Teleport to;Teleportera till
+Yama's Lair;Yamas lya
+Dispose;Kassera
+Check-pets;Kontrollera husdjur
+Deselect Node;Avmarkera Nod
+Show <col=ff9040>Ranks</col>;Visa <col=ff9040>rankningar</col>
+Civitas;Civitas
+Zoom In;Zooma in
+Undo Changes;Ångra ändringar
+Expand Active Pact Information;Expandera Active Pact Information
+No, Undo Changes;Nej, Ångra ändringar
+Hide Information Panel;Dölj informationspanelen
+Channel (Varlamore);Kanal (Varlamore)
+Exit Leagues;Avsluta ligor
+Briser;Briser
+Entrer (invité);Entrer (invité)
+Entrer (membre);Entrer (medlem)
+NER Lookup;NER Lookup
+Lunar Isle;Lunar Isle
+Sell: 1 x Mithril chainbody;Sälj: 1 x Mithril chainbody
+Tirannwn;Tirannwn
+Kourend;Kourend
+Channel (Wilderness);Kanal (vildmark)
+Varlamore;Varlamore
+Asgarnia;Asgarnia
+Swap-Effect;Swap-effekt
+Toggle absorption;Växla absorption
+Default quantity: 500,000;Standardkvantitet: 500 000
+Play-with;Lek-med
+Afirmar;Afirmar
+Withdraw-all;Dra tillbaka allt
+Withdraw-last;Uttag-sist
+Orar en;Orar en
+Crumble Undead;Crumble Undead
+Sell: 104 x Bronze bar;Sälj: 104 x bronsstång
+Valor;Tapperhet
+Remove from playlist 2;Ta bort från spellista 2
+Peer-into;Peer-in

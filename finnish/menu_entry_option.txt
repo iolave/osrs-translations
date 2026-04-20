@@ -2653,3 +2653,108 @@ Add friend westymartell;Lisää ystävä westymartell
 Add friend Zourberts;Lisää kaveri Zourberts
 Add friend YoMd_Debo;Lisää ystävä YoMd_Debo
 Add ignore Whoisu82;Lisää ohittaa Whoisu82
+Goutte;Goutte
+DÃ©truire;DÃ©truire
+Recherche;Recherche
+Buy Membership;Osta jäsenyys
+Add ignore OATHSLAYER42;Lisää ohitus OATHSLAYER42
+Switch <col=ff8040>491</col>;Vaihda <col=ff8040>491</col>
+Add friend thobblee;Lisää ystävä thobblee
+Add ignore Igvor;Lisää ohittaa Igvor
+Add ignore Trickster416;Lisää ignore Trickster416
+Add friend Igvor;Lisää ystävä Igvor
+Add friend Iron Veetz;Lisää ystävä Iron Veetz
+Add ignore thobblee;Lisää huomioimatta thobblee
+Add ignore Runeflick;Lisää ohita Runeflick
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teleportoi <col=ff8040>Burthorpe-pelihuoneeseen</col>
+Add friend GingerbreadF;Lisää kaveri GingerbreadF
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Poistu <col=ff8040>Burthorpe Games Room</col> -kanavalta
+Add ignore Iron Veetz;Lisää ohittaa Iron Veetz
+Add ignore Wag City;Lisää ohita Wag City
+Add friend Wag City;Lisää ystävä Wag City
+Add friend OATHSLAYER42;Lisää kaveri OATHSLAYER42
+Add ignore GingerbreadF;Lisää ignore GingerbreadF
+Add friend jalc2026;Lisää kaveri jalc2026
+Join <col=ff8040>Burthorpe Games Room</col> channel;Liity <col=ff8040>Burthorpe Games Room</col> -kanavalle
+Add ignore jalc2026;Lisää ignore jalc2026
+Add friend Runeflick;Lisää kaveri Runeflick
+Add friend Trickster416;Lisää kaveri Trickster416
+Claim-Shield;Claim-Shield
+Swing Across;Swing Across
+Oubliette;Oubliette
+Superior garden;Superior puutarha
+Throne room;Valtaistuimen huone
+Portal chamber;Portaalin kammio
+Chapel;Kappeli
+Formal garden;Muodollinen puutarha
+Costume room;Pukuhuone
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;Poista<col=ff9040> ​​Vihje-nuoli
+Show<col=ff9040> Hint;Näytä<col=ff9040> ​​Vihje
+Ring-last-destination (AKP);Ring-last-destination (AKP)
+Withdraw-1884;Veto-1884
+Récompenses;Recompenses
+Tête de mort;Tête de mort
+Prix;Prix
+Décanter;Decanter
+Objets;Objektit
+Butin;Butin
+Historique;Historique
+Ensembles;Yhtyeet
+Make <col=ff9040>Collier rubis</col>;Tee <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Tee <col=ff9040>Smaragdiamuletti (u)</col>
+Make <col=ff9040>Bague rubis</col>;Tee <col=ff9040>Bague rubis</col>
+Fabriquer;Valmistaja
+Make <col=ff9040>Bague en saphir</col>;Tee <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Tee <col=ff9040>kultainen amuletti (u)</col>
+Make <col=ff9040>Bague en or</col>;Tee <col=ff9040>Bague fi tai</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Tee <col=ff9040>safiiri-amuletti (u)</col>
+String;merkkijono
+Yes, Apply Changes;Kyllä, ota muutokset käyttöön
+View Areas;Näytä alueet
+Leagues;Liigot
+Show <col=ff9040>Summary</col>;Näytä <col=ff9040>Yhteenveto</col>
+Apply Changes;Ota muutokset käyttöön
+View Demonic Pacts;Katso Demonic Pacts
+End Tutorial;Lopeta opetusohjelma
+View Relics;Näytä reliikit
+View Next Image;Näytä seuraava kuva
+Teleport to;Teleportoi kohteeseen
+Yama's Lair;Yaman luola
+Dispose;Hävitä
+Check-pets;Tarkista lemmikit
+Deselect Node;Poista Solmun valinta
+Show <col=ff9040>Ranks</col>;Näytä <col=ff9040>Asiat</col>
+Civitas;Civitas
+Zoom In;Lähennä
+Undo Changes;Kumoa muutokset
+Expand Active Pact Information;Laajenna Aktiivisen sopimuksen tiedot
+No, Undo Changes;Ei, kumoa muutokset
+Hide Information Panel;Piilota tietopaneeli
+Channel (Varlamore);Kanava (Varlamore)
+Exit Leagues;Poistu liigasta
+Briser;Briser
+Entrer (invité);Osallistuja (kutsu)
+Entrer (membre);Osallistuja (jäsen)
+NER Lookup;NER-haku
+Lunar Isle;Kuun saari
+Sell: 1 x Mithril chainbody;Myydään: 1 x Mithril-ketjurunko
+Tirannwn;Tirannwn
+Kourend;Kourend
+Channel (Wilderness);Kanava (erämaa)
+Varlamore;Varlamore
+Asgarnia;Asgarnia
+Swap-Effect;Swap-efekti
+Toggle absorption;Vaihda absorptio
+Default quantity: 500,000;Oletusmäärä: 500 000
+Play-with;Leikkiä kanssa
+Afirmar;Afirmar
+Withdraw-all;Nosta kaikki
+Withdraw-last;Nosto-viimeinen
+Orar en;Orar en
+Crumble Undead;Crumble Undead
+Sell: 104 x Bronze bar;Myydään: 104 x pronssitanko
+Valor;Valor
+Remove from playlist 2;Poista soittolistasta 2
+Peer-into;Tutustu
