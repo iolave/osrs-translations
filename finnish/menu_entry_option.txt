@@ -2950,3 +2950,40 @@ Rumour-settings;Huhu-asetukset
 Deposit-123123;Talletus-123123
 Withdraw-123123;Nosto-123123
 Fur-clothing;Turkis-vaatteet
+Take-log;Ota loki
+Default quantity: 55;Oletusmäärä: 55
+Withdraw-55;Nosto-55
+Deposit-55;Talletus - 55
+Sell: 19 x Ogre arrow;Myydään: 19 x Ogre-nuoli
+Vote;Äänestää
+Check tax;Tarkista vero
+Request-supplies;Pyydä tarvikkeita
+View Collection Log;Näytä kokoelmaloki
+Minigames Collections;Minipelien kokoelmat
+Bosses Collections;Bossin kokoelmat
+Other Collections;Muut kokoelmat
+View Collection Overview;Näytä kokoelman yleiskatsaus
+Decapitate;Mestata
+Another;Toinen
+Sabotage;Sabotoida
+Plant-evidence;Kasvien todisteet
+Charter-to Civitas illa Fortis;Charter-to Civitas illa Fortis
+Bless;Siunata
+Buy: 1 x Steel pickaxe;Osta: 1 x teräshakku
+Impling-jar;Impling-purkki
+Butterfly-jar;Butterfly-purkki
+Make <col=ff9040>Sapphire ring</col>;Tee <col=ff9040>safiirisormus</col>
+Make <col=ff9040>Emerald ring</col>;Tee <col=ff9040>Smaragdisormus</col>
+Deposit-2500;Talletus - 2500
+Withdraw-2500;Nosto-2500
+Crush;Murskata
+Deposit-35;Talletus - 35
+Withdraw-35;Nosto-35
+Look-into;Tutustuminen
+Buy: 1 x Rope;Osta: 1 x köysi
+Reset Vertical;Palauta pystysuuntainen
+Resize Vertical;Muuta kokoa pystysuunnassa
+View <col=ff9040>Attack</col> guide;Katso <col=ff9040>hyökkäys</col>-opas
+View <col=ff9040>Hitpoints</col> guide;Katso <col=ff9040>Hitpoints</col>-opas
+View <col=ff9040>Slayer</col> guide;Katso <col=ff9040>Slayer</col> -opas
+Default quantity: 35;Oletusmäärä: 35

@@ -2950,3 +2950,40 @@ Rumour-settings;Geruchten-instellingen
 Deposit-123123;Borg-123123
 Withdraw-123123;Intrekken-123123
 Fur-clothing;Bontkleding
+Take-log;Take-log
+Default quantity: 55;Standaard aantal: 55
+Withdraw-55;Intrekken-55
+Deposit-55;Borg-55
+Sell: 19 x Ogre arrow;Verkoop: 19 x Ogre-pijl
+Vote;Stemmen
+Check tax;Controleer belasting
+Request-supplies;Aanvraag-benodigdheden
+View Collection Log;Bekijk het ophaallogboek
+Minigames Collections;Minigames-collecties
+Bosses Collections;Bazen Collecties
+Other Collections;Andere collecties
+View Collection Overview;Bekijk collectieoverzicht
+Decapitate;Onthoofden
+Another;Een andere
+Sabotage;Sabotage
+Plant-evidence;Plant-bewijs
+Charter-to Civitas illa Fortis;Charter aan Civitas illa Fortis
+Bless;Zegenen
+Buy: 1 x Steel pickaxe;Kopen: 1 x Stalen pikhouweel
+Impling-jar;Impling-pot
+Butterfly-jar;Vlinderpot
+Make <col=ff9040>Sapphire ring</col>;Maak <col=ff9040>Saffierring</col>
+Make <col=ff9040>Emerald ring</col>;Maak <col=ff9040>Smaragdgroene ring</col>
+Deposit-2500;Borg-2500
+Withdraw-2500;Intrekken-2500
+Crush;Verbrijzeling
+Deposit-35;Borg-35
+Withdraw-35;Intrekken-35
+Look-into;Kijk-in
+Buy: 1 x Rope;Koop: 1 x touw
+Reset Vertical;Verticaal opnieuw instellen
+Resize Vertical;Formaat verticaal wijzigen
+View <col=ff9040>Attack</col> guide;Bekijk de <col=ff9040>Aanval</col>-gids
+View <col=ff9040>Hitpoints</col> guide;Bekijk de <col=ff9040>Hitpoints</col>-gids
+View <col=ff9040>Slayer</col> guide;Bekijk de <col=ff9040>Slayer</col>-gids
+Default quantity: 35;Standaard aantal: 35

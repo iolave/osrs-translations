@@ -2950,3 +2950,40 @@ Rumour-settings;Gerüchte-Einstellungen
 Deposit-123123;Anzahlung-123123
 Withdraw-123123;Zurückziehen-123123
 Fur-clothing;Pelzbekleidung
+Take-log;Take-Log
+Default quantity: 55;Standardmenge: 55
+Withdraw-55;Rückzug-55
+Deposit-55;Anzahlung: 55
+Sell: 19 x Ogre arrow;Verkaufe: 19 x Ogerpfeil
+Vote;Abstimmung
+Check tax;Steuern prüfen
+Request-supplies;Anfrage-Lieferungen
+View Collection Log;Sammlungsprotokoll anzeigen
+Minigames Collections;Minispielsammlungen
+Bosses Collections;Bosses-Sammlungen
+Other Collections;Andere Sammlungen
+View Collection Overview;Sammlungsübersicht anzeigen
+Decapitate;Enthaupten
+Another;Ein anderer
+Sabotage;Sabotage
+Plant-evidence;Pflanzenbeweis
+Charter-to Civitas illa Fortis;Charter nach Civitas illa Fortis
+Bless;Segnen
+Buy: 1 x Steel pickaxe;Kaufen Sie: 1 x Stahlspitzhacke
+Impling-jar;Impling-Glas
+Butterfly-jar;Schmetterlingsglas
+Make <col=ff9040>Sapphire ring</col>;Machen Sie einen <col=ff9040>Saphirring</col>
+Make <col=ff9040>Emerald ring</col>;Machen Sie einen <col=ff9040>Smaragdring</col>
+Deposit-2500;Anzahlung: 2500
+Withdraw-2500;Auszahlung-2500
+Crush;Zerquetschen
+Deposit-35;Anzahlung: 35
+Withdraw-35;Rückzug-35
+Look-into;Schauen Sie rein
+Buy: 1 x Rope;Kaufen Sie: 1 x Seil
+Reset Vertical;Vertikal zurücksetzen
+Resize Vertical;Vertikale Größe ändern
+View <col=ff9040>Attack</col> guide;Sehen Sie sich den Leitfaden <col=ff9040>Angriff</col> an
+View <col=ff9040>Hitpoints</col> guide;Sehen Sie sich den <col=ff9040>Hitpoints</col>-Leitfaden an
+View <col=ff9040>Slayer</col> guide;Sehen Sie sich den <col=ff9040>Slayer</col>-Leitfaden an
+Default quantity: 35;Standardmenge: 35

@@ -2950,3 +2950,40 @@ Rumour-settings;Ryktens inställningar
 Deposit-123123;Deposition-123123
 Withdraw-123123;Uttag-123123
 Fur-clothing;Päls-kläder
+Take-log;Ta-logg
+Default quantity: 55;Standardantal: 55
+Withdraw-55;Uttag-55
+Deposit-55;Insättning-55
+Sell: 19 x Ogre arrow;Sälj: 19 x Ogre pil
+Vote;Rösta
+Check tax;Kontrollera skatt
+Request-supplies;Begär-förnödenheter
+View Collection Log;Visa samlingslogg
+Minigames Collections;Minispel samlingar
+Bosses Collections;Bosses samlingar
+Other Collections;Andra samlingar
+View Collection Overview;Visa samlingsöversikt
+Decapitate;Halshugga
+Another;En annan
+Sabotage;Sabotage
+Plant-evidence;Växtbevis
+Charter-to Civitas illa Fortis;Charter till Civitas illa Fortis
+Bless;Välsigna
+Buy: 1 x Steel pickaxe;Köp: 1 x Stålhacka
+Impling-jar;Impling-burk
+Butterfly-jar;Fjärilsburk
+Make <col=ff9040>Sapphire ring</col>;Gör <col=ff9040>Safirring</col>
+Make <col=ff9040>Emerald ring</col>;Gör <col=ff9040>Smaragdring</col>
+Deposit-2500;Deposition-2500
+Withdraw-2500;Uttag-2500
+Crush;Krossa
+Deposit-35;Deposition-35
+Withdraw-35;Uttag-35
+Look-into;Titta in
+Buy: 1 x Rope;Köp: 1 x rep
+Reset Vertical;Återställ vertikal
+Resize Vertical;Ändra storlek vertikal
+View <col=ff9040>Attack</col> guide;Se guiden <col=ff9040>Attack</col>
+View <col=ff9040>Hitpoints</col> guide;Se guiden <col=ff9040>Träffpunkter</col>
+View <col=ff9040>Slayer</col> guide;Se guiden <col=ff9040>Slayer</col>
+Default quantity: 35;Standardantal: 35
