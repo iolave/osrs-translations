@@ -2950,3 +2950,40 @@ Rumour-settings;Configurações de boatos
 Deposit-123123;Depósito-123123
 Withdraw-123123;Retirar-123123
 Fur-clothing;Roupas de pele
+Take-log;Registro de registro
+Default quantity: 55;Quantidade padrão: 55
+Withdraw-55;Retirar-55
+Deposit-55;Depósito-55
+Sell: 19 x Ogre arrow;Venda: 19 x flecha de ogro
+Vote;Voto
+Check tax;Verifique imposto
+Request-supplies;Solicitar suprimentos
+View Collection Log;Ver registro de coleta
+Minigames Collections;Coleções de minijogos
+Bosses Collections;Coleções de chefes
+Other Collections;Outras coleções
+View Collection Overview;Ver visão geral da coleção
+Decapitate;Decapitar
+Another;Outro
+Sabotage;Sabotar
+Plant-evidence;Evidência de planta
+Charter-to Civitas illa Fortis;Fretamento para Civitas illa Fortis
+Bless;Abençoar
+Buy: 1 x Steel pickaxe;Comprar: 1 x picareta de aço
+Impling-jar;Frasco de Impling
+Butterfly-jar;Frasco de borboleta
+Make <col=ff9040>Sapphire ring</col>;Faça <col=ff9040>anel de safira</col>
+Make <col=ff9040>Emerald ring</col>;Faça <col=ff9040>anel de esmeralda</col>
+Deposit-2500;Depósito-2500
+Withdraw-2500;Retirar-2500
+Crush;Crush
+Deposit-35;Depósito-35
+Withdraw-35;Retirar-35
+Look-into;Olhe para dentro
+Buy: 1 x Rope;Comprar: 1 x Corda
+Reset Vertical;Redefinir vertical
+Resize Vertical;Redimensionar verticalmente
+View <col=ff9040>Attack</col> guide;Veja o guia de <col=ff9040>Ataque</col>
+View <col=ff9040>Hitpoints</col> guide;Veja o guia de <col=ff9040>pontos de vida</col>
+View <col=ff9040>Slayer</col> guide;Veja o guia do <col=ff9040>Slayer</col>
+Default quantity: 35;Quantidade padrão: 35

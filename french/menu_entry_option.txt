@@ -2951,3 +2951,39 @@ Deposit-123123;Dépôt-123123
 Withdraw-123123;Retrait-123123
 Fur-clothing;Vêtements en fourrure
 Take-log;Journal de prise
+Default quantity: 55;Quantité par défaut : 55
+Withdraw-55;Retrait-55
+Deposit-55;Dépôt-55
+Sell: 19 x Ogre arrow;Vendre : 19 x Flèche Ogre
+Vote;Voter
+Check tax;Vérifier la taxe
+Request-supplies;Demande de fournitures
+View Collection Log;Afficher le journal de collecte
+Minigames Collections;Collections de mini-jeux
+Bosses Collections;Collections de patrons
+Other Collections;Autres collections
+View Collection Overview;Afficher l'aperçu de la collection
+Decapitate;Décapiter
+Another;Un autre
+Sabotage;Sabotage
+Plant-evidence;Preuve végétale
+Charter-to Civitas illa Fortis;Charte-à Civitas illa Fortis
+Bless;Bénir
+Buy: 1 x Steel pickaxe;Acheter: 1 x Pioche en acier
+Impling-jar;Pot d'implant
+Butterfly-jar;Pot-papillon
+Make <col=ff9040>Sapphire ring</col>;Fabriquer une <col=ff9040>Bague saphir</col>
+Make <col=ff9040>Emerald ring</col>;Fabriquer une <col=ff9040>Bague émeraude</col>
+Deposit-2500;Dépôt-2500
+Withdraw-2500;Retrait-2500
+Crush;Écraser
+Deposit-35;Dépôt-35
+Withdraw-35;Retrait-35
+Look-into;Rechercher
+Buy: 1 x Rope;Acheter: 1 x Corde
+Reset Vertical;Réinitialiser verticalement
+Resize Vertical;Redimensionner verticalement
+View <col=ff9040>Attack</col> guide;Voir le guide <col=ff9040>Attaque</col>
+View <col=ff9040>Hitpoints</col> guide;Afficher le guide des <col=ff9040>Points de repère</col>
+View <col=ff9040>Slayer</col> guide;Voir le guide <col=ff9040>Slayer</col>
+Default quantity: 35;Quantité par défaut : 35
