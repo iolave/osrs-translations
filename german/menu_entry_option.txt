@@ -3041,3 +3041,34 @@ Channel (Kandarin);Kanal (Kandarin)
 Make <col=ff9040>Onyx amulet (u)</col>;Stelle ein <col=ff9040>Onyx-Amulett (u)</col> her
 Make <col=ff9040>Onyx bracelet</col>;Machen Sie ein <col=ff9040>Onyx-Armband</col>
 Buy sets:;Sets kaufen:
+Jump-from;Abspringen
+Channel (Karamja);Kanal (Karamja)
+Default quantity: 6,000;Standardmenge: 6.000
+Buy: 1 x Adamant full helm;Kaufen Sie: 1 x Adamant-Vollhelm
+Buy: 150 x Rune dagger;Kaufen Sie: 150 x Runendolch
+Master;Master
+Make <col=ff9040>Slayer ring (8)</col>;Machen Sie einen <col=ff9040>Slayer-Ring (8)</col>
+Sell: 1 x Uncut emerald;Verkaufe: 1 x ungeschliffener Smaragd
+Make-cuppa;Machen Sie eine Tasse Kaffee
+Buy: 1 x Armadyl rune armour set (lg);Kaufen: 1 x Armadyl-Runenrüstungsset (lg)
+Sell: 1 x Armadyl platelegs;Verkaufe: 1 x Armadyl-Plattenbeine
+Deposit-499;Anzahlung-499
+Withdraw-499;Rückzug-499
+Buy: 15 x Rune platebody;Kaufen Sie: 15 x Runen-Plattenkörper
+Sell: 500 x Amulet of strength;Verkauf: 500 x Amulett der Stärke
+Buy: 1 x Rune platebody;Kaufen Sie: 1 x Rune-Plattenkörper
+Buy: 1 x Rune longsword;Kauf: 1 x Runen-Langschwert
+Unstore;Entladen
+Ring-last-destination (DJP);Ring-letztes-Ziel (DJP)
+Rustle;Rascheln
+Ring-last-destination (CJQ);Ring-letztes Ziel (CJQ)
+Enchant;Verzaubern
+Ring-last-destination (BJS);Ring-letztes Ziel (BJS)
+Aim and Fire;Zielen und Feuern
+Amy;Amy
+View Info;Informationen anzeigen
+Buy: 20 x Rune platebody;Kaufen Sie: 20 x Runen-Plattenkörper
+Buy: 40 x Rune full helm;Kaufen Sie: 40 x Runen-Vollhelm
+Deposit-38;Anzahlung-38
+Buy: 80 x Adamant platebody;Kaufen Sie: 80 x Adamant-Plattenkörper
+Buy: 100 x Sapphire amulet;Kaufen Sie: 100 x Saphiramulett

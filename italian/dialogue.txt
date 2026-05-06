@@ -96847,3 +96847,253 @@ Hej dÃ¤r, [PLAYER_NAME]. Jag vill att du dÃ¶dar en fasan som har tre svansar
 Unfilter them.;Non filtrarli.
 Boss kill-counts are blocked by the spam filter.;Il conteggio delle uccisioni dei boss viene bloccato dal filtro antispam.
 Continue filtering them.;Continua a filtrarli.
+VocÃª jÃ¡ experimentou essa amostra?;Hai già sperimentato questa dimostrazione?
+¿Mover todos los artículos disponibles desde su bodega de carga a su banco?;¿Sposta tutti gli articoli disponibili dalla tua cassa di carico al tuo banco?
+Well, that's everything moved over with no issues.;Bene, tutto è stato spostato senza problemi.
+Alright, let's get to work!;Va bene, mettiamoci al lavoro!
+Reparaciones (D1).;Riparazioni (D1).
+Timón y velas (H3).;Timón e velas (H3).
+Port side rune salvaging hook (D3).;Gancio per il recupero delle rune sul lato sinistro (D3).
+Crewmate Assignation: Cabin Boy Jenkins (H2 P2 D4);Assegnazione al compagno di squadra: mozzo Jenkins (H2 P2 D4)
+Otras instalaciones.;Altre installazioni.
+Starboard side rune salvaging hook (D3).;Gancio per il recupero delle rune sul lato di tribordo (D3).
+Current - Idle.;Corrente - Inattivo.
+Chum station (D1).;Stazione amico (D1).
+Groeten! Ik zie dat je een nieuwkomer bent in de wereld van Gielinor. Het is mijn taak om alle nieuwe bezoekers welkom te heten. Dus welkom!;Saluti! So che sono un nuovo arrivato nel mondo di Gielinor. Il mio compito è dare il benvenuto a tutti i nuovi bezoeker. Benvenuto!
+Je hebt het eerste dat nodig is om in deze wereld te slagen al geleerd: praten met andere mensen!;Je hebt het eerste dat nodig is om in deze areld te slagen al geleerd: praten met andere mensen!
+Laten we nu beginnen met het bekijken van uw instellingenmenu.;Laten we nu starten met het bekijken van uw instellingenmenu.
+Je zult merken dat veel inwoners van deze wereld nuttige dingen tegen je te zeggen hebben. Door erop te klikken kun je met ze praten.;Je zult merken chet veel inwoners van deze areld nuttige dingen tegen je te zeggen hebben. Clicca su Erop quando sei con il prato.
+Zo te zien maak je goede vorderingen! Het menu dat u zojuist hebt geopend, is een van de vele. De rest leer je naarmate je verder komt in de tutorial.;Zo te zien maak je goede vorderingen! Il menu che ti aiuta a geopendere è uno dei migliori. Il resto leggi je naarmate je verder komt in de tutorial.
+De eerste vaardigheid waar we naar gaan kijken is vissen. Er zitten wat garnalen in deze vijver. Laten we proberen er een paar te vangen.;De eerste vaardigheid waar we naar gaan kijken is vissen. Er zitten wat garnalen in deze vijver. Laten we proberen er een paar te vangen.
+Hoe dan ook, ik zou zeggen dat het tijd is om je eerste instructeur te ontmoeten!;Ciao e anche, ti chiedo che tempo è per farti conoscere il primo istruttore!
+Hallo daar, nieuwkomer. Mijn naam is Brynna. Het is mijn taak om je de vaardigheden te leren die je kunt gebruiken om te overleven in deze wereld.;Ciao caro, nuovo arrivato. Mijn naam è Brynna. È il mio compito per imparare a imparare quello che posso usare per superare il livello in questo mondo.
+Hallo nogmaals. Eerst gaan we wat vissen. Er zitten wat garnalen in deze vijver. Laten we proberen er een paar te vangen.;Ciao nogmaal. Prima di tutto vogliamo vedere. Er zitten wat garnalen in deze vijver. Laten we proberen er een paar te vangen.
+Hallo nogmaals. Je moet dat menu eens bekijken voordat we verder gaan.;Ciao nogmaal. Je moet dat menu eens bekijken voordat we verder gaan.
+Het is mij gelukt om garnalen te vangen.;Het is mij gelukt om garnalen te vangen.
+Uitstekend werk. Vervolgens wil je die garnalen koken. Om dat te doen heb je vuur nodig. Dit brengt ons bij de vaardigheden Houtsnijden en Vuur maken.;Lavoro completo. La prossima volta vorrai die garnalen koken. Se vuoi farlo, ti serve. Dit brengt ons bij de vaardigheden Houtsnijden and Vuur maken.
+Vertel me nog eens over vissen.;Vertel me nog eens over vissen.
+Vertel me nog eens over Woodcutting.;Vertel me nog eens over Woodcutting.
+Niets bedankt.;Niets bedankt.
+Vertel me nog eens over koken.;Vertel me nog eens over koken.
+Vertel me nog eens over Firemaking.;Vertel me nog eens over Firemaking.
+Vertel me nog eens over mijn vaardigheden.;Vertel me nog eens over mijn vaardigheden.
+Hallo nogmaals. Is er iets waar je meer over wilt horen?;Ciao nogmaal. Er iets waar je meer over wilt horen?
+Nu je wat garnalen hebt, wil je ze koken. Om dat te doen heb je vuur nodig.;Non je wat garnalen hebt, will je ze koken. Se vuoi farlo, ti serve.
+Ah! Welkom, nieuwkomer. Ik ben de meesterkok, Lev. Hier zal ik je leren hoe je voedsel kunt bereiden dat echt geschikt is voor een koning.;Ah! Benvenuto, nuovo arrivato. Sono ben de meesterkok, Lev. Hier zal ik je leren hoe je voedsel kunt bereiden dat echt geschikt is voor een koning.
+Olá, aventureiro audacioso! Posso te interessar por algumas espadas?;Olá, avventuriero audace! Posso interessarti per alcuni espadas?
+NÃ£o, estou bem com espadas agora.;No, estou bem com espadas agora.
+Ah, olá. Adoraria conversar agora, mas estou um pouco ocupado. Talvez você possa voltar outra hora para bater um papo?;Ah, ola. Adoraria conversar agora, mas estou um pouco ocupado. Forse puoi voltare un'altra ora per battere un papà?
+Claro. Desculpe pelo incômodo!;Claro. Scopri l'incomodo!
+Sem problemas! Ei, você já visitou a Wizards' Tower ao sul? É uma visão incrível! Deveria ir conferir!;Nessun problema! Hai già visitato la Torre dei Maghi sul posto? È una vista incredibile! Devoria conferire!
+VÃ¡ embora!;Vá embora!
+Can I help you today?;Posso aiutarti oggi?
+Can I go for a ride?;Posso fare un giro?
+Excellent, you're doing great. Your new task is to kill 73 Kalphites.;Eccellente, stai andando alla grande. Il tuo nuovo compito è uccidere 73 Kalphites.
+Excellent, you're doing great. Your new task is to kill 72 Trolls.;Eccellente, stai andando alla grande. Il tuo nuovo compito è uccidere 72 Troll.
+You're still hunting trolls; you have 72 to go. Come back when you've finished your task.;Stai ancora dando la caccia ai troll; ne hai 72 da fare. Torna quando hai finito il tuo compito.
+Excellent, you're doing great. Your new task is to kill 53 Werewolves.;Eccellente, stai andando alla grande. Il tuo nuovo compito è uccidere 53 lupi mannari.
+You're currently assigned to kill werewolves; only 53 more to go. Your reward point tally is 26.;Al momento ti è stato assegnato il compito di uccidere i lupi mannari; ne mancano solo altri 53. Il tuo totale di punti premio è 26.
+Â¡Hoy es tu dÃ­a de suerte, seÃ±or! Â¡Estoy donando a las vÃ­ctimas del crimen para expiar mis acciones pasadas!;Â¡Hoy es tu día de suerte, señor! Â¡Estoy donando a las víctimas del crimen para expiar mis acciones pasadas!
+VocÃª atÃ© derrotou TzTok-Jad, estou muito impressionado! Por favor, aceite este presente. Devolva-me a capa se nÃ£o quiser.;Você até derrotou TzTok-Jad, estou muito impressionado! Per favore, questo è il presente. Devolva-me a capa se não quiser.
+Back off JalYt-Mej-[PLAYER_NAME], trust me when I say our obsidian bodies are harder.;Stai indietro JalYt-Mej-[NOME_GIOCATORE], fidati di me quando dico che i nostri corpi di ossidiana sono più duri.
+Sou um aventureiro resistido, nada pode me impedir!;Sou um avventuriero resistido, nada pode me impedir!
+Normally I wouldn't consider you experienced enough to be taught by me, however during these strange times I will overlook your lack of experience in combat.;Normalmente non ti considererei abbastanza esperto per ricevere i miei insegnamenti, tuttavia in questi tempi strani trascurerò la tua mancanza di esperienza nel combattimento.
+Conte-me sobre sua habilidade, por favor.;Conte-me sobre sua habilidade, por favor.
+We'll start you off hunting black demons, you'll need to kill 192 of them.;Ti inizieremo a dare la caccia ai demoni neri, dovrai ucciderne 192.
+Olha para a loja.;Olha para a loja.
+Sua nova tarefa Ã© matar 136 Greater Demons.;Sua nova tarefa é matar 136 Demoni Maggiori.
+You need something new to hunt. Come and see me when you can and I'll give you a new task. Your reward point tally is 75.;Hai bisogno di qualcosa di nuovo da cacciare. Vieni a trovarmi quando puoi e ti darò un nuovo compito. Il tuo totale di punti premio è 75.
+Posso cancelar essa tarefa? (30 pontos);Posso cancellare questa tariffa? (30 punti)
+Saavuta sokkelokeskus mahdollisimman nopeasti. MitÃ¤ nopeampi olet, sitÃ¤ parempi palkkio.;Saavuta sokkelokeskus mahdollisimman nopeasti. MitÃ¤ nopeampi olet, sitÃ¤ parempi palkkio.
+Uusi tehtÃ¤vÃ¤si on tappaa 30 Skeletal Wyverns.;Uusi tehtÃ¤vÃ¤si su tappaa 30 Wyvern Scheletrici.
+Uusi tehtÃ¤vÃ¤si on tappaa 141 Gargoyles.;Uusi tehtÃ¤vÃ¤si su tappaa 141 Gargoyles.
+Ah... Tem uma crianÃ§a.;Ah... Tem uma criança.
+Com licenÃ§a? Eu tenho um nome! Eu sou Isadora e vocÃª Ã© o cara engraÃ§ado que se confunde com ents! Eu estive observando vocÃª.;Com licenÃ§a? Eu tenho um nome! Eu sou Isadora e você é o cara engraçado que se confunde com ents! Stavo osservando la tua vita.
+VocÃª tem muita habilidade em esculpir, meu amigo.;Hai molta abilità nello scolpire il mio amico.
+De fato! Veja esta parte!;Fatto! Veja esta parte!
+Alguma coisa o preocupa?;Alguma cosa è o preoccupazione?
+Eu nÃ£o poderia ter imaginado um resultado melhor! Os ents nÃ£o apenas aceitaram nosso novo totem, mas tambÃ©m deixaram algo para trÃ¡s!;Eu não poderia ter imaginado um resultado melhor! Os ents não apenas aceitaram nosso novo totem, mas também deixaram algo para trás!
+VocÃª jÃ¡ perguntou por aÃ­?;Você já perguntou por aí?
+Ah, ah! O engraÃ§ado quebrou o totem!;Ah, ah! O engraçado quebrou o totem!
+Boa ideia. No mÃ­nimo, serÃ¡ Ãºtil documentar os entalhes nele. Venha, vamos dar uma olhada...;Boa ideia. Non ho niente, sarà possibile documentare tutto il resto. Venha, vamos dar uma olhada...
+Esse Ã© um bom comeÃ§o.;Esse é um bom começo.
+Sim, mas os habitantes locais nÃ£o me deram muita coisa para continuar. Tudo o que me disseram Ã© que os ents, os totens e os espÃ­ritos fazem parte do ciclo natural aqui no vale.;Sim, mas os habitantes locais não me deram muita coisa para continuar. Tutto ciò che mi disse è che gli enti, i fratelli e gli spiriti fanno parte del ciclo naturale qui non vale.
+Veja isso! Acho que estÃ¡ ainda melhor do que antes!;Veja isso! Acho que está ainda melhor do que antes!
+Interessante... Ã‰ como uma espÃ©cie de ritual.;Interessante... Ã‰ como uma espécie de ritual.
+Funny man Ranulph broke the totem! Ents won't be happy with you!;L'uomo divertente Ranulph ha rotto il totem! Gli Ent non saranno contenti di te!
+Iniciar a minimissÃ£o Vale Totems?;Iniziare un minimissão Vale Totems?
+Hmm... Bem, por que nÃ£o damos uma olhada neste totem mais de perto?;Hmm... Bene, perché non damos uma olhada neste totem mais de perto?
+Ã‰ um lindo totem.;Ã‰ un totem lindo.
+Exatamente! Esses totens estÃ£o espalhados por aqui. Eles parecem ser muito importantes para os ents, mas nÃ£o sei por quÃª.;Esattamente! Esses totens estão espalhados por aqui. Sembra che siano molto importanti per gli uomini, ma non sei per quello.
+Very fair, I'll buy that rod!;Giusto, comprerò quella canna!
+That's too rich for me, I'll go to Catherby.;È troppo ricco per me, andrò a Catherby.
+Posso comprar uma de suas varas de pesca?;Posso acquistare una delle tue vare da pesca?
+OlÃ¡, sÃ³ queria bater um papo.;Olá, só queria bater um papo.
+Excellent choice!;Ottima scelta!
+Desculpe, nÃ£o tenho tempo agora.;Desculpe, não tenho tempo agora.
+Esqueci como pescar, vocÃª pode me lembrar?;Esqueci como pescar, você pode me lembrar?
+Hello young man!  Come to visit old Grandpa Jack? I can tell ye stories for sure. I used to be the best fisherman these parts have seen!;Ciao giovanotto!  Sei venuto a trovare il vecchio nonno Jack? Posso raccontarvi delle storie di sicuro. Ero il miglior pescatore che queste parti abbiano mai visto!
+Conte-me uma histÃ³ria entÃ£o.;Conte-me uma història entÃ£o.
+Of course you can young man. Let's see now...I think 5 gold is a fair price for a rod which has won the Fishing contest before eh?;Certo che puoi, giovanotto. Vediamo ora...penso che 5 ori siano un prezzo giusto per una canna che ha già vinto la gara di pesca eh?
+You're welcome young 'un.;Non c'è di che, giovane.
+Como faÃ§o para conseguir mais apitos?;Come fare per ottenere più apitos?
+VocÃª pode recarregar meu apito?;Puoi recarregar meu apito?
+Fear not I am very strong;Non temere, sono molto forte
+Why what's down there?;Perché cosa c'è laggiù?
+I hear he's susceptible to attacks from the mind. However I have no idea what that means, so it's not much help to me.;Ho sentito che è suscettibile agli attacchi della mente. Tuttavia non ho idea di cosa significhi, quindi non mi è di grande aiuto.
+I'd be very careful going down there friend.;Starei molto attento ad andare laggiù, amico.
+Why what's down there ?;Perché cosa c'è laggiù?
+Salarin the twisted. One of Kandarin's most dangerous chaos druids. I tried to take him on, then suddenly felt immensely weak.;Salarin il contorto. Uno dei druidi del caos più pericolosi di Kandarin. Ho provato ad affrontarlo, ma all'improvviso mi sono sentito immensamente debole.
+Yes, I use them to transport coal over the river. I will let other people use them too, I'm a nice person like that...;Sì, li uso per trasportare il carbone oltre il fiume. Li lascerò usare anche ad altre persone, sono una brava persona così...
+Just put coal in a truck and I'll move it down to my depot over the river.;Metti semplicemente il carbone in un camion e lo sposterò nel mio deposito oltre il fiume.
+Hello bold adventurer.;Ciao coraggioso avventuriero.
+What's a poison chalice?;Cos'è un calice di veleno?
+Hello Mr. Stankers.;Salve signor Stankers.
+Would you like a poison chalice?;Vorresti un calice di veleno?
+Are these your trucks?;Sono questi i tuoi camion?
+Um die Stufe und die Runen zu Ã¼berprÃ¼fen, die zum Wirken eines Zaubers erforderlich sind, bewegen Sie den Mauszeiger Ã¼ber den Zauber.;Um die Stufe und die Runen zu Ã¼berprüfen, die zum Wirken eines Zaubers erforderlich sind, bewegen Sie den Mauszeiger Ã¼ber den Zauber.
+Wenn Sie Ã¼ber die richtige Anzahl an Runen und die richtige Magiestufe verfÃ¼gen, leuchtet der Zauber auf, was bedeutet, dass Sie ihn wirken kÃ¶nnen.;Wenn Sie über die richtige Anzahl an Runen und die richtige Magiestufe verfügen, leuchtet der Zauber auf, was bedeutet, dass Sie ihn wirken können.
+Wenn Ihnen ein Kampfzauber zur VerfÃ¼gung steht, klicken Sie einmal darauf und wÃ¤hlen Sie dann Ihr Ziel aus. Ein gutes Ziel wÃ¤re ein Monster, das unter deiner Kampfstufe liegt.;Wenn Ihnen ein Kampfzauber zur Verfügung steht, klicken Sie einmal darauf und wählen Sie dann Ihr Ziel aus. Ein gutes Ziel era un mostro, das unter deiner Kampfstufe liegt.
+ErzÃ¤hl mir bitte etwas Ã¼ber magische KÃ¤mpfe.;Erzähl mir bitte etwas Ã¼ber magische Kämpfe.
+Wie erstelle ich Runen?;Come sono le rune?
+Lasst uns besprechen, wie sich meine Runen verhalten, wenn ich sie aufhebe.;Lasst uns besprechen, wie sich meine Runen verhalten, wenn ich sie aufhebe.
+Versuchen Sie es mit Ratten im Schloss oder, wenn Sie mutig sind, mit den Goblins im Westen, die sich selbst ein Ã„rgernis bereitet haben.;Versuchen Sie es mit Ratten im Schloss oder, if sie mutig sind, mit den Goblins im Westen, die sich selbst ein Ã„rgernis bereitet haben.
+Dies ist Ihr Zauberbuch. Es enthÃ¤lt alle Zauber, die Sie wirken kÃ¶nnen. Um einen Zauber wirken zu kÃ¶nnen, mÃ¼ssen Sie Ã¼ber die erforderliche Magiestufe und die richtige Menge an Runen verfÃ¼gen, die zum Wirken des Zaubers verwendet werden.;Dies ist Ihr Zauberbuch. Es enthält alle Zauber, die Sie wirken können. Um einen Zauber wirken zu können, müssen Sie über die erforderliche Magiestufe und die richtige Menge an Runen verfügen, die zum Wirken des Zaubers verwendet werden.
+Hallo Abenteurer, ich bin der Magic-Kampflehrer. MÃ¶chten Sie etwas Ã¼ber magische KÃ¤mpfe lernen oder vielleicht lernen, wie man Runen herstellt?;Ciao Abenteurer, ich bin der Magic-Kampflehrer. Möchten Sie etwas über magische Kämpfe lernen oder vielleicht lernen, wie man Runen herstellt?
+Wenn Sie weitere RatschlÃ¤ge benÃ¶tigen, sollten Sie mit Abenteurer Jon Ã¼ber Abenteuerpfade sprechen. MÃ¶glicherweise hat er sogar ein praktisches Starter-Kit, das Sie verwenden kÃ¶nnen.;Wenn Sie weitere Ratschläge benötigen, sollten Sie mit Abenteurer Jon Ã¼ber Abenteuerpfade sprechen. Möglicherweise hat er sogar ein praktisches Starter-Kit, das Sie verwenden können.
+Nemarti, der Fernkampflehrer und ich, geben beide alle 30 Minuten GegenstÃ¤nde aus, Sie mÃ¼ssen sich jedoch entscheiden, ob Sie Runen oder FernkampfausrÃ¼stung mÃ¶chten.;Nemarti, der Fernkampflehrer und ich, geben beide alle 30 Minuten GegenstÃ¤nde aus, Sie müssen sich jedoch entscheiden, ob Sie Runen oder Fernkampfausrüstung möchten.
+Um Runen einzufordern, klicken Sie mit der rechten Maustaste auf mich und wÃ¤hlen Sie â€žAnfordernâ€œ. Um FernkampfausrÃ¼stung einzufordern, klicken Sie mit der rechten Maustaste auf den Fernkampf-Tutor und wÃ¤hlen Sie â€žAnfordernâ€œ.;Um Runen einzufordern, clicca Sie mit der rechten Maustaste auf mich e wählen Sie â€žAnfordernâ€œ. Um Fernkampfausrüstung einzufordern, clicca Sie mit der rechten Maustaste auf den Fernkampf-Tutor e wählen Sie â€žAnfordernâ€œ.
+Gibt es noch etwas, das Sie gerne wissen wÃ¼rden?;Gibt es noch etwas, das Sie gerne wissen würden?
+Um hier reinzukommen, benÃ¶tigen Sie eine Kochstufe von 32.;Um hier reinzukommen, benötigen Sie eine Kochstufe von 32.
+Wo und was soll ich fischen?;Wo und was soll ich fishen?
+ErzÃ¤hl mir von verschiedenen Fischen.;Erzähl mir von verschiedenen Fischen.
+KÃ¶nnen Sie mir bitte die Grundlagen des Angelns beibringen?;Können Sie mir bitte die Grundlagen des Angelns beibringen?
+Welcome to the Magic Guild Store. Would you like to buy some magic supplies?;Benvenuti nel negozio di Magic Guild. Vorresti acquistare degli accessori magici?
+I don't know if I can trust you with any of my supplies...;Non so se posso fidarmi di te per le mie forniture...
+Mystic robe top: Really put it down?;Top della vestaglia mistica: mettilo davvero giù?
+Bergbau;Bergbau
+Sind Sie sicher, dass Sie die Lampe fÃ¼r die Fertigkeit â€žAngelnâ€œ verwenden mÃ¶chten?;Sind Sie sicher, dass Sie die Lampe für die Fertigkeit “Angeln” verwenden möchten?
+Erhalte 150 XP in der Fertigkeit...;Erhalte 150 XP in der Fertigkeit...
+Angeln;Angelon
+Holzschnitt;Holzschnitt
+Keiner;Keiner
+You're still hunting black dragons; you have 20 to go. Come back when you've finished your task.;Stai ancora dando la caccia ai draghi neri; you have 20 to go. Torna quando hai finito il tuo compito.
+Uusi tehtÃ¤vÃ¤si on tappaa 193 Hellhounds.;Uusi tehtÃ¤vÃ¤si sulla tappaa 193 Hellhounds.
+Uusi tehtÃ¤vÃ¤si on tappaa 198 Fire Giants.;Uusi tehtÃ¤vÃ¤si sulla tappaa 198 Giganti del Fuoco.
+haluatko tavata lemmikkini? hÃ¤nen nimensÃ¤ on Pete. Vai onko tÃ¤mÃ¤ ihmispuheen amuletti taas rikki?;haluatko tavata lemmikkini? hänen nimensä su Pete. Vai onko ta¤mä ihmispuheen amuletti taas rikki?
+Avast there, ye've already paid!;Avast ecco, hai già pagato!
+Shiver me timbers, what a ninny!;Scuotimi, che idiota!
+Suponho que sim, vou conceder-lhe acesso a Mor Ul Rek. Os guardas abrirÃ£o os portÃµes para vocÃª, vocÃª Ã© o primeiro JalYt a passar por esses portÃµes!;Suponho que sim, vou conceder-lhe acesso a Mor Ul Rek. Os guardas abrirão os portúes para você, você é o primeiro JalYt a passar por esses portúes!
+Consegui derrotar TzTok-Jad e obter esta capa de fogo.;Segui derrotar TzTok-Jad e ottieni questo capa de fogo.
+Certamente isso prova que sou capaz? Por favor, posso passar agora?;Certamente questa è la prova che sou capaz? Per favore, posso passare agorà?
+That is most impressive JalYt-Mej-[PLAYER_NAME].;È davvero impressionante JalYt-Mej-[NOME_GIOCATORE].
+Sorry, dearie, if I stop to chat I'll lose count. Talk to my sister instead; she likes to chat. You'll find her upstairs in the church.;Scusa, tesoro, se mi fermo a chiacchierare perdo il conto. Parla invece con mia sorella; le piace chiacchierare. La troverai di sopra nella chiesa.
+You don't look up to much. Suponho que o Silverlight possa ser bom o suficiente para ajudÃ¡-lo.;Non hai molta ammirazione. Suppongo che Silverlight possa essere sufficiente per aiutarlo.
+Camerinthum... Carlem... Purchai... Aber... Gabindo!;Camerinthum... Carlem... Purchai... Aber... Gabindo!
+NÃ£o, cancele.;No, annulla.
+Sim, eu entendo como funciona.;Sim, ho capito come funziona.
+VocÃª ainda deseja guardar itens na sacola?;Vuoi ancora conservare gli oggetti nella borsa?
+Sua nova tarefa Ã© matar 200 Greater Demons.;Sua nova tarefa é matar 200 Demoni Maggiori.
+You're still hunting greater demons; you have 200 to go. Come back when you've finished your task.;Stai ancora dando la caccia a demoni più grandi; ne hai 200 da fare. Torna quando hai finito il tuo compito.
+Sua nova tarefa Ã© matar greater demons. How many would you like to slay?;Sua nova tarefa é matar demoni maggiori. Quanti ne vorresti uccidere?
+Sua nova tarefa Ã© matar wyrms. How many would you like to slay?;Sua nova tarefa é matar wyrms. Quanti ne vorresti uccidere?
+Sua nova tarefa Ã© matar 5 Wyrms.;Sua nova tarefa é matar 5 Wyrms.
+You need to finish grabbing my twin before you come back through!;Devi finire di prendere il mio gemello prima di tornare!
+But I want to leave.;Ma voglio andarmene.
+Excellent, you're doing great. Your new task is to kill 14 Vampyres.;Eccellente, stai andando alla grande. Il tuo nuovo compito è uccidere 14 vampiri.
+Would you like to see these effects?;Ti piacerebbe vedere questi effetti?
+Teleport to the Fremennik Slayer Dungeon;Teletrasportati al dungeon degli Slayer dei Fremennik
+Sim, e nÃ£o me pergunte novamente.;Sim, e não me pergunte novamente.
+Teleport to the Stronghold Slayer Cave;Teletrasportarsi alla Grotta dell'uccisore della fortezza
+Teleport to the Morytania Slayer Tower;Teletrasportatevi alla Torre degli Sventratori di Morytania
+NÃ£o. NÃ£o entre.;No. Non entrare.
+Continuar mesmo assim?;Continuare così?
+Sim. Eu sei que itens descartados podem ser irrecuperÃ¡veis.;Sim. Io sei che gli oggetti scartati potrebbero essere irrecuperabili.
+Sua nova tarefa Ã© matar 200 Tzhaar.;Sua nova tarefa é matar 200 Tzhaar.
+A wise choice.;Una scelta saggia.
+Switch task to TzTok-Jad.;Passa l'attività a TzTok-Jad.
+Sua nova tarefa Ã© matar tzhaar. How many would you like to slay?;Sua nova tarefa é matar tzhaar. Quanti ne vorresti uccidere?
+Ah... Tzhaar... como vocÃª estÃ¡ realizando esta tarefa sozinho, por uma recompensa extra vocÃª pode escolher matar TzTok-Jad em vez do TzHaar.;Ah... Tzhaar... come você sta realizzando esta tarefa sozinho, por uma ricompensa extra você pode escolher matar TzTok-Jad em vez do TzHaar.
+Keep current Tzhaar task.;Mantieni l'attività Tzhaar corrente.
+Excellent, you're doing great. Your new task is to kill 53 Basilisks.;Eccellente, stai andando alla grande. Il tuo nuovo compito è uccidere 53 Basilischi.
+OlÃ¡, andilho.;Olá, andilho.
+OlÃ¡ viajante, o que o traz Ã minha humilde ferraria?;Olà viajante, o que o traz a minha humilde ferraria?
+Ok, rÃ¡pido, nÃ£o temos muito tempo.;Ok, veloce, non abbiamo molto tempo.
+Encontrei Sir Prysin. Infelizmente ainda nÃ£o tenho a espada. Ele complicou tudo para mim.;Incontreremo Sir Prysin. Infelizmente ainda não tenho a espada. Tutto è complicato per me.
+Camerinthum... Carlem... Purchai... Aber... Gabindo.;Camerinthum... Carlem... Purchai... Aber... Gabindo.
+Bem, vou usar a poderosa espada Silverlight, da qual acredito que vocÃª tenha uma das chaves?;Bene, usi la potente spada Silverlight, da quale credito hai uno di questi?
+Bom, tem a loja de espadas do outro lado da rua, ou também tem vários tipos de lojas lá em cima, perto do mercado.;Bom, hai una loja de espadas fuori dal lato della strada, o hai anche vari tipi di lojas lá in cima, vicino al mercato.
+Well, there's the sword shop across the road, or there's also all sorts of shops up around the market.;Beh, c'è un negozio di spade dall'altra parte della strada, o ci sono anche negozi di ogni genere intorno al mercato.
+Eu procuro uma missÃ£o.;Eu procuro uma missão.
+Posso ser novo aqui, mas posso dizer que isso nÃ£o Ã© verdade! VocÃª nem estÃ¡ usando uniforme adequado!;Posso essere novo qui, ma posso dizer que isso não è verdade! Non stai usando l'uniforme adeguata!
+Bem, preciso fazer algum trabalho de espionagem, mas Ã© muito perigoso. EnvolverÃ¡ entrar na fortaleza dos Cavaleiros Negros.;Bene, preciso fare qualche lavoro di spionaggio, ma è molto pericoloso. Envolverá entrerà nella fortezza dei Cavaleiros Negros.
+EntÃ£o... como vai a arma secreta?;EntÃ£o... come vai a arma secreta?
+Ã‰ um repolho especialmente cultivado por minha prima Helda, que mora em Draynor Manor.;È un repolho coltivato appositamente dalla piccola prima Helda, che ora vive a Draynor Manor.
+A poÃ§Ã£o de invencibilidade estÃ¡ quase pronta...;Un po' di invencibilità è quasi pronta...
+O solo ali Ã© ligeiramente mÃ¡gico e confere Ã s couves ligeiras propriedades mÃ¡gicas....;O solo ali è leggermente magico e parla con le sue piccole proprietà magiche....
+Movimento sÃ¡bio.;Movimento sábio.
+Que barulho Ã© esse?;Que barulho é esse?
+Eu arruinei a poÃ§Ã£o de invencibilidade dos Cavaleiros Negros. Isso deve acabar com o seu problema e acabar com os pequenos esquemas deles.;Eu arruinei a poção de invencibilidade dos Cavaleiros Negros. Questo deve risolvere il suo problema e risolvere i suoi piccoli problemi.
+Onde foi que o Greldo foi parar com aquele repolho mÃ¡gico!;Onde foi que o Greldo foi parar com aquele repolho mágico!
+Minha poÃ§Ã£o!;Minha poção!
+Eu nÃ£o entraria lÃ¡ se fosse vocÃª. Esses Cavaleiros Negros estÃ£o em uma reuniÃ£o importante. Eles disseram que matariam qualquer um que entrasse lÃ¡!;Eu não entraria lá se fosse você. Esses Cavaleiros Negros è in una riunione importante. Dicevano che matariam qualquer um que entrasse lá!
+Eu nÃ£o ligo. Eu vou entrar de qualquer maneira.;Eu não ligo. Stai entrando in qualsiasi modo.
+Ok, nÃ£o vou.;Ok, no.
+Nossa, isso nÃ£o parece bom!;Nossa, isso não parece bom!
+Parece que meu trabalho aqui terminou. Parece que isso sabotou com sucesso seu pequeno plano de arma secreta.;Sembra che il mio lavoro sia qui finito. Sembra che questo abbia sabotato con successo il tuo piccolo piano d'arma segreto.
+Alternar la obtenciÃ³n de pergaminos de pistas en recipientes.;Alternare l'estrazione dei pergamini di pista nei contenitori.
+Pregunta por pistas mÃ¡s avanzadas.;Richiedi le tracce più avanzate.
+Preguntar sobre los tipos de pistas.;Chiedere informazioni sui tipi di pista.
+un signo de interrogaciÃ³n al final. TambiÃ©n tiene barba blanca y lleva una mochila llena de pergaminos. TambiÃ©n hay muchos tutores dispuestos a enseÃ±arle las muchas habilidades que podrÃ­as aprender.;un segno di interrogatorio alla finale. También tiene barba blanca y lleva una mochila llena de pergaminos. Ci sono anche molti tutores dispuestos per imparare le molte abilità che potrai imparare.
+Pregunta sobre pistas para principiantes.;Pregunta sobre pistas para principiantes.
+Uusi tehtÃ¤vÃ¤si on tappaa 113 Blue Dragons.;Uusi tehtÃ¤väsi alla tappaa 113 Blue Dragons.
+Uusi tehtÃ¤vÃ¤si on tappaa 185 Fire Giants.;Uusi tehtÃ¤vÃ¤si sulla tappaa 185 Giganti del Fuoco.
+Uusi tehtÃ¤vÃ¤si on tappaa 173 Nechryael.;Uusi tehtÃ¤vÃ¤si su tappaa 173 Nechryael.
+Uusi tehtÃ¤vÃ¤si on tappaa 119 Wyrms.;Uusi tehtÃ¤vÃ¤si su tappaa 119 Wyrms.
+Olen uusi, se olit sinÃ¤ kaveri! 'Ere, ota jotain hyvÃ¤Ã¤!;Olen uusi, se olit sinä kaveri! «Ere, ota jotain hyvää!»
+VocÃª parece com fome para mim. Vou te dizer uma coisa: pegue uma barra de chocolate por minha conta.;Você parece com fome para mim. Vou te dizer uma coisa: pegue uma barra de cioccolato por minha conta.
+Sua nova tarefa Ã© matar 200 Black Dragons.;Sua nova tarefa é matar 200 Black Dragons.
+Sua nova tarefa Ã© matar black dragons. How many would you like to slay?;Sua nova tarefa é matar draghi neri. Quanti ne vorresti uccidere?
+Sua nova tarefa Ã© matar 200 Wyrms.;Sua nova tarefa é matar 200 Wyrms.
+Según mis registros, no tienes ninguna recompensa de tarea portuaria que puedas reclamar.;Según mis registros, no tienes ninguna recompensa de tarea portuaria que puedas reclamar.
+All done! The boat is now docked here at Aldarin.;Tutto fatto! La barca è ora attraccata qui ad Aldarin.
+¡Gracias!;¡Grazie!
+All done! The boat is now docked here at Port Piscarilius.;Tutto fatto! La barca è ora ormeggiata qui a Port Piscarilius.
+Helm and sails (H1).;Timone e vele (H1).
+Crewmate Assignation: Adventurer Ada (H3 P2 D1);Assegnazione del compagno di squadra: avventuriera Ada (H3 P2 D1)
+Are you REALLY sure you want to drink this?;Sei DAVVERO sicuro di volerlo bere?
+¿Qué rumores has oído exactamente?;¿Qué voci ha oído esattamente?
+¡Hola! ¿Qué estás haciendo aquí?;¡Hola! Cosa stai facendo qui?
+Hola, estoy aquí para investigar los rumores de una presencia mágica oscura en estas tierras.;Ciao, sono qui per indagare sulle voci di una presenza magica e oscura in queste terre.
+He oído que aquí hay ruinas escondidas en las montañas con el poder de reanimar seres de entre los muertos. Zandar Horfyre me envió a estudiarlos.;Lui oído que qua hay rovinas escondidas in las montañas con il potere di rianimare seres de entre los muertos. Zandar Horfyre mi ha mandato a studiarlo.
+Rune salvaging hook (D3).;Gancio per il recupero delle rune (D3).
+Crewmate Assignation: Jolly Jim (H1 P1 D4);Assegnazione del compagno di squadra: Jolly Jim (H1 P1 D4)
+Rune cannon (P4).;Cannone runico (P4).
+Gale catcher (D3).;Catturatore di burrasca (D3).
+Gracias marinero. Aquí está tu pago.;Grazie marinero. Ecco il tuo pago.
+¡Todo listo! El barco ahora está atracado aquí en Corsair Cove.;¡Tutto da fare! Il barco ora è attraccato qui a Corsair Cove.
+Reemplácelo.;Sostituiscilo.
+¿Cómo le gustaría modificar esta instalación?;Come le piacerebbe modificare questa installazione?
+Retírelo por completo.;Ritirati per completo.
+¿Realmente eliminarlo?;¿Eliminarlo davvero?
+¡Todo listo! El barco ahora está atracado aquí en el Pandemonium.;¡Tutto da fare! El barco ora è attirato qui nel Pandemonio.
+¡Todo listo! El barco ahora está atracado aquí en Deepfin Point.;¡Tutto da fare! Il barco ora è attraccato qui a Deepfin Point.
+O que Ã© GlÃ³ria?;O que é Glória?
+VocÃª pode me falar sobre modificadores?;Você pode me falar sobre modificadores?
+Este lugar...? Ora, este Ã© o grande Coliseu Fortis!;Este lugar...? Ora, este é o grande Coliseu Fortis!
+Ei! Onde vocÃª pensa que estÃ¡ indo? Venha falar comigo antes de ficar pensando por aÃ­. VocÃª serÃ¡ morto!;Ehi! Onde pensi che sei indo? Venha falar comigo antes de ficar pensando por aí. Você sarà morto!
+Each modifier will increase the challenge for the rest of the run - So choose wisely!;Ogni modificatore aumenterà la sfida per il resto della corsa, quindi scegli saggiamente!
+Como posso ser recompensado?;Come posso essere ricompensato?
+Sim, eu entendo os riscos.;Sim, intendo i riscos.
+If you aren't confident that you can complete the next wave, you can claim your existing rewards and exit early.;Se non sei sicuro di poter completare l'ondata successiva, puoi richiedere i premi esistenti e uscire in anticipo.
+Be careful though. If you die or leave the arena before claiming your loot from me, you will lose all of the rewards you've earned.;Stai attento però. Se muori o lasci l'arena prima di reclamarmi il tuo bottino, perderai tutte le ricompense che hai guadagnato.
+Even better - if you manage to finish all of the waves and the final challenge, then you'll be awarded with Dizana's Quiver.;Ancora meglio: se riesci a completare tutte le ondate e la sfida finale, riceverai la faretra di Dizana.
+Tem certeza de que deseja entrar no Fortis Colosseum?;Sei sicuro di voler entrare al Fortis Colosseum?
+Tijd om de fijne kunst van het bakken van brood te leren.;Tempo per imparare l'arte migliore del forno della covata.
+Equipos de reparación.;Attrezzature di riparazione.
+¿Qué te gustaría elaborar?;Cosa ti piacerebbe elaborare?
+Partes del casco.;Parti del casco.
+¿Con qué te gustaría trabajar?;¿Con cosa ti piacerebbe lavorare?
+Partes de quilla.;Parti di quilla.
+Barras metálicas.;Barra metallica.
+Ahoy, Captain! What can I do for you?;Ehi, Capitano! Cosa posso fare per lei?

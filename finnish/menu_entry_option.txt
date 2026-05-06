@@ -3041,3 +3041,34 @@ Channel (Kandarin);kanava (kandariini)
 Make <col=ff9040>Onyx amulet (u)</col>;Tee <col=ff9040>Onyx-amuletti (u)</col>
 Make <col=ff9040>Onyx bracelet</col>;Tee <col=ff9040>Onyx-rannekoru</col>
 Buy sets:;Osta sarjat:
+Jump-from;Jump-from
+Channel (Karamja);Kanava (Karamja)
+Default quantity: 6,000;Oletusmäärä: 6 000
+Buy: 1 x Adamant full helm;Osta: 1 x Adamant-täysruori
+Buy: 150 x Rune dagger;Osta: 150 x Rune tikari
+Master;Hallita
+Make <col=ff9040>Slayer ring (8)</col>;Tee <col=ff9040>Slayer-rengas (8)</col>
+Sell: 1 x Uncut emerald;Myydään: 1 x leikkaamaton smaragdi
+Make-cuppa;Make-cuppa
+Buy: 1 x Armadyl rune armour set (lg);Osta: 1 x Armadyl rune panssarisarja (lg)
+Sell: 1 x Armadyl platelegs;Myydään: 1 x Armadyl levyjalka
+Deposit-499;Talletus - 499
+Withdraw-499;Nosto-499
+Buy: 15 x Rune platebody;Osta: 15 x Rune platebody
+Sell: 500 x Amulet of strength;Myynti: 500 x voimaamuletti
+Buy: 1 x Rune platebody;Osta: 1 x Rune platebody
+Buy: 1 x Rune longsword;Osta: 1 x Rune pitkä miekka
+Unstore;Poista tallennus
+Ring-last-destination (DJP);Ring-last-destination (DJP)
+Rustle;Rasahdus
+Ring-last-destination (CJQ);Ring-last-destination (CJQ)
+Enchant;Lumoa
+Ring-last-destination (BJS);Ring-last-destination (BJS)
+Aim and Fire;Tähtää ja tulta
+Amy;Amy
+View Info;Näytä tiedot
+Buy: 20 x Rune platebody;Osta: 20 x Rune platebody
+Buy: 40 x Rune full helm;Osta: 40 x Rune täysi ruori
+Deposit-38;Talletus-38
+Buy: 80 x Adamant platebody;Osta: 80 x Adamant platebody
+Buy: 100 x Sapphire amulet;Osta: 100 x Sapphire amuletti
