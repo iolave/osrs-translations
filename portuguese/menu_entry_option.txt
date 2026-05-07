@@ -3041,3 +3041,34 @@ Channel (Kandarin);Canal (Kandarin)
 Make <col=ff9040>Onyx amulet (u)</col>;Faça <col=ff9040>amuleto de ônix (u)</col>
 Make <col=ff9040>Onyx bracelet</col>;Faça <col=ff9040>pulseira de ônix</col>
 Buy sets:;Compre conjuntos:
+Jump-from;Saltar de
+Channel (Karamja);Canal (Karamja)
+Default quantity: 6,000;Quantidade padrão: 6.000
+Buy: 1 x Adamant full helm;Comprar: 1 x Elmo completo Adamant
+Buy: 150 x Rune dagger;Comprar: 150 x Adaga Rúnica
+Master;Mestre
+Make <col=ff9040>Slayer ring (8)</col>;Faça <col=ff9040>anel do Exterminador (8)</col>
+Sell: 1 x Uncut emerald;Venda: 1 x esmeralda sem cortes
+Make-cuppa;Fazer xícara
+Buy: 1 x Armadyl rune armour set (lg);Comprar: 1 x conjunto de armadura rúnica Armadyl (lg)
+Sell: 1 x Armadyl platelegs;Venda: 1 x pernas de placa Armadyl
+Deposit-499;Depósito-499
+Withdraw-499;Retirar-499
+Buy: 15 x Rune platebody;Comprar: 15 x Base de placa rúnica
+Sell: 500 x Amulet of strength;Venda: 500 x Amuleto de Força
+Buy: 1 x Rune platebody;Comprar: 1 x placa rúnica
+Buy: 1 x Rune longsword;Comprar: 1 x Espada Longa Rúnica
+Unstore;Desarmazenar
+Ring-last-destination (DJP);Último destino do toque (DJP)
+Rustle;farfalhar
+Ring-last-destination (CJQ);Último destino do toque (CJQ)
+Enchant;Encantar
+Ring-last-destination (BJS);Último destino do toque (BJS)
+Aim and Fire;Mirar e atirar
+Amy;Amém
+View Info;Ver informações
+Buy: 20 x Rune platebody;Comprar: 20 x Base de placa rúnica
+Buy: 40 x Rune full helm;Comprar: 40 x Elmo completo Rune
+Deposit-38;Depósito-38
+Buy: 80 x Adamant platebody;Comprar: 80 x placa Adamant
+Buy: 100 x Sapphire amulet;Comprar: 100 x Amuleto de Safira

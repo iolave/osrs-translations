@@ -3041,3 +3041,34 @@ Channel (Kandarin);Kanal (Kandarin)
 Make <col=ff9040>Onyx amulet (u)</col>;Gör <col=ff9040>Onyxamulet (u)</col>
 Make <col=ff9040>Onyx bracelet</col>;Gör <col=ff9040>Onyx-armband</col>
 Buy sets:;Köp set:
+Jump-from;Hoppa från
+Channel (Karamja);Kanal (Karamja)
+Default quantity: 6,000;Standardantal: 6 000
+Buy: 1 x Adamant full helm;Köp: 1 x Adamant helroder
+Buy: 150 x Rune dagger;Köp: 150 x Rundolk
+Master;Bemästra
+Make <col=ff9040>Slayer ring (8)</col>;Gör <col=ff9040>Slayer ring (8)</col>
+Sell: 1 x Uncut emerald;Sälj: 1 x oslipad smaragd
+Make-cuppa;Make-cuppa
+Buy: 1 x Armadyl rune armour set (lg);Köp: 1 x Armadyl runpansarset (lg)
+Sell: 1 x Armadyl platelegs;Sälj: 1 x Armadyl plattben
+Deposit-499;Deposition-499
+Withdraw-499;Uttag-499
+Buy: 15 x Rune platebody;Köp: 15 x Rune platebody
+Sell: 500 x Amulet of strength;Sälj: 500 x Amulet of Amulet
+Buy: 1 x Rune platebody;Köp: 1 x Rune platebody
+Buy: 1 x Rune longsword;Köp: 1 x Rune långsvärd
+Unstore;Avlagra
+Ring-last-destination (DJP);Ring-sista-destination (DJP)
+Rustle;Prassla
+Ring-last-destination (CJQ);Ring-sista-destination (CJQ)
+Enchant;Tjusa
+Ring-last-destination (BJS);Ring-sista-destination (BJS)
+Aim and Fire;Sikta och eld
+Amy;Amy
+View Info;Visa info
+Buy: 20 x Rune platebody;Köp: 20 x Rune platebody
+Buy: 40 x Rune full helm;Köp: 40 x Rune helhjälm
+Deposit-38;Insättning-38
+Buy: 80 x Adamant platebody;Köp: 80 x Adamant platebody
+Buy: 100 x Sapphire amulet;Köp: 100 x Safiramulet
