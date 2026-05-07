@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Osta: 40 x Rune täysi ruori
 Deposit-38;Talletus-38
 Buy: 80 x Adamant platebody;Osta: 80 x Adamant platebody
 Buy: 100 x Sapphire amulet;Osta: 100 x Sapphire amuletti
+Withdraw-5000000;Nosto - 50 000 000
+Deposit-5000000;Talletus - 50 000 000
+Default quantity: 5,000,000;Oletusmäärä: 5 000 000
+Deposit-3000000;Talletus - 300 000
+Deposit-13500000;Talletus 13500000
+Withdraw-13500000;Nosto-13500000
+Deposit-15000000;Talletus - 15 000 000
+Withdraw-3000000;Nosto - 30 000 000
+Withdraw-15000000;Nosto - 15 000 000
+Withdraw-108;Nosto-108

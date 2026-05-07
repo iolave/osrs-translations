@@ -97097,3 +97097,260 @@ Partes del casco.;Teile des Schutzes.
 Partes de quilla.;Partes de quilla.
 Barras metálicas.;Barras metallicas.
 Ahoy, Captain! What can I do for you?;Ahoi, Kapitän! Was kann ich für Sie tun?
+Armadyl plateskirt;Armadyl-Plattenrock
+No... desde que era joven.;Nein...desde que era joven.
+How about nightmares then? Are you experiencing any problems with especially scary nightmares?;Wie wäre es dann mit Albträumen? Haben Sie Probleme mit besonders gruseligen Albträumen?
+Eh... no... Me encuentro bien...;Eh... nein... Ich encuentro bien...
+Bien, bien, tenía que asegurarme. Esta plaga tiene un  índice de contagio increíblemente rápido. ¡Se propaga  más rápido que el resfriado común!;Bien, bien, tenía que asegurarme. Es gab eine unglaublich schnelle Ansteckungsgefahr. Es wird immer schneller propagiert, dass die Gemeinschaft zurückgekehrt ist!
+Uh... no... I feel fine...;Äh... nein... mir geht es gut...
+How do you feel? No heavy flu, shivers, nausea or loss of appetite?;Wie fühlen Sie sich? Keine schwere Grippe, Schüttelfrost, Übelkeit oder Appetitlosigkeit?
+Good, good, I had to make sure. This plague really has an incredibly fast contagion rate. It spreads faster than the common cold!;Gut, gut, ich musste sichergehen. Diese Seuche hat wirklich eine unglaublich schnelle Ansteckungsrate. Es breitet sich schneller aus als eine Erkältung!
+No... not since I was young.;Nein... nicht, seit ich jung war.
+¿Cómo te encuentras? ¿Sin gripe fuerte, escalofríos,  náuseas o pérdida de apetito?;Was sind deine Begegnungen? Gibt es keine Beschwerden, Kälte, Übelkeit oder Appetitlosigkeit?
+¿Y las pesadillas? ¿Tienes algún problema con las  pesadillas especialmente terroríficas?;¿Y las pesadillas? Haben Sie ein Problem mit besonders terroristischen Menschen?
+Hola Jerico;Hola Jerico
+Mis palomas mensajeras me ayudan a comunicarme con mis  amigos a través del muro.;Mis palomas mensajeras me ayudan a communicarm con mis amigos a través del muro.
+Selecciona una opción;Wählen Sie eine Option
+Lo encontrarás en el extremo sur de la muralla. Vigila  a los dolientes.;Ich stoße auf das Extrem auf der Wand. Vigila a los dolientes.
+Pero ten cuidado, si las plañideras te atrapan,  elcastigo será severo.;Aber zehn Tage später, wenn die Planer zuschlagen, ist Elcastigo sehr ernst.
+Hola, te estaba esperando. Elena me ha dicho que  tienes que cruzar el muro.;Hallo, das ist es. Elena, ich weiß nicht, dass du die Mauer überqueren möchtest.
+¿La peste? Cuéntame más.;¿La peste? Cuéntame más.
+Todavía no.;Todavía Nr.
+He dispuesto que dos de ellos te ayuden con una  escalera de cuerda. Omart te espera en el extremo sur  de la muralla.;Er bezweifelt, dass sie sich mit einer Treppenstufe begnügen müssen. Omart te espera en the extremo sur de la wallla.
+You'll find him at the southern end of the wall. Keep an eye out for them mourners.;Sie finden ihn am südlichen Ende der Mauer. Halten Sie Ausschau nach den Trauernden.
+Vale, tendré cuidado.;Vale, tendré cuidado.
+Hola de nuevo ¿Has hablado ya con Omart?;Hola de new ¿Hablado ya con Omart?
+Me informó de tu problema viajero. Me encantaría  ayudarte, tengo una escalera de cuerda y mi socio,  Kilron, te espera al otro lado.;Ich informiere Sie über Ihr Problem auf dem Weg. Ich war begeistert, ging auf eine Rolltreppe und meine Gesellschaft, Kilron, ich warte auf den anderen.
+Omart, Jerico me ha dicho que podrías ayudarme.;Omart, Jerico, ich weiß nicht, was du tun kannst.
+Por desgracia, no podemos arriesgarnos con la torre de  vigilancia tan cerca. Así que primero tenemos que  distraer a los guardias de la torre.;Aus diesem Grund dürfen wir nicht mit dem Wachturm in der Nähe rechnen. Das bedeutet, dass wir zunächst die Wachen des Turms verlassen müssen.
+Cosas buenas.;Cosas buenas.
+Sua tarefa foi cancelada.;Ihr Plan wurde abgesagt.
+Sua nova tarefa Ã© matar 5 Greater Demons.;Sua nova tarefa é matar 5 Große Dämonen.
+Sua nova tarefa Ã© matar fire giants. How many would you like to slay?;Sua nova tarefa é matar Feuerriesen. Wie viele würdest du gerne töten?
+Sua nova tarefa Ã© matar 5 Aberrant Spectres.;Ihre neue Geschichte ist 5 Aberrant Spectres.
+Sua nova tarefa Ã© matar aberrant spectres. How many would you like to slay?;Sua nova tarefa é matar abweichende Gespenster. Wie viele würdest du gerne töten?
+Sua nova tarefa Ã© matar 5 Fire Giants.;Ihre neue Version von 5 Fire Giants.
+You're still hunting greater demons; you have 5 to go. Come back when you've finished your task.;Du bist immer noch auf der Jagd nach größeren Dämonen; Du hast noch 5 vor dir. Kommen Sie zurück, wenn Sie Ihre Aufgabe erledigt haben.
+Hmm... It seems as though the Shilo Village slayer master has provided you with three choices, you must go to them in order to pick.;Hmm ... Es scheint, als ob der Berserkermeister des Shilo-Dorfes dir drei Möglichkeiten geboten hat, du musst zu ihnen gehen, um eine Auswahl zu treffen.
+Sua nova tarefa Ã© matar 5 Tzhaar.;Sua nova tarefa é matar 5 Tzhaar.
+Sua nova tarefa Ã© matar 200 Lesser Nagua.;Sua nova tarefa é matar 200 Kleine Nagua.
+Sua nova tarefa Ã© matar lesser nagua. How many would you like to slay?;Sua nova tarefa é matar lesser nagua. Wie viele würdest du gerne töten?
+Sua nova tarefa Ã© matar 5 Lesser Demons.;Sua nova tarefa é matar 5 Kleine Dämonen.
+Sua nova tarefa Ã© matar 5 Lesser Nagua.;Sua nova tarefa é matar 5 Kleine Nagua.
+Stop! Imposter!;Stoppen! Hochstapler!
+You're still hunting lesser demons; you have 5 to go. Come back when you've finished your task.;Du jagst immer noch kleinere Dämonen; Du hast noch 5 vor dir. Kommen Sie zurück, wenn Sie Ihre Aufgabe erledigt haben.
+Imposter! Leave this place at once!;Hochstapler! Verlasse diesen Ort sofort!
+Choose Black Dragons as your next task? You do not have enough slayer points to cancel it. ;Wählen Sie Black Dragons als Ihre nächste Aufgabe? Du hast nicht genügend Berserkerpunkte, um es abzubrechen.
+Sua nova tarefa Ã© matar 5 Jellies.;Sua nova tarefa é matar 5 Gelees.
+Sua nova tarefa Ã© matar jellies. How many would you like to slay?;Sua nova tarefa é matar gelees. Wie viele würdest du gerne töten?
+On second thoughts, maybe not.;Wenn ich es mir genauer überlege, vielleicht auch nicht.
+Sua nova tarefa Ã© matar bloodveld. How many would you like to slay?;Sua nova tarefa é matar Bloodveld. Wie viele würdest du gerne töten?
+Sua nova tarefa Ã© matar 5 Bloodveld.;Ihr neuer Plan vor 5 Bloodveld.
+Yes and don't warn me again.;Ja und warne mich nicht noch einmal.
+Choose Hellhounds as your next task? You do not have enough slayer points to cancel it. ;Wählen Sie Hellhounds als Ihre nächste Aufgabe? Du hast nicht genügend Berserkerpunkte, um es abzubrechen.
+Sua nova tarefa Ã© matar hellhounds. How many would you like to slay?;Sua nova tarefa é matar hellhounds. Wie viele würdest du gerne töten?
+Eu tenho uma tarefa...;Eu tenho uma tarefa...
+Oh yes, you're currently assigned to kill aberrant spectres. How many would you like to slay?;Oh ja, Sie haben derzeit den Auftrag, seltsame Gespenster zu töten. Wie viele würdest du gerne töten?
+Sua nova tarefa Ã© matar metal dragons. How many would you like to slay?;Sua nova tarefa é matar Metalldrachen. Wie viele würdest du gerne töten?
+Sua nova tarefa Ã© matar 200 Metal Dragons.;Ihr neuer Gegenstand besteht aus 200 Metalldrachen.
+Essas pranchas custam 100 moedas. VocÃª nÃ£o tem dinheiro suficiente para todos eles.;Es sind 100 Monate bis 14.00 Uhr möglich. Die Stimme reichte nicht für alle anderen aus.
+Nilsal. Do you want me to make some planks for you? I can make planks from wood, oak, teak and mahogany logs. Or would you like to buy some other housing supplies?;Nilsal. Soll ich ein paar Bretter für dich anfertigen? Ich kann Bretter aus Holz-, Eichen-, Teak- und Mahagonistämmen herstellen. Oder möchten Sie andere Wohnmaterialien kaufen?
+What kind of options are there?;Welche Möglichkeiten gibt es?
+Receio que minha loja esteja fechada no momento.;Receio que minha loja esteja fechada no momento.
+Welcome to the Emir's Arena! I'm afraid most of our facilities are not available to you.;Willkommen in der Emir-Arena! Ich fürchte, die meisten unserer Einrichtungen stehen Ihnen nicht zur Verfügung.
+What kind of fights are happening today?;Was für Kämpfe finden heute statt?
+Bem-vindo Ã  Arena do Emir! O que posso fazer para vocÃª?;Bem-vindo à Arena do Emir! O que posso fazer para você?
+Welcome to the Emir's Arena! I'm afraid most of our facilities are not available to you, but you would be most welcome to participate in unranked Duels.;Willkommen in der Emir-Arena! Ich fürchte, die meisten unserer Einrichtungen stehen Ihnen nicht zur Verfügung, aber Sie wären herzlich willkommen, an Duellen ohne Rangfolge teilzunehmen.
+I challenge you!;Ich fordere dich heraus!
+Ho! Ho! Ho!;Ho! Ho! Ho!
+Can I see your shop?;Kann ich Ihren Shop sehen?
+How do I get a fight?;Wie bekomme ich einen Kampf?
+... tive que ser lançado de um canhão contra uma rocha! Mas, no fim, expulsei o espírito da rocha e o Dondakan pôde minerar seu ouro.;... Ich möchte Sie bitten, gegen einen Rocha vorzugehen! Aber ohne Film, vertreiben Sie den Geist des Rochen und Dondakan, um ihn zu bergen.
+... I had to be shot out of a cannon into a rock!  But finally I banished the spirit of the rock and Dondakan could mine his gold.;... Ich musste aus einer Kanone in einen Felsen geschossen werden!  Doch schließlich verbannte ich den Geist des Felsens und Dondakan konnte sein Gold abbauen.
+Repair all items: 4,500,000 coins.;Repariere alle Gegenstände: 4.500.000 Münzen.
+1,500,000 moedas.;1,500,000 moedas.
+Repair that item: 1,500,000 coins.;Repariere diesen Gegenstand: 1.500.000 Münzen.
+Vou precisar de 1,500,000 moedas para consertar isso.;Sie erhalten 1.500.000 Monate für den Kauf.
+Pronto, feliz em fazer negÃ³cios com vocÃª!;Pronto, feliz em fazer negócios com você!
+I'll need 1,500,000 coins to repair that.;Ich brauche 1.500.000 Münzen, um das zu reparieren.
+Eu realmente nÃ£o sou importante para ser honesto.;Es ist wirklich nicht so wichtig, um ehrlich zu sein.
+O que parece ser um problema?;Warum ist das ein Problem?
+Eu gostaria de testar vocÃª e ver se posso confiar em vocÃª...;Ich habe die Möglichkeit, meine Stimme zu testen, und kann sie anvertrauen...
+GRRRRR! Por que vocÃª me fez correr por aÃ­ procurando ingredientes para vocÃª?!?!;GRRRRR! Warum vocÃª mich fez correr por aÃ beschafft Zutaten für vocÃª!?!
+Bem-vindo ao Pub Auburn. VocÃª estÃ¡ aqui para comprar uma bebida?;Besuchen Sie Pub Auburn. Sind Sie hier, um ein Baby zu kaufen?
+Mais daquela substÃ¢ncia estranha. Eu me pergunto onde isso leva...;Mais daquela substáncia estranha. Eu mir pergunto onde isso leva...
+Estou investigando as pessoas desaparecidas. VocÃª sabe alguma coisa sobre eles?;Du ermittlerst die Leute, die desaparecidas sind. Können Sie sich über sie lustig machen?
+O que temos aqui? Mais daquela substÃ¢ncia estranha. Eu me pergunto onde isso leva...;O que temos aqui? Mais daquela substáncia estranha. Eu mir pergunto onde isso leva...
+Nada para mim, obrigado.;Nada para mim, obrigado.
+Sobre as pessoas desaparecidas...;Sobre as pessoas desaparecidas...
+Iniciar a missÃ£o Shadows of Custodia?;Eine Mission zu Shadows of Custodia starten?
+Isso Ã© estranho... HÃ¡ alguns arranhÃµes na parede, junto com uma estranha substÃ¢ncia vermelha e pegajosa. NÃ£o Ã© sangue... O que Ã©?;Isso é estranho... HÃ¡ alguns arranhÃµes na parede, junto com a estranha substância vermelha e pegajosa. Néo é sangue... O que é?
+Se vocÃª estiver disposto, isso significaria tudo para nÃ³s. VocÃª Ã© o Ãºnico que realmente se importou o suficiente para encontrar alguma coisa!;Wenn Sie uns zur Verfügung stehen, ist dies für uns von Bedeutung. VocÃª Ã© o Ãºnico, das wirklich wichtig oder ausreichend ist, um Alguma Coisa zu finden!
+NÃ£o Ã© sempre que alguÃ©m vem falar comigo. O que vocÃª quer?;Es dauerte nicht lange, bis ich mich auf den Weg gemacht hatte. O que você quer?
+Gostaria de saber se alguÃ©m por aqui sabe mais sobre isso...;Gostaria de saber se alguém por aqui sabe mais über isso...
+VocÃª Ã© quem nos salvou. Obrigado.;VocÃª Ã© quem nos salvou. Obrigado.
+LÃ¡ vamos nÃ³s!;Lá vamos nós!
+Antos? VocÃª estÃ¡ bem?;Antos? VocÃª estÃ¡ bem?
+NÃ£o vimos nenhum outro... Ã‰ramos sÃ³ nÃ³s e o Antos...;NÃ£o vimos nenhum outro... Ã‰ramos sÃ³ nÃ³s e o Antos...
+VocÃª estÃ¡ de volta. Como tÃ¡ indo?;VocÃª estÃ¡ de volta. Como tá indo?
+NÃ£o acredito que vocÃª os encontrou!;NÃ£o acredito que vocÃª os encontrou!
+Acho que sim... mas nÃ£o tenho certeza se Etz pode...;Acho que sim... mas nÃ£o tenho certeza se Etz pode...
+VocÃª estÃ¡ bem? VocÃª pode andar?;VocÃª estÃ¡ bem? VocÃª pode andar?
+Eles foram embora?;Eles foram embora?
+Sua nova tarefa Ã© matar 5 Black Demons.;Ihre neue Version von 5 Black Demons.
+Choose Lesser Nagua as your next task? You do not have enough slayer points to cancel it. ;Wählen Sie Kleines Nagua als Ihre nächste Aufgabe? Du hast nicht genügend Berserkerpunkte, um es abzubrechen.
+Sua nova tarefa Ã© matar black demons. How many would you like to slay?;Sua nova tarefa é matar schwarze Dämonen. Wie viele würdest du gerne töten?
+Choose Black Demons as your next task? You do not have enough slayer points to cancel it. ;Wählen Sie Black Demons als Ihre nächste Aufgabe? Du hast nicht genügend Berserkerpunkte, um es abzubrechen.
+Sua nova tarefa Ã© matar 5 Hellhounds.;Sua nova tarefa é matar 5 Hellhounds.
+Sua nova tarefa Ã© matar 200 Custodian Stalkers.;Ihr neues Ziel ist 200 Custodian Stalkers.
+Sua nova tarefa Ã© matar custodian stalkers. How many would you like to slay?;Sua nova tarefa é matar custodian stalkers. Wie viele würdest du gerne töten?
+Â¡No me voy a involucrar en esto!;Â¡Nein, ich werde mich hier anmelden!
+Uusi tehtÃ¤vÃ¤si on tappaa 116 Wyrms.;Uusi tehtäväsi on tappaa 116 Wyrms.
+If ye value yer limbs ye'll put that Icon round yer neck, and hope they don't come out into the light!;Wenn du Wert auf deine Gliedmaßen legst, hängest du dir die Ikone um den Hals und hoffst, dass sie nicht ans Licht kommen!
+Be ye some form of simpleton? Do ye not hear the howlin' of the Horrors?;Seid ihr eine Art Einfaltspinsel? Hört ihr nicht das Heulen der Schrecken?
+Well, I can hear something now you mention it...;Nun ja, jetzt, wo du es erwähnst, kann ich etwas hören ...
+Uusi tehtÃ¤vÃ¤si on tappaa 12 Black Dragons.;Uusi tehtäväsi on tappaa 12 Black Dragons.
+Haluatko silti jatkaa?;Haluatko silti jatkaa?
+Err, all right, I'll get right on that.;Ähm, alles klar, ich komme gleich darauf an.
+Uusi tehtÃ¤vÃ¤si on tappaa 193 Trolls.;Uusi tehtäväsi on tappaa 193 Trolle.
+You're still hunting cave horrors; you have 135 to go. Come back when you've finished your task.;Du bist immer noch auf der Jagd nach Höhlenschrecken; Du hast noch 135 übrig. Kommen Sie zurück, wenn Sie Ihre Aufgabe erledigt haben.
+Uusi tehtÃ¤vÃ¤si on tappaa 193 Bloodveld.;Uusi tehtäväsi auf tappaa 193 Bloodveld.
+Ei, minun tÃ¤ytyy mennÃ¤ hakemaan ruokaa, aseita ja valonlÃ¤hde.;Wenn Sie nicht wissen, was Sie tun müssen, ist es wichtig, dass Sie es nicht wissen.
+Uusi tehtÃ¤vÃ¤si on tappaa 135 Cave Horrors.;Uusi tehtäväsi on tappaa 135 Cave Horrors.
+KyllÃ¤, mielestÃ¤ni olen tÃ¤ysin valmistautunut.;Kyllä, mielestäni olen tägysin valmistautunut.
+That be them, howlin', always howlin'!;Das sind sie, heulen, heulen immer!
+Uusi tehtÃ¤vÃ¤si on tappaa 187 Abyssal Demons.;Uusi tehtäväsi on tappaa 187 Abyssal Demons.
+Private.;Privat.
+KyllÃ¤ kiitos, tarvitsen puunlehtiÃ¤.;Kyllä kiitos, tarvitsen puunlehtiär.
+Okay, I will trade the mole parts.;Okay, ich werde die Maulwurfsteile tauschen.
+If I'm not mistaken, you've got some body parts from a big mole there! I'll trade it for bird nests if ye likes. Or was ye wantin' some woad leaves instead?;Wenn ich mich nicht irre, haben Sie dort Körperteile von einem großen Maulwurf! Ich tausche es gegen Vogelnester, wenn du möchtest. Oder wolltest du stattdessen ein paar Waidblätter?
+Public.;Öffentlich.
+What kind of tunnels would you like to enter?;Welche Art von Tunneln würden Sie gerne betreten?
+Anteeksi, mutta en ole kiinnostunut.;Anteeksi, viel mehr als nur ein Kind.
+Haluatko kaivaa? HyvÃ¤, hyvÃ¤! Mutta puhumme ensin. Puhu ja kaivaa!;Haluatko kaivaa? Hyvä, hyvä! Mutta puhumme ensin. Puhu ja kaivaa!
+Palaan pian.;Palaan-Pian.
+Voitko kertoa lisÃ¤Ã¤ veljistÃ¤?;Voitko kertoa lisÃ¤Ã¤ veljistÃ¤?
+KyllÃ¤, olen peloton!;Kyllä, gutes Peloton!
+Ei mitenkÃ¤Ã¤n, se nÃ¤yttÃ¤Ã¤ pelottavalta!;Ei mitenkÃ¤Ã¤n, se nÃ¤yttÃ¤Ã¤ pelottavalta!
+Bueno, eso fue todo movido sin problemas.;Gut, das ist alles ohne Probleme.
+Muy bien, ¡manos a la obra!;Muy bien, ¡manos a la obra!
+Toma los cristales.;Toma los cristales.
+Toma los espejos.;Toma los espejos.
+There are 3 mirrors and 3 crystals in the tray...;Im Tablett befinden sich 3 Spiegel und 3 Kristalle...
+Toma el cristal.;Toma el cristal.
+Toma todo.;Toma todo.
+Â¿Quieres volver a la Gran Biblioteca?;¿Quieres volver a la Gran Biblioteca?
+Â¿Entrar en la Gran Biblioteca?;Â¿Eintreten in die Große Biblioteca?
+Don't pull it.;Ziehen Sie nicht daran.
+Tira de la palanca.;Tira de la Palanca.
+Pulling the lever will reset the light beams.;Durch Ziehen des Hebels werden die Lichtstrahlen zurückgesetzt.
+No hay nada en la bandeja...;Kein Heu nada en la bandeja ...
+Tira de Ã©l.;Tira de él.
+There are 7 mirrors and 1 crystal in the tray...;Im Tablett befinden sich 7 Spiegel und 1 Kristall...
+Hay 6 espejos y 1 cristal en la bandeja...;Es sind 6 Spiegel und 1 Kristall in der Bandeja...
+'...EncontrÃ© una manera de compartir mi esencia con los elfos, un pedazo de mi ser para cada uno de ellos.';„...Erkenne eine Art, meine Esencia mit den Elfen zu vergleichen, ein Pedazo de mi ser para cada uno de ellos.“
+Â¿Puedes llevarme a otro lugar?;Â¿Könnten Sie einen anderen Weg einschlagen?
+There are 10 mirrors and 4 crystals in the tray...;Im Tablett befinden sich 10 Spiegel und 4 Kristalle...
+There is 1 crystal in the tray...;Es gibt 1 Kristall in der Schale...
+¿Cómo?;Kommst du?
+I'm looking for an experienced adventurer and you're not it. Come back when you are more capable.;Ich suche einen erfahrenen Abenteurer und du bist nicht der Richtige. Kommen Sie zurück, wenn Sie fähiger sind.
+Hola. ¿Necesitas ayuda? Estoy buscando una búsqueda.;Hola. ¿Necesitas ayuda? Estoy buscando una búsqueda.
+Intenta utilizar algunas de las palomas de Jerico.  Arroja comida para pájaros a la torre y suelta  algunas palomas cerca de ella. Jerico debería poder  ayudarte.;Ich beabsichtige, einige Palomas von Jerico zu nutzen.  Arroja comida para pájaros a la torre y suelta algunas palomas cerca de ella. Jerico debería poder ayudarte.
+Busco un aventurero experimentado y tú no lo eres.  Vuelve cuando seas más capaz.;Busco ein experimentierfreudiger Abenteurer und du bist kein Liebhaber.  Vuelve cuando seas más capaz.
+Seguro que Jerico puede ayudarte con eso si se lo  pides amablemente.;Seguro que Jerico konnte ayudarte con eso si se lo pides amablemente.
+Hola;Hola
+¿Dónde consigo el pienso para pájaros y palomas?;Haben Sie den Pienso für Pyjamas und Palomas bestellt?
+Ah hola Gracias de nuevo por rescatar a mi hija.;Ah hallo, Gracias de nuevo por rescatar a mi hija.
+Creo que algunas de las palomas de Jerico podrían  ayudarnos. Pon comida para pájaros en la torre y  suelta algunas palomas cerca. Nos distraerán.;Creo que algunas de las palomas de Jerico podrían ayudarnos. Pon comida para pájaros en la torre y suelta algunas palomas cerca. Nos distraerán.
+Hola. ¿Has solucionado ya esa distracción?;Hola. ¿Hat es dir geholfen, dich abzulenken?
+Gracias por los consejos.;Gracias por los consejos.
+¿Qué llevó la peste a Ardougne?;Was bringt die Pest nach Ardougne?
+Sólo visitas turísticas.;Einzelbesuche bei Touristen.
+¿Cuáles son los síntomas de la peste?;Was sind die Symptome der Pest?
+¿Puedo ayudar?;¿Puedo ayudar?
+¿Qué haces tocando esa campana? ¿No crees que algunos  tenemos trabajo que hacer?;Was hat es mit dieser Campana auf sich? Glauben Sie nicht, dass die Leute wissen, was Sie tun müssen?
+Buenos días, señor.;Buenos días, Señor.
+¿Cuáles son los requisitos para entrar en el Gremio de Magos?;Welche Voraussetzungen sind erfüllt, um dem Gremio de Magos beizutreten?
+túnicas de mago en la tierra y tenemos una zona de  entrenamiento llena de zombis para que practiques tu  magia con ellos.;Magische Tunikas auf der Erde und eine Zona de renamiento llena de zombies, damit sie ihre Magie mit ihnen üben können.
+Vale, gracias.;Vale, Gracias.
+¿Qué hay que hacer en el Gremio de Magos?;Was ist los mit Gremio de Magos?
+Bueno... en fin... aquí estamos muy ocupados, date  prisa ¿qué quieres?;Bueno... en fin... Hier sind meine Mitarbeiter, Date Prisa ¿Qué quieres?
+¿Qué estás tramando?;Was ist los?
+Necesitas un nivel mágico de 66 para ser admitido en  el gremio. La energía mágica dentro del gremio no es  segura para nadie por debajo de ese nivel. Para  cualquier otro asunto que requiera atención.;Um in die Schule aufgenommen zu werden, ist eine magische Stufe von 66 erforderlich. Die magische Energie im Inneren des Gremiums ist nicht sicher, bevor sie von diesem Niveau abweicht. Für den Fall, dass Sie aufmerksam sein müssen.
+¿Qué haces en el Gremio?;Was ist in Gremio passiert?
+Pero me dijeron que llamara al timbre si quería algo  de atención.;Ich weiß aber nicht, dass ich die Klangfarbe hören möchte, wenn ich aufmerksam bin.
+mage robes in the land and we have a training area full of zombies for you to practice your magic on.;Magierroben im Land und wir haben einen Trainingsbereich voller Zombies, auf dem Sie Ihre Magie üben können.
+Preparándote para ir a pescar, por supuesto. ¡No hay  tiempo que perder!;Bereiten Sie sich bitte auf den Fischfang vor. ¡No hay time que perder!
+Tu barco no parece muy seguro.;Du barco no parece muy seguro.
+This is the finest wizards' establishment in the land. We have magic portals to the other towers of wizardry around Gielinor. We have a particularly wide collection of runes in our rune shop. We sell some of the finest;Dies ist die beste Zaubereranstalt des Landes. Wir haben magische Portale zu den anderen Türmen der Zauberei rund um Gielinor. Eine besonders große Sammlung an Runen haben wir in unserem Runenshop. Wir verkaufen einige der schönsten
+Tengo todos los suministros que necesito en la tienda  que hay al final del embarcadero. Venden buenas  cuerdas, martillos y hachas, aunque sus cubos de  achique no son demasiado eficaces.;Ich habe alle Suministros, die in der Zeit bis zum Ende des Embarcaderos benötigt werden, verloren. Venden buenas cuerdas, martillos y hachas, aunque sus cubos de achique no son deasiado eficaces.
+¿Qué peces pescas?;¿Qué peces pescas?
+Gajes del oficio. Suelo golpearlo con un hacha un par  de veces y reparar el daño con un martillo una vez  que se ha ido.;Gajes del oficio. Suelo golpearlo mit einem Unfall und repariert den Schaden mit einem Martillo una vez, den er hatte.
+¿Tienes que estar de broma?;¿Tienes que estar de broma?
+¡Pues claro que puedes! Aunque te advierto que los  mares son despiadados y sin experiencia en pesca no  pescarás mucho.;¡Pues claro que puedes! Ich rate Ihnen, die Stuten zu verzweifeln und nicht viel Erfahrung im Wasser zu haben.
+¡amantes de la tierra florida!;Amantes de la Tierra Florida!
+Nada que un poco de pasta de pantano no pueda  arreglar...;Nada que un poco de Pasta de pantano no pueda arreglar...
+¿Qué es la pasta del pantano?;Was ist die Pantano-Pasta?
+Ah, y una cosa más... Espero que seas un goodswimmer;Ah, das ist noch mehr... Ich bin ein Güterschwimmer
+Estaré bien, vamos.;Estaré bien, vamos.
+En realidad, creo que lo dejaré.;In der Realität war es so, als ob es losgehen würde.
+Además, está el pequeño asunto del Kraken.;Además, es ist das kleine Kraken.
+¿Pasta del pantano?;¿Pasta del pantano?
+Bloomin' land lovers!!!;Blühende Landliebhaber!!!
+1.000 monedas;1.000 monedas
+Sube.;Sube.
+Caja misteriosa;Caja misteriosa
+¡Absolutamente CORRECTO! ¡Sigue ganando! ¡Vale,  siguiente pregunta!;¡Absolut richtig! ¡Sigue Ganando! ¡Vale, siguiente pregunta!
+¡BIENVENIDOS al MAYOR ESPECTÁCULO DE PREGUNTAS de todo  Gielinor!;¡BIENVENIDOS al MAYOR ESPECTÁCULO DE PREGUNTAS de todo Gielinor!
+Mmm, bird feed! Just what I needed.;Mmm, Vogelfutter! Genau das, was ich brauchte.
+¡SÍ! ¡Tienes razón! ¡Vale, siguiente pregunta!;¡SÍ! ¡Tienes razón! ¡Vale, siguiente pregunta!
+Selecciona tu premio;Wählen Sie Ihren Preis
+¿Subir o bajar por la escalera?;Sind Sie auf der Treppe angelangt?
+Espera...;Espera...
+Que tengo. Me dijo que te preguntara por unas palomas.;Que tengo. Ich sagte, dass du von einem Palomas erwartet wurdest.
+Omart pensó que serían una buena distracción para los  guardias.;Omart denkt, dass es eine gute Ablenkung für die Wächter ist.
+Demos la bienvenida a nuestro nuevo concursante:  [PLAYER_NAME]! ¡Cuatro preguntas acertadas y ganas! Ya  conoces las reglas, ¡así que empecemos!;Demos la bienvenida a nuestro new concursante: [PLAYER_NAME]! ¡Cuatro preguntas acertadas y ganas! Ya conoces las reglas, ¡así que empecemos!
+¿Palomas? ¿Para qué necesitas mis palomas?;¿Palomas? Warum braucht man Palomas?
+¡Es tu día de suerte, [PLAYER_NAME]! Tienes la  oportunidad de ganar grandes premios en mi concurso.  ¿Quieres jugar?;Es ist dein letzter Tag, [PLAYER_NAME]! Sie haben die Möglichkeit, in meinem Wettbewerb große Prämien zu erhalten.  ¿Quieres jugar?
+Sí, por favor, ¡estoy muy emocionada!;Si, por favor, ¡estoy muy emocionada!
+Ahh, muy inteligente. Seguro que puedo dejarte algunos  prestados, siempre que los cuides. Coge una de las  jaulas de detrás de mi casa. También necesitarás  pienso. Debería tener en el armario.;Ahh, sehr intelligent. Seien Sie sicher, dass Sie einige Zeit in Anspruch nehmen können, und warten Sie, bis Sie wissen, was Sie brauchen. Coge una de las jaulas de trás detrás de my casa. Auch dies ist nicht erforderlich. Debería tener en el armario.
+Los concursos son estúpidos. Lárgate.;Los concursos son estúpidos. Lárgate.
+Desciende.;Absteigend.
+DING DING DING ¡Eso es! Muy bien, ¡siguiente pregunta!;DING DING DING ¡Eso es! Muy bien, ¡siguiente pregunta!
+¡FELICIDADES! ¡Eres un GANADOR! ¡Por favor, elige tu  PREMIO!;¡FELICIDADES! ¡Eres un GANADOR! ¡Por favor, elige tu PREMIO!
+No necesito más comida para pájaros.;Für den Schlaf sind keine weiteren Mahlzeiten erforderlich.
+Te recomiendo que te pongas una máscara antigás antes  de entrar en Ardougne. No querrás arriesgarte a  contraer la peste.;Wir empfehlen Ihnen, vor der Ankunft in Ardougne eine Anti-Gras-Maske zu verwenden. Keine Angst vor der Pest.
+Bien, hagámoslo.;Gut, hagámoslo.
+Volveré pronto.;Volveré pronto.
+Bien hecho, los guardias están teniendo verdaderos  problemas con esos pájaros. Debes irte ahora viajero,  es tu única oportunidad.;Gut, die Wächter haben mit ihren Kindern große Probleme. Debes irte ahora viajero, es ist Ihre einzige Gelegenheit.
+No tardes mucho, los dolientes pronto se librarán de  esos pájaros.;Keine Zeit, die Dolienten werden bald von ihren Eltern ausgeliehen.
+Eugh, locked. There must be a way for me to get in. Maybe there's something around here that will help me.;Eugh, verschlossen. Es muss einen Weg für mich geben, hineinzukommen. Vielleicht gibt es hier etwas, das mir helfen kann.
+Gracias Kilron. ¿Sabes dónde encontrar el Cuartel  General de los Lamentadores?;Gracias Kilron. Hat Sabes sich dem Cuartel General de los Lamentadores widersetzt?
+Parece que se está preparando un buen guiso. Esto debe  servir para alimentar a todos los dolientes.;Parece que se está preparando a buen guiso. Dies muss für die Ernährung aller Dolienten dienen.
+Hmm. Me pregunto si habrá otra forma de entrar.;Hmm. Ich wollte, dass ich eine andere Form des Eintritts annehme.
+Es el edificio más al noreste de la ciudad. Ten  cuidado por allí.;Es ist das größte Gebäude im Norden der Stadt. Ten cuidado por allí.
+Eugh, bloqueado. Tiene que haber una forma de que  pueda entrar. Tal vez haya algo por aquí que me  ayude.;Eugh, bloqueado. Sie haben eine Form, die Sie betreten können. Das war mir schon klar.
+Cualquiera que coma este guiso lo pasará mal ahora.;Weil das Koma schon bald vorbei ist.
+Bienvenido a Ardougne Oeste amigo. Soy Kilron. Dime si  quieres volver a cruzar el muro.;Bienvenido a Ardougne Oeste amigo. Soja Kilron. Dime si quieres volver a cruzar el muro.
+Retrocede ciudadano. Sólo los dolientes pueden entrar  en la sede.;Retrocede ciudadano. Allein die Dolienten können in den Sessel eintreten.
+Parece que vocÃª percorreu uma distÃ¢ncia razoÃ¡vel.;Parece que vocã percorreu uma distáncia razoável.
+Desculpe, preciso fazer trilhas.;Desculpe, präzise Fazer-Trilhas.
+Ok, mostre-me os preÃ§os das toras.;Ok, mir sind die PreÃ§os das Toras am wichtigsten.
+¿Hay algún médico cerca? Quizá pueda ir a buscarlos.;¿Hay algún medico cerca? Quizá pueda ir a buscarlos.
+No sé cuánto tiempo más podré aguantar aquí.;Ich bin noch nicht so lange hier.
+Hmmm, ¿cómo has llegado hasta aquí? No eres de esta  chusma. Ah, bueno, tendrás que quedarte. No puedo  arriesgarme a que vuelvas ahora.;Hmmm, was ist mit dir? No eres de esta chusma. Ah, bueno, tendrás que quedarte. Kein Puedo arriesgarme a que vuelvas ahora.
+Aunque no tengo la peste...;Aunque no tengo la peste...
+Aléjate ciudadano. Varios dolientes están enfermos por  intoxicación alimentaria.;Aléjate ciudadano. Verschiedene alkoholische Getränke sind einer Vergiftung durch Nahrungsmittel ausgesetzt.
+Tenía la impresión de que aquí todo el mundo estaba  afectado.;Tenía la impresión de que all do el mundo estaba afectado.
+Es un trabajo exigente, y recibimos poco  agradecimiento de la gente de aquí.;Es ist eine anspruchsvolle Arbeit, und wir erhalten eine Verbesserung der Gesellschaft.
+No hay médicos en Ardougne Oeste, sólo esa enfermera  al suroeste de la capilla. Pero no hace falta que te  preocupes, pronto lo solucionaremos.;Ich habe keine Ärzte in Ardougne Oeste, sondern nur an der Brust. Aber ich hatte keine Probleme damit, schnell eine Lösung zu finden.
+También hacemos todo lo posible por aliviar el  sufrimiento de estas personas.Nos apodan plañideras  porque pasamos mucho tiempo en los funerales de las  víctimas de la peste, a los que nadie más puede  asistir.;Auch dies war möglich, um die Unterstützung dieser Personen zu unterstützen. Wir haben uns auf die Beerdigung der Opfer der Pest gefasst, und wir konnten ihnen am meisten helfen.
+Yo también, pero no parece ser el caso.;Ja, aber nicht parece ser el caso.
+Trabajamos para el rey Lathas de Ardougne Oriental.  Nos ha encomendado contener las plagas malditas que  asolan Ardougne Occidental.;Trabajamos para el rey Lathas de Ardougne Oriental.  Wir empfehlen die Anwärter auf die bösen Plagen, die Ardougne Occidental mit sich bringt.
+¿Qué es una plañidera?;Was ist das für ein Plan?
+¿Te está afectando la plaga?;Bist du vom Plaga betroffen?
+Ojalá pudiera hacer algo más por esta gente.;Ojalá pudiera hacer algo más por esta gente.
+¿Cómo has entrado en Ardougne Oeste? Ah, bueno,  tendrás que quedarte, no podemos arriesgarnos a que  propagues la peste fuera.;¿Cómo has entrado en Ardougne Oeste? Ah, bueno, tendrás que quedarte, no podemos arriesgarnos a que propagiert la peste fuera.
+I wish there was more I could do for these people.;Ich wünschte, ich könnte mehr für diese Menschen tun.
+Hola enfermera;Hola enfermera
+No, curiosamente la gente de aquí no parece estar  afectada. Son las horribles condiciones de vida las  que hacen que la gente enferme.;Nein, seltsamerweise ist der Herr hier nicht betroffen. Es liegen schreckliche Lebensbedingungen vor, die den Gente Enferme verursacht haben.

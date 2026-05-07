@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Acquista: 40 x Elmo completo runico
 Deposit-38;Deposito-38
 Buy: 80 x Adamant platebody;Acquista: 80 x Platebody Adamant
 Buy: 100 x Sapphire amulet;Acquista: 100 amuleti di zaffiro
+Withdraw-5000000;Preleva-5000000
+Deposit-5000000;Deposito-5000000
+Default quantity: 5,000,000;Quantità predefinita: 5.000.000
+Deposit-3000000;Deposito-3000000
+Deposit-13500000;Deposito-13500000
+Withdraw-13500000;Ritiro-13500000
+Deposit-15000000;Deposito-15000000
+Withdraw-3000000;Ritiro-3000000
+Withdraw-15000000;Ritiro-15000000
+Withdraw-108;Ritiro-108

@@ -97097,3 +97097,283 @@ Partes del casco.;Partes del casco.
 Partes de quilla.;Partes de quilla.
 Barras metálicas.;Barras metálicas.
 Ahoy, Captain! What can I do for you?;¡Ah, capitán! ¿Qué puedo hacer por ti?
+Armadyl plateskirt;Falda de placas Armadyl
+No... desde que era joven.;No... desde que era joven.
+How about nightmares then? Are you experiencing any problems with especially scary nightmares?;¿Qué tal las pesadillas entonces? ¿Tiene algún problema con pesadillas especialmente aterradoras?
+Eh... no... Me encuentro bien...;Eh... no... Me encuentro bien...
+Bien, bien, tenía que asegurarme. Esta plaga tiene un  índice de contagio increíblemente rápido. ¡Se propaga  más rápido que el resfriado común!;Bien, bien, tenía que asegurarme. Esta plaga tiene un índice de contagio increíblemente rápido. ¡Se propaga más rápido que el resfriado común!
+Uh... no... I feel fine...;Uh... no... me siento bien...
+How do you feel? No heavy flu, shivers, nausea or loss of appetite?;¿Cómo te sientes? ¿No tienes gripe fuerte, escalofríos, náuseas o pérdida de apetito?
+Good, good, I had to make sure. This plague really has an incredibly fast contagion rate. It spreads faster than the common cold!;Bien, bien, tenía que asegurarme. Esta plaga realmente tiene una tasa de contagio increíblemente rápida. ¡Se propaga más rápido que el resfriado común!
+No... not since I was young.;No... no desde que era joven.
+¿Cómo te encuentras? ¿Sin gripe fuerte, escalofríos,  náuseas o pérdida de apetito?;¿Cómo te encuentras? ¿Sin gripe fuerte, escalofríos, náuseas o pérdida de apetito?
+¿Y las pesadillas? ¿Tienes algún problema con las  pesadillas especialmente terroríficas?;¿Y las pesadillas? ¿Tienes algún problema con las pesadillas especialmente terroríficas?
+Hola Jerico;Hola Jericó
+Mis palomas mensajeras me ayudan a comunicarme con mis  amigos a través del muro.;Mis palomas mensajeras me ayudan a comunicarme con mis amigos a través del muro.
+Selecciona una opción;Selecciona una opción
+Lo encontrarás en el extremo sur de la muralla. Vigila  a los dolientes.;Lo encontrarás en el extremo sur de la muralla. Vigila a los dolientes.
+Pero ten cuidado, si las plañideras te atrapan,  elcastigo será severo.;Pero ten cuidado, si las plañideras te atrapan, el castigo será severo.
+Hola, te estaba esperando. Elena me ha dicho que  tienes que cruzar el muro.;Hola, te estaba esperando. Elena me ha dicho que tienes que cruzar el muro.
+¿La peste? Cuéntame más.;¿La peste? Cuéntame más.
+Todavía no.;Todavía no.
+He dispuesto que dos de ellos te ayuden con una  escalera de cuerda. Omart te espera en el extremo sur  de la muralla.;Él dispuso que dos de ellos te ayuden con una escalera de cuerda. Omart te espera en el extremo sur de la muralla.
+You'll find him at the southern end of the wall. Keep an eye out for them mourners.;Lo encontrarás en el extremo sur del muro. Esté atento a los dolientes.
+Vale, tendré cuidado.;Vale, tendré cuidado.
+Hola de nuevo ¿Has hablado ya con Omart?;Hola de nuevo ¿Has hablado ya con Omart?
+Me informó de tu problema viajero. Me encantaría  ayudarte, tengo una escalera de cuerda y mi socio,  Kilron, te espera al otro lado.;Me informé de tu problema viajero. Me encantaría ayudarte, tengo una escalera de cuerda y mi socio, Kilron, te espera al otro lado.
+Omart, Jerico me ha dicho que podrías ayudarme.;Omart, Jerico me ha dicho que podrías ayudarme.
+Por desgracia, no podemos arriesgarnos con la torre de  vigilancia tan cerca. Así que primero tenemos que  distraer a los guardias de la torre.;Por desgracia, no podemos arriesgarnos con la torre de vigilancia tan cerca. Así que primero tenemos que distraer a los guardias de la torre.
+Cosas buenas.;Cosas buenas.
+Sua tarefa foi cancelada.;Sua tarefa foi cancelada.
+Sua nova tarefa Ã© matar 5 Greater Demons.;Sua nova tarefa é matar 5 demonios mayores.
+Sua nova tarefa Ã© matar fire giants. How many would you like to slay?;Sua nova tarefa é matar gigantes de fuego. ¿A cuántos te gustaría matar?
+Sua nova tarefa Ã© matar 5 Aberrant Spectres.;Sua nova tarefa é matar 5 espectros aberrantes.
+Sua nova tarefa Ã© matar aberrant spectres. How many would you like to slay?;Sua nova tarefa é matar espectros aberrantes. ¿A cuántos te gustaría matar?
+Sua nova tarefa Ã© matar 5 Fire Giants.;Sua nova tarefa é matar 5 Gigantes de Fuego.
+You're still hunting greater demons; you have 5 to go. Come back when you've finished your task.;Todavía estás cazando demonios mayores; te quedan 5 Vuelve cuando hayas terminado tu tarea.
+Hmm... It seems as though the Shilo Village slayer master has provided you with three choices, you must go to them in order to pick.;Hmm... Parece que el maestro asesino de Shilo Village te ha proporcionado tres opciones, debes acudir a ellas para elegir.
+Sua nova tarefa Ã© matar 5 Tzhaar.;Sua nova tarefa é matar 5 Tzhaar.
+Sua nova tarefa Ã© matar 200 Lesser Nagua.;Sua nova tarefa é matar 200 Nagua Menor.
+Sua nova tarefa Ã© matar lesser nagua. How many would you like to slay?;Sua nova tarefa é matar nagua menor. ¿A cuántos te gustaría matar?
+Sua nova tarefa Ã© matar 5 Lesser Demons.;Sua nova tarefa é matar 5 demonios menores.
+Sua nova tarefa Ã© matar 5 Lesser Nagua.;Sua nova tarefa é matar 5 Nagua Menor.
+Stop! Imposter!;¡Detener! ¡Impostor!
+You're still hunting lesser demons; you have 5 to go. Come back when you've finished your task.;Todavía estás cazando demonios menores; te quedan 5 Vuelve cuando hayas terminado tu tarea.
+Imposter! Leave this place at once!;¡Impostor! ¡Sal de este lugar de inmediato!
+Choose Black Dragons as your next task? You do not have enough slayer points to cancel it. ;¿Elegir Dragones Negros como tu próxima tarea? No tienes suficientes puntos de cazador para cancelarlo.
+Sua nova tarefa Ã© matar 5 Jellies.;Sua nova tarefa é matar 5 Jellies.
+Sua nova tarefa Ã© matar jellies. How many would you like to slay?;Sua nova tarefa é matar jaleas. ¿A cuántos te gustaría matar?
+On second thoughts, maybe not.;Pensándolo bien, tal vez no.
+Sua nova tarefa Ã© matar bloodveld. How many would you like to slay?;Sua nova tarefa é matar bloodveld. ¿A cuántos te gustaría matar?
+Sua nova tarefa Ã© matar 5 Bloodveld.;Sua nova tarefa é matar 5 Bloodveld.
+Yes and don't warn me again.;Sí y no me avises más.
+Choose Hellhounds as your next task? You do not have enough slayer points to cancel it. ;¿Elegir Hellhounds como tu próxima tarea? No tienes suficientes puntos de cazador para cancelarlo.
+Sua nova tarefa Ã© matar hellhounds. How many would you like to slay?;Sua nova tarefa é matar hellhounds. ¿A cuántos te gustaría matar?
+Eu tenho uma tarefa...;Eu tenho uma tarefa...
+Oh yes, you're currently assigned to kill aberrant spectres. How many would you like to slay?;Oh, sí, actualmente estás asignado a matar espectros aberrantes. ¿A cuántos te gustaría matar?
+Sua nova tarefa Ã© matar metal dragons. How many would you like to slay?;Sua nova tarefa é matar dragones de metal. ¿A cuántos te gustaría matar?
+Sua nova tarefa Ã© matar 200 Metal Dragons.;Sua nova tarefa é matar 200 Metal Dragons.
+Essas pranchas custam 100 moedas. VocÃª nÃ£o tem dinheiro suficiente para todos eles.;Essas pranchas personalizadas 100 moedas. VocÃª nÃ£o tem dinheiro suficiente para todos eles.
+Nilsal. Do you want me to make some planks for you? I can make planks from wood, oak, teak and mahogany logs. Or would you like to buy some other housing supplies?;Nilsal. ¿Quieres que te haga unas tablas? Puedo hacer tablones con troncos de madera, roble, teca y caoba. ¿O le gustaría comprar otros suministros para la vivienda?
+What kind of options are there?;¿Qué tipo de opciones hay?
+Receio que minha loja esteja fechada no momento.;Recibí que minha loja esteja fechada no momento.
+Welcome to the Emir's Arena! I'm afraid most of our facilities are not available to you.;¡Bienvenidos a la Arena del Emir! Me temo que la mayoría de nuestras instalaciones no están disponibles para usted.
+What kind of fights are happening today?;¿Qué tipo de peleas están sucediendo hoy?
+Bem-vindo Ã  Arena do Emir! O que posso fazer para vocÃª?;¡Bem-vindo Ã Arena do Emir! ¿O que posso fazer para você?
+Welcome to the Emir's Arena! I'm afraid most of our facilities are not available to you, but you would be most welcome to participate in unranked Duels.;¡Bienvenidos a la Arena del Emir! Me temo que la mayoría de nuestras instalaciones no están disponibles para ti, pero serías bienvenido a participar en Duelos no clasificados.
+I challenge you!;¡Te desafío!
+Ho! Ho! Ho!;¡Hola! ¡Hola! ¡Hola!
+Can I see your shop?;¿Puedo ver tu tienda?
+How do I get a fight?;¿Cómo consigo una pelea?
+... tive que ser lançado de um canhão contra uma rocha! Mas, no fim, expulsei o espírito da rocha e o Dondakan pôde minerar seu ouro.;... tive que ser lanzado de um canhão contra uma rocha! Mas, no fim, expulsei o espírito da rocha e o Dondakan pôde minerar seu ouro.
+... I had to be shot out of a cannon into a rock!  But finally I banished the spirit of the rock and Dondakan could mine his gold.;... ¡Me tuvieron que disparar desde un cañón hacia una roca!  Pero finalmente desterré el espíritu de la roca y Dondakan pudo extraer su oro.
+Repair all items: 4,500,000 coins.;Reparar todos los artículos: 4.500.000 monedas.
+1,500,000 moedas.;1,500,000 moedas.
+Repair that item: 1,500,000 coins.;Reparar ese artículo: 1.500.000 monedas.
+Vou precisar de 1,500,000 moedas para consertar isso.;Necesitará 1.500.000 dinero para contratarlo.
+Pronto, feliz em fazer negÃ³cios com vocÃª!;Pronto, feliz em fazer negÃ³cios com vocÃª!
+I'll need 1,500,000 coins to repair that.;Necesitaré 1.500.000 monedas para repararlo.
+Eu realmente nÃ£o sou importante para ser honesto.;Eu realmente no es importante para ser honesto.
+O que parece ser um problema?;¿O qué parece ser un problema?
+Eu gostaria de testar vocÃª e ver se posso confiar em vocÃª...;Eu gostaria de testar você e ver se posso confiar em você...
+GRRRRR! Por que vocÃª me fez correr por aÃ­ procurando ingredientes para vocÃª?!?!;¡GRRRRR! Por que você me fez correr por aÃ procurando ingredientes para você?!?!
+Bem-vindo ao Pub Auburn. VocÃª estÃ¡ aqui para comprar uma bebida?;Bem-vindo ao Pub Auburn. ¿Estás aquí para comprar una bebida?
+Mais daquela substÃ¢ncia estranha. Eu me pergunto onde isso leva...;Mais daquela sustancia estranha. Eu me pergunto onde isso leva...
+Estou investigando as pessoas desaparecidas. VocÃª sabe alguma coisa sobre eles?;Estou investigando como personas desaparecidas. Você sabe alguma coisa sobre eles?
+O que temos aqui? Mais daquela substÃ¢ncia estranha. Eu me pergunto onde isso leva...;¿O qué temos aquí? Mais daquela sustancia estranha. Eu me pergunto onde isso leva...
+Nada para mim, obrigado.;Nada para mim, obrigado.
+Sobre as pessoas desaparecidas...;Sobre as personas desaparecidas...
+Iniciar a missÃ£o Shadows of Custodia?;¿Iniciar una misión Shadows of Custodia?
+Isso Ã© estranho... HÃ¡ alguns arranhÃµes na parede, junto com uma estranha substÃ¢ncia vermelha e pegajosa. NÃ£o Ã© sangue... O que Ã©?;Isso é estranho... HÃ¡ alguns arranhÃμes na parede, junto com uma estranha substÃ¢ncia vermelha e pegajosa. NÃ£o Ã© sangre... O que Ã©?
+Se vocÃª estiver disposto, isso significaria tudo para nÃ³s. VocÃª Ã© o Ãºnico que realmente se importou o suficiente para encontrar alguma coisa!;Se vocÃª estiver disposto, isso significaria todo para nÃ³s. VocÃª Ã© o Ãºnico que realmente se importa o suficiente para encontrar alguma coisa!
+NÃ£o Ã© sempre que alguÃ©m vem falar comigo. O que vocÃª quer?;NÃ£o Ã© sempre que alguÃ©m vem falar comigo. O que você quer?
+Gostaria de saber se alguÃ©m por aqui sabe mais sobre isso...;Gostaria de saber se alguém por aquí sabe mais sobre isso...
+VocÃª Ã© quem nos salvou. Obrigado.;Você é quem nos salvou. Obrigado.
+LÃ¡ vamos nÃ³s!;Lávamos nÃ³s!
+Antos? VocÃª estÃ¡ bem?;¿Antos? VocÃª estÃ¡ bem?
+NÃ£o vimos nenhum outro... Ã‰ramos sÃ³ nÃ³s e o Antos...;NÃ£o vimos nenhum outro... Ã‰ramos sÃ³nÃ³s e o Antos...
+VocÃª estÃ¡ de volta. Como tÃ¡ indo?;VocÃª estÃ¡ de volta. ¿Como tÃ¡ indo?
+NÃ£o acredito que vocÃª os encontrou!;¡Não acredito que você os encontrou!
+Acho que sim... mas nÃ£o tenho certeza se Etz pode...;Acho que sim... mas não tenho certeza se Etz pode...
+VocÃª estÃ¡ bem? VocÃª pode andar?;VocÃª estÃ¡ bem? ¿Você pode andar?
+Eles foram embora?;¿Eles foram embora?
+Sua nova tarefa Ã© matar 5 Black Demons.;Sua nova tarefa é matar 5 Black Demons.
+Choose Lesser Nagua as your next task? You do not have enough slayer points to cancel it. ;Choose Lesser Nagua as your next task? No tienes suficientes puntos de cazador para cancelarlo.
+Sua nova tarefa Ã© matar black demons. How many would you like to slay?;Sua nova tarefa é matar demonios negros. ¿A cuántos te gustaría matar?
+Choose Black Demons as your next task? You do not have enough slayer points to cancel it. ;¿Elegir Black Demons como tu próxima tarea? No tienes suficientes puntos de cazador para cancelarlo.
+Sua nova tarefa Ã© matar 5 Hellhounds.;Sua nova tarefa é matar 5 Hellhounds.
+Sua nova tarefa Ã© matar 200 Custodian Stalkers.;Sua nova tarefa matará a 200 Custodian Stalkers.
+Sua nova tarefa Ã© matar custodian stalkers. How many would you like to slay?;Sua nova tarefa é matar acosadores custodios. ¿A cuántos te gustaría matar?
+Â¡No me voy a involucrar en esto!;¡No me voy a involucrar en esto!
+Uusi tehtÃ¤vÃ¤si on tappaa 116 Wyrms.;Uusi tehtÃ¤vÃ¤si en tappaa 116 Wyrms.
+If ye value yer limbs ye'll put that Icon round yer neck, and hope they don't come out into the light!;¡Si valoras tus extremidades, te pondrás ese ícono alrededor del cuello y esperarás que no salgan a la luz!
+Be ye some form of simpleton? Do ye not hear the howlin' of the Horrors?;¿Sois una especie de simplón? ¿No oís los aullidos de los Horrores?
+Well, I can hear something now you mention it...;Bueno, puedo escuchar algo ahora que lo mencionas...
+Uusi tehtÃ¤vÃ¤si on tappaa 12 Black Dragons.;Uusi tehtÃ¤vÃ¤si en tappaa 12 Dragones Negros.
+Haluatko silti jatkaa?;Haluatko silti jatkaa?
+Err, all right, I'll get right on that.;Err, está bien, iré directo a eso.
+Uusi tehtÃ¤vÃ¤si on tappaa 193 Trolls.;Uusi tehtÃ¤vÃ¤si en tappaa 193 Trolls.
+You're still hunting cave horrors; you have 135 to go. Come back when you've finished your task.;Todavía estás cazando horrores de las cavernas; te quedan 135. Vuelve cuando hayas terminado tu tarea.
+Uusi tehtÃ¤vÃ¤si on tappaa 193 Bloodveld.;Uusi tehtÃ¤vÃ¤si en tappaa 193 Bloodveld.
+Ei, minun tÃ¤ytyy mennÃ¤ hakemaan ruokaa, aseita ja valonlÃ¤hde.;Ei, minun tÃ¤ytyy mennÃ¤ hakemaan ruokaa, aseita ja valonlÃ¤hde.
+Uusi tehtÃ¤vÃ¤si on tappaa 135 Cave Horrors.;Uusi tehtÃ¤vÃ¤si en tappaa 135 Horrores de las cavernas.
+KyllÃ¤, mielestÃ¤ni olen tÃ¤ysin valmistautunut.;Kyllä, mielestäni olen täysin valmistautunut.
+That be them, howlin', always howlin'!;¡Esos son ellos, aullando, siempre aullando!
+Uusi tehtÃ¤vÃ¤si on tappaa 187 Abyssal Demons.;Uusi tehtÃ¤vÃ¤si en tappaa 187 Demonios Abisales.
+Private.;Privado.
+KyllÃ¤ kiitos, tarvitsen puunlehtiÃ¤.;Kyllä kiitos, tarvitsen puunlehtiä.
+Okay, I will trade the mole parts.;Está bien, cambiaré las partes del topo.
+If I'm not mistaken, you've got some body parts from a big mole there! I'll trade it for bird nests if ye likes. Or was ye wantin' some woad leaves instead?;Si no me equivoco, ¡tienes algunas partes del cuerpo de un topo grande allí! Lo cambiaré por nidos de pájaros si quieres. ¿O en su lugar querías unas hojas de glasto?
+Public.;Público.
+What kind of tunnels would you like to enter?;¿A qué tipo de túneles te gustaría entrar?
+Anteeksi, mutta en ole kiinnostunut.;Anteeksi, mutta en ole kiinnostunut.
+Haluatko kaivaa? HyvÃ¤, hyvÃ¤! Mutta puhumme ensin. Puhu ja kaivaa!;¿Haluatko kaivaa? ¡Hyvä, hyvä! Mutta puhumme ensin. Puhu ja kaivaa!
+Palaan pian.;Pian palaan.
+Voitko kertoa lisÃ¤Ã¤ veljistÃ¤?;Voitko kertoa lisÃ¤Ã¤ veljistÃ¤?
+KyllÃ¤, olen peloton!;Kyllä, ¡olen pelotón!
+Ei mitenkÃ¤Ã¤n, se nÃ¤yttÃ¤Ã¤ pelottavalta!;Ei mitenkÃ¤Ã¤n, se nÃ¤yttÃ¤Ã¤ pelottavalta!
+Bueno, eso fue todo movido sin problemas.;Bueno, eso fue todo movido sin problemas.
+Muy bien, ¡manos a la obra!;Muy bien, ¡manos a la obra!
+Toma los cristales.;Toma los cristales.
+Toma los espejos.;Toma los espejos.
+There are 3 mirrors and 3 crystals in the tray...;Hay 3 espejos y 3 cristales en la bandeja...
+Toma el cristal.;Toma el cristal.
+Toma todo.;Toma todo.
+Â¿Quieres volver a la Gran Biblioteca?;¿Quieres volver a la Gran Biblioteca?
+Â¿Entrar en la Gran Biblioteca?;¿Entrar en la Gran Biblioteca?
+Don't pull it.;No lo tires.
+Tira de la palanca.;Tira de la palanca.
+Pulling the lever will reset the light beams.;Al tirar de la palanca se restablecerán los rayos de luz.
+No hay nada en la bandeja...;No hay nada en la bandeja...
+Tira de Ã©l.;Tira de él.
+There are 7 mirrors and 1 crystal in the tray...;Hay 7 espejos y 1 cristal en la bandeja...
+Hay 6 espejos y 1 cristal en la bandeja...;Hay 6 espejos y 1 cristal en la bandeja...
+'...EncontrÃ© una manera de compartir mi esencia con los elfos, un pedazo de mi ser para cada uno de ellos.';'...Encontré una manera de compartir mi esencia con los elfos, un pedazo de mi ser para cada uno de ellos.'
+Â¿Puedes llevarme a otro lugar?;¿Puedes llevarme a otro lugar?
+There are 10 mirrors and 4 crystals in the tray...;Hay 10 espejos y 4 cristales en la bandeja...
+There is 1 crystal in the tray...;Hay 1 cristal en la bandeja...
+¿Cómo?;¿Cómo?
+I'm looking for an experienced adventurer and you're not it. Come back when you are more capable.;Estoy buscando un aventurero experimentado y tú no lo eres. Vuelve cuando seas más capaz.
+Hola. ¿Necesitas ayuda? Estoy buscando una búsqueda.;Hola. ¿Necesitas ayuda? Estoy buscando una búsqueda.
+Intenta utilizar algunas de las palomas de Jerico.  Arroja comida para pájaros a la torre y suelta  algunas palomas cerca de ella. Jerico debería poder  ayudarte.;Intenta utilizar algunas de las palomas de Jericó.  Arroja comida para pájaros a la torre y suelta algunas palomas cerca de ella. Jerico debería poder ayudarte.
+Busco un aventurero experimentado y tú no lo eres.  Vuelve cuando seas más capaz.;Busca un aventurero experimentado y tú no lo eres.  Vuelve cuando seas más capaz.
+Seguro que Jerico puede ayudarte con eso si se lo  pides amablemente.;Seguro que Jerico puede ayudarte con eso si se lo pides amablemente.
+Hola;hola
+¿Dónde consigo el pienso para pájaros y palomas?;¿Dónde llevo el pienso para pájaros y palomas?
+Ah hola Gracias de nuevo por rescatar a mi hija.;Ah hola Gracias de nuevo por rescatar a mi hija.
+Creo que algunas de las palomas de Jerico podrían  ayudarnos. Pon comida para pájaros en la torre y  suelta algunas palomas cerca. Nos distraerán.;Creo que algunas de las palomas de Jericó podrían ayudarnos. Pon comida para pájaros en la torre y suelta algunas palomas cerca. Nos distraerán.
+Hola. ¿Has solucionado ya esa distracción?;Hola. ¿Has solucionado ya esa distracción?
+Gracias por los consejos.;Gracias por los consejos.
+¿Qué llevó la peste a Ardougne?;¿Qué llevó la peste a Ardougne?
+Sólo visitas turísticas.;Sólo visitas turísticas.
+¿Cuáles son los síntomas de la peste?;¿Cuáles son los síntomas de la peste?
+¿Puedo ayudar?;¿Puedo ayudar?
+¿Qué haces tocando esa campana? ¿No crees que algunos  tenemos trabajo que hacer?;¿Qué haces tocando esa campana? ¿No crees que algunos tenemos trabajo que hacer?
+Buenos días, señor.;Buenos días, señor.
+¿Cuáles son los requisitos para entrar en el Gremio de Magos?;¿Cuáles son los requisitos para entrar en el Gremio de Magos?
+túnicas de mago en la tierra y tenemos una zona de  entrenamiento llena de zombis para que practiques tu  magia con ellos.;túnicas de mago en la tierra y tenemos una zona de entrenamiento llena de zombies para que practiques tu magia con ellos.
+Vale, gracias.;Vale, gracias.
+¿Qué hay que hacer en el Gremio de Magos?;¿Qué hay que hacer en el Gremio de Magos?
+Bueno... en fin... aquí estamos muy ocupados, date  prisa ¿qué quieres?;Bueno... en fin... aquí estamos muy ocupados, date prisa ¿qué quieres?
+¿Qué estás tramando?;¿Qué estás tramando?
+Necesitas un nivel mágico de 66 para ser admitido en  el gremio. La energía mágica dentro del gremio no es  segura para nadie por debajo de ese nivel. Para  cualquier otro asunto que requiera atención.;Necesitas un nivel mágico de 66 para ser admitido en el gremio. La energía mágica dentro del gremio no es segura para nadie por debajo de ese nivel. Para cualquier otro asunto que requiera atención.
+¿Qué haces en el Gremio?;¿Qué haces en el Gremio?
+Pero me dijeron que llamara al timbre si quería algo  de atención.;Pero me dijeron que llamara al timbre si quería algo de atención.
+mage robes in the land and we have a training area full of zombies for you to practice your magic on.;túnicas de mago en la tierra y tenemos un área de entrenamiento llena de zombis para que practiques tu magia.
+Preparándote para ir a pescar, por supuesto. ¡No hay  tiempo que perder!;Preparándote para ir a pescar, por supuesto. ¡No hay tiempo que perder!
+Tu barco no parece muy seguro.;Tu barco no parece muy seguro.
+This is the finest wizards' establishment in the land. We have magic portals to the other towers of wizardry around Gielinor. We have a particularly wide collection of runes in our rune shop. We sell some of the finest;Este es el mejor establecimiento de magos del país. Tenemos portales mágicos a las otras torres de hechicería alrededor de Gielinor. Tenemos una colección particularmente amplia de runas en nuestra tienda de runas. Vendemos algunos de los mejores.
+Tengo todos los suministros que necesito en la tienda  que hay al final del embarcadero. Venden buenas  cuerdas, martillos y hachas, aunque sus cubos de  achique no son demasiado eficaces.;Tengo todos los suministros que necesito en la tienda que hay al final del embarcadero. Venden cuerdas buenas, martillos y hachas, aunque sus cubos de achique no son demasiado eficaces.
+¿Qué peces pescas?;¿Qué peces pescan?
+Gajes del oficio. Suelo golpearlo con un hacha un par  de veces y reparar el daño con un martillo una vez  que se ha ido.;Gajes del oficio. Suelo golpearlo con un hacha un par de veces y reparar el daño con un martillo una vez que se ha ido.
+¿Tienes que estar de broma?;¿Tienes que estar de broma?
+¡Pues claro que puedes! Aunque te advierto que los  mares son despiadados y sin experiencia en pesca no  pescarás mucho.;¡Pues claro que puedes! Aunque te advierto que las yeguas son despiadados y sin experiencia en pesca no pescarás mucho.
+¡amantes de la tierra florida!;¡amantes de la tierra florida!
+Nada que un poco de pasta de pantano no pueda  arreglar...;Nada que un poco de pasta de pantano no pueda arreglar...
+¿Qué es la pasta del pantano?;¿Qué es la pasta del pantano?
+Ah, y una cosa más... Espero que seas un goodswimmer;Ah, y una cosa más... Espero que seas un goodwimmer
+Estaré bien, vamos.;Estaré bien, vamos.
+En realidad, creo que lo dejaré.;En realidad, creo que lo dejaré.
+Además, está el pequeño asunto del Kraken.;Además, está el pequeño asunto del Kraken.
+¿Pasta del pantano?;¿Pasta del pantano?
+Bloomin' land lovers!!!;Amantes de la tierra floreciente!!!
+1.000 monedas;1.000 monedas
+Sube.;Sube.
+Caja misteriosa;caja misteriosa
+¡Absolutamente CORRECTO! ¡Sigue ganando! ¡Vale,  siguiente pregunta!;¡Absolutamente CORRECTO! ¡Sigue ganando! ¡Vale, siguiente pregunta!
+¡BIENVENIDOS al MAYOR ESPECTÁCULO DE PREGUNTAS de todo  Gielinor!;¡BIENVENIDOS al MAYOR ESPECTÁCULO DE PREGUNTAS de todo Gielinor!
+Mmm, bird feed! Just what I needed.;Mmm, ¡comida para pájaros! Justo lo que necesitaba.
+¡SÍ! ¡Tienes razón! ¡Vale, siguiente pregunta!;¡SI! ¡Tienes razón! ¡Vale, siguiente pregunta!
+Selecciona tu premio;Selecciona tu premio
+¿Subir o bajar por la escalera?;¿Subir o bajar por la escalera?
+Espera...;espera...
+Que tengo. Me dijo que te preguntara por unas palomas.;Que tengo. Me dijo que te preguntaría por unas palomas.
+Omart pensó que serían una buena distracción para los  guardias.;Omart pensó que sería una buena distracción para los guardias.
+Demos la bienvenida a nuestro nuevo concursante:  [PLAYER_NAME]! ¡Cuatro preguntas acertadas y ganas! Ya  conoces las reglas, ¡así que empecemos!;¡Demos la bienvenida a nuestro nuevo concursante: [PLAYER_NAME]! ¡Cuatro preguntas acertadas y ganas! Ya conoces las reglas, ¡así que empecemos!
+¿Palomas? ¿Para qué necesitas mis palomas?;¿Palomas? ¿Para qué necesitas mis palomas?
+¡Es tu día de suerte, [PLAYER_NAME]! Tienes la  oportunidad de ganar grandes premios en mi concurso.  ¿Quieres jugar?;¡Es tu día de suerte, [PLAYER_NAME]! Tienes la oportunidad de ganar grandes premios en mi concurso.  ¿Quieres jugar?
+Sí, por favor, ¡estoy muy emocionada!;Sí, por favor, ¡estoy muy emocionada!
+Ahh, muy inteligente. Seguro que puedo dejarte algunos  prestados, siempre que los cuides. Coge una de las  jaulas de detrás de mi casa. También necesitarás  pienso. Debería tener en el armario.;Ahh, muy inteligente. Seguro que puedo dejarte algunos prestados, siempre que los cuides. Coge una de las jaulas de detrás de mi casa. También necesitarás pienso. Debería tener en el armario.
+Los concursos son estúpidos. Lárgate.;Los concursos son estúpidos. Lárgate.
+Desciende.;Desciende.
+DING DING DING ¡Eso es! Muy bien, ¡siguiente pregunta!;DING DING DING ¡Eso es! Muy bien, ¡siguiente pregunta!
+¡FELICIDADES! ¡Eres un GANADOR! ¡Por favor, elige tu  PREMIO!;¡FELICIDADES! ¡Eres un GANADOR! ¡Por favor, elige tu PREMIO!
+No necesito más comida para pájaros.;No necesito más comida para pájaros.
+Te recomiendo que te pongas una máscara antigás antes  de entrar en Ardougne. No querrás arriesgarte a  contraer la peste.;Te recomiendo que te pongas una máscara antigua antes de entrar en Ardougne. No querrás arriesgarte a contraer la peste.
+Bien, hagámoslo.;Bien, hagámoslo.
+Volveré pronto.;Volveré pronto.
+Bien hecho, los guardias están teniendo verdaderos  problemas con esos pájaros. Debes irte ahora viajero,  es tu única oportunidad.;Bien hecho, los guardias están teniendo verdaderos problemas con esos pájaros. Debes irte ahora viajero, es tu única oportunidad.
+No tardes mucho, los dolientes pronto se librarán de  esos pájaros.;No tardes mucho, los dolientes pronto se librarán de esos pájaros.
+Eugh, locked. There must be a way for me to get in. Maybe there's something around here that will help me.;Uf, encerrado. Debe haber una manera de entrar. Quizás haya algo por aquí que me ayude.
+Gracias Kilron. ¿Sabes dónde encontrar el Cuartel  General de los Lamentadores?;Gracias Kilrón. ¿Sabes dónde encontrar el Cuartel General de los Lamentadores?
+Parece que se está preparando un buen guiso. Esto debe  servir para alimentar a todos los dolientes.;Parece que se está preparando un buen guiso. Esto debe servir para alimentar a todos los dolientes.
+Hmm. Me pregunto si habrá otra forma de entrar.;Mmm. Me pregunto si habrá otra forma de entrar.
+Es el edificio más al noreste de la ciudad. Ten  cuidado por allí.;Es el edificio más al noreste de la ciudad. Ten cuidado por allí.
+Eugh, bloqueado. Tiene que haber una forma de que  pueda entrar. Tal vez haya algo por aquí que me  ayude.;Euf, bloqueado. Tiene que haber una forma de que pueda entrar. Tal vez haya algo por aquí que me ayude.
+Cualquiera que coma este guiso lo pasará mal ahora.;Cualquiera que coma este guiso lo pasará mal ahora.
+Bienvenido a Ardougne Oeste amigo. Soy Kilron. Dime si  quieres volver a cruzar el muro.;Bienvenido a Ardougne Oeste amigo. Kilrón de soja. Dime si quieres volver a cruzar el muro.
+Retrocede ciudadano. Sólo los dolientes pueden entrar  en la sede.;Retroceder ciudadano. Sólo los dolientes pueden entrar en la sede.
+Parece que vocÃª percorreu uma distÃ¢ncia razoÃ¡vel.;Parece que vocÃª percorreu uma distÃ¢ncia razoÃ¡vel.
+Desculpe, preciso fazer trilhas.;Desculpe, preciso fazer trilhas.
+Ok, mostre-me os preÃ§os das toras.;Ok, mostre-me os preços das toras.
+¿Hay algún médico cerca? Quizá pueda ir a buscarlos.;¿Hay algún médico cerca? Quizás pueda ir a buscarlos.
+No sé cuánto tiempo más podré aguantar aquí.;No sé cuánto tiempo más podrás aguantar aquí.
+Hmmm, ¿cómo has llegado hasta aquí? No eres de esta  chusma. Ah, bueno, tendrás que quedarte. No puedo  arriesgarme a que vuelvas ahora.;Hmmm, ¿cómo ha llegado hasta aquí? No eres de esta chusma. Ah, bueno, tendrás que quedarte. No puedo arriesgarme a que vuelvas ahora.
+Aunque no tengo la peste...;Aunque no tengo la peste...
+Aléjate ciudadano. Varios dolientes están enfermos por  intoxicación alimentaria.;Aléjate ciudadano. Varios dolientes están enfermos por intoxicación alimentaria.
+Tenía la impresión de que aquí todo el mundo estaba  afectado.;Tenía la impresión de que aquí todo el mundo estaba afectado.
+Es un trabajo exigente, y recibimos poco  agradecimiento de la gente de aquí.;Es un trabajo exigente, y recibimos poco agradecimiento de la gente de aquí.
+No hay médicos en Ardougne Oeste, sólo esa enfermera  al suroeste de la capilla. Pero no hace falta que te  preocupes, pronto lo solucionaremos.;No hay médicos en Ardougne Oeste, sólo esa enfermera al suroeste de la capilla. Pero no hace falta que te preocupes, pronto lo solucionaremos.
+También hacemos todo lo posible por aliviar el  sufrimiento de estas personas.Nos apodan plañideras  porque pasamos mucho tiempo en los funerales de las  víctimas de la peste, a los que nadie más puede  asistir.;También hacemos todo lo posible por aliviar el sufrimiento de estas personas. Nos apodan plañideras porque pasamos mucho tiempo en los funerales de las víctimas de la peste, a los que nadie más puede asistir.
+Yo también, pero no parece ser el caso.;Yo también, pero no parece ser el caso.
+Trabajamos para el rey Lathas de Ardougne Oriental.  Nos ha encomendado contener las plagas malditas que  asolan Ardougne Occidental.;Trabajamos para el rey Lathas de Ardougne Oriental.  Nos ha encomendado contener las plagas malditas que asola Ardougne Occidental.
+¿Qué es una plañidera?;¿Qué es una plañidera?
+¿Te está afectando la plaga?;¿Te está afectando la plaga?
+Ojalá pudiera hacer algo más por esta gente.;Ojalá pudiera hacer algo más por esta gente.
+¿Cómo has entrado en Ardougne Oeste? Ah, bueno,  tendrás que quedarte, no podemos arriesgarnos a que  propagues la peste fuera.;¿Cómo ha entrado en Ardougne Oeste? Ah, bueno, tendrás que quedarte, no podemos arriesgarnos a que propagues la peste fuera.
+I wish there was more I could do for these people.;Ojalá pudiera hacer más por estas personas.
+Hola enfermera;Hola enfermera
+No, curiosamente la gente de aquí no parece estar  afectada. Son las horribles condiciones de vida las  que hacen que la gente enferme.;No, curiosamente la gente de aquí no parece estar afectada. Son las horribles condiciones de vida las que hacen que la gente enferme.
+¿Rezar por mí? No eres médico... ¡Eres un impostor!;¿Rezar por mí? No eres médico... ¡Eres un impostor!
+Hmm... interesante, suena a intoxicación alimentaria.;Hmm... interesante, suena a intoxicación alimentaria.
+Has oído bien. Entra y mira lo que puedes hacer.;Has oído bien. Entra y mira lo que puedes hacer.
+¿Un médico? ¡Por fin! No sé lo que he comido, pero me  siento como si estuviera a las puertas de la muerte.;¿Un médico? ¡Por fin! No sé lo que he comido, pero me siento como si estuviera a las puertas de la muerte.
+No puedo hacer nada, es fatal.;No puedo hacer nada, es fatal.
+Sí, ya me lo había imaginado. ¿Qué puedes darme para  ayudarme?;Sí, ya me lo había imaginado. ¿Qué puedes darme para ayudarme?
+He oído que aquí ha habido problemas de intoxicación  alimentaria.;He oído que aquí ha habido problemas de intoxicación alimentaria.
+Aguanta la respiración y cuenta hasta diez.;Aguanta la respiración y cuenta hasta diez.
+Lo mejor que puedo hacer es rezar por ti.;Lo mejor que puedo hacer es rezar por ti.
+¿Un médico? No creía que quedara ninguno por aquí.;¿Un médico? No creo que quede ninguno por aquí.
+No estoy seguro. Aunque puede que mi antiguo mentor en  Varrock, Guidor, lo sepa. ¿Podrías llevárselas y ver  qué opina? Antes tendrás que pasarte por la farmacia  de Rimmington para recoger más papel de toque.;No estoy seguro. Aunque puede que mi antiguo mentor en Varrock, Guidor, lo sepa. ¿Podrías llevárselas y ver qué opinas? Antes tendrás que pasarte por la farmacia de Rimmington para recoger más papel de toque.
+¿Qué hago?;¿Qué hago?
+Hola viajero ¿Necesitas volver?;Hola viajero ¿Necesitas volver?
+Irónicamente, los guardias no serán lo bastante listos  como para reconocer la muestra en sí, así que podrás  introducirla sin problemas. Aunque es probable que  confisquen el resto.;Irónicamente, los guardias no serán lo bastante listos como para reconocer la muestra en sí, así que podrás introducirla sin problemas. Aunque es probable que confisquen el resto.
+¡Estupendo! Ahora por fin puedo hacer estas pruebas.;¡Estupendo! Ahora por fin puedo hacer estas pruebas.
+Todavía no Kilron.;Todavía no hay Kilron.
+Sí, ¡aquí está!;¡Sí, aquí está!
+Genial, veré si puede ayudar. Hasta pronto.;Genial, veré si puedes ayudar. Hasta pronto.
+La última vez que fui a ver a Guidor, alguien les dijo  a los guardias que llevaba muestras de la peste.;La última vez que fui a ver a Guidor, alguien les dijo a los guardias que llevaban muestras de la peste.
+¿Qué significa eso?;¿Qué significa eso?
+No entiendo... el papel táctil no ha cambiado de color  en absoluto...;No entiendo... el papel táctil no ha cambiado de color en absoluto...
+Sé que el químico aún se las ha arreglado para hacer  llegar productos químicos a Guidor. Quizá él pueda  ayudarte a introducirlos.;Sé que el químico aún se las ha arreglado para hacer llegar productos químicos a Guidor. Quizás él pueda ayudarle a introducirlos.
+Sí quiero;Sí quiero
