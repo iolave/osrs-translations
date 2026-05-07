@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Köp: 40 x Rune helhjälm
 Deposit-38;Insättning-38
 Buy: 80 x Adamant platebody;Köp: 80 x Adamant platebody
 Buy: 100 x Sapphire amulet;Köp: 100 x Safiramulet
+Withdraw-5000000;Uttag-5000000
+Deposit-5000000;Insättning-5000000
+Default quantity: 5,000,000;Standardkvantitet: 5 000 000
+Deposit-3000000;Deposition-3000000
+Deposit-13500000;Deposition-13500000
+Withdraw-13500000;Uttag-13500000
+Deposit-15000000;Deposition-15000000
+Withdraw-3000000;Uttag-3000000
+Withdraw-15000000;Uttag-15000000
+Withdraw-108;Uttag-108

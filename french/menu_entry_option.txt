@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Acheter: 40 x Casque complet Rune
 Deposit-38;Dépôt-38
 Buy: 80 x Adamant platebody;Acheter: 80 x Plaque Adamant
 Buy: 100 x Sapphire amulet;Acheter: 100 x Amulette Saphir
+Withdraw-5000000;Retrait-5000000
+Deposit-5000000;Dépôt-5000000
+Default quantity: 5,000,000;Quantité par défaut : 5 000 000
+Deposit-3000000;Dépôt-3000000
+Deposit-13500000;Dépôt-13500000
+Withdraw-13500000;Retrait-13500000
+Deposit-15000000;Dépôt-15000000
+Withdraw-3000000;Retrait-3000000
+Withdraw-15000000;Retrait-15000000
+Withdraw-108;Retrait-108

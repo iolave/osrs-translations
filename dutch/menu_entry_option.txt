@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Koop: 40 x Rune volledig roer
 Deposit-38;Borg-38
 Buy: 80 x Adamant platebody;Koop: 80 x Adamant platebody
 Buy: 100 x Sapphire amulet;Koop: 100 x saffieramulet
+Withdraw-5000000;Intrekken-5000000
+Deposit-5000000;Borg-5000000
+Default quantity: 5,000,000;Standaardhoeveelheid: 5.000.000
+Deposit-3000000;Borg-3000000
+Deposit-13500000;Borgsom-13500000
+Withdraw-13500000;Intrekken-13500000
+Deposit-15000000;Borg-15000000
+Withdraw-3000000;Intrekken-3000000
+Withdraw-15000000;Intrekken-15000000
+Withdraw-108;Intrekken-108

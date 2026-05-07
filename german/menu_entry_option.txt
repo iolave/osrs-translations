@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Kaufen Sie: 40 x Runen-Vollhelm
 Deposit-38;Anzahlung-38
 Buy: 80 x Adamant platebody;Kaufen Sie: 80 x Adamant-Plattenkörper
 Buy: 100 x Sapphire amulet;Kaufen Sie: 100 x Saphiramulett
+Withdraw-5000000;Abheben-5000000
+Deposit-5000000;Anzahlung: 5000000
+Default quantity: 5,000,000;Standardmenge: 5.000.000
+Deposit-3000000;Anzahlung: 3000000
+Deposit-13500000;Anzahlung: 13500000
+Withdraw-13500000;Abheben-13500000
+Deposit-15000000;Anzahlung: 15000000
+Withdraw-3000000;Abheben-3000000
+Withdraw-15000000;Abheben-15000000
+Withdraw-108;Rückzug-108

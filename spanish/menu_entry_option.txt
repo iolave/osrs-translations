@@ -3072,3 +3072,13 @@ Buy: 40 x Rune full helm;Comprar: 40 x Runa yelmo completo
 Deposit-38;Depósito-38
 Buy: 80 x Adamant platebody;Comprar: 80 x cuerpo de placa Adamant
 Buy: 100 x Sapphire amulet;Comprar: 100 x Amuleto de zafiro
+Withdraw-5000000;Retirar-5000000
+Deposit-5000000;Depósito-5000000
+Default quantity: 5,000,000;Cantidad predeterminada: 5.000.000
+Deposit-3000000;Depósito-3000000
+Deposit-13500000;Depósito-13500000
+Withdraw-13500000;Retirar-13500000
+Deposit-15000000;Depósito-15000000
+Withdraw-3000000;Retirar-3000000
+Withdraw-15000000;Retirar-15000000
+Withdraw-108;Retirar-108
