@@ -5211,3 +5211,12 @@ Withdraw-240;Ritiro-240
 Withdraw-121;Ritiro-121
 Deposit-121;Deposito-121
 Sell: 1 x Looting bag note;Vendita: 1 x Nota sulla borsa del saccheggio
+Distract;Distrarre
+Burn-down;Bruciare
+Default quantity: 2,500;Quantità predefinita: 2.500
+Sell: 30 x Iron ore;Vendi: 30 x Minerale di ferro
+Withdraw-999;Ritiro-999
+Withdraw-1050;Ritiro-1050
+Buy: 1 x Bloodbark legs;Acquista: 1 x gambe di Bloodbark
+Deposit-999;Deposito-999
+View <col=ff9040>Gauntlet Map</col>;Visualizza la <col=ff9040>Mappa del guanto</col>

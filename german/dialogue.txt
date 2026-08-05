@@ -140211,3 +140211,495 @@ Do you intend to slay this beast for yourself, Raklak?;Hast du vor, dieses Biest
 So, Raklak, are you ready to go to Ungael?;Also, Raklak, bist du bereit, nach Ungael zu gehen?
 Nilsal, adventurer. MÃ¶chten Sie nach Fortis reisen?;Nilsal, Abenteurer. Möchten Sie nach Fortis reisen?
 Oh, tut mir leid! Ich war in Gedanken versunken. Du hast mir einen tollen Start verschafft! Sie sehen, ich bin im Moment ziemlich beschÃ¤ftigt. Kannst du spÃ¤ter wiederkommen?;Oh, tut mir leid! Ich war in Gedanken versunken. Du hast mir einen tollen Start verschafft! Sie sehen, ich bin im Moment ziemlich beschäftigt. Kannst du später wiederkommen?
+If you wish. However, I do charge for returning items here - you would likely pay less if you collect them from the gravestone directly. I expect this fee to be about 188,163 coins for this reclaim.;Wenn Sie möchten. Allerdings erhebe ich hier eine Gebühr für die Rücksendung von Gegenständen – Sie würden wahrscheinlich weniger bezahlen, wenn Sie sie direkt am Grabstein abholen würden. Ich erwarte, dass diese Gebühr für diese Rückforderung etwa 188.163 Münzen beträgt.
+Death will charge 188,163 coins.;Der Tod kostet 188.163 Münzen.
+Nun, ich schÃ¤tze, du kannst dich mit Isadora darÃ¼ber beraten, wie man das Totem schnitzt. WÃ¤hrend Sie das tun, werde ich mich an den Wiederaufbau der Stange machen.;Nun, ich schütze, du kannst dich mit Isadora darüber beraten, wie man das Totem schnitzt. Während Sie das tun, werde ich mich an den Wiederaufbau der Stange machen.
+Ich bin mir nicht sicher, ob â€žwirâ€œ das richtige Wort ist ...;Ich bin mir nicht sicher, ob „wir“ das richtige Wort ist ...
+Es sah so aus, als ob es aus Eichenholz gefertigt wÃ¤re, daher sollten vermutlich EichenstÃ¤mme ausreichen. Allerdings frage ich mich, ob die Verwendung von besserem Holz dazu beitragen wÃ¼rde, dass es den Elementen besser standhÃ¤lt ...;Es sah so aus, als ob es aus Eichenholz gefertigt wäre, daher sollten vermutlich Eichenstämme ausreichen. Allerdings frage ich mich, ob die Verwendung von besserem Holz dazu beitragen würde, dass es den Elementen besser standhält ...
+Haben Sie sich schon einmal umgehÃ¶rt?;Haben Sie sich schon einmal umgehört?
+Notes? Notes are boring! I know how to carve them! Daddy showed me!;Notizen? Notizen sind langweilig! Ich weiß, wie man sie schnitzt! Papa hat es mir gezeigt!
+I reckon you'll just need one set of logs. Oak logs should be enough, but I do wonder if using better wood would help it survive the elements better...;Ich gehe davon aus, dass Sie nur einen Satz Protokolle benötigen. Eichenstämme sollten ausreichen, aber ich frage mich, ob die Verwendung von besserem Holz dazu beitragen würde, dass es den Elementen besser standhält ...
+Hmm ... Warum schauen wir uns dieses Totem nicht genauer an?;Hmm ... Warum schauen wir uns dieses Totem nicht genau an?
+Ja! Es sind diese Ents, die ihr seht! So etwas hatte ich noch nie gesehen, bis ich hierher kam. Schau, hier kommt jetzt einer...;Ja! Es sind diese Ents, die ihr seht! So etwas hatte ich noch nie gesehen, bis ich hierher kam. Schau, hier kommt jetzt einer...
+Ja, aber die Einheimischen haben mir nicht wirklich viel Aufschluss gegeben. Sie sagten mir lediglich, dass die Ents, Totems und Geister alle Teil des natÃ¼rlichen Kreislaufs hier im Tal seien.;Ja, aber die Einheimischen haben mir nicht wirklich viel Aufschluss gegeben. Sie sagten mir lediglich, dass die Ents, Totems und Geister alle Teil des natürlichen Kreislaufs hier im Tal seien.
+Der lustige Mann Ranulph hat das Totem zerbrochen! Ents werden mit dir nicht zufrieden sein!;Der lustige Mann Ranulph hat das Totem zerbrochen! Ents werden mit dir nicht zufrieden sein!
+Irgendein bestimmter Typ?;Irgendein bestimmter Typ?
+Nun ja, eigentlich heiÃŸe ich Ranulph, kein lustiger Mann ...;Nun ja, eigentlich heiße ich Ranulph, kein lustiger Mann ...
+Hat Sie etwas beschÃ¤ftigt?;Hat Sie etwas beschäftigt?
+Beeil dich! Du willst doch nicht, dass die Ents traurig bleiben, oder?;Beeil dich! Du willst doch nicht, dass die Ents traurig bleiben, oder?
+Oder die Einmischung von ... Sie wissen schon ... von uns Ã¼berleben.;Oder die Einmischung von ... Sie wissen schon ... von uns überleben.
+Es ist ein wunderschÃ¶nes Totem.;Es ist ein wundervolles Totem.
+Hast du GlÃ¼ck gehabt, dass das Totem wieder aufgebaut wurde?;Hast du Glück gehabt, dass das Totem wieder aufgebaut wurde?
+Oh oh! Der lustige Mann hat das Totem zerbrochen!;Oh oh! Der lustige Mann hat das Totem zerbrochen!
+Genau! Diese Totems sind hier Ã¼berall verstreut. Sie scheinen fÃ¼r die Ents sehr wichtig zu sein, aber ich weiÃŸ nicht warum.;Genau! Diese Totems sind hier über alles verstreut. Sie scheinen für die Ents sehr wichtig zu sein, aber ich weiß nicht warum.
+Mal sehen... Zuerst brauchen wir etwas Holz, um die Stange wieder aufzubauen. Ich gehe davon aus, dass ein Satz Protokolle ausreichen wird.;Mal sehen... Zuerst brauchen wir etwas Holz, um die Stange wieder aufzubauen. Ich gehe davon aus, dass ein Satz Protokolle ausreichen wird.
+Also mÃ¼ssen wir das Totem reparieren. Wie?;Außerdem müssen wir das Totem reparieren. Wie?
+Oh, tut mir leid! Ich war in Gedanken versunken. Du hast mir einen tollen Start verschafft!;Oh, tut mir leid! Ich war in Gedanken versunken. Du hast mir einen tollen Start verschafft!
+Verzeihung? Ich habe einen Namen! Ich bin Isadora und du bist der lustige Mann, der von Ents verwirrt wird! Ich habe dich beobachtet.;Verzeihung? Ich habe einen Namen! Ich bin Isadora und du bist der lustige Mann, der von Ents verwirrt wird! Ich habe dich beobachtet.
+Das Vale-Totems-Miniquest starten?;Das Vale-Totems-Miniquest starten?
+Hmm... Ich denke, die EinschÃ¤tzung des Kindes ist richtig. Die Ents werden wahrscheinlich nicht glÃ¼cklich darÃ¼ber sein, was wir getan haben.;Hmm... Ich denke, die Einsicherung des Kindes ist richtig. Die Ents werden wahrscheinlich nicht glücklich darüber sein, was wir getan haben.
+Gute Idee. Zumindest wÃ¤re es sinnvoll, die darauf befindlichen Schnitzereien zu dokumentieren. Komm, lass uns einen Blick darauf werfen...;Gute Idee. Zumindest wäre es sinnvoll, die darauf befindlichen Schnitzereien zu dokumentieren. Komm, lass uns einen Blick darauf werfen...
+Interessant... Es ist wie eine Art Ritual.;Interessant... Es ist wie ein Kunstritual.
+Hmm... Die Stange wird jedoch nur der Anfang sein. Wir mÃ¼ssen es schnitzen ... Ich hÃ¤tte mir wirklich mehr Notizen zu den Schnitzereien machen sollen ...;Hmm... Die Stange wird jedoch nur der Anfang sein. Wir müssen es schnitzen ... Ich hätte mir wirklich mehr Notizen zu den Schnitzereien machen sollen ...
+Oh... Da ist ein Kind.;Oh... Da ist ein Kind.
+In der Tat! Schauen Sie sich dieses StÃ¼ck an!;In der Tat! Schauen Sie sich dieses Stück an!
+Es ist okay, lustiger Mann. Die Totems gehen immer kaputt. Die Ents werden eine Weile traurig, aber wenn man sie in Ordnung bringt, sind sie am Ende wieder glÃ¼cklich!;Es ist okay, lustiger Mann. Die Totems gehen immer kaputt. Die Ents werden eine Weile traurig, aber wenn man sie in Ordnung bringt, sind sie am Ende wieder glücklich!
+Was kommt als nÃ¤chstes?;Was kommt als nächstes?
+Jetzt mÃ¼ssen Sie die Tiere schnitzen!;Jetzt müssen Sie die Tiere schnitzen!
+Ja, laut Isadora stellten die Schnitzereien auf dem Totem die Tiergeister um ihn herum dar. Allerdings wurden die Tiere durch den Sturz des Totems gestÃ¶rt. Einige gingen weg, aber neue kamen hinzu.;Ja, laut Isadora stellt die Schnitzereien auf dem Totem die Tiergeister um ihn herum dar. Die Tiere wurden durch den Sturz des Totems geschüttelt. Einige gingen weg, aber neue kamen hinzu.
+Bedeutung?;Bedeutung?
+Don't forget, you'll need to make carvings of the animal spirits that are currently in this area.;Vergessen Sie nicht, dass Sie Schnitzereien der Tiergeister anfertigen müssen, die sich derzeit in dieser Gegend aufhalten.
+Das ist ein guter Anfang.;Das ist ein guter Anfang.
+Ich denke, das macht Sinn. Ich werde es versuchen.;Ich denke, das macht Sinn. Ich werde es versuchen.
+Die richtigen sind die Tiere, die sich derzeit in dieser Gegend aufhalten.;Die richtigen sind die Tiere, die sich derzeit in dieser Gegend halten.
+Das heiÃŸt, du musst die richtigen schnitzen, Dummerchen.;Das heißt, du musst die richtigen Schnitzen, Dummerchen.
+Have you carved the animals yet?;Hast du die Tiere schon geschnitzt?
+Jetzt der letzte Schliff. Offenbar schÃ¤tzen es die Ents, wenn HolzgegenstÃ¤nde in den Wald zurÃ¼ckgebracht werden.;Jetzt der letzte Schliff. Offenbar schätze es die Ents, wenn Holzgegenstände in den Wald zurückgebracht werden.
+Du hast ein gutes HÃ¤ndchen im Schnitzen, mein Freund.;Du hast ein gutes Händchen im Schnitzen, mein Freund.
+Okay, dann. Also HolzgegenstÃ¤nde? Du meinst Dinge wie BÃ¶gen und Schilde?;Okay, dann. Auch Holzgegenstände? Du meinst Dinge wie Bögen und Schilde?
+Ja! Sie mÃ¼ssen ihnen helfen, den Zyklus zu beenden!;Ja! Sie müssen ihnen helfen, den Zyklus zu beenden!
+Okay, ich melde mich wieder, sobald ich das erledigt habe.;Okay, ich melde mich wieder, sobald ich das erledigt habe.
+Zyklus?;Zyklus?
+Genau! Versuchen Sie, das Totem mit solchen GegenstÃ¤nden zu dekorieren. Ich schÃ¤tze, vier sollten genÃ¼gen. Oh, und stellen Sie sicher, dass Sie dasselbe Holz verwenden, das Sie fÃ¼r das Totem selbst verwendet haben.;Genau! Versuchen Sie, das Totem mit Gegenständen zu dekorieren. Ich schütze, vier sollten genügen. Oh, und stellen Sie sicher, dass Sie dasselbe Holz verwenden, das Sie für das Totem selbst verwendet haben.
+Ich nehme an, der Kreislauf von Leben, Tod und Verfall.;Ich nehme an, der Kreislauf von Leben, Tod und Verfall.
+Der lustige Mann Ranulph lernt!;Der lustige Mann Ranulph lernt!
+Los geht's! Ich sage, das ist das Totem fertig!;Los geht's! Ich sage, das ist das Totem fertig!
+Du hast gute Arbeit geleistet! Jetzt mÃ¼ssen wir sehen, ob du die Ents wieder glÃ¼cklich gemacht hast!;Du hast gute Arbeit geleistet! Jetzt müssen wir sehen, ob du die Ents wieder glücklich gemacht hast!
+Schau dir das an! Ich finde, es sieht noch besser aus als vorher!;Schau dir das an! Ich finde, es sieht noch besser aus als vorher!
+Es ist ein Geschenk! Die Ents sind wieder glÃ¼cklich! Sie bedanken sich fÃ¼r Ihre Hilfe! Los, nimm es!;Es ist ein Geschenk! Die Ents sind wieder glücklich! Sie danken sich für Ihre Hilfe! Los, nimm es!
+Ich hÃ¤tte mir kein besseres Ergebnis vorstellen kÃ¶nnen! Die Ents haben nicht nur unser neues Totem angenommen, sondern auch etwas hinterlassen!;Ich hätte mir kein besseres Ergebnis vorstellen können! Die Ents haben nicht nur unser neues Totem angenommen, sondern auch etwas hinterlassen!
+HÃ¶rt sich groÃŸartig an, danke!;Hört sich großartig an, danke!
+Es scheint, dass die Ents denjenigen, die ihre Totems pflegen, sehr dankbar sind. Da Sie offenbar ein HÃ¤ndchen dafÃ¼r haben, mÃ¶chten Sie ihnen vielleicht weiterhin helfen. Es gibt viele andere Totem-StÃ¤tten im Tal.;Es scheint, dass die Ents einfacher, die ihre Totems pflegen, sehr dankbar sind. Da Sie offenbar ein Händchen dafür haben, könnte Ihnen weiterhin vielleicht geholfen werden. Es gibt viele andere Totem-Stätten im Tal.
+Was nun?;War Nonne?
+Danke, lustiger Mann Ranulph. Du bist selbst nicht so schlecht!;Danke, lustiger Mann Ranulph. Du bist selbst nicht so schlecht!
+Hello there. Would you like to exchange research?;Hallo. Möchten Sie Forschungsergebnisse austauschen?
+I need another notebook.;Ich brauche ein weiteres Notizbuch.
+Nun, das ist definitiv der â€žDialogâ€œ, den ich je mit den Ents gefÃ¼hrt habe. Auch hier war Isadora eine groÃŸe Hilfe!;Nun, das ist definitiv der „Dialog“, den ich je mit den Ents geführt habe. Auch hier war Isadora eine große Hilfe!
+Very good! I'll happily exchange some treasures I've found in return for your findings!;Sehr gut! Gerne tausche ich einige Schätze, die ich gefunden habe, gegen eure Funde ein!
+Ciertamente. Saca la caÃ±a de debajo de mi cama y pesca en el lago. Cuando hayas pescado algunos peces, estoy seguro de que estarÃ¡s listo para hablar mÃ¡s conmigo.;Ciertamente. Saca la caña de debajo de mi cama y pesca en el lago. Sobald Sie die Fische gefangen haben, ist es sicher, dass Sie sich auf der Liste befinden, damit Sie mehr kaufen können.
+Correcto. El espÃ­ritu ascenderÃ¡ a la gloria mientras la pira enviarÃ¡ los restos terrenales a las profundidades. TambiÃ©n obtendrÃ¡s un vÃ­nculo mÃ¡s cercano con el mundo de los espÃ­ritus.;Richtig. Der Geist steigt in die Herrlichkeit empor, während er die irdischen Reste in die Tiefe treibt. Sie erhalten auch einen tieferen Einblick in die Welt des Geistes.
+Entonces, Â¿puedes enseÃ±arme tus mÃ©todos?;Also, können Sie Ihre Methoden verstehen?
+De las cavernas debajo de este lago. Muchos de nuestros antepasados â€‹â€‹viajaron a estas cavernas en busca de gloria, pero sÃ³lo encontraron la muerte. Sus huesos aÃºn deben permanecer dentro, sus espÃ­ritus atrapados en el tormento.;Die Höhlen hinter diesem See. Viel von unseren Antepasados ​​â€‹â€‹überqueren Sie diese Höhlen auf der Busca de Gloria, aber wir stoßen nur auf die Muerte. Ihre Farben müssen für immer da sein, ihr Geist ist in der Qual versunken.
+Hey, do not treat the Emir's palace like a climbing frame for children, whoever you are!;Hey, behandle den Palast des Emirs nicht wie ein Klettergerüst für Kinder, wer auch immer du bist!
+TambiÃ©n necesitarÃ­a que extrajeras la piedra.;Es ist auch erforderlich, den Stein zu extrahieren.
+Bueno, entonces trÃ¡igame suficientes bloques mÃ¡s pequeÃ±os para hacer treinta y dos kilogramos y yo me ocuparÃ© de ello.;Bueno, es gibt genügend Blöcke für mehr Kleinigkeiten, um Gewicht und mehr als ein Kilogramm zu sammeln, und ich bin von hier aus beschäftigt.
+Â¿QuÃ© deberÃ­a hacer para hacer tu estatua?;¿Muss du dir vorstellen, deinen Status zu erhöhen?
+Hallo. Wie geht's?;Hallo. Wie geht's?
+That makes 25 kg I'm carrying now.;Das macht 25 kg, die ich jetzt trage.
+AquÃ­ tienes un pequeÃ±o bloque de 1 kg.;Es handelt sich um einen kleinen Block von 1 kg.
+Oh, stop whining. El Ãºltimo aventurero que me ayudÃ³ llevaba a una chica en un barril.;Oh, hör auf zu jammern. Der letzte Abenteurer, der mich zu einem Mädchen in einem Baracken machen wollte.
+Bueno, entonces entrÃ©gamelo.;Bueno, entonces entrégamelo.
+Necesito 22 kg mÃ¡s de piedra para hacer la base. Â¿Tienes algo mÃ¡s para obligarme a llevar?;Für die Basis sind mehr als 22 kg Stein erforderlich. Möchten Sie jemanden verpflichten?
+I need 12 kg more stone to make the base. Have you any more to make me carry?;Ich benötige 12 kg mehr Stein, um den Sockel herzustellen. Hast du noch mehr zum Tragen?
+O has estado partiendo piedra en bloques mÃ¡s pequeÃ±os o eres peor extrayendo piedra de lo que esperaba.;Es gibt noch mehr kleine Steinblöcke oder noch mehr kleine Steinblöcke, die von denen übrig geblieben sind, die es erwartet.
+That makes 31 kg I'm carrying now.;Das macht 31 kg, die ich jetzt trage.
+Esto no estÃ¡ bien... Hemos cometido un error. Â¡Tenemos que irnos ahora!;Esto no está bien... Hemos Cometido a error. Â¡Tenemos que irnos ahora!
+Su nombre es Galvek. En nuestra lengua significa...;Ihr Name ist Galvek. In unserer neuen Sprache bedeutsam...
+I need 10 kg more stone to make the body. Do you have any more stone you want to offload onto me?;Ich benötige 10 kg mehr Stein, um den Körper herzustellen. Hast du noch mehr Steine, die du auf mich abladen möchtest?
+That makes 15 kg I'm carrying now.;Das macht 15 kg, die ich jetzt trage.
+Â¿Es eso asÃ­? Entonces dime, Dallas Jones, Â¿quÃ© respuestas buscas?;Â¿Es eso asÃ? Entonces dime, Dallas Jones, welche Antworten kommen?
+Esto es demasiado para que lo afrontemos solo nosotros. Vamos a necesitar algo de ayuda.;Dies ist eine Herausforderung für uns, wenn wir alleine an die Front gehen. Wir benötigen ein Ayuda-Programm.
+SÃ­. Tiene un poder que ningÃºn otro dragÃ³n tiene. El poder de influir en las mentes de otros dragones. A travÃ©s de Ã©l se levantarÃ¡ un ejÃ©rcito. Uno que aniquilarÃ¡ a la humanidad.;SÃ. Sie müssen einen anderen ziehen. Er kann auf viele andere Drachen Einfluss nehmen. Eine Reise durch den Himmel wird einen Auswurf hervorrufen. Uno que aniquilará a la humanidad.
+Soy Dallas Jones y vine aquÃ­ en busca de respuestas.;Soy Dallas Jones und Vine sind auf der Suche nach Antworten.
+Si te refieres a los dragones que se han visto volando, lo sabemos muy bien. Tengo a mis mejores personas investigando esto y nos aseguraremos de que los ciudadanos estÃ©n seguros. Ahora, sigue tu camino.;Wenn du dich auf die Drachen beziehst, die du gesehen hast, sind sie mir sehr dankbar. Wir haben die besten Personen untersucht und sichergestellt, dass die Bürger sicher sind. Jetzt, sigue tu camino.
+You are a true warrior, Raklak, though I fear this may be too much even for you. You are heavily outnumbered.;Du bist ein wahrer Krieger, Raklak, obwohl ich fürchte, dass das selbst für dich zu viel sein könnte. Ihr seid stark in der Unterzahl.
+Not at the moment Raklak. Rest assured, should your services to the Fremennik be required, I will call upon you.;Im Moment nicht, Raklak. Seien Sie versichert, sollten Ihre Dienste für die Fremennik erforderlich sein, werde ich Sie anrufen.
+Fight alongside outerlanders? That is not typically our way, Raklak.;An der Seite der Outlander kämpfen? Das ist normalerweise nicht unsere Art, Raklak.
+Greetings, Raklak. Have you seen those beasts flying towards Ungael? Might be best to stay clear of that place for a while.;Grüße, Raklak. Hast du diese Bestien auf Ungael zufliegen sehen? Vielleicht ist es das Beste, sich eine Weile von diesem Ort fernzuhalten.
+I guess you make a valid point. What would you ask of us?;Ich denke, Sie haben einen berechtigten Standpunkt vertreten. Was würden Sie von uns verlangen?
+Nunca obtendrÃ¡s lo que quieres de mÃ­. Â¡Soy un soldado de Avarrocka y me mantendrÃ© fuerte!;Nunca erfährt, was ich möchte. Â¡Soy un soldado de Avarrocka y me mantendré fuerte!
+Gracias, amable aventurero... Ahora que estoy libre de mi prisiÃ³n, ya no necesito estos huesos;Gracias, liebenswürdiger Abenteurer... Jetzt, da ich mein Gefängnis frei habe, sind diese Farben nicht nötig
+Yo, eh... Â¿quÃ©?;Yo, eh... ¿qué?
+Mi hija estaba aprendiendo a cocinar esto cuando me fui.;Ich war gerade dabei, es zu kochen, bis es mir gelang.
+Time to wake up, Raklak. You have dragons to slay!;Zeit aufzuwachen, Raklak. Du musst Drachen töten!
+Â¿Tienes un plan?;Haben Sie einen Plan?
+Â¡ChelÃ­n!;¡Chelin!
+I have some of your things. You should take them before we head to the fleet.;Ich habe einige deiner Sachen. Du solltest sie mitnehmen, bevor wir uns auf den Weg zur Flotte machen.
+No soy fÃ¡cil de matar.;Kein Soja-F¡cil de Matar.
+Yo, ejem, me preguntaba...;Yo, ejem, ich preguntaba...
+This isn't the place to talk. Visit me in Varrock's Chaos Temple if you have something to discuss. Unless you're here to teleport or buy something?;Dies ist nicht der Ort zum Reden. Besuchen Sie mich in Varrocks Chaostempel, wenn Sie etwas zu besprechen haben. Es sei denn, Sie sind hier, um sich zu teleportieren oder etwas zu kaufen?
+Not right now, I'm afraid. Do keep checking in though. I often have jobs that need doing.;Im Moment leider nicht. Schauen Sie trotzdem weiter vorbei. Ich habe oft Aufgaben, die erledigt werden müssen.
+Si lo que buscas es informaciÃ³n de Piscarilius, Â¡es en mi cerebro donde debes mirar!;Wenn es Piscarilius' Informationen sind, lasst es mich in meinem Kopf beeindrucken!
+Â¿Puedes darme dinero gratis?;Â¿Könnten Sie kostenlos Geld verdienen?
+Â¿Por quÃ© deberÃ­a darte comida gratis?;Warum sollten Sie ein kostenloses Essen bestellen?
+Bah! People these days only appreciate junk food.;Bah! Heutzutage schätzen die Menschen nur noch Junkfood.
+Ah, olvÃ­dalo.;Ah, olvídalo.
+Â¿Por quÃ© deberÃ­a darte dinero gratis?;Warum sollten Sie Ihr Geld kostenlos bezahlen?
+Entonces veamos quÃ© tienes.;Entonces veamos qué tienes.
+Okay. Fare well on your travels.;Okay. Kommt gut auf euren Reisen.
+This place is a union of the mystical and the mundane, where the magical realm reaches out to touch the humdrum world of commerce.;Dieser Ort ist eine Vereinigung von Mystischem und Alltäglichem, wo die magische Welt die eintönige Welt des Handels berührt.
+My name is Regath, traveller.;Mein Name ist Regath, Reisender.
+Oh. Supongo que lo intentarÃ© entonces.;Oh. Supongo que lo intentaré entonces.
+No, no estoy listo para hacer eso.;Nein, estoy listo para hacer eso.
+Supongo que el trabajo de espÃ­a SÃ� implica esconderse un poco en los rincones.;Es wird angenommen, dass die Arbeit von Espía dazu führt, dass man sich in den Rincones aufhält.
+Have you acquired three sheets of papyrus, one ball of wool, one full sack of potatoes, and one unlit candle?;Haben Sie drei Blätter Papyrus, ein Wollknäuel, einen vollen Sack Kartoffeln und eine unbeleuchtete Kerze erworben?
+Â¡No te preocupes! SÃ© exactamente lo que estoy haciendo.;Keine Sorge! Sieht genau so aus, als ob es eine Haciendo wäre.
+Â¿No viste la quema?;Â¿No viste la quema?
+Â¡Excelente! Â¡DÃ©jame juntarlo todo y estaremos listos para despegar! Hablame de nuevo en un momento.;Â¡Excelente! Â¡Déjame juntarlo todo y estaremos listos para despegar! Hablame de neu in einem Moment.
+Ah, maravilloso tinte amarillo. Gracias.;Ah, maravilloso tinte amarillo. Gracias.
+AquÃ­ estÃ¡ la seda.;AquÃ estÃ¡ la seda.
+Ook. Ook. Ook Ook! Ah Ah! Ook Ah Uh! ;Ok. Ok. Ook Ook! Ah Ah! Ook Ah Uh!
+Wait a shecond... WAIT a shecond! You're a human! I don't think you're allowed to use the carts.;Warte eine Sekunde... Warte eine Sekunde! Du bist ein Mensch! Ich glaube nicht, dass Sie die Karren benutzen dürfen.
+Ich mÃ¶chte ein Ticket kaufen.;Ich möchte ein Ticket kaufen.
+Maybe if you find another way into the city *hic*, maybe you can speak to someone and they'll let you.;Vielleicht kannst du mit jemandem reden, wenn du einen anderen Weg in die Stadt findest *hick*, und er lässt dich.
+Die Quest â€žDer Riesenzwergâ€œ starten?;Die Quest „Der Riesenzwerg“ starten?
+Schauen Sie, da ist die Statue von KÃ¶nig Alvis, die den Eingang zu Keldagrim bewacht!;Schauen Sie, da ist die Statue von König Alvis, die den Eingang zu Keldagrim bewacht!
+Ja, ich bin bereit und es macht mir nichts aus, dass es ein paar Minuten dauert.;Ja, ich bin bereit und es macht mir nichts aus, dass es ein paar Minuten dauert.
+Das ist ein Deal!;Das ist ein Deal!
+Ja, das werde ich tun.;Ja, das werde ich tun.
+Ho, Mensch!;Ho, Mensch!
+Ich bevorzuge die Minen gegenÃ¼ber der Stadt.;Ich bevorzuge die Minen gegenüber der Stadt.
+Toll! Und wir werden direkt daran vorbeigehen?;Maut! Und wir werden direkt daran vorbeigehen?
+Ã„hm, warte! Da stimmt etwas nicht!;Ähm, warte! Da stimmt etwas nicht!
+Du bist ein guter Mensch, [PLAYER_NAME].;Du bist ein guter Mensch, [PLAYER_NAME].
+Komm mit uns, Mensch! Kommandant Veldaban mÃ¶chte mit Ihnen sprechen!;Komm mit uns, Mensch! Kommandant Veldaban möchte mit Ihnen sprechen!
+Das stimmt!;Das stimmt!
+Identifiziere dich, Mensch!;Identifiziere dich, Mensch!
+Nein, ich kann nicht gestÃ¶rt werden.;Nein, ich kann nicht gesteht werden.
+Halt! Auf Befehl der Schwarzen Garde sind Sie verhaftet!;Halt! Auf Befehl der Schwarzen Garde sind Sie verhaftet!
+Was?? Ich habe nichts getan! Das war nicht ich!;War?? Ich habe nichts getan! Das war nicht ich!
+Ja, welche Kleidung haben Sie auf Lager?;Ja, welche Kleidung haben Sie auf Lager?
+Nein, ich stÃ¶bere nur.;Nein, ich stöbere nur.
+Willkommen an meinem Kleiderstand. Kann ich Ihnen bei irgendetwas helfen?;Willkommen an meinem Kleiderstand. Kann ich Ihnen bei irgendetwas helfen?
+Wissen Sie etwas Ã¼ber die Kleidung von KÃ¶nig Alvis?;Wissen Sie etwas über die Kleidung von König Alvis?
+Oh, ich verstehe, ich verstehe!;Oh, ich verstehe, ich verstehe!
+Ja, nochmal zu den besonderen Klamotten ...;Ja, nochmal zu den besonderen Klamotten ...
+Ich helfe dem Bildhauer beim Wiederaufbau der Statue von KÃ¶nig Alvis. Aber er mÃ¶chte wissen, wie seine Kleidung aussah.;Ich helfe dem Bildhauer beim Wiederaufbau der Statue von König Alvis. Aber er möchte wissen, wie seine Kleidung aussah.
+KÃ¶nnen Sie mir mehr Ã¼ber die Bibliothek erzÃ¤hlen?;Können Sie mir mehr über die Bibliothek erzählen?
+Ja, ich suche besondere Kleidung.;Ja, ich suche besondere Kleidung.
+Es interessiert mich schlieÃŸlich nicht wirklich.;Es interessiert mich schlüsslich nicht wirklich.
+Gib mir einfach schon die Axt, ich weiÃŸ, dass du sie hast!;Gib mir einfach schon die Axt, ich weiß, dass du sie hast!
+Blasidar, der Bildhauer, braucht es fÃ¼r seine Statue.;Blasidar, der Bildhauer, braucht es für seine Statue.
+Ja, ich suche nach Waffen.;Ja, ich suche nach Waffen.
+Du bist ein guter Schmied, aber das Ã¼bersteigt bei weitem deine FÃ¤higkeiten.;Du bist ein guter Schmied, aber das übersteigt bei weitem deine Fähigkeiten.
+Willkommen, Mensch, im Quality Weapons Shop! Kann ich Sie fÃ¼r einen Kauf interessieren?;Willkommen, Mensch, im Quality Weapons Shop! Kann ich Sie für einen Kauf interessieren?
+Vielleicht kann ich die Axt reparieren?;Vielleicht kann ich die Axt reparieren?
+Es befindet sich nun seit einigen Generationen in der Obhut meiner Familie, nachdem es lange Zeit verschollen war.;Es befindet sich nun seit einigen Generationen in der Obhut meiner Familie, nachdem es lange Zeit verschollen war.
+Los geht's! Und schauen Sie, wie schÃ¶n diese Kleidung aussieht!;Los geht's! Und schauen Sie, wie schön diese Kleidung aussieht!
+Sie begehen Hausfriedensbruch, verschwinden Sie!;Sie begehen Hausfriedensbruch, verschwinden Sie!
+Das ist langweilig, ich habe das Interesse verloren.;Das ist langweilig, ich habe das Interesse verloren.
+Willkommen in meinem Shop, Mensch! Sind Sie daran interessiert, etwas zu kaufen?;Willkommen in meinem Shop, Mensch! Sind Sie daran interessiert, etwas zu kaufen?
+Ja, ich suche ein Paar besondere Stiefel.;Ja, ich suche ein Paar besondere Stiefel.
+Ich werde bezahlen.;Ich werde bezahlen.
+Ich werde nicht bezahlen.;Ich werde nicht bezahlen.
+Ja, ich suche eine RÃ¼stung.;Ja, ich suche eine Rüstung.
+Ja, ich suche eine bestimmte Streitaxt.;Ja, ich suche eine bestimmte Streitaxt.
+Iwazaru dice que tienes el tipo de plÃ¡tano equivocado.;Iwazaru würfelt, dass es sich um ein gleichwertiges Gericht handelt.
+Tasty Banana. Thanks mate!;Leckere Banane. Danke Kumpel!
+Ah ya veo, Â¿puedes decirme cuÃ¡l es la misiÃ³n?;Ah ja, können Sie entscheiden, ob es die Mission ist?
+No te dirÃ© nada, y los tres monos tampoco, de eso me asegurÃ©.  No puedo permitir que ningÃºn mono lo sepa.;Nein, das ist nicht der Fall, und ich habe drei Dinge getan, das ist mir wichtig.  Es ist nicht möglich, dass Sie es alleine tun.
+Â¿CÃ³mo sabes eso? Es informaciÃ³n ultrasecreta, Â¿sabes?;Â¿CÃ³mo sabes eso? Es ist ultrageheime Information, Sabes?
+Â¿EstÃ¡ seguro?...;Â¿EstÃ¡ seguro?...
+Â¿Hay alguien ahÃ­?;Â¿Hay alguien ahÃ?
+QuÃ©, eh, oh cierto.;Qué, eh, oh cierto.
+Ah, te refieres a los plÃ¡tanos ROJOS, sÃ­, claro, he oÃ­do que son los mÃ¡s sabrosos. Mucho mÃ¡s sabroso que los plÃ¡tanos azules. Â¿CÃ³mo podrÃ­a olvidarlo? Bah, sÃ³lo un mono falso no sabrÃ­a eso. Ejem.;Ah, te referes a los plátanos ROJOS, sà, claro, he oído que son los más sabrosos. Mucho más sabroso que los plátanos azules. Â¿CÃ³mo podrÃa olvidarlo? Bah, es ist nur ein einziger Fehler, aber das ist nicht der Fall. Ejem.
+Errm, no soy de por aquÃ­, de todos modos, avanzando rÃ¡pidamente, Â¿hay un plÃ¡tano rojo cerca?;Ähm, kein Soja aus Wasser, von allen Modos, avanzando rápidamente, Â¿hay un plátano rojo cerca?
+Dann beeilen Sie sich bitte, bevor die Zeit ablÃ¤uft.;Dann beeilen Sie sich bitte, bevor die Zeit abläuft.
+Kannst du mir mit dieser alten Axt helfen?;Kannst du mir mit dieser alten Axt helfen?
+Gib mir die Axt und ich repariere sie fÃ¼r dich.;Gib mir die Axt und ich repariere sie für dich.
+Blasidar befehligt nicht den Blauen Opal.;Blasidar befiehlt nicht den Blauen Opal.
+Ah, Keldagrim. Wir waren schon lange nicht mehr dort.;Ah, Keldagrim. Wir waren schon lange nicht mehr dort.
+Erkunden Sie die Gegend, bevor Sie zurÃ¼ckkehren.;Erkunden Sie die Gegend, bevor Sie zurückkehren.
+Oh nein, Blurite ist hier nicht angebracht. Nein, nein, das wird eine sehr heikle Arbeit, fÃ¼r die nur eine geringe Menge an Rohstoffen benÃ¶tigt wird.;Oh nein, Blurite ist hier nicht angebracht. Nein, nein, das wird eine sehr heikle Arbeit, für die nur eine geringe Menge an Rohstoffen benötigt wird.
+Ich muss gehen!;Ich muss gehen!
+Du backst ausgezeichnete Rotbeerkuchen, [PLAYER_NAME], wie kann ich also ablehnen? Dann lass mich mal sehen, was daran falsch ist.;Du backst ausgezeichneten Rotbeerkuchen, [PLAYER_NAME], wie kann ich mich auch ablehnen? Dann lass mich mal sehen, was daran falsch ist.
+Auch die Schwarze Garde nicht. Sie stehen unter dem Kommando des Konsortiums, nicht umgekehrt.;Auch die Schwarze Garde nicht. Sie stehen unter dem Kommando des Konsortiums, nicht umgekehrt.
+Mal sehen... ja, ja, ich habe eine Aufgabe fÃ¼r dich.;Mal sehen... ja, ja, ich habe eine Aufgabe für dich.
+Was brauchten Sie vom Blauen Opal?;Was brauchten Sie vom Blauen Opal?
+Kannst du mir eine Stange Eisen besorgen? Dann kann ich mit meiner Arbeit daran beginnen.;Kannst du mir eine Stange Eisen besorgen? Dann kann ich mit meiner Arbeit daran beginnen.
+Bitte schÃ¶n, [PLAYER_NAME], so gut wie neu.;Bitte schön, [PLAYER_NAME], so gut wie neu.
+Ich muss mit dem Direktor sprechen.;Ich muss mit dem Direktor sprechen.
+Kann ich Ihnen bei irgendetwas helfen?;Kann ich Ihnen bei irgendetwas helfen?
+Nun, Sie wissen, was zu tun ist! Hol mir noch einen Rotbeerkuchen und ich schaue mir deine Axt an!;Nun, Sie wissen, was zu tun ist! Hol mir noch einen Rotbeerkuchen und ich schaue mir deine Axt an!
+Der Blaue Opal hat Ihre Hilfsbereitschaft zur Kenntnis genommen.;Der Blaue Opal hat Ihre Hilfsbereitschaft zur Kenntnis genommen.
+Have you completed your task yet? Did you get our 3 pieces of silver ore?;Haben Sie Ihre Aufgabe schon erledigt? Hast du unsere 3 Silbererzstücke bekommen?
+Hier... ist die Klinge dieser Axt extrem stumpf und sprÃ¶de geworden. Ich muss es wieder in seinem frÃ¼heren Glanz erstrahlen lassen.;Hier... ist die Klinge dieser Axt extrem stumpf und spröde geworden. Ich muss es wieder in seinem früheren Glanz erstrahlen lassen.
+Aber ich komme vom Bildhauer Blasidar.;Aber ich komme vom Bildhauer Blasidar.
+Sein frÃ¼herer Glanz, oder? Darf ich fragen, wo genau du diese Axt her hast?;Sein früherer Glanz, oder? Darf ich fragen, wo genau du diese Axt her hast?
+Wie kann ich mich beweisen?;Wie kann ich mich beweisen?
+Kehrt sofort nach Keldagrim zurÃ¼ck.;Kehrt sofort nach Keldagrim zurück.
+We need 3 pieces of silver ore in the next 13 minutes.;Wir brauchen in den nächsten 13 Minuten 3 Stück Silbererz.
+Aber ... Kommandant Veldaban von der Schwarzen Garde hat mich dazu angewiesen!;Aber ... Kommandant Veldaban von der Schwarzen Garde hat mich dazu angewiesen!
+Yes, yes, that will do just fine. Jetzt gibt es nur noch ein Problem, den Kopf muss ich noch machen.;Ja, ja, das reicht völlig aus. Jetzt gibt es nur noch ein Problem, den Kopf muss ich noch machen.
+Ich nehme es.;Ich nehme es an.
+... Â¿Dijo todo eso?;... Â¿Dijo todo eso?
+(Iwazaru asiente con entusiasmo y seÃ±ala al sur);(Iwazaru orientiert sich mit Enthusiasmus und señala al sur)
+(Mueve la cabeza vigorosamente);(Mueve la cabeza vigorosamente)
+Ah, ignÃ³ralo.;Ah, ignuralo.
+Danke, es wird geschÃ¤tzt.;Danke, es wird geklärt.
+Have you completed your task yet? Did you get our 4 pieces of gold ore?;Haben Sie Ihre Aufgabe schon erledigt? Hast du unsere 4 Stücke Golderz bekommen?
+*mastica* Â¿QuiÃ©n eres?;*mastica* Â¿QuiÃ©n eres?
+Una vez mÃ¡s, mi trabajo heroico no es apreciado, supongo que ese es el destino de un verdadero hÃ©roe.;Noch mehr, meine heroische Arbeit wird nicht geschätzt, aber es ist das Ziel eines echten Helden.
+We haul all our goods to the city by ship, you see.;Wir transportieren alle unsere Waren per Schiff in die Stadt.
+You're going to talk to the Consortium?;Wirst du mit dem Konsortium reden?
+Und was kann ich fÃ¼r Sie tun?;Und was kann ich für Sie tun?
+My, you're certainly moving up in the dwarven world, aren't you?;Meine Güte, du steigst in der Zwergenwelt auf jeden Fall auf, nicht wahr?
+For mining of course!;Natürlich für den Bergbau!
+A terrible noise it made too!;Es machte auch einen schrecklichen Lärm!
+We're very good at answering questions!;Wir sind sehr gut darin, Fragen zu beantworten!
+It was knocked down, remember? Parts of it nearly landed on our heads!;Es wurde abgerissen, erinnerst du dich? Teile davon wären uns fast auf dem Kopf gelandet!
+These mines are actually the territory of one of the eight major companies of the mining Consortium.;Diese Minen sind eigentlich das Territorium eines der acht großen Unternehmen des Bergbaukonsortiums.
+Ist es nicht offensichtlich?;Ist es nicht offensichtlich?
+I need some help with this statue... King Alvis' statue, to be precise.;Ich brauche Hilfe bei dieser Statue ... der Statue von König Alvis, um genau zu sein.
+Glad to be of service!;Gerne behilflich sein!
+Since the mine carts don't come here.;Da die Minenkarren nicht hierher kommen.
+Well, the sculptor only needs to build the head now. But I need to get the Consortium to help me with that.;Nun muss der Bildhauer nur noch den Kopf bauen. Aber ich muss das Konsortium dazu bringen, mir dabei zu helfen.
+Oh yes, what's the problem then?;Oh ja, was ist dann das Problem?
+The Consortium, you say?;Das Konsortium, sagen Sie?
+What does it look like they're used for?;Wie sieht es aus, wenn sie verwendet werden?
+Now now, Derni, there was no need for that.;Nun, Derni, das war nicht nötig.
+But because the river goes right to the city, this is just as easy.;Aber weil der Fluss direkt in die Stadt fließt, ist das genauso einfach.
+We are but simple dwarves.;Wir sind nur einfache Zwerge.
+I must be off now, thanks for the chat.;Ich muss jetzt weg, danke für das Gespräch.
+What do you need us for then?;Wofür brauchen Sie uns dann?
+Come back any time!;Kommen Sie jederzeit wieder!
+Especially you, Dernu.;Besonders du, Dernu.
+Gab es etwas, was Sie wollten?;Gab es etwas, was Sie wollten?
+From what I understand, you have some business to finish with the Blue Opal first.;Soweit ich weiß, müssen Sie zunächst einige Geschäfte mit dem Blauen Opal erledigen.
+Wie bist du hier reingekommen? Ich habe keine Zeit, mit dir zu reden!;Wie bist du hier reingekommen? Ich habe keine Zeit, mit dir zu reden!
+Was kann ich fÃ¼r dich tun, Mensch?;Was kann ich für dich tun, Mensch?
+Dios mÃ­o, Dios mÃ­o. Â¡Maldita sea!;Dios mÃo, Dios mÃo. Â¡Maldita-Meer!
+Una carrera de sirvientes hacia los ogros: criaturas grises de aspecto deprimido, Â¡siempre perdiendo uÃ±as, dientes y cabello!;Una carrera de sirvientes hacia los ogros: criaturas grises despecto deprimido, Â¡siempre perdiendo uñas, dientes y cabello!
+Â¿Puedo ser de ayuda?;Â¿Puedo ser de ayuda?
+Â¿Robado?;Â¿Robado?
+Interesante, muy interesante.;Interessant, sehr interessant.
+Es la mano amiga de los magos: dÃ©jalos levantarse.;Es ist der beste Freund der Magier: Déjalos levantarse.
+Buscando aventuras, Â¿quÃ© mÃ¡s?;Buscando aventuras, was ist los?
+Â¿QuÃ© es esto? Â¡Desagradable! Algunas uÃ±as. Aunque pueden ser una pista... SerÃ¡ mejor que los tome.;Â¿QuÃ© es esto? Â¡Verrottbar! Algunas uñas. Aunque pueden ser una pista... Será mejor que los tome.
+Â¡Dios mÃ­o, Dios mÃ­o! Â¿QuÃ© importa al final?;Â¡Dios mÃo, Dios mÃo! ¿Qué importa al final?
+Â¿Tomado?;Â¿Tomado?
+Hola de nuevo. Â¿Encontraste algo de interÃ©s?;Hola de nuevo. Â¿Algo de interés kontrastieren?
+Â¿QuiÃ©n eres? Â¿Eres uno de los nuevos guardias?;Â¿QuiÃ©n eres? Â¿Ist einer der neuen Wächter?
+Es ist alles ganz einfach. Du erledigst einige Aufgaben fÃ¼r uns, hilfst uns ein wenig, wenn wir etwas dringend erledigen mÃ¼ssen, und als Belohnung wirst du in unserer WertschÃ¤tzung steigen.;Es ist alles ganz einfach. Du erledigst einige Aufgaben für uns, hilfst uns ein wenig, wenn wir etwas dringend erledigen müssen, und als Belohnung wirst du in unserer Wertschätzung steigen.
+Ja, ich denke, wir haben etwas fÃ¼r Sie.;Ja, ich denke, wir haben etwas für Sie.
+Dann erwarte ich bald Ihre RÃ¼ckkehr.;Dann erwarte ich bald Ihre Rückkehr.
+What did you need of the Purple Pewter?;Was brauchten Sie vom Purple Pewter?
+Los ogros son criaturas desagradables, sÃ­. SÃ³lo un guerrero fuerte, y ademÃ¡s inteligente, puede vencerlos.;Los ogros son criaturas desagradables, sÃ. Sólo un guerrero fuerte, y además intelligente, puede vencerlos.
+Â¡Detente, criatura! SÃ³lo se permiten ogros y sus amigos en esta ciudad. MuÃ©strame una seÃ±al de compaÃ±erismo, como una reliquia perdida o algo asÃ­, y podrÃ¡s pasar.;Â¡Entspannung, criatura! Allein in dieser Stadt darf man seinen Freunden und Freunden erlauben. Muéstrame una señal de compañerismo, coo una reliquia perdida o algo asà, y podrás pasar.
+Â¿QuÃ© necesito hacer para entrar a la ciudad?;Was muss man tun, um in die Stadt zu gelangen?
+Busco entrada a la ciudad de los ogros.;Busco entrada a la ciudad de los ogros.
+Â¿QuÃ© quieres, pequeÃ±o bocado? Â¡Te verÃ­as bien en mi plato!;¿Qué quieres, pequeño bocado? Â¡Te verías bien en mi plato!
+Â¿QuÃ© puede hacer por mÃ­ un bocado como tÃº?;¿Qué konnte mir einen Schlag versetzen, wie du es tust?
+Â¿Y cÃ³mo sabes eso?;Â¿Y cÃ³mo sabes eso?
+NecesitarÃ¡s alguna forma de hacer que los guardias te dejen entrar.;Es ist notwendig, dass die Wachen eintreten.
+Â¿Por quÃ© estÃ¡s aquÃ­, pequeÃ±o?;Â¿Por quÃ© estÃ¡s hier, klein?
+Â¿QuÃ© puedo hacer para ayudar a un ogro?;Â¿QuÃ© konnte hacer para ayudar a unogro?
+Wir brauchen in den nÃ¤chsten 13 Minuten 3 StÃ¼ck Kupfererz.;Wir brauchen in den nächsten 13 Minuten 3 Stück Kupfererz.
+Hast du noch eine Aufgabe fÃ¼r mich?;Hast du noch eine Aufgabe für mich?
+Das ist schÃ¶n zu hÃ¶ren, danke.;Das ist schön zu hören, danke.
+Ich muss zugeben, dass ich mir einen Moment lang Sorgen gemacht habe, aber ich freue mich, dass Sie sich fÃ¼r uns eingesetzt haben.;Ich muss zugeben, dass ich mir einen Moment lang Sorgen habe, aber ich freue mich, dass Sie sich für uns eingesetzt haben.
+Und ich wÃ¼rde Ihnen einer solchen Bitte stattgeben, warum?;Und ich würde Ihnen eine solche Bitte stattgeben, warum?
+Bevor Ihnen ein solches Privileg gewÃ¤hrt wird, mÃ¼ssen Sie sich gegenÃ¼ber dem Unternehmen beweisen.;Bevor Ihnen ein solches Privileg gewährt wird, müssen Sie sich gegenüber dem Unternehmen beweisen.
+Ich habe deine Aufgabe erledigt! Hier ist dein Erz!;Ich habe deine Aufgabe erledigt! Hier ist dein Erz!
+Es gibt immer etwas zu tun, ja.;Es gibt immer etwas zu tun, ja.
+Â¿QuÃ© palo?;¿Qué palo?
+Un ogro llamado Og me dio esto...;Ein Ogro-Lamado Og me dio esto...
+Bueno, bueno, Â¡el pequeÃ±o lo tiene! Toma esto para mostrar que el pequeÃ±o es amigo de los ogros. Â¡Jajajajaja!;Bueno, bueno, ¡el pequeño lo tiene! Toma esto para mostrar que el pequeño es amigo de los ogros. Â¡Jajajajaja!
+Un ogro llamado Grew me dio esto...;Ein Ogro-Lamado hat mich so groß gemacht...
+Un ogro llamado Toban me dio esto...;Ein Ogro-Lamado Toban me dio esto...
+Â¡Eso molestarÃ¡ mucho a Gorad! Â¡Jejejejeje! AquÃ­ tenÃ©is una muestra de mi gratitud: una antigua joya que robÃ© de Gorad y una parte antigua de una estatua.;Â¡Eso molestarÃ¡ mucho a Gorad! Â¡Jejejejeje! Ich habe ein Gebet für meine Dankbarkeit: eine Antigua-Freude, die Gorad raubt, und ein Antigua-Teil einer Statue.
+Â¿De dÃ³nde viene mi oro de ese sucio Toban?;Â¿De donne viene my oro of ese sucio Toban?
+Â¡Guau! Ese tÃºnel recorriÃ³ un largo camino.;Â¡Guau! Diese Strecke nimmt einen langen Weg auf.
+Â¿QuÃ© quieres, pequeÃ±o t'ing?;¿Qué quieres, pequeño t'ing?
+Ah, es parte de una vieja estatua de un ogro. Te lo quitarÃ©;Ah, es ist Teil eines vieja esstatua de unogro. Te lo quitaré
+Wunderbar! Ich werde persÃ¶nlich dafÃ¼r sorgen, dass es pÃ¼nktlich auf den Markt kommt!;Wunderbar! Ich werde persönlich dafür sorgen, dass es pünktlich auf den Markt kommt!
+Keep up what you're doing, [PLAYER_NAME]! The more you help us out, the more we appreciate you!;Machen Sie weiter so, [PLAYER_NAME]! Je mehr Sie uns helfen, desto mehr schätzen wir Sie!
+I'm sure the director will be happy to talk to you once the time is right.;Ich bin mir sicher, dass der Direktor gerne mit Ihnen sprechen wird, sobald der richtige Zeitpunkt gekommen ist.
+Have you completed your task yet? Did you get our 5 pieces of mithril ore?;Haben Sie Ihre Aufgabe schon erledigt? Hast du unsere 5 Mithril-Erzstücke bekommen?
+NatÃ¼rlich, mein guter Mensch, natÃ¼rlich!;Natürlich, mein guter Mensch, natürlich!
+That is not a request that I can grant you yet, [PLAYER_NAME], even though I am impressed with you so far.;Das ist eine Bitte, die ich dir noch nicht erfüllen kann, [PLAYER_NAME], auch wenn ich bisher von dir beeindruckt bin.
+We need 3 pieces of iron ore in the next 13 minutes.;Wir brauchen in den nächsten 13 Minuten 3 Stück Eisenerz.
+Ausgezeichnet, ich dachte, das wÃ¼rde dir gefallen!;Ausgezeichnet, ich dachte, das würde dir gefallen!
+What else must I do to prove myself?;Was muss ich noch tun, um mich zu beweisen?
+Der Blaue Opal schÃ¤tzt Ihre harte Arbeit.;Der Blaue Opal schätzt Ihre harte Arbeit.
+Â¡Oye! Â¿AdÃ³nde crees que vas? Â¡EstÃ¡s por la olla!;Â¡Oye! Â¿AdÃ³nde glaubt, was? Â¡EstÃ¡s por la olla!
+Â¿Es asÃ­? Me sigues la corriente. Responde este acertijo y te ayudarÃ©...;Â¿Es asÃ? Ich sigues la corriente. Antworte, es ist bestätigt und du hast mir geholfen...
+Bueno, Â¿quÃ© prueba de amistad trajiste?;Gut, ¿qué prueba de amistad trajiste?
+Hey, you can't go climbing all over the city! Use the path!;Hey, man kann nicht in der ganzen Stadt klettern gehen! Benutze den Weg!
+Â¡Me alegro que haya sido mÃ¡s fÃ¡cil el camino de regreso!;Â¡Ich bin froh, dass ich den Camino de Regreso am liebsten bewältigt habe!
+Â¡Detente, criatura! Ah, eres tÃº. Bueno, Â¿quÃ© tienes entonces para nosotros?;Â¡Entspannung, criatura! Ah, eres tú. Bueno, ¿qué tienes entonces para nosotros?
+Ach ja? Das hÃ¤ngt vermutlich mit der Statue zusammen?;Ach ja? Das hängt vermutlich mit der Statue zusammen?
+Ja, das kÃ¶nnte sicherlich etwas Ã¤ndern ...;Ja, das könnte sicherlich etwas ändern ...
+You are one of our best people, [PLAYER_NAME], naturally I have time for you.;Du bist einer unserer besten Leute, [PLAYER_NAME], natürlich habe ich Zeit für dich.
+Das Konsortium muss noch eine Entscheidung treffen... alle Unternehmen wetteifern um die Ehre.;Das Konsortium muss noch eine Entscheidung treffen... alle Unternehmen wetteifern um die Ehre.
+So no, I cannot grant you this request yet, but I will certainly keep it in mind. In the mean time make sure you help out the Blue Opal in any way you can.;Also nein, dieser Bitte kann ich Ihnen noch nicht nachkommen, aber ich werde sie auf jeden Fall im Hinterkopf behalten. Stellen Sie in der Zwischenzeit sicher, dass Sie dem Blauen Opal auf jede erdenkliche Weise helfen.
+Ich wÃ¼rde dich unterstÃ¼tzen.;Ich würde dich unterstützen.
+2.500 MÃ¼nzen bezahlen, um den Hochofen zu benutzen?;2.500 Münzen bezahlen, um den Hochofen zu benutzen?
+Ich hoffe, dass ihr es bald herausfindet.;Ich hoffe, dass ihr es bald herausfindet.
+Warum, natÃ¼rlich [PLAYER_NAME]! Da drÃ¼ben steht der Regisseur!;Warum, natürlich [PLAYER_NAME]! Da drüben steht der Regisseur!
+Blasidar, der Bildhauer, hat mich geschickt.;Blasidar, der Bildhauer, hat mich geschickt.
+Ich glaube schon, ja.;Ich glaube schon, ja.
+Er sagt, er mÃ¼sse wissen, wie der Kopf der Statue aussehen solle, da sie nicht mehr wie KÃ¶nig Alvis aussehen werde.;Er sagt, er muss wissen, wie der Kopf der Statue aussehen soll, da sie nicht mehr wie König Alvis aussehen wird.
+Ich sollte dem Bildhauer also nicht sagen, dass er sich an ihm orientieren soll?;Ich sollte dem Bildhauer auch nicht sagen, dass er sich an ihm orientieren soll?
+Aber nein. MÃ¶glicherweise haben Sie sich meiner ChefsekretÃ¤rin gegenÃ¼ber bewÃ¤hrt, und das weiÃŸ ich auch sehr zu schÃ¤tzen, denn Sie haben sich mir gegenÃ¼ber noch nicht vollstÃ¤ndig bewÃ¤hrt.;Aber nein. Möglicherweise haben Sie sich meiner Chefsekretärin gegenüber befürchtet, und das weiß ich auch sehr zu schützen, denn Sie haben sich mir gegenüber noch nicht vollständig bewaffnet.
+Habt ihr noch weitere Aufgaben fÃ¼r mich?;Habt ihr noch weitere Aufgaben für mich?
+Okay, Sie kÃ¶nnen den Ofen zehn Minuten lang benutzen. Denken Sie daran, dass Sie nur halb so viel Kohle benÃ¶tigen wie bei einem normalen Ofen.;Okay, Sie können den Ofen zehn Minuten lang benutzen. Denken Sie daran, dass Sie nur halb so viel Kohle verbrauchen wie in einem normalen Ofen.
+Waren was? Ein Teil des Blauen Opals?;Waren war? Ein Teil des Blauen Opals?
+Dann beeil dich zurÃ¼ck, [PLAYER_NAME], ich zÃ¤hle auf dich!;Dann beeil dich zurück, [PLAYER_NAME], ich zähle auf dich!
+Sicherlich nicht!;Sicherlich nicht!
+Ich mÃ¶chte Ihrem Unternehmen offiziell beitreten.;Ich möchte Ihrem Unternehmen offiziell beitreten.
+Ah, wÃ¼rdest du das jetzt, oder?;Ah, wÃ¼rdest du das jetzt, oder?
+Was wÃ¤re, wenn ich es wÃ¤re?;Was wäre, wenn ich es wäre?
+Ich bin mir nicht ganz sicher ... Sie werden zwar sehr geschÃ¤tzt, aber Sie sind nicht wirklich Teil des Blauen Opals. Nicht als solches.;Ich bin mir nicht ganz sicher ... Sie werden zwar sehr geschützt, aber Sie sind nicht wirklich Teil des Blauen Opals. Nicht als solches.
+Hmm, interessant, ein Mensch schlieÃŸt sich dem Blauen Opal an.;Hmm, interessant, ein Mensch schliest sich dem Blauen Opal an.
+Wir brauchen in den nÃ¤chsten 16 Minuten 3 Barren Bronze.;Wir brauchen in den nächsten 16 Minuten 3 Barren Bronze.
+Er ist der Direktor der Red Axe. Ha, dieser alte Idiot stellt sich ganz schÃ¶n vor, seinen Kopf auf dieser Statue zu verstecken. Er denkt, er kommt damit durch, nur weil sein Unternehmen eines der grÃ¶ÃŸten im Konsortium ist.;Er ist der Direktor der Red Axe. Ha, dieser alte Idiot stellt sich ganz schön vor, seinen Kopf auf dieser Statue zu verstecken. Er denkt, er kommt damit durch, nur weil sein Unternehmen eines der größten im Konsortium ist.
+Es ist mir eine Ehre, Sie kennenzulernen!;Es ist mir eine Ehre, Sie kennen zu lernen!
+Oh ja, Hreidmar schlug vor, dass es einer von uns sein sollte. Die Ã„ra der KÃ¶nige ist schlieÃŸlich schon lange vorbei. Jetzt sorgt das Konsortium fÃ¼r Frieden und vor allem fÃ¼r Wohlstand ... die Statue sollte dies widerspiegeln.;Oh ja, Hreidmar schlägt vor, dass es einer von uns sein sollte. Die Ära der Könige ist schlieslich schon lange vorbei. Jetzt sorgt das Konsortium für Frieden und vor allem für Wohlstand ... die Statue sollte dies widerspiegeln.
+No puedo ayudarte, pero los demÃ¡s sÃ­. DÃ©jame decirte las palabras skavid mÃ¡s comunes: Ar, nod, gor, ig y cur. Eso te ayudarÃ¡ a comenzar.;No puedo ayudarte, pero los demás sà. Déjame decirte las palabras skavid más comunes: Ar, nick, gor, ig y cur. Eso te ayudará a comenzar.
+Â¡Por favor no me toques!;Â¡Por favor no me toques!
+Â¡Tanath cur, tanath cur!;Â¡Tanath cur, Tanath cur!
+Die Red Axe ist das grÃ¶ÃŸte und reichste Bergbauunternehmen, wir haben hier alle Rechte!;Die Red Axe ist das größte und reichste Bergbauunternehmen, wir haben hier alle Rechte!
+Nein, ich brauche mehr Zeit.;Nein, ich brauche mehr Zeit.
+Ich habe deine Aufgabe erledigt! Hier sind deine Riegel!;Ich habe deine Aufgabe erledigt! Hier sind deine Riegel!
+Ja! Es lebe der Blaue Opal!;Ja! Es lebe der Blaue Opal!
+Geben Sie Ihr gesamtes Erz in den Ofen?;Geben Sie Ihr gesamtes Erz in den Ofen?
+Sicherlich kann Ihr Anspruch auf die Statue nicht grÃ¶ÃŸer sein als der anderer?;Sicherlich kann Ihr Anspruch auf die Statue nicht größer sein als der andere?
+Aber Sie haben sich sicherlich als Ã¤uÃŸerst wertvoller Mitwirkender erwiesen. Solch ein Engagement habe ich in all meinen Jahren als Direktor dieses Unternehmens nicht erlebt.;Aber Sie haben sich sicherlich als wertvollster Mitwirkender erwiesen. Solch ein Engagement habe ich in all meinen Jahren als Direktor dieses Unternehmens nicht erlebt.
+Dann ist es ausgemacht! Sie sind jetzt ein â€žvertrauenswÃ¼rdiger Mitarbeiterâ€œ des Blauen Opals. Willkommen!;Dann ist es ausgemacht! Sie sind jetzt ein „vertrauenswürdiger Mitarbeiter“ des Blauen Opals. Willkommen!
+Ich werde meine SekretÃ¤rin bitten, dies sofort an die Handelshalle zu schicken!;Ich werde meine Sekretärin gebissen, die sofort an die Handelshalle zu schicken!
+Welche Neuigkeiten gibt es vom Konsortium, [PLAYER_NAME]?;Welche Neuigkeiten gibt es vom Konsortium, [PLAYER_NAME]?
+Du? Wie absurd! Offensichtlich sollte es mein Kopf auf dieser Statue sein!;Du? Wie absurd! Offensichtlich sollte es mein Kopf auf dieser Statue sein!
+Zahlen Sie MÃ¼nzen ein.;Zahlen Sie Münzen ein.
+Das kÃ¶nnte durchaus funktionieren. Ja, ein AuÃŸenstehender in der Stadt kÃ¶nnte erheblich mehr Einfluss haben, als man erwarten wÃ¼rde, wenn wir unsere Karten richtig ausspielen.;Das könnte durchaus funktionieren. Ja, ein Außenstehender in der Stadt könnte mehr Einfluss haben, als man erwarten würde, wenn wir unsere Karten richtig ausspielen.
+Wir sind hier nicht versammelt, um Ã¼ber Buchhaltungsdetails oder die wirtschaftliche Lage des Konsortiums zu streiten.;Wir sind hier nicht versammelt, um über Buchhaltungsdetails oder die wirtschaftliche Lage des Konsortiums zu streiten.
+Haben Sie jemals darÃ¼ber nachgedacht, sich dem Blue Opal anzuschlieÃŸen, [PLAYER_NAME]? Du wÃ¤rst wirklich ein wunderbares Mitglied.;Haben Sie jemals darüber nachgedacht, sich dem Blue Opal anzuschließen, [PLAYER_NAME]? Du wärst wirklich ein wunderbares Mitglied.
+Genug davon, alle zusammen! Dieses GezÃ¤nk ist sinnlos.;Genug davon, alle zusammen! Dieses Geheimnis ist sinnlos.
+Offensichtlich bin ich derjenige, der am besten geeignet ist.;Offensichtlich bin ich derjenige, der am besten geeignet ist.
+Ich mÃ¶chte NICHT teilnehmen, ich habe keine Zeit zu verlieren.;Ich möchte NICHT teilnehmen, ich habe keine Zeit zu verlieren.
+Die Tatsache, dass The Red Axe seine Buchhaltung hinter verschlossenen TÃ¼ren fÃ¼hrt, macht diese Behauptung ziemlich zweifelhaft!;Die Tatsache, dass The Red Axe seine Buchhaltung hinter verschlossenen Türen führt, macht diese Behauptung ziemlich zweifelhaft!
+Ich habe dem Direktor des Blauen Opals mitgeteilt, dass ich seinen Versuch, die Statue zu errichten, unterstÃ¼tzen werde.;Ich habe dem Direktor des Blauen Opals mitgeteilt, dass ich seinen Versuch, die Statue zu errichten, unterstützen werde.
+Wir warten bis der gÃ¼nstigste Moment fÃ¼r Sie ist, um Ihre UnterstÃ¼tzung zu zeigen. Ja, Sie mÃ¼ssen unbedingt zu einem unserer Treffen vorbeikommen.;Wir warten bis der günstigste Moment für Sie ist, um Ihre Unterstützung zu zeigen. Ja, Sie müssen unbedingt zu einem unserer Treffen vorbeikommen.
+Ich mÃ¶chte das Treffen sehen.;Ich möchte das Treffen sehen.
+Look! The crab is right here with us!;Sehen! Die Krabbe ist genau hier bei uns!
+Â¡Ar, ar cur!;Â¡Ar, ar cur!
+Master, how are you doing learning our language?;Meister, wie geht es Ihnen, unsere Sprache zu lernen?
+Arkansas.;Arkansas.
+Espero que hayas estado repasando Herblore y Magic. Debo advertirte que sÃ³lo los magos experimentados pueden usar la pociÃ³n. Es demasiado peligroso en manos de personas no cualificadas.;Espero que hasas estado repasando Herblore y Magic. Es wird darauf hingewiesen, dass nur experimentierfreudige Magier das Spiel nutzen können. Es wird von vielen Personen ohne Qualifikationen gefoltert.
+Â¡He encontrado la cueva del chamÃ¡n ogro, pero no puedo tocarlos!;Â¡Er hat die Cueva del chamÃ¡n ogro entdeckt, aber kein Puedo tocarlos!
+SerÃ¡s mi amigo sÃ³lo con oro. TrÃ¡eme una barra de oro puro y te dejarÃ© pasar.;SerÃ¡s mi amigo sÃ³lo con oro. TrÃ¡eme una barra de oro puro y te dejarÃ© pasar.
+Asentir.;Asentir.
+Â¡Detener! No puedes pasar por aquÃ­.;Â¡Abschreckung! Kein Grund zur Sorge.
+He hecho la pociÃ³n.;Er hecho la poción.
+Â¿QuÃ© es esto? Â¡Arrrrgh! Â¡No soporto esta planta! Â¡Argh, arde! Â¡Arde!;Â¿QuÃ© es esto? Â¡Arrrrgh! Â¡No porto esta planta! Â¡Argh, arde! Â¡Arde!
+Â¡Asiente, asiente!;Â¡Asiente, asien!
+Oh, lo haces, Â¿verdad? Â¿QuÃ© tal 'no'?;Oh, siehe da, Verdad? Â¿QuÃ© tal 'nein'?
+Â¡Jeje! Entonces hablas un poco skavid, Â¿eh? Â¡Te darÃ© un premio por eso!;Â¡Jeje! Entonces hablas un poco skavid, ¿eh? Â¡Te darÃ© ein premio por eso!
+Quiero entrar ahÃ­.;Quiero entrar ahÃ.
+Criatura, Â¿me trajiste el oro?;Criatura, ¿me trajiste el gold?
+Â¡Maravilloso! Â¡Funciona! The town will now be safe. Take these coins as a token of my gratitude. Also, let me improve your Magic level.;Â¡Maravilloso! Â¡Funktion! Die Stadt wird jetzt sicher sein. Nehmen Sie diese Münzen als Zeichen meiner Dankbarkeit. Lassen Sie mich außerdem Ihr Magieniveau verbessern.
+TambiÃ©n te he dado un pergamino especial: es un hechizo nuevo. Lee el pergamino y podrÃ¡s teletransportarte aquÃ­.;Außerdem ist er mit einem besonderen Pergamino ausgestattet: Es ist ein neuer Hechizo. Lee el pergamino y podrás teletransportarte aquÃ.
+Ese es el segundo que se fue...;Das ist die zweite Sekunde, die dir gefällt...
+That's the third one dealt with...;Das ist das dritte Problem, mit dem wir uns befassen...
+AhÃ­ va el cuarto...;AhÃ va el cuarto...
+Sail to Brimhaven for 240 coins?;Für 240 Münzen nach Brimhaven segeln?
+Pay 10 watermelons?;10 Wassermelonen bezahlen?
+Right... So you want me to go and kill the six brothers and bring you back an icon?;Richtig ... Du willst also, dass ich die sechs Brüder töte und dir eine Ikone zurückbringe?
+Â¿Cambio de tablÃ³n de teca?;Â¿TablÃ³n de teca-Wandel?
+Are you sure you wish to recolour your Crystal body?;Sind Sie sicher, dass Sie Ihren Crystal-Körper neu einfärben möchten?
+Are you sure you wish to recolour your Crystal legs?;Sind Sie sicher, dass Sie Ihre Crystal-Beine neu einfärben möchten?
+Are you sure you wish to recolour your Crystal helm?;Sind Sie sicher, dass Sie Ihren Crystal-Helm neu einfärben möchten?
+Ask about Sanfew Serum.;Fragen Sie nach Sanfew Serum.
+Hey there, can you tell me something about this Sanfew Serum, like how do I make it, and what does it do?;Hallo, können Sie mir etwas über dieses Sanfew-Serum erzählen, z. B. wie ich es herstelle und was es bewirkt?
+Haga preguntas generales.;Haga preguntas generales.
+Certainly. It was after all, my creation, and mine alone. If anyone should know how to make it, it should be me!;Sicherlich. Es war schließlich meine Schöpfung, und zwar nur meine. Wenn jemand wissen sollte, wie man es macht, dann ich!
+Can't fault that logic!;An dieser Logik kann ich nichts auszusetzen haben!
+Trade in 1x Bruma torch for 50x burnt pages? ;1x Bruma-Fackel gegen 50x verbrannte Seiten eintauschen?
+Hola, [PLAYER_NAME]. Necesito que mates al faisÃ¡n que tiene cuatro colas. TrÃ¡eme el faisÃ¡n crudo cuando hayas terminado.;Hola, [PLAYER_NAME]. Es ist notwendig, dass Sie noch ein paar Cola trinken. TrÃ¡eme el faisÃ¡n crudo cuando hayas terminado.
+No, puedo encontrar las cosas yo mismo, gracias.;Nein, du kannst deine Cosas encontrar yo mismo, gracias.
+Yes, let me out.;Ja, lass mich raus.
+Sir Ceril Carnillean lo contratÃ³ recientemente, Â¿correcto?;Sir Ceril Carnillean hat kürzlich einen Vertrag geschlossen, richtig?
+SÃ­, tÃº. Tengo algunas preguntas.;SÃ, tÃº. Tengo algunas preguntas.
+Lo siento, estoy muy confundido. Â¿A quÃ© se debe todo esto?;Sieht so aus, es ist sehr verwirrend. Â¿A quÃ© se debe todo esto?
+PerdÃ³n por todo esto. Estoy bastante seguro de que no tuviste nada que ver con nada de esto, pero necesito ofrecer un buen espectÃ¡culo para Lady Carnillean.;Perdón por todo esto. Es war absolut sicher, dass ich nicht darauf achten musste, dass ich es nicht getan hätte, aber ich musste Lady Carnillean ein großartiges Spektakel bieten.
+Se ha cometido un crimen impensable y, como alguien que ha tenido contacto recientemente con los carnilleanos, usted es uno de nuestros sospechosos.;Ich habe ein unentbehrliches Verbrechen begangen und als Alguien habe ich kürzlich Kontakt mit den Carnilleanos aufgenommen, es ist einer unserer Freunde.
+Â¿Y tuviste Ã©xito?;Â¿Y tuviste éxito?
+Â¿Un crimen? Â¿QuÃ© ha pasado?;Â¿Ein Verbrechen? Â¿QuÃ© ha pasado?
+Â¿Y ha tenido algÃºn contacto con los Carnilleans desde su Ã©xito?;Haben Sie nach Ihrem Ausgang Kontakt zu den Carnilleans aufgenommen?
+Hasta que estÃ© seguro de que usted no estuvo involucrado, no lo puedo decir.;Es ist sicher, dass Sie nicht involviert sind, und Sie können sich nicht entscheiden.
+Ceril fue apuÃ±alado por detrÃ¡s.;Ceril fue apuñalado por detrás.
+Parece que solo se puede acceder desde aquÃ­. No parece que nadie haya estado allÃ­ desde hace algÃºn tiempo.;Parece que solo se puede de de de aquÃ. Kein Wunder, dass ich seit einiger Zeit nicht mehr da bin.
+No estoy seguro.;Keine Sicherheit.
+Acordado. Â¿Encontraste algo mÃ¡s?;Acordado. Â¿Algo mehr kontrastieren?
+Parece que necesitamos encontrar a este Evelot y ver quÃ© saben.;Parece que necesitamos encontrar este Evelot y verwe saben.
+PodrÃ­a hacer eso. Gracias por la informaciÃ³n.;Podría hacer eso. Vielen Dank für die Information.
+Â¿Conoces a alguien llamado Evelot?;Â¿Conoces a alguien lamado Evelot?
+Entonces no se enfrentaba a su asesino. But if that were the case, why did Lady Carnillean say she heard him shouting? Surely he'd have been facing whoever he was shouting at.;Entonces no se enfrentaba a su asesino. Aber wenn das der Fall wäre, warum sagte Lady Carnillean dann, sie hätte ihn schreien gehört? Sicherlich hätte er dem gegenübergestanden, den er anschrie.
+No tengo idea, pero despuÃ©s se fue con bastante prisa. QuizÃ¡s puedas encontrar su rastro si miras a tu alrededor.;Ich habe keine Ahnung, aber ich glaube nicht, dass es so ist. Quizás können Sie auf Ihrem Bildschirm finden, wenn Sie sich an Ihren Mitspieler wenden.
+Anoche no vi a nadie salir o entrar por el frente del edificio, asÃ­ que tiene sentido. La ventana debÃ­a haber sido su vÃ­a de entrada y salida.;Anoche no vi a nadie salir o betrat die Vorderseite des Gebäudes, als sie sich darauf einließ. Die Entlüftung muss auf der Eingangs- und Ausgangsseite erfolgen.
+La ventana estaba rota desde fuera.;Die Entlüftung erfolgt rota aus der Fuera.
+No podemos descartar nada.;Ich kann nichts herunterladen.
+Entonces probablemente era alguien que no tenÃ­a otra forma de acceder a la mansiÃ³n. Probablemente podamos descartar al personal y a los familiares.;Es ist wahrscheinlich, dass Sie keine andere Möglichkeit haben, der Villa beizutreten. Wahrscheinlich werden Sie persönliche und vertraute Personen erreichen.
+Â¡Eso no tuvo nada que ver conmigo! Lo admito, me vio al salir, pero pude escapar. Â¡Solo descubrÃ­ que estaba muerto despuÃ©s de que regresÃ© al Fight Arena!;Â¡Es war nichts, was ich Ihnen sagen musste! Ich gebe es zu, aber ich kann dir nicht entkommen. Sie müssen nur herausfinden, was Sie brauchen, nachdem Sie die Fight Arena betreten haben!
+Hmm... Â¿QuÃ© pasa con este pergamino? Â¿QuÃ© fue?;Hmm... Â¿Qué pasa con este pergamino? ¿Qué fue?
+Â¡Eran nuestras tierras! Y... espera... Â¿quÃ© hace aquÃ­ esta porquerÃ­a humana?;Â¡Eran nuestras tierras! Y... espera... ¿Qué hace aquÃ esta porquerÃa humana?
+Â¿QuiÃ©n era esta persona?;Â¿QuiÃ©n war diese Person?
+Â¿Y quÃ© querÃ­a que robaras?;Â¿Y quÃ© querÃa que robaras?
+Fine, but I hope you know this is a foolish idea. What is the information she presented?;Gut, aber ich hoffe, Sie wissen, dass das eine dumme Idee ist. Welche Informationen hat sie präsentiert?
+Necesitaba dinero con urgencia. Un tipo me contratÃ³ para un simple robo. Agradable y sencillo, dijo. Todo lo que tenÃ­a que hacer era entrar en esa casa de Carnillean y recuperar algo para Ã©l.;Es muss dringend Geld gezahlt werden. Ein Tipp für einen einfachen Roboter. Agradable y sencillo, dijo. Ich musste mich in das Haus von Carnillean begeben und alles für ihn wiederherstellen.
+No te detendrÃ©, pero deberÃ­as considerar acudir a las autoridades. QuizÃ¡s ellos puedan ayudarte.;Denken Sie nicht daran, aber denken Sie darüber nach, sich an die Behörden zu wenden. Quizás ellos puedan ayudarte.
+Entonces, Â¿quÃ© pasÃ³ con Ceril?;Also, was ist mit Ceril passiert?
+Er... no por mÃ­.;Ähm... kein Problem.
+Â¡Porque Ceril Carnillean estÃ¡ muerto y su asesino puede estar intentando incriminarte!;Porque Ceril Carnillean ist zu Tode gekommen und sein Asesino könnte die Absicht haben, ihn zu beschuldigen!
+Â¡Vanar! Â¡Septinario! Â¡Filinar!;Â¡Vanar! Â¡Septinario! Â¡Filinar!
+No sÃ©. Mantuvo su rostro oculto. Lo Ãºnico que sÃ© es que estaba dispuesto a pagar mucho.;Nein, nein. Mantuvo su rostro oculto. Lo único que sé que estaba dispuesto a pagar mucho.
+SÃ³lo un pergamino aleatorio.;Sólo un pergamino aleatorio.
+Y, sin embargo, no hiciste ningÃºn intento de ayudarme tÃº mismo. Â¿Demasiado ocupado reclamando mis tierras como tuyas, tal vez?;Ja, ohne die Absicht, dies zu tun. Â¿Demasiado ocupado reclamando mis tierras como tuyas, tal vez?
+Then kill her and let's investigate. Or has your sleep made you go soft?;Dann töte sie und lass uns die Sache untersuchen. Oder hat dich der Schlaf weich gemacht?
+Ni idea. Me dijeron que lo entregara a algunos cultistas al sur de la ciudad, lo cual hice.;Keine Idee. Ich sagte, dass ich einigen Kultisten in der Stadt, vor Ort, beitreten würde.
+Â¿EstÃ¡s absolutamente seguro? Â¿Ni lo mÃ¡s mÃ­nimo fuera de lugar?;Â¿EstÃ¡s absolutamente seguro? Â¿Ni lo mÃ¡s minimo fuera de lugar?
+SÃ­... esta repentina sensaciÃ³n de frÃ­o. Estaba justo al lado de la estufa caliente, asÃ­ que fue muy extraÃ±o. PensÃ© que era sÃ³lo un poco de viento... pero tal vez...;SÃ... esta repentina sensaciÃ³n de frÃo. Es ist nur das Beste, was ich über den Zustand der Hitze wissen muss. Ich denke, dass es nur einen Moment in der Stadt war... aber schon lange...
+Â¿FrÃ­o?;Â¿FrÃo?
+Â¿Y no viste nada inusual aquÃ­ abajo?;Â¿Sie haben nichts Ungewöhnliches gesehen?
+QuizÃ¡s he descubierto la capacidad de volverme totalmente invisible.;QuizÃ¡s er decubierto die Kapazität von volverme totalmente unsichtbar.
+El aventurero regresa. ConfÃ­o en que esto signifique que tienes algo importante para nosotros.;El aventurero regresa. Vertraue darauf, dass dies für uns von Bedeutung ist.
+If the human knows these ice trolls, she may still be of use to us.;Wenn der Mensch diese Eistrolle kennt, kann er uns vielleicht trotzdem von Nutzen sein.
+Â¿Trolls de hielo? Â¿Te refieres a los trolls de Weiss?;Â¿Trolls de hielo? Â¿Te referes a los trolls de Weiss?
+Â¿Media cresta? Â¿PodrÃ­a ser eso...?;Â¿Media cresta? Â¿Podría ser eso...?
+La cresta debe haber estado ahÃ­.;La cresta debe haber estado ahÃ.
+Nuestro primer paso aquÃ­ es recopilar informaciÃ³n. Como afirmas ser amigo de estos trolls, estarÃ¡s en una buena posiciÃ³n para hacerlo.;Unser erster Schritt besteht darin, weitere Informationen zu sammeln. Als er behauptete, er sei ein Freund dieser Trolle, befand er sich in einer guten Position, um ihn zu töten.
+Muy bien, volverÃ© pronto.;Muy bien, volveré pronto.
+Habla con su lÃ­der y averigua si ha ocurrido algo importante aquÃ­ recientemente.;Ich habe mit meinem Arbeitgeber gesprochen und festgestellt, dass bereits wichtige Neuigkeiten aufgetreten sind.
+Antes de las Guerras de los Dioses, aquÃ­ se encontrÃ³ un asentamiento del antiguo imperio. La fortaleza al este es todo lo que queda en la superficie, pero todavÃ­a hay mucho escondido debajo.;Vor den Dioses Guerras trafen wir auf einen Versuch des Antiguo Imperio. Die Fortaleza al este ist alles, was man auf die Oberfläche bringen muss, aber sie hat noch viel Geld verloren.
+Hmm... Â¿Hazeel y Khazard ya entraron?;Hmm... Â¿Hazeel y Khazard, bist du dabei?
+Â¡No tendrÃ­amos este problema si estuviÃ©ramos en el Reino de las Sombras!;Es ist kein Problem, wenn Sie sich im Reino de las Sombras aufhalten!
+Â¿Has visto algo extraÃ±o por aquÃ­ recientemente?;Â¿Haben Sie vor Kurzem etwas Besonderes gesehen?
+Â¿Y el asesino se lo robÃ³ a los Carnilleanos? Â¿Crees que pretenden abrir la prisiÃ³n?;Â¿Y el asesino se lo lo robÃ³ a los Carnilleanos? Â¿Crees que vorgeben, das Gefängnis zu verlassen?
+La mÃ­a tampoco, pero no hay alternativa.;La mía tampoco, aber keine Alternative.
+TambiÃ©n hubo un derrumbe recientemente allÃ­ abajo. Eso es lo que Goat Poo estaba investigando cuando vio la sombra.;Auch dies ist ein recientemente alla abajo. Es ist so, dass Goat Poo untersucht wird, sobald er im Dunkeln ist.
+Â¿Preparando cÃ³mo?;Â¿Preparando cÃ³mo?
+Entonces pongÃ¡monos a trabajar. En primer lugar, esta vez no se puede negar que lo humano ya no nos sirve.;Entonces pongámonos a trabajar. Vor allem aber kann es nicht passieren, dass die Menschheit Ihnen nichts bringt.
+Â¿Rareza? Â¿QuÃ© tipo de rareza?;Â¿Rareza? Â¿QuÃ© tipo de rareza?
+Ask your questions, adventurer, but do so quickly.;Stellen Sie Ihre Fragen, Abenteurer, aber tun Sie dies schnell.
+Dice que ve una sombra extraÃ±a.;Würfel, was für ein Schattenextra.
+Eres alguien para hablar. Entonces, Â¿quÃ© estaba haciendo Ã©l aquÃ­?;Eres alguien para hablar. Also, was ist los mit dir?
+La decisiÃ³n ya estÃ¡ tomada.;Die Entscheidung ist gefallen.
+No, y agradezcamos a Zamorak por ello.;Nein, y agradezcamos a Zamorak por ello.
+Estoy aquÃ­, Â¿sabes?;Estoy aquÃ, Â¿sabes?
+Â¿Pero dÃ³nde? Â¿Se teletransportÃ³?;Â¿Pero dÃ³nde? Â¿Se teletransportÃ³?
+DeberÃ­amos buscarlo.;Deberíamos Buscarlo.
+DeberÃ­amos, pero primero tienes que dar algunas explicaciones. Lo conocÃ­as.;Deberíamos, aber zunächst einmal haben wir einige Erklärungen abgegeben. Lo conocías.
+Lo encontrÃ© en Entradana. AllÃ­ matÃ³ a algunos monjes y les robÃ³ una reliquia. Yo... puede que haya sido responsable de ayudarlo, pero no me di cuenta hasta que fue demasiado tarde.;Lo encontré en Entradana. AllÃ matÃ³ a algunos monjes les robÃ³ una reliquia. Du... könntest für dich verantwortlich sein, aber ich weiß nicht, was du mir gesagt hast.
+Â¿Y si no estoy de acuerdo?;Â¿Y si no estoy de acuerdo?
+Explique y hÃ¡galo rÃ¡pidamente.;Explizite und schnell.
+Ah, Â¿entonces siempre fuiste un tonto?;Ah, ¿entonces siempre fuiste un tonto?
+Again with this, Khazard? She has been of great benefit so far. As long as that continues, she will remain.;Nochmal damit, Khazard? Sie hat bisher große Vorteile gebracht. Solange das so bleibt, wird sie bleiben.
+Â¡Oye, deja de discutir y escucha! EscuchÃ© algo.;Â¡Oye, deja de diskutir y escucha! Escuché algo.
+Â¿Dice quiÃ©n? Â¿TÃº? Â¡No me mandas! Â¿Crees que eres mi seÃ±or? Â¿O tal vez crees que eres mi padre?;Â¿Dice quiÃ©n? Â¿TÃº? Â¡Nein, ich Mandas! Â¿Crees que eres mi señor? Â¿O tal vez crees que eres mi padre?
+Y ahÃ­ lo tienes demostrando acertadamente mi punto. Como parece que tengo que explicarlo todo, esta puerta conduce a la prisiÃ³n de la que hablÃ³ Hazeel antes.;Ja, du hast mir die Demo gezeigt. Als ich das alles erklärte, war es die Tür zum Gefängnis, vor dem Hazeel saß.
+Aunque serÃ­a una tonterÃ­a hacerlo, tendrÃ­a buenas razones para esconderse en esta zona.;Aunque sería una tontería hacerlo, tendría buenas razones para esconderse en this zone.
+Curioso. Â¿Por quÃ© vendrÃ­an aquÃ­ con sÃ³lo la mitad del escudo?;Kurios. Â¿Was ist, wenn Sie Wasser verkaufen, ohne das Geld auszugeben?
+Un asesino. Los he encontrado antes, pero realmente no sÃ© nada sobre ellos.;Ein Asesino. Als er sich vorher traf, schien es ihm tatsächlich nicht mehr möglich zu sein.
+Esa fue mi suposiciÃ³n inicial, pero es inusual que tampoco hayamos sentido su fallecimiento. Es posible que en cambio estÃ© enmascarando su presencia.;Das war meine anfängliche Vermutung, aber es ist ungewöhnlich, dass Tampoco Hayamos seinen Fehler bemerkte. Es ist möglich, dass der Wechsel in Ihrer Anwesenheit maskiert wird.
+QuerÃ­a preguntarte algo.;Quería preguntarte algo.
+Ã‰l estÃ¡ ahÃ­ atrÃ¡s. Ha habido un desarrollo.;Ã‰l estÃ¡ ahÃ atrÃ¡s. Ha habido un desarrollo.
+Un 'por favor' no vendrÃ­a mal.;Un 'por favor' no vendría mal.
+No. Â¿Supongo que Hazeel te ha dado un trabajo que hacer? Ve a hacerlo y dÃ©jame en paz.;Nein. ¿Supongo que Hazeel te ha dado un trabajo que hacer? Wir hatten ein Chaos und einen Déjame in Paz.
+Â¿Jhallan estuvo aquÃ­? Excelente. Â¡Avellana!;Â¿Jhallan ist hier? Exzellent. Â¡Avellana!
+Sin duda, sigue siendo prisionero de este asesino. Â¿Con quÃ© fin? Â¿QuiÃ©n puede decirlo?;Noch nicht, es ist ein Gefängnis für mich. Â¿Con quÃ© fin? Â¿QuiÃ©n puede decirlo?
+Â¡EncontrÃ© a Jhallan, pero el asesino lo capturÃ³!;Â¡Treffen Sie sich mit Jhallan, aber der Asesino wird gefangen genommen!
+Â¿Realmente no podemos hacer nada mÃ¡s?;Â¿Realmente no podemos hacer nada mÃ¡s?
+Parece que tu amigo tiene una gran variedad de habilidades. UsÃ³ el Reino de las Sombras.;Parece, dass Ihr Freund eine große Vielfalt an Fähigkeiten hatte. Usó el Reino de las Sombras.
+Has vuelto. Â¿Tuviste suerte con tu investigaciÃ³n?;Hat Vuelto. Â¿Tuviste suerte con your investigación?
+DesearÃ­a tener mejores noticias, pero me temo que he llegado a un callejÃ³n sin salida.;Ich suche nach besseren Benachrichtigungen, aber ich dachte, er hätte einen Callejón ohne Salida angerufen.
+Â¿DÃ³nde estÃ¡ este asesino ahora?;Â¿DÃ³nde estÃ¡ este asesino ahora?

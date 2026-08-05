@@ -5211,3 +5211,12 @@ Withdraw-240;Nosto-240
 Withdraw-121;Nosto-121
 Deposit-121;Talletus-121
 Sell: 1 x Looting bag note;Myydään: 1 x ryöstölaukkulappu
+Distract;Hajauttaa
+Burn-down;Poltettu
+Default quantity: 2,500;Oletusmäärä: 2 500
+Sell: 30 x Iron ore;Myydään: 30 x rautamalmi
+Withdraw-999;Nosto-999
+Withdraw-1050;Nosto-1050
+Buy: 1 x Bloodbark legs;Osta: 1 x Bloodbark jalat
+Deposit-999;Talletus - 999
+View <col=ff9040>Gauntlet Map</col>;Näytä <col=ff9040>Gauntlet-kartta</col>

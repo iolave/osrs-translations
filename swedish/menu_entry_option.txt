@@ -5211,3 +5211,12 @@ Withdraw-240;Uttag-240
 Withdraw-121;Uttag-121
 Deposit-121;Insättning-121
 Sell: 1 x Looting bag note;Sälj: 1 x Plundringsväska
+Distract;Distrahera
+Burn-down;Nedbränning
+Default quantity: 2,500;Standardantal: 2 500
+Sell: 30 x Iron ore;Sälj: 30 x järnmalm
+Withdraw-999;Uttag-999
+Withdraw-1050;Uttag-1050
+Buy: 1 x Bloodbark legs;Köp: 1 x Bloodbark-ben
+Deposit-999;Insättning-999
+View <col=ff9040>Gauntlet Map</col>;Visa <col=ff9040>Gauntlet-karta</col>

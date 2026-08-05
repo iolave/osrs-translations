@@ -5211,3 +5211,12 @@ Withdraw-240;Intrekken-240
 Withdraw-121;Intrekken-121
 Deposit-121;Borg-121
 Sell: 1 x Looting bag note;Verkoop: 1 x plunderzakbriefje
+Distract;Afleiden
+Burn-down;Burn-down
+Default quantity: 2,500;Standaardhoeveelheid: 2.500
+Sell: 30 x Iron ore;Verkoop: 30 x ijzererts
+Withdraw-999;Intrekken-999
+Withdraw-1050;Intrekken-1050
+Buy: 1 x Bloodbark legs;Koop: 1 x Bloedschorspoten
+Deposit-999;Borg-999
+View <col=ff9040>Gauntlet Map</col>;Bekijk <col=ff9040>Handschoenkaart</col>
