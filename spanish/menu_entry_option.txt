@@ -5211,3 +5211,12 @@ Withdraw-240;Retirar-240
 Withdraw-121;Retirar-121
 Deposit-121;Depósito-121
 Sell: 1 x Looting bag note;Vender: 1 x Nota de bolsa de saqueo
+Distract;Distraer
+Burn-down;Quemar
+Default quantity: 2,500;Cantidad predeterminada: 2500
+Sell: 30 x Iron ore;Vender: 30 x Mineral de hierro
+Withdraw-999;Retirar-999
+Withdraw-1050;Retirar-1050
+Buy: 1 x Bloodbark legs;Comprar: 1 x Patas de corteza de sangre
+Deposit-999;Depósito-999
+View <col=ff9040>Gauntlet Map</col>;Ver <col=ff9040>Mapa del Guantelete</col>

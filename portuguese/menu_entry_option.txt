@@ -5211,3 +5211,12 @@ Withdraw-240;Retirar-240
 Withdraw-121;Retirar-121
 Deposit-121;Depósito-121
 Sell: 1 x Looting bag note;Venda: 1 x nota de saco de saque
+Distract;Distrair
+Burn-down;Queimadura
+Default quantity: 2,500;Quantidade padrão: 2.500
+Sell: 30 x Iron ore;Venda: 30 x minério de ferro
+Withdraw-999;Retirar-999
+Withdraw-1050;Retirar-1050
+Buy: 1 x Bloodbark legs;Comprar: 1 x pernas de casca de sangue
+Deposit-999;Depósito-999
+View <col=ff9040>Gauntlet Map</col>;Ver <col=ff9040>Mapa do Desafio</col>

@@ -5211,3 +5211,12 @@ Withdraw-240;Retrait-240
 Withdraw-121;Retrait-121
 Deposit-121;Dépôt-121
 Sell: 1 x Looting bag note;Vendre : 1 x Note sur le sac de butin
+Distract;Distraire
+Burn-down;Brûlage
+Default quantity: 2,500;Quantité par défaut : 2 500
+Sell: 30 x Iron ore;Vendre : 30 x Minerai de fer
+Withdraw-999;Retrait-999
+Withdraw-1050;Retrait-1050
+Buy: 1 x Bloodbark legs;Acheter: 1 x Pattes d'écorce de sang
+Deposit-999;Dépôt-999
+View <col=ff9040>Gauntlet Map</col>;Afficher la <col=ff9040>Carte du Gauntlet</col>
