@@ -5220,3 +5220,6 @@ Withdraw-1050;Rückzug-1050
 Buy: 1 x Bloodbark legs;Kaufen: 1 x Bloodbark-Beine
 Deposit-999;Anzahlung: 999
 View <col=ff9040>Gauntlet Map</col>;<col=ff9040>Gauntlet-Karte</col> anzeigen
+Pedal;Pedal
+Buy: 8 x Split log;Kaufen: 8 x Spaltholz
+Échanger avec;Échanger avec

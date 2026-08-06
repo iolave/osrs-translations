@@ -140703,3 +140703,160 @@ Parece que tu amigo tiene una gran variedad de habilidades. UsÃ³ el Reino de l
 Has vuelto. Â¿Tuviste suerte con tu investigaciÃ³n?;Heeft vuelto. Heeft u een onderzoek ingesteld?
 DesearÃ­a tener mejores noticias, pero me temo que he llegado a un callejÃ³n sin salida.;Omdat ik meer berichten heb, weet ik dat hij een oproep heeft gedaan om te bellen.
 Â¿DÃ³nde estÃ¡ este asesino ahora?;Is dit een van de redenen waarom?
+I have no idea what I should put in the opening of that door. Maybe I should leave it alone for now.;Ik heb geen idee wat ik in de opening van die deur moet stoppen. Misschien moet ik het voorlopig met rust laten.
+Si todavÃ­a existe alguno, probablemente estÃ© en Port Sarim. Sin embargo, un barco tambiÃ©n necesitarÃ¡ un capitÃ¡n, Â¡y no estoy seguro de dÃ³nde encontrarÃ­as uno dispuesto a navegar hacia Crandor!;Als er nog steeds mensen bestaan, is dit waarschijnlijk het geval in Port Sarim. Als er een embargo is, heeft een barco een kapitein nodig, maar het is niet de bedoeling dat hij een conflict met een navegar-hacia Crandor tegenkomt!
+Uno bastante especÃ­fico, me temo. Incluso con un mapa, muy pocos barcos podrÃ¡n navegar por los arrecifes que rodean la isla. NecesitarÃ¡s uno de diseÃ±o crandoriano.;Uno bastante specifico, me temo. Inclusief een kaart, kunnen sommige barco's navigeren naar de arrecifes die op het eiland liggen. Er is een crandoriano nodig.
+Keeping the stove alight will train your Firemaking, working the pump will train your Strength, pedalling the conveyor belt will train your Agility and repairing the furnace will train Crafting.;Als je de kachel aanhoudt, train je je Vuurmaken, als je met de pomp werkt, train je je kracht, als je op de lopende band trapt, train je je behendigheid en als je de oven repareert, train je Crafting.
+But we've got a bit of a labour shortage at the moment, which is why I have to rely on immigrant workers to keep the furnace going. So, are you here to start work?;Maar we hebben momenteel een klein tekort aan arbeidskrachten, en daarom ben ik afhankelijk van gastarbeiders om de oven draaiende te houden. Dus, ben je hier om aan het werk te gaan?
+Du! Machen Sie sich an die Arbeit!;Du! Machen Sie sich an die Arbeit!
+Kann ich den Ofen zum Schmelzen von Erz verwenden?;Kan het gebruik van Schmelzen door Erz worden gebruikt?
+Thirdly, someone needs to keep an eye on the temperature gauge. They should tell the pumper to start or stop so that the temperature stays in the right range.;Ten derde moet iemand de temperatuurmeter in de gaten houden. Ze moeten de pompinstallatie vertellen dat hij moet starten of stoppen, zodat de temperatuur binnen het juiste bereik blijft.
+Wie kann ich bei der Arbeit am Hochofen helfen?;Wie kan het werk in Hochofen helpen?
+The blast furnace is the pinnacle of dwarven metal- processing! Ore goes in the top and comes out as metal bars almost at once! And it's so efficient it only takes half as much coal to purify it as a regular furnace.;De hoogoven is het toppunt van dwergmetaalverwerking! Erts gaat bovenaan en komt er bijna onmiddellijk als metalen staven uit! En hij is zo efficiënt dat er maar half zoveel steenkool nodig is om hem te zuiveren als bij een gewone oven.
+The blast furnace will only work if there is a group of people keeping it going. Let me explain...;De hoogoven werkt alleen als er een groep mensen is die hem draaiende houdt. Laat me het uitleggen...
+Keeping the furnace going is valuable experience in itself!;De oven draaiende houden is op zichzelf al een waardevolle ervaring!
+While that's going, anyone else can put their ore on the conveyor belt to have it smelted.;Terwijl dat bezig is, kan iedereen zijn erts op de lopende band leggen om het te laten smelten.
+Firstly, the stove needs to be kept filled with coal. If this runs out the furnace will not work.;Ten eerste moet de kachel gevuld blijven met kolen. Als dit opraakt, werkt de oven niet.
+Okay I'll get to work.;Oké, ik ga aan de slag.
+So I don't actually get paid then?;Dus ik krijg eigenlijk niet betaald?
+So what do I get out of it?;Dus wat haal ik eruit?
+Sie sind hier, um bei der Arbeit am Hochofen zu helfen, nicht wahr?;Als u hier bent, is het de Arbeit in Hochofen die u kunt helpen, niet waar?
+Someone will also need to be on standby with a hammer in case the machine breaks!;Er moet ook iemand stand-by staan ​​met een hamer voor het geval de machine kapot gaat!
+Was ist der Hochofen?;Was dit der Hochofen?
+Lastly, someone needs to be on the pedals to power the conveyor belt that puts ore into the furnace.;Ten slotte moet er iemand op de pedalen staan ​​om de transportband aan te drijven die het erts in de oven brengt.
+Secondly, someone needs to operate the pump that keeps the hot air blast circulating through the furnace.;Ten tweede moet iemand de pomp bedienen die ervoor zorgt dat de hete luchtstroom door de oven circuleert.
+Plus, everyone working the furnace will get a bit of experience in Smithing whenever anyone smelts ore in it.;Bovendien krijgt iedereen die in de oven werkt een beetje ervaring in het smeden wanneer iemand er erts in ruikt.
+Ich habe Level 60!;Ik heb niveau 60!
+Das ist mÃ¶glich, allerdings mÃ¼ssen Sie dafÃ¼r auch ein paar Leute finden, die es fÃ¼r Sie erledigen. Da der Ofen jedoch sehr empfindlich ist, erhebe ich eine GebÃ¼hr fÃ¼r jeden, der nicht Ã¼ber Schmiedekunst der Stufe 60 verfÃ¼gt.;Er zijn veel meer dingen die u kunt doen als u een paar leuke vondsten doet, die zijn erledig. Het vaakst is een empfindlich ist, erhebe ich een GebÃ¼hr für jeden, der nicht Ã¼ber Schmiedekunst der Stufe 60 verfÃ¼gt.
+Ich habe kein Level 60.;Ik heb kein niveau 60.
+Hmm, nun ja, ich lasse dich den Ofen benutzen, wenn du willst, aber du musst eine GebÃ¼hr von 2.500 MÃ¼nzen zahlen.;Hmm, nun ja, ik heb het aantal benuttingen van het vaakst benut, als je wilt, moet je een lening van 2.500 miljoen dollar hebben.
+Only the top smiths are allowed in there!;Alleen de beste smeden mogen daar binnen!
+Ah, bueno. AvÃ­same cuando lo hagas. El lugar a buscar serÃ­a Port Sarim.;Ah, bueno. Avísame cuando lo hagas. El lugar a buscar sería Port Sarim.
+Entonces, Â¿me llevarÃ¡s a Crandor ahora?;Entonces, ben ik een Crandor ahora?
+The Cape of Thieving provides a nice boost to your chances of pickpocketing when worn. Is there anything else I can help you with?;De Cape of Thieving geeft een mooie boost aan je kansen op zakkenrollen als je deze draagt. Kan ik je nog ergens mee helpen?
+Hallo, Reldo. Ich bin gekommen, um Sie bei etwas um Hilfe zu gebissen.;Hallo, Reldo. Ik ben gek geworden, het was een Hilfe om te gebissen.
+Dann verwenden Sie dieses magische GerÃ¤t, um herauszufinden, wo Ihr Ziel ist, und graben Sie dann ein wenig.;Dan gebruik je deze magische kracht, een herauszufinden, waar je naar kijkt, en pak je dan een beetje.
+Willst du sehen, wie ich einen LÃ¶ffel verbiege?;Wil je zien, wie is een Löffel-verbiege?
+Hey, Reldo. Ich habe wieder eine dieser Hinweisrollen. Haben Sie einen Rat?;Hé, Reldo. Ik heb een aantal van deze rollen gespeeld. Heb je een rat?
+Dieses magische GerÃ¤t fÃ¼hrt Sie dorthin, wo Sie graben mÃ¼ssen. Viel GlÃ¼ck.;Dieses magische Gerät führt Sie dorthin, wo Sie graben müssen. Viel Glück.
+Status: 1 charges left.;Status: 1 ladingen over.
+Patience is a virtue that few possess in this world.;Geduld is een deugd die weinigen in deze wereld bezitten.
+I don't think I'll be able to smash my way through the stone with a spade...;Ik denk niet dat ik met een schop door de steen heen kan slaan...
+Ah, [PLAYER_NAME], finalmente estÃ¡s aquÃ­. Tu tarea en esta sala es derrotar a Sir Leye. Saradomin lo ha bendecido para que sea invencible con cualquier espada, por lo que deberÃ­a ser todo un desafÃ­o para ti.;Ah, [PLAYER_NAME], het is eindelijk zover. Je gaat naar Sir Leye. Saradomin is ervan overtuigd dat de zee onoverwinnelijk is met haar espada, omdat ze een wanhopige vrouw zal zijn.
+Â¡Excelente trabajo! Â¡Has pasado las cinco pruebas requeridas! Â¡Acepte mis felicitaciones!;Â¡Excellente trabajo! Â¡Heeft pasado las cinco pruebas requeridas! Â¡Accepteer mijn felicitaciones!
+Ich habe wirklich Lust auf eine Zwiebel.;Ik heb een wirklich lust op een Zwiebel.
+Ã„hm... ich habe keines.;Ähm... ik heb geen zin.
+Wo ist deine braune SchÃ¼rze? Sie kÃ¶nnen hier nur reinkommen, wenn Sie eines tragen.;Wie is de bruine Schürze? Als u hier opnieuw begint, als u een tragedie krijgt.
+Willkommen in der Meistergilde.;Willkommen in der Meistergilde.
+Bueno, viejo, necesitaremos equiparte para la tarea, pero primero tendrÃ¡s que conseguirme algo, Â¿quÃ©?;Hoe dan ook, u moet een uitrusting voor het tarea hebben, maar de eerste keer is dat u altijd raadt, wat?
+...Â¿QuÃ©? Â¡Te dije que lo rechazaras!;...Â¿QuÃ©? Â¡Te dije que lo recazaras!
+Um... estÃ¡ bien... Entonces, Â¿cuÃ¡l es el problema?;Um... is bien... Entonces, is dit een probleem?
+What ho, $he_him. Jolly good show on the old training grounds thingy, what?;Wat ho, $he_him. Een heel goede show op het oude oefenterrein, wat?
+Ya no soy miembro de los Caballeros del Templo, he renunciado por completo a mi solicitud porque despuÃ©s de muchas horas de examen de conciencia he llegado a la conclusiÃ³n de que deseo desesperadamente convertirme en un Caballero Blanco.;Als u niet van de Templo-caballero's afziet, heeft hij afstand gedaan van zijn volledige bezorgdheid omdat hij na een groot deel van het conciencia-examen de conclusie heeft getrokken dat hij zich heeft omgezet in een Caballero Blanco.
+PodrÃ¡n enviarle cualquier informaciÃ³n Ãºtil sobre Solus directamente a travÃ©s de Ã©l para su lectura, no lo sÃ©.;U kunt de informatie die u hebt gekregen, doorgeven aan Solus die een reis doormaakt voor uw lezing, niet langer.
+Su nombre es Solus Dellagar y, sinceramente, es uno de los hombres mÃ¡s peligrosos de Gielinor.;De naam Solus Dellagar is oprecht een van de meer peligrosos van Gielinor.
+Bueno, no necesitas preocuparte por los detalles, simplemente haz lo que te digo y todo saldrÃ¡ bien para los dos, Â¿quÃ©?;Maar, u hoeft zich geen zorgen te maken over de details, u hoeft alleen maar te denken en te doen wat u wilt, wat?
+Bueno, viejo, mirando el antiguo expediente que tenemos aquÃ­ sobre ti, parece haber un pequeÃ±o problema, Â¿quÃ©?;Hoe dan ook, ik denk dat de anti-juiste oplossing die je hebt, een klein probleem kan opleveren, wat?
+Supongo... aunque no me gusta seguir Ã³rdenes ciegamente...;Supongo... aunque no me gusta seguir Ã³rdenes ciegamente...
+Â¿QuÃ©? Â¡Pero soy miembro de los Caballeros Blancos! Â¡Fui e hice esas cosas con el repollo y la pociÃ³n!;Â¿QuÃ©? Â¡Pero soja miembro de los Caballeros Blancos! Â¡Fui e hice esas cosas con el repollo y la pocion!
+*sigh* This is a less than illustrious start to your career with us [PLAYER_NAME].;*zucht* Dit is een niet bepaald illustere start van je carrière bij ons [PLAYER_NAME].
+Â¿Escapatoria? Â¿QuÃ© tipo de laguna jurÃ­dica?;Â¿Escapatoria? Wat is de juridische tip van de laguna?
+CÃ¡lmate viejo... No tenemos ninguna intenciÃ³n de 'deshacernos de ti', estamos muy interesados â€‹â€‹en verte unirse a nosotros...;CÃ¡lmate viejo... Geen enkele poging tot 'deshacernos de ti', het is zeer interessant om een ​​nieuwe unirse te worden...
+... Bueno, de todos modos, por el excelente trabajo que lograste en ese incidente en la Fortaleza de los Caballeros Negros, serÃ­a un honor para mÃ­ aceptarte como mi Escudero.;... Op alle manieren, door het uitstekende werk dat dit incident in het Fortaleza de los Caballeros Negros doet, is er een eer voor de aanvaarding van mijn Escudero.
+Bueno, Â¡POR SUPUESTO que tenemos un expediente sobre usted! Â¡Tenemos un dossier de TODOS! Â¡Es nuestro trabajo, no lo sabes!;Bueno, POR SUPUESTO, wat een handige manier is om te gebruiken! Â¡Tenemos un dossier van TODOS! Â¡Es nuestro trabajo, no lo sabes!
+Bueno, parece que cometimos un pequeÃ±o error cuando te contactamos por primera vez para unirte a los Caballeros del Templo, Â¿quÃ©?;Misschien is het een probleem dat u contact opneemt met de eerste keer om de Caballeros del Templo te verlaten, wat?
+No, charlÃ© un poco con Sir Vey y se nos ocurriÃ³... una soluciÃ³n diferente al problema. Suponiendo que todavÃ­a estÃ©s interesado, por supuesto.;Nee, Charles is een poco met Sir Vey en hij heeft een andere oplossing voor het probleem. Suponiendo die todavÃa is interessant, door supuesto.
+SÃ­, debe ser muy Ãºtil.;SÃ, debe ser muy Ãºtil.
+Ya sabes... Estoy seguro de que podrÃ­a OBLIGAR que me digas dÃ³nde estÃ¡...;Ya sabes... Estoy seguro de que podrÃa OBLIGAR dat ik dit doe, is het...
+Valeaaaay... Mencionando los detalles de tu tarea actual...;Valeaaaay... Bekijk de details van uw feitelijke situatie...
+Hola Savant! Me preguntaba si podrÃ­a darme detalles sobre mi tarea actual.;Hola Savant! Ik kan u vertellen wat mijn werkelijke situatie is.
+Bueno, gracias Tiffy!;Bueno, bedankt Tiffy!
+SÃ­, lo es, pero volvamos a la tarea que nos ocupa. Te sugiero que pases al siguiente tema de nuestras observaciones, podrÃ­a ser de mÃ¡s ayuda para localizar a Solus.;Dus, het is een kwestie van doen wat ons bezighoudt. Als u het volgende thema van nieuwe observaties hoort, kan het zijn dat u meer informatie nodig heeft om de Solus te lokaliseren.
+SÃ­, parecerÃ­a una apuesta probable. Savant fuera.;Het is waarschijnlijk dat dit een probleem is. Savante fuera.
+Â¿QuiÃ©nes son entonces estas personas?;Is dit een persona?
+Â¡Vaya, quÃ© buena idea, [PLAYER_NAME]! Â¡Bien, vayamos allÃ­ y atrapemoslo!;Â¡Vaya, wat een goed idee, [PLAYER_NAME]! Â¡Bien, vayamos allÃ y atrapemoslo!
+EstÃ¡ bien, entonces irÃ© a buscarlos.;Het is goed dat het een buscarlos is.
+Lo siento, no puedo cambiarte mi Orbe de Comunicaciones...;Lo siento, no puedo cambiarte mi Orbe de Comunicaciones...
+Tengo algunas esencias conmigo, Â¿podrÃ­as llevarlas...?;Tengo algunas esencias conmigo, Â¿podrÃas llevarlas...?
+I will not haggle with you on my price. 20 Rune essences, and not a single essence less.;Ik ga niet met u onderhandelen over mijn prijs. 20 Rune-essenties, en geen enkele essentie minder.
+Nutze, was du gelernt hast, Junge.;Nutze, was du gelernt hast, Junge.
+You will also be rewarded with an item for every so many orbs you deposit into the hole.;Je wordt ook beloond met een item voor elke zoveel bollen die je in het gat plaatst.
+Indem Sie diese Formen verzaubern, verwandeln Sie sie in Kugeln, die Sie in das Loch in der Mitte stecken kÃ¶nnen.;Indem Sie diese Formen verzaubern, verwandeln Sie sie in Kugeln, die Sie in das Loch in der Mitte stecken kÃ¶nnen.
+In dieser Kammer sehen Sie verschiedene Formenhaufen. Sie kÃ¶nnen diese Formen aufnehmen und sie mit den ZaubersprÃ¼chen â€žSchmuck verzaubernâ€œ verzaubern.;In deze Kammer zie je het formulier verschiedene. Als u deze formulieren opzuigt en met de "Schmuck verzaubern" verzaubern gebruikt.
+Sie erhalten Verzauberungs-Pizazz-Punkte fÃ¼r jeweils zehn Formen, die Sie umwandeln, und die Punkte, die Sie erhalten, hÃ¤ngen von der Stufe des Verzauberungszaubers ab, den Sie wirken.;Als u de Verzauberungs-Pizazz-Punkte voor juwelen op de markt brengt, die u rondleidt, en de Punkte, die Sie erhalten, hangt u van de Stufe des Verzauberungszaubers, de Sie werkt.
+Sie erhalten einen Bonus-Pizazz-Punkt fÃ¼r die Verzauberung einer bestimmten Form zu einem bestimmten Zeitpunkt, den ich regelmÃ¤ÃŸig ausrufen werde.;Als er een bonus-pizzapunk-punk is voor de verzauberung van een beste vorm van een beste tijdpunk, dan werd er regelmatig gebruik van gemaakt.
+GrÃ¼ÃŸe Junge. Wie kann ich Sie aufklÃ¤ren?;GrÃ¼ÃŸe Junge. Wie kan zijn aufklÃ¤ren?
+Estoy seguro de que he visto entradas asÃ­ en algÃºn lugar antes...;Ik denk dat hij naar de andere kant van de wereld wil gaan voordat...
+Â¿Pero esta firma que estÃ¡ encontrando es la misma que creÃ³ este experimento de \"teletransporte lento\"?;Is deze firma misschien een van de weinige die dit experiment met 'teletransportlento' heeft gecreëerd?
+Bueno, ese mago zamorakiano mencionÃ³ que tenÃ­a una fuerte aura mÃ¡gica, Â¿tal vez sea eso?;Weet u misschien dat dit een magische uitstraling heeft, wat is de zee dan?
+Exactamente. Escucha, tal vez pueda bloquear su magia de teletransportaciÃ³n usando tu CommOrb, pero necesitarÃ© que te acerques a Ã©l y, si tenemos mala suerte, terminarÃ¡;Precies. Als u de teletransportación-gebruiksfunctie van uw CommOrb kunt blokkeren, is het noodzakelijk dat u deze aanschaft, als u een slechte reis heeft, eindigt u
+Hace muchos aÃ±os los Caballeros del Templo estaban estudiando tÃ©cnicas de teletransportaciÃ³n, y encontraron una extraÃ±a dimensiÃ³n a la que se accedÃ­a al teletransportarse.;Er zijn veel van de Templo-caballero's die teletransporttechnieken hebben ontwikkeld en een extra dimensie hebben gekregen die toegang geeft tot teletransport.
+Bueno, puedo ver que eso podrÃ­a ser motivo de preocupaciÃ³n, pero ahora mismo nuestra prioridad es Solus, Â¿verdad?;Maar misschien is het wel zo dat u zich er druk over kunt maken, maar dat dit nu een prioriteit is voor Solus, altijd?
+SÃ­, [PLAYER_NAME], tienes razÃ³n. Pero si estÃ¡ usando esta tÃ©cnica de 'teletransporte lento', Â¡eso significa que serÃ¡ mucho mÃ¡s difÃ­cil atraparlo!;SÃ, [PLAYER_NAME], tienes razón. Omdat het gebruik van deze techniek van 'teletransportlento' is, is het van belang dat het veel moeilijker is om te gaan!
+Bueno, dondequiera que los hayas visto, Â¡supongo que Ã©l estÃ¡ cerca!;Bueno, dondequiera que los hayas visto, Â¡supongo que él está cerca!
+Es... Â¿un billete?;Es... een billete?
+Bueno, no tenemos nada mÃ¡s que probar, Â¿verdad? Â¿QuÃ© tendrÃ© que hacer?;Bueno, no tenemos nada mÃ¡s que probar, Â¿verdad? Â¿QuÃ© tendré que hacer?
+No, no lo era: la agresividad estaba muy aumentada y habÃ­a numerosos fallos de percepciÃ³n, alucinaciones y cosas similares.;Nee, geen tijdperk: de agressie wordt steeds groter en er zijn veel waarnemingen, inzichten en soortgelijke overeenkomsten.
+Is there anybody there?;Is daar iemand?
+He oÃ­do rumores de ranas gigantes en una zona subterrÃ¡nea...;Hij doet geruchten de ronde over gigantische bedragen in een onderaardse zone...
+Â¡La rana de donde vinieron debe ser enorme!;Â¡De waarde van de wijn is enorm!
+Son... Â¿unas ancas de rana grandes?;Zoon... Is dit een grote gebeurtenis?
+Â¿Es... piel?;Â¿Es... piel?
+Â¿Pelo? Â¿CÃ³mo nos ayuda eso a encontrarlo?;¿Pelo? Is het een encontrarlo?
+Sir Vyvin can be found in Falador Castle, and he will sell you any equipment appropriate to your reputation level.;Sir Vyvin is te vinden in Falador Castle en hij zal je alle uitrusting verkopen die past bij je reputatieniveau.
+Bien Amik, Â¡gracias por explicarnos!;Bien Amik, bedankt voor de uitleg!
+Por supuesto. Â¿QuÃ© necesitas?;Por supuesto. Wat is noodzakelijk?
+Uh... sÃ­, sobre eso...;Uh... sÃ, nuchter eso...
+Exchange All: 85 coins.;Alles inwisselen: 85 munten.
+Â¿Tabla de intercambio?;Â¿Tabla de intercambio?
+Â¡Â¿QuÃ©?! Â¡No seas absurdo! Â¡No soy un fantasma! Â¿CÃ³mo puedes decir algo asÃ­?;Â¡Â¿QuÃ©?! Â¡Geen absurde zeeën! ¡Geen soja-un-fantasma! Â¿CÃ³mo puedes decir algo asÃ?
+What doesn't lie between Morytania and Asgarnia?;Wat ligt er niet tussen Morytania en Asgarnia?
+Sounds a bit weird though. What does it involve?;Klinkt toch een beetje raar. Wat houdt het in?
+What is the defence level requirement to wear a Mystic Hat?;Wat is het vereiste verdedigingsniveau om een ​​Mystic Hat te dragen?
+Well, what better to help the Lumbridge Guide than a 'Cake of Guidance'. Would you like to help?;Welnu, wat is een betere manier om de Lumbridge Guide te helpen dan een 'Cake of Guidance'. Wilt u helpen?
+How can I help the Lumbridge Guide?;Hoe kan ik de Lumbridge Gids helpen?
+Well, I'm not too familiar with the fine details, you'll have to go and speak with Traiborn in the Wizards' Tower. He'll know what you need.;Nou, ik ben niet zo bekend met de fijne details, je zult met Traiborn moeten gaan praten in de Tovenaarstoren. Hij weet wat je nodig hebt.
+Yes, I'm sure I can make a cake.;Ja, ik weet zeker dat ik een taart kan maken.
+Okay, thanks, I'll get right on it!;Oké bedankt, ik ga er meteen mee aan de slag!
+Â¿Y eso es todo?;Is dit wat u moet doen?
+Meeeiouw! Mewwww!;Meeeiouw! Mauwwww!
+Mencionaste una tarea que requiere mi Ãºnica-;Denk aan een probleem dat mijn única nodig heeft
+This is Thorkir, your majesty.;Dit is Thorkir, majesteit.
+SÃ­, Evil Bob me capturÃ³ y metiÃ³ en esta prisiÃ³n.;SÃ³, Evil Bob me gevangen en met een gevangenschap.
+Â¡Muchas gracias por tu ayuda! Toma, diez un regalo:;¡Muchas gracias por tu ayuda! Toma, diez een regalo:
+Oh. Lo siento.;Oh. Ziet er goed uit.
+Â¿No ves que estoy muy ocupado aquÃ­? Â¡Vete contigo!;Is het niet zo dat u water gebruikt? ¡Vete contigo!
+Estoy buscando a un hombre llamado Marley. Â¿Lo has visto?;Estoy kan een hombre lamado Marley gebruiken. Â¿Lo heeft visto?
+Nos hemos quedado sin ballestas, pero aparentemente tienen muchas. Si alguien nos adquiriera un par, se lo agradecerÃ­a mucho.;Er zijn geen mensen die ballestas hebben, maar er zijn veel dingen gebeurd. Als u een ander advies geeft, wordt het veel erger.
+Â¿Ese tipo todavÃ­a estÃ¡ ahÃ­ afuera? EstÃ¡ empezando a ser una molestia. QuizÃ¡s sea hora de que tenga un pequeÃ±o accidente...;Is deze tipo todavía está ahá afuera? Het bedrijf werkt als een molestia. QuizÃ¡s zee hora de que tenga een pequeÃ±o accidente...
+De todos modos, digamos que fuÃ©ramos Black Arm Gang, Â¿quÃ© querrÃ­as de nosotros?;Wat zijn de meest populaire manieren om Black Arm Gang te verslaan, wat zijn de nieuwelingen?
+Â¡Lo que quieras, no me interesa!;Â¡Lo que quieras, no me interestesa!
+Â¿Ya tienes esas ballestas para mÃ­?;Â¿Ya tienes esas ballestas para mÃ?
+Â¡ServirÃ¡! Â¡Gracias!;Â¡ServirÃ¡! ¡Gracias!
+Parece que eres mÃ¡s hÃ¡bil de lo que originalmente te creÃ­a. Bien hecho. ConsidÃ©rate un miembro de Black Arm Gang. Te sugiero que ahora vayas y te familiarices con el resto de la pandilla.;Er zijn meer dingen die origineel zijn om te creëren. Goed zo. Denk aan een van de Black Arm Gang-mensen. Het lijkt erop dat u vertrouwd raakt met de resto van de pandilla.
+Entonces Â¿serÃ© recompensado por recuperar la mitad del escudo?;Krijgt u een beloning voor het terugkrijgen van de escudo?
+Eso suena plausible. HabrÃ¡ que esperar que otro aventurero pueda recuperar esa mitad.;Dit is plausibel. Denk eraan dat andere avontuurlijke mensen dit kunnen recupereren.
+Me temo que eso es sÃ³lo la mitad del certificado de recompensa. TendrÃ¡s que conseguir la otra mitad y unirlos si quieres reclamar la recompensa.;Ik denk dat dit alleen het certificaat van beloning is. Vaak moet u andere mensen adviseren en een vergoeding vragen.
+Me temo que la recompensa es por recuperar el escudo completo. Sin embargo, lo que harÃ© serÃ¡ emitirte dos medios certificados. Si otro aventurero me devuelve la otra mitad del escudo, harÃ© lo mismo por Ã©l.;Ik weet dat de beloning een volledige vergoeding is. Als er een embargo is, worden er middelmatige certificaten afgegeven. Als je andere avonturen beleeft, heb je een andere escudo-ervaring, maar je zult mismo por él zijn.
+Â¿Has encontrado el escudo? Â¡Echemos un vistazo!;Â¿Heeft encontrado el escudo? Â¡Echemos un vistazo!
+Obtuve esta mitad de Black Arm Gang. Me pregunto si Phoenix Gang podrÃ­a quedarse con la otra mitad.;Dit is het verhaal van Black Arm Gang. Ik wil dat de Phoenix Gang met andere dingen te maken krijgt.
+De todos modos, parece que me has hecho un favor. Aunque estoy un poco confundido acerca de lo que pasÃ³ aquÃ­.;In alle gevallen is het zo dat ik een gunst heb. Er is een confundido van wat pas water is.
+Bueno, llegar a Ape Atoll es todo un fastidio.  Â¿Tiene alguna manera de hacer que sea mÃ¡s fÃ¡cil llegar allÃ­?;Goed, ga naar een Ape Atoll en doe dit snel.  Â¿Tiene alguna manera de hacer que sea mÃ¡s fÃ¡cil llegar allÃ?
+TÃº tampoco recuerdas mi nombre, Â¿verdad? It's [PLAYER_NAME].;Welke tampoco is mijn naam, verdad? Het is [PLAYER_NAME].
+Parece que todavÃ­a tienes que considerar una pregunta obvia. Â¿No te preguntas cÃ³mo terminÃ© en esa celda?;Het kan zijn dat u een zwangerschap moet overwegen. Wilt u niet meer eindigen in deze celda?
+Al parecer Ã©l solÃ­a estar a cargo de este lugar. Esa carta que encontrÃ© mencionaba el asilo, que parece un buen lugar para comenzar mi bÃºsqueda.;Het enige wat u kunt doen, is een vracht van deze vracht vervoeren. Het is een kaart die wordt weergegeven in de asilo, die een buen lugar is om naar mijn huis te komen.
+Eso es confidencial.;Het is vertrouwelijk.
+Â¿Una ruina dentro de una ruina? Â¡QuÃ© emocionante! Hemos encontrado algo extraÃ±o que no parece ser de origen enano, pero aÃºn es temprano para nosotros aquÃ­, por lo que no hemos podido aprender mucho todavÃ­a.;Een ruïne voor een ruïne? Â¡QuÃ© emocionante! Hemos encontrado algo extraque no parece ser de origene, pero aun es temprano para nosotros water, por lo que no hemos podo aprender mucho todavÃa.
+Â¡Â¿Bajar por el agujero?! Â¡Eres mucho mÃ¡s valiente que yo! Hay muchas rocas por ahÃ­. Estoy seguro de que podrÃ­as atar una cuerda a uno de ellos. Aunque necesitarÃ­as una cuerda bastante larga. Toma, puedes usar el mÃ­o.;Â¡Â¿Bajar por el agujero?! Â¡Er is veel meer waard dan yo! Hay muchas rocas por ahÃ. Ik denk dat je een van de beste dingen kunt doen. Er is een grote hoeveelheid bastant nodig. Toma, kan de mó gebruiken.
+Vous constaterez que de nombreux habitants de ce monde ont des choses utiles à vous dire. En cliquant sur eux, vous pouvez leur parler.;U moet weten dat de meeste inwoners van de wereld voor de meest verschrikkelijke nutsvoorzieningen kiezen. Als u op eux klikt, kunt u uw gesprek voeren.
+Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !;U hebt de première meegemaakt en u hebt de noodzaak gekozen voor een reussir dans ce monde: parler aux autres!
+Bonjour ! Je vois que vous venez d'arriver dans le monde de Gielinor. Mon travail consiste à accueillir tous les nouveaux visiteurs. Alors, bienvenue !;Bonjour! Je zult zien dat je aankomt in de wereld van Gielinor. Mijn werk bestaat uit het verzamelen van onze nieuwe bezoekers. Alors, bienvenue!
+Vous remarquerez une icône clignotante représentant une clé. Veuillez cliquer dessus pour continuer le tutoriel.;U merkt een pictogram op dat een clignotant vertegenwoordigt. Klik hier om de tutorial voort te zetten.
+On dirait que vous progressez bien ! Le menu que vous venez d'ouvrir est l'un des nombreux menus disponibles. Vous découvrirez les autres au fur et à mesure que vous avancerez dans le tutoriel.;Op dirait que vous progressez bien! Het menu dat u gebruikt, is een van de vele beschikbare menu's. U kunt de rest van de vacht ontdekken en de mate waarin u vooruitgaat op de tutorial.
+Bonjour, nouveau venu. Je m'appelle Brynna. Mon travail consiste à t'enseigner les compétences qui te permettront de survivre dans ce monde.;Bonjour, nouveau venu. Je m'appelle Brynna. Mijn werk bestaat uit de competenties die je in de wereld kunt overleven.
+Bon retour parmi nous. Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !;Bon retour parmi nous. U hebt de première meegemaakt en u hebt de noodzaak gekozen voor een reussir dans ce monde: parler aux autres!
+Â¿Si?;Â¿Si?
+SÃ­, creo que puedo trabajar con esto. Dame un momento...;Het is zo dat je dit kunt doen. Dame een moment...
+AllÃ¡. Puede recoger su nuevo artÃ­culo del banco de trabajo. DÃ©jame saber si quieres alguna informaciÃ³n sobre cÃ³mo funciona.;AllÃ¡. U kunt uw nieuwe banco-trabajo-artikel herkennen. DÃ©jame sabre si quieres alguna información sobre cÃ³mo function.
+Hmm... No... Esto no estÃ¡ bien.;Hmm... Nee... Esto no estÃ¡ bien.
+Antes de asignarte algo, quiero dejar algo claro. Mis tareas deben realizarse en el desierto. Solo contarÃ¡n las muertes dentro del desierto.;Voordat u iets toewijst, moet u altijd duidelijk zijn. Deze dingen worden gerealiseerd in een verlangen. Solo contarÃ¡n las muertes de desierto.

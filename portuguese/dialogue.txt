@@ -140703,3 +140703,160 @@ Parece que tu amigo tiene una gran variedad de habilidades. UsÃ³ el Reino de l
 Has vuelto. Â¿Tuviste suerte con tu investigaciÃ³n?;Tem vuelto. Você está suerte com sua investigação?
 DesearÃ­a tener mejores noticias, pero me temo que he llegado a un callejÃ³n sin salida.;Desejava ter melhores notícias, mas temo que ele tenha chegado a um telefonema sem saída.
 Â¿DÃ³nde estÃ¡ este asesino ahora?;Onde você está asesino agora?
+I have no idea what I should put in the opening of that door. Maybe I should leave it alone for now.;Não tenho ideia do que devo colocar na abertura daquela porta. Talvez eu devesse deixar isso de lado por enquanto.
+Si todavÃ­a existe alguno, probablemente estÃ© en Port Sarim. Sin embargo, un barco tambiÃ©n necesitarÃ¡ un capitÃ¡n, Â¡y no estoy seguro de dÃ³nde encontrarÃ­as uno dispuesto a navegar hacia Crandor!;Se ainda existir algo, provavelmente está em Port Sarim. No entanto, um barco também precisa de um capitão, e não tenho certeza de onde encontrar um desafio para navegar até Crandor!
+Uno bastante especÃ­fico, me temo. Incluso con un mapa, muy pocos barcos podrÃ¡n navegar por los arrecifes que rodean la isla. NecesitarÃ¡s uno de diseÃ±o crandoriano.;Um bastante específico, eu tenho. Incluindo um mapa, muitos poucos barcos podem navegar pelos arrecifes que rodeiam a ilha. Necessita de um design crandoriano.
+Keeping the stove alight will train your Firemaking, working the pump will train your Strength, pedalling the conveyor belt will train your Agility and repairing the furnace will train Crafting.;Manter o fogão aceso treinará sua Arte do Fogo, trabalhar a bomba treinará sua Força, pedalar a esteira treinará sua Agilidade e consertar a fornalha treinará Artesanato.
+But we've got a bit of a labour shortage at the moment, which is why I have to rely on immigrant workers to keep the furnace going. So, are you here to start work?;Mas neste momento temos uma certa escassez de mão-de-obra, e é por isso que tenho de contar com trabalhadores imigrantes para manter a fornalha a funcionar. Então, você está aqui para começar a trabalhar?
+Du! Machen Sie sich an die Arbeit!;Du! Machen Sie sich an die Arbeit!
+Kann ich den Ofen zum Schmelzen von Erz verwenden?;Kann ich den Ofen zum Schmelzen von Erz verwenden?
+Thirdly, someone needs to keep an eye on the temperature gauge. They should tell the pumper to start or stop so that the temperature stays in the right range.;Em terceiro lugar, alguém precisa ficar de olho no medidor de temperatura. Eles devem dizer ao bombeador para iniciar ou parar para que a temperatura permaneça na faixa correta.
+Wie kann ich bei der Arbeit am Hochofen helfen?;Como posso ajudar?
+The blast furnace is the pinnacle of dwarven metal- processing! Ore goes in the top and comes out as metal bars almost at once! And it's so efficient it only takes half as much coal to purify it as a regular furnace.;O alto-forno é o ápice do processamento de metal dos anões! O minério vai para o topo e sai quase imediatamente como barras de metal! E é tão eficiente que requer apenas metade da quantidade de carvão para purificá-lo de uma fornalha normal.
+The blast furnace will only work if there is a group of people keeping it going. Let me explain...;O alto-forno só funcionará se houver um grupo de pessoas para mantê-lo funcionando. Deixe-me explicar...
+Keeping the furnace going is valuable experience in itself!;Manter a fornalha funcionando é uma experiência valiosa por si só!
+While that's going, anyone else can put their ore on the conveyor belt to have it smelted.;Enquanto isso, qualquer pessoa pode colocar seu minério na esteira para ser fundido.
+Firstly, the stove needs to be kept filled with coal. If this runs out the furnace will not work.;Primeiramente, o fogão precisa ser mantido cheio de carvão. Se acabar, o forno não funcionará.
+Okay I'll get to work.;Ok, vou trabalhar.
+So I don't actually get paid then?;Então, na verdade, não sou pago?
+So what do I get out of it?;Então, o que eu ganho com isso?
+Sie sind hier, um bei der Arbeit am Hochofen zu helfen, nicht wahr?;Você está aqui, um bei der Arbeit am Hochofen zu helpen, nicht wahr?
+Someone will also need to be on standby with a hammer in case the machine breaks!;Alguém também precisará ficar de prontidão com um martelo caso a máquina quebre!
+Was ist der Hochofen?;Foi ist der Hochofen?
+Lastly, someone needs to be on the pedals to power the conveyor belt that puts ore into the furnace.;Por fim, alguém precisa estar no comando para acionar a correia transportadora que coloca o minério na fornalha.
+Secondly, someone needs to operate the pump that keeps the hot air blast circulating through the furnace.;Em segundo lugar, alguém precisa operar a bomba que mantém o jato de ar quente circulando pela fornalha.
+Plus, everyone working the furnace will get a bit of experience in Smithing whenever anyone smelts ore in it.;Além disso, todos que trabalham na fornalha ganharão um pouco de experiência em Metalurgia sempre que alguém fundir minério nela.
+Ich habe Level 60!;Eu estou no nível 60!
+Das ist mÃ¶glich, allerdings mÃ¼ssen Sie dafÃ¼r auch ein paar Leute finden, die es fÃ¼r Sie erledigen. Da der Ofen jedoch sehr empfindlich ist, erhebe ich eine GebÃ¼hr fÃ¼r jeden, der nicht Ã¼ber Schmiedekunst der Stufe 60 verfÃ¼gt.;Das ist mÃ¶glich, allerdings mÃ¼ssen Sie dafÃ¼r auch ein paar Leute finden, die es fÃ¼r Sie erledigen. Da der Ofen jedoch sehr empfindlich ist, erhebe ich eine Gebühr für jeden, der nicht über Schmiedekunst der Stufe 60 verfügt.
+Ich habe kein Level 60.;Eu não tenho nível 60.
+Hmm, nun ja, ich lasse dich den Ofen benutzen, wenn du willst, aber du musst eine GebÃ¼hr von 2.500 MÃ¼nzen zahlen.;Hmm, nun ja, ich lasse dich den Ofen benutzen, wenn du willst, aber du mustst eine Gebühr von 2.500 Münzen zahlen.
+Only the top smiths are allowed in there!;Somente os melhores ferreiros podem entrar lá!
+Ah, bueno. AvÃ­same cuando lo hagas. El lugar a buscar serÃ­a Port Sarim.;Ah, bom. Avisame cuando lo hagas. O lugar a procurar seria Port Sarim.
+Entonces, Â¿me llevarÃ¡s a Crandor ahora?;Então, vou me levar a Crandor agora?
+The Cape of Thieving provides a nice boost to your chances of pickpocketing when worn. Is there anything else I can help you with?;A Capa do Ladrão aumenta suas chances de furtar carteiras quando usada. Há mais alguma coisa em que eu possa ajudá-lo?
+Hallo, Reldo. Ich bin gekommen, um Sie bei etwas um Hilfe zu gebissen.;Olá, Reldo. Ich bin gekommen, um Sie bei etwas um Hilfe zu gebissen.
+Dann verwenden Sie dieses magische GerÃ¤t, um herauszufinden, wo Ihr Ziel ist, und graben Sie dann ein wenig.;Dann verwenden Sie dieses magische GerÃ¤t, um herauszufinden, wo Ihr Ziel ist, und graben Sie dann ein wenig.
+Willst du sehen, wie ich einen LÃ¶ffel verbiege?;Willst du sehen, wie ich einen Löffel verbiege?
+Hey, Reldo. Ich habe wieder eine dieser Hinweisrollen. Haben Sie einen Rat?;Olá, Reldo. Ich habe wieder eine dieser Hinweisrollen. Haben Sie einen Rat?
+Dieses magische GerÃ¤t fÃ¼hrt Sie dorthin, wo Sie graben mÃ¼ssen. Viel GlÃ¼ck.;Dieses magische Gerät führt Sie dorthin, wo Sie graben müssen. Viel Glück.
+Status: 1 charges left.;Status: 1 carga restante.
+Patience is a virtue that few possess in this world.;Paciência é uma virtude que poucos possuem neste mundo.
+I don't think I'll be able to smash my way through the stone with a spade...;Acho que não conseguirei abrir caminho através da pedra com uma pá...
+Ah, [PLAYER_NAME], finalmente estÃ¡s aquÃ­. Tu tarea en esta sala es derrotar a Sir Leye. Saradomin lo ha bendecido para que sea invencible con cualquier espada, por lo que deberÃ­a ser todo un desafÃ­o para ti.;Ah, [PLAYER_NAME], finalmente está aqui. Tu tarea nesta sala é derrotar Sir Leye. Saradomin foi abençoado por aquele mar invencível com qualquer espada, por isso que deveria ser todo um desejo para você.
+Â¡Excelente trabajo! Â¡Has pasado las cinco pruebas requeridas! Â¡Acepte mis felicitaciones!;¡Excelente trabalho! Â¡Passou as cinco pruebas requeridas! ¡Aceite minhas felicitações!
+Ich habe wirklich Lust auf eine Zwiebel.;Ich habe wirklich Lust auf eine Zwiebel.
+Ã„hm... ich habe keines.;Ã„hm... eu não tenho nada.
+Wo ist deine braune SchÃ¼rze? Sie kÃ¶nnen hier nur reinkommen, wenn Sie eines tragen.;Wo ist deine braune Schürze? Você pode estar aqui apenas para reinkommen, quando estiver traficado.
+Willkommen in der Meistergilde.;Willkommen in der Meistergilde.
+Bueno, viejo, necesitaremos equiparte para la tarea, pero primero tendrÃ¡s que conseguirme algo, Â¿quÃ©?;Bom, velho, precisaremos equipar para a tarea, mas primeiro teremos que conseguir algo, o que?
+...Â¿QuÃ©? Â¡Te dije que lo rechazaras!;...Â¿Que? Â¡Te dije que lo rechazaras!
+Um... estÃ¡ bien... Entonces, Â¿cuÃ¡l es el problema?;Um... está bem... Então, qual é o problema?
+What ho, $he_him. Jolly good show on the old training grounds thingy, what?;O que é, $ ele_ele. Um show muito bom no antigo campo de treinamento, o quê?
+Ya no soy miembro de los Caballeros del Templo, he renunciado por completo a mi solicitud porque despuÃ©s de muchas horas de examen de conciencia he llegado a la conclusiÃ³n de que deseo desesperadamente convertirme en un Caballero Blanco.;Ya no soy miembro dos Caballeros del Templo, ele renunciou por completo a minha solicitação porque depois de muitas horas de exame de consciência ele chegou à conclusão de que desejava desesperadamente me converter em um Caballero Blanco.
+PodrÃ¡n enviarle cualquier informaciÃ³n Ãºtil sobre Solus directamente a travÃ©s de Ã©l para su lectura, no lo sÃ©.;Você pode enviar qualquer informação útil sobre Solus diretamente através dele para sua palestra, no lo sé.
+Su nombre es Solus Dellagar y, sinceramente, es uno de los hombres mÃ¡s peligrosos de Gielinor.;Seu nome é Solus Dellagar e, sinceramente, é um dos homens mais perigosos de Guilenor.
+Bueno, no necesitas preocuparte por los detalles, simplemente haz lo que te digo y todo saldrÃ¡ bien para los dos, Â¿quÃ©?;Bom, não há necessidade de se preocupar com os detalhes, simplesmente há o que você diz e tudo saldrá bem para eles, o que?
+Bueno, viejo, mirando el antiguo expediente que tenemos aquÃ­ sobre ti, parece haber un pequeÃ±o problema, Â¿quÃ©?;Bom, velho, olhando para o antigo expediente que temos aqui sobre você, parece haver um pequeno problema, o que é?
+Supongo... aunque no me gusta seguir Ã³rdenes ciegamente...;Supongo... ainda que não me gusta seguir ordens ciegamente...
+Â¿QuÃ©? Â¡Pero soy miembro de los Caballeros Blancos! Â¡Fui e hice esas cosas con el repollo y la pociÃ³n!;O que? Â¡Pero sou miembro de los Caballeros Blancos! Â¡Fui e hice esas cosas con el repollo y la poción!
+*sigh* This is a less than illustrious start to your career with us [PLAYER_NAME].;*suspiro* Este não é um começo nada ilustre para sua carreira conosco [PLAYER_NAME].
+Â¿Escapatoria? Â¿QuÃ© tipo de laguna jurÃ­dica?;¿Escapatoria? Qual é o tipo de lagoa jurídica?
+CÃ¡lmate viejo... No tenemos ninguna intenciÃ³n de 'deshacernos de ti', estamos muy interesados â€‹â€‹en verte unirse a nosotros...;Calmate velho... Não temos nenhuma intenção de 'deshacernos de ti', estamos muito interessados ​​​​em verte unir-se a nós...
+... Bueno, de todos modos, por el excelente trabajo que lograste en ese incidente en la Fortaleza de los Caballeros Negros, serÃ­a un honor para mÃ­ aceptarte como mi Escudero.;... Bom, de todos os modos, pelo excelente trabalho que lograste neste incidente na Fortaleza dos Caballeros Negros, seria uma honra para mim aceitar como meu Escudero.
+Bueno, Â¡POR SUPUESTO que tenemos un expediente sobre usted! Â¡Tenemos un dossier de TODOS! Â¡Es nuestro trabajo, no lo sabes!;Bueno, ¡POR SUPUESTO que temos um expediente sobre você! ¡Temos um dossiê de TODOS! Â¡Es nuestro trabajo, no lo sabes!
+Bueno, parece que cometimos un pequeÃ±o error cuando te contactamos por primera vez para unirte a los Caballeros del Templo, Â¿quÃ©?;Bom, parece que cometemos um pequeno erro quando te contatamos pela primeira vez para nos unirmos aos Caballeros del Templo, Â¿qué?
+No, charlÃ© un poco con Sir Vey y se nos ocurriÃ³... una soluciÃ³n diferente al problema. Suponiendo que todavÃ­a estÃ©s interesado, por supuesto.;No, charlÃ© un poco con Sir Vey e se nos ocorreu... uma soluÃ§Ã£o diferente para o problema. Supondo que você esteja sempre interessado, por suposto.
+SÃ­, debe ser muy Ãºtil.;Sim, deve ser muito útil.
+Ya sabes... Estoy seguro de que podrÃ­a OBLIGAR que me digas dÃ³nde estÃ¡...;Ya sabes... Estou seguro de que poderias OBLIGAR que me digas onde está...
+Valeaaaay... Mencionando los detalles de tu tarea actual...;Valeaaaay... Mencionando os detalhes da sua tarefa atual...
+Hola Savant! Me preguntaba si podrÃ­a darme detalles sobre mi tarea actual.;Olá Savant! Eu me perguntei se poderia me dar detalhes sobre minha tarefa atual.
+Bueno, gracias Tiffy!;Bom, obrigado Tiffy!
+SÃ­, lo es, pero volvamos a la tarea que nos ocupa. Te sugiero que pases al siguiente tema de nuestras observaciones, podrÃ­a ser de mÃ¡s ayuda para localizar a Solus.;Sim, isso é, mas voltamos à tarefa que nos ocupa. Te sugiro que passe ao próximo tema de nossas observações, pode ser de mais ajuda para localizar Solus.
+SÃ­, parecerÃ­a una apuesta probable. Savant fuera.;SÃ, parece uma apuesta provável. Savant fuera.
+Â¿QuiÃ©nes son entonces estas personas?;Quem são aqueles que são essas pessoas?
+Â¡Vaya, quÃ© buena idea, [PLAYER_NAME]! Â¡Bien, vayamos allÃ­ y atrapemoslo!;¡Vaya, que boa ideia, [PLAYER_NAME]! Â¡Bien, vayamos allí y atrapemoslo!
+EstÃ¡ bien, entonces irÃ© a buscarlos.;Está bem, então vou buscá-los.
+Lo siento, no puedo cambiarte mi Orbe de Comunicaciones...;Lo siento, no puedo mudar meu Orbe de Comunicaciones...
+Tengo algunas esencias conmigo, Â¿podrÃ­as llevarlas...?;Tengo algumas essências conmigo, Â¿podrías llevarlas...?
+I will not haggle with you on my price. 20 Rune essences, and not a single essence less.;Não vou pechinchar com você o meu preço. 20 Essências Rúnicas e nem uma única essência a menos.
+Nutze, was du gelernt hast, Junge.;Nutze, você era você, Junge.
+You will also be rewarded with an item for every so many orbs you deposit into the hole.;Você também será recompensado com um item para cada número de orbes que depositar no buraco.
+Indem Sie diese Formen verzaubern, verwandeln Sie sie in Kugeln, die Sie in das Loch in der Mitte stecken kÃ¶nnen.;Indem Sie diese Formen verzaubern, verwandeln Sie sie in Kugeln, die Sie in das Loch in der Mitte stecken können.
+In dieser Kammer sehen Sie verschiedene Formenhaufen. Sie kÃ¶nnen diese Formen aufnehmen und sie mit den ZaubersprÃ¼chen â€žSchmuck verzaubernâ€œ verzaubern.;Neste Kammer sehen Sie verschiedene Forenhaufen. Sie können diese Formen aufnehmen und sie mit den Zaubersprüchen “Schmuck verzaubern” verzaubern.
+Sie erhalten Verzauberungs-Pizazz-Punkte fÃ¼r jeweils zehn Formen, die Sie umwandeln, und die Punkte, die Sie erhalten, hÃ¤ngen von der Stufe des Verzauberungszaubers ab, den Sie wirken.;Sie erhalten Verzauberungs-Pizazz-Punkte für jeweils zehn Formen, die Sie umwandeln, und die Punkte, die Sie erhalten, hangen von der Stufe des Verzauberungszaubers ab, den Sie wirken.
+Sie erhalten einen Bonus-Pizazz-Punkt fÃ¼r die Verzauberung einer bestimmten Form zu einem bestimmten Zeitpunkt, den ich regelmÃ¤ÃŸig ausrufen werde.;Sie erhalten einen Bonus-Pizazz-Punkt für die Verzauberung einer bestimmten Form zu einem bestimmten Zeitpunkt, den ich regelmÃ¤ÃŸig ausrufen werde.
+GrÃ¼ÃŸe Junge. Wie kann ich Sie aufklÃ¤ren?;Grüe Junge. Wie kann ich Sie aufklÃ¤ren?
+Estoy seguro de que he visto entradas asÃ­ en algÃºn lugar antes...;Tenho certeza de que ele viu entradas assim em algum lugar antes...
+Â¿Pero esta firma que estÃ¡ encontrando es la misma que creÃ³ este experimento de \"teletransporte lento\"?;Mas esta empresa está descobrindo a mesma coisa que criou este experimento de "teletransporte lento"?
+Bueno, ese mago zamorakiano mencionÃ³ que tenÃ­a una fuerte aura mÃ¡gica, Â¿tal vez sea eso?;Bom, esse mago Zamorakiano mencionou que tinha uma forte aura mágica, tal vez mar isso?
+Exactamente. Escucha, tal vez pueda bloquear su magia de teletransportaciÃ³n usando tu CommOrb, pero necesitarÃ© que te acerques a Ã©l y, si tenemos mala suerte, terminarÃ¡;Exatamente. Escute, talvez você possa bloquear sua magia de teletransporte usando seu CommOrb, mas precisa que você acerque-o, se tivermos má sorte, termine
+Hace muchos aÃ±os los Caballeros del Templo estaban estudiando tÃ©cnicas de teletransportaciÃ³n, y encontraron una extraÃ±a dimensiÃ³n a la que se accedÃ­a al teletransportarse.;Muitos anos depois, os Cavaleiros do Templo estudaram técnicas de teletransporte e encontraram uma dimensão extra para acessar o teletransporte.
+Bueno, puedo ver que eso podrÃ­a ser motivo de preocupaciÃ³n, pero ahora mismo nuestra prioridad es Solus, Â¿verdad?;Bom, posso ver que isso pode ser motivo de preocupação, mas agora mesmo nossa prioridade é Solus, verdade?
+SÃ­, [PLAYER_NAME], tienes razÃ³n. Pero si estÃ¡ usando esta tÃ©cnica de 'teletransporte lento', Â¡eso significa que serÃ¡ mucho mÃ¡s difÃ­cil atraparlo!;Sim, [PLAYER_NAME], você tem razão. Mas se você estiver usando essa técnica de 'teletransporte lento', isso significa que será muito mais difícil atraparlo!
+Bueno, dondequiera que los hayas visto, Â¡supongo que Ã©l estÃ¡ cerca!;Bueno, dondequiera que los hayas visto, ¡¡supongo que él está cerca!
+Es... Â¿un billete?;É... um boleto?
+Bueno, no tenemos nada mÃ¡s que probar, Â¿verdad? Â¿QuÃ© tendrÃ© que hacer?;Bom, não temos nada mais que probar, verdade? O que tende a fazer?
+No, no lo era: la agresividad estaba muy aumentada y habÃ­a numerosos fallos de percepciÃ³n, alucinaciones y cosas similares.;Não, não era: a agresividad estava muito aumentada e tinha inúmeras falhas de percepção, alucinações e coisas semelhantes.
+Is there anybody there?;Tem alguém aí?
+He oÃ­do rumores de ranas gigantes en una zona subterrÃ¡nea...;Ele ouviu rumores de raças gigantes em uma zona subterrânea...
+Â¡La rana de donde vinieron debe ser enorme!;Â¡La rana de donde vinieron deve ser enorme!
+Son... Â¿unas ancas de rana grandes?;Filho... Â¿unas ancas de rana grandes?
+Â¿Es... piel?;Â¿É... pele?
+Â¿Pelo? Â¿CÃ³mo nos ayuda eso a encontrarlo?;Pelo? Como nos ajudar a encontrá-lo?
+Sir Vyvin can be found in Falador Castle, and he will sell you any equipment appropriate to your reputation level.;Sir Vyvin pode ser encontrado no Castelo Falador e ele venderá qualquer equipamento adequado ao seu nível de reputação.
+Bien Amik, Â¡gracias por explicarnos!;Bien Amik, obrigado por nos explicar!
+Por supuesto. Â¿QuÃ© necesitas?;Por suposto. O que você precisa?
+Uh... sÃ­, sobre eso...;Uh... sim, sobre isso...
+Exchange All: 85 coins.;Trocar tudo: 85 moedas.
+Â¿Tabla de intercambio?;Â¿Tabela de intercâmbio?
+Â¡Â¿QuÃ©?! Â¡No seas absurdo! Â¡No soy un fantasma! Â¿CÃ³mo puedes decir algo asÃ­?;Â¡Â¿Que?! ¡No mar absurdo! ¡Não sou um fantasma! Como você pode dizer algo assim?
+What doesn't lie between Morytania and Asgarnia?;O que não existe entre Moritânia e Asgarnia?
+Sounds a bit weird though. What does it involve?;Parece um pouco estranho. O que isso envolve?
+What is the defence level requirement to wear a Mystic Hat?;Qual é o requisito de nível de defesa para usar um Chapéu Místico?
+Well, what better to help the Lumbridge Guide than a 'Cake of Guidance'. Would you like to help?;Bem, nada melhor para ajudar o Guia de Lumbridge do que um 'Bolo de Orientação'. Você gostaria de ajudar?
+How can I help the Lumbridge Guide?;Como posso ajudar o Guia Lumbridge?
+Well, I'm not too familiar with the fine details, you'll have to go and speak with Traiborn in the Wizards' Tower. He'll know what you need.;Bem, não estou muito familiarizado com os detalhes, você terá que ir falar com Traiborn na Torre dos Feiticeiros. Ele saberá o que você precisa.
+Yes, I'm sure I can make a cake.;Sim, tenho certeza que posso fazer um bolo.
+Okay, thanks, I'll get right on it!;Ok, obrigado, já vou resolver isso!
+Â¿Y eso es todo?;E isso é tudo?
+Meeeiouw! Mewwww!;Meeeiouw! Miau!
+Mencionaste una tarea que requiere mi Ãºnica-;Mencionaste uma tarefa que requer minha única-
+This is Thorkir, your majesty.;Este é Thorkir, Vossa Majestade.
+SÃ­, Evil Bob me capturÃ³ y metiÃ³ en esta prisiÃ³n.;Então, Evil Bob me capturou e me meteu nesta prisão.
+Â¡Muchas gracias por tu ayuda! Toma, diez un regalo:;¡Muito obrigado por sua ajuda! Toma, diez un regalo:
+Oh. Lo siento.;Oh. Eu sinto.
+Â¿No ves que estoy muy ocupado aquÃ­? Â¡Vete contigo!;Você não está muito ocupado aqui? ¡Vete contigo!
+Estoy buscando a un hombre llamado Marley. Â¿Lo has visto?;Estou procurando um homem chamado Marley. Você já viu?
+Nos hemos quedado sin ballestas, pero aparentemente tienen muchas. Si alguien nos adquiriera un par, se lo agradecerÃ­a mucho.;Nós estamos caídos sem balestas, mas aparentemente temos muitas coisas. Se alguém nos adquirir um par, agradeceremos muito.
+Â¿Ese tipo todavÃ­a estÃ¡ ahÃ­ afuera? EstÃ¡ empezando a ser una molestia. QuizÃ¡s sea hora de que tenga un pequeÃ±o accidente...;Esse tipo todavía está ahã afuera? Está começando a ser uma molestia. Quizás sea hora de que tenga un pequeño acidente...
+De todos modos, digamos que fuÃ©ramos Black Arm Gang, Â¿quÃ© querrÃ­as de nosotros?;De todos os modos, diferentes que fuéramos Black Arm Gang, o que quer que seja de nós?
+Â¡Lo que quieras, no me interesa!;¡Lo que quieras, no me interesa!
+Â¿Ya tienes esas ballestas para mÃ­?;Você tem essas bolas para mim?
+Â¡ServirÃ¡! Â¡Gracias!;¡Servírá! ¡Graças!
+Parece que eres mÃ¡s hÃ¡bil de lo que originalmente te creÃ­a. Bien hecho. ConsidÃ©rate un miembro de Black Arm Gang. Te sugiero que ahora vayas y te familiarices con el resto de la pandilla.;Parece que você é mais hábil do que originalmente você criou. Bem, hecho. Considere um membro do Black Arm Gang. Te sugiero que agora vayas e te familiarizes com o resto da pandilla.
+Entonces Â¿serÃ© recompensado por recuperar la mitad del escudo?;Então será recompensado por recuperar a metade do escudo?
+Eso suena plausible. HabrÃ¡ que esperar que otro aventurero pueda recuperar esa mitad.;Isso é plausível. Habrá que esperar que outro aventureiro possa recuperar essa metade.
+Me temo que eso es sÃ³lo la mitad del certificado de recompensa. TendrÃ¡s que conseguir la otra mitad y unirlos si quieres reclamar la recompensa.;Tenho a impressão de que isso é apenas a metade do certificado de recompensa. Tendrás que conseguir a outra metade e uni-los se quiseres reclamar a recompensa.
+Me temo que la recompensa es por recuperar el escudo completo. Sin embargo, lo que harÃ© serÃ¡ emitirte dos medios certificados. Si otro aventurero me devuelve la otra mitad del escudo, harÃ© lo mismo por Ã©l.;Me temo que a recompensa é por recuperar o escudo completo. Sem embargo, você será emitido dos meios certificados. Se outro aventureiro me desviar de outra metade do escudo, faça o mesmo por ele.
+Â¿Has encontrado el escudo? Â¡Echemos un vistazo!;Você encontrou o escudo? Â¡Echemos un vistazo!
+Obtuve esta mitad de Black Arm Gang. Me pregunto si Phoenix Gang podrÃ­a quedarse con la otra mitad.;Obtenha esta metade do Black Arm Gang. Eu me perguntei se Phoenix Gang poderia cair com outra metade.
+De todos modos, parece que me has hecho un favor. Aunque estoy un poco confundido acerca de lo que pasÃ³ aquÃ­.;De todos os modos, parece que ele me fez um favor. Ainda estou um pouco confuso sobre o que aconteceu aqui.
+Bueno, llegar a Ape Atoll es todo un fastidio.  Â¿Tiene alguna manera de hacer que sea mÃ¡s fÃ¡cil llegar allÃ­?;Bom, chegar ao Ape Atoll é muito fastidioso.  Você tem alguma maneira de fazer com que seja mais fácil levar tudo?
+TÃº tampoco recuerdas mi nombre, Â¿verdad? It's [PLAYER_NAME].;Tú tampoco recuerdas mi nombre, Â¿verdad? É [PLAYER_NAME].
+Parece que todavÃ­a tienes que considerar una pregunta obvia. Â¿No te preguntas cÃ³mo terminÃ© en esa celda?;Parece que você ainda precisa considerar uma pergunta óbvia. Você não tem perguntas sobre como terminar nessa cela?
+Al parecer Ã©l solÃ­a estar a cargo de este lugar. Esa carta que encontrÃ© mencionaba el asilo, que parece un buen lugar para comenzar mi bÃºsqueda.;Ao parecer que a solitária estará a carga deste lugar. Essa carta que encontro mencionaba o asilo, que parece um bom lugar para começar minha busca.
+Eso es confidencial.;Isso é confidencial.
+Â¿Una ruina dentro de una ruina? Â¡QuÃ© emocionante! Hemos encontrado algo extraÃ±o que no parece ser de origen enano, pero aÃºn es temprano para nosotros aquÃ­, por lo que no hemos podido aprender mucho todavÃ­a.;Uma ruína dentro de uma ruína? ¡Que emocionante! Hemos encontrado algo estranho que não parece ser de origem enano, mas ainda é temprano para nós aqui, por isso não poderíamos aprender muito hoje.
+Â¡Â¿Bajar por el agujero?! Â¡Eres mucho mÃ¡s valiente que yo! Hay muchas rocas por ahÃ­. Estoy seguro de que podrÃ­as atar una cuerda a uno de ellos. Aunque necesitarÃ­as una cuerda bastante larga. Toma, puedes usar el mÃ­o.;Â¡Â¿Bajar por el agujero?! Â¡Eres mucho mais valente que yo! Hay muchas rocas por ahÃ. Tenho certeza de que você pode amarrar uma corda a um deles. Ainda preciso de uma corda bastante larga. Toma, você pode usar o meu.
+Vous constaterez que de nombreux habitants de ce monde ont des choses utiles à vous dire. En cliquant sur eux, vous pouvez leur parler.;Você descobrirá que muitos habitantes deste mundo escolheram coisas úteis para você. En cliquant sur eux, você pode falar.
+Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !;Vous avez déjà appris la première escolheu nécessaire pour réussir dans ce monde : parler aux autres !
+Bonjour ! Je vois que vous venez d'arriver dans le monde de Gielinor. Mon travail consiste à accueillir tous les nouveaux visiteurs. Alors, bienvenue !;Bom dia! Eu quero que você chegue ao mundo de Guilenor. Mon travail consist à acueillir tous les nouveaux visiteurs. Alors, bom dia!
+Vous remarquerez une icône clignotante représentant une clé. Veuillez cliquer dessus pour continuer le tutoriel.;Vous marcar um ícone clitóris que representa uma chave. Clique novamente aqui para continuar o tutorial.
+On dirait que vous progressez bien ! Le menu que vous venez d'ouvrir est l'un des nombreux menus disponibles. Vous découvrirez les autres au fur et à mesure que vous avancerez dans le tutoriel.;On dirait que vous progressez bien! O menu que você vai abrir é um dos vários menus disponíveis. Você descobrirá outros na pele e na medida em que avançará no tutorial.
+Bonjour, nouveau venu. Je m'appelle Brynna. Mon travail consiste à t'enseigner les compétences qui te permettront de survivre dans ce monde.;Bom dia, novo local. Eu me chamo Brynna. Meu trabalho consiste em aprender as competências que lhe permitem sobreviver neste mundo.
+Bon retour parmi nous. Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !;Bon retour parmi nous. Vous avez déjà appris la première escolheu nécessaire pour réussir dans ce monde : parler aux autres !
+Â¿Si?;Você sim?
+SÃ­, creo que puedo trabajar con esto. Dame un momento...;Eu acho que posso trabalhar com isso. Dame um momento...
+AllÃ¡. Puede recoger su nuevo artÃ­culo del banco de trabajo. DÃ©jame saber si quieres alguna informaciÃ³n sobre cÃ³mo funciona.;Allá. Você pode recuperar seu novo artigo do banco de trabalho. Deixe-me saber se você deseja alguma informação sobre como funciona.
+Hmm... No... Esto no estÃ¡ bien.;Hmm... Não... Isso não está bem.
+Antes de asignarte algo, quiero dejar algo claro. Mis tareas deben realizarse en el desierto. Solo contarÃ¡n las muertes dentro del desierto.;Antes de atribuir algo, quero deixar algo claro. Minhas tarefas devem ser realizadas no deserto. Solo contou as mortes dentro do deserto.
