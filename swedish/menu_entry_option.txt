@@ -5220,3 +5220,6 @@ Withdraw-1050;Uttag-1050
 Buy: 1 x Bloodbark legs;Köp: 1 x Bloodbark-ben
 Deposit-999;Insättning-999
 View <col=ff9040>Gauntlet Map</col>;Visa <col=ff9040>Gauntlet-karta</col>
+Pedal;Trampa
+Buy: 8 x Split log;Köp: 8 x Delad stock
+Échanger avec;Échanger avec

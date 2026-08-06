@@ -140703,3 +140703,159 @@ Parece que tu amigo tiene una gran variedad de habilidades. UsÃ³ el Reino de l
 Has vuelto. Â¿Tuviste suerte con tu investigaciÃ³n?;On vuelto. Â¿Tuviste suerte con tu researchiÃ³n?
 DesearÃ­a tener mejores noticias, pero me temo que he llegado a un callejÃ³n sin salida.;DesearÃa tener mejores noticias, pero me temo que he llegado a un callejÃ³n sin salida.
 Â¿DÃ³nde estÃ¡ este asesino ahora?;Â¿DÃ³nde estÃ¡ este asesino ahora?
+I have no idea what I should put in the opening of that door. Maybe I should leave it alone for now.;En tiedä mitä minun pitäisi laittaa tuon oven aukkoon. Ehkä minun pitäisi jättää se nyt rauhaan.
+Si todavÃ­a existe alguno, probablemente estÃ© en Port Sarim. Sin embargo, un barco tambiÃ©n necesitarÃ¡ un capitÃ¡n, Â¡y no estoy seguro de dÃ³nde encontrarÃ­as uno dispuesto a navegar hacia Crandor!;Si todavÃa existe alguno, probablemente esté en Port Sarim. Sin embargo, un barco tambiÃ©n necesitarÃ¡ un capitÃ¡n, Â¡y no estoy seguro de dÃ³nde encontrarÃas uno dispuesto a navegar hacia Crandor!
+Uno bastante especÃ­fico, me temo. Incluso con un mapa, muy pocos barcos podrÃ¡n navegar por los arrecifes que rodean la isla. NecesitarÃ¡s uno de diseÃ±o crandoriano.;Uno basante especÃfico, me temo. Inclluso con un mapa, muy pocos barcos podrÃ¡n navegar por los arrecifes que rodean la isla. NecesitarÃ¡s uno de diseño crandoriano.
+Keeping the stove alight will train your Firemaking, working the pump will train your Strength, pedalling the conveyor belt will train your Agility and repairing the furnace will train Crafting.;Kiukaan pitäminen palamassa harjoittelee tulentekoasi, pumpun käyttäminen voimaasi, liukuhihnan polkeminen ketteryyttäsi ja uunin korjaaminen käsityötä.
+But we've got a bit of a labour shortage at the moment, which is why I have to rely on immigrant workers to keep the furnace going. So, are you here to start work?;Mutta meillä on tällä hetkellä hieman pulaa työvoimasta, minkä vuoksi joudun luottamaan siirtotyöläisiin pitämään uunin käynnissä. Joten oletko täällä aloittaaksesi työn?
+Du! Machen Sie sich an die Arbeit!;Du! Machen Sie sich an die Arbeit!
+Kann ich den Ofen zum Schmelzen von Erz verwenden?;Kann ich den Ofen zum Schmelzen von Erz verwenden?
+Thirdly, someone needs to keep an eye on the temperature gauge. They should tell the pumper to start or stop so that the temperature stays in the right range.;Kolmanneksi jonkun on pidettävä silmällä lämpömittaria. Heidän tulee käskeä pumppu käynnistymään tai pysähtymään, jotta lämpötila pysyy oikealla alueella.
+Wie kann ich bei der Arbeit am Hochofen helfen?;Wie kann ich bei der Arbeit am Hochofen helfen?
+The blast furnace is the pinnacle of dwarven metal- processing! Ore goes in the top and comes out as metal bars almost at once! And it's so efficient it only takes half as much coal to purify it as a regular furnace.;Masuuni on kääpiömetallin jalostuksen huippu! Malmi menee päälle ja tulee ulos metallitankoina melkein kerralla! Ja se on niin tehokas, että sen puhdistamiseen kuluu vain puolet vähemmän hiiltä kuin tavallisen uunin.
+The blast furnace will only work if there is a group of people keeping it going. Let me explain...;Masuuni toimii vain, jos sitä ylläpitää joukko ihmisiä. Selitän...
+Keeping the furnace going is valuable experience in itself!;Uunin käynnissä pitäminen on sinänsä arvokas kokemus!
+While that's going, anyone else can put their ore on the conveyor belt to have it smelted.;Sen aikana kuka tahansa muu voi laittaa malminsa hihnalle sulattaakseen sen.
+Firstly, the stove needs to be kept filled with coal. If this runs out the furnace will not work.;Ensinnäkin liesi on pidettävä täytettynä hiilellä. Jos tämä loppuu, uuni ei toimi.
+Okay I'll get to work.;Okei, menen töihin.
+So I don't actually get paid then?;En siis todellakaan saa palkkaa?
+So what do I get out of it?;Joten mitä saan siitä irti?
+Sie sind hier, um bei der Arbeit am Hochofen zu helfen, nicht wahr?;Sie sind hier, um bei der Arbeit am Hochofen zu helfen, nicht wahr?
+Someone will also need to be on standby with a hammer in case the machine breaks!;Jonkun on myös oltava vasaralla valmiustilassa siltä varalta, että kone hajoaa!
+Was ist der Hochofen?;Oliko se der Hochofen?
+Lastly, someone needs to be on the pedals to power the conveyor belt that puts ore into the furnace.;Lopuksi jonkun on oltava polkimilla, jotta se saa virtaa kuljetinhihnalle, joka laittaa malmia uuniin.
+Secondly, someone needs to operate the pump that keeps the hot air blast circulating through the furnace.;Toiseksi jonkun täytyy käyttää pumppua, joka pitää kuumailmapuhalluksen kiertämässä uunin läpi.
+Plus, everyone working the furnace will get a bit of experience in Smithing whenever anyone smelts ore in it.;Lisäksi jokainen uunissa työskentelevä saa vähän kokemusta Smithingistä aina, kun joku sulattaa siinä malmia.
+Ich habe Level 60!;Minulla on taso 60!
+Das ist mÃ¶glich, allerdings mÃ¼ssen Sie dafÃ¼r auch ein paar Leute finden, die es fÃ¼r Sie erledigen. Da der Ofen jedoch sehr empfindlich ist, erhebe ich eine GebÃ¼hr fÃ¼r jeden, der nicht Ã¼ber Schmiedekunst der Stufe 60 verfÃ¼gt.;Das ist mÃ¶glich, allerdings mÃ¼ssen Sie dafÃ¼r auch ein paar Leute finden, die es fÃ¼r Sie erledigen. Da der Ofen jedoch sehr empfindlich ist, erhebe ich eine GebÃ¼hr fÃ¼r jeden, der nicht Ã¼ber Schmiedekunst der Stufe 60 verfÃ¼gt.
+Ich habe kein Level 60.;Ich habe kein Level 60.
+Hmm, nun ja, ich lasse dich den Ofen benutzen, wenn du willst, aber du musst eine GebÃ¼hr von 2.500 MÃ¼nzen zahlen.;Hmm, nun ja, ich lasse dich den Ofen benutzen, wenn du willst, aber du musst eine GebÃ¼hr von 2.500 MÃ¼nzen zahlen.
+Only the top smiths are allowed in there!;Vain huippusepät pääsevät sisään!
+Ah, bueno. AvÃ­same cuando lo hagas. El lugar a buscar serÃ­a Port Sarim.;Ah, bueno. AvÃsame cuando lo hagas. El lugar a buscar serÃa Port Sarim.
+Entonces, Â¿me llevarÃ¡s a Crandor ahora?;Entonces, Â¿me llevarÃ¡s a Crandor ahora?
+The Cape of Thieving provides a nice boost to your chances of pickpocketing when worn. Is there anything else I can help you with?;Cape of Thieving lisää mukavasti taskuvarkausmahdollisuuksiasi, kun sitä käytetään. Voinko auttaa sinua muussa asiassa?
+Hallo, Reldo. Ich bin gekommen, um Sie bei etwas um Hilfe zu gebissen.;Hei, Reldo. Ich bin gekommen, um Sie bei etwas um Hilfe zu gebissen.
+Dann verwenden Sie dieses magische GerÃ¤t, um herauszufinden, wo Ihr Ziel ist, und graben Sie dann ein wenig.;Dann verwenden Sie dieses magische Gerät, um herauszufinden, wo Ihr Ziel ist, und graben Sie dann ein wenig.
+Willst du sehen, wie ich einen LÃ¶ffel verbiege?;Willst du sehen, wie ich einen LÃ¶ffel verbiege?
+Hey, Reldo. Ich habe wieder eine dieser Hinweisrollen. Haben Sie einen Rat?;Hei, Reldo. Ich habe wieder eine dieser Hinweisrollen. Haben Sie einen Rat?
+Dieses magische GerÃ¤t fÃ¼hrt Sie dorthin, wo Sie graben mÃ¼ssen. Viel GlÃ¼ck.;Dieses magische GerÃ¤t fÃ¼hrt Sie dorthin, wo Sie graben mÃ¼ssen. Viel GlÃ¼ck.
+Status: 1 charges left.;Tila: 1 latausta jäljellä.
+Patience is a virtue that few possess in this world.;Kärsivällisyys on hyve, jota harvalla on tässä maailmassa.
+I don't think I'll be able to smash my way through the stone with a spade...;En usko, että pystyn tunkeutumaan lapiolla kiven läpi...
+Ah, [PLAYER_NAME], finalmente estÃ¡s aquÃ­. Tu tarea en esta sala es derrotar a Sir Leye. Saradomin lo ha bendecido para que sea invencible con cualquier espada, por lo que deberÃ­a ser todo un desafÃ­o para ti.;Ah, [PLAYER_NAME], finalmente estÃ¡s aquÃ. Tu tarea en esta sala es derrotar a Sir Leye. Saradomin lo ha bendecido para que sea invencible con cualquier espada, por lo que deberÃa ser todo un desafÃo para ti.
+Â¡Excelente trabajo! Â¡Has pasado las cinco pruebas requeridas! Â¡Acepte mis felicitaciones!;Â¡Erinomainen trabajo! Â¡Onko pasado las cinco pruebas requeridas! Â¡Acepte mis onnittelut!
+Ich habe wirklich Lust auf eine Zwiebel.;Ich habe wirklich Lust auf eine Zwiebel.
+Ã„hm... ich habe keines.;Ã„hm... ich habe keines.
+Wo ist deine braune SchÃ¼rze? Sie kÃ¶nnen hier nur reinkommen, wenn Sie eines tragen.;Wo ist deine braune Schörze? Sie kÃ¶nnen hier nur reinkommen, wenn Sie eines tragen.
+Willkommen in der Meistergilde.;Willkommen in der Meistergilde.
+Bueno, viejo, necesitaremos equiparte para la tarea, pero primero tendrÃ¡s que conseguirme algo, Â¿quÃ©?;Bueno, viejo, necesitaremos equiparte para la tarea, pero primero tendrÃ¡s que conseguirme algo, Â¿qué?
+...Â¿QuÃ©? Â¡Te dije que lo rechazaras!;...Â¿QuÃ©? Â¡Te dije que lo rechazaras!
+Um... estÃ¡ bien... Entonces, Â¿cuÃ¡l es el problema?;Um... estÃ¡ bien... Entonces, Â¿cuÃ¡l es el problem?
+What ho, $he_him. Jolly good show on the old training grounds thingy, what?;Mitä hei, $he_him. Pirun hyvä esitys vanhoilla harjoituskentillä, mitä?
+Ya no soy miembro de los Caballeros del Templo, he renunciado por completo a mi solicitud porque despuÃ©s de muchas horas de examen de conciencia he llegado a la conclusiÃ³n de que deseo desesperadamente convertirme en un Caballero Blanco.;Ya no soy miembro de los Caballeros del Templo, he renunciado por completo a mi solicitud porque despuÃ©s de muchas horas de examen de conciencia he llegado a la conclusiÃ³n de que deseo desesperadamente convertirme en un Caballero Blanco.
+PodrÃ¡n enviarle cualquier informaciÃ³n Ãºtil sobre Solus directamente a travÃ©s de Ã©l para su lectura, no lo sÃ©.;PodrÃ¡n enviarle cualquier informaciÃ³n Ãºtil sobre Solus directamente a travès de Ã©l para su lectura, no lo sé.
+Su nombre es Solus Dellagar y, sinceramente, es uno de los hombres mÃ¡s peligrosos de Gielinor.;Su nombre es Solus Dellagar y, sinceramente, es uno de los hombres mÃ¡s peligrosos de Gielinor.
+Bueno, no necesitas preocuparte por los detalles, simplemente haz lo que te digo y todo saldrÃ¡ bien para los dos, Â¿quÃ©?;Bueno, no necesitas preocuparte por los detalles, simplemente haz lo que te digo y todo saldrÃ¡ bien para los dos, Â¿qué?
+Bueno, viejo, mirando el antiguo expediente que tenemos aquÃ­ sobre ti, parece haber un pequeÃ±o problema, Â¿quÃ©?;Bueno, viejo, mirando el antiguo expediente que tenemos aquÃ sobre ti, parece haber un pequeño problem, Â¿quÃ©?
+Supongo... aunque no me gusta seguir Ã³rdenes ciegamente...;Supongo... aunque no me gusta seguir Ã³rdenes ciegamente...
+Â¿QuÃ©? Â¡Pero soy miembro de los Caballeros Blancos! Â¡Fui e hice esas cosas con el repollo y la pociÃ³n!;Â¿Qué? Â¡Pero soy miembro de los Caballeros Blancos! Â¡Fui e hice esas cosas con el repollo y la pociÃ³n!
+*sigh* This is a less than illustrious start to your career with us [PLAYER_NAME].;*huokaus* Tämä on vähemmän kuin loistava alku urallesi kanssamme [PLAYER_NAME].
+Â¿Escapatoria? Â¿QuÃ© tipo de laguna jurÃ­dica?;Escapatoria? Â¿QuÃ© tipo de laguna jurÃdica?
+CÃ¡lmate viejo... No tenemos ninguna intenciÃ³n de 'deshacernos de ti', estamos muy interesados â€‹â€‹en verte unirse a nosotros...;CÃ¡lmate viejo... No tenemos ninguna intenciÃ³n de 'deshacernos de ti', estamos muy interesados ​​â€‹â€‹en verte unirse a nosotros...
+... Bueno, de todos modos, por el excelente trabajo que lograste en ese incidente en la Fortaleza de los Caballeros Negros, serÃ­a un honor para mÃ­ aceptarte como mi Escudero.;... Bueno, de todos modos, por el excelente trabajo que lograste en ese incidente en la Fortaleza de los Caballeros Negros, serÃa un honor para mÃ aceptarte como mi Escudero.
+Bueno, Â¡POR SUPUESTO que tenemos un expediente sobre usted! Â¡Tenemos un dossier de TODOS! Â¡Es nuestro trabajo, no lo sabes!;Bueno, Â¡POR SUPUESTO que tenemos un expediente sobre usted! Â¡Tenemos un dossier de TODOS! Â¡Es nuestro trabajo, no lo sabes!
+Bueno, parece que cometimos un pequeÃ±o error cuando te contactamos por primera vez para unirte a los Caballeros del Templo, Â¿quÃ©?;Bueno, parece que cometimos un pequeño error cuando te contactamos por primera vez para unirte a los Caballeros del Templo, Â¿qué?
+No, charlÃ© un poco con Sir Vey y se nos ocurriÃ³... una soluciÃ³n diferente al problema. Suponiendo que todavÃ­a estÃ©s interesado, por supuesto.;Ei, charlé un poco con Sir Vey y se nos ocurriÃ³... una soluciÃ³n diferente al problem. Suponiendo que todavÃa estÃ©s interesado, por supuesto.
+SÃ­, debe ser muy Ãºtil.;SÃ, debe ser muy Ãºtil.
+Ya sabes... Estoy seguro de que podrÃ­a OBLIGAR que me digas dÃ³nde estÃ¡...;Ya sabes... Estoy seguro de que podrÃa OBLIGAR que me digas dÃ³nde estÃ¡...
+Valeaaaay... Mencionando los detalles de tu tarea actual...;Valeaaaay... Mencionando los detalles de tu tarea reality...
+Hola Savant! Me preguntaba si podrÃ­a darme detalles sobre mi tarea actual.;Terve Savant! Me preguntaba si podrÃa darme detalles sobre mi tarea fact.
+Bueno, gracias Tiffy!;Kiitos, Tiffy!
+SÃ­, lo es, pero volvamos a la tarea que nos ocupa. Te sugiero que pases al siguiente tema de nuestras observaciones, podrÃ­a ser de mÃ¡s ayuda para localizar a Solus.;SÃ, lo es, pero volvamos a la tarea que nos ocupa. Te sugiero que pases al siguiente tema de nuestras observaciones, podrÃa ser de mÃ¡s ayuda para localizar a Solus.
+SÃ­, parecerÃ­a una apuesta probable. Savant fuera.;SÃ, parecerÃa una apuesta todennäköistä. Savant fuera.
+Â¿QuiÃ©nes son entonces estas personas?;Â¿Quiènes son entonces estas personas?
+Â¡Vaya, quÃ© buena idea, [PLAYER_NAME]! Â¡Bien, vayamos allÃ­ y atrapemoslo!;Â¡Vaya, qué buena idea, [PLAYER_NAME]! Â¡Bien, vayamos allÃ y atrapemoslo!
+EstÃ¡ bien, entonces irÃ© a buscarlos.;EstÃ¡ bien, entonces iré a buscarlos.
+Lo siento, no puedo cambiarte mi Orbe de Comunicaciones...;Lo siento, no puedo cambiarte mi Orbe de Comunicaciones...
+Tengo algunas esencias conmigo, Â¿podrÃ­as llevarlas...?;Tengo algunas esencias conmigo, Â¿podraas llevarlas...?
+I will not haggle with you on my price. 20 Rune essences, and not a single essence less.;En aio tinkiä kanssasi hinnastani. 20 riimuesanssia, eikä yhtään esanssia vähemmän.
+Nutze, was du gelernt hast, Junge.;Nutze, oli du gelernt hast, Junge.
+You will also be rewarded with an item for every so many orbs you deposit into the hole.;Palkitaan myös esineellä jokaisesta niin monesta pallosta, jonka talletat reikään.
+Indem Sie diese Formen verzaubern, verwandeln Sie sie in Kugeln, die Sie in das Loch in der Mitte stecken kÃ¶nnen.;Indem Sie diese Formen verzaubern, verwandeln Sie sie in Kugeln, die Sie in das Loch in der Mitte stecken kÃ¶nnen.
+In dieser Kammer sehen Sie verschiedene Formenhaufen. Sie kÃ¶nnen diese Formen aufnehmen und sie mit den ZaubersprÃ¼chen â€žSchmuck verzaubernâ€œ verzaubern.;Dieser Kammer sehen Sie verschiedene Formenhaufen. Sie kÃ¶nnen diese Formen aufnehmen und sie mit den ZaubersprÃ¼chen â€žSchmuck verzaubernâ€œ verzaubern.
+Sie erhalten Verzauberungs-Pizazz-Punkte fÃ¼r jeweils zehn Formen, die Sie umwandeln, und die Punkte, die Sie erhalten, hÃ¤ngen von der Stufe des Verzauberungszaubers ab, den Sie wirken.;Sie erhalten Verzauberungs-Pizazz-Punkte fÃ¼r jeweils zehn Formen, die Sie umwandeln, und die Punkte, die Sie erhalten, hÃ¤ngen von der Stufe des Verzauberungszaubers ab, den Sie wirken.
+Sie erhalten einen Bonus-Pizazz-Punkt fÃ¼r die Verzauberung einer bestimmten Form zu einem bestimmten Zeitpunkt, den ich regelmÃ¤ÃŸig ausrufen werde.;Sie erhalten einen Bonus-Pizazz-Punkt fÃ¼r die Verzauberung einer bestimmten Form zu einem bestimmten Zeitpunkt, den ich regelmÃ¤ÃŸig ausrufen werde.
+GrÃ¼ÃŸe Junge. Wie kann ich Sie aufklÃ¤ren?;GrÃ¼ÃŸe Junge. Wie kann ich Sie aufklären?
+Estoy seguro de que he visto entradas asÃ­ en algÃºn lugar antes...;Estoy seguro de que he visto entradas asÃ en algÃºn lugar antes...
+Â¿Pero esta firma que estÃ¡ encontrando es la misma que creÃ³ este experimento de \"teletransporte lento\"?;Â¿Pero esta firma que estÃ¡ encontrando es la misma que creÃ³ este experimento de \"teletransporte lento\"?
+Bueno, ese mago zamorakiano mencionÃ³ que tenÃ­a una fuerte aura mÃ¡gica, Â¿tal vez sea eso?;Bueno, ese mago zamorakiano mencionÃ³ que tenÃa una fuerte aura mÃ¡gica, Â¿tal vez sea eso?
+Exactamente. Escucha, tal vez pueda bloquear su magia de teletransportaciÃ³n usando tu CommOrb, pero necesitarÃ© que te acerques a Ã©l y, si tenemos mala suerte, terminarÃ¡;Exactamente. Escucha, tal vez pueda bloquear su magia de teletransportaciÃ³n usando tu CommOrb, pero necesitarè que te acerques a Ã©l y, si tenemos mala suerte, terminarÃ¡
+Hace muchos aÃ±os los Caballeros del Templo estaban estudiando tÃ©cnicas de teletransportaciÃ³n, y encontraron una extraÃ±a dimensiÃ³n a la que se accedÃ­a al teletransportarse.;Hace muchos años los Caballeros del Templo estaban estudiando técnicas de teletransportaciÃ³n, y encontraron una extraña dimensiÃ³n a la que se accedÃa al teletransportarse.
+Bueno, puedo ver que eso podrÃ­a ser motivo de preocupaciÃ³n, pero ahora mismo nuestra prioridad es Solus, Â¿verdad?;Bueno, puedo ver que eso podrÃa ser motivo de preocupaciÃ³n, pero ahora mismo nuestra prioridad es Solus, Â¿verdad?
+SÃ­, [PLAYER_NAME], tienes razÃ³n. Pero si estÃ¡ usando esta tÃ©cnica de 'teletransporte lento', Â¡eso significa que serÃ¡ mucho mÃ¡s difÃ­cil atraparlo!;SÃ, [PLAYER_NAME], tienes razÃ³n. Pero si estÃ¡ usando esta tÃ©cnica de 'teletransporte lento', Â¡eso significa que serÃ¡ mucho mÃ¡s difÃcil atraparlo!
+Bueno, dondequiera que los hayas visto, Â¡supongo que Ã©l estÃ¡ cerca!;Bueno, dondequiera que los hayas visto, Â¡supongo que Ã©l estÃ¡ cerca!
+Es... Â¿un billete?;Es... Â¿un billete?
+Bueno, no tenemos nada mÃ¡s que probar, Â¿verdad? Â¿QuÃ© tendrÃ© que hacer?;Bueno, no tenemos nada mÃ¡s que probar, Â¿verdad? Â¿Qué tendré que hacer?
+No, no lo era: la agresividad estaba muy aumentada y habÃ­a numerosos fallos de percepciÃ³n, alucinaciones y cosas similares.;Ei, no lo era: la agresividad estaba muy aumentada y habÃa numerosos fallos de percepciÃ³n, alucinaciones y cosas hasonlóes.
+Is there anybody there?;Onko siellä ketään?
+He oÃ­do rumores de ranas gigantes en una zona subterrÃ¡nea...;Hän oÃdo rumores de ranas gigantes en una zona subterrÃ¡nea...
+Â¡La rana de donde vinieron debe ser enorme!;Â¡La rana de donde vinieron debe ser enorme!
+Son... Â¿unas ancas de rana grandes?;Poika... Â¿unas ancas de rana grandes?
+Â¿Es... piel?;Â¿Es... piel?
+Â¿Pelo? Â¿CÃ³mo nos ayuda eso a encontrarlo?;¿Pelo? Â¿CÃ³mo nos ayuda eso a encontrarlo?
+Sir Vyvin can be found in Falador Castle, and he will sell you any equipment appropriate to your reputation level.;Sir Vyvin löytyy Faladorin linnasta, ja hän myy sinulle mainetasosi sopivat varusteet.
+Bien Amik, Â¡gracias por explicarnos!;Bien Amik, Â¡gracias por explicarnos!
+Por supuesto. Â¿QuÃ© necesitas?;Por supuesto. Â¿Qué necesitas?
+Uh... sÃ­, sobre eso...;Öh... joo, järjetöntä...
+Exchange All: 85 coins.;Vaihda kaikki: 85 kolikkoa.
+Â¿Tabla de intercambio?;Â¿Tabla de intercambio?
+Â¡Â¿QuÃ©?! Â¡No seas absurdo! Â¡No soy un fantasma! Â¿CÃ³mo puedes decir algo asÃ­?;Â¡Â¿QuÃ©?! ¡No meret absurdi! Â¡Ei soijaa ja fantasmaa! Â¿CÃ³mo puedes decir algo asÃ?
+What doesn't lie between Morytania and Asgarnia?;Mikä ei ole Morytanian ja Asgarnian välissä?
+Sounds a bit weird though. What does it involve?;Kuulostaa kuitenkin vähän oudolta. Mitä se sisältää?
+What is the defence level requirement to wear a Mystic Hat?;Mikä on puolustustason vaatimus käyttää Mystic Hattua?
+Well, what better to help the Lumbridge Guide than a 'Cake of Guidance'. Would you like to help?;No, mikä sen parempaa auttaa Lumbridgen opasta kuin "Ohjeiden kakku". Haluatko auttaa?
+How can I help the Lumbridge Guide?;Kuinka voin auttaa Lumbridge-opasta?
+Well, I'm not too familiar with the fine details, you'll have to go and speak with Traiborn in the Wizards' Tower. He'll know what you need.;No, en ole kovin perehtynyt hienoihin yksityiskohtiin, sinun on mentävä ja puhuttava Traibornin kanssa Wizards' Towerissa. Hän tietää, mitä tarvitset.
+Yes, I'm sure I can make a cake.;Kyllä, olen varma, että osaan tehdä kakun.
+Okay, thanks, I'll get right on it!;Okei, kiitos, ryhdyn heti!
+Â¿Y eso es todo?;Â¿Y eso es todo?
+Meeeiouw! Mewwww!;Meeeiouw! Mewwww!
+Mencionaste una tarea que requiere mi Ãºnica-;Mencionaste una tarea que requiere mi Ãºnica-
+This is Thorkir, your majesty.;Tämä on Thorkir, teidän majesteettinne.
+SÃ­, Evil Bob me capturÃ³ y metiÃ³ en esta prisiÃ³n.;SÃ, Evil Bob me capturÃ³ y metiÃ³ en esta prisiÃ³n.
+Â¡Muchas gracias por tu ayuda! Toma, diez un regalo:;Â¡Muchas gracias por tu ayuda! Toma, diez un regalo:
+Oh. Lo siento.;Voi. Lo siento.
+Â¿No ves que estoy muy ocupado aquÃ­? Â¡Vete contigo!;Â¿No ves que estoy muy ocupado aquÃ? Â¡Vete contigo!
+Estoy buscando a un hombre llamado Marley. Â¿Lo has visto?;Estoy buscando un hombre lamado Marley. Â¿Lolla on visto?
+Nos hemos quedado sin ballestas, pero aparentemente tienen muchas. Si alguien nos adquiriera un par, se lo agradecerÃ­a mucho.;Nos hemos quedado sin ballestas, pero aparentemente tienen muchas. Si alguien nos adquiriera un par, se lo agradecerÃa mucho.
+Â¿Ese tipo todavÃ­a estÃ¡ ahÃ­ afuera? EstÃ¡ empezando a ser una molestia. QuizÃ¡s sea hora de que tenga un pequeÃ±o accidente...;Â¿Ese tipo todavÃa estÃ¡ ahÃ afuera? EstÃ¡ empezando a ser una molestia. QuizÃ¡s sea hora de que tenga un pequeño véletlen...
+De todos modos, digamos que fuÃ©ramos Black Arm Gang, Â¿quÃ© querrÃ­as de nosotros?;De todos modos, digamos que fuéramos Black Arm Gang, Â¿qué querrÃas de nosotros?
+Â¡Lo que quieras, no me interesa!;Â¡Lo que quieras, no me interesa!
+Â¿Ya tienes esas ballestas para mÃ­?;Â¿Ya tienes esas ballestas para mÃ?
+Â¡ServirÃ¡! Â¡Gracias!;¡ServirÃ¡! ¡Kiitos!
+Parece que eres mÃ¡s hÃ¡bil de lo que originalmente te creÃ­a. Bien hecho. ConsidÃ©rate un miembro de Black Arm Gang. Te sugiero que ahora vayas y te familiarices con el resto de la pandilla.;Parece que eres mÃ¡s hÃ¡bil de lo que originalmente te creÃa. Bien hecho. Considérate un miembro de Black Arm Gang. Te sugiero que ahora vayas y te familiarices con el resto de la pandilla.
+Entonces Â¿serÃ© recompensado por recuperar la mitad del escudo?;Entonces Â¿serè recompensado por recuperar la mitad del escudo?
+Eso suena plausible. HabrÃ¡ que esperar que otro aventurero pueda recuperar esa mitad.;Eso suena uskottavaa. HabrÃ¡ que esperar que otro aventurero pueda recuperar esa mitad.
+Me temo que eso es sÃ³lo la mitad del certificado de recompensa. TendrÃ¡s que conseguir la otra mitad y unirlos si quieres reclamar la recompensa.;Me temo que eso es sÃ³lo la mitad del certificado de recompensa. TendrÃ¡s que conseguir la otra mitad y unirlos si quieres reclamar la recompensa.
+Me temo que la recompensa es por recuperar el escudo completo. Sin embargo, lo que harÃ© serÃ¡ emitirte dos medios certificados. Si otro aventurero me devuelve la otra mitad del escudo, harÃ© lo mismo por Ã©l.;Me temo que la recompensa es por recuperar el escudo completo. Sin embargo, lo que harè serÃ¡ emitirte dos medios certificados. Si otro aventurero me devuelve la otra mitad del escudo, harè lo mismo por èl.
+Â¿Has encontrado el escudo? Â¡Echemos un vistazo!;Onko encontrado el escudoa? Â¡Echemos un vistazo!
+Obtuve esta mitad de Black Arm Gang. Me pregunto si Phoenix Gang podrÃ­a quedarse con la otra mitad.;Black Arm Gangin ehdoton. Pregunto si Phoenix Gang podrÃa quedarse con la otra mitad.
+De todos modos, parece que me has hecho un favor. Aunque estoy un poco confundido acerca de lo que pasÃ³ aquÃ­.;De todos modos, parece que me has hecho un favor. Aunque estoy un poco confundido acerca de lo que pasÃ³ aquÃ.
+Bueno, llegar a Ape Atoll es todo un fastidio.  Â¿Tiene alguna manera de hacer que sea mÃ¡s fÃ¡cil llegar allÃ­?;Bueno, llegar a Ape Atoll es todo un fastidio.  Â¿Tiene alguna manera de hacer que sea mÃ¡s fÃ¡cil llegar allÃ?
+TÃº tampoco recuerdas mi nombre, Â¿verdad? It's [PLAYER_NAME].;TÃº tampoco recuerdas mi nombre, Â¿verdad? Se on [PLAYER_NAME].
+Parece que todavÃ­a tienes que considerar una pregunta obvia. Â¿No te preguntas cÃ³mo terminÃ© en esa celda?;Parece que todavÃa tienes que regardar una pregunta obvia. Â¿No te preguntas cÃ³mo terminÃ© en esa celda?
+Al parecer Ã©l solÃ­a estar a cargo de este lugar. Esa carta que encontrÃ© mencionaba el asilo, que parece un buen lugar para comenzar mi bÃºsqueda.;Al parecer Ã©l solÃa estar a cargo de este lugar. Esa carta que encontré mencionaba el asilo, que parece un buen lugar para comenzar mi bÃºsqueda.
+Eso es confidencial.;Eso on luottamuksellinen.
+Â¿Una ruina dentro de una ruina? Â¡QuÃ© emocionante! Hemos encontrado algo extraÃ±o que no parece ser de origen enano, pero aÃºn es temprano para nosotros aquÃ­, por lo que no hemos podido aprender mucho todavÃ­a.;Â¿Una ruina dentro de una ruina? Â¡Qué emocionante! Hemos encontrado algo extraño que no parece ser de origen enano, pero aÃºn es temprano para nosotros aquÃ, por lo que no hemos podido aprender mucho todavÃa.
+Â¡Â¿Bajar por el agujero?! Â¡Eres mucho mÃ¡s valiente que yo! Hay muchas rocas por ahÃ­. Estoy seguro de que podrÃ­as atar una cuerda a uno de ellos. Aunque necesitarÃ­as una cuerda bastante larga. Toma, puedes usar el mÃ­o.;Â¡Â¿Bajar por el agujero?! Â¡Eres mucho mÃ¡s valiente que yo! Hay muchas rocas por ahÃ. Estoy seguro de que podrÃas atar una cuerda a uno de ellos. Aunque necesitarÃas una cuerda basante larga. Toma, puedes usar el mÃo.
+Vous constaterez que de nombreux habitants de ce monde ont des choses utiles à vous dire. En cliquant sur eux, vous pouvez leur parler.;Vous constaterez que de nombreux habitants de ce monde ont des choses utilis à vous dire. En cliquant sur eux, vous pouvez leur parler.
+Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !;Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !
+Bonjour ! Je vois que vous venez d'arriver dans le monde de Gielinor. Mon travail consiste à accueillir tous les nouveaux visiteurs. Alors, bienvenue !;Bonjour! Je vois que vous venez d'arriver dans le monde de Gielinor. Mon travail koostuu à accueillir tous les nouveaux visiteurs. Alors, bienvenue!
+Vous remarquerez une icône clignotante représentant une clé. Veuillez cliquer dessus pour continuer le tutoriel.;Vous remarquerez une icône clignotante représentant une clé. Veuillez cliquer dessus pour jatkaja le tutoriel.
+On dirait que vous progressez bien ! Le menu que vous venez d'ouvrir est l'un des nombreux menus disponibles. Vous découvrirez les autres au fur et à mesure que vous avancerez dans le tutoriel.;On dirait que vous progressez bien ! Le menu que vous venez d'ouvrir est l'un des nombreux menus disponibles. Vous découvrirez les autres au fur et à mesure que vous avancerez dans le tutoriel.
+Bonjour, nouveau venu. Je m'appelle Brynna. Mon travail consiste à t'enseigner les compétences qui te permettront de survivre dans ce monde.;Bonjour, uusi tapahtumapaikka. Hyvä Brynna. Mon travail koostuu à t'enseigner les compétences qui te permettront de survivre dans ce monde.
+Bon retour parmi nous. Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !;Bon retour parmi nous. Vous avez déjà appris la première chose nécessaire pour réussir dans ce monde : parler aux autres !
+Â¿Si?;Si?
+SÃ­, creo que puedo trabajar con esto. Dame un momento...;SÃ, creo que puedo trabajar con esto. Dame un momento...
+AllÃ¡. Puede recoger su nuevo artÃ­culo del banco de trabajo. DÃ©jame saber si quieres alguna informaciÃ³n sobre cÃ³mo funciona.;AllÃ¡. Puede recoger su nuevo artÃculo del banco de trabajo. DÃ©jame saber si quieres alguna informaciÃ³n sobre cÃ³mo funciona.
+Hmm... No... Esto no estÃ¡ bien.;Hmm... Ei... Esto no estÃ¡ bien.
