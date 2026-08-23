@@ -5223,3 +5223,137 @@ View <col=ff9040>Gauntlet Map</col>;<col=ff9040>Gauntlet-Karte</col> anzeigen
 Pedal;Pedal
 Buy: 8 x Split log;Kaufen: 8 x Spaltholz
 Échanger avec;Échanger avec
+Withdraw-12500;Abheben-12500
+Deposit-12500;Anzahlung: 12500
+Deposit-28;Anzahlung-28
+Buy: 400 x Aether rune;Kaufen: 400 x Ätherrune
+Shape-Air;Form-Luft
+Shape-Water;Formwasser
+Shape-Fire;Formfeuer
+Shape-Earth;Form-Erde
+Select Fragment 3;Wählen Sie Fragment 3 aus
+Rotate the Fragment;Drehen Sie das Fragment
+Select Fragment 2;Wählen Sie Fragment 2 aus
+Flip Fragment Over;Fragment umdrehen
+Move Fragment Left;Fragment nach links verschieben
+Select Fragment 1;Wählen Sie Fragment 1 aus
+Move Fragment Down;Fragment nach unten verschieben
+Move Fragment Right;Fragment nach rechts verschieben
+Shape-Mind;Formgeist
+Move Fragment Up;Fragment nach oben verschieben
+Withdraw-25000;Auszahlung-25000
+Deposit-25000;Anzahlung: 25.000
+Withdraw-719;Rückzug-719
+Deposit-719;Anzahlung-719
+Charter-to Corsair Cove;Charterflug nach Corsair Cove
+Withdraw-344;Rückzug-344
+Deposit-344;Anzahlung-344
+Withdraw-977;Rückzug-977
+Deposit-977;Anzahlung-977
+Default quantity: 977;Standardmenge: 977
+Withdraw-175000000;Abheben-175000000
+Default quantity: 175,000,000;Standardmenge: 175.000.000
+Restore <col=ff9040>Minimap</col>;<col=ff9040>Minikarte</col> wiederherstellen
+Default quantity: 28;Standardmenge: 28
+Last-destination (DIR);Letztes Ziel (DIR)
+Enter-cloud;Enter-Wolke
+Submit;Einreichen
+Deposit-175000000;Anzahlung-175000000
+Buy: 1 x Water tiara;Kaufen Sie: 1 x Wassertiara
+Withdraw-130;Rückzug-130
+Deposit-130;Anzahlung: 130
+Examine <col=ff981f>Mist rune;Untersuche die <col=ff981f>Nebelrune
+Select <col=ff981f>Mist rune;Wählen Sie <col=ff981f>Nebelrune
+Sell: 100 x Cowhide;Verkaufe: 100 x Rindsleder
+Sell: 1 x Bronze dagger;Verkaufe: 1 x Bronzedolch
+Buy: 1 x Rune pickaxe;Kaufen Sie: 1 x Runenspitzhacke
+Default quantity: 2,121,212,121;Standardmenge: 2.121.212.121
+Withdraw-2121212121;Zurückziehen-2121212121
+Deposit-2121212121;Anzahlung-2121212121
+Sell: 41 x Big bones;Verkaufe: 41 x Große Knochen
+Go-up;Geh hoch
+Buy: 1 x Swampbark armour set;Kaufen Sie: 1 x Swampbark-Rüstungsset
+Withdraw-106500;Abheben-106500
+Deposit-106500;Anzahlung: 106.500
+Default quantity: 106,500;Standardmenge: 106.500
+Buy: 100 x Anchovy pizza;Kaufen Sie: 100 x Sardellenpizza
+Buy: 1 x Snakeskin bandana;Kaufen Sie: 1 x Schlangenleder-Bandana
+Buy: 100 x Blighted karambwan;Kaufen Sie: 100 x Verdorbenes Karambwan
+Buy: 1 x Bandos tassets;Kaufen Sie: 1 x Bandos-Tasse
+Buy: 1 x Red dragonhide set;Kaufen Sie: 1 x Set aus rotem Drachenleder
+Buy: 1 x Zombie helmet;Kaufen Sie: 1 x Zombie-Helm
+Swim-to;Schwimmen
+Buy: 1 x Teal boots;Kaufen: 1 x blaugrüne Stiefel
+Withdraw-8600;Abheben-8600
+Deposit-8600;Anzahlung: 8600
+Withdraw-160;Rückzug-160
+Deposit-160;Anzahlung: 160
+Sell: 110 x Steel nails;Verkaufe: 110 x Stahlnägel
+The Summer Shore;Das Sommerufer
+Deposit-1750;Anzahlung: 1750
+Withdraw-1750;Rückzug-1750
+Quick-open;Schnell öffnend
+Default quantity: 3,200;Standardmenge: 3.200
+View Slayer on the Wiki;Sehen Sie sich Slayer im Wiki an
+Wyrmscraig Cavern;Wyrmscraig-Höhle
+Withdraw-5500;Auszahlung-5500
+Deposit-6500;Anzahlung: 6500
+Withdraw-6500;Abheben-6500
+Deposit-5500;Anzahlung: 5500
+Withdraw-680000;Abheben-680000
+Scorch;Versengen
+Flare;Fackel
+Ring-last-destination (BLP);Ring-letztes Ziel (BLP)
+Zerstören;Zerstören
+Take-one;Nimm eins
+Default quantity: 15,000;Standardmenge: 15.000
+Withdraw-1899;Rückzug-1899
+Deposit-1899;Anzahlung-1899
+Buy: 5,000 x Air rune;Kauf: 5.000 x Luftrune
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐµÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Withdraw-45000;Abheben-45000
+Deposit-45000;Anzahlung: 45.000
+Default quantity: 45,000;Standardmenge: 45.000
+Deposit-942;Anzahlung-942
+Withdraw-942;Rückzug-942
+Buy: 100 x Iron arrow;Kaufen Sie: 100 x Eisenpfeil
+Release all placeholders (20);Alle Platzhalter freigeben (20)
+Withdraw-296;Rückzug-296
+Deposit-296;Anzahlung-296
+Default quantity: 296;Standardmenge: 296
+Buy: 30 x Blighted vengeance sack;Kaufen Sie: 30 x Blighted-Rachesack
+Buy: 1 x Ring of recoil;Kaufen Sie: 1 x Rückstoßring
+Buy: 1 x Black d'hide chaps;Kaufen Sie: 1 x Black d'Hide Chaps
+Default quantity: 12,000;Standardmenge: 12.000
+Buy: 10,000 x Nature rune;Kauf: 10.000 x Naturrune
+Cross-bridge;Querbrücke
+Withdraw-340;Rückzug-340
+Deposit-340;Anzahlung: 340
+Default quantity: 340;Standardmenge: 340
+Store-1,000;Store-1.000
+Release all placeholders (7);Alle Platzhalter freigeben (7)
+Remove <col=ff981f>Dragonstone bolts (e);Entfernen Sie die <col=ff981f>Dragonstone-Schrauben (e).
+Buy: 1 x Botanical pie;Kaufen Sie: 1 x Botanischer Kuchen
+Select-trial;Select-Testversion
+Deliver-rum;Liefer-Rum
+Minimise;Minimieren
+Exit trial;Verlassen Sie den Prozess
+Quick-reset trial;Schnell-Reset-Testversion
+Reset trial;Testversion zurücksetzen
+Buy: 1 x Strength amulet (t);Kaufen: 1 x Stärke-Amulett (t)
+Deposit-1009;Anzahlung-1009
+Withdraw-1009;Rückzug-1009
+Sell: 27 x Sapphire ring;Verkaufe: 27 x Saphirring
+Release all placeholders (2);Alle Platzhalter freigeben (2)
+Default quantity: 1,009;Standardmenge: 1.009
+Sell: 8 x Ring of wealth;Verkaufe: 8 x Ring des Reichtums
+Make <col=ff9040>Diamond amulet (u)</col>;Stelle <col=ff9040>Diamantamulett (u)</col> her
+Make <col=ff9040>Diamond ring</col>;Machen Sie einen <col=ff9040>Diamantring</col>
+Buy: 1 x Dwellberries;Kaufen: 1 x Dwellberries
+Small net;Kleines Netz
+Make Party;Machen Sie Party
+Friends/Clan Only;Nur Freunde/Clan
+View Party:;Party ansehen:
+Flip;Umdrehen
+Begin;Beginnen

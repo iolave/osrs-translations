@@ -5223,3 +5223,137 @@ View <col=ff9040>Gauntlet Map</col>;Bekijk <col=ff9040>Handschoenkaart</col>
 Pedal;Pedaal
 Buy: 8 x Split log;Koop: 8 x gekloofde boomstammen
 Échanger avec;Wisselaar avec
+Withdraw-12500;Intrekken-12500
+Deposit-12500;Borg-12500
+Deposit-28;Borg-28
+Buy: 400 x Aether rune;Koop: 400 x Aether-rune
+Shape-Air;Vorm-lucht
+Shape-Water;Vorm-Water
+Shape-Fire;Vorm-vuur
+Shape-Earth;Vorm-Aarde
+Select Fragment 3;Selecteer Fragment 3
+Rotate the Fragment;Draai het fragment
+Select Fragment 2;Selecteer Fragment 2
+Flip Fragment Over;Fragment omdraaien
+Move Fragment Left;Verplaats fragment naar links
+Select Fragment 1;Selecteer Fragment 1
+Move Fragment Down;Verplaats fragment naar beneden
+Move Fragment Right;Verplaats fragment naar rechts
+Shape-Mind;Vorm-geest
+Move Fragment Up;Verplaats fragment omhoog
+Withdraw-25000;Intrekken-25000
+Deposit-25000;Borgsom-25000
+Withdraw-719;Intrekken-719
+Deposit-719;Borg-719
+Charter-to Corsair Cove;Charter-naar Corsair Cove
+Withdraw-344;Intrekken-344
+Deposit-344;Borg-344
+Withdraw-977;Intrekken-977
+Deposit-977;Borg-977
+Default quantity: 977;Standaard aantal: 977
+Withdraw-175000000;Intrekken-175000000
+Default quantity: 175,000,000;Standaardhoeveelheid: 175.000.000
+Restore <col=ff9040>Minimap</col>;Herstel <col=ff9040>Minimap</col>
+Default quantity: 28;Standaard aantal: 28
+Last-destination (DIR);Laatste bestemming (DIR)
+Enter-cloud;Enter-cloud
+Submit;Indienen
+Deposit-175000000;Borgsom-175000000
+Buy: 1 x Water tiara;Koop: 1 x watertiara
+Withdraw-130;Intrekken-130
+Deposit-130;Borg-130
+Examine <col=ff981f>Mist rune;Onderzoek <col=ff981f>Mistrune
+Select <col=ff981f>Mist rune;Selecteer <col=ff981f>Mistrune
+Sell: 100 x Cowhide;Verkoop: 100 x koeienhuid
+Sell: 1 x Bronze dagger;Verkoop: 1 x Bronzen dolk
+Buy: 1 x Rune pickaxe;Koop: 1 x Rune-houweel
+Default quantity: 2,121,212,121;Standaardhoeveelheid: 2.121.212.121
+Withdraw-2121212121;Intrekken-2121212121
+Deposit-2121212121;Borg-2121212121
+Sell: 41 x Big bones;Verkoop: 41 x Grote botten
+Go-up;Ga omhoog
+Buy: 1 x Swampbark armour set;Koop: 1 x Swampbark-pantserset
+Withdraw-106500;Intrekken-106500
+Deposit-106500;Borgsom-106500
+Default quantity: 106,500;Standaardhoeveelheid: 106.500
+Buy: 100 x Anchovy pizza;Koop: 100 x Ansjovispizza
+Buy: 1 x Snakeskin bandana;Koop: 1 x slangenleer-bandana
+Buy: 100 x Blighted karambwan;Koop: 100 x Verwoeste karambwan
+Buy: 1 x Bandos tassets;Koop: 1 x Bandos-tassets
+Buy: 1 x Red dragonhide set;Kopen: 1 x Rode drakenhuidenset
+Buy: 1 x Zombie helmet;Koop: 1 x Zombiehelm
+Swim-to;Zwem naar
+Buy: 1 x Teal boots;Koop: 1 x Teal-laarzen
+Withdraw-8600;Intrekken-8600
+Deposit-8600;Borg-8600
+Withdraw-160;Intrekken-160
+Deposit-160;Borg-160
+Sell: 110 x Steel nails;Verkoop: 110 x stalen spijkers
+The Summer Shore;De zomerkust
+Deposit-1750;Borg-1750
+Withdraw-1750;Intrekken-1750
+Quick-open;Snel geopend
+Default quantity: 3,200;Standaardhoeveelheid: 3.200
+View Slayer on the Wiki;Bekijk Slayer op de Wiki
+Wyrmscraig Cavern;Wyrmscraig-grot
+Withdraw-5500;Intrekken-5500
+Deposit-6500;Borg-6500
+Withdraw-6500;Intrekken-6500
+Deposit-5500;Borg-5500
+Withdraw-680000;Intrekken-680000
+Scorch;Schroeien
+Flare;Gloed
+Ring-last-destination (BLP);Ring-laatste bestemming (BLP)
+Zerstören;Zerstören
+Take-one;Neem één
+Default quantity: 15,000;Standaardhoeveelheid: 15.000
+Withdraw-1899;Intrekken-1899
+Deposit-1899;Deposit-1899
+Buy: 5,000 x Air rune;Koop: 5.000 x Luchtrune
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐµÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Withdraw-45000;Intrekken-45000
+Deposit-45000;Borg-45000
+Default quantity: 45,000;Standaardhoeveelheid: 45.000
+Deposit-942;Borg-942
+Withdraw-942;Intrekken-942
+Buy: 100 x Iron arrow;Koop: 100 x ijzeren pijl
+Release all placeholders (20);Alle tijdelijke aanduidingen vrijgeven (20)
+Withdraw-296;Intrekken-296
+Deposit-296;Borg-296
+Default quantity: 296;Standaardhoeveelheid: 296
+Buy: 30 x Blighted vengeance sack;Koop: 30 x Blighted wraakzak
+Buy: 1 x Ring of recoil;Koop: 1 x terugslagring
+Buy: 1 x Black d'hide chaps;Koop: 1 x Black d'hide chaps
+Default quantity: 12,000;Standaardhoeveelheid: 12.000
+Buy: 10,000 x Nature rune;Koop: 10.000 x Natuurrune
+Cross-bridge;Kruisbrug
+Withdraw-340;Intrekken-340
+Deposit-340;Borg-340
+Default quantity: 340;Standaardhoeveelheid: 340
+Store-1,000;Winkel-1.000
+Release all placeholders (7);Alle tijdelijke aanduidingen vrijgeven (7)
+Remove <col=ff981f>Dragonstone bolts (e);Verwijder <col=ff981f>Dragonstone-bouten (e)
+Buy: 1 x Botanical pie;Koop: 1 x Botanische taart
+Select-trial;Select-proefperiode
+Deliver-rum;Lever-rum
+Minimise;Minimaliseer
+Exit trial;Verlaat de rechtszaak
+Quick-reset trial;Proefversie met snelle reset
+Reset trial;Proef opnieuw instellen
+Buy: 1 x Strength amulet (t);Koop: 1 x Sterkte-amulet (t)
+Deposit-1009;Borg-1009
+Withdraw-1009;Intrekken-1009
+Sell: 27 x Sapphire ring;Verkoop: 27 x Saffierring
+Release all placeholders (2);Alle tijdelijke aanduidingen vrijgeven (2)
+Default quantity: 1,009;Standaardhoeveelheid: 1.009
+Sell: 8 x Ring of wealth;Verkopen: 8 x Ring van rijkdom
+Make <col=ff9040>Diamond amulet (u)</col>;Maak <col=ff9040>Diamantenamulet (u)</col>
+Make <col=ff9040>Diamond ring</col>;Maak <col=ff9040>Diamantenring</col>
+Buy: 1 x Dwellberries;Koop: 1 x Dwellberries
+Small net;Klein net
+Make Party;Maak een feestje
+Friends/Clan Only;Alleen vrienden/clan
+View Party:;Bekijk partij:
+Flip;Omdraaien
+Begin;Beginnen

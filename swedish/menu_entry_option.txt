@@ -5223,3 +5223,137 @@ View <col=ff9040>Gauntlet Map</col>;Visa <col=ff9040>Gauntlet-karta</col>
 Pedal;Trampa
 Buy: 8 x Split log;Köp: 8 x Delad stock
 Échanger avec;Échanger avec
+Withdraw-12500;Uttag-12500
+Deposit-12500;Deposition-12500
+Deposit-28;Insättning-28
+Buy: 400 x Aether rune;Köp: 400 x Eterruna
+Shape-Air;Shape-Air
+Shape-Water;Shape-vatten
+Shape-Fire;Shape-Fire
+Shape-Earth;Form-jord
+Select Fragment 3;Välj Fragment 3
+Rotate the Fragment;Rotera fragmentet
+Select Fragment 2;Välj Fragment 2
+Flip Fragment Over;Vänd fragmentet över
+Move Fragment Left;Flytta fragment åt vänster
+Select Fragment 1;Välj fragment 1
+Move Fragment Down;Flytta fragment nedåt
+Move Fragment Right;Flytta fragment åt höger
+Shape-Mind;Shape-Mind
+Move Fragment Up;Flytta fragment uppåt
+Withdraw-25000;Uttag-25000
+Deposit-25000;Deposition-25000
+Withdraw-719;Uttag-719
+Deposit-719;Deposition-719
+Charter-to Corsair Cove;Charter till Corsair Cove
+Withdraw-344;Uttag-344
+Deposit-344;Insättning-344
+Withdraw-977;Uttag-977
+Deposit-977;Deposition-977
+Default quantity: 977;Standardantal: 977
+Withdraw-175000000;Uttag-175000000
+Default quantity: 175,000,000;Standardkvantitet: 175 000 000
+Restore <col=ff9040>Minimap</col>;Återställ <col=ff9040>Minimap</col>
+Default quantity: 28;Standardantal: 28
+Last-destination (DIR);Sista destination (DIR)
+Enter-cloud;Enter-moln
+Submit;Överlämna
+Deposit-175000000;Deposition-175000000
+Buy: 1 x Water tiara;Köp: 1 x Vattentiara
+Withdraw-130;Uttag-130
+Deposit-130;Deposition-130
+Examine <col=ff981f>Mist rune;Undersök <col=ff981f>Mistruna
+Select <col=ff981f>Mist rune;Välj <col=ff981f>Dimruna
+Sell: 100 x Cowhide;Sälj: 100 x kohud
+Sell: 1 x Bronze dagger;Sälj: 1 x bronsdolk
+Buy: 1 x Rune pickaxe;Köp: 1 x Runhacka
+Default quantity: 2,121,212,121;Standardkvantitet: 2 121 212 121
+Withdraw-2121212121;Uttag-2121212121
+Deposit-2121212121;Deposition-2121212121
+Sell: 41 x Big bones;Sälj: 41 x stora ben
+Go-up;Gå upp
+Buy: 1 x Swampbark armour set;Köp: 1 x Swampbark pansarset
+Withdraw-106500;Uttag-106500
+Deposit-106500;Deposition-106500
+Default quantity: 106,500;Standardantal: 106 500
+Buy: 100 x Anchovy pizza;Köp: 100 x Ansjovispizza
+Buy: 1 x Snakeskin bandana;Köp: 1 x Snakeskin bandana
+Buy: 100 x Blighted karambwan;Köp: 100 x Blighted karambwan
+Buy: 1 x Bandos tassets;Köp: 1 x Bandos dosor
+Buy: 1 x Red dragonhide set;Köp: 1 x Red dragonhide set
+Buy: 1 x Zombie helmet;Köp: 1 x Zombiehjälm
+Swim-to;Simma till
+Buy: 1 x Teal boots;Köp: 1 x Teal boots
+Withdraw-8600;Uttag-8600
+Deposit-8600;Deposition-8600
+Withdraw-160;Uttag-160
+Deposit-160;Deposition-160
+Sell: 110 x Steel nails;Sälj: 110 x Stålspik
+The Summer Shore;Sommarstranden
+Deposit-1750;Deposition-1750
+Withdraw-1750;Uttag-1750
+Quick-open;Snabböppning
+Default quantity: 3,200;Standardantal: 3 200
+View Slayer on the Wiki;Se Slayer på Wiki
+Wyrmscraig Cavern;Wyrmscraig Cavern
+Withdraw-5500;Uttag-5500
+Deposit-6500;Deposition-6500
+Withdraw-6500;Uttag-6500
+Deposit-5500;Deposition-5500
+Withdraw-680000;Uttag-680000
+Scorch;Bränna
+Flare;Blossa
+Ring-last-destination (BLP);Ring-sista-destination (BLP)
+Zerstören;Zerstören
+Take-one;Ta en
+Default quantity: 15,000;Standardantal: 15 000
+Withdraw-1899;Återkalla-1899
+Deposit-1899;Deposition-1899
+Buy: 5,000 x Air rune;Köp: 5 000 x Luftruna
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐµÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Withdraw-45000;Uttag-45000
+Deposit-45000;Deposition-45000
+Default quantity: 45,000;Standardantal: 45 000
+Deposit-942;Deposition-942
+Withdraw-942;Uttag-942
+Buy: 100 x Iron arrow;Köp: 100 x Järnpil
+Release all placeholders (20);Släpp alla platshållare (20)
+Withdraw-296;Uttag-296
+Deposit-296;Deposition-296
+Default quantity: 296;Standardantal: 296
+Buy: 30 x Blighted vengeance sack;Köp: 30 x Blighted vengeance säck
+Buy: 1 x Ring of recoil;Köp: 1 x Ring av rekyl
+Buy: 1 x Black d'hide chaps;Köp: 1 x Black d'hide chaps
+Default quantity: 12,000;Standard kvantitet: 12 000
+Buy: 10,000 x Nature rune;Köp: 10 000 x Naturruna
+Cross-bridge;Överbrygga
+Withdraw-340;Uttag-340
+Deposit-340;Deposition-340
+Default quantity: 340;Standardantal: 340
+Store-1,000;Butik-1 000
+Release all placeholders (7);Släpp alla platshållare (7)
+Remove <col=ff981f>Dragonstone bolts (e);Ta bort <col=ff981f>Dragonstone-bultar (e)
+Buy: 1 x Botanical pie;Köp: 1 x Botanisk paj
+Select-trial;Välj-prov
+Deliver-rum;Leverera-rom
+Minimise;Minimera
+Exit trial;Avsluta rättegången
+Quick-reset trial;Testversion av snabbåterställning
+Reset trial;Återställ testperioden
+Buy: 1 x Strength amulet (t);Köp: 1 x Styrkeamulett (t)
+Deposit-1009;Insättning-1009
+Withdraw-1009;Återkalla-1009
+Sell: 27 x Sapphire ring;Sälj: 27 x Safirring
+Release all placeholders (2);Släpp alla platshållare (2)
+Default quantity: 1,009;Standardantal: 1 009
+Sell: 8 x Ring of wealth;Sälj: 8 x Ring of wealth
+Make <col=ff9040>Diamond amulet (u)</col>;Gör <col=ff9040>Diamond amulett (u)</col>
+Make <col=ff9040>Diamond ring</col>;Gör <col=ff9040>Diamantring</col>
+Buy: 1 x Dwellberries;Köp: 1 x Dwellberries
+Small net;Litet nät
+Make Party;Gör fest
+Friends/Clan Only;Endast vänner/klan
+View Party:;Visa fest:
+Flip;Flip
+Begin;Börja

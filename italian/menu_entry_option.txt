@@ -5223,3 +5223,137 @@ View <col=ff9040>Gauntlet Map</col>;Visualizza la <col=ff9040>Mappa del guanto</
 Pedal;Pedale
 Buy: 8 x Split log;Acquista: 8 tronchi spaccati
 Échanger avec;Scambiatore con
+Withdraw-12500;Prelievo-12500
+Deposit-12500;Deposito-12500
+Deposit-28;Deposito-28
+Buy: 400 x Aether rune;Acquista: 400 rune eteree
+Shape-Air;Forma-Aria
+Shape-Water;Forma-Acqua
+Shape-Fire;Fuoco di forma
+Shape-Earth;Forma-Terra
+Select Fragment 3;Seleziona il frammento 3
+Rotate the Fragment;Ruota il frammento
+Select Fragment 2;Seleziona Frammento 2
+Flip Fragment Over;Capovolgi il frammento
+Move Fragment Left;Sposta il frammento a sinistra
+Select Fragment 1;Seleziona il frammento 1
+Move Fragment Down;Sposta il frammento verso il basso
+Move Fragment Right;Sposta il frammento a destra
+Shape-Mind;Forma-Mente
+Move Fragment Up;Sposta il frammento in alto
+Withdraw-25000;Prelievo-25000
+Deposit-25000;Deposito-25000
+Withdraw-719;Ritiro-719
+Deposit-719;Deposito-719
+Charter-to Corsair Cove;Charter per Corsair Cove
+Withdraw-344;Ritiro-344
+Deposit-344;Deposito-344
+Withdraw-977;Ritiro-977
+Deposit-977;Deposito-977
+Default quantity: 977;Quantità predefinita: 977
+Withdraw-175000000;Ritiro-175000000
+Default quantity: 175,000,000;Quantità predefinita: 175.000.000
+Restore <col=ff9040>Minimap</col>;Ripristina <col=ff9040>Minimappa</col>
+Default quantity: 28;Quantità predefinita: 28
+Last-destination (DIR);Ultima destinazione (DIR)
+Enter-cloud;Entra nel cloud
+Submit;Invia
+Deposit-175000000;Deposito-175000000
+Buy: 1 x Water tiara;Acquista: 1 x tiara d'acqua
+Withdraw-130;Ritiro-130
+Deposit-130;Deposito-130
+Examine <col=ff981f>Mist rune;Esamina la <col=ff981f>Runa della nebbia
+Select <col=ff981f>Mist rune;Seleziona <col=ff981f>Runa della nebbia
+Sell: 100 x Cowhide;Vendi: 100 x Pelle bovina
+Sell: 1 x Bronze dagger;Vendo: 1 x pugnale di bronzo
+Buy: 1 x Rune pickaxe;Acquista: 1 piccone runico
+Default quantity: 2,121,212,121;Quantità predefinita: 2.121.212.121
+Withdraw-2121212121;Ritiro-2121212121
+Deposit-2121212121;Deposito-2121212121
+Sell: 41 x Big bones;Vendita: 41 x Ossa grandi
+Go-up;Vai su
+Buy: 1 x Swampbark armour set;Acquista: 1 set di armature di corteccia di palude
+Withdraw-106500;Prelievo-106500
+Deposit-106500;Deposito-106500
+Default quantity: 106,500;Quantità predefinita: 106.500
+Buy: 100 x Anchovy pizza;Acquista: 100 x Pizza alle acciughe
+Buy: 1 x Snakeskin bandana;Acquista: 1 bandana in pelle di serpente
+Buy: 100 x Blighted karambwan;Acquista: 100 x Karambwan rovinato
+Buy: 1 x Bandos tassets;Acquista: 1 nappa Bandos
+Buy: 1 x Red dragonhide set;Acquista: 1 set di pelle di drago rossa
+Buy: 1 x Zombie helmet;Acquista: 1 casco da zombi
+Swim-to;Nuota verso
+Buy: 1 x Teal boots;Acquista: 1 x stivali verde acqua
+Withdraw-8600;Prelievo-8600
+Deposit-8600;Deposito-8600
+Withdraw-160;Ritiro-160
+Deposit-160;Deposito-160
+Sell: 110 x Steel nails;Vendita: 110 x Chiodi in acciaio
+The Summer Shore;La riva estiva
+Deposit-1750;Deposito-1750
+Withdraw-1750;Ritiro-1750
+Quick-open;Apertura rapida
+Default quantity: 3,200;Quantità predefinita: 3.200
+View Slayer on the Wiki;Visualizza Slayer sul Wiki
+Wyrmscraig Cavern;Caverna Wyrmscraig
+Withdraw-5500;Prelievo-5500
+Deposit-6500;Deposito-6500
+Withdraw-6500;Prelievo-6500
+Deposit-5500;Deposito-5500
+Withdraw-680000;Prelievo-680000
+Scorch;Bruciore
+Flare;Bagliore
+Ring-last-destination (BLP);Chiama l'ultima destinazione (BLP)
+Zerstören;Zerstören
+Take-one;Prendine uno
+Default quantity: 15,000;Quantità predefinita: 15.000
+Withdraw-1899;Ritiro-1899
+Deposit-1899;Deposito-1899
+Buy: 5,000 x Air rune;Acquista: 5.000 rune dell'Aria
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐμÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Withdraw-45000;Prelievo-45000
+Deposit-45000;Deposito-45000
+Default quantity: 45,000;Quantità predefinita: 45.000
+Deposit-942;Deposito-942
+Withdraw-942;Ritiro-942
+Buy: 100 x Iron arrow;Acquista: 100 frecce di ferro
+Release all placeholders (20);Rilascia tutti i segnaposto (20)
+Withdraw-296;Ritiro-296
+Deposit-296;Deposito-296
+Default quantity: 296;Quantità predefinita: 296
+Buy: 30 x Blighted vengeance sack;Acquista: 30 x Sacco della vendetta rovinato
+Buy: 1 x Ring of recoil;Acquista: 1 x Anello di rinculo
+Buy: 1 x Black d'hide chaps;Acquista: 1 x Ghette in cuoio nero
+Default quantity: 12,000;Quantità predefinita: 12.000
+Buy: 10,000 x Nature rune;Acquista: 10.000 rune della natura
+Cross-bridge;Ponte trasversale
+Withdraw-340;Ritiro-340
+Deposit-340;Deposito-340
+Default quantity: 340;Quantità predefinita: 340
+Store-1,000;Negozio-1.000
+Release all placeholders (7);Rilascia tutti i segnaposto (7)
+Remove <col=ff981f>Dragonstone bolts (e);Rimuovi i <col=ff981f>bulloni di Dragonstone (e)
+Buy: 1 x Botanical pie;Acquista: 1 x Torta botanica
+Select-trial;Prova selettiva
+Deliver-rum;Consegna-rum
+Minimise;Minimizzare
+Exit trial;Esci dal processo
+Quick-reset trial;Prova di ripristino rapido
+Reset trial;Reimposta la prova
+Buy: 1 x Strength amulet (t);Acquista: 1 x Amuleto della forza (t)
+Deposit-1009;Deposito-1009
+Withdraw-1009;Ritiro-1009
+Sell: 27 x Sapphire ring;Vendita: 27 anelli con zaffiro
+Release all placeholders (2);Rilascia tutti i segnaposto (2)
+Default quantity: 1,009;Quantità predefinita: 1.009
+Sell: 8 x Ring of wealth;Vendi: 8 x Anello della ricchezza
+Make <col=ff9040>Diamond amulet (u)</col>;Crea <col=ff9040>Amuleto di diamanti (u)</col>
+Make <col=ff9040>Diamond ring</col>;Realizza <col=ff9040>Anello con diamanti</col>
+Buy: 1 x Dwellberries;Acquista: 1 x Dwellberry
+Small net;Piccola rete
+Make Party;Fai festa
+Friends/Clan Only;Solo amici/clan
+View Party:;Visualizza festa:
+Flip;Capovolgi
+Begin;Inizio
