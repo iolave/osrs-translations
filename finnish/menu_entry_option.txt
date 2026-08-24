@@ -5223,3 +5223,137 @@ View <col=ff9040>Gauntlet Map</col>;Näytä <col=ff9040>Gauntlet-kartta</col>
 Pedal;Polkea
 Buy: 8 x Split log;Osta: 8 x Halkaistu hirsi
 Échanger avec;Échanger avec
+Withdraw-12500;Nosto-12500
+Deposit-12500;Talletus 12 500
+Deposit-28;Talletus-28
+Buy: 400 x Aether rune;Osta: 400 x eetterirune
+Shape-Air;Muoto-ilma
+Shape-Water;Muoto-Vesi
+Shape-Fire;Muoto-Tulo
+Shape-Earth;Muoto-Maa
+Select Fragment 3;Valitse Fragmentti 3
+Rotate the Fragment;Pyöritä fragmenttia
+Select Fragment 2;Valitse Fragmentti 2
+Flip Fragment Over;Käännä fragmentti ympäri
+Move Fragment Left;Siirrä fragmenttia vasemmalle
+Select Fragment 1;Valitse Fragmentti 1
+Move Fragment Down;Siirrä fragmentti alas
+Move Fragment Right;Siirrä fragmenttia oikealle
+Shape-Mind;Muoto-mieli
+Move Fragment Up;Siirrä fragmentti ylös
+Withdraw-25000;Nosto - 25 000
+Deposit-25000;Talletus - 25 000
+Withdraw-719;Nosto-719
+Deposit-719;Talletus-719
+Charter-to Corsair Cove;Charter-matka Corsair Coveen
+Withdraw-344;Nosto-344
+Deposit-344;Talletus-344
+Withdraw-977;Nosto-977
+Deposit-977;Talletus-977
+Default quantity: 977;Oletusmäärä: 977
+Withdraw-175000000;Nosto-175000000
+Default quantity: 175,000,000;Oletusmäärä: 175 000 000
+Restore <col=ff9040>Minimap</col>;Palauta <col=ff9040>pienikartta</col>
+Default quantity: 28;Oletusmäärä: 28
+Last-destination (DIR);Viimeinen määränpää (DIR)
+Enter-cloud;Enter-pilvi
+Submit;Lähetä
+Deposit-175000000;Talletus 175000000
+Buy: 1 x Water tiara;Osta: 1 x vesitiara
+Withdraw-130;Nosto-130
+Deposit-130;Talletus - 130
+Examine <col=ff981f>Mist rune;Tutki <col=ff981f>Sumurune
+Select <col=ff981f>Mist rune;Valitse <col=ff981f>Sumurune
+Sell: 100 x Cowhide;Myynti: 100 x lehmännahka
+Sell: 1 x Bronze dagger;Myydään: 1 x pronssitikari
+Buy: 1 x Rune pickaxe;Osta: 1 x riimuhakku
+Default quantity: 2,121,212,121;Oletusmäärä: 2 121 212 121
+Withdraw-2121212121;Nosto-2121212121
+Deposit-2121212121;Talletus-2121212121
+Sell: 41 x Big bones;Myydään: 41 x isot luut
+Go-up;Nouse ylös
+Buy: 1 x Swampbark armour set;Osta: 1 x Swampbark panssarisarja
+Withdraw-106500;Nosto-106500
+Deposit-106500;Talletus 106 500
+Default quantity: 106,500;Oletusmäärä: 106 500
+Buy: 100 x Anchovy pizza;Osta: 100 x anjovispizza
+Buy: 1 x Snakeskin bandana;Osta: 1 x Snakeskin huivi
+Buy: 100 x Blighted karambwan;Osta: 100 x Blighted karambwan
+Buy: 1 x Bandos tassets;Osta: 1 x Bandos-tassetit
+Buy: 1 x Red dragonhide set;Osta: 1 x Red Dragonhide setti
+Buy: 1 x Zombie helmet;Osta: 1 x Zombie-kypärä
+Swim-to;Uimaan
+Buy: 1 x Teal boots;Osta: 1 x sinivihreät saappaat
+Withdraw-8600;Nosto-8600
+Deposit-8600;Talletus 8600
+Withdraw-160;Nosto-160
+Deposit-160;Talletus - 160
+Sell: 110 x Steel nails;Myydään: 110 x teräsnaulat
+The Summer Shore;Kesä Ranta
+Deposit-1750;Talletus 1750
+Withdraw-1750;Nosto-1750
+Quick-open;Pika-avattava
+Default quantity: 3,200;Oletusmäärä: 3 200
+View Slayer on the Wiki;Katso Slayer Wikissä
+Wyrmscraig Cavern;Wyrmscraig-luola
+Withdraw-5500;Nosto-5500
+Deposit-6500;Talletus - 6500
+Withdraw-6500;Nosto-6500
+Deposit-5500;Talletus - 5500
+Withdraw-680000;Nosto - 680 000
+Scorch;Paahtaa
+Flare;Leimahdus
+Ring-last-destination (BLP);Ring-last-destination (BLP)
+Zerstören;Zerstören
+Take-one;Ota yksi
+Default quantity: 15,000;Oletusmäärä: 15 000
+Withdraw-1899;Nosto-1899
+Deposit-1899;Talletus-1899
+Buy: 5,000 x Air rune;Osta: 5 000 x ilmarune
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐµÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Withdraw-45000;Nosto-45 000
+Deposit-45000;Talletus - 45 000
+Default quantity: 45,000;Oletusmäärä: 45 000
+Deposit-942;Talletus-942
+Withdraw-942;Nosto-942
+Buy: 100 x Iron arrow;Osta: 100 x rautanuoli
+Release all placeholders (20);Vapauta kaikki paikkamerkit (20)
+Withdraw-296;Nosto-296
+Deposit-296;Talletus - 296
+Default quantity: 296;Oletusmäärä: 296
+Buy: 30 x Blighted vengeance sack;Osta: 30 x Blighted kostosäkki
+Buy: 1 x Ring of recoil;Osta: 1 x rekyylirengas
+Buy: 1 x Black d'hide chaps;Osta: 1 x Black d'hide chaps
+Default quantity: 12,000;Oletusmäärä: 12 000
+Buy: 10,000 x Nature rune;Osta: 10 000 x Nature rune
+Cross-bridge;Ristisilta
+Withdraw-340;Nosto-340
+Deposit-340;Talletus - 340
+Default quantity: 340;Oletusmäärä: 340
+Store-1,000;Kauppa - 1000
+Release all placeholders (7);Vapauta kaikki paikkamerkit (7)
+Remove <col=ff981f>Dragonstone bolts (e);Poista <col=ff981f>Dragonstone-pultit (e)
+Buy: 1 x Botanical pie;Osta: 1 x kasvitieteellinen piirakka
+Select-trial;Valitse-kokeilu
+Deliver-rum;Toimita rommi
+Minimise;Minimoida
+Exit trial;Poistu kokeilusta
+Quick-reset trial;Pikareset-kokeilu
+Reset trial;Nollaa kokeilu
+Buy: 1 x Strength amulet (t);Osta: 1 x Strength amulet (t)
+Deposit-1009;Talletus-1009
+Withdraw-1009;Nosto-1009
+Sell: 27 x Sapphire ring;Myydään: 27 x safiirisormus
+Release all placeholders (2);Vapauta kaikki paikkamerkit (2)
+Default quantity: 1,009;Oletusmäärä: 1 009
+Sell: 8 x Ring of wealth;Myy: 8 x Ring of Wealth
+Make <col=ff9040>Diamond amulet (u)</col>;Tee <col=ff9040>Timanttiamuletti (u)</col>
+Make <col=ff9040>Diamond ring</col>;Tee <col=ff9040>timanttisormus</col>
+Buy: 1 x Dwellberries;Osta: 1 x Dwellberries
+Small net;Pieni verkko
+Make Party;Tee juhlat
+Friends/Clan Only;Vain ystävät/klaanit
+View Party:;Näytä juhlat:
+Flip;Kääntää
+Begin;Alkaa
