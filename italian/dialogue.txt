@@ -149956,3 +149956,8 @@ Bueno, alguien se lo bebiÃ³... eso no saliÃ³ tan bien.;Bueno, alguien se lo 
 Â¿Has probado...?;Â¿Ha probado...?
 Â¿QuÃ© pasÃ³? Â¿QuiÃ©n fue? Â¿EstÃ¡n bien?;Â¿Qué pasó? Â¿Quién fue? Â¿Están bien?
 No estamos del todo seguros. Estoy aquÃ­ para estudiarlo y descubrir precisamente eso.;Non siamo del tutto sicuro. Estoy aquà para estudiarlo y descubrir precisamente questo.
+142.;142. 
+101.;101. 
+210.;210. 
+9;9 
+12;12 
