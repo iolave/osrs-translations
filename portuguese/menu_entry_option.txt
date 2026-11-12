@@ -5357,3 +5357,4 @@ Friends/Clan Only;Somente amigos/clã
 View Party:;Ver festa:
 Flip;Virar
 Begin;Começar
+0;0 
